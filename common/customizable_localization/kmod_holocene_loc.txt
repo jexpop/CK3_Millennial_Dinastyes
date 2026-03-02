@@ -1,0 +1,12 @@
+﻿cl_holocene_suffix = {
+    type = character
+
+    text = {
+        trigger = { current_year < 10000 }
+        localization_key = holocene_ac
+    }
+    text = {
+        fallback = yes
+        localization_key = holocene_dc
+    }
+}

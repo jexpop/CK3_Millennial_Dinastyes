@@ -1,0 +1,532 @@
+﻿d_zanzibar = {
+	10863.1.1 = {
+		holder = zanzibar_unguja_01
+	}
+	10900.1.1 = {
+		holder = zanzibar_unguja_02
+	}
+	10930.1.1 = {
+		holder = zanzibar_unguja_03
+	}
+	10960.1.1 = {
+		holder = zanzibar_unguja_04
+	}
+	10965.1.1 = {
+		holder = zanzibar_unguja_05
+	}
+	10985.1.1 = {
+		holder = zanzibar_unguja_06
+	}
+	11006.1.1 = {
+		holder = zanzibar_unguja_07
+	}
+	11045.1.1 = {
+		holder = zanzibar_unguja_08
+	}
+	11064.1.1 = {
+		holder = zanzibar_unguja_09
+	}
+	11101.1.1 = {
+		holder = zanzibar_unguja_10
+	}
+	11115.1.1 = {
+		holder = zanzibar_unguja_11
+	}
+	11149.1.1 = {
+		holder = zanzibar_unguja_12
+	}
+}
+
+c_zanzibar = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+
+	10863.1.1 = {
+		liege = "d_zanzibar"
+		holder = zanzibar_unguja_01
+	}
+	10900.1.1 = {
+		holder = zanzibar_unguja_02
+	}
+	10930.1.1 = {
+		holder = zanzibar_unguja_03
+	}
+	10960.1.1 = {
+		holder = zanzibar_unguja_04
+	}
+	10965.1.1 = {
+		holder = zanzibar_unguja_05
+	}
+	10985.1.1 = {
+		holder = zanzibar_unguja_06
+	}
+	11006.1.1 = {
+		holder = zanzibar_unguja_07
+	}
+	11045.1.1 = {
+		holder = zanzibar_unguja_08
+	}
+	11064.1.1 = {
+		holder = zanzibar_unguja_09
+	}
+	11101.1.1 = {
+		holder = zanzibar_unguja_10
+	}
+	11115.1.1 = {
+		holder = zanzibar_unguja_11
+	}
+	11149.1.1 = {
+		holder = zanzibar_unguja_12
+	}
+}
+
+c_pemba = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+
+	10860.1.1 = {
+		liege = 0
+		holder = pemba_tumbe_01
+	}
+	10890.1.1 = {
+		liege = 0
+		holder = pemba_tumbe_02
+	}
+	10916.1.1 = {
+		holder = pemba_tumbe_03
+	}
+	10945.1.1 = {
+		holder = pemba_tumbe_04
+	}
+	10975.1.1 = {
+		holder = pemba_tumbe_05
+	}
+	10995.1.1 = {
+		holder = pemba_tumbe_06
+	}
+	11030.1.1 = {
+		holder = pemba_tumbe_07
+	}
+	11062.1.1 = {
+		holder = pemba_tumbe_08
+	}
+	11095.1.1 = {
+		holder = pemba_tumbe_09
+	}
+	11114.4.14 = {
+		holder = pemba_tumbe_10
+	}
+	11145.1.1 = {
+		holder = pemba_tumbe_11
+	}
+	11173.1.1 = {
+		holder = pemba_tumbe_12
+	}
+}
+
+c_mrima = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 10 }
+
+	10863.1.1 = {
+		liege = "d_zanzibar"
+		holder = zanzibar_unguja_01
+	}
+	10900.1.1 = {
+		holder = zanzibar_unguja_02
+	}
+	10930.1.1 = {
+		holder = zanzibar_unguja_03
+	}
+	10960.1.1 = {
+		holder = zanzibar_unguja_04
+	}
+	10965.1.1 = {
+		holder = zanzibar_unguja_05
+	}
+	10985.1.1 = {
+		holder = zanzibar_unguja_06
+	}
+	11006.1.1 = {
+		holder = zanzibar_unguja_07
+	}
+	11045.1.1 = {
+		holder = zanzibar_unguja_08
+	}
+	11064.1.1 = {
+		holder = zanzibar_unguja_09
+	}
+	11101.1.1 = {
+		holder = zanzibar_unguja_10
+	}
+	11115.1.1 = {
+		holder = zanzibar_unguja_11
+	}
+	11149.1.1 = {
+		holder = zanzibar_unguja_12
+	}
+}
+
+c_tanga = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 4 }
+	11178.1.1 = { change_development_level = 8 }
+
+	10861.1.1 = {
+		liege = 0
+		holder = digo_leader_867
+	}
+
+	11061.1.1 = {
+		liege = 0
+		holder = digo_leader_1066
+	}
+
+	# Falls into Pemba control from 12 century onwards
+	11100.1.1 = {
+		holder = pemba_tumbe_09
+	}
+	11114.4.14 = {
+		holder = pemba_tumbe_10
+	}
+	11145.1.1 = {
+		holder = pemba_tumbe_11
+	}
+	11173.1.1 = {
+		holder = pemba_tumbe_12
+	}
+}
+
+c_mombasa = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 7 }
+	11178.1.1 = { change_development_level = 16 }
+
+	10862.1.1 = {
+		holder = mwana_mkisi_of_mombasa
+	}
+	10865.1.1 = {
+		liege = "d_mombasa"
+		holder = mombasa_jomvu_01 # Shehe Mvita marries Mwana Mkisi and gains Mombasa as the dowry
+	}
+	10920.1.1 = {
+		holder = mombasa_jomvu_02
+	}
+	10935.1.1 = {
+		holder = mombasa_jomvu_03
+	}
+	10965.1.1 = {
+		holder = mombasa_jomvu_04
+	}
+	11000.1.1 = {
+		holder = mombasa_jomvu_05
+	}
+	11025.1.1 = {
+		holder = mombasa_jomvu_06
+	}
+	11060.1.1 = {
+		holder = mombasa_jomvu_07
+	}
+	11090.1.1 = {
+		holder = mombasa_jomvu_08
+	}
+	11130.1.1 = {
+		holder = mombasa_jomvu_09
+	}
+	11157.1.1 = {
+		holder = mombasa_jomvu_10
+	}
+}
+
+d_mombasa = {
+	10865.1.1 = {
+		holder = mombasa_jomvu_01 # Shehe Mvita marries Mwana Mkisi and gains Mombasa as the dowry
+	}
+	10920.1.1 = {
+		holder = mombasa_jomvu_02
+	}
+	10935.1.1 = {
+		holder = mombasa_jomvu_03
+	}
+	10965.1.1 = {
+		holder = mombasa_jomvu_04
+	}
+	11000.1.1 = {
+		holder = mombasa_jomvu_05
+	}
+	11025.1.1 = {
+		holder = mombasa_jomvu_06
+	}
+	11060.1.1 = {
+		holder = mombasa_jomvu_07
+	}
+	11090.1.1 = {
+		holder = mombasa_jomvu_08
+	}
+	11130.1.1 = {
+		holder = mombasa_jomvu_09
+	}
+	11157.1.1 = {
+		holder = mombasa_jomvu_10
+	}
+}
+
+c_malindi = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 10 }
+
+	10858.1.1 = {
+		liege = 0
+		holder = swahili_malindi_01
+	}
+	10890.1.1 = {
+		liege = 0
+		holder = swahili_malindi_02
+	}
+	10920.1.1 = {
+		holder = swahili_malindi_03
+	}
+	10940.1.1 = {
+		holder = swahili_malindi_04
+	}
+	10980.1.1 = {
+		holder = swahili_malindi_05
+	}
+	11005.1.1 = {
+		holder = swahili_malindi_06
+	}
+	11023.4.5 = {
+		holder = swahili_malindi_07
+	}
+	11055.1.1 = {
+		holder = swahili_malindi_08
+	}
+	11077.6.6 = {
+		holder = swahili_malindi_09
+	}
+	11111.1.1 = {
+		holder = swahili_malindi_10
+	}
+	11132.1.2 = {
+		holder = swahili_malindi_11
+	}
+	11166.10.1 = {
+		holder = swahili_malindi_12
+	}
+}
+
+c_lamu = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 7 }
+	11178.1.1 = { change_development_level = 16 }
+
+	# placeholder rulers of Lamu. "Yumbe" just means "Ruler's Home", "wa Yumbe" should translate to "of the Ruler's Home"
+	10850.1.1 = {
+		holder = mngwana_wa_yumbe_of_lamu_01
+	}
+	10890.1.1 = {
+		holder = mngwana_wa_yumbe_of_lamu_02
+	}
+	10930.1.1 = {
+		holder = mngwana_wa_yumbe_of_lamu_03
+	}
+	10965.1.1 = {
+		holder = mngwana_wa_yumbe_of_lamu_04
+	}
+	10975.1.1 = {
+		holder = mngwana_wa_yumbe_of_lamu_05
+	}
+	11010.1.1 = {
+		holder = mngwana_wa_yumbe_of_lamu_06
+	}
+	11024.1.1 = {
+		holder = mngwana_wa_yumbe_of_lamu_07
+	}
+	11050.1.1 = {
+		holder = mngwana_wa_yumbe_of_lamu_08
+	}
+	11075.1.1 = {
+		holder = mngwana_wa_yumbe_of_lamu_09
+	}
+	11105.1.1 = {
+		holder = mngwana_wa_yumbe_of_lamu_10
+	}
+	11135.1.1 = {
+		holder = mngwana_wa_yumbe_of_lamu_11
+	}
+	11166.1.1 = {
+		holder = mngwana_wa_yumbe_of_lamu_12
+	}
+}
+
+c_pate = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 7 }
+	11178.1.1 = { change_development_level = 16 }
+
+
+	# Placeholder kings of Pate. The Famau were present in Siyu until the 19th century, and the last pre-Nabhani rule of Pate in 1202 was a Famau
+	10865.1.1 = {
+		holder = famau_of_pate_01
+	}
+	10880.1.1 = {
+		holder = famau_of_pate_02
+	}
+	10930.1.1 = {
+		holder = famau_of_pate_03
+	}
+	10965.1.1 = {
+		holder = famau_of_pate_04
+	}
+	11000.1.1 = {
+		liege = "d_pate" # elevating Pate's status for 1066 and 1178
+		holder = famau_of_pate_05
+	}
+	11035.1.1 = {
+		holder = famau_of_pate_06
+	}
+	11070.1.1 = {
+		holder = famau_of_pate_07
+	}
+	11095.1.1 = {
+		holder = famau_of_pate_08
+	}
+	11130.1.1 = {
+		holder = famau_of_pate_09
+	}
+	11165.1.1 = {
+		holder = famau_of_pate_11
+	}
+	11205.1.1 = {
+		holder = famau_of_pate_12
+	}
+}
+
+d_pate = {
+	# elevating Pate's status for 1066 and 1178
+	11000.1.1 = {
+		holder = famau_of_pate_05
+	}
+	11035.1.1 = {
+		holder = famau_of_pate_06
+	}
+	11070.1.1 = {
+		holder = famau_of_pate_07
+	}
+	11095.1.1 = {
+		holder = famau_of_pate_08
+	}
+	11130.1.1 = {
+		holder = famau_of_pate_09
+	}
+	11165.1.1 = {
+		holder = famau_of_pate_11
+	}
+	11205.1.1 = {
+		holder = famau_of_pate_12
+	}	
+}
+
+c_ewaso_ngiro = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 4 }
+
+	10863.1.1 = {
+		holder = somali_ewaso_ngiro_01
+	}
+	10905.1.1 = {
+		holder = somali_ewaso_ngiro_02
+	}
+	10940.1.1 = {
+		holder = somali_ewaso_ngiro_03
+	}
+	10975.1.1 = {
+		holder = somali_ewaso_ngiro_04
+	}
+	11010.1.1 = {
+		holder = somali_ewaso_ngiro_05
+	}
+	11045.1.1 = {
+		holder = somali_ewaso_ngiro_06
+	}
+	11090.1.1 = {
+		holder = somali_ewaso_ngiro_07
+	}
+	11125.1.1 = {
+		holder = somali_ewaso_ngiro_08
+	}
+	11160.1.1 = {
+		holder = somali_ewaso_ngiro_09
+	}
+}
+
+d_bonde_la_ufa = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 4 }
+}
+
+c_mto_galana = {
+	10862.1.1 = {
+		holder = taita_leader_867
+	}
+	11055.1.1 = {
+		holder = taita_leader_1066
+	}
+	11175.1.1 = {
+		holder = taita_leader_1178
+	}
+}
+
+c_mto_tana = {
+	10866.1.1 = {
+		holder = giriama_leader_867
+	}
+	11064.1.1 = {
+		holder = giriama_leader_1066
+	}
+	11177.1.1 = {
+		holder = giriama_leader_1178
+	}
+}
+
+c_taveta = {
+	10864.1.1 = {
+		holder = taveta_leader_867
+	}
+	11050.1.1 = {
+		holder = taveta_leader_1066
+	}
+	11169.1.1 = {
+		holder = taveta_leader_1178
+	}
+}
+
+c_kirinyaga = {
+	10865.1.1 = {
+		holder = kirinyaga_leader_867
+	}
+	11065.1.1 = {
+		holder = kirinyaga_leader_1066
+	}
+	11176.1.1 = {
+		holder = kirinyaga_leader_1178
+	}
+}
+
+c_kilimanjaro = {
+	10861.1.1 = {
+		holder = kilimanjaro_leader_867
+	}
+	11052.1.1 = {
+		holder = kilimanjaro_leader_1066
+	}
+	11166.1.1 = {
+		holder = kilimanjaro_leader_1178
+	}
+}

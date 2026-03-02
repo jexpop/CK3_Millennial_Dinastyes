@@ -1,0 +1,1666 @@
+﻿k_syr_darya = {
+	10867.1.1 = { change_development_level = 0 }
+	11066.1.1 = { change_development_level = 0 }
+	11178.1.1 = { change_development_level = 0 }
+
+	11178.1.1 = {
+		holder = 144122 # Ibrahim b. Husayn
+		liege = "e_kara_khitai"
+		de_jure_liege = e_kara_khitai
+	}
+}
+
+d_syr_darya = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 4 }
+	11178.1.1 = { change_development_level = 7 }
+	
+	10850.1.1 = {
+		liege = k_oghuz_il
+		holder = 1000230101	#Bozoq, representing the Kinik/the proto-Seljuk
+		government = nomad_government
+	}
+	
+	11066.1.1 = {
+		holder = 0
+		liege = 0
+	}
+}
+
+c_jend = {
+	10867.1.1 = { change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10850.1.1 = {
+		liege = d_syr_darya
+		holder = 1000230101	#Bozoq, representing the Kinik/the proto-Seljuk
+		government = nomad_government
+	}
+	
+	#1066 start
+	11066.1.1 = {
+		holder = 93087
+		liege = 0
+	}
+	11178.1.1 = {
+		holder = 93052
+		liege = d_aral_il
+	}
+	11207.1.1 = {
+		holder = 93053
+		# government = nomad_government
+	}
+	11221.1.1 = {
+		liege = e_mongol_empire
+	}
+	11221.1.1 = {
+		holder = 93100
+	}
+	11227.12.2 = {
+		liege = e_golden_horde
+	}
+	11260.1.1 = {
+		holder = 93101
+	}
+	11300.1.1 = {
+		holder = 93102
+	}
+}
+
+c_sighnaq = {
+	10850.1.1 = {
+		liege = d_syr_darya
+		holder = 1000230101	#Bozoq, representing the Kinik/the proto-Seljuk
+		government = nomad_government
+	}
+	
+	#1066 start
+	11052.1.1 = {
+		liege = 0
+		holder = fictional_kipchaks_26	#fictional herder
+		government = herder_government
+	}
+	11099.2.16 = {
+		holder = 302648	#fictional Kutan Shavgari
+		# government = nomad_government
+	}
+	11124.7.5 = {
+		holder = 302649	#fictional Pulad Shavgari
+	}
+	11148.1.23 = {
+		holder = 302650	#fictional BO_nek Shavgari
+	}
+	11173.4.3 = {
+		holder = 144122 # the Qarakhanid ruler in Uzgend, Ibrahim b. Husayn
+	}
+	11178.1.1 = {
+		holder = karakhanid_3 # Ahmad, attested in Uzgend from 1178
+		liege = k_syr_darya
+	}
+	11209.2.17 = {
+		holder = 302652	#fictional Koza Shavgari
+	}
+}
+
+
+c_uzgend_KARA = {
+	10850.1.1 = {
+		liege = d_syr_darya
+		holder = 1000230101	#Bozoq, representing the Kinik/the proto-Seljuk
+		government = nomad_government
+	}
+	
+	#1066 start
+	11052.1.1 = {
+		liege = 0
+		holder = 302647	#fictional Aepak Shavgari
+	}
+	11099.2.16 = {
+		holder = 302648	#fictional Kutan Shavgari
+	}
+	11124.7.5 = {
+		holder = 302649	#fictional Pulad Shavgari
+	}
+	11148.1.23 = {
+		holder = 302650	#fictional BO_nek Shavgari
+	}
+	11173.4.3 = {
+		holder = 144122 # the Qarakhanid ruler in Uzgend, Ibrahim b. Husayn
+	}
+	11178.1.1 = {
+		holder = karakhanid_3 # Ahmad, attested here from 1178
+		liege = k_syr_darya
+	}
+	11209.2.17 = {
+		holder = 302652	#fictional Koza Shavgari
+	}
+}
+
+
+d_chah = {
+	10867.1.1 = { change_development_level = 3 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 8 }
+	
+	#Chah within the Samanid in 867
+	10849.1.2 = {
+		holder = 188639	#Yahya Samanid 
+		#liege = k_transoxiana	#Samanid
+		government = clan_government
+	}
+	10855.3.2 = {
+		holder = extra_samanids_17 #Muhammed ibn Nuh
+	}
+	10867.1.1 = {
+		liege = k_transoxiana
+	}
+	10882.1.9 = {
+		holder = 302688	#fictional Dogan Shahn
+	}
+	10999.1.1 = {
+		liege = k_transoxiana
+		holder = 3002
+	}
+	#Chah within the Karakhanid in 1066
+	11060.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		liege = k_transoxiana
+	}
+	11068.1.2 = {
+		liege = k_zhetysu
+	}
+	11074.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		liege = k_transoxiana
+	}
+	11093.1.2 = {
+		holder = 302694	#fictional Saru Karachahnid
+	}
+	11109.7.14 = {
+		holder = 302695	#fictional Ituk Karachahnid
+	}
+	11132.7.19 = {
+		holder = 302696	#fictional Kobyak Karachahnid
+	}
+	11178.1.1 = {
+		holder = 144122 # Ibrahim
+	}
+	11181.1.13 = {
+		holder = 302697	#fictional KO_nC_ek Karachahnid
+	}
+	11196.9.26 = {
+		holder = 302698	#fictional Girgen Karachahnid
+	}
+	
+	#Mongols
+	11220.2.1 = {
+		liege = e_mongol_empire
+		holder = 125501
+	}
+	11227.12.2 = {
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_chah = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	#Chah within the Samanid in 867
+	10849.1.2 = {
+		holder = 188639	#Yahya Samanid 
+		government = clan_government
+	}
+	10855.3.2 = {
+		holder = extra_samanids_17 #Muhammed ibn Nuh
+	}
+	10882.1.9 = {
+		holder = 302688	#fictional Dogan Shahn
+	}
+	10999.1.1 = {
+		liege = k_transoxiana
+		holder = 3002
+	}
+	
+	#Chah within the Karakhanid in 1066
+	11060.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		#top liege = k_transoxiana
+	}
+	#11068.1.2 = {
+	#	#top liege = k_zhetysu
+	#}
+	11074.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		#top liege = k_transoxiana
+		government = nomad_government
+	}
+	11093.1.2 = {
+		holder = 302694	#fictional Saru Karachahnid
+	}
+	11109.7.14 = {
+		holder = 302695	#fictional Ituk Karachahnid
+	}
+	11132.7.19 = {
+		holder = 302696	#fictional Kobyak Karachahnid
+	}
+	11178.1.1 = {
+		holder = 144122 # Ibrahim b. Husayn
+	}
+	11181.1.13 = {
+		holder = 302697	#fictional KO_nC_ek Karachahnid
+	}
+	11196.9.26 = {
+		holder = 302698	#fictional Girgen Karachahnid
+	}
+	
+	#Mongols
+	11220.2.1 = {
+		liege = e_mongol_empire
+		holder = 125501
+	}
+	11227.12.2 = {
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_otrar = {
+	#Chah within the Samanid in 867
+	10849.1.2 = {
+		holder = 302686	#fictional Aksonqor Shahn
+		liege = d_chah
+		government = nomad_government
+	}
+	10882.1.9 = {
+		holder = 302688	#fictional Dogan Shahn
+	}
+	
+	#Chah within the Karakhanid in 1066
+	11060.1.2 = {
+		holder = fictional_karluks_14 #fictional herder
+		#top liege = k_transoxiana
+		government = herder_government
+	}
+	#11068.1.2 = {
+	#	#top liege = k_zhetysu
+	#}
+	11074.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		#top liege = k_transoxiana
+		government = nomad_government
+	}
+	11093.1.2 = {
+		holder = 302694	#fictional Saru Karachahnid
+	}
+	11109.7.14 = {
+		holder = 302695	#fictional Ituk Karachahnid
+	}
+	11132.7.19 = {
+		holder = 302696	#fictional Kobyak Karachahnid
+	}
+	11178.1.1 = {
+		holder = 144122 # Ibrahim b. Husayn
+	}
+	11181.1.13 = {
+		holder = 302697	#fictional KO_nC_ek Karachahnid
+	}
+	11196.9.26 = {
+		holder = 302698	#fictional Girgen Karachahnid
+	}
+	
+	#Mongols
+	11220.2.1 = {
+		liege = e_mongol_empire
+		holder = 125501
+	}
+	11227.12.2 = {
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_shavgar = {
+	10850.1.1 = {
+		liege = k_oghuz_il
+		holder = 302642	#fictional Yunus Shavgari
+		government = tribal_government
+	}
+	10876.5.22 = {
+		holder = 302644	#fictional Yinal Shavgari
+	}
+	
+	#1066 start
+	11052.1.1 = {
+		liege = 0
+		government = nomad_government
+		holder = 302647	#fictional Aepak Shavgari
+	}
+	11099.2.16 = {
+		holder = 302648	#fictional Kutan Shavgari
+	}
+	11124.7.5 = {
+		holder = 302649	#fictional Pulad Shavgari
+	}
+	
+	#1137 Shavgar to Kara Khitai
+	11137.1.2 = {
+		holder = 144118
+	}
+	11141.1.1 = {
+		holder = 144119
+	}
+	11156.1.1 = {
+		holder = 144120
+	}
+	11161.1.1 = {
+		holder = 144121
+	}
+	11178.1.1 = {
+		holder = 144122
+	}
+	11204.1.1 = {
+		holder = 93051
+	}
+	11212.1.1 = {
+		holder = 93053
+	}
+	11220.2.1 = {
+		liege = e_mongol_empire
+		holder = 125501
+	}
+	11227.12.2 = {
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_sutkend = {
+	#Chah within the Samanid in 867
+	10849.1.2 = {
+		holder = 188639	#Yahya Samanid 
+		#liege = k_transoxiana	#Samanid
+		government = tribal_government
+	}
+	10855.3.2 = {
+		holder = extra_samanids_5 #Ya'qub 
+		liege = d_chah
+	}
+	10882.1.9 = {
+		holder = 302688	#fictional Dogan Shahn
+	}
+	
+	#Chah within the Karakhanid in 1066
+	11060.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		government = clan_government
+		#top liege = k_transoxiana
+	}
+	#11068.1.2 = {
+	#	#top liege = k_zhetysu
+	#}
+	11074.1.2 = {
+		holder = 302692	#fictional Mala Karachahnid
+		#top liege = k_transoxiana
+	}
+	11093.1.2 = {
+		holder = 302694	#fictional Saru Karachahnid
+	}
+	11109.7.14 = {
+		holder = 302695	#fictional Ituk Karachahnid
+	}
+	11132.7.19 = {
+		holder = 302696	#fictional Kobyak Karachahnid
+	}
+	11178.1.1 = {
+		holder = fictional_karluks_9 # fictional herder
+		liege = k_syr_darya
+		government = herder_government
+	}	
+	#1137 - Kara Khitai invasion
+	11181.1.13 = {
+		holder = 302697	#fictional KO_nC_ek Karachahnid
+		government = nomad_government
+	}
+	11196.9.26 = {
+		holder = 302698	#fictional Girgen Karachahnid
+	}
+	
+	#Mongols
+	11220.2.1 = {
+		liege = e_mongol_empire
+		holder = 125501
+	}
+	11227.12.2 = {
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+d_muyunkum = {
+	#As core of the Karakhanids
+	10860.1.1 = {
+		liege = k_zhetysu
+		holder = 34872	#Bilge Khan
+		government = nomad_government
+	}
+	10893.1.1 = {
+		holder = 188851	#Bazir Arslan Khan
+	}
+	10920.1.1 = {
+		holder = 188852	#Oghulchak Arslan Khan
+	}
+	10940.1.1 = {
+		holder = 188853	#Satuk Bughra Khan
+	}
+	10955.1.1 = {
+		holder = 188854bis	#Musa Bughra Khan
+	}
+	10958.1.1 = {
+		holder = 188854	#Suleyman-Arslan
+	}
+	#960 Karakhanids convert to Islam
+	#Conversion to Islam probably started before, but this year is reported as seeing mass conversions in the hundred of thousands
+	10970.1.1 = {
+		holder = 3000	#Ali Arslan Khan
+	}
+	10998.1.1 = {
+		holder = 3002	#Ahmad Arslan
+	}
+	11017.1.1 = {
+		holder = 3004	#Mansur Arslan
+	}
+	11020.1.1 = {
+		holder = 3010	#Ali Tigin Bughra Khan, son of Mansur Arslan
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	
+	#Split of Karakhanid khanate
+	#Western Karakhanid set to k_transoxiana, eastern Karakhanid set to k_zhetysu
+	11042.1.2 = {
+		holder = 144102 # Sulayman II AKA Ebu Shuca
+	}
+	11056.1.1 = {
+		holder = 144103	#Muhammad
+	}
+	11057.1.1 = {
+		holder = 144104	#Ibrahim
+	}
+	11059.1.1 = {
+		holder = 144107 # Ebu Ali el-Hasan
+	}
+	11102.1.1 = {
+		holder = 144114 # Ahmad
+	}
+	11128.1.1 = {
+		holder = 144115 # Ibrahim
+	}
+	
+	#1137 Kara Khitai
+	11137.1.1 = {
+		#liege = d_samarkand # Kara Khitan conquest
+	}
+	11160.1.1 = {
+		holder = 188847
+	}
+	11178.1.1 = {
+		holder = 188855 # Muhammad
+	}
+	11185.1.1 = {
+		holder = 188848
+	}
+	11210.1.1 = {
+		holder = 188849
+	}
+	11218.1.1 = {
+		liege = 0
+	}
+	
+	#Mongols
+	11220.2.1 = {
+		liege = e_mongol_empire
+		holder = 34852
+	}
+	11227.12.2 = {
+		liege = k_zhetysu
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_balashagun = {
+	10867.1.1 = {	change_development_level = 4 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 36 }
+	
+	#As Karakhanid Khanate from year 840
+	10840.1.1 = {
+		holder = 34872	#Bilge Khan
+		government = nomad_government
+		liege = k_zhetysu
+	}
+	10893.1.1 = {
+		holder = 188851	#Bazir Arslan Khan
+	}
+	10920.1.1 = {
+		holder = 188852	#Oghulchak Arslan Khan
+	}
+	10940.1.1 = {
+		holder = 188853	#Satuk Bughra Khan
+	}
+	10955.1.1 = {
+		holder = 188854bis	#Musa Bughra Khan
+	}
+	10958.1.1 = {
+		holder = 188854	#Suleyman-Arslan
+	}
+	#960 Karakhanids convert to Islam
+	#Conversion to Islam probably started before, but this year is reported as seeing mass conversions in the hundred of thousands
+	10970.1.1 = {
+		holder = 3000	#Ali Arslan Khan
+	}
+	10998.1.1 = {
+		holder = 3002	#Ahmad Arslan
+	}
+	11017.1.1 = {
+		holder = 3004	#Mansur Arslan
+	}
+	11020.1.1 = {
+		holder = 3010	#Ali Tigin Bughra Khan, son of Mansur Arslan
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	
+	#Split of Karakhanid khanate
+	#Western Karakhanid set to k_transoxiana, eastern Karakhanid set to k_zhetysu
+	11042.1.2 = {
+		holder = 144102 # Sulayman II AKA Ebu Shuca
+	}
+	11056.1.1 = {
+		holder = 144103	#Muhammad
+	}
+	11057.1.1 = {
+		holder = 144104	#Ibrahim
+	}
+	11059.1.1 = {
+		holder = 144107 # Ebu Ali el-Hasan
+	}
+	
+	#1137 - Kara Khitai vassalizes eastern Karakhanid khanate
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+		liege = e_kara_khitai
+	}
+	11188.1.1 = {
+		holder = 188856 # Yusuf
+	}
+	11205.1.1 = {
+		holder = 188857 # Muhammad
+	}
+	11211.1.1 = {
+		holder = 188914 # Kuchlug
+	}
+	
+	#Mongols
+	11218.1.1 = {
+		liege = e_mongol_empire
+		holder = 34852
+	}
+	11227.12.2 = {
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_suyab = {
+	#As Karakhanid Khanate from year 840
+	10840.1.1 = {
+		#holder = 34872	#Bilge Khan
+		holder = karluk0059 # Fictional Nestorian, representing the area's established metropolitan see
+		government = nomad_government
+	}
+	10841.1.1 = { liege = k_zhetysu }
+	10893.1.1 = {
+		holder = 188851	#Bazir Arslan Khan
+	}
+	10920.1.1 = {
+		holder = 188852	#Oghulchak Arslan Khan
+	}
+	10940.1.1 = {
+		holder = 188853	#Satuk Bughra Khan
+	}
+	10955.1.1 = {
+		holder = 188854bis	#Musa Bughra Khan
+	}
+	10958.1.1 = {
+		holder = 188854	#Suleyman-Arslan
+	}
+	#960 Karakhanids convert to Islam
+	#Conversion to Islam probably started before, but this year is reported as seeing mass conversions in the hundred of thousands
+	10970.1.1 = {
+		holder = 3000	#Ali Arslan Khan
+	}
+	10998.1.1 = {
+		holder = 3002	#Ahmad Arslan
+	}
+	11017.1.1 = {
+		holder = 3004	#Mansur Arslan
+	}
+	11020.1.1 = {
+		holder = 3010	#Ali Tigin Bughra Khan, son of Mansur Arslan
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	
+	#Split of Karakhanid khanate
+	#Western Karakhanid set to k_transoxiana, eastern Karakhanid set to k_zhetysu
+	11042.1.2 = {
+		holder = 144102 # Sulayman II AKA Ebu Shuca
+	}
+	11056.1.1 = {
+		holder = 144103	#Muhammad
+	}
+	11057.1.1 = {
+		holder = 144104	#Ibrahim
+	}
+	11059.1.1 = {
+		holder = 144107 # Ebu Ali el-Hasan
+	}
+	
+	#1137 - Kara Khitai vassalizes eastern Karakhanid khanate
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+		liege = e_kara_khitai
+	}
+	11188.1.1 = {
+		holder = 188856 # Yusuf
+	}
+	11205.1.1 = {
+		holder = 188857 # Muhammad
+	}
+	11211.1.1 = {
+		holder = 188914 # Kuchlug
+	}
+	
+	#Mongols
+	11218.1.1 = {
+		liege = e_mongol_empire
+		holder = 34852
+	}
+	11227.12.2 = {
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_taraz = {
+	#As Karakhanid Khanate from year 840
+	10840.1.1 = {
+		holder = 34872	#Bilge Khan
+		government = nomad_government
+		liege = k_zhetysu
+	}
+	10867.1.1 = {
+		holder = 188851	#Bazir Arslan Khan
+	}
+	10920.1.1 = {
+		holder = 188852	#Oghulchak Arslan Khan
+	}
+	10940.1.1 = {
+		holder = 188853	#Satuk Bughra Khan
+	}
+	10955.1.1 = {
+		holder = 188854bis	#Musa Bughra Khan
+	}
+	10958.1.1 = {
+		holder = 188854	#Suleyman-Arslan
+	}
+	#960 Karakhanids convert to Islam
+	#Conversion to Islam probably started before, but this year is reported as seeing mass conversions in the hundred of thousands
+	10970.1.1 = {
+		holder = 3000	#Ali Arslan Khan
+	}
+	10998.1.1 = {
+		holder = 3002	#Ahmad Arslan
+	}
+	11017.1.1 = {
+		holder = 3004	#Mansur Arslan
+	}
+	11020.1.1 = {
+		holder = 3010	#Ali Tigin Bughra Khan, son of Mansur Arslan
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	
+	#Split of Karakhanid khanate
+	#Western Karakhanid set to k_transoxiana, eastern Karakhanid set to k_zhetysu
+	11042.1.2 = {
+		holder = 144102 # Sulayman II AKA Ebu Shuca
+	}
+	11056.1.1 = {
+		holder = 144103	#Muhammad
+	}
+	11057.1.1 = {
+		holder = 144104	#Ibrahim
+	}
+	11059.1.1 = {
+		holder = 144107 # Ebu Ali el-Hasan
+	}
+	
+	#1137 - Kara Khitai vassalizes eastern Karakhanid khanate
+	11158.1.1 = {
+		holder = fictional_karluks_10 # fictional herder
+		liege = 0
+		government = herder_government
+	}
+	11188.1.1 = {
+		holder = 188856 # Yusuf
+		# government = nomad_government
+	}
+	11205.1.1 = {
+		holder = 188857 # Muhammad
+	}
+	11211.1.1 = {
+		holder = 188914 # Kuchlug
+	}
+	
+	#Mongols
+	11218.1.1 = {
+		liege = e_mongol_empire
+		holder = 34852
+	}
+	11227.12.2 = {
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_shelji = {
+	#As Karakhanid Khanate from year 840
+	10840.1.1 = {
+		holder = 34872	#Bilge Khan
+		government = nomad_government
+		liege = k_zhetysu
+	}
+	10893.1.1 = {
+		holder = 188851	#Bazir Arslan Khan
+	}
+	10920.1.1 = {
+		holder = 188852	#Oghulchak Arslan Khan
+	}
+	10940.1.1 = {
+		holder = 188853	#Satuk Bughra Khan
+	}
+	10955.1.1 = {
+		holder = 188854bis	#Musa Bughra Khan
+	}
+	10958.1.1 = {
+		holder = 188854	#Suleyman-Arslan
+	}
+	#960 Karakhanids convert to Islam
+	#Conversion to Islam probably started before, but this year is reported as seeing mass conversions in the hundred of thousands
+	10970.1.1 = {
+		holder = 3000	#Ali Arslan Khan
+	}
+	10998.1.1 = {
+		holder = 3002	#Ahmad Arslan
+	}
+	11017.1.1 = {
+		holder = 3004	#Mansur Arslan
+	}
+	11020.1.1 = {
+		holder = 3010	#Ali Tigin Bughra Khan, son of Mansur Arslan
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	
+	#Split of Karakhanid khanate
+	#Western Karakhanid set to k_transoxiana, eastern Karakhanid set to k_zhetysu
+	11042.1.2 = {
+		holder = 144102 # Sulayman II AKA Ebu Shuca
+	}
+	11056.1.1 = {
+		holder = 144103	#Muhammad
+	}
+	11057.1.1 = {
+		holder = 144104	#Ibrahim
+	}
+	11059.1.1 = {
+		holder = 144107 # Ebu Ali el-Hasan
+	}
+	
+	#1137 - Kara Khitai vassalizes eastern Karakhanid khanate
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+		liege = e_kara_khitai
+	}
+	11188.1.1 = {
+		holder = 188856 # Yusuf
+	}
+	11205.1.1 = {
+		holder = 188857 # Muhammad
+	}
+	11211.1.1 = {
+		holder = 188914 # Kuchlug
+	}
+	
+	#Mongols
+	11218.1.1 = {
+		liege = e_mongol_empire
+		holder = 34852
+	}
+	11227.12.2 = {
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_quriltay = {
+	10850.1.1 = {
+		liege = 0
+		holder = 74029	#fictional
+		government = nomad_government
+	}
+	
+	#1066 start
+	11065.1.2 = {
+		liege = 0
+		holder = 302653	#fictional Kubasar Beldet
+	}
+	11083.5.30 = {
+		holder = 302654	#fictional SirC_an Beldet
+	}
+	11120.7.14 = {
+		holder = 302655	#fictional Blush Beldet
+	}
+	11150.6.11 = {
+		holder = 302656	#fictional Sugr Beldet
+	}
+	
+	#1137 Quriltay to Kara Khitai
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+		liege = e_kara_khitai
+	}
+}
+
+c_mushun = {
+	10850.1.1 = {
+		liege = 0
+		holder = 74029	#fictional
+		government = nomad_government
+	}
+	
+	#1066 start
+	11065.1.2 = {
+		liege = 0
+		holder = 302653	#fictional Kubasar Beldet
+	}
+	11083.5.30 = {
+		holder = 302654	#fictional SirC_an Beldet
+	}
+	11120.7.14 = {
+		holder = 302655	#fictional Blush Beldet
+	}
+	11150.6.11 = {
+		holder = 302656	#fictional Sugr Beldet
+	}
+	
+	#1137 Quriltay to Kara Khitai
+	11158.1.1 = {
+		holder = fictional_kipchaks_22 # ficitonal herder Mala
+		liege = e_kara_khitai
+		government = herder_government
+	}
+}
+
+
+c_cherik = {
+	#As Karakhanid Khanate from year 840
+	10840.1.1 = {
+		holder = 34872	#Bilge Khan
+		government = nomad_government
+		liege = k_zhetysu
+	}
+	10867.1.1 = {
+		holder = 188851	#Bazir Arslan Khan
+	}
+	10920.1.1 = {
+		holder = 188852	#Oghulchak Arslan Khan
+	}
+	10940.1.1 = {
+		holder = 188853	#Satuk Bughra Khan
+	}
+	10955.1.1 = {
+		holder = 188854bis	#Musa Bughra Khan
+	}
+	10958.1.1 = {
+		holder = 188854	#Suleyman-Arslan
+	}
+	#960 Karakhanids convert to Islam
+	#Conversion to Islam probably started before, but this year is reported as seeing mass conversions in the hundred of thousands
+	10970.1.1 = {
+		holder = 3000	#Ali Arslan Khan
+	}
+	10998.1.1 = {
+		holder = 3002	#Ahmad Arslan
+	}
+	11017.1.1 = {
+		holder = 3004	#Mansur Arslan
+	}
+	11020.1.1 = {
+		holder = 3010	#Ali Tigin Bughra Khan, son of Mansur Arslan
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	
+	#Split of Karakhanid khanate
+	#Western Karakhanid set to k_transoxiana, eastern Karakhanid set to k_zhetysu
+	11042.1.2 = {
+		holder = 144102 # Sulayman II AKA Ebu Shuca
+	}
+	11056.1.1 = {
+		holder = 144103	#Muhammad
+	}
+	11057.1.1 = {
+		holder = 144104	#Ibrahim
+	}
+	11059.1.1 = {
+		holder = 144107 # Ebu Ali el-Hasan
+	}
+	
+	#1137 - Kara Khitai vassalizes eastern Karakhanid khanate
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+		liege = e_kara_khitai
+	}
+	11188.1.1 = {
+		holder = 188856 # Yusuf
+	}
+	11205.1.1 = {
+		holder = 188857 # Muhammad
+	}
+	11211.1.1 = {
+		holder = 188914 # Kuchlug
+	}
+	
+	#Mongols
+	11218.1.1 = {
+		liege = e_mongol_empire
+		holder = 34852
+	}
+	11227.12.2 = {
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+

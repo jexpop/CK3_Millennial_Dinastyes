@@ -1,0 +1,332 @@
+d_kaabu = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 8 }
+}
+
+c_kaabu = {
+	10860.1.1 = {
+		holder = wolof0091
+		government = tribal_government
+	}
+	10890.1.1 = {
+		holder = wolof0092
+	}
+	10933.1.1 = {
+		holder = wolof0093
+	}
+	10990.1.1 = {
+		holder = wolof0094
+	}
+	11050.1.1 = {
+		holder = wolof0095
+	}
+	11081.1.1 = {
+		holder = wolof0096
+	}
+	11120.1.1 = {
+		holder = wolof0097
+	}
+	11159.1.1 = {
+		holder = wolof0098
+	}
+	11199.1.1 = {
+		holder = wolof0099
+	}
+	11235.1.1 = {
+		holder = wolof0100
+	}
+}
+
+
+c_jara = {
+	#Bainunk
+	10850.1.1 = {
+		government = tribal_government
+		holder = wolof0042
+	}
+	10897.1.1 = {
+		holder = wolof0043
+	}
+	10916.1.1 = {
+		holder = wolof0044
+	}
+	10970.1.1 = {
+		holder = wolof0045
+	}
+	11022.1.1 = {
+		holder = wolof0046
+	}
+	11058.1.1 = {
+		holder = wolof0047
+	}
+	11096.1.1 = {
+		holder = wolof0048
+	}
+	11112.1.1 = {
+		holder = wolof0049
+	}
+	11153.1.1 = {
+		holder = wolof0050
+	}
+	11186.1.1 = {
+		holder = wolof0051
+	}
+	11212.1.1 = {
+		holder = wolof0052
+	}
+	11248.1.1 = {
+		holder = wolof0053
+	}
+}
+
+
+d_wuli = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 8 }
+}
+
+c_wuli = {
+	10850.1.1 = {
+		holder = wolof0080
+		government = tribal_government
+	}
+	10878.1.1 = {
+		holder = wolof0081
+	}
+	10897.1.1 = {
+		holder = wolof0082
+	}
+	10933.1.1 = {
+		holder = wolof0083
+	}
+	10978.1.1 = {
+		holder = wolof0084
+	}
+	11030.1.1 = {
+		holder = wolof0085
+	}
+	11070.1.1 = {
+		holder = wolof0086
+	}
+	11116.1.1 = {
+		holder = wolof0087
+	}
+	11145.1.1 = {
+		holder = wolof0088
+	}
+	11183.1.1 = {
+		holder = wolof0089
+	}
+	11217.1.1 = {
+		holder = wolof0090
+	}
+}
+
+
+c_saalum = {
+	#Serer tribe
+	10850.1.1 = {
+		government = tribal_government
+		holder = wolof0030
+	}
+	10893.1.1 = {
+		holder = wolof0031
+	}
+	10907.1.1 = {
+		holder = wolof0032
+	}
+	10950.1.1 = {
+		holder = wolof0033
+	}
+	10995.1.1 = {
+		holder = wolof0034
+	}
+	11040.1.1 = {
+		holder = wolof0035
+	}
+	11073.1.1 = {
+		holder = wolof0036
+	}
+	11109.1.1 = {
+		holder = wolof0037
+	}
+	11123.1.1 = {
+		holder = wolof0038
+	}
+	11169.1.1 = {
+		holder = wolof0039
+	}
+	11192.1.1 = {
+		holder = wolof0040
+	}
+	11233.1.1 = {
+		holder = wolof0041
+	}
+}
+
+
+c_niomi = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+
+	#Serer tribe
+	10855.1.1 = {
+		government = tribal_government
+		holder = wolof0030
+	}
+	10893.1.1 = {
+		holder = wolof0031
+	}
+	10907.1.1 = {
+		holder = wolof0032
+	}
+	10950.1.1 = {
+		holder = wolof0033
+	}
+	10995.1.1 = {
+		holder = wolof0034
+	}
+	11040.1.1 = {
+		holder = wolof0035
+	}
+	11073.1.1 = {
+		holder = wolof0036
+	}
+	11109.1.1 = {
+		holder = wolof0037
+	}
+	11123.1.1 = {
+		holder = wolof0038
+	}
+	11169.1.1 = {
+		holder = wolof0039
+	}
+	11192.1.1 = {
+		holder = wolof0040
+	}
+	11233.1.1 = {
+		holder = wolof0041
+	}
+}
+
+
+d_kasa = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 4 }
+	11178.1.1 = { change_development_level = 7 }
+}
+
+c_kasa = {
+	10860.1.1 = {
+		holder = mel0061
+		government = tribal_government
+	}
+	10890.1.1 = {
+		holder = mel0062
+	}
+	10933.1.1 = {
+		holder = mel0063
+	}
+	10990.1.1 = {
+		holder = mel0064
+	}
+	11050.1.1 = {
+		holder = mel0065
+	}
+	11081.1.1 = {
+		holder = mel0066
+	}
+	11120.1.1 = {
+		holder = mel0067
+	}
+	11159.1.1 = {
+		holder = mel0068
+	}
+	11199.1.1 = {
+		holder = mel0069
+	}
+	11235.1.1 = {
+		holder = mel0070
+	}
+}
+
+
+c_jame = {
+	#Bainunk
+	10850.1.1 = {
+		government = tribal_government
+		holder = wolof0042
+	}
+	10897.1.1 = {
+		holder = wolof0043
+	}
+	10916.1.1 = {
+		holder = wolof0044
+	}
+	10970.1.1 = {
+		holder = wolof0045
+	}
+	11022.1.1 = {
+		holder = wolof0046
+	}
+	11058.1.1 = {
+		holder = wolof0047
+	}
+	11096.1.1 = {
+		holder = wolof0048
+	}
+	11112.1.1 = {
+		holder = wolof0049
+	}
+	11153.1.1 = {
+		holder = wolof0050
+	}
+	11186.1.1 = {
+		holder = wolof0051
+	}
+	11212.1.1 = {
+		holder = wolof0052
+	}
+	11248.1.1 = {
+		holder = wolof0053
+	}
+}
+
+
+c_geba = {
+	10860.1.1 = {
+		holder = mel0061
+		government = tribal_government
+	}
+	10890.1.1 = {
+		holder = mel0062
+	}
+	10933.1.1 = {
+		holder = mel0063
+	}
+	10990.1.1 = {
+		holder = mel0064
+	}
+	11050.1.1 = {
+		holder = mel0065
+	}
+	11081.1.1 = {
+		holder = mel0066
+	}
+	11120.1.1 = {
+		holder = mel0067
+	}
+	11159.1.1 = {
+		holder = mel0068
+	}
+	11199.1.1 = {
+		holder = mel0069
+	}
+	11235.1.1 = {
+		holder = mel0070
+	}
+}
+

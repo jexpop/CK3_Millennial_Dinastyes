@@ -1,0 +1,1160 @@
+k_wales = {
+	10867.1.1 = { change_development_level = 4 }
+	11066.1.1 = { change_development_level = 7 }
+	11178.1.1 = { change_development_level = 20 }
+}
+
+d_gwynedd = {
+	10390.1.1 = {
+		holder = 159010 #Cunedda
+	}
+	10445.1.1 = {
+		holder = 159011 #Einion
+	}
+	10470.1.1 = {
+		holder = 159012 #Cadwallon
+	}
+	10517.1.1 = {
+		holder = 159013 #Maelgwn
+	}
+	10549.1.1 = {
+		holder = 159014 #Rhun
+	}
+	10586.1.2 = {
+		holder = 159015 #Beli
+	}
+	10599.1.1 = {
+		holder = 159016 #Iago
+	}
+	10613.1.1 = {
+		holder = 159017 #Cadfan
+	}
+	10625.1.1 = {
+		holder = 159018 #Cadwallon
+	}
+	10634.1.1 = {
+		holder = 159019 #Cadwaladr
+	}
+	10664.1.1 = {
+		holder = 159040 #Ifwr
+	}
+	10682.1.1 = {
+		holder = 159020 #Idwal
+	}
+	10712.1.1 = {
+		holder = 159021 #Rhodri ap Idwal
+	}
+	10754.1.1 = {
+		holder = 159022 #Caradog ap Meirchion
+	}
+	10798.1.1 = {
+		holder = 159023 #Cynan ap Rhodri # Civil War
+	}
+	10805.1.1 = {
+		holder = 159024 #Hywel ap Rhodri # Civil War
+	}
+	10816.1.1 = {
+		holder = 159026 #Gwriad ap Elidyr, King of Manaw
+	}
+	10825.1.1 = {
+		holder = 159027 #Merfyn ap Gwriad, father of Rhodri Mawr
+	}
+	10844.1.1 = {
+		holder = 81831 #Rhodri Mawr the Great
+	}
+	10878.1.1 = {
+		holder = 81830 #Anarawd ap Rhodri
+	}
+	10916.1.1 = {
+		holder = 81829 #Idwal Foel
+	}
+	10942.1.1 = {
+		holder = 81823 #Hywel Dda
+	}
+	10950.1.1 = {
+		holder = 159004 #Iago ab Idwal Foel, son of Idwal Foel
+	}
+	10979.1.1 = {
+		holder = 159005 #Hywel ap Ieuaf ap Idwal Foel, son of Ieuaf ap Idwal Foel
+	}
+	10985.1.1 = {
+		holder = 159006 #Cadwallon ap Ieuaf ap Idwal Foel, son of Ieuaf ap Idwal Foel
+	}
+	10999.1.1 = {
+		holder = 159001 #Cynan ap Hywel, Idwal's great-grandson
+	}
+	11005.1.1 = {
+		holder = 159002 #Aeddan ap Blegywryd
+	}
+	11018.1.1 = {
+		holder = 40500 #Llywelyn ap Seisyll
+	}
+	11023.1.1 = {
+		holder = 81825 #Iago ab Idwal ap Meurig
+	}
+	11039.1.1 = {
+		holder = 40502 #Gruffydd ap Llywelyn
+	}
+	11063.1.1 = {
+		holder = 6358 #Bleddyn ap Cynfyn
+	}
+	11075.1.1 = {
+		holder = 138476 #Trahaern ap Caradog
+	}
+	11079.1.1 = {
+		holder = 81031 #Gruffydd ap Cynan
+	}
+	11137.1.1 = {
+		holder = 214710 #Owain ap Gruffyd
+	}
+	11169.11.1 = {
+		holder = 214716 #Hywell ap Owain
+	}
+	11170.1.1 = {
+		holder = 214700 #Dafydd ab Owain with 232002
+	}
+	11195.1.1 = {
+		holder = 214714 #Llywelyn ab Iorwerth	
+	}
+	11240.4.11 = {
+		holder = 138486 #Dafydd ab Llywelyn
+	}
+	11246.1.1 = {
+		holder = 420001 #Llywelyn ap Gruffydd
+	}
+	11282.12.10 = {
+		holder = 420002 #Dafydd ap Gruffyd
+	}
+	11283.9.29 = {
+		liege = "k_england"
+	}
+	11283.9.29 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+	11337.1.1 = {
+		holder = 454501
+	}
+}
+
+
+c_cardiganshire = {
+	10390.1.1 = {
+		holder = 159010 #Cunedda
+	}
+	10445.1.1 = {
+		holder = 159011 #Einion
+	}
+	10470.1.1 = {
+		holder = 159012 #Cadwallon
+	}
+	10517.1.1 = {
+		holder = 159013 #Maelgwn
+	}
+	10549.1.1 = {
+		holder = 159014 #Rhun
+	}
+	10586.1.2 = {
+		holder = 159015 #Beli
+	}
+	10599.1.1 = {
+		holder = 159016 #Iago
+	}
+	10613.1.1 = {
+		holder = 159017 #Cadfan
+	}
+	10625.1.1 = {
+		holder = 159018 #Cadwallon
+	}
+	10634.1.1 = {
+		holder = 159019 #Cadwaladr
+	}
+	10664.1.1 = {
+		holder = 159040 #Ifwr
+	}
+	10682.1.1 = {
+		holder = 159020 #Idwal
+	}
+	10712.1.1 = {
+		holder = 159021 #Rhodri ap Idwal
+	}
+	10754.1.1 = {
+		holder = 159022 #Caradog ap Meirchion
+	}
+	10798.1.1 = {
+		holder = 159023 #Cynan ap Rhodri # Civil War
+	}
+	10805.1.1 = {
+		holder = 159024 #Hywel ap Rhodri # Civil War
+	}
+	10816.1.1 = {
+		holder = 159026 #Gwriad ap Elidyr, King of Manaw
+	}
+	10825.1.1 = {
+		holder = 159027 #Merfyn ap Gwriad, father of Rhodri Mawr
+	}
+	10844.1.1 = {
+		holder = 81831 #Rhodri Mawr the Great
+	}
+	10860.1.1 = {
+		holder = 159801 #Gwgan
+	}
+	10878.1.1 = {
+		holder = 81830 #Anarawd ap Rhodri
+	}
+	10916.1.1 = {
+		holder = 81829 #Idwal Foel
+	}
+	10942.1.1 = {
+		holder = 81823 #Hywel Dda
+	}
+	10950.1.1 = {
+		holder = 159004 #Iago ab Idwal Foel, son of Idwal Foel
+	}
+	10979.1.1 = {
+		holder = 159005 #Hywel ap Ieuaf ap Idwal Foel, son of Ieuaf ap Idwal Foel
+	}
+	10985.1.1 = {
+		holder = 159006 #Cadwallon ap Ieuaf ap Idwal Foel, son of Ieuaf ap Idwal Foel
+	}
+	10999.1.1 = {
+		holder = 159001 #Cynan ap Hywel, Idwal's great-grandson
+	}
+	11005.1.1 = {
+		holder = 159002 #Aeddan ap Blegywryd
+	}
+	11018.1.1 = {
+		holder = 40500 #Llywelyn ap Seisyll
+	}
+	11023.1.1 = {
+		holder = 81825 #Iago ab Idwal ap Meurig
+	}
+	11039.1.1 = {
+		holder = 40502 #Gruffydd ap Llywelyn
+	}
+	11063.1.1 = {
+		holder = 138496 #Maredudd ap Owain ap Edwin
+	}
+	11075.1.1 = {
+		holder = 138476 #Trahaern ap Caradog
+	}
+	11079.1.1 = {
+		holder = 81031 #Gruffydd ap Cynan
+	}
+	11136.1.1 = {
+		holder = 214810 #Gruffyd ap Rhys
+	}
+	11137.1.1 = {
+		holder = 138498 #Anarawd ap Gruffyd
+	}
+	11143.1.1 = {
+		holder = 138500 #Cadell ap Gruffyd
+	}
+	11153.1.1 = {
+		holder = 81814 #Maredudd ap Gruffyd
+	}
+	11157.1.1 = {
+		holder = 214800 #Rhys ap Gruffyd
+	}
+	11195.1.1 = {
+		holder = 214714 #Llywelyn ab Iorwerth	
+	}
+	11240.4.11 = {
+		holder = 138486 #Dafydd ab Llywelyn
+	}
+	11246.1.1 = {
+		holder = 420001 #Llywelyn ap Gruffydd
+	}
+	11282.12.10 = {
+		holder = 420002 #Dafydd ap Gruffyd
+	}
+	11283.9.29 = {
+		liege = "k_england"
+	}
+	11283.9.29 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+	11337.1.1 = {
+		holder = 454501
+	}
+
+}
+
+
+c_merioneth = {
+	10844.1.1 = {
+		holder = 81831 #Rhodri Mawr the Great
+	}
+	
+	11063.1.1 = {
+		holder = 6358 #Bleddyn ap Cynfyn
+	}
+	11174.1.1 = {
+		holder = aberffraw_2
+		liege = "d_gwynedd"
+	}
+}
+
+
+c_caernarfonshire = {
+	10844.1.1 = {
+		holder = 81831 #Rhodri Mawr the Great
+	}
+	10867.1.1 = {
+		holder = 81830 # Anawrad
+		liege = d_gwynedd
+	}
+	11063.1.1 = {
+		holder = 6358 #Bleddyn ap Cynfyn
+	}
+	11170.1.1 = {
+		holder = 214700 #Dafydd ab Owain with 232002
+	}
+}
+
+
+c_anglesey = {
+	10844.1.1 = {
+		holder = 81831 #Rhodri Mawr the Great
+	}
+	
+	11063.1.1 = {
+		holder = 6358 #Bleddyn ap Cynfyn
+	}
+	11170.1.1 = {
+		holder = 214700 #Dafydd ab Owain with 232002
+	}
+}
+
+
+c_denbighshire = {
+	10844.1.1 = {
+		holder = 81831 #Rhodri Mawr the Great
+	}
+	11063.1.1 = {
+		liege = d_gwynedd
+		holder = 81841 #Maredudd ap Gruffydd
+	}
+	11170.1.1 = {
+		holder = 214700 #Dafydd ab Owain with 232002
+	}
+}
+
+
+d_powys = {
+	10351.1.1 = {
+		holder = 159056 # Gwrtheyrn of Powys
+	}
+	10430.1.1 = {
+		holder = 159057 # Cadeyrn Fendigaid
+	}
+	10447.1.1 = {
+		holder = 159058 # Cadell Ddyrnllwg
+	}
+	10460.1.1 = {
+		holder = 159060 # Rhyddfedd Frych
+	}
+	10480.1.1 = {
+		holder = 159077 # Cyngen Glodrydd
+	}
+	10500.1.1 = {
+		holder = 159089 # Pasgen ap Cyngen
+	}
+	10530.1.1 = {
+		holder = 159090 # Morgan ap Pasgen
+	}
+	10540.1.1 = {
+		holder = 159078 # Brochfael Ysgrithog
+	}
+	10571.1.1 = {
+		holder = 159079 # Cynan Garwyn
+	}
+	10610.1.1 = {
+		holder = 159080 # Selyf ap Cynan
+	}
+	10613.1.1 = {
+		holder = 159081 # Manwgan ap Selyf
+	}
+	10613.6.1 = {
+		holder = 0 # Eliudd of Dogfeiling
+	}
+	10655.1.1 = {
+		holder = 159082 # Beli ap Manwgan
+	}
+	10695.1.1 = {
+		holder = 159083 # Gwylog ap Beli
+	}
+	10725.1.1 = {
+		holder = 159084 # Elisedd ap Gwylog
+	}
+	10755.1.1 = {
+		holder = 159085 # Brochfael ap Elisedd
+	}
+	10773.1.1 = {
+		holder = 159086 # Cadell ap Elisedd
+	}
+	10808.1.1 = {
+		holder = 159087 # Cyngen ap Cadell
+	}
+	10855.1.1 = {
+		holder = 81831 # Rhodri Mawr
+	}
+	10878.1.1 = {
+		holder = 159805 # Merfyn ap Rhodri
+	}
+	10900.1.1 = {
+		holder = 0
+	}
+	10942.1.1 = {
+		holder = 81823 #Hywel Dda
+	}
+	10950.1.1 = {
+		holder = 81822 #Owain ap Hywel
+	}
+	10987.1.1 = {
+		holder = 81821 #Maredudd ap Owain
+	}
+	10999.1.2 = {
+		holder = 40500 # Llywelyn ap Seisyll
+	}
+	11023.1.1 = {
+		holder = 81863 #Rhydderch ap Iestyn
+	}
+	11033.1.1 = {
+		holder = 81825 #Iago ab Idwal ap Meurig
+	}
+	11039.1.1 = {
+		holder = 40502 #Gruffydd ap Llywelyn
+	}
+	11063.1.1 = {
+		holder = 6358 #Bleddyn ap Cynfyn
+	}
+	11075.1.1 = {
+		holder = 0
+	}
+	
+	
+
+}
+
+
+c_maldwyn = {
+	10844.1.1 = {
+		holder = 81831 #Rhodri Mawr the Great
+	}
+	10867.1.1 = {
+		holder = 159805 # Merfyn
+		liege = d_gwynedd
+	}
+	11063.1.1 = {
+		liege = "d_powys"
+		holder = 40504 #Rhiwallon ap Cynfyn
+	}
+	11068.1.1 = {
+		holder = 6358 #Bleddyn ap Cynfyn
+	}
+	11159.1.1 = {
+		holder = 184091 # Owain Brogyntyn ap Madog
+		liege = "d_gwynedd"
+	}
+}
+
+
+c_sir_faesyfed = {
+	10844.1.1 = {
+		holder = 81831 #Rhodri Mawr the Great
+	}
+	10867.1.1 = {
+		holder = 159805 # Merfyn
+		liege = d_gwynedd
+	}
+	11063.1.1 = {
+		liege = "d_powys"
+		holder = 40504 #Rhiwallon ap Cynfyn
+	}
+	11068.1.1 = {
+		holder = 6358 #Bleddyn ap Cynfyn
+	}
+	11140.1.1 = {
+		holder = 131703 # Cadwallon ap Madog
+		liege = 0
+	}
+}
+
+
+b_rhayader = {
+	11212.1.1 = {
+		holder = 214724 #Madog ap Gruffydd Maelor
+	}
+	11236.1.1 = {
+		holder = 184083 #Gruffydd Maelor II	
+	}
+	11269.1.1 = {
+		holder = 184084 #Madog II
+	}
+	11277.9.29 = {
+		holder = 184085 #Gruffydd Fychan I
+	}
+	11304.1.1 = {
+		holder = 184086 #Madog Crypl
+	}
+	11343.1.1 = {
+		holder = 184087 #Gruffydd
+	}
+}
+
+
+d_deheubarth = {
+	10283.1.1 = {
+		holder = 159428 #Einudd ap Gwrddwfn
+	}
+	10300.1.1 = {
+		holder = 159429 #Eudaf Hen
+	}
+	10360.1.1 = {
+		holder = 159807 #Macsen Wledig
+	}
+	10380.1.1 = {
+		holder = 159808 #Annwn Dynod
+	}
+	10428.1.1 = {
+		holder = 159813 #Tudwal ap Annwn
+	}
+	10431.1.1 = {
+		holder = 159821 # Dyfnwal ap Edynfed
+	}
+	10450.1.1 = {
+		holder = 159822 # Ynyr ap Dyfnwal
+	}
+	10500.1.1 = {
+		holder = 159823 #Caradog Freichfras
+	}
+	10530.1.1 = {
+		holder = 159824 #Meurig
+	}
+	10550.1.1 = {
+		holder = 159825
+	}
+	10560.1.1 = {
+		holder = 159830
+	}
+	10590.1.1 = {
+		holder = 159831
+	}
+	10600.1.1 = {
+		holder = 159834
+	}
+	10605.1.1 = {
+		holder = 159832
+	}
+	10645.1.1 = {
+		holder = 159833
+	}
+	10665.1.1 = {
+		holder = 159835
+	}
+	10680.1.1 = {
+		holder = 159116
+	}
+	10710.1.1 = {
+		holder = 159115
+	}
+	10740.1.1 = {
+		holder = 159114
+	}
+	10780.1.1 = {
+		holder = 159113
+	}
+	10790.1.1 = {
+		holder = 159112
+	}
+	10810.1.1 = {
+		holder = 159111
+	}
+	10830.1.1 = {
+		holder = 159110
+	}
+	10840.1.1 = {
+		holder = 159109
+	}
+	10909.1.1 = {
+		holder = 81823 #Hywel Dda
+	}
+	10950.1.1 = {
+		holder = 81822 #Owain ap Hywel
+	}
+	10987.1.1 = {
+		holder = 81821 #Maredudd ap Owain
+	}
+	10999.1.2 = {
+		holder = 159001 # Cynan ap Hywel, Idwal Foel (the bald)'s great-grandson
+	}
+	11005.1.1 = {
+		holder = 138490 #Cadell ap Einion, joint reign
+	}
+	11011.1.1 = {
+		holder = 138494 #Owain ap Einion, joint reign
+	}
+	11018.1.1 = {
+		holder = 40500 #Llywelyn ap Seisyll
+	}
+	11023.1.1 = {
+		holder = 81863 #Rhydderch ap Iestyn, father Iestyn ap Owain ap Morgan Hen (son of #40510, Owain Morgan) is missing
+	}
+	11033.1.1 = {
+		holder = 40512 #Placeholder for correct naming sequence, Hywel ab Edwin (correct ruler of Deheubarth) and Maredudd ab Edwin, sons of Edwin ab Einion (#138492), are missing
+	}
+	11045.1.1 = {
+		holder = 81862 #Gruffydd ap Rhydderch
+	}
+	11055.1.1 = {
+		holder = 40502 #Gruffydd ap Llywelyn
+	}
+	11066.1.1 = {
+		holder = 138496 #Maredudd ap Owain ap Edwin
+	}
+	11070.1.1 = {
+		holder = 81815 #Rhys ap Owain ap Edwin
+	}
+	11076.1.1 = {
+		holder = 81816 #Rhys ap Tewdwr
+	}
+	11093.4.1 = {
+		holder = 152
+	}
+	11094.1.1 = {
+		holder = 41032
+	}
+	11098.1.1 = {
+		holder = 41004
+	}
+	11102.1.1 = {
+		holder = 202992
+	}
+	11135.1.1 = {
+		holder = 214810 #Gruffyd ap Rhys
+	}
+	11137.1.1 = {
+		holder = 138498 #Anarawd ap Gruffyd
+	}
+	11143.1.1 = {
+		holder = 138500 #Cadell ap Gruffyd
+	}
+	11153.1.1 = {
+		holder = 81814 #Maredudd ap Gruffyd
+	}
+	11157.1.1 = {
+		holder = 214800 #Rhys ap Gruffyd
+	}
+	11197.4.28 = {
+		holder = 204510
+	}
+	11199.4.6 = {
+		holder = 204514
+	}
+	11216.10.28 = {
+		holder = 454522
+	}
+	11219.5.4 = {
+		liege = k_england
+		holder = 7348 #William Marshal
+	}
+	11272.11.16 = {
+		holder = 454520
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500
+	}
+}
+
+
+c_carmarthenshire = {
+	10860.1.1 = {
+		holder = 159801 #Gwgan
+	}
+	11066.1.1 = {
+		holder = 138496 #Maredudd ap Owain ap Edwin
+	}
+	11157.1.1 = {
+		holder = 214800 #Rhys ap Gruffyd
+	}
+}
+
+
+c_pembrokeshire = {
+		#Demetia
+	10360.1.1 = {
+		liege = d_deheubarth
+		holder = 159807 #Macsen Wledig
+	}
+	10380.1.1 = {
+		holder = 159808 #Annwn Dynod
+	}
+	10428.1.1 = {
+		holder = 159816 #Ednyfed ap Annwn
+	}
+	10431.1.1 = {
+		holder = 159817 #Glotguin ap Ednyfed
+	}
+	10451.1.1 = {
+		holder = 159818 #Clotri
+	}
+	10471.1.1 = {
+		holder = 159819 #Maelgwn
+	}
+	#Dyfed
+	10475.1.1 = {
+		holder = 159322 #Aircol Lawhir
+	}
+	10495.1.1 = {
+		holder = 159324 #Gwerthefyr
+	}
+	10540.1.1 = {
+		holder = 159340 #Cyngar
+	}
+	10570.1.1 = {
+		holder = 159341 #Pedr
+	}
+	10595.1.1 = {
+		holder = 159342 #Arthwyr
+	}
+	10620.1.1 = {
+		holder = 159343 #Nowy Hen
+	}
+	10650.1.1 = {
+		holder = 159344 #Cloten
+	}
+	10670.1.1 = {
+		holder = 159345 #Cathen
+	}
+	10680.1.1 = {	#Ystrad Tywi region of Dyfed is conquered by Seisyll ap Clydog, Dyfed enters a decline
+		liege = 0
+	}
+	10690.1.1 = {
+		holder = 159346 #Cadwgan Tredylig
+	}
+	10710.1.1 = {
+		holder = 159347 #Rhain
+	}
+	10730.1.1 = {
+		holder = 159349 #Maredudd ap Tewdos
+	}
+	10797.1.1 = {
+		holder = 159356 #Rhain ap Maredudd
+	}
+	10808.1.1 = {
+		holder = 159350 #Owain ap Maredudd
+	}
+	#10811.1.1 = {
+	#	holder = 159111 #Arthfael Hen
+	#}
+	#Dyfed ruled by an interim king in this time. Omitted for regnal numbering purposes, plus we only have guesses at the identity (assuming it even remained with one person).
+	10855.1.1 = {
+		holder = 159353 # Hyfaidd ap Bledrig
+	}
+	10893.1.1 = {
+		holder = 159354 # Llywarch ap Hyfaidd
+	}
+	10903.1.1 = {
+		holder = 159361 # Rhodri ap Hyfaidd
+	}
+	10904.1.1 = {	#Conquered by Hywel Dda
+		liege = "d_deheubarth"
+		holder = 81823 #Hywel Dda
+	}
+	10950.1.1 = {
+		holder = 81819 #Edwyn ap Hywel
+	}
+	10954.1.1 = {
+		holder = 81822 #Owain ap Hywel
+	}
+	10987.1.1 = {
+		holder = 81821 #Maredudd ap Owain
+	}
+	10999.1.2 = {
+		holder = 159001 # Cynan ap Hywel, Idwal Foel (the bald)'s great-grandson
+	}
+	11005.1.1 = {
+		holder = 138490 #Cadell ap Einion, joint reign
+	}
+	11011.1.1 = {
+		holder = 138494 #Owain ap Einion, joint reign
+	}
+	11018.1.1 = {
+		holder = 40500 #Llywelyn ap Seisyll
+	}
+	11023.1.1 = {
+		holder = 81863 #Rhydderch ap Iestyn, father Iestyn ap Owain ap Morgan Hen (son of #40510, Owain Morgan) is missing
+	}
+	11033.1.1 = {
+		holder = 40512 #Placeholder for correct naming sequence, Hywel ab Edwin (correct ruler of Deheubarth) and Maredudd ab Edwin, sons of Edwin ab Einion (#138492), are missing
+	}
+	11045.1.1 = {
+		holder = 81862 #Gruffydd ap Rhydderch
+	}
+	11055.1.1 = {
+		holder = 40502 #Gruffydd ap Llywelyn
+	}
+	11066.1.1 = {
+		holder = 138496 #Maredudd ap Owain ap Edwin
+	}
+	11070.1.1 = {
+		holder = 81815 #Rhys ap Owain ap Edwin
+	}
+	11076.1.1 = {
+		holder = 81816 #Rhys ap Tewdwr
+	}
+	11093.4.1 = {
+		holder = 152
+	}
+	11094.1.1 = {
+		holder = 41032
+	}
+	11098.1.1 = {
+		holder = 41004
+	}
+	11102.1.1 = {
+		holder = 202992
+	} 
+	11135.1.1 = {
+		holder = 214810 #Gruffyd ap Rhys
+	}
+	11137.1.1 = {
+		holder = 138498 #Anarawd ap Gruffyd
+	}
+	11143.1.1 = {
+		holder = 138500 #Cadell ap Gruffyd
+	}
+	11153.1.1 = {
+		holder = 81814 #Maredudd ap Gruffyd
+	}
+	11157.1.1 = {
+		holder = 214800 #Rhys ap Gruffyd
+	}
+	11197.4.28 = {
+		holder = 204540 #William Marshal
+	}
+	11219.5.4 = {
+		holder = 7348 #William Marshal
+	}
+	11231.4.6 = {
+		holder = 7357 #Richard Marshal
+	}
+	11234.4.16 = {
+		holder = 7356 #Gilbert Marshal
+	}
+	11241.6.27 = {
+		holder = 7355 #Walter Marshal
+	}
+	11245.11.1 = {
+		holder = 7354 #Anselm MArshal
+	}
+	11245.12.22 = {
+		holder = 138013 #William de Valence/Lusignan
+	}
+	11296.5.16 = {
+		holder = 138031 #Aymar de Valence/Lusignan
+	}
+	11324.6.24 = {
+		holder = 453401
+	}
+	11325.1.20 = {
+		holder = 453400
+	}
+}
+
+
+c_glamorgan = {
+	10360.1.1 = {
+		holder = 159807 #Macsen Wledig
+	}
+	10380.1.1 = {
+		holder = 159809 #Owain Finddu
+	}
+	10428.1.1 = {
+		holder = 159826 #Mor ap Owain
+	}
+	10448.1.1 = {
+		holder = 159827 #Solor ap Mor
+	}
+	10470.1.1 = {
+		holder = 159828 #Glywys ap Solor
+	}
+	10498.1.1 = {
+		holder = 159823 #Caradog Freichfras
+	}
+	10530.1.1 = {
+		holder = 159824 #Meurig
+	}
+	10550.1.1 = {
+		holder = 159825
+	}
+	10560.1.1 = {
+		holder = 159830
+	}
+	10590.1.1 = {
+		holder = 159831
+	}
+	10600.1.1 = {
+		holder = 159834
+	}
+	10605.1.1 = {
+		holder = 159832
+	}
+	10625.1.1 = {
+		holder = 159833
+	}
+	10665.1.1 = {
+		holder = 159835
+	}
+	10680.1.1 = {
+		holder = 159116
+	}
+	10710.1.1 = {
+		holder = 159115
+	}
+	10740.1.1 = {
+		holder = 159114
+	}
+	10780.1.1 = {
+		holder = 159113
+	}
+	10790.1.1 = {
+		holder = 159112
+	}
+	10810.1.1 = {
+		holder = 159111
+	}
+	10830.1.1 = {
+		holder = 159110
+	}
+	10840.1.1 = {
+		liege = 0
+		holder = 159109 #Hywel Morgan
+	}
+	11065.1.1 = {
+		holder = 6362 #Cadwgan ap Meurig
+		liege = 0
+	}
+	11074.1.1 = {
+		holder = 81846 #Caradog ap Gruffyd
+	}
+	11081.1.1 = {
+		holder = 6376  #Iestyn ap Gwrgant
+	}
+	11090.1.1 = {
+		liege = k_england
+	}
+	11090.1.1 = {
+		holder = 138455 #Robert Fitzhamon
+	}
+	11107.3.1 = {
+		holder = 138457 #Mabel Fitzhamon
+	}
+	11112.1.1 = {
+		holder = 203036 #Robert FitzHenry
+	}
+	11147.11.1 = {
+		holder = 204670 #William FitzRobert
+	}
+	11183.1.13 = {
+		holder = 204665 #Isabelle
+	}
+	11217.10.14 = {
+		holder = 204801 #Gilbert de Clare
+	}
+	11230.10.25 = {
+		holder = 454048 #Richard de Clare
+	}
+	11262.7.14 = {
+		holder = 454606 #Gilbert de Clare
+	}
+	11295.1.25 = {
+		holder = 454605 #Joan of Acre
+	}
+	11307.4.23 = {
+		holder = 454049 #Gilbert de Clare
+	}
+	11314.1.25 = {
+		holder = 454510 #Edward II
+	}
+	11327.1.25 = {
+		holder = 454500 #Edward III
+	}
+	11337.1.1 = {
+		holder = 454610 #Hugh d'Audley
+	}
+
+}
+
+
+c_monmouthshire = {
+	10840.1.1 = {
+		liege = 0
+		holder = 160258 #Meurig Morgan
+	}
+	#c_monmouthshire
+	11065.1.1 = {
+		holder = 6362 #Cadwgan ap Meurig
+		liege = 0
+	}
+	11175.6.1 = {
+		holder = gwynllwg_2 # Iorwerth ab Owain, restored by Henry II
+		liege = "d_deheubarth" # restored with the intercession of the prince of Deheubarth
+	}
+}
+
+
+c_brecknockshire = {
+	#Brycheiniog
+	10420.1.1 = {
+		holder = 159320 # Anlach mac Cormac
+	}
+	10450.1.1 = {
+		holder = 159323 # Brychen Brycheiniog
+	}
+	10490.1.1 = {
+		holder = 159325 # Rhain Dremrudd
+	}
+	10510.1.1 = {
+		holder = 159326 # Rhigeneu ap Rhain
+	}
+	10540.1.1 = {
+		holder = 159327 # Llywarch ap Rhigeneu
+	}
+	10580.1.1 = {
+		holder = 159328 # Idwallon ap Llywarch
+	}
+	10620.1.1 = {
+		holder = 159329 # Rhiwallon ap Idwallon
+	}
+	10640.1.1 = {
+		holder = 159330 # Ceindrych ferch Rhiwallon
+	}
+	10650.1.1 = {
+		holder = 159344 #Cloten
+	}
+	10670.1.1 = {
+		holder = 159345 #Cathen
+	}
+	10690.1.1 = {
+		holder = 159346 #Cadwgan Tredylig
+	}
+	10710.1.1 = {
+		holder = 159347 #Rhain
+	}
+	10715.1.1 = {
+		holder = 159358 #Awst ap Cadwgan
+	}
+	10730.1.1 = {
+		holder = 159360 #Tewdwr ap Rhain
+	}
+	10734.1.1 = {
+		holder = 252370 #Naufedd Hen ap Rhain
+	}
+	10735.1.1 = {
+		holder = 252371 #Elisedd ap Rhain
+	}
+	10736.1.1 = {
+		holder = 159359 #Elwystyl ap Awst
+	}
+	10737.1.1 = {
+		holder = 159360 #Tewdwr ap Rhain
+	}
+	10750.1.1 = {
+		holder = 159363 #Nowy Hen ap Tewdwr
+	}
+	10770.1.1 = {
+		holder = 159364 #Gruffydd ap Nowy Hen
+	}
+	10800.1.1 = {
+		holder = 159365 #Tewdwr ap Gruffydd
+	}
+	10840.1.1 = {
+		holder = 159366 #Elisedd ap Tewdwr
+	}
+	10885.1.1 = {	#Submitted to Wessex
+		liege = d_somerset
+		holder = 252372 #Tewdwr ap Elisedd
+	}
+	10910.1.1 = {
+		holder = 159367 #Gruffydd ap Elisedd
+	}
+	10916.1.1 = {	#Sacked by Mercia
+		liege = d_hereford
+		holder = 252377 #Æthelflaed, Lady of the Mercians
+	}
+	10917.1.1 = {
+		holder = 159367 #Gruffydd ap Elisedd
+	}
+	10920.1.1 = {	#Submitted to Deheubarth
+		liege = d_deheubarth
+		holder = 159368 #Tewdwr Brycheiniog ap Gruffydd
+	}
+	10940.1.1 = {
+		holder = 159369 #Gwylog ap Tewdwr
+	}
+	10970.1.1 = {
+		holder = 159370 #Elisedd ap Gwylog
+	}
+	11000.1.1 = {
+		holder = 159371 #Gruffydd ap Elisedd
+	}
+	11045.1.1 = {
+		holder = 159372 #Selyf ap Gruffydd
+	}
+	11050.1.1 = {
+		holder = 159312 #Maenyrch ap Dryffryn
+	}
+	11060.1.1 = {
+		holder = 131704 #Bleddyn ap Maenyrch
+	}
+	11090.1.1 = {
+		liege = k_england
+	}
+	11125.1.1 = {
+		holder = 204622 #Miles of Gloucester
+	}
+	11143.12.23 = {
+		holder = 7461 #Roger of Gloucester
+	}
+	11155.9.22 = {
+		holder = 204620 #Humphrey de Bohun
+	}
+	11170.1.1 = {
+		holder = 204610 #Humphrey de Bohun
+	}
+	11182.1.22 = {
+		holder = 204600 #Henry de Bohun
+	}
+	11220.6.1 = {
+		holder = 7462 #Humphrey de Bohun
+	}
+	11275.9.24 = {
+		holder = 7463 #Humphrey de Bohun
+	}
+	11298.12.31 = {
+		holder = 454561 #Humphrey de Bohun
+	}
+	11321.11.6 = {
+		holder = 7464 #John of Bohun
+	}
+	11335.1.20 = {
+		holder = 454560 #Humphrey de Bohun
+	}
+}
+

@@ -1,0 +1,426 @@
+d_borgu = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 8 }
+
+	10850.1.1 = {
+		government = tribal_government
+		liege = 0
+		holder = 942069
+	}
+	10907.1.1 = {
+		holder = gur0081
+	}
+	10936.1.1 = {
+		holder = gur0082
+	}
+	10953.1.1 = {
+		holder = gur0083
+	}
+	10984.1.1 = {
+		holder = gur0084
+	}
+	11003.1.1 = {
+		holder = gur0085
+	}
+	11039.1.1 = {
+		holder = gur0086
+	}
+	11048.1.1 = {
+		holder = gur0087
+	}
+	11066.1.1 = {
+		holder = 969420
+	}
+	11110.1.1 = {
+		holder = gur0088
+	}
+	11115.1.1 = {
+		holder = gur0089
+	}
+	11162.1.1 = {
+		holder = gur0090
+	}
+	11189.1.1 = {
+		holder = gur0091
+	}
+	11221.1.1 = {
+		holder = gur0092
+	}
+}
+
+
+c_nikki = {
+	10867.1.1 = {	change_development_level = 4 }
+	11066.1.1 = { change_development_level = 7 }
+	11178.1.1 = { change_development_level = 20 }
+
+	10850.1.1 = {
+		government = tribal_government
+		liege = 0
+		holder = 942069
+	}
+	10907.1.1 = {
+		holder = gur0081
+	}
+	10936.1.1 = {
+		holder = gur0082
+	}
+	10953.1.1 = {
+		holder = gur0083
+	}
+	10984.1.1 = {
+		holder = gur0084
+	}
+	11003.1.1 = {
+		holder = gur0085
+	}
+	11039.1.1 = {
+		holder = gur0086
+	}
+	11048.1.1 = {
+		holder = gur0087
+	}
+	11066.1.1 = {
+		holder = 969420
+	}
+	11110.1.1 = {
+		holder = gur0088
+	}
+	11115.1.1 = {
+		holder = gur0089
+	}
+	11162.1.1 = {
+		holder = gur0090
+	}
+	11189.1.1 = {
+		holder = gur0091
+	}
+	11221.1.1 = {
+		holder = gur0092
+	}
+}
+
+
+c_bussa = {
+	11178.1.1 = { change_development_level = 28 }
+
+	10860.1.1 = {
+		government = tribal_government
+		holder = sorko0001
+		liege = 0
+	}
+	10902.1.1 = {
+		holder = sorko0002
+	}
+	10948.1.1 = {
+		holder = sorko0003
+	}
+	11011.1.1 = {
+		holder = sorko0004
+	}
+	11052.1.1 = {
+		holder = sorko0005
+	}
+	11087.1.1 = {
+		holder = sorko0006
+	}
+	11123.1.1 = {
+		holder = sorko0007
+	}
+	11163.1.1 = {
+		holder = sorko0008
+	}
+	11199.1.1 = {
+		holder = sorko0009
+	}
+	11238.1.1 = {
+		holder = sorko0010
+	}
+}
+
+
+c_ilo = {
+	10860.1.1 = {
+		government = tribal_government
+		holder = sorko0001
+		liege = 0
+	}
+	10902.1.1 = {
+		holder = sorko0002
+	}
+	10948.1.1 = {
+		holder = sorko0003
+	}
+	11011.1.1 = {
+		holder = sorko0004
+	}
+	11052.1.1 = {
+		holder = sorko0005
+	}
+	11087.1.1 = {
+		holder = sorko0006
+	}
+	11123.1.1 = {
+		holder = sorko0007
+	}
+	11163.1.1 = {
+		holder = sorko0008
+	}
+	11199.1.1 = {
+		holder = sorko0009
+	}
+	11238.1.1 = {
+		holder = sorko0010
+	}
+}
+
+
+c_ilesa = {
+	10850.1.1 = {
+		holder = 942069
+	}
+	10907.1.1 = {
+		holder = gur0081
+	}
+	10936.1.1 = {
+		holder = gur0082
+	}
+	10953.1.1 = {
+		holder = gur0083
+	}
+	10984.1.1 = {
+		holder = gur0084
+	}
+	11003.1.1 = {
+		holder = gur0085
+	}
+	11039.1.1 = {
+		holder = gur0086
+	}
+	11048.1.1 = {
+		holder = gur0087
+	}
+	11066.1.1 = {
+		holder = 969420
+	}
+	11110.1.1 = {
+		holder = gur0088
+	}
+	11115.1.1 = {
+		holder = gur0089
+	}
+	11162.1.1 = {
+		holder = gur0090
+	}
+	11177.1.1 = {
+		holder = gur0091 # Tanamwir
+		liege = d_borgu
+	}
+	11221.1.1 = {
+		holder = gur0092
+	}
+}
+
+
+c_djugu = {
+	10850.1.1 = {
+		holder = 942069
+	}
+	10907.1.1 = {
+		holder = gur0081
+	}
+	10936.1.1 = {
+		holder = gur0082
+	}
+	10953.1.1 = {
+		holder = gur0083
+	}
+	10984.1.1 = {
+		holder = gur0084
+	}
+	11003.1.1 = {
+		holder = gur0085
+	}
+	11039.1.1 = {
+		holder = gur0086
+	}
+	11048.1.1 = {
+		holder = gur0087
+	}
+	11066.1.1 = {
+		holder = 969420
+	}
+	11110.1.1 = {
+		holder = gur0088
+	}
+	11115.1.1 = {
+		holder = gur0089
+	}
+	11162.1.1 = {
+		holder = gur0090
+	}
+	11177.1.1 = {
+		holder = gur0091 # Tanamwir
+	}
+	11221.1.1 = {
+		holder = gur0092
+	}
+}
+
+d_savalu = {
+	10867.1.1 = {	change_development_level = 0 }
+	11066.1.1 = { change_development_level = 2 }
+	11178.1.1 = { change_development_level = 5 }
+}
+
+c_savalu = {
+	10860.1.1 = {
+		holder = ewe0021
+		government = tribal_government
+	}
+	10890.1.1 = {
+		holder = ewe0022
+	}
+	10933.1.1 = {
+		holder = ewe0023
+	}
+	10990.1.1 = {
+		holder = ewe0024
+	}
+	11050.1.1 = {
+		holder = ewe0025
+	}
+	11081.1.1 = {
+		holder = ewe0026
+	}
+	11120.1.1 = {
+		holder = ewe0027
+	}
+	11159.1.1 = {
+		holder = ewe0028
+	}
+	11199.1.1 = {
+		holder = ewe0029
+	}
+	11235.1.1 = {
+		holder = ewe0030
+	}
+}
+
+
+c_sokode = {
+	10860.1.1 = {
+		holder = ewe0021
+		government = tribal_government
+	}
+	10890.1.1 = {
+		holder = ewe0022
+	}
+	10933.1.1 = {
+		holder = ewe0023
+	}
+	10990.1.1 = {
+		holder = ewe0024
+	}
+	11050.1.1 = {
+		holder = ewe0025
+	}
+	11081.1.1 = {
+		holder = ewe0026
+	}
+	11120.1.1 = {
+		holder = ewe0027
+	}
+	11159.1.1 = {
+		holder = ewe0028
+	}
+	11199.1.1 = {
+		holder = ewe0029
+	}
+	11235.1.1 = {
+		holder = ewe0030
+	}
+}
+
+
+c_todo = {
+	10860.1.1 = {
+		holder = ewe0011
+		government = tribal_government
+	}
+	10890.1.1 = {
+		holder = ewe0012
+	}
+	10933.1.1 = {
+		holder = ewe0013
+	}
+	10990.1.1 = {
+		holder = ewe0014
+	}
+	11050.1.1 = {
+		holder = ewe0015
+	}
+	11081.1.1 = {
+		holder = ewe0016
+	}
+	11120.1.1 = {
+		holder = ewe0017
+	}
+	11159.1.1 = {
+		holder = ewe0018
+	}
+	11199.1.1 = {
+		holder = ewe0019
+	}
+	11235.1.1 = {
+		holder = ewe0020
+	}
+}
+
+
+c_shabe = {
+	10850.1.1 = {
+		holder = 942069
+	}
+	10907.1.1 = {
+		holder = gur0081
+	}
+	10936.1.1 = {
+		holder = gur0082
+	}
+	10953.1.1 = {
+		holder = gur0083
+	}
+	10984.1.1 = {
+		holder = gur0084
+	}
+	11003.1.1 = {
+		holder = gur0085
+	}
+	11039.1.1 = {
+		holder = gur0086
+	}
+	11048.1.1 = {
+		holder = gur0087
+	}
+	11066.1.1 = {
+		holder = 969420
+	}
+	11110.1.1 = {
+		holder = gur0088
+	}
+	11115.1.1 = {
+		holder = gur0089
+	}
+	11162.1.1 = {
+		holder = gur0090
+	}
+	11177.1.1 = {
+		holder = gur0091 # Tanamwir
+	}
+	11221.1.1 = {
+		holder = gur0092
+	}
+}
+

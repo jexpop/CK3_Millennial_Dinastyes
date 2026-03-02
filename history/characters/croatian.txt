@@ -1,0 +1,2542 @@
+﻿20381 = {
+	name = "Petar"
+	dynasty = 101874
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "catholic"
+	culture = "croatian"
+	trait = greedy
+	trait = education_intrigue_2
+	11046.1.1 = {
+		birth = "11046.1.1"
+	}
+	11097.1.1 = {
+		death = "11097.1.1"
+	}
+}
+
+220003 = {
+	name = "Nikolitza"
+	dynasty = 100466
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "croatian"
+	trait = zealous
+	trait = education_intrigue_2
+	11150.1.1 = {
+		birth = "11150.1.1"
+	}
+	11200.1.1 = {
+		death = "11200.1.1"
+	}
+}
+
+470006 = {
+	name = "Katarina"
+	female = yes
+	dynasty = 18005
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "croatian"
+	trait = chaste
+	trait = education_learning_3
+	father = 470002
+	11291.1.1 = {
+		birth = "11291.1.1"
+	}
+	11341.1.1 = {
+		death = "11341.1.1"
+	}
+}
+
+8600 = {
+	name = "Trpimir"
+	dynasty = 512
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "croatian"
+	trait = generous
+	trait = education_intrigue_2
+	father = 146001
+	10802.1.1 = {
+		birth = "10802.1.1"
+	}
+	10864.1.1 = {
+		death = "10864.1.1"
+	}
+}
+
+8601 = {
+	name = "Zdeslav"
+	dynasty = 512
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "croatian"
+	trait = calm
+	trait = education_martial_2
+	father = 8600
+	10824.1.1 = {
+		birth = "10824.1.1"
+	}
+	10879.5.1 = {
+		death = "10879.5.1"
+	}
+}
+
+8602 = {
+	name = "Petar"
+	dynasty = 512
+	martial = 7
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "croatian"
+	trait = wrathful
+	trait = education_intrigue_3
+	father = 8600
+	10822.1.1 = {
+		birth = "10822.1.1"
+	}
+	10872.1.1 = {
+		death = "10872.1.1"
+	}
+}
+
+8603 = {
+	name = "Muncimir"
+	dynasty = 512
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "croatian"
+	trait = brave
+	trait = education_diplomacy_2
+	father = 8600
+	10846.1.1 = {
+		birth = "10846.1.1"
+	}
+	10910.1.1 = {
+		death = "10910.1.1"
+	}
+}
+
+8604 = {
+	name = "Tomislav"
+	dynasty = 512
+	martial = 8
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "croatian"
+	trait = calm
+	trait = education_martial_4
+	father = 8603
+	10865.1.1 = {
+		birth = "10865.1.1"
+	}
+	10928.1.1 = {
+		death = "10928.1.1"
+	}
+}
+
+8605 = {
+	name = "Trpimir"
+	dynasty = 512
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "croatian"
+	trait = zealous
+	trait = education_learning_2
+	father = 8603
+	10867.1.1 = {
+		birth = "10867.1.1"
+	}
+	10935.1.1 = {
+		death = "10935.1.1"
+	}
+}
+
+8606 = {
+	name = "Kresimir"
+	dynasty = 512
+	martial = 5
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "croatian"
+	trait = gluttonous
+	trait = education_stewardship_2
+	father = 8605
+	10889.1.1 = {
+		birth = "10889.1.1"
+	}
+	10945.1.1 = {
+		death = "10945.1.1"
+	}
+}
+
+8607 = {
+	name = "Miroslav"
+	dynasty = 512
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "croatian"
+	trait = cynical
+	trait = education_intrigue_2
+	father = 8606
+	10909.1.1 = {
+		birth = "10909.1.1"
+	}
+	10949.1.1 = {
+		death = "10949.1.1"
+	}
+}
+
+8608 = {
+	name = "Stjepan"
+	dynasty = 512
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = "croatian"
+	trait = craven
+	trait = education_martial_3
+	father = 8614
+	10998.1.1 = {
+		birth = "10998.1.1"
+	}
+	11043.1.1 = {
+		death = "11043.1.1"
+	}
+}
+
+8612 = {
+	name = "Stjepan_Drzislav"
+	# AKA: Stjepan Drzislav
+	dynasty = 512
+	martial = 5
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "croatian"
+	trait = education_diplomacy_3
+	father = 8634
+	mother = 8635
+	10932.1.1 = {
+		birth = "10932.1.1"
+	}
+	10997.1.1 = {
+		death = "10997.1.1"
+	}
+}
+
+8614 = {
+	name = "Svetoslav"
+	# AKA: Svetoslav Suronja
+	dynasty = 512
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "croatian"
+	trait = diligent
+	trait = education_diplomacy_2
+	father = 8612
+	10951.1.1 = {
+		birth = "10951.1.1"
+	}
+	11010.1.1 = {
+		death = "11010.1.1"
+	}
+}
+
+8616 = {
+	name = "Kresimir"
+	dynasty = 512
+	martial = 5
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = "croatian"
+	trait = greedy
+	trait = education_martial_3
+	father = 8612
+	10956.1.1 = {
+		birth = "10956.1.1"
+	}
+	11030.1.1 = {
+		death = "11030.1.1"
+	}
+}
+
+8618 = {
+	name = "Gojslav"
+	dynasty = 512
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "croatian"
+	trait = humble
+	trait = zealous
+	trait = education_martial_2
+	father = 8612
+	10958.1.1 = {
+		birth = "10958.1.1"
+	}
+	11020.1.1 = {
+		death = "11020.1.1"
+	}
+}
+
+8620 = {
+	name = "Stjepan"
+	dynasty = 512
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = "croatian"
+	trait = diligent
+	trait = brave
+	trait = education_learning_2
+	father = 8616
+	10991.1.1 = {
+		birth = "10991.1.1"
+	}
+	11018.1.1 = {
+		add_spouse = 20380
+	}
+	11058.1.1 = {
+		death = "11058.1.1"
+	}
+}
+
+8622 = {
+	name = "Kresimir"
+	# AKA: Petar Kresimir
+	dynasty = 512
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "croatian"
+	trait = just
+	trait = calm
+	trait = strong
+	trait = zealous
+	trait = education_intrigue_4
+	father = 8620
+	mother = 20380
+	11020.1.2 = {
+		birth = "11020.1.2"
+	}
+	11062.1.1 = {
+		give_nickname = nick_the_great
+		add_spouse = 8630
+	}
+	11075.1.1 = {
+		death = "11075.1.1"
+	}
+}
+
+8623 = {
+	name = "Neda"
+	female = yes
+	dynasty = 512
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	trait = sickly
+	religion = "catholic"
+	culture = "croatian"
+	father = 8622
+	mother = 8630
+	11064.1.1 = {
+		birth = "11064.1.1"
+	}
+	11070.1.1 = {
+		death = "11070.1.1"
+	}
+}
+
+8624 = {
+	name = "Castimir"
+	dynasty = 512
+	martial = 4
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "croatian"
+	trait = cynical
+	trait = greedy
+	trait = education_intrigue_2
+	father = 8620
+	mother = 20380
+	11022.1.1 = {
+		birth = "11022.1.1"
+	}
+	11059.1.1 = {
+		death = "11059.1.1"
+	}
+}
+
+8626 = {
+	name = "Stjepan"
+	dynasty = 512
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = "croatian"
+	trait = chaste
+	trait = weak
+	trait = temperate
+	trait = education_stewardship_1
+	father = 8624
+	11038.1.1 = {
+		birth = "11038.1.1"
+	}
+	11089.1.1 = {
+		trait = infirm
+	}
+	11090.12.1 = {
+		death = "11090.12.1"
+	}
+}
+
+8628 = {
+	name = "Zvonimir"
+	# AKA: Dmitar Zvonimir
+	dynasty = 512
+	martial = 4
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = "croatian"
+	trait = diligent
+	trait = zealous
+	trait = generous
+	trait = education_stewardship_3
+	father = 8608
+	11030.1.1 = {
+		birth = "11030.1.1"
+	}
+	11064.1.1 = {
+		add_spouse = 475
+	}
+	11075.1.1 = {
+		name = "Dmitar-Zvonimir"
+	}
+	11089.4.20 = {
+		death = "11089.4.20"
+	}
+}
+
+8630 = {
+	name = "Miroslava"
+	female = yes
+	dynasty = 19002
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "croatian"
+	trait = education_diplomacy_2
+	11045.1.1 = {
+		birth = "11045.1.1"
+	}
+	11095.1.1 = {
+		death = "11095.1.1"
+	}
+}
+
+8634 = {
+	name = "Kresimir"
+	# AKA: Mihovil Kresimir
+	dynasty = 512
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "croatian"
+	trait = lustful
+	trait = education_learning_3
+	father = 8606
+	10911.1.2 = {
+		birth = "10911.1.2"
+	}
+	10930.1.1 = {
+		add_spouse = 8635
+	}
+	10969.1.1 = {
+		death = "10969.1.1"
+	}
+}
+
+8635 = {
+	name = "Jelena"
+	female = yes
+	martial = 4
+	diplomacy = 9
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "croatian"
+	trait = just
+	trait = education_diplomacy_3
+	10914.1.1 = {
+		birth = "10914.1.1"
+	}
+	10976.1.1 = {
+		death = "10976.1.1"
+	}
+}
+
+8636 = {
+	name = "Trpimir"
+	dynasty = 512
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "croatian"
+	trait = generous
+	trait = education_intrigue_2
+	father = 8634
+	mother = 8635
+	10940.1.1 = {
+		birth = "10940.1.1"
+	}
+	10995.1.1 = {
+		death = "10995.1.1"
+	}
+}
+
+8638 = {
+	name = "Mutimir"
+	dynasty = 512
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "croatian"
+	trait = calm
+	trait = ill
+	trait = education_martial_2
+	father = 8636
+	10957.1.1 = {
+		birth = "10957.1.1"
+	}
+	11005.1.1 = {
+		death = "11005.1.1"
+	}
+}
+
+8640 = {
+	name = "Suronja"
+	dynasty = 512
+	martial = 7
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "croatian"
+	trait = wrathful
+	trait = education_intrigue_1
+	father = 8636
+	10966.1.1 = {
+		birth = "10966.1.1"
+	}
+	11002.1.1 = {
+		death = "11002.1.1"
+	}
+}
+
+32590 = {
+	name = "Budec" #count of Zadar
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	11020.1.1 = {
+		birth = "11020.1.1"
+	}
+	11070.1.1 = {
+		death = "11070.1.1"
+	}
+}
+
+32591 = {
+	name = "Strezinja" #count of Zadar
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32590
+	11039.1.1 = {
+		birth = "11039.1.1"
+	}
+	11089.1.1 = {
+		death = "11089.1.1"
+	}
+}
+
+32592 = {
+	name = "Vukilo" #count of Zadar
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32591
+	11055.1.1 = {
+		birth = "11055.1.1"
+	}
+	11100.1.1 = {
+		death = "11100.1.1"
+	}
+}
+32593 = {
+	name = "Marmonja" #count of Zadar
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32592
+	11072.1.1 = {
+		birth = "11072.1.1"
+	}
+	11102.1.1 = {
+		death = "11102.1.1"
+	}
+}
+
+32594 = {
+	name = "Bogdan" #count of Zadar
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32593
+	11090.1.1 = {
+		birth = "11090.1.1"
+	}
+	11164.1.1 = {
+		death = "11164.1.1"
+	}
+}
+
+32595 = {
+	name = "Grgur" #bishop of Knin
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 220002
+	11165.1.1 = {
+		birth = "11165.1.1"
+	}
+	11229.1.1 = {
+		death = "11229.1.1"
+	}
+}
+
+32596 = {
+	name = "Vuicin" #count of Split
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 220002
+	11166.1.1 = {
+		birth = "11166.1.1"
+	}
+	11224.1.1 = {
+		death = "11224.1.1"
+	}
+}
+32597 = {
+	name = "Pribina" #count of Zadar
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 220002
+	11167.1.1 = {
+		birth = "11167.1.1"
+	}
+	11197.1.1 = {
+		death = "11197.1.1"
+	}
+}
+32598 = {
+	name = "Marko"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 220002
+	11168.1.1 = {
+		birth = "11168.1.1"
+	}
+	11200.1.1 = {
+		death = "11200.1.1"
+	}
+}
+
+32599 = {
+	name = "Budislav"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32598
+	11185.1.1 = {
+		birth = "11185.1.1"
+	}
+	11227.1.1 = {
+		death = "11227.1.1"
+	}
+}
+32600 = {
+	name = "Obrad"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32598
+	11186.1.1 = {
+		birth = "11186.1.1"
+	}
+	11227.1.1 = {
+		death = "11227.1.1"
+	}
+}
+
+32601 = {
+	name = "Vukesa"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32599
+	11220.1.1 = {
+		birth = "11220.1.1"
+	}
+	11290.1.1 = {
+		death = "11290.1.1"
+	}
+}
+
+32602 = {
+	name = "Ugrin"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32599
+	11225.1.1 = {
+		birth = "11225.1.1"
+	}
+	11300.1.1 = {
+		death = "11300.1.1"
+	}
+}
+
+32603 = {
+	name = "Juraj"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32597
+	11185.1.1 = {
+		birth = "11185.1.1"
+	}
+	11197.1.1 = {
+		death = "11197.1.1"
+	}
+}
+
+32604 = {
+	name = "Grgur" #count of Split
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32597
+	11186.1.1 = {
+		birth = "11186.1.1"
+	}
+	11235.1.1 = {
+		death = "11235.1.1"
+	}
+}
+32605 = {
+	name = "Stjepan" #count of Zadar
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32597
+	11187.1.1 = {
+		birth = "11187.1.1"
+	}
+	11238.1.1 = {
+		death = "11238.1.1"
+	}
+}
+
+32606 = {
+	name = "Vucina"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32597
+	11188.1.1 = {
+		birth = "11188.1.1"
+	}
+	11226.1.1 = {
+		death = "11226.1.1"
+	}
+}
+
+32607 = {
+	name = "Miroslav"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32604
+	11230.1.1 = {
+		birth = "11230.1.1"
+	}
+	11308.1.1 = {
+		death = "11308.1.1"
+	}
+}
+32608 = {
+	name = "Marko" #count of Split
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32604
+	11232.1.1 = {
+		birth = "11232.1.1"
+	}
+	11300.1.1 = {
+		death = "11300.1.1"
+	}
+}
+32609 = {
+	name = "Martin"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32604
+	11233.1.1 = {
+		birth = "11233.1.1"
+	}
+	11274.1.1 = {
+		death = "11274.1.1"
+	}
+}
+
+32610 = {
+	name = "Stjepan" #count of Zadar
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32605
+	11208.1.1 = {
+		birth = "11208.1.1"
+	}
+	11274.1.1 = {
+		death = "11274.1.1"
+	}
+}
+
+32611 = {
+	name = "Jakov"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32605
+	11210.1.1 = {
+		birth = "11210.1.1"
+	}
+	11270.1.1 = {
+		death = "11270.1.1"
+	}
+}
+
+32612 = {
+	name = "Stjepan"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32607
+	11250.1.1 = {
+		birth = "11250.1.1"
+	}
+	11324.1.1 = {
+		death = "11324.1.1"
+	}
+}
+
+32613 = {
+	name = "Illija"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32607
+	11252.1.1 = {
+		birth = "11252.1.1"
+	}
+	11324.1.1 = {
+		death = "11324.1.1"
+	}
+}
+
+32614 = {
+	name = "Slavogost"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32607
+	11254.1.1 = {
+		birth = "11254.1.1"
+	}
+	11324.1.1 = {
+		death = "11324.1.1"
+	}
+}
+
+32615 = {
+	name = "Mihajlo"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32614
+	11274.1.1 = {
+		birth = "11274.1.1"
+	}
+	11324.1.1 = {
+		death = "11324.1.1"
+	}
+}
+
+32616 = {
+	name = "Pavao"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32614
+	11275.1.1 = {
+		birth = "11275.1.1"
+	}
+	11324.1.1 = {
+		death = "11324.1.1"
+	}
+}
+
+32617 = {
+	name = "Grgur"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32614
+	11276.1.1 = {
+		birth = "11276.1.1"
+	}
+	11324.1.1 = {
+		death = "11324.1.1"
+	}
+}
+
+32618 = {
+	name = "Juraj" #count of Zadar
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32610
+	11246.1.1 = {
+		birth = "11246.1.1"
+	}
+	11302.1.1 = {
+		death = "11302.1.1"
+	}
+}
+
+32619 = {
+	name = "Mladen" #count of Split
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32610
+	11247.1.1 = {
+		birth = "11247.1.1"
+	}
+	11304.1.1 = {
+		death = "11304.1.1"
+	}
+}
+
+32620 = {
+	name = "Stanislava"
+	female = yes
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32610
+	11258.1.1 = {
+		birth = "11258.1.1"
+	}
+	11308.1.1 = {
+		death = "11308.1.1"
+	}
+}
+
+32622 = {
+	name = "Ivan"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32610
+	11265.1.1 = {
+		birth = "11265.1.1"
+	}
+	11348.1.1 = {
+		death = "11348.1.1"
+	}
+}
+
+32623 = {
+	name = "Daniel"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32611
+	11230.1.1 = {
+		birth = "11230.1.1"
+	}
+	11269.1.1 = {
+		death = "11269.1.1"
+	}
+}
+
+32624 = {
+	name = "Radoslav"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32611
+	11232.1.1 = {
+		birth = "11232.1.1"
+	}
+	11275.1.1 = {
+		death = "11275.1.1"
+	}
+}
+
+32625 = {
+	name = "Mladen" #count of Zagreb, duke of Croatia
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 470001
+	11270.1.1 = {
+		birth = "11270.1.1"
+	}
+	11343.1.1 = {
+		death = "11343.1.1"
+	}
+}
+
+32626 = {
+	name = "Marko"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 470004
+	mother = 470005
+	11312.1.1 = {
+		birth = "11312.1.1"
+	}
+	11385.1.1 = {
+		death = "11385.1.1"
+	}
+}
+
+32627 = {
+	name = "Mikula"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 32626
+	11330.1.1 = {
+		birth = "11330.1.1"
+	}
+	11380.1.1 = {
+		death = "11380.1.1"
+	}
+}
+
+32628 = {
+	name = "Katarina"
+	female = yes
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 470004
+	mother = 470005
+	11316.1.1 = {
+		birth = "11316.1.1"
+	}
+	11356.1.1 = {
+		death = "11356.1.1"
+	}
+}
+
+32629 = {
+	name = "Pribko"
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 470003
+	mother = 470023
+	11332.1.1 = {
+		birth = "11332.1.1"
+	}
+	11382.1.1 = {
+		death = "11382.1.1"
+	}
+}
+
+32630 = {
+	name = "Katarina"
+	female = yes
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	father = 470003
+	mother = 470023
+	11333.1.1 = {
+		birth = "11333.1.1"
+	}
+	11383.1.1 = {
+		death = "11383.1.1"
+	}
+}
+
+#Frankopan
+
+32631 = {
+	name = "Vid" #count of Veglia
+	dynasty = croatian_krcki
+	religion = "catholic"
+	culture = "croatian"
+	father = 219991
+	11172.1.1 = {
+		birth = "11172.1.1"
+	}
+	11232.1.1 = {
+		death = "11232.1.1"
+	}
+}
+
+32632 = {
+	name = "Henrik"
+	dynasty = croatian_krcki
+	religion = "catholic"
+	culture = "croatian"
+	father = 219991
+	11175.1.1 = {
+		birth = "11175.1.1"
+	}
+	11233.1.1 = {
+		death = "11233.1.1"
+	}
+}
+
+
+32633 = {
+	name = "Vid"
+	dynasty = croatian_krcki
+	religion = "catholic"
+	culture = "croatian"
+	father = 32631
+	11192.1.1 = {
+		birth = "11192.1.1"
+	}
+	11231.1.1 = {
+		death = "11231.1.1"
+	}
+}
+
+32634 = {
+	name = "Treci" #count of Veglia
+	dynasty = croatian_krcki
+	religion = "catholic"
+	culture = "croatian"
+	father = 32631
+	11190.1.1 = {
+		birth = "11190.1.1"
+	}
+	11260.1.1 = {
+		death = "11260.1.1"
+	}
+}
+
+32635 = {
+	name = "Treci" #count of Veglia
+	dynasty = croatian_krcki
+	religion = "catholic"
+	culture = "croatian"
+	father = 32633
+	11212.1.1 = {
+		birth = "11212.1.1"
+	}
+	11262.1.1 = {
+		death = "11262.1.1"
+	}
+}
+
+32636 = {
+	name = "Dujma" #count of Veglia
+	dynasty = croatian_krcki
+	religion = "catholic"
+	culture = "croatian"
+	father = 32635
+	11255.1.1 = {
+		birth = "11255.1.1"
+	}
+	11316.1.1 = {
+		death = "11316.1.1"
+	}
+}
+
+219999 = {
+	name = "Miroslav" #count of Zadar
+	dynasty = 18005
+	martial = 5
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "croatian"
+	trait = greedy
+	trait = arrogant
+	trait = education_stewardship_2
+	father = 32594
+	11124.1.1 = {
+		birth = "11124.1.1"
+	}
+	11184.1.1 = {
+		death = "11184.1.1"
+	}
+}
+
+220002 = {
+	name = "Grgur" #count of Zadar
+	dynasty = 18005
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = "croatian"
+	trait = greedy
+	trait = lustful
+	trait = education_martial_2
+	father = 219999
+	11144.1.1 = {
+		birth = "11144.1.1"
+	}
+	11218.1.1 = {
+		death = "11218.1.1"
+	}
+}
+
+470001 = {
+	name = "Pavao"
+	dynasty = 18005
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "croatian"
+	trait = clubfooted
+	trait = calm
+	trait = education_martial_2
+	father = 32610
+	11245.1.1 = {
+		birth = "11245.1.1"
+	}
+	11304.1.1 = {
+		add_pressed_claim = title:d_bosna
+	}
+	11312.5.1 = {
+		death = "11312.5.1"
+	}
+}
+
+470002 = {
+	name = "Juraj" #count of Split
+	dynasty = 18005
+	martial = 8
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "croatian"
+	trait = lustful
+	trait = education_intrigue_2
+	father = 470001
+	11275.1.1 = {
+		birth = "11275.1.1"
+	}
+	11330.1.1 = {
+		death = "11330.1.1"
+	}
+}
+
+470003 = {
+	name = "Pavao" #count of Zadar
+	dynasty = 18005
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "croatian"
+	trait = arrogant
+	trait = education_intrigue_2
+	father = 470001
+	11295.1.1 = {
+		birth = "11295.1.1"
+	}
+	11326.1.2 = {
+		add_spouse = 470023
+	}
+	11346.1.1 = {
+		death = "11346.1.1"
+	}
+}
+
+470004 = {
+	name = "Pavao" #count Split
+	dynasty = 18005
+	martial = 3
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "croatian"
+	trait = arrogant
+	trait = education_martial_2
+	father = 470002
+	11290.1.1 = {
+		birth = "11290.1.1"
+	}
+	11312.1.1 = {
+		add_spouse = 470005
+	}
+	11356.1.1 = {
+		death = "11356.1.1"
+	}
+}
+
+470007 = {
+	name = "Ivan"
+	# AKA: Ivan Jurisic
+	dynasty = 100461
+	martial = 6
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "croatian"
+	trait = brave
+	trait = education_martial_2
+	11289.1.1 = {
+		birth = "11289.1.1"
+	}
+	11335.1.1 = {
+		add_spouse = 470006
+	}
+	11339.1.1 = {
+		death = "11339.1.1"
+	}
+}
+
+470008 = {
+	name = "Bozidar"
+	dynasty = 18005
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "croatian"
+	trait = lustful
+	trait = zealous
+	trait = education_learning_3
+	father = 470002
+	11290.1.1 = {
+		birth = "11290.1.1"
+	}
+	11340.1.1 = {
+		death = "11340.1.1"
+	}
+}
+
+470009 = {
+	name = "Mladen" #Count of Zadar
+	dynasty = 18005
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "croatian"
+	trait = lustful
+	trait = zealous
+	trait = education_learning_3
+	father = 470002
+	11292.1.1 = {
+		birth = "11292.1.1"
+	}
+	11309.1.2 = {
+		add_spouse = 468506
+	}
+	11348.1.1 = {
+		death = "11348.1.1"
+	}
+}
+
+470010 = {
+	name = "Jelena"
+	female = yes
+	dynasty = 18005
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = "croatian"
+	trait = lustful
+	trait = arrogant
+	trait = education_stewardship_2
+	father = 470002
+	11311.1.1 = {
+		birth = "11311.1.1"
+	}
+	11361.1.1 = {
+		death = "11361.1.1"
+	}
+}
+
+470011 = {
+	name = "Juraj"
+	dynasty = 18005
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "croatian"
+	trait = education_martial_2
+	father = 470003
+	mother = 470023
+	11330.1.1 = {
+		birth = "11330.1.1"
+	}
+	11361.1.1 = {
+		death = "11361.1.1"
+	}
+}
+
+470012 = {
+	name = "Mladen"
+	dynasty = 18005
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "croatian"
+	trait = chaste
+	trait = arrogant
+	trait = education_learning_3
+	father = 470009
+	mother = 468506
+	11311.1.1 = {
+		birth = "11311.1.1"
+	}
+	11385.1.1 = {
+		death = "11385.1.1"
+	}
+}
+
+470013 = {
+	name = "Katarina"
+	female = yes
+	dynasty = 18005
+	religion = "catholic"
+	culture = "croatian"
+	trait = chaste
+	trait = arrogant
+	trait = education_intrigue_2
+	father = 470009
+	mother = 468506
+	11310.1.1 = {
+		birth = "11310.1.1"
+	}
+	11358.3.5 = {
+		death = "11358.3.5"
+	}
+}
+
+470022 = {
+	name = "Elizabeta"
+	female = yes
+	dynasty = 18005
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = "croatian"
+	trait = gluttonous
+	trait = greedy
+	trait = education_intrigue_2
+	father = 32625
+	11294.1.1 = {
+		birth = "11294.1.1"
+	}
+	11345.1.1 = {
+		death = "11345.1.1"
+	}
+}
+
+219990 = {
+	name = "Dujma" #count of Veglia
+	dynasty = croatian_krcki
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "croatian"
+	trait = education_intrigue_2
+	11113.1.1 = {
+		birth = "11113.1.1"
+	}
+	11163.1.1 = {
+		death = "11163.1.1"
+	}
+}
+
+219991 = {
+	name = "Bartol" #count of Veglia
+	dynasty = croatian_krcki
+	martial = 2
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "croatian"
+	trait = education_stewardship_2
+	father = 219990
+	11148.1.1 = {
+		birth = "11148.1.1"
+	}
+	11231.1.1 = {
+		death = "11231.1.1"
+	}
+}
+
+219992 = {
+	name = "Vid" #count of Veglia
+	dynasty = croatian_krcki
+	martial = 6
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "croatian"
+	father = 219990
+	11159.1.1 = {
+		birth = "11159.1.1"
+	}
+	11209.1.1 = {
+		death = "11209.1.1"
+	}
+}
+
+470020 = {
+	name = "Treci" #count of Veglia
+	dynasty = croatian_krcki
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "croatian"
+	trait = education_martial_2
+	father = 32636
+	11272.1.1 = {
+		birth = "11272.1.1"
+	}
+	11322.1.1 = {
+		death = "11322.1.1"
+	}
+}
+
+470021 = {
+	name = "Dujma" #count of Veglia
+	dynasty = croatian_krcki #Frankopan
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "croatian"
+	trait = chaste
+	trait = lazy
+	trait = education_diplomacy_3
+	father = 470020
+	11293.1.1 = {
+		birth = "11293.1.1"
+	}
+	11310.1.2 = {
+		add_spouse = 470022
+	}
+	11343.1.1 = {
+		death = "11343.1.1"
+	}
+}
+
+470023 = {
+	name = "Elizabeta"
+	female = yes
+	dynasty = croatian_krcki #Frankopan
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "croatian"
+	trait = greedy
+	trait = temperate
+	trait = education_diplomacy_1
+	father = 470021
+	mother = 470022
+	11311.1.1 = {
+		birth = "11311.1.1"
+	}
+	11361.1.1 = {
+		death = "11361.1.1"
+	}
+}
+
+470024 = {
+	name = "Bartol"
+	dynasty = croatian_krcki
+	martial = 4
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "croatian"
+	trait = lustful
+	trait = zealous
+	trait = education_learning_2
+	father = 470020
+	11300.1.1 = {
+		birth = "11300.1.1"
+	}
+	11361.1.1 = {
+		death = "11361.1.1"
+	}
+}
+
+93539 = {
+	name = "Ugra"
+	dynasty = 100464
+	religion = "catholic"
+	culture = "croatian"
+	11050.1.1 = {
+		birth = "11050.1.1"
+	}
+	11104.1.1 = {
+		death = "11104.1.1"
+	}
+}
+
+93540 = {
+	name = "Sergije"
+	dynasty = 100464
+	religion = "catholic"
+	culture = "croatian"
+	father = 93539
+	11070.1.1 = {
+		birth = "11070.1.1"
+	}
+	11106.1.1 = {
+		death = "11106.1.1"
+	}
+}
+
+93541 = {
+	name = "Ugrin"
+	dynasty = 100464
+	religion = "catholic"
+	culture = "croatian"
+	father = 93539
+	11072.1.1 = {
+		birth = "11072.1.1"
+	}
+	11107.1.1 = {
+		death = "11107.1.1"
+	}
+}
+
+93542 = {
+	name = "Klaudije"
+	dynasty = 100464
+	religion = "catholic"
+	culture = "croatian"
+	father = 93539
+	11075.1.1 = {
+		birth = "11075.1.1"
+	}
+	11117.1.1 = {
+		death = "11117.1.1"
+	}
+}
+
+93543 = {
+	name = "Dominik"
+	dynasty = 100464
+	religion = "catholic"
+	culture = "croatian"
+	father = 93542
+	11093.1.1 = {
+		birth = "11093.1.1"
+	}
+	11141.1.1 = {
+		death = "11141.1.1"
+	}
+}
+
+93544 = {
+	name = "Ampudin"
+	dynasty = 100464
+	religion = "catholic"
+	culture = "croatian"
+	father = 93543
+	11125.1.1 = {
+		birth = "11125.1.1"
+	}
+	11180.1.1 = {
+		death = "11180.1.1"
+	}
+}
+
+93545 = {
+	name = "Mavro"
+	dynasty = 100464
+	religion = "catholic"
+	culture = "croatian"
+	father = 93544
+	11145.1.1 = {
+		birth = "11145.1.1"
+	}
+	11183.1.1 = {
+		death = "11183.1.1"
+	}
+}
+
+93546 = {
+	name = "Suban"
+	dynasty = 100464
+	religion = "catholic"
+	culture = "croatian"
+	father = 93544
+	11147.1.1 = {
+		birth = "11147.1.1"
+	}
+	11185.1.1 = {
+		death = "11185.1.1"
+	}
+}
+
+93547 = {
+	name = "KA_lA_n"
+	dynasty = 100464
+	religion = "catholic"
+	culture = "croatian"
+	father = 93544
+	11149.1.1 = {
+		birth = "11149.1.1"
+	}
+	11193.1.1 = {
+		death = "11193.1.1"
+	}
+}
+
+93548 = {
+	name = "Dominik"
+	dynasty = 100464
+	religion = "catholic"
+	culture = "croatian"
+	father = 93545
+	11165.1.1 = {
+		birth = "11165.1.1"
+	}
+	11195.1.1 = {
+		death = "11195.1.1"
+	}
+}
+
+93549 = {
+	name = "Andrija"
+	dynasty = 100464
+	religion = "catholic"
+	culture = "croatian"
+	father = 93545
+	11166.1.1 = {
+		birth = "11166.1.1"
+	}
+	11199.1.1 = {
+		death = "11199.1.1"
+	}
+}
+
+93550 = {
+	name = "Branko"
+	dynasty = 100464
+	religion = "catholic"
+	culture = "croatian"
+	father = 93545
+	11167.1.1 = {
+		birth = "11167.1.1"
+	}
+	11200.1.1 = {
+		death = "11200.1.1"
+	}
+}
+
+93553 = {
+	name = "Merkurije"
+	dynasty = 100464
+	religion = "catholic"
+	culture = "croatian"
+	father = 93550
+	11185.1.1 = {
+		birth = "11185.1.1"
+	}
+	11206.1.1 = {
+		death = "11206.1.1"
+	}
+}
+
+93554 = {
+	name = "Stjepan"
+	dynasty = 7376
+	religion = "catholic"
+	culture = "croatian"
+	11150.1.1 = {
+		birth = "11150.1.1"
+	}
+	11208.1.1 = {
+		death = "11208.1.1"
+	}
+}
+
+93555 = {
+	name = "Branko"
+	dynasty = 7376
+	religion = "catholic"
+	culture = "croatian"
+	father = 93554
+	11170.1.1 = {
+		birth = "11170.1.1"
+	}
+	11209.1.1 = {
+		death = "11209.1.1"
+	}
+}
+
+
+93556 = {
+	name = "Stjepan"
+	#placeholder
+	dynasty = 7376
+	religion = "catholic"
+	culture = "croatian"
+	11080.1.1 = {
+		birth = "11080.1.1"
+	}
+	11130.1.1 = {
+		death = "11130.1.1"
+	}
+}
+
+93557 = {
+	name = "Petar"
+	#placeholder
+	dynasty = 7376
+	religion = "catholic"
+	culture = "croatian"
+	father = 93556
+	11100.1.1 = {
+		birth = "11100.1.1"
+	}
+	11150.1.1 = {
+		death = "11150.1.1"
+	}
+}
+
+
+93558 = {
+	name = "Dvonimir"
+	#placeholder
+	dynasty = 7376
+	religion = "catholic"
+	culture = "croatian"
+	father = 93557
+	11120.1.1 = {
+		birth = "11120.1.1"
+	}
+	11165.1.1 = {
+		death = "11165.1.1"
+	}
+}
+
+93559 = {
+	name = "Petar"
+	#placeholder
+	dynasty = 7376
+	religion = "catholic"
+	culture = "croatian"
+	father = 93558
+	11140.1.1 = {
+		birth = "11140.1.1"
+	}
+	11165.1.1 = {
+		death = "11165.1.1"
+	}
+}
+
+470000 = {
+	name = "Mladen"
+	dynasty = 18005
+	martial = 6
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "croatian"
+	trait = chaste
+	trait = craven
+	trait = education_martial_3
+	father = 32610
+	11250.1.1 = {
+		birth = "11250.1.1"
+	}
+	11299.1.1 = {
+		add_pressed_claim = title:d_bosna
+	}	
+	11304.1.1 = {
+		death = "11304.1.1"
+	}
+}
+
+74045 = {
+	name = "Gostomil"
+	dynasty = 12284
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 146179
+	10826.1.1 = {
+		birth = "10826.1.1"
+	}
+	10861.1.1 = {
+		religion = "catholic"
+	}
+	10890.1.1 = {
+		death = "10890.1.1"
+	}
+}
+
+74046 = {
+	name = "Ljutomisl"
+	dynasty = 12284
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 74045
+	10851.1.1 = {
+		birth = "10851.1.1"
+	}
+	10861.1.1 = {
+		religion = "catholic"
+	}
+	10918.1.1 = {
+		death = "10918.1.1"
+	}
+}
+
+167855 = {
+	name = "Domagoj"
+	dynasty = 100462
+	religion = "catholic"
+	culture = "croatian"
+	father = 146006
+	10820.1.1 = {
+		birth = "10820.1.1"
+	}
+	10876.1.1 = {
+		death = "10876.1.1"
+	}
+}
+
+
+
+
+167856 = {
+	name = "Iljko"
+	dynasty = 100462
+	religion = "catholic"
+	culture = "croatian"
+	father = 167855
+	10845.1.1 = {
+		birth = "10845.1.1"
+	}
+	10878.1.1 = {
+		death = "10878.1.1"
+	}
+}
+
+167857 = {
+	name = "Branimir"
+	dynasty = 100462
+	religion = "catholic"
+	culture = "croatian"
+	father = 167855
+	10850.1.1 = {
+		birth = "10850.1.1"
+	}
+	10892.1.1 = {
+		death = "10892.1.1"
+	}
+}
+
+168292 = {
+	name = "Senulat"
+	dynasty = 9586
+	religion = "slavic_pagan"
+	culture = "croatian"
+	10730.1.1 = {
+		birth = "10730.1.1"
+	}
+	10790.1.1 = {
+		death = "10790.1.1"
+	}
+}
+
+
+168293 = {
+	name = "Silimir"
+	dynasty = 9586
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 168292
+	10750.1.1 = {
+		birth = "10750.1.1"
+	}
+	10791.1.1 = {
+		religion = catholic
+	}
+	10796.1.1 = {
+		death = "10796.1.1"
+	}
+}
+
+168294 = {
+	name = "Vojnomir"
+	dynasty = 9586
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 168292
+	10752.1.1 = {
+		birth = "10752.1.1"
+	}
+	10791.1.1 = {
+		religion = catholic
+	}
+	10810.1.1 = {
+		death = "10810.1.1"
+	}
+}
+
+168295 = {
+	name = "Ljudevit"
+	dynasty = 9586
+	religion = "catholic"
+	culture = "croatian"
+	father = 168294
+	10775.1.1 = {
+		birth = "10775.1.1"
+	}
+	10823.1.1 = {
+		death = "10823.1.1"
+	}
+}
+
+168296 = {
+	name = "Vladin"
+	dynasty = 9586
+	religion = "catholic"
+	culture = "croatian"
+	father = 168293
+	10780.1.1 = {
+		birth = "10780.1.1"
+	}
+	10829.1.1 = {
+		death = "10829.1.1"
+	}
+}
+
+
+168297 = {
+	name = "Visedrag"
+	dynasty = 9586
+	religion = "catholic"
+	culture = "croatian"
+	father = 168293
+	10785.1.1 = {
+		birth = "10785.1.1"
+	}
+	10825.1.1 = {
+		death = "10825.1.1"
+	}
+}
+
+168298 = {
+	name = "Ratimir"
+	dynasty = 9586
+	religion = "catholic"
+	culture = "croatian"
+	father = 168297
+	10805.1.1 = {
+		birth = "10805.1.1"
+	}
+	10838.1.1 = {
+		death = "10838.1.1"
+	}
+}
+
+168299 = {
+	name = "Braslav"
+	dynasty = 9586
+	religion = "catholic"
+	culture = "croatian"
+	father = 168296
+	10825.1.1 = {
+		birth = "10825.1.1"
+	}
+	10898.1.1 = {
+		death = "10898.1.1"
+	}
+}
+
+168307 = {
+	name = "Pribunja"
+	dynasty = 9586
+	religion = "catholic"
+	culture = "croatian"
+	father = 168299
+	10850.1.1 = {
+		birth = "10850.1.1"
+	}
+	10915.1.1 = {
+		death = "10915.1.1"
+	}
+}
+
+20382 = {
+	name = "Cicca"
+	female = yes
+	dynasty = 512
+	martial = 4
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = "croatian"
+	trait = lustful
+	trait = wrathful
+	trait = greedy
+	trait = education_martial_3
+	father = 8620
+	mother = 20380
+	11041.1.1 = {
+		birth = "11041.1.1"
+	}
+	11066.1.1 = {
+		employer = 8622
+	}
+	11090.1.1 = {
+		death = "11090.1.1"
+	}
+}
+
+183006 = {
+	name = "Klaudija"
+	female = yes
+	dynasty = 512
+	religion = "catholic"
+	culture = "croatian"
+	trait = education_intrigue_3
+	father = 8628
+	mother = 475
+	11064.1.1 = {
+		birth = "11064.1.1"
+	}
+	11117.1.1 = {
+		death = "11117.1.1"
+	}
+}
+
+183007 = {
+	name = "Radovan"
+	dynasty = 512
+	religion = "catholic"
+	culture = "croatian"
+	trait = education_diplomacy_2
+	father = 8628
+	mother = 475
+	11065.1.1 = {
+		birth = "11065.1.1"
+	}
+	11086.1.1 = {
+		death = "11086.1.1"
+	}
+}
+146000 = {
+	name = "Mislav"
+	dynasty = 512
+	religion = "catholic"
+	culture = "croatian"
+	father = 146001
+	10800.1.1 = {
+		birth = "10800.1.1"
+	}
+	10845.1.1 = {
+		death = "10845.1.1"
+	}
+}
+
+146001 = {
+	name = "Vladislav"
+	dynasty = 512
+	religion = "catholic"
+	culture = "croatian"
+	father = 146002
+	10780.1.1 = {
+		birth = "10780.1.1"
+	}
+	10835.1.1 = {
+		death = "10835.1.1"
+	}
+}
+
+146002 = {
+	name = "Klonimir"
+	dynasty = 512
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 146004
+	10760.1.1 = {
+		birth = "10760.1.1"
+	}
+	10780.1.1 = {
+		religion = catholic
+	}
+	10815.1.1 = {
+		death = "10815.1.1"
+	}
+}
+
+146003 = {
+	name = "Borna"
+	dynasty = 512
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 146004
+	10758.1.1 = {
+		birth = "10758.1.1"
+	}
+	10780.1.1 = {
+		religion = catholic
+	}
+	10821.1.1 = {
+		death = "10821.1.1"
+	}
+}
+
+146004 = {
+	name = "Viseslav"
+	dynasty = 512
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 146005
+	10738.1.1 = {
+		birth = "10738.1.1"
+	}
+	10780.1.1 = {
+		religion = catholic
+	}
+	10802.1.1 = {
+		death = "10802.1.1"
+	}
+}
+
+146005 = {
+	name = "Budimir"
+	dynasty = 512
+	religion = "slavic_pagan"
+	culture = "croatian"
+
+	10718.1.1 = {
+		birth = "10718.1.1"
+	}
+	10780.1.1 = {
+		death = "10780.1.1"
+	}
+}
+
+146006 = {
+	name = "Dobimir"
+	dynasty = 100462
+	religion = "catholic"
+	culture = "croatian"
+	father = 146007
+	10790.1.1 = {
+		birth = "10760.1.1"
+	}
+	10845.1.1 = {
+		death = "10845.1.1"
+	}
+}
+
+146007 = {
+	name = "Krepimir"
+	dynasty = 100462
+	religion = "catholic"
+	culture = "croatian"
+	father = 146008
+	10759.1.1 = {
+		birth = "10759.1.1"
+	}
+	10818.1.1 = {
+		death = "10818.1.1"
+	}
+}
+
+146008 = {
+	name = "Pridislav"
+	dynasty = 100462
+	religion = "slavic_pagan"
+	culture = "croatian"
+
+	10731.1.1 = {
+		birth = "10731.1.1"
+	}
+	10780.1.1 = {
+		religion = catholic
+	}
+	10792.1.1 = {
+		death = "10792.1.1"
+	}
+}
+146179 = {
+	name = "Vitimir"
+	dynasty = 12284
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 146180
+	10798.1.1 = {
+		birth = yes
+	}
+	10859.1.1 = {
+		death = yes
+	}
+}
+
+146180 = {
+	name = "Drzislav"
+	dynasty = 12284
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 146181
+	10777.1.1 = {
+		birth = yes
+	}
+	10833.1.1 = {
+		death = yes
+	}
+}
+
+146181 = {
+	name = "Sebeslav"
+	dynasty = 12284
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 146182
+	10759.1.1 = {
+		birth = yes
+	}
+	10818.1.1 = {
+		death = yes
+	}
+}
+
+146182 = {
+	name = "Hranislav"
+	dynasty = 12284
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 146184
+	10741.1.1 = {
+		birth = yes
+	}
+	10804.1.1 = {
+		death = yes
+	}
+}
+
+146183 = {
+	name = "Dragomir"
+	dynasty = 12284
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 146184
+	10743.1.1 = {
+		birth = yes
+	}
+	10807.1.1 = {
+		death = yes
+	}
+}
+
+146184 = {
+	name = "Tvrdoslav"
+	dynasty = 12284
+	religion = "slavic_pagan"
+	culture = "croatian"
+
+	10719.1.1 = {
+		birth = yes
+	}
+	10781.1.1 = {
+		death = yes
+	}
+}
+146009 = {
+	name = "Petar"
+	dynasty = 9560
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 146010
+	10761.1.1 = {
+		birth = "10761.1.1"
+	}
+	10813.1.1 = {
+		death = "10813.1.1"
+	}
+}
+
+146010 = {
+	name = "Beloje"
+	dynasty = 9560
+	religion = "slavic_pagan"
+	culture = "croatian"
+
+	10729.1.1 = {
+		birth = "10729.1.1"
+	}
+	10786.1.1 = {
+		death = "10786.1.1"
+	}
+}
+
+146011 = {
+	name = "Mislav"
+	dynasty = 1022356
+	religion = "slavic_pagan"
+	culture = "croatian"
+
+	10725.1.1 = {
+		birth = "10725.1.1"
+	}
+	10787.1.1 = {
+		death = "10787.1.1"
+	}
+}
+
+146012 = {
+	name = "Miroslav"
+	dynasty = 1022356
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 146011
+	10755.1.1 = {
+		birth = "10755.1.1"
+	}
+	10806.1.1 = {
+		death = "10806.1.1"
+	}
+}
+
+146013 = {
+	name = "Milorad"
+	dynasty = 1022356
+	religion = "slavic_pagan"
+	culture = "croatian"
+	father = 146012
+	10790.1.1 = {
+		birth = "10790.1.1"
+	}
+	10843.1.1 = {
+		death = "10843.1.1"
+	}
+}

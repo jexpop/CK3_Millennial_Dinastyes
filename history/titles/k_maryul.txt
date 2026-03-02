@@ -1,0 +1,1918 @@
+k_maryul = {
+	10867.1.1 = { change_development_level = 3 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 8 }
+	
+	#Maryul Kingdom
+	10930.1.1={
+		holder=247166
+	}
+	10975.1.1={
+		holder=247167
+	}
+	10990.1.1={
+		holder=247168
+	}
+	11015.1.1={
+		holder=247169
+	}
+	11050.1.1={
+		holder=247170
+	}
+	11080.1.1={
+		holder=247171
+	}
+	11110.1.1={
+		holder=247172
+	}
+	11140.1.1={
+		holder=247173
+	}
+	11200.1.1={
+		holder=247177
+	}
+	#Sakya Trizin established as overlord of Tibet by Yuan Dynasty
+	11251.1.1 = {
+		liege = "e_mongol_empire" #temporary until tribute system is implemented
+	}
+	11275.1.1={
+		holder=247174
+	}
+	11300.1.1={
+		holder=247175
+	}
+	11325.1.1={
+		holder=247176
+	}
+	11350.1.1={
+		holder=247178
+	}
+	11380.1.1={
+		holder=247179
+	}
+}
+
+
+d_ladakh = {
+	#Moloso Kingdom conquered by Tibetan Empire
+	10635.1.1={
+		liege = "k_guge"
+	}
+	10640.1.1={
+		holder = 304809
+	}
+	10700.1.1={
+		holder = 304810
+	}
+	10720.1.1={
+		holder = 304811
+	}
+	10740.1.1={
+		holder = 304812
+	}
+	10760.1.1={
+		holder = 304813
+	}
+	10780.1.1={
+		holder = 304814
+	}
+	10800.1.1={
+		holder = 304815
+	}
+	10820.1.1={
+		holder = 304816
+	}
+	10840.1.1={
+		holder = 304817
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege = "k_guge"
+	}
+	10860.1.1={
+		holder = 304818
+	}
+	10880.1.1={
+		holder = 304819
+	}
+	10900.1.1={
+		holder = 304820
+	}
+	10920.1.1={
+		holder = 247166
+	}
+	#Maryul Kingdom
+	10930.1.1={
+		liege = "k_maryul"
+		holder=247166
+	}
+	10975.1.1={
+		holder=247167
+	}
+	10990.1.1={
+		holder=247168
+	}
+	11015.1.1={
+		holder=247169
+	}
+	11050.1.1={
+		holder=247170
+	}
+	11080.1.1={
+		holder=247171
+	}
+	11110.1.1={
+		holder=247172
+	}
+	11140.1.1={
+		holder=247173
+	}
+	11200.1.1={
+		holder=247177
+	}
+	11275.1.1={
+		holder=247174
+	}
+	11300.1.1={
+		holder=247175
+	}
+	11325.1.1={
+		holder=247176
+	}
+	11350.1.1={
+		holder=247178
+	}
+	11380.1.1={
+		holder=247179
+	}
+}
+
+
+c_leh = {
+	#Moloso Kingdom conquered by Tibetan Empire
+	10635.1.1={
+		liege = "d_ladakh"
+	}
+	10640.1.1={
+		holder = 304809
+	}
+	10700.1.1={
+		holder = 304810
+	}
+	10720.1.1={
+		holder = 304811
+	}
+	10740.1.1={
+		holder = 304812
+	}
+	10760.1.1={
+		holder = 304813
+	}
+	10780.1.1={
+		holder = 304814
+	}
+	10800.1.1={
+		holder = 304815
+	}
+	10820.1.1={
+		holder = 304816
+	}
+	10840.1.1={
+		holder = 304817
+	}
+	#Era of Fragmentation
+	10860.1.1={
+		holder = 304818
+	}
+	10880.1.1={
+		holder = 304819
+	}
+	10900.1.1={
+		holder = 304820
+	}
+	10920.1.1={
+		holder = 247166
+	}
+	#Maryul Kingdom
+	10930.1.1={
+		holder=247166
+	}
+	10975.1.1={
+		holder=247167
+	}
+	10990.1.1={
+		holder=247168
+	}
+	11015.1.1={
+		holder=247169
+	}
+	11050.1.1={
+		holder=247170
+	}
+	11080.1.1={
+		holder=247171
+	}
+	11110.1.1={
+		holder=247172
+	}
+	11140.1.1={
+		holder=247173
+	}
+	11200.1.1={
+		holder=247177
+	}
+	11275.1.1={
+		holder=247174
+	}
+	11300.1.1={
+		holder=247175
+	}
+	11325.1.1={
+		holder=247176
+	}
+	11350.1.1={
+		holder=247178
+	}
+	11380.1.1={
+		holder=247179
+	}
+}
+
+
+c_demchok = {
+	#Moloso Kingdom conquered by Tibetan Empire
+	10635.1.1={
+		liege = "d_ladakh"
+	}
+	10640.1.1={
+		holder = 304809
+	}
+	10700.1.1={
+		holder = 304810
+	}
+	10720.1.1={
+		holder = 304811
+	}
+	10740.1.1={
+		holder = 304812
+	}
+	10760.1.1={
+		holder = 304813
+	}
+	10780.1.1={
+		holder = 304814
+	}
+	10800.1.1={
+		holder = 304815
+	}
+	10820.1.1={
+		holder = 304816
+	}
+	10840.1.1={
+		holder = 304817
+	}
+	#Era of Fragmentation
+	10860.1.1={
+		holder = 304818
+	}
+	10880.1.1={
+		holder = 304819
+	}
+	10900.1.1={
+		holder = 304820
+	}
+	10920.1.1={
+		holder = 247166
+	}
+	#Maryul Kingdom
+	10930.1.1= {
+		holder=247166
+	}
+	10975.1.1= {
+		holder=247167
+	}
+	10990.1.1= {
+		holder=247168
+	}
+	11015.1.1= {
+		holder=247169
+	}
+	11050.1.1= {
+		holder=247170
+	}
+	11080.1.1= {
+		holder=247171
+	}
+	11110.1.1= {
+		holder=247172
+	}
+	11140.1.1= {
+		holder=247173
+	}
+	11200.1.1= {
+		holder=247177
+	}
+	11275.1.1= {
+		holder=247174
+	}
+	11300.1.1= {
+		holder=247175
+	}
+	11325.1.1= {
+		holder=247176
+	}
+	11350.1.1= {
+		holder=247178
+	}
+	11380.1.1= {
+		holder=247179
+	}
+}
+
+
+c_diskit = {
+	#Moloso Kingdom conquered by Tibetan Empire
+	10635.1.1={
+		liege = "d_ladakh"
+	}
+	10640.1.1={
+		holder = 304809
+	}
+	10700.1.1={
+		holder = 304810
+	}
+	10720.1.1={
+		holder = 304811
+	}
+	10740.1.1={
+		holder = 304812
+	}
+	10760.1.1={
+		holder = 304813
+	}
+	10780.1.1={
+		holder = 304814
+	}
+	10800.1.1={
+		holder = 304815
+	}
+	10820.1.1={
+		holder = 304816
+	}
+	10840.1.1={
+		holder = 304817
+	}
+	#Era of Fragmentation
+	10860.1.1={
+		holder = 304818
+	}
+	10880.1.1={
+		holder = 304819
+	}
+	10900.1.1={
+		holder = 304820
+	}
+	10920.1.1={
+		holder = 247166
+	}
+	#Maryul Kingdom
+	10930.1.1={
+		holder=247166
+	}
+	10975.1.1={
+		holder=247167
+	}
+	10990.1.1={
+		holder=247168
+	}
+	11015.1.1={
+		holder=247169
+	}
+	11050.1.1={
+		holder=247170
+	}
+	11080.1.1={
+		holder=247171
+	}
+	11110.1.1={
+		holder=247172
+	}
+	11140.1.1={
+		holder=247173
+	}
+	11200.1.1={
+		holder=247177
+	}
+	11275.1.1={
+		holder=247174
+	}
+	11300.1.1={
+		holder=247175
+	}
+	11325.1.1={
+		holder=247176
+	}
+	11350.1.1={
+		holder=247178
+	}
+	11380.1.1={
+		holder=247179
+	}
+}
+
+d_zanskar = {
+	#Moloso Kingdom conquered by Tibetan Empire
+	10635.1.1={
+		liege = "e_tibet"
+	}
+	#Fictional Imperial Administators of Zanskar
+	10660.1.1={
+		holder=304770
+	}
+	10700.1.1={
+		holder=304771
+	}
+	10720.1.1={
+		holder=304772
+	}
+	10740.1.1={
+		holder=304773
+	}
+	10760.1.1={
+		holder=304774
+	}
+	10780.1.1={
+		holder=304775
+	}
+	10800.1.1={
+		holder=304776
+	}
+	10820.1.1={
+		holder=304777
+	}
+	10840.1.1={
+		holder=304778
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege = "k_guge"
+	}
+	10860.1.1={
+		holder = 304779
+	}
+	10880.1.1={
+		holder = 304780
+	}
+	10900.1.1={
+		holder = 304781
+	}
+	10920.1.1={
+		holder = 304782
+	}
+	#Kingdom is divided in three
+	10930.1.1={
+		liege = 0
+		holder = 247165
+	}
+	#Zanskar and Spiti/Lahul become part of Guge
+	#Purgyal Dynasty - fictional placeholders
+	10965.1.1={
+		liege = "k_guge"
+		holder = 304751
+	}
+	11020.1.1={
+		holder = 304752
+	}
+	11040.1.1={
+		holder = 304753
+	}
+	11060.1.1={
+		holder = 304754
+	}
+	11080.1.1={
+		holder = 304755
+	}
+	11100.1.1={
+		holder = 304756
+	}
+	11120.1.1={
+		holder = 304757
+	}
+	11140.1.1={
+		holder = 304758
+	}
+	11160.1.1={
+		holder = 304759
+	}
+	11180.1.1={
+		holder = 304760
+	}
+	11200.1.1={
+		holder = 304761
+	}
+	11220.1.1={
+		holder = 304762
+	}
+	11240.1.1={
+		holder = 304763
+	}
+	11260.1.1={
+		holder = 304764
+	}
+	11280.1.1={
+		holder = 304765
+	}
+	11300.1.1={
+		holder = 304766
+	}
+	11320.1.1={
+		holder = 304767
+	}
+	11340.1.1={
+		holder = 304768
+	}
+	11360.1.1={
+		holder = 304769
+	}
+}
+
+c_padum = {
+	10625.1.1={
+		liege="d_zanskar"
+	}
+	#Fictional Imperial Administators of Zanskar
+	10660.1.1={
+		holder=304770
+	}
+	10700.1.1={
+		holder=304771
+	}
+	10720.1.1={
+		holder=304772
+	}
+	10740.1.1={
+		holder=304773
+	}
+	10760.1.1={
+		holder=304774
+	}
+	10780.1.1={
+		holder=304775
+	}
+	10800.1.1={
+		holder=304776
+	}
+	10820.1.1={
+		holder=304777
+	}
+	10840.1.1={
+		holder=304778
+	}
+	#Era of Fragmentation - Maryul Kingdom
+	10860.1.1={
+		holder = 304779
+	}
+	10880.1.1={
+		holder = 304780
+	}
+	10900.1.1={
+		holder = 304781
+	}
+	10920.1.1={
+		holder = 304782
+	}
+	#Maryul is divided in three
+	10930.1.1={
+		holder = 247165
+	}
+	#Zanskar and Spiti/Lahul become part of Guge
+	#Purgyal Dynasty - fictional placeholders
+	10965.1.1={
+		holder = 304751
+	}
+	11020.1.1={
+		holder = 304752
+	}
+	11040.1.1={
+		holder = 304753
+	}
+	11060.1.1={
+		holder = 304754
+	}
+	11080.1.1={
+		holder = 304755
+	}
+	11100.1.1={
+		holder = 304756
+	}
+	11120.1.1={
+		holder = 304757
+	}
+	11140.1.1={
+		holder = 304758
+	}
+	11160.1.1={
+		holder = 304759
+	}
+	11180.1.1={
+		holder = 304760
+	}
+	11200.1.1={
+		holder = 304761
+	}
+	11220.1.1={
+		holder = 304762
+	}
+	11240.1.1={
+		holder = 304763
+	}
+	11260.1.1={
+		holder = 304764
+	}
+	11280.1.1={
+		holder = 304765
+	}
+	11300.1.1={
+		holder = 304766
+	}
+	11320.1.1={
+		holder = 304767
+	}
+	11340.1.1={
+		holder = 304768
+	}
+	11360.1.1={
+		holder = 304769
+	}
+}
+
+
+c_darcha = {
+	10625.1.1={
+		liege = "d_zanskar"
+	}
+	#Fictional Imperial Administators of Zanskar
+	10660.1.1={
+		holder=304770
+	}
+	10700.1.1={
+		holder=304771
+	}
+	10720.1.1={
+		holder=304772
+	}
+	10740.1.1={
+		holder=304773
+	}
+	10760.1.1={
+		holder=304774
+	}
+	10780.1.1={
+		holder=304775
+	}
+	10800.1.1={
+		holder=304776
+	}
+	10820.1.1={
+		holder=304777
+	}
+	10840.1.1={
+		holder=304778
+	}
+	#Era of Fragmentation - Maryul Kingdom
+	10860.1.1={
+		holder = 304779
+	}
+	10880.1.1={
+		holder = 304780
+	}
+	10900.1.1={
+		holder = 304781
+	}
+	10920.1.1={
+		holder = 304782
+	}
+	#Maryul is divided in three
+	10930.1.1={
+		holder = 247165
+	}
+	#Zanskar and Spiti/Lahul become part of Guge
+	#Purgyal Dynasty - fictional placeholders
+	10965.1.1={
+		holder = 304751
+	}
+	11020.1.1={
+		holder = 304752
+	}
+	11040.1.1={
+		holder = 304753
+	}
+	11060.1.1={
+		holder = 304754
+	}
+	11080.1.1={
+		holder = 304755
+	}
+	11100.1.1={
+		holder = 304756
+	}
+	11120.1.1={
+		holder = 304757
+	}
+	11140.1.1={
+		holder = 304758
+	}
+	11160.1.1={
+		holder = 304759
+	}
+	11180.1.1={
+		holder = 304760
+	}
+	11200.1.1={
+		holder = 304761
+	}
+	11220.1.1={
+		holder = 304762
+	}
+	11240.1.1={
+		holder = 304763
+	}
+	11260.1.1={
+		holder = 304764
+	}
+	11280.1.1={
+		holder = 304765
+	}
+	11300.1.1={
+		holder = 304766
+	}
+	11320.1.1={
+		holder = 304767
+	}
+	11340.1.1={
+		holder = 304768
+	}
+	11360.1.1={
+		holder = 304769
+	}
+}
+
+
+c_purig = {
+	10625.1.1={
+		liege = "d_zanskar"
+	}
+	#Fictional Imperial Administators of Zanskar
+	10660.1.1={
+		holder=304770
+	}
+	10700.1.1={
+		holder=304771
+	}
+	10720.1.1={
+		holder=304772
+	}
+	10740.1.1={
+		holder=304773
+	}
+	10760.1.1={
+		holder=304774
+	}
+	10780.1.1={
+		holder=304775
+	}
+	10800.1.1={
+		holder=304776
+	}
+	10820.1.1={
+		holder=304777
+	}
+	10840.1.1={
+		holder=304778
+	}
+	#Era of Fragmentation - Maryul Kingdom
+	10860.1.1={
+		holder = 304779
+	}
+	10880.1.1={
+		holder = 304780
+	}
+	10900.1.1={
+		holder = 304781
+	}
+	10920.1.1={
+		holder = 304782
+	}
+	#Maryul is divided in three
+	#Purig vassals of Maryul - fictional placeholders
+	10930.1.1={
+		liege = "d_ladakh"
+		holder = 304783
+	}
+	10960.1.1={
+		holder = 304784
+	}
+	10980.1.1={
+		holder = 304785
+	}
+	11000.1.1={
+		holder = 304786
+	}
+	11020.1.1={
+		holder = 304787
+	}
+	11040.1.1={
+		holder = 304788
+	}
+	11060.1.1={
+		holder = 304789
+	}
+	11080.1.1={
+		holder = 304790
+	}
+	11100.1.1={
+		holder = 304791
+	}
+	11120.1.1={
+		holder = 304792
+	}
+	11140.1.1={
+		holder = 304793
+	}
+	11160.1.1={
+		holder = 304794
+	}
+	11180.1.1={
+		holder = 304795
+	}
+	11200.1.1={
+		holder = 304796
+	}
+	11220.1.1={
+		holder = 304797
+	}
+	11240.1.1={
+		holder = 304798
+	}
+	11260.1.1={
+		holder = 304799
+	}
+	11280.1.1={
+		holder = 304800
+	}
+	11300.1.1={
+		holder = 304801
+	}
+	11320.1.1={
+		holder = 304802
+	}
+	11340.1.1={
+		holder = 304803
+	}
+	11360.1.1={
+		holder = 304804
+	}
+}
+
+d_baltiyul = {
+	#Palolashahi Dynasty of Palolo Kingdom (c.400-727)
+	#Conquered by Tibetan Empire
+	10727.1.1={
+		liege = "k_guge"
+	}
+	#Shagari Dynasty
+	10740.1.1={
+		holder = 304662
+	}
+	10800.1.1={
+		holder = 304663
+	}
+	10820.1.1={
+		holder = 304664
+	}
+	10840.1.1={
+		holder = 304665
+	}
+	10842.1.1={
+		liege = 0
+	} #Era of Fragmentation
+	10860.1.1={
+		holder = 304666
+	}
+	10880.1.1={
+		holder = 304667
+	}
+	10900.1.1={
+		holder = 304668
+	}
+	10920.1.1={
+		holder = 304669
+	}
+	10940.1.1={
+		holder = 304670
+	}
+	10960.1.1={
+		holder = 304671
+	}
+	10980.1.1={
+		holder = 304672
+	}
+	11000.1.1={
+		holder = 304673
+	}
+	11020.1.1={
+		holder = 304674
+	}
+	11040.1.1={
+		holder = 304675
+	}
+	11060.1.1={
+		holder = 304676
+	}
+	11080.1.1={
+		holder = 304677
+	}
+	11100.1.1={
+		holder = 304678
+	}
+	11120.1.1={
+		holder = 304679
+	}
+	11140.1.1={
+		holder = 304680
+	}
+	11160.1.1={
+		holder = 304681
+	}
+	11180.1.1={
+		holder = 304682
+	}
+	#Maqpon Dynasty
+	11190.1.1={
+		holder = 304684 #Ibrahim Shah
+	}
+	11220.1.1={
+		holder = 304685
+	}
+	11240.1.1={
+		holder = 304686
+	}
+	11260.1.1={
+		holder = 304687
+	}
+	11280.1.1={
+		holder = 304688
+	}
+	11300.1.1={
+		holder = 304689
+	}
+	11340.1.1={
+		holder = 304690
+	}
+}
+
+c_skardu = {
+	#Palolashahi Dynasty of Palolo Kingdom (c.400-727)
+	#Conquered by Tibetan Empire
+	10727.1.1={
+		liege = "d_baltiyul"
+	}
+	#Shagari Dynasty
+	10740.1.1={
+		holder = 304662
+	}
+	10800.1.1={
+		holder = 304663
+	}
+	10820.1.1={
+		holder = 304664
+	}
+	10840.1.1={
+		holder = 304665
+	}
+	10860.1.1={
+		holder = 304666
+	}
+	10880.1.1={
+		holder = 304667
+	}
+	10900.1.1={
+		holder = 304668
+	}
+	10920.1.1={
+		holder = 304669
+	}
+	10940.1.1={
+		holder = 304670
+	}
+	10960.1.1={
+		holder = 304671
+	}
+	10980.1.1={
+		holder = 304672
+	}
+	11000.1.1={
+		holder = 304673
+	}
+	11020.1.1={
+		holder = 304674
+	}
+	11040.1.1={
+		holder = 304675
+	}
+	11060.1.1={
+		holder = 304676
+	}
+	11080.1.1={
+		holder = 304677
+	}
+	11100.1.1={
+		holder = 304678
+	}
+	11120.1.1={
+		holder = 304679
+	}
+	11140.1.1={
+		holder = 304680
+	}
+	11160.1.1={
+		holder = 304681
+	}
+	11180.1.1={
+		holder = 304682
+	}
+	#Maqpon Dynasty
+	11190.1.1={
+		holder = 304684 #Ibrahim Shah
+	}
+	11220.1.1={
+		holder = 304685
+	}
+	11240.1.1={
+		holder = 304686
+	}
+	11260.1.1={
+		holder = 304687
+	}
+	11280.1.1={
+		holder = 304688
+	}
+	11300.1.1={
+		holder = 304689
+	}
+	11340.1.1={
+		holder = 304690
+	}
+}
+
+
+c_shigar = {
+	#Palolashahi Dynasty of Palolo Kingdom (c.400-727)
+	#Conquered by Tibetan Empire
+	10727.1.1={
+		liege = "d_baltiyul"
+	}
+	#Shagari Dynasty
+	10740.1.1={
+		holder = 304662
+	}
+	10800.1.1={
+		holder = 304663
+	}
+	10820.1.1={
+		holder = 304664
+	}
+	10840.1.1={
+		holder = 304665
+	}
+	10860.1.1={
+		holder = 304666
+	}
+	10880.1.1={
+		holder = 304667
+	}
+	10900.1.1={
+		holder = 304668
+	}
+	10920.1.1={
+		holder = 304669
+	}
+	10940.1.1={
+		holder = 304670
+	}
+	10960.1.1={
+		holder = 304671
+	}
+	10980.1.1={
+		holder = 304672
+	}
+	11000.1.1={
+		holder = 304673
+	}
+	11020.1.1={
+		holder = 304674
+	}
+	11040.1.1={
+		holder = 304675
+	}
+	11060.1.1={
+		holder = 304676
+	}
+	11080.1.1={
+		holder = 304677
+	}
+	11100.1.1={
+		holder = 304678
+	}
+	11120.1.1={
+		holder = 304679
+	}
+	11140.1.1={
+		holder = 304680
+	}
+	11160.1.1={
+		holder = 304681
+	}
+	11180.1.1={
+		holder = 304682
+	}
+	#Maqpon Dynasty
+	11190.1.1={
+		holder = 304684 #Ibrahim Shah
+	}
+	11220.1.1={
+		holder = 304685
+	}
+	11240.1.1={
+		holder = 304686
+	}
+	11260.1.1={
+		holder = 304687
+	}
+	11280.1.1={
+		holder = 304688
+	}
+	11300.1.1={
+		holder = 304689
+	}
+	11340.1.1={
+		holder = 304690
+	}
+}
+
+
+c_khaplu = {
+	#Palolashahi Dynasty of Palolo Kingdom (c.400-727)
+	#Conquered by Tibetan Empire
+	10727.1.1={
+		liege = "d_baltiyul"
+	}
+	#Khapula Dynasty
+	10740.1.1={
+		holder = 304721
+	}
+	10800.1.1={
+		holder = 304722
+	}
+	10820.1.1={
+		holder = 304723
+	}
+	10840.1.1={
+		holder = 304724
+	}
+	10860.1.1={
+		holder = 304725
+	}
+	10880.1.1={
+		holder = 304726
+	}
+	10900.1.1={
+		holder = 304727
+	}
+	10920.1.1={
+		holder = 304728
+	}
+	10940.1.1={
+		holder = 304729
+	}
+	10960.1.1={
+		holder = 304730
+	}
+	10980.1.1={
+		holder = 304731
+	}
+	11000.1.1={
+		holder = 304732
+	}
+	11020.1.1={
+		holder = 304733
+	}
+	11040.1.1={
+		holder = 304734
+	}
+	11060.1.1={
+		holder = 304735
+	}
+	11080.1.1={
+		holder = 304736
+	}
+	11100.1.1={
+		holder = 304737
+	}
+	11120.1.1={
+		holder = 304738
+	}
+	11140.1.1={
+		holder = 304739
+	}
+	11160.1.1={
+		holder = 304740
+	}
+	11180.1.1={
+		holder = 304741
+	}
+	11200.1.1={
+		holder = 304742
+	}
+	11220.1.1={
+		holder = 304743
+	}
+	11240.1.1={
+		holder = 304744
+	}
+	11260.1.1={
+		holder = 304745
+	}
+	11280.1.1={
+		holder = 304746
+	}
+	11300.1.1={
+		holder = 304747
+	}
+	11320.1.1={
+		holder = 304748
+	}
+	11340.1.1={
+		holder = 304749
+	}
+	11360.1.1={
+		holder = 304750
+	}
+}
+
+d_aksai_chin = {
+	#Zhangzhung conquered by Tibetan Empire
+	10625.1.1={
+		liege = "k_guge"
+	}
+	#Tibetan Aksayül Vassals - fictional placeholders
+	10740.1.1={
+		holder = 304821
+	}
+	10800.1.1={
+		holder = 304822
+	}
+	10820.1.1={
+		holder = 304823
+	}
+	10840.1.1={
+		holder = 304824
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege = "k_guge"
+	}
+	10860.1.1={
+		holder = 304825
+	}
+	10880.1.1={
+		holder = 304826
+	}
+	10900.1.1={
+		holder = 304827
+	}
+	10920.1.1={
+		holder = 304828
+	}
+	#Maryul Kingdom
+	10930.1.1= {
+		liege = "k_maryul"
+	}
+	10940.1.1={
+		holder = 304829
+	}
+	10960.1.1={
+		holder = 304830
+	}
+	10980.1.1={
+		holder = 304831
+	}
+	11000.1.1={
+		holder = 304832
+	}
+	11020.1.1={
+		holder = 304833
+	}
+	11040.1.1={
+		holder = 304834
+	}
+	11060.1.1={
+		holder = 304835
+	}
+	11080.1.1={
+		holder = 304836
+	}
+	11100.1.1={
+		holder = 304837
+	}
+	11120.1.1={
+		holder = 304838
+	}
+	11140.1.1={
+		holder = 304839
+	}
+	11160.1.1={
+		holder = 304840
+	}
+	11180.1.1={
+		holder = 304841
+	}
+	11200.1.1={
+		holder = 304842
+	}
+	11220.1.1={
+		holder = 304843
+	}
+	11240.1.1={
+		holder = 304844
+	}
+	11260.1.1={
+		holder = 304845
+	}
+	11280.1.1={
+		holder = 304846
+	}
+	11300.1.1={
+		holder = 304847
+	}
+	11320.1.1={
+		holder = 304848
+	}
+	11340.1.1={
+		holder = 304849
+	}
+	11360.1.1={
+		holder = 304850
+	}
+}
+
+c_khurnak = {
+	#Zhangzhung conquered by Tibetan Empire
+	10625.1.1={
+		liege = "d_aksai_chin"
+	}
+	#Tibetan Aksayül Vassals - fictional placeholders
+	10740.1.1={
+		holder = 304821
+	}
+	10800.1.1={
+		holder = 304822
+	}
+	10820.1.1={
+		holder = 304823
+	}
+	10840.1.1={
+		holder = 304824
+	}
+	10860.1.1={
+		holder = 304825
+	}
+	10880.1.1={
+		holder = 304826
+	}
+	10900.1.1={
+		holder = 304827
+	}
+	10920.1.1={
+		holder = 304828
+	}
+	10940.1.1={
+		holder = 304829
+	}
+	10960.1.1={
+		holder = 304830
+	}
+	10980.1.1={
+		holder = 304831
+	}
+	11000.1.1={
+		holder = 304832
+	}
+	11020.1.1={
+		holder = 304833
+	}
+	11040.1.1={
+		holder = 304834
+	}
+	11060.1.1={
+		holder = 304835
+	}
+	11080.1.1={
+		holder = 304836
+	}
+	11100.1.1={
+		holder = 304837
+	}
+	11120.1.1={
+		holder = 304838
+	}
+	11140.1.1={
+		holder = 304839
+	}
+	11160.1.1={
+		holder = 304840
+	}
+	11180.1.1={
+		holder = 304841
+	}
+	11200.1.1={
+		holder = 304842
+	}
+	11220.1.1={
+		holder = 304843
+	}
+	11240.1.1={
+		holder = 304844
+	}
+	11260.1.1={
+		holder = 304845
+	}
+	11280.1.1={
+		holder = 304846
+	}
+	11300.1.1={
+		holder = 304847
+	}
+	11320.1.1={
+		holder = 304848
+	}
+	11340.1.1={
+		holder = 304849
+	}
+	11360.1.1={
+		holder = 304850
+	}
+}
+
+
+c_thaldat = {
+	#Zhangzhung conquered by Tibetan Empire
+	10625.1.1={
+		liege = "d_aksai_chin"
+	}
+	#Tibetan Aksayül Vassals - fictional placeholders
+	10740.1.1={
+		holder = 304821
+	}
+	10800.1.1={
+		holder = 304822
+	}
+	10820.1.1={
+		holder = 304823
+	}
+	10840.1.1={
+		holder = 304824
+	}
+	10860.1.1={
+		holder = 304825
+	}
+	10880.1.1={
+		holder = 304826
+	}
+	10900.1.1={
+		holder = 304827
+	}
+	10920.1.1={
+		holder = 304828
+	}
+	10940.1.1={
+		holder = 304829
+	}
+	10960.1.1={
+		holder = 304830
+	}
+	10980.1.1={
+		holder = 304831
+	}
+	11000.1.1={
+		holder = 304832
+	}
+	11020.1.1={
+		holder = 304833
+	}
+	11040.1.1={
+		holder = 304834
+	}
+	11060.1.1={
+		holder = 304835
+	}
+	11080.1.1={
+		holder = 304836
+	}
+	11100.1.1={
+		holder = 304837
+	}
+	11120.1.1={
+		holder = 304838
+	}
+	11140.1.1={
+		holder = 304839
+	}
+	11160.1.1={
+		holder = 304840
+	}
+	11180.1.1={
+		holder = 304841
+	}
+	11200.1.1={
+		holder = 304842
+	}
+	11220.1.1={
+		holder = 304843
+	}
+	11240.1.1={
+		holder = 304844
+	}
+	11260.1.1={
+		holder = 304845
+	}
+	11280.1.1={
+		holder = 304846
+	}
+	11300.1.1={
+		holder = 304847
+	}
+	11320.1.1={
+		holder = 304848
+	}
+	11340.1.1={
+		holder = 304849
+	}
+	11360.1.1={
+		holder = 304850
+	}
+}
+
+
+c_sumdo = {
+	#Zhangzhung conquered by Tibetan Empire
+	10625.1.1={
+		liege = "d_aksai_chin"
+	}
+	#Tibetan Aksayül Vassals - fictional placeholders
+	10740.1.1={
+		holder = 304821
+	}
+	10800.1.1={
+		holder = 304822
+	}
+	10820.1.1={
+		holder = 304823
+	}
+	10840.1.1={
+		holder = 304824
+	}
+	10860.1.1={
+		holder = 304825
+	}
+	10880.1.1={
+		holder = 304826
+	}
+	10900.1.1={
+		holder = 304827
+	}
+	10920.1.1={
+		holder = 304828
+	}
+	10940.1.1={
+		holder = 304829
+	}
+	10960.1.1={
+		holder = 304830
+	}
+	10980.1.1={
+		holder = 304831
+	}
+	11000.1.1={
+		holder = 304832
+	}
+	11020.1.1={
+		holder = 304833
+	}
+	11040.1.1={
+		holder = 304834
+	}
+	11060.1.1={
+		holder = 304835
+	}
+	11080.1.1={
+		holder = 304836
+	}
+	11100.1.1={
+		holder = 304837
+	}
+	11120.1.1={
+		holder = 304838
+	}
+	11140.1.1={
+		holder = 304839
+	}
+	11160.1.1={
+		holder = 304840
+	}
+	11180.1.1={
+		holder = 304841
+	}
+	11200.1.1={
+		holder = 304842
+	}
+	11220.1.1={
+		holder = 304843
+	}
+	11240.1.1={
+		holder = 304844
+	}
+	11260.1.1={
+		holder = 304845
+	}
+	11280.1.1={
+		holder = 304846
+	}
+	11300.1.1={
+		holder = 304847
+	}
+	11320.1.1={
+		holder = 304848
+	}
+	11340.1.1={
+		holder = 304849
+	}
+	11360.1.1={
+		holder = 304850
+	}
+}
+
+d_rutog = {
+	#Zhangzhung conquered by Tibetan Empire
+	10625.1.1={
+		liege = "k_guge"
+	}
+	#Rutog Vassals of Tibetan Empire - fictional placeholders
+	10740.1.1= {
+		holder = 304851
+	}
+	10800.1.1= {
+		holder = 304852
+	}
+	10820.1.1= {
+		holder = 304853
+	}
+	10840.1.1= {
+		holder = 304854
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege="k_guge"
+	}
+	10860.1.1= {
+		holder = 304855
+	}
+	10880.1.1= {
+		holder = 304856
+	}
+	10900.1.1= {
+		holder = 304857
+	}
+	10920.1.1= {
+		holder = 304858
+	}
+	#Maryul Kingdom
+	10930.1.1={
+		liege="k_maryul"
+		holder=247166
+	}
+	10975.1.1={
+		holder=247167
+	}
+	10990.1.1={
+		holder=247168
+	}
+	11015.1.1={
+		holder=247169
+	}
+	11050.1.1={
+		holder=247170
+	}
+	11080.1.1={
+		holder=247171
+	}
+	11110.1.1={
+		holder=247172
+	}
+	11140.1.1={
+		holder=247173
+	}
+	11200.1.1={
+		holder=247177
+	}
+	11275.1.1={
+		holder=247174
+	}
+	11300.1.1={
+		holder=247175
+	}
+	11325.1.1={
+		holder=247176
+	}
+	11350.1.1={
+		holder=247178
+	}
+	11380.1.1={
+		holder=247179
+	}
+}
+
+c_rutog = {
+	#Zhangzhung conquered by Tibetan Empire
+	10625.1.1={
+		liege="d_rutog"
+	}
+	#Rutog Vassals of Tibetan Empire - fictional placeholders
+	10740.1.1= {
+		holder = 304851
+	}
+	10800.1.1= {
+		holder = 304852
+	}
+	10820.1.1= {
+		holder = 304853
+	}
+	10840.1.1= {
+		holder = 304854
+	}
+	10860.1.1= {
+		holder = 304855
+	}
+	10880.1.1= {
+		holder = 304856
+	}
+	10900.1.1= {
+		holder = 304857
+	}
+	10920.1.1= {
+		holder = 304858
+	}
+	#Maryul Kingdom
+	10930.1.1={
+		holder=247166
+	}
+	10975.1.1={
+		holder=247167
+	}
+	10990.1.1={
+		holder=247168
+	}
+	11015.1.1={
+		holder=247169
+	}
+	11050.1.1={
+		holder=247170
+	}
+	11080.1.1={
+		holder=247171
+	}
+	11110.1.1={
+		holder=247172
+	}
+	11140.1.1={
+		holder=247173
+	}
+	11200.1.1={
+		holder=247177
+	}
+	11275.1.1={
+		holder=247174
+	}
+	11300.1.1={
+		holder=247175
+	}
+	11325.1.1={
+		holder=247176
+	}
+	11350.1.1={
+		holder=247178
+	}
+	11380.1.1={
+		holder=247179
+	}
+}
+
+
+c_memar = {
+	#Zhangzhung conquered by Tibetan Empire
+	10625.1.1={
+		liege = "d_rutog"
+	}
+	#Rutog Vassals of Tibetan Empire - fictional placeholders
+	10740.1.1= {
+		holder = 304851
+	}
+	10800.1.1= {
+		holder = 304852
+	}
+	10820.1.1= {
+		holder = 304853
+	}
+	10840.1.1= {
+		holder = 304854
+	}
+	10860.1.1= {
+		holder = 304855
+	}
+	10880.1.1= {
+		holder = 304856
+	}
+	10900.1.1= {
+		holder = 304857
+	}
+	10920.1.1= {
+		holder = 304858
+	}
+	10940.1.1= {
+		holder = 304859
+	}
+	10960.1.1= {
+		holder = 304860
+	}
+	10980.1.1= {
+		holder = 304861
+	}
+	11000.1.1= {
+		holder = 304862
+	}
+	11020.1.1= {
+		holder = 304863
+	}
+	11040.1.1= {
+		holder = 304864
+	}
+	11060.1.1= {
+		holder = 304865
+	}
+	11080.1.1= {
+		holder = 304866
+	}
+	11100.1.1= {
+		holder = 304867
+	}
+	11120.1.1= {
+		holder = 304868
+	}
+	11140.1.1= {
+		holder = 304869
+	}
+	11160.1.1= {
+		holder = 304870
+	}
+	11180.1.1= {
+		holder = 304871
+	}
+	11200.1.1= {
+		holder = 304872
+	}
+	11220.1.1= {
+		holder = 304873
+	}
+	11240.1.1= {
+		holder = 304874
+	}
+	11260.1.1= {
+		holder = 304875
+	}
+	11280.1.1= {
+		holder = 304876
+	}
+	11300.1.1= {
+		holder = 304877
+	}
+	11320.1.1= {
+		holder = 304878
+	}
+	11340.1.1= {
+		holder = 304879
+	}
+	11360.1.1= {
+		holder = 304880
+	}
+}
+

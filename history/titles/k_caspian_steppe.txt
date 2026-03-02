@@ -1,0 +1,1442 @@
+k_caspian_steppe = {
+	10867.1.1 = { change_development_level = 0 }
+	11066.1.1 = { change_development_level = 0 }
+	11178.1.1 = { change_development_level = 0 }
+
+	#10837.1.1 = {
+	#	holder = 180262	#Sokal Andjogli
+	#}
+	10864.1.1 = {
+		holder = 74025
+		government = nomad_government
+		effect = {
+			set_de_jure_liege_title = title:e_caspian-pontic_steppe
+		}
+	}
+	11030.1.1 = {
+		holder = 90142
+	}
+	11060.1.1 = {
+		holder = 806
+	}
+	11110.1.1 = {
+		holder = 90143
+	}
+	11120.1.1 = {
+		holder = 125401
+	}
+	11146.1.1 = {
+		holder = 228030 # Könchek
+	}
+	11183.1.1 = {
+		holder = 228030
+	}
+	11203.1.1 = {
+		holder = 125403
+	}
+	11223.1.1 = {
+		holder = 125404
+	}
+	11238.1.1 = {
+		holder = 0
+	}
+}
+
+d_itil = {
+	10691.1.1 = {
+		liege = e_caspian-pontic_steppe
+		holder = 74007
+		government = nomad_government
+	}
+	10715.1.1 = {
+		holder = 74008
+	}
+	10731.1.1 = {
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	10763.1.1 = {
+		holder = 146203
+	}
+	10796.1.1 = {
+		holder = 74018
+	}
+	10802.1.1 = {
+		holder = 74019
+	}
+	10818.1.1 = {
+		holder = 74020
+	}
+	10829.1.1 = {
+		holder = 74021
+	}
+	10831.1.1 = {
+		holder = 74022
+	}
+	10847.1.1 = {
+		holder = 74023
+	}
+	10852.1.1 = {
+		holder = 74024
+	}
+	10864.1.1 = {
+		holder = 74025
+	}
+	10888.1.1 = {
+		holder = 74026
+	}
+	10899.1.1 = {
+		holder = 146187
+	}
+	10916.1.1 = {
+		holder = 146188
+	}
+	10920.1.1 = {
+		holder = 146189
+	}
+	10928.1.1 = {
+		holder = 146190
+	}
+	10945.1.1 = {
+		holder = 146191
+	}
+	10969.1.1 = {
+		holder = 146193
+	}
+	10993.1.1 = {
+		holder = 146194
+	}
+	11016.1.1 = {
+		holder = 0
+	}
+	
+	#
+	
+	11066.1.1 = {
+		liege = k_caspian_steppe
+		holder = 806
+	}
+	11146.1.1 = {
+		holder = 228030 # Könchek
+	}
+	11183.1.1 = {
+		holder = 228030
+	}
+	11203.1.1 = {
+		holder = 125403
+	}
+	11223.1.1 = {
+		holder = 125404
+	}
+	11227.1.1 = {
+		holder = 125501
+	}
+	11227.12.2 = {
+		holder = 125503
+	}
+	11255.1.2 = {
+		holder = 125505
+	}
+	11256.1.2 = {
+		holder = 125506
+	}
+	11257.1.2 = {
+		holder = 125504
+	}
+	11266.1.2 = {
+		holder = 125508
+	}
+	11280.1.2 = {
+		holder = 125509
+	}
+	11287.1.2 = {
+		holder = 125511
+	}
+	11291.1.2 = {
+		holder = 125512
+	}
+	11312.1.2 = {
+		holder = 480000
+	}
+
+}
+
+
+c_itil = {
+	10867.1.1 = { change_development_level = 13 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 7 }
+	
+	10691.1.1 = {
+		liege = e_caspian-pontic_steppe
+		holder = 74007
+		government = nomad_government
+	}
+	10715.1.1 = {
+		holder = 74008
+	}
+	10731.1.1 = {
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	10763.1.1 = {
+		holder = 146203
+	}
+	10796.1.1 = {
+		holder = 74018
+	}
+	10802.1.1 = {
+		holder = 74019
+	}
+	10818.1.1 = {
+		holder = 74020
+	}
+	10829.1.1 = {
+		holder = 74021
+	}
+	10831.1.1 = {
+		holder = 74022
+	}
+	10847.1.1 = {
+		holder = 74023
+	}
+	10852.1.1 = {
+		holder = 74024
+	}
+	10864.1.1 = {
+		holder = 74025
+	}
+	10888.1.1 = {
+		holder = 74026
+	}
+	10899.1.1 = {
+		holder = 146187
+	}
+	10916.1.1 = {
+		holder = 146188
+	}
+	10920.1.1 = {
+		holder = 146189
+	}
+	10928.1.1 = {
+		holder = 146190
+	}
+	10945.1.1 = {
+		holder = 146191
+	}
+	10969.1.1 = {
+		holder = 146193
+	}
+	10993.1.1 = {
+		holder = 146194
+	}
+	#11016.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = k_caspian_steppe
+		holder = 806
+	}
+	
+	#1178
+	11146.1.1 = {
+		holder = 228030 # Könchek
+	}
+	11183.1.1 = {
+		holder = 228030
+	}
+	11203.1.1 = {
+		holder = 125403
+	}
+	11223.1.1 = {
+		holder = 125404
+	}
+	11227.1.1 = {
+		holder = 125501
+	}
+	11227.12.2 = {
+		holder = 125503
+	}
+	11255.1.2 = {
+		holder = 125505
+	}
+	11256.1.2 = {
+		holder = 125506
+	}
+	11257.1.2 = {
+		holder = 125504
+	}
+	11266.1.2 = {
+		holder = 125508
+	}
+	11280.1.2 = {
+		holder = 125509
+	}
+	11287.1.2 = {
+		holder = 125511
+	}
+	11291.1.2 = {
+		holder = 125512
+	}
+	11312.1.2 = {
+		holder = 480000
+	}
+
+}
+
+
+c_saqsin = {
+	10691.1.1 = {
+		liege = e_caspian-pontic_steppe
+		holder = 74007
+		government = nomad_government
+	}
+	10715.1.1 = {
+		holder = 74008
+	}
+	10731.1.1 = {
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	10763.1.1 = {
+		holder = 146203
+	}
+	10796.1.1 = {
+		holder = 74018
+	}
+	10802.1.1 = {
+		holder = 74019
+	}
+	10818.1.1 = {
+		holder = 74020
+	}
+	10829.1.1 = {
+		holder = 74021
+	}
+	10831.1.1 = {
+		holder = 74022
+	}
+	10847.1.1 = {
+		holder = 74023
+	}
+	10852.1.1 = {
+		holder = 74024
+	}
+	10860.1.1 = {
+		holder = 74025
+	}
+	10888.1.1 = {
+		holder = 74026
+		government = nomad_government
+	}
+	10899.1.1 = {
+		holder = 146187
+	}
+	10916.1.1 = {
+		holder = 146188
+	}
+	10920.1.1 = {
+		holder = 146189
+	}
+	10928.1.1 = {
+		holder = 146190
+	}
+	10945.1.1 = {
+		holder = 146191
+	}
+	10969.1.1 = {
+		holder = 146193
+	}
+	10993.1.1 = {
+		holder = 146194
+	}
+	#11016.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = k_caspian_steppe
+		holder = 806
+		government = nomad_government
+	}
+	
+	#1178
+	11146.1.1 = {
+		holder = 228030 # Könchek
+	}
+	11183.1.1 = {
+		holder = 228030
+	}
+	11203.1.1 = {
+		holder = 125403
+	}
+	11223.1.1 = {
+		holder = 125404
+	}
+	11227.1.1 = {
+		holder = 125501
+	}
+	11227.12.2 = {
+		holder = 125503
+	}
+	11255.1.2 = {
+		holder = 125505
+	}
+	11256.1.2 = {
+		holder = 125506
+	}
+	11257.1.2 = {
+		holder = 125504
+	}
+	11266.1.2 = {
+		holder = 125508
+	}
+	11280.1.2 = {
+		holder = 125509
+	}
+	11287.1.2 = {
+		holder = 125511
+	}
+	11291.1.2 = {
+		holder = 125512
+	}
+	11312.1.2 = {
+		holder = 480000
+	}
+
+}
+
+
+c_uzen = {
+	20.1.1 = {
+		government = nomad_government
+	}
+	10716.1.1 = {
+		liege = d_itil
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	#10767.1.1 = {
+	#	holder = 146186
+	#}
+	10802.1.1 = {
+		holder = 74022
+	}
+	10822.1.1 = {
+		liege = d_pecheneg
+	#	holder = 0
+	}
+	10860.1.1 = {
+		holder = fictional_pechenegs_1	#fic ruler to add more chars and avoid domain overlimit
+	}
+	#
+	11060.1.1 = {
+		holder = 806
+	}
+	
+	11066.1.1 = {
+		liege = k_volga_bulgaria
+		government = clan_government
+		holder = 41420	#Adam Dulo
+	}
+	11178.1.1 = {
+		holder = 125403 # Girgen
+		government = nomad_government
+		liege = k_caspian_steppe
+	}
+	11183.1.1 = {
+		holder = 228030
+	}
+	11203.1.1 = {
+		holder = 125403
+	}
+	11220.1.1 = {
+		holder = 34958
+	}
+	11223.1.1 = {
+		holder = 125404
+	}
+	11227.1.1 = {
+		holder = 125501
+	}
+	11227.12.2 = {
+		holder = 125503
+	}
+	11255.1.2 = {
+		holder = 125505
+	}
+	11256.1.2 = {
+		holder = 125506
+	}
+	11257.1.2 = {
+		holder = 125504
+	}
+	11266.1.2 = {
+		holder = 125508
+	}
+	11280.1.2 = {
+		holder = 125509
+	}
+	11287.1.2 = {
+		holder = 125511
+	}
+	11291.1.2 = {
+		holder = 125512
+	}
+	11312.1.2 = {
+		holder = 480000
+	}
+
+}
+
+c_ukek = {
+	20.1.1 = {
+		government = nomad_government
+	}
+	10716.1.1 = {
+		liege = d_itil
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	#10767.1.1 = {
+	#	holder = 146186
+	#}
+	10802.1.1 = {
+		holder = 74022
+	}
+	10822.1.1 = {
+		liege = d_pecheneg
+	#	holder = 0
+	}
+	10860.1.1 = {
+		holder = fictional_pechenegs_1	#fic ruler to add more chars and avoid domain overlimit
+	}
+	#
+	11060.1.1 = {
+		holder = 806
+	}
+	
+	11066.1.1 = {
+		liege = k_volga_bulgaria
+		government = clan_government
+		holder = 41420	#Adam Dulo
+	}
+	11178.1.1 = {
+		holder = fictional_bolghars_7 # fictional herder Anzi
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+	11183.1.1 = {
+		holder = 228030
+	}
+	11203.1.1 = {
+		holder = 125403
+	}
+	11220.1.1 = {
+		holder = 34958
+	}
+	11223.1.1 = {
+		holder = 125404
+	}
+	11227.1.1 = {
+		holder = 125501
+	}
+	11227.12.2 = {
+		holder = 125503
+	}
+	11255.1.2 = {
+		holder = 125505
+	}
+	11256.1.2 = {
+		holder = 125506
+	}
+	11257.1.2 = {
+		holder = 125504
+	}
+	11266.1.2 = {
+		holder = 125508
+	}
+	11280.1.2 = {
+		holder = 125509
+	}
+	11287.1.2 = {
+		holder = 125511
+	}
+	11291.1.2 = {
+		holder = 125512
+	}
+	11312.1.2 = {
+		holder = 480000
+	}
+
+}
+
+d_pecheneg = {
+	10822.1.1 = {
+		holder = 180233
+	}
+	10830.1.1 = {
+		holder = 180236
+		liege = e_caspian-pontic_steppe
+	}
+	10873.1.1 = {
+		holder = 0
+	}
+}
+
+
+c_pecheneg = {
+	20.1.1 = {
+		government = nomad_government
+	}
+	10716.1.1 = {
+		liege = d_itil
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	#10767.1.1 = {
+	#	holder = 146186
+	#}
+	10802.1.1 = {
+		holder = 74022
+	}
+	10822.1.1 = {
+		liege = d_pecheneg
+	#	holder = 0
+	}
+	10860.1.1 = {
+	#	holder = 180240
+		holder = 180236
+	}
+	11060.1.1 = {
+		holder = 806
+	}
+	
+	11066.1.1 = {
+		liege = k_volga_bulgaria
+		holder = fictional_bolghars_12
+		government = clan_government
+	}
+	11178.1.1 = {
+		holder = 125403 # Girgen
+		liege = k_caspian_steppe
+		government = nomad_government
+	}
+	11183.1.1 = {
+		holder = 228030
+	}
+	11190.1.1 = {
+		holder = 34958
+	}
+	11227.1.1 = {
+		holder = 34959
+	liege = e_golden_horde
+	}
+	11255.1.1 = {
+		holder = 34960
+	}
+	11290.1.1 = {
+		holder = 34961
+	}
+	11320.1.1 = {
+		holder = 34962
+	}
+}
+
+
+c_jambalar = {
+	20.1.1 = {
+		government = nomad_government
+	}
+	10716.1.1 = {
+		liege = d_itil
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	#10767.1.1 = {
+	#	holder = 146186
+	#}
+	10802.1.1 = {
+		holder = 74022
+	}
+	10822.1.1 = {
+		liege = d_pecheneg
+	#	holder = 0
+	}
+	10860.1.1 = {
+	#	holder = 180240
+		holder = 180236
+	}
+	
+	#965 Incorporated in Volga Bulgaria
+	10976.1.2 = {
+		holder = 125603
+	}
+	10980.1.2 = {
+		holder = 41418
+	}
+	11004.1.2 = {
+		holder = 3500
+	}
+	11006.1.2 = {
+		holder = 125604
+	}
+	11025.1.2 = {
+		holder = 41419
+	}
+	11025.7.2 = {
+		holder = 3502
+	}
+	11028.1.2 = {
+		holder = 41419
+	}
+	11061.1.2 = {
+		holder = 3504
+	}
+	11066.1.2 = {
+		holder = 41420	#Adam Dulo
+	}
+	11118.1.2 = {
+		holder = 125605
+	}
+	11135.1.2 = {
+		holder = 125606
+	}
+	11164.1.2 = {
+		holder = 125607
+	}
+	11178.1.1 = {
+		holder = 125608 # Abdullah Chebir
+		liege = k_volga_bulgaria
+	}
+	11185.1.2 = {
+		holder = 125608
+	}
+	
+	#Mongol Empire
+	11236.1.1 = {
+		holder = 34935
+	}
+	11237.1.1 = {
+		holder = 34936
+	}
+	11239.1.1 = {
+		holder = 34937
+	}
+	11241.1.1 = {
+		holder = 34938
+	}
+	11261.1.1 = {
+		holder = 34939
+	}
+	11267.1.1 = {
+		holder = 34940
+	}
+	11270.1.1 = {
+		holder = 34941
+	}
+	11271.1.1 = {
+		holder = 34940
+	}
+	11276.1.1 = {
+		holder = 34942
+	}
+	11294.1.1 = {
+		holder = 34943
+	}
+	11310.1.1 = {
+		holder = 34944
+	}
+}
+
+
+c_yaitsk = {
+	20.1.1 = {
+		government = nomad_government
+	}
+	10716.1.1 = {
+		liege = d_itil
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	#10767.1.1 = {
+	#	holder = 146186
+	#}
+	10802.1.1 = {
+		holder = 74022
+	}
+	10822.1.1 = {
+		liege = d_pecheneg
+	#	holder = 0
+	}
+	10860.1.1 = {
+		holder = fictional_pechenegs_2	#fic ruler to add more chars and avoid domain overlimit
+		government = herder_government
+	}
+	#
+	11060.1.1 = {
+		liege = k_caspian_steppe
+		#holder = 806
+		holder = 194447	#fic ruler to add more chars and avoid domain overlimit
+		government = herder_government
+	}
+	11146.1.1 = {
+		holder = 228030 # Könchek
+		government = nomad_government
+	}
+	11183.1.1 = {
+		holder = 228030
+	}
+	11203.1.1 = {
+		holder = 125403
+	}
+	11220.1.1 = {
+		holder = 34958
+	}
+	11223.1.1 = {
+		holder = 125404
+	}
+	11227.1.1 = {
+		holder = 125501
+	}
+	11227.12.2 = {
+		holder = 125503
+	}
+	11255.1.2 = {
+		holder = 125505
+	}
+	11256.1.2 = {
+		holder = 125506
+	}
+	11257.1.2 = {
+		holder = 125504
+	}
+	11266.1.2 = {
+		holder = 125508
+	}
+	11280.1.2 = {
+		holder = 125509
+	}
+	11287.1.2 = {
+		holder = 125511
+	}
+	11291.1.2 = {
+		holder = 125512
+	}
+	11312.1.2 = {
+		holder = 480000
+	}
+
+}
+
+c_qyzylyaitsk = {
+	20.1.1 = {
+		government = nomad_government
+	}
+	10716.1.1 = {
+		liege = d_itil
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	#10767.1.1 = {
+	#	holder = 146186
+	#}
+	10802.1.1 = {
+		holder = 74022
+	}
+	10822.1.1 = {
+		liege = d_pecheneg
+	#	holder = 0
+	}
+	10860.1.1 = {
+		holder = fictional_pechenegs_10	#fictional herder
+		government = herder_government
+	}
+	#
+	11060.1.1 = {
+		liege = k_caspian_steppe
+		#holder = 806
+		holder = fictional_cumans_16	#fictional herder
+		government = herder_government
+	}
+	11146.1.1 = {
+		holder = 228030 # Könchek
+		government = nomad_government
+	}
+	11183.1.1 = {
+		holder = 228030
+	}
+	11203.1.1 = {
+		holder = 125403
+	}
+	11220.1.1 = {
+		holder = 34958
+	}
+	11223.1.1 = {
+		holder = 125404
+	}
+	11227.1.1 = {
+		holder = 125501
+	}
+	11227.12.2 = {
+		holder = 125503
+	}
+	11255.1.2 = {
+		holder = 125505
+	}
+	11256.1.2 = {
+		holder = 125506
+	}
+	11257.1.2 = {
+		holder = 125504
+	}
+	11266.1.2 = {
+		holder = 125508
+	}
+	11280.1.2 = {
+		holder = 125509
+	}
+	11287.1.2 = {
+		holder = 125511
+	}
+	11291.1.2 = {
+		holder = 125512
+	}
+	11312.1.2 = {
+		holder = 480000
+	}
+
+}
+
+d_mugodzhar_hills = {
+	#867
+	10867.1.1 = {
+		holder = 0
+	}
+}
+
+
+c_mugodzhar_hills = {
+	#867
+	10852.1.1 = {
+		holder = fictional_cumans_1	#fic to add more chars and avoid domain overlimit
+		government = nomad_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = fictional_kipchaks_3	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+	}
+	
+	#1066
+	11149.1.1 = {
+		holder = fictional_kipchaks_15	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+}
+
+
+c_jitikul = {
+	#867
+	10864.1.1 = {
+		holder = fictional_pechenegs_4
+		liege = 0
+		government = nomad_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = fictional_kipchaks_5	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+	}
+	
+	#1178
+	11173.1.1 = {
+		holder = fictional_kipchaks_12	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+	}
+}
+
+c_kosh_kurbay = {
+	#867
+	10864.1.1 = {
+		holder = fictional_pechenegs_4
+		liege = 0
+		government = nomad_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = fictional_kipchaks_6	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+	}
+	
+	#1178
+	11162.1.1 = {
+		holder = fictional_kipchaks_14	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+}
+
+
+c_kos_uba = {
+	#867
+	10860.1.1 = {
+		holder = fictional_cumans_2	#fic to add more chars and avoid domain overlimit
+		government = nomad_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = fictional_kipchaks_3	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+	}
+	
+	#1066
+	11149.1.1 = {
+		holder = fictional_kipchaks_21	##fictional herder Sevenc
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+}
+
+
+c_aqtobe = {
+	#867
+	10856.5.6 = {
+		holder = 302717	#fictional Yavdi Aqton
+		liege = 0
+		government = nomad_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = fictional_kipchaks_4	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+	}
+	
+	#1178
+	11173.1.1 = {
+		holder = fictional_kipchaks_12	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+	}
+}
+
+
+c_orenburg = {
+	#867
+	10856.5.6 = {
+		holder = 302717	#fictional Yavdi Aqton
+		liege = 0
+		government = nomad_government
+	}
+	
+	11000.1.2 = {
+		liege = 0
+	}
+	
+	#1066
+	11064.1.1 = {
+		holder = fictional_pechenegs_5	#fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+	}
+	
+	#1178
+	11178.3.11 = {
+		holder = fictional_cumans_10	#fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+}
+
+c_ilek = {
+	#867
+	10856.5.6 = {
+		holder = 302717	#fictional Yavdi Aqton
+		liege = 0
+		government = nomad_government
+	}
+	
+	11000.1.2 = {
+		liege = 0
+	}
+	
+	#1066
+	11064.1.1 = {
+		holder = fictional_pechenegs_5	#fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+	}
+	
+	#1178
+	11178.3.11 = {
+		holder = fictional_cumans_13	#fictional herder Mutlu
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+}
+
+
+c_atamansku = {
+	#867
+	10850.1.1 = {
+		holder = fictional_pechenegs_3
+		liege = 0
+		government = nomad_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = fictional_kipchaks_7	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+	
+	#1178
+	11148.1.1 = {
+		holder = fictional_kipchaks_13	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+}
+
+c_kbumak = {
+	#867
+	10850.1.1 = {
+		holder = fictional_pechenegs_3
+		liege = 0
+		government = nomad_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = fictional_kipchaks_27	##fictional herder
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+	
+	#1178
+	11173.1.1 = {
+		holder = fictional_kipchaks_12	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = nomad_government
+	}
+}
+
+
+d_atyrau = {
+	10867.1.1 = {
+		holder = 0
+	}
+	10935.1.1 = {
+		government = nomad_government	#Ahistorical, just for ease of bookmarks.
+	}
+}
+
+
+c_atyrau = {
+	10691.1.1 = {
+		liege = e_caspian-pontic_steppe
+		holder = 74007
+		government = nomad_government
+	}
+	10715.1.1 = {
+		holder = 74008
+	}
+	10731.1.1 = {
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	10763.1.1 = {
+		holder = 146203
+	}
+	10796.1.1 = {
+		holder = 74018
+	}
+	10802.1.1 = {
+		holder = 74019
+	}
+	10818.1.1 = {
+		holder = 74020
+	}
+	10829.1.1 = {
+		holder = 74021
+	}
+	10831.1.1 = {
+		holder = 74022
+	}
+	10847.1.1 = {
+		holder = 74023
+	}
+	10852.1.1 = {
+		holder = 74024
+	}
+	10860.1.1 = {
+		holder = fictional_khazars_11
+		#fictional herder
+		government = herder_government
+	}
+	#10864.1.1 = {
+	#	holder = 74025
+	#}
+	10888.1.1 = {
+		holder = 74026
+		government = nomad_government
+	}
+	10899.1.1 = {
+		holder = 146187
+	}
+	10916.1.1 = {
+		holder = 146188
+	}
+	10920.1.1 = {
+		holder = 146189
+	}
+	10928.1.1 = {
+		holder = 146190
+	}
+	10945.1.1 = {
+		holder = 146191
+	}
+	10969.1.1 = {
+		holder = 146193
+	}
+	10993.1.1 = {
+		holder = 146194
+	}
+	
+	#1066
+	11046.4.19 = {
+		holder = 302781	#fictional C_ilbu Batpaktan
+		government = nomad_government
+		liege = k_caspian_steppe
+	}
+	11073.7.1 = {
+		holder = 302783	#fictional Saru Batpaktan
+	}
+	11108.8.23 = {
+		holder = 302786	#fictional Kubasar Batpaktan
+	}
+	11129.12.26 = {
+		holder = 302787	#fictional Kubasar Batpaktan
+	}
+	11144.10.6 = {
+		holder = 302788	#fictional Bachman Batpaktan
+		government = nomad_government
+	}
+	11200.11.15 = {
+		holder = 302789	#fictional C_ilbu Batpaktan
+	}
+}
+
+
+c_sagiz = {
+	#867
+	10864.1.1 = {
+		holder = fictional_turkish_35
+		government = herder_government
+	}
+	
+	#1066
+	11057.6.14 = {
+		holder = 302745	#fictional Uzur Karasorkaliq
+		liege = k_caspian_steppe
+		government = nomad_government
+	}
+	11084.4.24 = {
+		holder = 302747	#fictional Uzluk Karasorkaliq
+	}
+	11102.8.13 = {
+		holder = 302750	#fictional Kotyan Karasorkaliq
+	}
+	11138.5.23 = {
+		holder = 302752	#fictional Sugr Karasorkaliq
+	}
+	11166.8.30 = {
+		holder = 302753 #fictional TO_rtogul Karasorkaliq
+	}
+	11195.8.7 = {
+		holder = 302754	#fictional Kotyan Karasorkaliq
+	}
+}
+
+c_kainar = {
+	#867
+	10864.1.1 = {
+		holder = fictional_turkish_1
+		government = nomad_government
+	}
+	
+	#1066
+	11046.4.19 = {
+		holder = 302781	#fictional C_ilbu Batpaktan
+		liege = k_caspian_steppe
+	}
+	11073.7.1 = {
+		holder = 302783	#fictional Saru Batpaktan
+	}
+	11108.8.23 = {
+		holder = 302786	#fictional Kubasar Batpaktan
+	}
+	11129.12.26 = {
+		holder = 302787	#fictional Kubasar Batpaktan
+	}
+	11144.10.6 = {
+		holder = 302788	#fictional Bachman Batpaktan
+	}
+	11177.1.1 = {
+		holder = fictional_kipchaks_19 #fictional herder
+		government = herder_government
+		liege = k_caspian_steppe
+	}
+	11200.11.15 = {
+		holder = 302789	#fictional C_ilbu Batpaktan
+		# government = nomad_government
+	}
+}
+
+
+c_manatau = {
+	#867
+	10864.1.1 = {
+		holder = fictional_turkish_3
+		government = nomad_government
+	}
+	
+	#1066
+	11060.2.19 = {
+		holder = 302755	#fictional Kuntuvdi Kunsoqi
+		liege = k_caspian_steppe
+	}
+	11086.8.22 = {
+		holder = 302757	#fictional SirC_an Kunsoqi
+	}
+	11098.10.4 = {
+		holder = 302758	#fictional EldeC_yuk Kunsoqi
+	}
+	11131.4.11 = {
+		holder = 302759	#fictional Girgen Kunsoqi
+	}
+	11151.4.1 = {
+		holder = 302760	#fictional Sotan Kunsoqi
+	}
+	11162.6.22 = {
+		holder = 302761	#fictional Etrek Kunsoqi
+	}
+}
+
+c_jaksybai = {
+	#867
+	10864.1.1 = {
+		holder = fictional_turkish_3
+		government = nomad_government
+	}
+	
+	#1066
+	11060.2.19 = {
+		holder = fictional_kipchaks_28	#fictional herder
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+	11086.8.22 = {
+		holder = 302757	#fictional SirC_an Kunsoqi
+		government = nomad_government
+	}
+	11098.10.4 = {
+		holder = 302758	#fictional EldeC_yuk Kunsoqi
+	}
+	11131.4.11 = {
+		holder = 302759	#fictional Girgen Kunsoqi
+	}
+	11151.4.1 = {
+		holder = 302760	#fictional Sotan Kunsoqi
+	}
+	11162.6.22 = {
+		holder = 302761	#fictional Etrek Kunsoqi
+	}
+}
+
+
+c_baisary = {
+	#867
+	10864.1.1 = {
+		holder = fictional_turkish_2
+		government = nomad_government
+	}
+	
+	#1066
+	11057.6.14 = {
+		holder = 302745	#fictional Uzur Karasorkaliq
+		liege = k_caspian_steppe
+	}
+	11084.4.24 = {
+		holder = 302747	#fictional Uzluk Karasorkaliq
+	}
+	11102.8.13 = {
+		holder = 302750	#fictional Kotyan Karasorkaliq
+	}
+	11138.5.23 = {
+		holder = 302752	#fictional Sugr Karasorkaliq
+	}
+	11166.8.30 = {
+		holder = 302753 #fictional TO_rtogul Karasorkaliq
+	}
+	11195.8.7 = {
+		holder = 302754	#fictional Kotyan Karasorkaliq
+	}
+}
+
+
+c_basagha = {
+	#867
+	10864.1.1 = {
+		holder = fictional_turkish_2
+		government = nomad_government
+	}
+	
+	#1066
+	11057.6.14 = {
+		holder = 302745	#fictional Uzur Karasorkaliq
+		liege = k_caspian_steppe
+	}
+	11084.4.24 = {
+		holder = 302747	#fictional Uzluk Karasorkaliq
+	}
+	11102.8.13 = {
+		holder = 302750	#fictional Kotyan Karasorkaliq
+	}
+	11138.5.23 = {
+		holder = 302752	#fictional Sugr Karasorkaliq
+	}
+	11166.8.30 = {
+		holder = fictional_kipchaks_20 #fictional herder
+		government = herder_government
+	}
+	11195.8.7 = {
+		holder = 302754	#fictional Kotyan Karasorkaliq
+		# government = nomad_government
+	}
+}

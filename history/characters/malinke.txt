@@ -1,0 +1,2115 @@
+﻿#From CK2HF database
+#161000 - 161999
+#1030000-1030999
+#251100-251129 (251121-251129 still free)
+
+
+161011 = {
+	name = "Lahilatoul_Kalabi"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 251120
+	11045.1.1 = {
+		birth = yes
+	}
+	11100.1.1 = {
+		death = yes
+	}
+}
+
+161012 = {
+	name = "Kalabi_Bomba"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161011
+	11070.1.1 = {
+		birth = yes
+	}
+	11120.1.1 = {
+		death = yes
+	}
+}
+
+161013 = {
+	name = "Mamadi_Kani"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161012
+	11090.1.1 = {
+		birth = yes
+	}
+	11140.1.1 = {
+		death = yes
+	}
+}
+
+161014 = {
+	name = "Bamari_Tagnogokelin"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161013
+	11110.1.1 = {
+		birth = yes
+	}
+	11160.1.1 = {
+		death = yes
+	}
+}
+
+161015 = {
+	name = "M_Bali_Nene"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161014
+	11130.1.1 = {
+		birth = yes
+	}
+	11180.1.1 = {
+		death = yes
+	}
+}
+
+161016 = {
+	name = "Bello"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161015
+	11150.1.1 = {
+		birth = yes
+	}
+	11190.1.1 = {
+		death = yes
+	}
+}
+
+161017 = {
+	name = "Bello_Bakon"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161016
+	11170.1.1 = {
+		birth = yes
+	}
+	11200.1.1 = {
+		death = yes
+	}
+}
+
+161018 = {
+	name = "Maghan_Kon_Fatta"
+	dna = "161018_maghan_sibi"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	trait = education_martial_2
+	trait = brave
+	trait = ambitious
+	trait = patient
+	trait = beauty_good_2
+	father = 161015
+	11155.1.1 = {
+		birth = yes
+	}
+	11176.1.1 = {
+		add_spouse = 161019
+	}
+	11206.1.1 = {
+		add_spouse = 161021
+	}
+	11211.1.1 = {
+		add_spouse = 161024
+	}
+	11218.1.1 = {
+		death = yes
+	}
+}
+
+161019 = {
+	name = "Sassouma"
+	female = yes
+	dynasty = 1030003
+	religion = ashari
+	culture = malinke
+	11160.1.1 = {
+		birth = yes
+	}
+	11218.1.1 = {
+		death = yes
+	}
+}
+
+161020 = {
+	name = "Dankaran_Touman"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	trait = "sadistic"
+	father = 161018
+	mother = 161019
+	11177.1.1 = {
+		birth = yes
+	}
+	11219.1.1 = {
+		death = yes
+	}
+}
+
+161021 = {
+	name = "Sogolon"
+	female = yes
+	dynasty = 1030004
+	religion = ashari
+	culture = malinke
+	trait = "hunchbacked"
+	trait = "beauty_bad_2"
+	11190.1.1 = {
+		birth = yes
+	}
+	11250.1.1 = {
+		death = yes
+	}
+}
+
+161022 = {
+	name = "Mari_Djata"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	trait = "clubfooted"
+	trait = "brave"
+	trait = "education_martial_3"
+	father = 161018
+	mother = 161021
+	11217.1.1 = {
+		birth = yes
+	}
+	11255.1.1 = {
+		death = yes
+	}
+}
+
+
+161024 = {
+	name = "NamandjE_"
+	female = yes
+	religion = ashari
+	culture = malinke
+	11195.1.1 = {
+		birth = yes
+	}
+	11245.1.1 = {
+		death = yes
+	}
+}
+
+
+161025 = {
+	name = "Abubakari"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161018
+	mother = 161024
+	11218.1.1 = {
+		birth = yes
+	}
+	
+	11285.1.1 = {
+		death = yes
+	}
+}
+
+161026 = {
+	name = "Ouali"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161022
+	11239.1.1 = {
+		birth = yes
+	}
+	11270.1.1 = {
+		death = yes
+	}
+}
+
+161027 = {
+	name = "Ouati"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	trait = "legitimized_bastard" #adopted son
+	father = 161022
+	11240.1.1 = {
+		birth = yes
+	}
+	11274.1.1 = {
+		death = yes
+	}
+}
+
+161028 = {
+	name = "Khalifa"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	trait = "legitimized_bastard" #adopted son
+	father = 161022
+	11241.1.1 = {
+		birth = yes
+	}
+	11275.1.1 = {
+		death = yes
+	}
+}
+
+161029 = {
+	name = "Sakoura"
+	dynasty = 1030005
+	religion = ashari
+	culture = malinke
+	11230.1.1 = {
+		birth = yes
+	}
+	11300.1.1 = {
+		death = yes
+	}
+}
+
+161030 = {
+	name = "Kolonkan"
+	female = yes
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161018
+	mother = 161021
+	11218.1.1 = {
+		birth = yes
+	}
+	11268.1.1 = {
+		death = yes
+	}
+}
+
+161031 = {
+	name = "Gao"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	mother = 161030
+	11248.1.1 = {
+		birth = yes
+	}
+	11305.1.1 = {
+		death = yes
+	}
+}
+
+161032 = {
+	name = "Mahamoud"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161031
+	11270.1.1 = {
+		birth = yes
+	}
+	11310.1.1 = {
+		death = yes
+	}
+}
+
+161033 = {
+	name = "Faga_Laye"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161025
+	11240.1.1 = {
+		birth = yes
+	}
+	11300.1.1 = {
+		death = yes
+	}
+}
+
+161034 = {
+	name = "Abubakari"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161033
+	11265.1.1 = {
+		birth = yes
+	}
+	11312.1.1 = {
+		death = yes
+	}
+}
+
+161035 = {
+	name = "Musa"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161033
+	11280.1.1 = {
+		birth = yes
+	}	
+	11337.1.1 = {
+		death = yes
+	}
+}
+
+161036 = {
+	name = "Maghan"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161035
+	11300.1.1 = {
+		birth = yes
+	}
+	11341.1.1 = {
+		death = yes
+	}
+}
+
+161037 = {
+	name = "Sulayman"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161033
+	11300.1.1 = {
+		birth = yes
+	}
+	11360.1.1 = {
+		death = yes
+	}
+}
+
+161038 = {
+	name = "Kassa"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161037
+	11330.1.1 = {
+		birth = yes
+	}
+	11360.1.1 = {
+		death = yes
+	}
+}
+
+161039 = {
+	name = "Mari_Djata"
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	father = 161036
+	11325.1.1 = {
+		birth = yes
+	}
+	11374.1.1 = {
+		death = yes
+	}
+}
+
+
+
+161131 = {
+	name = "Bagauda"
+	dynasty = 1030017
+	religion = west_african_pagan
+	culture = malinke
+	11000.1.1 = {
+		birth = yes
+	}
+	
+	11063.1.1 = {
+		death = yes
+	}
+}
+
+161132 = {
+	name = "Warisi"
+	dynasty = 1030017
+	religion = west_african_pagan
+	culture = malinke
+	father = 161131
+	11040.1.1 = {
+		birth = yes
+	}
+	11095.1.1 = {
+		death = yes
+	}
+}
+
+161133 = {
+	name = "Gajemasu"
+	dynasty = 1030017
+	religion = west_african_pagan
+	culture = malinke
+	father = 161132
+	11070.1.1 = {
+		birth = yes
+	}
+	11134.1.1 = {
+		death = yes
+	}
+}
+
+161134 = {
+	name = "Nawata"
+	dynasty = 1030017
+	religion = west_african_pagan
+	culture = malinke
+	father = 161133
+	11090.1.1 = {
+		birth = yes
+	}
+	11136.1.1 = {
+		death = yes
+	}
+}
+
+161135 = {
+	name = "Yusa"
+	dynasty = 1030017
+	religion = west_african_pagan
+	culture = malinke
+	father = 161134
+	11120.1.1 = {
+		birth = yes
+	}
+	11194.1.1 = {
+		death = yes
+	}
+}
+
+161136 = {
+	name = "Naguji"
+	dynasty = 1030017
+	religion = west_african_pagan
+	culture = malinke
+	father = 161135
+	11170.1.1 = {
+		birth = yes
+	}
+	11247.1.1 = {
+		death = yes
+	}
+}
+
+161137 = {
+	name = "Gugwa"
+	dynasty = 1030017
+	religion = west_african_pagan
+	culture = malinke
+	father = 161136
+	11210.1.1 = {
+		birth = yes
+	}
+	11290.1.1 = {
+		death = yes
+	}
+}
+
+161138 = {
+	name = "Shekarau"
+	dynasty = 1030017
+	religion = west_african_pagan
+	culture = malinke
+	father = 161137
+	11240.1.1 = {
+		birth = yes
+	}
+	11307.1.1 = {
+		death = yes
+	}
+}
+
+161139 = {
+	name = "Tsamiya"
+	dynasty = 1030017
+	religion = west_african_pagan
+	culture = malinke
+	father = 161138
+	11280.1.1 = {
+		birth = yes
+	}
+	11343.1.1 = {
+		death = yes
+	}
+}
+
+161140 = {
+	name = "Usman_Zamnagawa"
+	dynasty = 1030017
+	religion = ashari
+	culture = malinke
+	father = 161139
+	11310.1.1 = {
+		birth = yes
+	}
+	11349.1.1 = {
+		death = yes
+	}
+}
+
+161141 = {
+	name = "Diaba_Lompo"
+	dynasty = 1030013
+	religion = west_african_pagan
+	culture = malinke
+	11185.1.1 = {
+		birth = yes
+	}
+	11248.1.1 = {
+		death = yes
+	}
+}
+
+161142 = {
+	name = "Tidarpo"
+	dynasty = 1030013
+	religion = west_african_pagan
+	culture = malinke
+	father = 161141
+	11230.1.1 = {
+		birth = yes
+	}
+	11292.1.1 = {
+		death = yes
+	}
+}
+
+161143 = {
+	name = "Untani"
+	dynasty = 1030013
+	religion = west_african_pagan
+	culture = malinke
+	father = 161142
+	11274.1.1 = {
+		birth = yes
+	}
+	11336.1.1 = {
+		death = yes
+	}
+}
+
+161144 = {
+	name = "Banydoba"
+	dynasty = 1030013
+	religion = west_african_pagan
+	culture = malinke
+	father = 161143
+	11310.1.1 = {
+		birth = yes
+	}
+	11380.1.1 = {
+		death = yes
+	}
+}
+
+161145 = {
+	name = "Yendabri"
+	#placeholder
+	dynasty = 1030014
+	religion = west_african_pagan
+	culture = malinke
+	11040.1.1 = {
+		birth = yes
+	}
+	11096.1.1 = {
+		death = yes
+	}
+}
+
+161146 = {
+	name = "Yembirima"
+	#placeholder
+	dynasty = 1030014
+	religion = west_african_pagan
+	culture = malinke
+	father = 161145
+	11080.1.1 = {
+		birth = yes
+	}
+	11141.1.1 = {
+		death = yes
+	}
+}
+
+161147 = {
+	name = "Baghama"
+	#placeholder
+	dynasty = 1030014
+	religion = west_african_pagan
+	culture = malinke
+	father = 161146
+	11120.1.1 = {
+		birth = yes
+	}
+	11170.1.1 = {
+		death = yes
+	}
+}
+
+161148  = {
+	name = "Yenkirma"
+	#placeholder
+	dynasty = 1030014
+	religion = west_african_pagan
+	culture = malinke
+	father = 161147
+	11150.1.1 = {
+		birth = yes
+	}
+	11199.1.1 = {
+		death = yes
+	}
+}
+
+
+161149  = {
+	name = "Yentiabri"
+	#placeholder
+	dynasty = 1030014
+	religion = west_african_pagan
+	culture = malinke
+	father = 161148
+	11175.1.1 = {
+		birth = yes
+	}
+	11204.1.1 = {
+		death = yes
+	}
+}
+
+161150  = {
+	name = "Yempabu"
+	#placeholder
+	dynasty = 1030014
+	religion = west_african_pagan
+	culture = malinke
+	father = 161149
+	11195.1.1 = {
+		birth = yes
+	}
+	11256.1.1 = {
+		death = yes
+	}
+}
+
+# here were soninke characters - moved to soninke
+
+183502 = {
+	name = "Soumaoro"
+	dynasty = 1042632
+	religion = west_african_pagan
+	culture = malinke
+	10841.1.1 = {
+		birth = yes
+	}
+	#10860.1.1 = {
+	#	capital = c_kantor
+	#}
+	10890.1.1 = {
+		death = yes
+	}
+}
+
+183503 = {
+	name = "MaY_roumfa"
+	dynasty = 1042633
+	religion = west_african_pagan
+	culture = malinke
+	10838.1.1 = {
+		birth = yes
+	}
+	10882.1.1 = {
+		death = yes
+	}
+}
+
+183504 = {
+	name = "Alayaman"
+	dynasty = 1042634
+	religion = west_african_pagan
+	culture = malinke
+	10829.1.1 = {
+		birth = yes
+	}
+	10870.1.1 = {
+		death = yes
+	}
+}
+
+183505 = {
+	name = "Missi-IzE_"
+	dynasty = 1042635
+	religion = west_african_pagan
+	culture = malinke
+	10845.1.1 = {
+		birth = yes
+	}
+	10895.1.1 = {
+		death = yes
+	}
+}
+
+# characters for CM
+188750 = {
+	name = "Missi-IzE_" # fictitious holder of Zarma
+	dynasty = 1042171
+	religion = west_african_pagan
+	culture = malinke
+	10740.1.1 = {
+		birth = yes
+	}
+	10800.1.1 = {
+		death = yes
+	}
+}
+
+188751 = {
+	name = "Malla" # fictitious holder of Gurma
+	dynasty = 1042172
+	religion = west_african_pagan
+	culture = malinke
+	10735.1.1 = {
+		birth = yes
+	}
+	10795.1.1 = {
+		death = yes
+	}
+}
+
+188753 = {
+	name = "Kodama" # fictitious holder of Bambuk
+	dynasty = 1042174
+	religion = west_african_bidu_pagan
+	culture = malinke
+	10750.1.1 = {
+		birth = yes
+	}
+	10800.1.1 = {
+		death = yes
+	}
+}
+
+#Kone rulers of Bambuk
+251100 = {
+	name = "Bunama"
+	#placeholder
+	dynasty = 2001186
+	religion = west_african_bidu_pagan
+	culture = malinke
+	11049.1.1 = {
+		birth = yes
+	}
+	11101.1.1 = {
+		death = yes
+	}
+}
+251101 = {
+	name = "Majan"
+	#placeholder
+	dynasty = 2001186
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = 251100
+	11066.1.1 = {
+		birth = yes
+	}
+	11130.1.1 = {
+		death = yes
+	}
+}
+251102 = {
+	name = "Bunama"
+	#placeholder
+	dynasty = 2001186
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = 251101
+	11093.1.1 = {
+		birth = yes
+	}
+	11156.1.1 = {
+		death = yes
+	}
+}
+251103 = {
+	name = "Kaya"
+	#placeholder
+	dynasty = 2001186
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = 251102
+	11123.1.1 = {
+		birth = yes
+	}
+	11180.1.1 = {
+		death = yes
+	}
+}
+251104 = {
+	name = "Majan"
+	#placeholder
+	dynasty = 2001186
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = 251103
+	11150.1.1 = {
+		birth = yes
+	}
+	11209.1.1 = {
+		death = yes
+	}
+}
+251105 = {
+	name = "Kaya"
+	#placeholder
+	dynasty = 2001186
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = 251104
+	11180.1.1 = {
+		birth = yes
+	}
+	11234.1.1 = {
+		death = yes
+	}
+}
+251106 = {
+	name = "Bunama"
+	#placeholder
+	dynasty = 2001186
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = 251105
+	11210.1.1 = {
+		birth = yes
+	}
+	11260.1.1 = {
+		death = yes
+	}
+}
+251107 = {
+	name = "Yama"
+	#placeholder
+	dynasty = 2001186
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = 251106
+	11240.1.1 = {
+		birth = yes
+	}
+	11289.1.1 = {
+		death = yes
+	}
+}
+251108 = {
+	name = "Majan"
+	#placeholder
+	dynasty = 2001186
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = 251107
+	11270.1.1 = {
+		birth = yes
+	}
+	11315.1.1 = {
+		death = yes
+	}
+}
+251109 = {
+	name = "Sakoura"
+	#placeholder
+	dynasty = 2001186
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = 251108
+	11300.1.1 = {
+		birth = yes
+	}
+	11366.1.1 = {
+		death = yes
+	}
+}
+
+#####TOG
+
+
+#ancestors of the Keita dynasty
+251110 = {
+	name = "Lahilatoul"
+	#half-mythical placeholder
+	dynasty = 1030002
+	religion = west_african_pagan
+	culture = malinke
+	10748.1.1 = {
+		birth = yes
+	}
+	10767.1.1 = {
+		add_spouse = 251111
+	}
+	10806.1.1 = {
+		death = yes
+	}
+}
+251111 = {
+	name = "Fatoumata"
+	#placeholder
+	female = yes
+	religion = west_african_pagan
+	culture = malinke
+	10749.1.1 = {
+		birth = yes
+	}
+	10767.1.1 = {
+		add_spouse = 251110
+	}
+	10812.1.1 = {
+		death = yes
+	}
+}
+251112 = {
+	name = "Tekhaye"
+	#placeholder
+	female = yes
+	dynasty = 1030002
+	religion = west_african_pagan
+	culture = malinke
+	father = 251110
+	mother = 251111
+	10768.1.1 = {
+		birth = yes
+	}
+	10830.1.1 = {
+		death = yes
+	}
+}
+251113 = {
+	name = "Demba"
+	#placeholder
+	dynasty = 1030002
+	religion = west_african_pagan
+	culture = malinke
+	father = 251110
+	mother = 251111
+	10769.1.1 = {
+		birth = yes
+	}
+	10815.1.1 = {
+		death = yes
+	}
+}
+251114 = {
+	name = "Watara"
+	#placeholder
+	dynasty = 1030002
+	religion = west_african_pagan
+	culture = malinke
+	father = 251113
+	10800.1.1 = {
+		birth = yes
+	}
+	10860.1.1 = {
+		death = yes
+	}
+}
+251115 = {
+	name = "Bamari"
+	#placeholder
+	dynasty = 1030002
+	religion = west_african_pagan
+	culture = malinke
+	father = 251114
+	10835.1.1 = {
+		birth = yes
+	}
+	10897.1.1 = {
+		death = yes
+	}
+}
+251116 = {
+	name = "Mamadi"
+	#placeholder
+	dynasty = 1030002
+	religion = west_african_pagan
+	culture = malinke
+	father = 251115
+	10863.1.1 = {
+		birth = yes
+	}
+	10930.1.1 = {
+		death = yes
+	}
+}
+251117 = {
+	name = "Watara"
+	#placeholder
+	dynasty = 1030002
+	religion = west_african_pagan
+	culture = malinke
+	father = 251116
+	10899.1.1 = {
+		birth = yes
+	}
+	10970.1.1 = {
+		death = yes
+	}
+}
+251118 = {
+	name = "Mamadi"
+	#placeholder
+	dynasty = 1030002
+	religion = west_african_pagan
+	culture = malinke
+	father = 251117
+	10933.1.1 = {
+		birth = yes
+	}
+	10984.1.1 = {
+		death = yes
+	}
+}
+251119 = {
+	name = "Mari_Djata"
+	#placeholder
+	dynasty = 1030002
+	religion = west_african_pagan
+	culture = malinke
+	father = 251118
+	10976.1.1 = {
+		birth = yes
+	}
+	11032.1.1 = {
+		death = yes
+	}
+}
+251120 = {
+	name = "Watara"
+	#placeholder
+	dynasty = 1030002
+	religion = west_african_pagan
+	culture = malinke
+	father = 251119
+	11015.1.1 = {
+		birth = yes
+	}
+	11064.1.1 = {
+		death = yes
+	}
+}
+
+260871 = {
+	name = "Dankaran"
+	dynasty = 2001218
+	religion = west_african_pagan
+	culture = malinke
+	10870.1.1 = {
+		birth = yes
+	}
+	10925.1.1 = {
+		death = yes
+	}
+}
+260872 = {
+	name = "Ali"
+	dynasty = 2001218
+	religion = west_african_pagan
+	culture = malinke
+	father = 260871
+	10895.1.1 = {
+		birth = yes
+	}
+	10938.1.1 = {
+		death = yes
+	}
+}
+260873 = {
+	name = "Kassa"
+	dynasty = 2001218
+	religion = west_african_pagan
+	culture = malinke
+	father = 260871
+	10899.1.1 = {
+		birth = yes
+	}
+	10941.1.1 = {
+		death = yes
+	}
+}
+260874 = {
+	name = "Manding"
+	dynasty = 2001219
+	religion = west_african_pagan
+	culture = malinke
+	10907.1.1 = {
+		birth = yes
+	}
+	10965.1.1 = {
+		death = yes
+	}
+}
+260875 = {
+	name = "Salman"
+	dynasty = 2001220
+	religion = west_african_pagan
+	culture = malinke
+	10894.1.1 = {
+		birth = yes
+	}
+	10951.1.1 = {
+		death = yes
+	}
+}
+
+#rulers who took over Kong
+malinke0001 = {
+	name = "Bisi"
+	dynasty = malinkedyn001
+	religion = west_african_pagan
+	culture = malinke
+	11033.1.1 = {
+		birth = yes
+	}
+	11096.1.1 = {
+		death = yes
+	}
+}
+malinke0002 = {
+	name = "MaY_roumfa"
+	dynasty = malinkedyn001
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0001
+	11062.1.1 = {
+		birth = yes
+	}
+	11119.1.1 = {
+		death = yes
+	}
+}
+malinke0003 = {
+	name = "Nintasanay"
+	dynasty = malinkedyn001
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0002
+	11097.1.1 = {
+		birth = yes
+	}
+	11153.1.1 = {
+		death = yes
+	}
+}
+malinke0004 = {
+	name = "Salman"
+	dynasty = malinkedyn001
+	religion = ashari
+	culture = malinke
+	father = malinke0003
+	11128.1.1 = {
+		birth = yes
+	}
+	11183.1.1 = {
+		death = yes
+	}
+}
+malinke0005 = {
+	name = "MaY_roumfa"
+	dynasty = malinkedyn001
+	religion = ashari
+	culture = malinke
+	father = malinke0004
+	11164.1.1 = {
+		birth = yes
+	}
+	11212.1.1 = {
+		death = yes
+	}
+}
+malinke0006 = {
+	name = "Bisi"
+	dynasty = malinkedyn001
+	religion = ashari
+	culture = malinke
+	father = malinke0005
+	11199.1.1 = {
+		birth = yes
+	}
+	11256.1.1 = {
+		death = yes
+	}
+}
+
+# fictional Sengbe rulers of c_kisi and c_kuranko
+malinke0007 = {
+	name = "Mamadi" #fictional
+	dynasty = malinkedyn002 #Sengbe
+	religion = west_african_pagan
+	culture = malinke
+	10848.1.1 = {
+		birth = yes
+	}
+	10899.1.1 = {
+		death = yes
+	}
+}
+malinke0008 = {
+	name = "Nintasanay" #fictional
+	dynasty = malinkedyn002
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0007
+	10866.1.1 = {
+		birth = yes
+	}
+	10915.1.1 = {
+		death = yes
+	}
+}
+malinke0009 = {
+	name = "Biyu" #fictional
+	dynasty = malinkedyn002
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0008
+	10893.1.1 = {
+		birth = yes
+	}
+	10949.1.1 = {
+		death = yes
+	}
+}
+malinke0010 = {
+	name = "Bisi" #fictional
+	dynasty = malinkedyn002
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0009
+	10922.1.1 = {
+		birth = yes
+	}
+	10960.1.1 = {
+		death = yes
+	}
+}
+malinke0011 = {
+	name = "Mamadi" #fictional
+	dynasty = malinkedyn002
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0010
+	10957.1.1 = {
+		birth = yes
+	}
+	11009.1.1 = {
+		death = yes
+	}
+}
+malinke0012 = {
+	name = "Gane" #fictional
+	dynasty = malinkedyn002
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0011
+	10992.1.1 = {
+		birth = yes
+	}
+	11043.1.1 = {
+		death = yes
+	}
+}
+malinke0013 = {
+	name = "Biyu" #fictional
+	dynasty = malinkedyn002
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0012
+	11028.1.1 = {
+		birth = yes
+	}
+	11066.1.1 = {
+		death = yes
+	}
+}
+malinke0014 = {
+	name = "Bisi" #fictional
+	dynasty = malinkedyn002
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0013
+	11048.1.1 = {
+		birth = yes
+	}
+	11103.1.1 = {
+		death = yes
+	}
+}
+malinke0015 = {
+	name = "Gane" #fictional
+	dynasty = malinkedyn002
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0014
+	11065.1.1 = {
+		birth = yes
+	}
+	11117.1.1 = {
+		death = yes
+	}
+}
+malinke0016 = {
+	name = "Mamadi" #fictional
+	dynasty = malinkedyn002
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0015
+	11099.1.1 = {
+		birth = yes
+	}
+	11153.1.1 = {
+		death = yes
+	}
+}
+malinke0017 = {
+	name = "Biyu" #fictional
+	dynasty = malinkedyn002
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0016
+	11132.1.1 = {
+		birth = yes
+	}
+	11187.1.1 = {
+		death = yes
+	}
+}
+malinke0018 = {
+	name = "Bisi" #fictional
+	dynasty = malinkedyn002
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0017
+	11160.1.1 = {
+		birth = yes
+	}
+	11203.1.1 = {
+		death = yes
+	}
+}
+malinke0019 = {
+	name = "Kisha" #fictional
+	dynasty = malinkedyn002
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0018
+	11186.1.1 = {
+		birth = yes
+	}
+	11230.1.1 = {
+		death = yes
+	}
+}
+malinke0020 = {
+	name = "Biyu" #fictional
+	dynasty = malinkedyn002
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0019
+	11208.1.1 = {
+		birth = yes
+	}
+	11267.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers for c_mau
+malinke0021 = {
+	name = "Kisha" #fictional
+	dynasty = malinkedyn003
+	religion = west_african_pagan
+	culture = malinke
+	10845.1.1 = {
+		birth = yes
+	}
+	10897.1.1 = {
+		death = yes
+	}
+}
+malinke0022 = {
+	name = "Igoumou" #fictional
+	dynasty = malinkedyn003
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0021
+	10865.1.1 = {
+		birth = yes
+	}
+	10933.1.1 = {
+		death = yes
+	}
+}
+malinke0023 = {
+	name = "Ali-Kolon" #fictional
+	dynasty = malinkedyn003
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0022
+	10908.1.1 = {
+		birth = yes
+	}
+	10978.1.1 = {
+		death = yes
+	}
+}
+malinke0024 = {
+	name = "Kisha" #fictional
+	dynasty = malinkedyn003
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0023
+	10950.1.1 = {
+		birth = yes
+	}
+	11030.1.1 = {
+		death = yes
+	}
+}
+malinke0025 = {
+	name = "Ali-Kolon" #fictional
+	dynasty = malinkedyn003
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0024
+	11012.1.1 = {
+		birth = yes
+	}
+	11070.1.1 = {
+		death = yes
+	}
+}
+malinke0026 = {
+	name = "Morobani" #fictional
+	dynasty = malinkedyn003
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0025
+	11050.1.1 = {
+		birth = yes
+	}
+	11116.1.1 = {
+		death = yes
+	}
+}
+malinke0027 = {
+	name = "Kisha" #fictional
+	dynasty = malinkedyn003
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0026
+	11088.1.1 = {
+		birth = yes
+	}
+	11145.1.1 = {
+		death = yes
+	}
+}
+malinke0028 = {
+	name = "Igoumou" #fictional
+	dynasty = malinkedyn003
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0027
+	11125.1.1 = {
+		birth = yes
+	}
+	11183.1.1 = {
+		death = yes
+	}
+}
+malinke0029 = {
+	name = "Igoumou" #fictional
+	dynasty = malinkedyn003
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0028
+	11166.1.1 = {
+		birth = yes
+	}
+	11217.1.1 = {
+		death = yes
+	}
+}
+malinke0030 = {
+	name = "Ali-Zalil" #fictional
+	dynasty = malinkedyn003
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0029
+	11199.1.1 = {
+		birth = yes
+	}
+	11263.1.1 = {
+		death = yes
+	}
+}
+#fictional rulers for c_toro and c_konyan
+malinke0031 = {
+	name = "Morobani" #fictional
+	dynasty = malinkedyn004 #Konyan
+	religion = west_african_pagan
+	culture = malinke
+	10848.1.1 = {
+		birth = yes
+	}
+	10908.1.1 = {
+		death = yes
+	}
+}
+malinke0032 = {
+	name = "BadA_" #fictional
+	dynasty = malinkedyn004
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0031
+	10889.1.1 = {
+		birth = yes
+	}
+	10962.1.1 = {
+		death = yes
+	}
+}
+malinke0033 = {
+	name = "Kodama" #fictional
+	dynasty = malinkedyn004
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0032
+	10945.1.1 = {
+		birth = yes
+	}
+	11012.1.1 = {
+		death = yes
+	}
+}
+malinke0034 = {
+	name = "Ali-Fay" #fictional
+	dynasty = malinkedyn004
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0033
+	10992.1.1 = {
+		birth = yes
+	}
+	11053.1.1 = {
+		death = yes
+	}
+}
+malinke0035 = {
+	name = "Kodama" #fictional
+	dynasty = malinkedyn004
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0034
+	11036.1.1 = {
+		birth = yes
+	}
+	11098.1.1 = {
+		death = yes
+	}
+}
+malinke0036 = {
+	name = "Morobani" #fictional
+	dynasty = malinkedyn004
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0035
+	11066.1.1 = {
+		birth = yes
+	}
+	11120.1.1 = {
+		death = yes
+	}
+}
+malinke0037 = {
+	name = "Ali-Kolon" #fictional
+	dynasty = malinkedyn004
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0036
+	11099.1.1 = {
+		birth = yes
+	}
+	11156.1.1 = {
+		death = yes
+	}
+}
+malinke0038 = {
+	name = "BadA_" #fictional
+	dynasty = malinkedyn004
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0037
+	11132.1.1 = {
+		birth = yes
+	}
+	11188.1.1 = {
+		death = yes
+	}
+}
+malinke0039 = {
+	name = "BadA_" #fictional
+	dynasty = malinkedyn004
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0038
+	11173.1.1 = {
+		birth = yes
+	}
+	11222.1.1 = {
+		death = yes
+	}
+}
+malinke0040 = {
+	name = "Kodama" #fictional
+	dynasty = malinkedyn004
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0039
+	11206.1.1 = {
+		birth = yes
+	}
+	11269.1.1 = {
+		death = yes
+	}
+}
+
+#placeholders for c_solimana and c_futa_jalon
+
+malinke0041 = {
+	name = "Kodama" #fictional
+	dynasty = malinkedyn005 #Solimana
+	religion = west_african_pagan
+	culture = malinke
+	10843.1.1 = {
+		birth = yes
+	}
+	10899.1.1 = {
+		death = yes
+	}
+}
+malinke0042 = {
+	name = "Diara" #fictional
+	dynasty = malinkedyn005
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0041
+	10880.1.1 = {
+		birth = yes
+	}
+	10950.1.1 = {
+		death = yes
+	}
+}
+malinke0043 = {
+	name = "Fenuku" #fictional
+	dynasty = malinkedyn005
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0042
+	10930.1.1 = {
+		birth = yes
+	}
+	11005.1.1 = {
+		death = yes
+	}
+}
+malinke0044 = {
+	name = "BadA_" #fictional
+	dynasty = malinkedyn005
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0043
+	10990.1.1 = {
+		birth = yes
+	}
+	11058.1.1 = {
+		death = yes
+	}
+}
+malinke0045 = {
+	name = "BadA_" #fictional
+	dynasty = malinkedyn005
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0044
+	11040.1.1 = {
+		birth = yes
+	}
+	11102.1.1 = {
+		death = yes
+	}
+}
+malinke0046 = {
+	name = "Diara" #fictional
+	dynasty = malinkedyn005
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0045
+	11078.1.1 = {
+		birth = yes
+	}
+	11136.1.1 = {
+		death = yes
+	}
+}
+malinke0047 = {
+	name = "Kodama" #fictional
+	dynasty = malinkedyn005
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0046
+	11117.1.1 = {
+		birth = yes
+	}
+	11178.1.1 = {
+		death = yes
+	}
+}
+malinke0048 = {
+	name = "Diara" #fictional
+	dynasty = malinkedyn005
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0047
+	11159.1.1 = {
+		birth = yes
+	}
+	11221.1.1 = {
+		death = yes
+	}
+}
+malinke0049 = {
+	name = "Kodama" #fictional
+	dynasty = malinkedyn005
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0048
+	11202.1.1 = {
+		birth = yes
+	}
+	11263.1.1 = {
+		death = yes
+	}
+}
+malinke0050 = {
+	name = "Fenuku" #fictional
+	dynasty = malinkedyn005
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0049
+	11240.1.1 = {
+		birth = yes
+	}
+	11305.1.1 = {
+		death = yes
+	}
+}
+
+#rulers in c_konko
+malinke0051 = {
+	name = "Biyu" #fictional
+	dynasty = malinkedyn006
+	religion = west_african_bidu_pagan
+	culture = malinke
+	10850.1.1 = {
+		birth = yes
+	}
+	10912.1.1 = {
+		death = yes
+	}
+}
+malinke0052 = {
+	name = "Bamari" #fictional
+	dynasty = malinkedyn006
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = malinke0051
+	10895.1.1 = {
+		birth = yes
+	}
+	10970.1.1 = {
+		death = yes
+	}
+}
+malinke0053 = {
+	name = "Bamari" #fictional
+	dynasty = malinkedyn006
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = malinke0052
+	10952.1.1 = {
+		birth = yes
+	}
+	11025.1.1 = {
+		death = yes
+	}
+}
+malinke0054 = {
+	name = "Sakoura" #fictional
+	dynasty = malinkedyn006
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = malinke0053
+	11000.1.1 = {
+		birth = yes
+	}
+	11060.1.1 = {
+		death = yes
+	}
+}
+malinke0055 = {
+	name = "Samsou-KeI_na" #fictional
+	dynasty = malinkedyn006
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = malinke0054
+	11038.1.1 = {
+		birth = yes
+	}
+	11095.1.1 = {
+		death = yes
+	}
+}
+malinke0056 = {
+	name = "Biyu" #fictional
+	dynasty = malinkedyn006
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = malinke0055
+	11065.1.1 = {
+		birth = yes
+	}
+	11127.1.1 = {
+		death = yes
+	}
+}
+malinke0057 = {
+	name = "Yaqub" #fictional
+	dynasty = malinkedyn006
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = malinke0056
+	11098.1.1 = {
+		birth = yes
+	}
+	11158.1.1 = {
+		death = yes
+	}
+}
+malinke0058 = {
+	name = "Samsou-KeI_na" #fictional
+	dynasty = malinkedyn006
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = malinke0057
+	11135.1.1 = {
+		birth = yes
+	}
+	11189.1.1 = {
+		death = yes
+	}
+}
+malinke0059 = {
+	name = "Bamari" #fictional
+	dynasty = malinkedyn006
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = malinke0058
+	11173.1.1 = {
+		birth = yes
+	}
+	11228.1.1 = {
+		death = yes
+	}
+}
+malinke0060 = {
+	name = "Diara" #fictional
+	dynasty = malinkedyn006
+	religion = west_african_bidu_pagan
+	culture = malinke
+	father = malinke0059
+	11207.1.1 = {
+		birth = yes
+	}
+	11269.1.1 = {
+		death = yes
+	}
+}
+#Kong
+malinke0061 = {
+	name = "Bannu" #fictional
+	dynasty = malinkedyn007
+	religion = west_african_pagan
+	culture = malinke
+	10842.1.1 = {
+		birth = yes
+	}
+	10898.1.1 = {
+		death = yes
+	}
+}
+malinke0062 = {
+	name = "Sakoura" #fictional
+	dynasty = malinkedyn007
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0061
+	10880.1.1 = {
+		birth = yes
+	}
+	10950.1.1 = {
+		death = yes
+	}
+}
+malinke0063 = {
+	name = "Bannu" #fictional
+	dynasty = malinkedyn007
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0062
+	10925.1.1 = {
+		birth = yes
+	}
+	11000.1.1 = {
+		death = yes
+	}
+}
+malinke0064 = {
+	name = "Fuluku" #fictional
+	dynasty = malinkedyn007
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0063
+	10980.1.1 = {
+		birth = yes
+	}
+	11035.1.1 = {
+		death = yes
+	}
+}
+malinke0065 = {
+	name = "Bannu" #fictional
+	dynasty = malinkedyn007
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0064
+	11015.1.1 = {
+		birth = yes
+	}
+	11070.1.1 = {
+		death = yes
+	}
+}
+malinke0066 = {
+	name = "Ouati" #fictional
+	dynasty = malinkedyn007
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0065
+	11045.1.1 = {
+		birth = yes
+	}
+	11098.1.1 = {
+		death = yes
+	}
+}
+malinke0067 = {
+	name = "Fuluku" #fictional
+	dynasty = malinkedyn007
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0066
+	11072.1.1 = {
+		birth = yes
+	}
+	11133.1.1 = {
+		death = yes
+	}
+}
+malinke0068 = {
+	name = "Ouati" #fictional
+	dynasty = malinkedyn007
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0067
+	11099.1.1 = {
+		birth = yes
+	}
+	11163.1.1 = {
+		death = yes
+	}
+}
+malinke0069 = {
+	name = "Majan" #fictional
+	dynasty = malinkedyn007
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0068
+	11132.1.1 = {
+		birth = yes
+	}
+	11195.1.1 = {
+		death = yes
+	}
+}
+malinke0070 = {
+	name = "Sakoura" #fictional
+	dynasty = malinkedyn007
+	religion = west_african_pagan
+	culture = malinke
+	father = malinke0069
+	11168.1.1 = {
+		birth = yes
+	}
+	11221.1.1 = {
+		death = yes
+	}
+}
+
+# new characters
+malinke0071 = {
+	name = "Pagawolga"
+	female = yes
+	dynasty = 1030002
+	religion = ashari
+	culture = malinke
+	trait = maimed
+	11278.1.1 = {
+		birth = yes
+	}
+	11295.1.1 = {
+		add_spouse = 273100 #Tohajiye, the Mossi leader limp
+	}
+	11327.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,478 @@
+d_takrur = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+
+	10860.1.1 = {
+		government = tribal_government
+		holder = wolof0003
+	}
+	10886.1.1 = {
+		holder = wolof0004
+	}
+	10950.1.1 = {
+		holder = wolof0005
+	}
+	10995.1.1 = {
+		holder = wolof0006
+	}
+	11025.1.1 = {
+		government = clan_government
+		holder = wolof0001
+	}
+	11040.1.1 = {
+		holder = wolof0002
+	}
+	11086.1.1 = {
+		holder = wolof0007
+	}
+	11118.1.1 = {
+		holder = wolof0008
+	}
+	11156.1.1 = {
+		holder = wolof0009
+	}
+	11186.1.1 = {
+		holder = wolof0010
+	}
+}
+
+c_takrur = {
+	11178.1.1 = { change_development_level = 27 }
+
+	10860.1.1 = {
+		government = tribal_government
+		liege = d_takrur
+		holder = wolof0003
+	}
+	10886.1.1 = {
+		holder = wolof0004
+	}
+	10950.1.1 = {
+		holder = wolof0005
+	}
+	10995.1.1 = {
+		holder = wolof0006
+	}
+	11025.1.1 = {
+		government = clan_government
+		holder = wolof0001
+	}
+	11040.1.1 = {
+		holder = wolof0002
+	}
+	11101.1.1 = {
+		holder = wolof0007
+	}
+	11118.1.1 = {
+		liege = 0
+		holder = wolof0008
+	}
+	11156.1.1 = {
+		holder = wolof0009
+	}
+	11186.1.1 = {
+		holder = wolof0010
+	}
+}
+
+
+c_podor = {
+	10860.1.1 = {
+		government = tribal_government
+		liege = d_takrur
+		holder = wolof0003
+	}
+	10886.1.1 = {
+		holder = wolof0004
+	}
+	10950.1.1 = {
+		holder = wolof0005
+	}
+	10995.1.1 = {
+		holder = wolof0006
+	}
+	11025.1.1 = {
+		government = clan_government
+		holder = wolof0001
+	}
+	11040.1.1 = {
+		holder = wolof0002
+	}
+	11101.1.1 = {
+		holder = wolof0007
+	}
+	11118.1.1 = {
+		liege = 0
+		holder = wolof0008
+	}
+	11156.1.1 = {
+		holder = wolof0009
+	}
+	11186.1.1 = {
+		holder = wolof0010
+	}
+}
+
+
+c_dhraina = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 6 }
+
+	10860.1.1 = {
+		government = tribal_government
+		liege = d_takrur
+		holder = wolof0003
+	}
+	10886.1.1 = {
+		holder = wolof0004
+	}
+	10950.1.1 = {
+		holder = wolof0005
+	}
+	10995.1.1 = {
+		holder = wolof0006
+	}
+	11025.1.1 = {
+		government = clan_government
+		holder = wolof0001
+	}
+	11040.1.1 = {
+		holder = wolof0002
+	}
+	11101.1.1 = {
+		holder = wolof0007
+	}
+	11118.1.1 = {
+		liege = 0
+		holder = wolof0008
+	}
+	11156.1.1 = {
+		holder = wolof0009
+	}
+	11186.1.1 = {
+		holder = wolof0010
+	}
+}
+
+
+c_silla = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+
+	10865.1.1 = {
+		government = tribal_government
+		holder = wolof0021
+	}
+	10901.1.1 = {
+		holder = wolof0022
+	}
+	10960.1.1 = {
+		holder = wolof0023
+	}
+	11012.1.1 = {
+		holder = wolof0024
+	}
+	11046.1.1 = {
+		holder = wolof0025
+	}
+	11063.1.1 = {
+		government = clan_government
+		liege = d_takrur
+		holder = wolof0026
+	}
+	11111.1.1 = {
+		liege = 0
+		holder = wolof0027
+	}
+	11138.1.1 = {
+		holder = wolof0028
+	}
+	11179.1.1 = {
+		holder = wolof0029
+	}
+}
+
+
+c_jowol = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 8 }
+
+	10865.1.1 = {
+		government = tribal_government
+		holder = wolof0021
+	}
+	10901.1.1 = {
+		holder = wolof0022
+	}
+	10960.1.1 = {
+		holder = wolof0023
+	}
+	11012.1.1 = {
+		holder = wolof0024
+	}
+	11040.1.1 = {
+		liege = d_takrur
+	}
+	11046.1.1 = {
+		holder = wolof0025
+	}
+	11063.1.1 = {
+		holder = wolof0026
+	}
+	11111.1.1 = {
+		liege = 0
+		holder = wolof0027
+	}
+	11138.1.1 = {
+		holder = wolof0028
+	}
+	11179.1.1 = {
+		holder = wolof0029
+	}
+}
+
+
+c_galam = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 7 }
+	11178.1.1 = { change_development_level = 8 }
+
+	#fictional Soninke rulers
+	10850.1.1 = {
+		government = tribal_government
+		holder = soninke0013
+	}
+	10899.1.1 = {
+		holder = soninke0014
+	}
+	10940.1.1 = {
+		holder = soninke0015
+	}
+	10993.1.1 = {
+		holder = soninke0016
+	}
+	11037.1.1 = {
+		holder = soninke0017
+	}
+	11065.1.1 = {
+		holder = soninke0018
+	}
+	11097.1.1 = {
+		holder = soninke0019
+	}
+	11118.1.1 = {
+		holder = soninke0020
+	}
+	11153.1.1 = {
+		holder = soninke0021
+	}
+	11176.1.1 = {
+		holder = soninke0022
+	}
+	11209.1.1 = {
+		holder = soninke0023
+	}
+	11217.1.1 = {
+		holder = soninke0020
+	}
+}
+
+
+d_djolof = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 20 }
+
+	11063.1.1 = {
+		holder = wolof0015
+		government = tribal_government
+	}
+	11098.1.1 = {
+		holder = wolof0016
+	}
+	11140.1.1 = {
+		holder = wolof0017
+	}
+	11170.1.1 = {
+		holder = wolof0018
+	}
+	11207.1.1 = {
+		holder = wolof0019
+	}
+	11230.1.1 = {
+		holder = wolof0020
+	}
+}
+
+c_jolof = {
+	10860.1.1 = {
+		government = tribal_government
+		holder = wolof0011
+	}
+	10920.1.1 = {
+		holder = wolof0012
+	}
+	10970.1.1 = {
+		holder = wolof0013
+	}
+	11030.1.1 = {
+		holder = wolof0014
+	}
+	11063.1.1 = {
+		holder = wolof0015
+	}
+	11066.1.1 = {
+		liege = d_djolof
+	}
+	11098.1.1 = {
+		holder = wolof0016
+	}
+	11140.1.1 = {
+		holder = wolof0017
+	}
+	11170.1.1 = {
+		holder = wolof0018
+	}
+	11207.1.1 = {
+		holder = wolof0019
+	}
+	11230.1.1 = {
+		holder = wolof0020
+	}
+}
+
+
+c_namandiru = {
+	10860.1.1 = {
+		government = tribal_government
+		holder = wolof0011
+	}
+	10920.1.1 = {
+		holder = wolof0012
+	}
+	10970.1.1 = {
+		holder = wolof0013
+	}
+	11030.1.1 = {
+		holder = wolof0014
+	}
+	11063.1.1 = {
+		holder = wolof0015
+	}
+	11098.1.1 = {
+		holder = wolof0016
+	}
+	11140.1.1 = {
+		liege = 0
+		holder = wolof0017
+	}
+	11170.1.1 = {
+		holder = wolof0018
+	}
+	11207.1.1 = {
+		holder = wolof0019
+	}
+	11230.1.1 = {
+		holder = wolof0020
+	}
+}
+
+
+c_kayor = {
+	# fictional or anachronistic rulers
+	10865.1.1 = {
+		government = tribal_government
+		holder = wolof0054
+	}
+	10896.1.1 = {
+		holder = wolof0055
+	}
+	10932.1.1 = {
+		holder = wolof0056
+	}
+	10998.1.1 = {
+		holder = wolof0057
+	}
+	11047.1.1 = {
+		holder = wolof0058
+	}
+	11066.1.1 = {
+		liege = d_djolof
+	}
+	11079.1.1 = {
+		holder = wolof0059
+	}
+	11109.1.1 = {
+		holder = wolof0060
+	}
+	11115.1.1 = {
+		holder = wolof0061
+	}
+	11156.1.1 = {
+		holder = wolof0062
+	}
+	11184.1.1 = {
+		holder = wolof0063
+	}
+	11206.1.1 = {
+		holder = wolof0064
+	}
+	11231.1.1 = {
+		holder = wolof0065
+	}
+	11254.1.1 = {
+		liege = 0
+		holder = wolof0066
+	}
+}
+
+
+c_baol = {
+	#Fictional holders
+	10866.1.1 = {
+		holder = wolof0067
+		government = tribal_government
+	}
+	10899.1.1 = {
+		holder = wolof0068
+	}
+	10915.1.1 = {
+		holder = wolof0069
+	}
+	10949.1.1 = {
+		holder = wolof0070
+	}
+	10960.1.1 = {
+		holder = wolof0071
+	}
+	11009.1.1 = {
+		holder = wolof0072
+	}
+	11043.1.1 = {
+		holder = wolof0073
+	}
+	11066.1.1 = {
+		liege = d_djolof
+		holder = wolof0074
+	}
+	11103.1.1 = {
+		holder = wolof0075
+	}
+	11117.1.1 = {
+		holder = wolof0076
+	}
+	11153.1.1 = {
+		holder = wolof0077
+	}
+	11187.1.1 = {
+		holder = wolof0078
+	}
+	11203.1.1 = {
+		holder = wolof0079
+	}
+}
+

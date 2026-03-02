@@ -1,0 +1,652 @@
+﻿# Maghrebi Arabs - Arab speaking dynasties, Arabized Maghreb non-Berbers and other non-Hilali Arabs
+
+# Bashirids, Sheikhs of Qasiryana 867
+
+6885 = {
+	name = Bashir # Fantasy
+	dynasty = 844
+	religion = ashari
+	culture = maghrebi
+	10830.1.1 = {
+		birth = yes
+	}
+	10890.1.1 = {
+		death = yes
+	}
+}
+
+# Mdinids, Sheikhs of Malta 1066
+
+20828 = {
+	name = "Ramadan"
+	dynasty = 12241
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "ashari"
+	culture = maghrebi
+	11039.1.1 = {
+		birth = "11039.1.1"
+	}
+	11092.1.1 = {
+		death = "11092.1.1"
+	}
+}
+
+73314 = {
+	name = "Muhammad"
+	dynasty = 12241
+	religion = "ashari"
+	culture = maghrebi
+	father = 20828
+	11065.1.1 = {
+		birth = "11065.1.1"
+	}
+	11120.1.1 = {
+		death = "11120.1.1"
+	}
+}
+
+# Mankudids, Sheikhs of Palermo 1066
+
+20831 = {
+	name = "Yusuf" # Yusuf ibn Abdallah Mankudid
+	dynasty = 12236
+	religion = "ashari"
+	culture = maghrebi
+	father = 73310
+	11035.1.1 = {
+		birth = "11035.1.1"
+	}
+	11071.1.1 = {
+		death = "11071.1.1"
+	}
+}
+
+73310 = {
+	name = "Abdallah" # Abdallah Mankudid
+	dynasty = 12236
+	religion = "ashari"
+	culture = maghrebi
+	11012.1.1 = {
+		birth = "11012.1.1"
+	}
+	11062.1.1 = {
+		death = "11062.1.1"
+	}
+}
+
+# al-Hawasid, Sheikhs of Agrigento 1066
+
+73312 = {
+	name = "Ali" # Ali ibn Al-Hawas
+	dynasty = 12239
+	religion = "ashari"
+	culture = maghrebi
+	father = maghrebi0012 # al-Hawas
+	11013.1.1 = {
+		birth = yes
+	}
+	11063.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = baranis0027 # Ayyub ibn Tamim
+		}
+	}
+}
+
+# Kalbids, Governors of Sicily
+
+159183 = {
+	name = "Hassan" # al-Hasan Kalbid
+	dynasty = 12240
+	religion = "ismaili"
+	culture = maghrebi
+	father = 159195
+	10880.1.1 = {
+		birth = "10880.1.1"
+	}
+	10964.1.1 = {
+		death = "10964.1.1"
+	}
+}
+
+159184 = {
+	name = "Ahmad" # Ahmad I of Sicily
+	dynasty = 12240
+	religion = "ismaili"
+	culture = maghrebi
+	father = 159183
+	10910.1.1 = {
+		birth = "10910.1.1"
+	}
+	10970.1.1 = {
+		death = "10970.1.1"
+	}
+}
+
+159185 = {
+	name = "Ali_Abu_l_Qasim" # Ali Ab'l-Qasim of Sicily
+	dynasty = 12240
+	religion = "ismaili"
+	culture = maghrebi
+	father = 159183
+	10911.1.1 = {
+		birth = "10911.1.1"
+	}
+	10982.1.1 = {
+		death = "10982.1.1"
+	}
+}
+
+159186 = {
+	name = "Jabir" # Jabir of Sicily
+	dynasty = 12240
+	religion = "ismaili"
+	culture = maghrebi
+	father = 159183
+	10930.1.1 = {
+		birth = "10930.1.1"
+	}
+	10983.1.1 = {
+		death = "10983.1.1"
+	}
+}
+
+159187 = {
+	name = "Muhammad" # son of al-Hasan Kalbid
+	dynasty = 12240
+	religion = "ismaili"
+	culture = maghrebi
+	father = 159183
+	10916.1.1 = {
+		birth = yes
+	}
+	10980.1.1 = {
+		death = "10980.1.1"
+	}
+}
+
+159188 = {
+	name = "Jafar" # Jafar I of Sicily
+	dynasty = 12240
+	religion = "ismaili"
+	culture = maghrebi
+	father = 159187
+	10950.1.1 = {
+		birth = "10950.1.1"
+	}
+	10986.1.1 = {
+		death = "10986.1.1"
+	}
+}
+
+159189 = {
+	name = "Abdallah" # Abdallah of Sicily
+	dynasty = 12240
+	religion = "ismaili"
+	culture = maghrebi
+	father = 159187
+	10951.1.1 = {
+		birth = "10951.1.1"
+	}
+	10986.6.1 = {
+		death = "10986.6.1"
+	}
+}
+
+159190 = {
+	name = "Yusuf" # Yusuf of Sicily
+	dynasty = 12240
+	religion = "ismaili"
+	culture = maghrebi
+	father = 159187
+	10932.1.1 = {
+		birth = yes
+	}
+	10998.1.1 = {
+		death = "10998.1.1"
+	}
+}
+
+159191 = {
+	name = "Jafar" # Jafar II of Sicily
+	dynasty = 12240
+	religion = "ismaili"
+	culture = maghrebi
+	father = 159190
+	10957.1.1 = {
+		birth = yes
+	}
+	11019.1.1 = {
+		death = "11019.1.1"
+	}
+}
+
+159192 = {
+	name = "Ahmad" # Ahmad II of Sicily
+	dynasty = 12240
+	religion = "ismaili"
+	culture = maghrebi
+	father = 159190
+	10963.1.1 = {
+		birth = "10960.1.1"
+	}
+	11020.1.1 = {
+		death = "11020.1.1"
+	}
+}
+
+159193 = {
+	name = "Hassan" # Hassan II of Sicily
+	dynasty = 12240
+	religion = "ismaili"
+	culture = maghrebi
+	father = 159192
+	11000.1.1 = {
+		birth = "11000.1.1"
+	}
+	11053.1.1 = {
+		death = "11053.1.1"
+	}
+}
+
+159194 = {
+	name = "Ibrahim" # son of Ahmad II of Sicily
+	dynasty = 12240
+	religion = "ismaili"
+	culture = maghrebi
+	father = 159192
+	11001.1.1 = {
+		birth = "11001.1.1"
+	}
+	11050.1.1 = {
+		death = "11050.1.1"
+	}
+}
+
+159195 = {
+	name = "Ali" # father of al-Hasan Kalbid
+	dynasty = 12240
+	religion = "ismaili"
+	culture = maghrebi
+	10850.1.1 = {
+		birth = "10850.1.1"
+	}
+	10900.1.1 = {
+		death = "10900.1.1"
+	}
+}
+
+#Rustamids
+
+163097 = {
+	name = "Aflah"
+	dynasty = 808
+	religion = "ibadi"
+	culture = maghrebi
+	father = 210030 #added father
+	10800.1.1 = {
+		birth = "10800.1.1"
+	}
+	10872.1.1 = {
+		death = "10872.1.1"
+	}
+}
+
+163148 = {
+	name = "Abu_Bakr"
+	dynasty = 808
+	religion = "ibadi"
+	culture = maghrebi
+	father = 163097
+	10830.1.1 = {
+		birth = "10830.1.1"
+	}
+	10873.1.1 = {
+		death = "10873.1.1"
+	}
+}
+
+163149 = {
+	name = "Muhammad"
+	dynasty = 808
+	religion = "ibadi"
+	culture = maghrebi
+	father = 163097
+	10832.1.1 = {
+		birth = "10832.1.1"
+	}
+	10894.1.1 = {
+		death = "10894.1.1"
+	}
+}
+
+163150 = {
+	name = "Yaqub"
+	dynasty = 808
+	religion = "ibadi"
+	culture = maghrebi
+	father = 163097
+	10834.1.1 = {
+		birth = "10834.1.1"
+	}
+	10901.1.1 = {
+		death = "10901.1.1"
+	}
+}
+
+210028 = {
+	name = "Rustam"
+	dynasty = 808
+	religion = ibadi
+	culture = maghrebi
+	10708.1.1 = {
+		birth = "10708.1.1"
+	}
+	10755.1.1 = {
+		death = "10755.1.1"
+	}
+}
+
+210029 = {
+	name = "Abdul-Rahman"
+	dynasty = 808
+	religion = ibadi
+	culture = maghrebi
+	father = 210028
+	10728.1.1 = {
+		birth = "10728.1.1"
+	}
+	10784.1.1 = {
+		death = "10784.1.1"
+	}
+}
+
+210030 = {
+	name = "Wahab"
+	dynasty = 808
+	religion = ibadi
+	culture = maghrebi
+	father = 210029
+	10750.1.1 = {
+		birth = "10750.1.1"
+	}
+	10823.1.1 = {
+		death = "10823.1.1"
+	}
+}
+
+
+############
+
+# Salimids, Emirs of Sicily
+
+maghrebi0001 = {
+	name = "Khafaja" # Khafaja ibn Sufyan, Aghlabid Governor of Sicily (862-869)
+	dynasty = salimid # Create Salimid Dynasty
+	religion = "ashari"
+	culture = "maghrebi"
+	trait = education_martial_1
+
+	father = maghrebi0005
+
+	10810.1.1 = {
+		birth = yes
+	}
+	10869.1.1 = {
+		death = yes
+	}
+}
+
+maghrebi0002 = {
+	name = "Muhammad" # Muhammad ibn Khafaja, Aghlabid Governor of Sicily (869-871)
+	dynasty = salimid
+	religion = "ashari"
+	culture = "maghrebi"
+	trait = education_diplomacy_3
+
+	father = maghrebi0001
+
+	10832.1.1 = {
+		birth = yes
+	}
+	10871.1.1 = {
+		death = yes
+	}
+}
+
+maghrebi0003 = {
+	name = "Jaffar" # Dja'far ibn Muhammad, Aghlabid Governor of Sicily (875-878)
+	dynasty = salimid
+	religion = "ashari"
+	culture = "maghrebi"
+	trait = education_intrigue_2
+
+	father = maghrebi0002
+
+	10852.1.1 = {
+		birth = yes
+	}
+	10878.1.1 = {
+		death = yes
+	}
+}
+
+maghrebi0004 = {
+	name = "Sawada" # Sawada ibn Muhammad, Aghlabid Governor of Sicily (885-887 & 890-892)
+	dynasty = salimid
+	religion = "ashari"
+	culture = "maghrebi"
+	trait = education_diplomacy_2
+
+	father = maghrebi0002
+
+	10854.1.1 = {
+		birth = yes
+	}
+	10902.1.1 = {
+		death = yes
+	}
+}
+
+maghrebi0005 = {
+	name = "Sufyan" # Sufyan ibn Sawada
+	dynasty = salimid
+	religion = "ashari"
+	culture = "maghrebi"
+
+	father = maghrebi0006
+
+	10773.1.1 = {
+		birth = yes
+	}
+	10822.1.1 = {
+		death = yes
+	}
+}
+
+maghrebi0006 = {
+	name = "Sawada" # Sawada ibn Salim
+	dynasty = salimid
+	religion = "ashari"
+	culture = "maghrebi"
+
+	10748.1.1 = {
+		birth = yes
+	}
+	10798.1.1 = {
+		death = yes
+	}
+}
+
+maghrebi0007 = {
+	name = "Modha" # Modha ibn Sawada
+	dynasty = salimid
+	religion = "ashari"
+	culture = "maghrebi"
+
+	father = maghrebi0006
+
+	10785.1.1 = {
+		birth = yes
+	}
+	10841.1.1 = {
+		death = yes
+	}
+}
+
+maghrebi0008 = {
+	name = "Ya_qub" # Ya'qub ibn Modha
+	dynasty = salimid
+	religion = "ashari"
+	culture = "maghrebi"
+
+	father = maghrebi0007
+
+	10814.1.1 = {
+		birth = yes
+	}
+	10867.1.1 = {
+		death = yes
+	}
+}
+
+maghrebi0009 = {
+	name = "Ahmad" # Ahmad ibn Ya'qub, Aghlabid Governor of Sicily (872)
+	dynasty = salimid
+	religion = "ashari"
+	culture = "maghrebi" # changed to Maghrebi
+	trait = education_stewardship_4
+
+	father = maghrebi0008
+
+	10832.1.1 = {
+		birth = yes
+	}
+	10872.5.1 = {
+		death = yes
+	}
+}
+
+# at-Timnahids, Sheikhs of Syracuse 1050s
+
+maghrebi0010 = {
+	name = "at-Timnah"
+	dynasty = maghrebi_at-timnahid
+	religion = ashari
+	culture = maghrebi
+	10987.1.1 = {
+		birth = yes
+	}
+	11054.1.1 = {
+		death = yes
+	}
+}
+
+maghrebi0011 = {
+	name = "Ali" # ibn at-Timnah
+	dynasty = maghrebi_at-timnahid
+	religion = ashari
+	culture = maghrebi
+	father = maghrebi0010
+	11015.1.1 = {
+		birth = yes
+	}
+	11062.1.1 = {
+		death = yes
+	}
+}
+
+# Nimacvid
+
+maghrebi0012 = {
+	name = "al-Hawas"
+	dynasty = 12239
+	religion = "ashari"
+	culture = maghrebi
+	10989.1.1 = {
+		birth = yes
+	}
+	11056.1.1 = {
+		death = yes
+	}
+}
+
+maghrebi0013 = {
+	name = "Paywand" # sister of Ibn al-Hawas, wife of Ibn al-Thumna
+	female = yes
+	dynasty = 12239
+	religion = "ashari"
+	culture = maghrebi
+	father = maghrebi0012
+	11026.1.1 = {
+		birth = yes
+	}
+	11080.1.1 = {
+		death = yes
+	}
+}
+
+maghrebi0014 = {
+	name = "Hamid" # Hamud ibn al-Hawas
+	dynasty = 12239
+	religion = "ashari"
+	culture = maghrebi
+	father = maghrebi0012
+	11018.1.1 = {
+		birth = yes
+	}
+	11063.6.1 = {
+		death = yes
+	}
+}
+
+maghrebi0015 = {
+	name = "Najib"
+	dynasty = 12239
+	religion = "ashari"
+	culture = maghrebi
+	father = maghrebi0014
+	11036.1.1 = {
+		birth = yes
+	}
+	11063.1.1 = {
+		add_unpressed_claim = title:c_siracusa # claims of ibn al-Hawas
+		add_unpressed_claim = title:c_palermo # claims of ibn al-Hawas
+	}
+	11087.1.1 = {
+		religion = catholic
+	}
+	11095.1.1 = {
+		death = yes
+	}
+}
+
+# Abbadids, Sheikhs of Syracuse 1066
+
+20829 = {
+	name = "Ali"
+	dna = "20829_ali_siracusa"
+	dynasty = 12237
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "ashari"
+	culture = maghrebi
+	trait = education_intrigue_1
+	trait = brave
+	trait = zealous
+	trait = impatient
+	11025.1.1 = {
+		birth = "11025.1.1"
+	}
+	11063.1.1 = {
+		give_nickname = nick_benavert
+	}
+	11086.1.1 = {
+		death = "11086.1.1"
+	}
+}

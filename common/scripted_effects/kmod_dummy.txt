@@ -1,0 +1,7 @@
+﻿my_dummy_usage_effect = {
+    if = {
+        limit = {
+            has_variable = holocene_year_var 
+        }
+    }
+}

@@ -1,0 +1,1163 @@
+﻿#Mung Mawrong Hang
+
+304000 = {
+	name="Mung_Mawrong_Hang"
+	dynasty=2003000 #Ilam
+	religion="kiratism"
+	culture="kirati"
+	
+	10740.1.1={
+		birth=yes
+	}
+	10810.1.1={
+		death=yes
+	}
+}
+
+304001 = {
+	name="Mokwan_San"
+	dynasty=2003001 #Choubise
+	religion="kiratism"
+	culture="kirati"
+	
+	10786.1.1={
+		birth=yes
+	}
+	10849.1.1={
+		death=yes
+	}
+}
+
+#Lasahang Dynasty
+
+304002 = {
+	name="Uba_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	
+	10805.1.1={
+		birth=yes
+	}
+	10865.1.1={
+		death=yes
+	}
+}
+
+304003 = {
+	name="Mabo_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304002 #Uba Hang
+	
+	10828.1.1={
+		birth=yes
+	}
+	10880.1.1={
+		death=yes
+	}
+}
+
+304004 = {
+	name="Muda_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304003 #Mabo Hang
+	
+	10845.1.1={
+		birth=yes
+	}
+	10884.1.1={
+		death=yes
+	}
+}
+
+304005 = {
+	name="Wedo_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304004 #Muda Hang
+	
+	10860.1.1={
+		birth=yes
+	}
+	10884.1.1={
+		add_spouse=304008 #Dalima
+	}
+	10885.1.1={
+		death=yes
+	}
+}
+
+304006 = {
+	name="Saiyok_Hang" #fictional father of Nembang Hang
+	dynasty=2003003 #Panthar
+	religion="kiratism"
+	culture="kirati"
+	
+	10820.1.1={
+		birth=yes
+	}
+	10880.1.1={
+		death=yes
+	}
+}
+
+304007 = {
+	name="Nembang_Hang" #murdered Wedo Hang
+	dynasty=2003003 #Panthar
+	religion="kiratism"
+	culture="kirati"
+	father=304006 #Saiyok Hang (fictional father)
+	
+	10845.1.1={
+		birth=yes
+	}
+	10901.1.1={
+		death=yes
+	}
+}
+
+304008 = {
+	name="Dalima" #wife of Wedo Hang
+	female=yes
+	dynasty=2003003 #Panthar
+	religion="kiratism"
+	culture="kirati"
+	father=304006 #Saiyok Hang (fictional father)
+	
+	10858.1.1={
+		birth=yes
+	}
+	10920.1.1={
+		death=yes
+	}
+}
+
+304009 = {
+	name="Chemjong_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304005 #Wedo Hang
+	mother=304008 #Dalima
+	
+	10886.1.1={
+		birth=yes
+	}
+	10930.1.1={
+		death=yes
+	}
+}
+
+#fictional descendants of Chemjong Hang
+
+304010 = {
+	name="Namsang_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304009 #Chemjong Hang
+	
+	10910.1.1={
+		birth=yes
+	}
+	10966.1.1={
+		death=yes
+	}
+}
+304011 = {
+	name="Poba_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304010 #Namsang Hang
+	
+	10930.1.1={
+		birth=yes
+	}
+	10973.1.1={
+		death=yes
+	}
+}
+304012 = {
+	name="Ladho_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304011 #Poba Hang
+	
+	10950.1.1={
+		birth=yes
+	}
+	10995.1.1={
+		death=yes
+	}
+}
+304013 = {
+	name="Taichi_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304012 #Ladho Hang
+	
+	10970.1.1={
+		birth=yes
+	}
+	11009.1.1={
+		death=yes
+	}
+}
+304014 = {
+	name="Oisum_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304013 #Taichi Hang
+	
+	10990.1.1={
+		birth=yes
+	}
+	11035.1.1={
+		death=yes
+	}
+}
+304015 = {
+	name="Mokwan_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304014 #Oisum Hang
+	
+	11012.1.1={
+		birth=yes
+	}
+	11053.1.1={
+		death=yes
+	}
+}
+304016 = {
+	name="Nembang_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304015 #Mokwan Hang
+	
+	11035.1.1={
+		birth=yes
+	}
+	11079.1.1={
+		death=yes
+	}
+}
+304017 = {
+	name="Phung_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304016 #Nembang Hang
+	
+	11055.1.1={
+		birth=yes
+	}
+	11094.1.1={
+		death=yes
+	}
+}
+304018 = {
+	name="Yamdung_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304017 #Phung Hang
+	
+	11077.1.1={
+		birth=yes
+	}
+	11128.1.1={
+		death=yes
+	}
+}
+304019 = {
+	name="Mirak_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304018 #Yamdung Hang
+	
+	11100.1.1={
+		birth=yes
+	}
+	11155.1.1={
+		death=yes
+	}
+}
+304020 = {
+	name="Phedap_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304019 #Mirak Hang
+	
+	11116.1.1={
+		birth=yes
+	}
+	11165.1.1={
+		death=yes
+	}
+}
+304021 = {
+	name="Thobo_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304020 #Phedap Hang
+	
+	11132.1.1={
+		birth=yes
+	}
+	11172.1.1={
+		death=yes
+	}
+}
+304022 = {
+	name="Ap_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304021 #Thobo Hang
+	
+	11148.1.1={
+		birth=yes
+	}
+	11198.1.1={
+		death=yes
+	}
+}
+304023 = {
+	name="Mundhum_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304022 #Ap Hang
+	
+	11170.1.1={
+		birth=yes
+	}
+	11218.1.1={
+		death=yes
+	}
+}
+304024 = {
+	name="Raya_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304023 #Mundhum Hang
+	
+	11190.1.1={
+		birth=yes
+	}
+	11242.1.1={
+		death=yes
+	}
+}
+304025 = {
+	name="Usuru_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304024 #Raya Hang
+	
+	11210.1.1={
+		birth=yes
+	}
+	11276.1.1={
+		death=yes
+	}
+}
+304026 = {
+	name="Sireng_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304025 #Usuru Hang
+	
+	11230.1.1={
+		birth=yes
+	}
+	11288.1.1={
+		death=yes
+	}
+}
+304027 = {
+	name="Namtimik_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304026 #Sireng Hang
+	
+	11250.1.1={
+		birth=yes
+	}
+	11300.1.1={
+		death=yes
+	}
+}
+304028 = {
+	name="Sawaro_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304027 #Namtimik Hang
+	
+	11270.1.1={
+		birth=yes
+	}
+	11311.1.1={
+		death=yes
+	}
+}
+304029 = {
+	name="Sakma_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304028 #Sawaro Hang
+	
+	11290.1.1={
+		birth=yes
+	}
+	11335.1.1={
+		death=yes
+	}
+}
+304030 = {
+	name="Perung_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304029 #Sakma Hang
+	
+	11310.1.1={
+		birth=yes
+	}
+	11343.1.1={
+		death=yes
+	}
+}
+304031 = {
+	name="Kiriti_Hang"
+	dynasty=2003002 #Lasahang
+	religion="kiratism"
+	culture="kirati"
+	father=304030 #Perung Hang
+	
+	11328.1.1={
+		birth=yes
+	}
+	11375.1.1={
+		death=yes
+	}
+}
+
+#Yangwarok Dynasty
+
+304032 = {
+	name="Galijunga"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	
+	10800.1.1={
+		birth=yes
+	}
+	10860.1.1={
+		death=yes
+	}
+}
+
+304033 = {
+	name="Jungahang" #fictional name
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304032 #Galijunga
+	
+	10825.1.1={
+		birth=yes
+	}
+	10880.1.1={
+		death=yes
+	}
+}
+
+304034 = {
+	name="Sirijunga"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304033 #Jungahang
+	
+	10858.1.1={
+		birth=yes
+	}
+	10915.1.1={
+		death=yes
+	}
+}
+
+#fictional descendants of Sirijunga
+
+304035 = {
+	name="Mangja"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304034 #Sirijunga
+	
+	10880.1.1={
+		birth=yes
+	}
+	10936.1.1={
+		death=yes
+	}
+}
+304036 = {
+	name="Tangjunga"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304035 #Mangja
+	
+	10900.1.1={
+		birth=yes
+	}
+	10959.1.1={
+		death=yes
+	}
+}
+304037 = {
+	name="Mimiding"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304036 #Tangjunga
+	
+	10920.1.1={
+		birth=yes
+	}
+	10977.1.1={
+		death=yes
+	}
+}
+304038 = {
+	name="Kiritijunga"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304037 #Mimiding
+	
+	10940.1.1={
+		birth=yes
+	}
+	10994.1.1={
+		death=yes
+	}
+}
+304039 = {
+	name="Lendangba"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304038 #Kiritijunga
+	
+	10960.1.1={
+		birth=yes
+	}
+	11009.1.1={
+		death=yes
+	}
+}
+304040 = {
+	name="Pheyamlung"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304039 #Lendangba
+	
+	10980.1.1={
+		birth=yes
+	}
+	11027.1.1={
+		death=yes
+	}
+}
+304041 = {
+	name="Yambhamiba"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304040 #Pheyamlung
+	
+	11000.1.1={
+		birth=yes
+	}
+	11056.1.1={
+		death=yes
+	}
+}
+304042 = {
+	name="Mukkujunga"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304041 #Yambhamiba
+	
+	11025.1.1={
+		birth=yes
+	}
+	11075.1.1={
+		death=yes
+	}
+}
+304043 = {
+	name="Kanglaing"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304042 #Mukkujunga
+	
+	11046.1.1={
+		birth=yes
+	}
+	11098.1.1={
+		death=yes
+	}
+}
+304044 = {
+	name="Pakkandi"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304043 #Kanglaing
+	
+	11070.1.1={
+		birth=yes
+	}
+	11119.1.1={
+		death=yes
+	}
+}
+304045 = {
+	name="Sangkhadeo"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304044 #Pakkandi
+	
+	11090.1.1={
+		birth=yes
+	}
+	11144.1.1={
+		death=yes
+	}
+}
+304046 = {
+	name="Thindolung"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304045 #Sangkhadeo
+	
+	11110.1.1={
+		birth=yes
+	}
+	11179.1.1={
+		death=yes
+	}
+}
+304047 = {
+	name="Mujoklung"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304046 #Thindolung
+	
+	11130.1.1={
+		birth=yes
+	}
+	11197.1.1={
+		death=yes
+	}
+}
+304048 = {
+	name="Thoktokso"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304047 #Mujoklung
+	
+	11150.1.1={
+		birth=yes
+	}
+	11213.1.1={
+		death=yes
+	}
+}
+304049 = {
+	name="Lilimjunga"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304048 #Thoktokso
+	
+	11170.1.1={
+		birth=yes
+	}
+	11238.1.1={
+		death=yes
+	}
+}
+304050 = {
+	name="Miseksammang"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304049 #Lilimjunga
+	
+	11190.1.1={
+		birth=yes
+	}
+	11246.1.1={
+		death=yes
+	}
+}
+304051 = {
+	name="Tanchippa"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304050 #Miseksammang
+	
+	11215.1.1={
+		birth=yes
+	}
+	11273.1.1={
+		death=yes
+	}
+}
+304052 = {
+	name="Thosoing"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304051 #Tanchippa
+	
+	11238.1.1={
+		birth=yes
+	}
+	11286.1.1={
+		death=yes
+	}
+}
+304053 = {
+	name="Khewajunga"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304052 #Thosoing
+	
+	11260.1.1={
+		birth=yes
+	}
+	11315.1.1={
+		death=yes
+	}
+}
+304054 = {
+	name="Muijunga"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304053 #Khewajunga
+	
+	11280.1.1={
+		birth=yes
+	}
+	11329.1.1={
+		death=yes
+	}
+}
+304055 = {
+	name="Shengsengum"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304054 #Muijunga
+	
+	11300.1.1={
+		birth=yes
+	}
+	11348.1.1={
+		death=yes
+	}
+}
+304056 = {
+	name="Namnetti"
+	dynasty=2003004 #Yangwarok
+	religion="kiratism"
+	culture="kirati"
+	father=304055 #Shengsengum
+	
+	11320.1.1={
+		birth=yes
+	}
+	11373.1.1={
+		death=yes
+	}
+}
+
+#Daramdin Dynasty
+
+304057 = {
+	name="Na_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	
+	10835.1.1={
+		birth=yes
+	}
+	10870.1.1={
+		death=yes
+	}
+}
+
+#fictional descendants of Na Hang
+
+304058 = {
+	name="San_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304057 #Na Hang
+	
+	10860.1.1={
+		birth=yes
+	}
+	10910.1.1={
+		death=yes
+	}
+}
+304059 = {
+	name="Eme_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304058 #San Hang
+	
+	10880.1.1={
+		birth=yes
+	}
+	10933.1.1={
+		death=yes
+	}
+}
+304060 = {
+	name="Ind_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304059 #Eme Hang
+	
+	10900.1.1={
+		birth=yes
+	}
+	10961.1.1={
+		death=yes
+	}
+}
+304061 = {
+	name="Khadi_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304060 #Ind Hang
+	
+	10920.1.1={
+		birth=yes
+	}
+	10978.1.1={
+		death=yes
+	}
+}
+304062 = {
+	name="Nam_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304061 #Khadi Hang
+	
+	10940.1.1={
+		birth=yes
+	}
+	10985.1.1={
+		death=yes
+	}
+}
+304063 = {
+	name="Ye_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304062 #Nam Hang
+	
+	10960.1.1={
+		birth=yes
+	}
+	11004.1.1={
+		death=yes
+	}
+}
+304064 = {
+	name="Sam_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304063 #Ye Hang
+	
+	10980.1.1={
+		birth=yes
+	}
+	11036.1.1={
+		death=yes
+	}
+}
+304065 = {
+	name="Emay_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304064 #Sam Hang
+	
+	11000.1.1={
+		birth=yes
+	}
+	11057.1.1={
+		death=yes
+	}
+}
+304066 = {
+	name="Ap_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304065 #Emay Hang
+	
+	11030.1.1={
+		birth=yes
+	}
+	11084.1.1={
+		death=yes
+	}
+}
+304067 = {
+	name="Sab_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304066 #Ap Hang
+	
+	11050.1.1={
+		birth=yes
+	}
+	11106.1.1={
+		death=yes
+	}
+}
+304068 = {
+	name="Chesbi_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304067 #Sab Hang
+	
+	11075.1.1={
+		birth=yes
+	}
+	11119.1.1={
+		death=yes
+	}
+}
+304069 = {
+	name="Mang_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304068 #Chesbi Hang
+	
+	11100.1.1={
+		birth=yes
+	}
+	11155.1.1={
+		death=yes
+	}
+}
+304070 = {
+	name="Ekangso_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304069 #Mang Hang
+	
+	11120.1.1={
+		birth=yes
+	}
+	11178.1.1={
+		death=yes
+	}
+}
+304071 = {
+	name="Otti_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304070 #Ekangso Hang
+	
+	11140.1.1={
+		birth=yes
+	}
+	11191.1.1={
+		death=yes
+	}
+}
+304072 = {
+	name="Phe_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304071 #Otti Hang
+	
+	11160.1.1={
+		birth=yes
+	}
+	11200.1.1={
+		death=yes
+	}
+}
+304073 = {
+	name="Yak_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304072 #Phe Hang
+	
+	11180.1.1={
+		birth=yes
+	}
+	11236.1.1={
+		death=yes
+	}
+}
+304074 = {
+	name="Siri_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304073 #Yak Hang
+	
+	11200.1.1={
+		birth=yes
+	}
+	11253.1.1={
+		death=yes
+	}
+}
+304075 = {
+	name="Mujo_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304074 #Siri Hang
+	
+	11220.1.1={
+		birth=yes
+	}
+	11276.1.1={
+		death=yes
+	}
+}
+304076 = {
+	name="Misam_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304075 #Mujo Hang
+	
+	11240.1.1={
+		birth=yes
+	}
+	11295.1.1={
+		death=yes
+	}
+}
+304077 = {
+	name="Phim_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304076 #Misam Hang
+	
+	11260.1.1={
+		birth=yes
+	}
+	11313.1.1={
+		death=yes
+	}
+}
+304078 = {
+	name="Lepmu_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304077 #Phim Hang
+	
+	11280.1.1={
+		birth=yes
+	}
+	11329.1.1={
+		death=yes
+	}
+}
+304079 = {
+	name="Tiyen_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304078 #Lepmu Hang
+	
+	11300.1.1={
+		birth=yes
+	}
+	11354.1.1={
+		death=yes
+	}
+}
+kirati304080 = {
+	name="Samba_Hang"
+	dynasty=2003005 #Daramdin
+	religion="yumaism"
+	culture="kirati"
+	father=304079 #Tiyen Hang
+	
+	11320.1.1={
+		birth=yes
+	}
+	11368.1.1={
+		death=yes
+	}
+}

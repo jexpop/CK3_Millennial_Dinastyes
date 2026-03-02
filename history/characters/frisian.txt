@@ -1,0 +1,356 @@
+﻿131724 = {
+	name = "Thiadsvind"
+	female = yes
+	dynasty = 246
+	religion = "norse_pagan"
+	culture = "frisian"
+	father = 131725
+	10677.1.1 = {
+		birth = "10677.1.1"
+	}
+	10720.1.1 = {
+		death = "10720.1.1"
+	}
+}
+
+131725 = {
+	name = "Radboud" # King of the Frisians
+	dynasty = 246
+	religion = "norse_pagan"
+	culture = "frisian"
+	father = 131727
+	10655.1.1 = {
+		birth = "10655.1.1"
+	}
+	10719.1.1 = {
+		death = "10719.1.1"
+	}
+}
+
+131726 = {
+	name = "Poppo" # King of the Frisians
+	dynasty = 246
+	religion = "norse_pagan"
+	culture = "frisian"
+	father = 168618
+	10680.1.1 = {
+		birth = "10680.1.1"
+	}
+	10734.1.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 131721 # Charles Martel
+		}
+	}
+}
+
+131727 = {
+	name = "Aldgisl" # King of the Frisians
+	dynasty = 246
+	religion = "catholic"
+	culture = "frisian"
+	10630.1.1 = {
+		birth = "10630.1.1"
+	}
+	10680.1.1 = {
+		death = "10680.1.1"
+	}
+}
+
+131728 = {
+	name = "Aldgisl" # the second, King of the Frisians
+	dynasty = 246
+	religion = "catholic"
+	culture = "frisian"
+	father = 131725
+	10680.1.1 = {
+		birth = "10680.1.1"
+	}
+	10741.1.1 = {
+		death = "10741.1.1"
+	}
+}
+
+131729 = {
+	name = "Gundebold" # King of the Frisians
+	dynasty = 246
+	religion = "catholic"
+	culture = "frisian"
+	father = 131728
+	10718.1.1 = {
+		birth = "10718.1.1"
+	}
+	10748.1.1 = {
+		death = "10748.1.1"
+	}
+}
+
+131730 = {
+	name = "Radboud" # King of the Frisians
+	dynasty = 246
+	religion = "catholic"
+	culture = "frisian"
+	father = 131728
+	10720.1.1 = {
+		birth = "10720.1.1"
+	}
+	10760.1.1 = {
+		death = "10760.1.1"
+	}
+}
+167702 = {
+	name = "Dirk"
+	dynasty_house = house_gerulfing
+	religion = "catholic"
+	culture = "frisian"
+	father = 168619
+	10780.1.1 = {
+		birth = "10780.1.1"
+	}
+	10813.1.1 = {
+		death = "10813.1.1"
+	}
+}
+168232 = {
+	name = "Liederik"
+	dynasty = 724
+	religion = "catholic"
+	culture = "frisian"
+	10740.1.1 = {
+		birth = "10740.1.1"
+	}
+	
+	10817.1.1 = {
+		death = "10817.1.1"
+	}
+}
+
+168233 = {
+	name = "Ingelram"
+	dynasty = 724
+	religion = "catholic"
+	culture = "frisian"
+	father = 168232
+	10770.1.1 = {
+		birth = "10770.1.1"
+	}
+	
+	10825.1.1 = {
+		death = "10825.1.1"
+	}
+}
+168220 = {
+	name = "Alfbad"
+	dynasty = 246
+	religion = "catholic"
+	culture = "frisian"
+	father = 131726
+	10725.1.1 = {
+		birth = "10725.1.1"
+	}
+	10786.1.1 = {
+		death = "10786.1.1"
+	}
+}
+
+168619 = {
+	name = "Nordalah"
+	dynasty = 246
+	religion = "catholic"
+	culture = "frisian"
+	father = 168220
+	10760.1.1 = {
+		birth = yes
+	}
+	10806.1.1 = {
+		death = yes
+	}
+}
+
+
+168620 = {
+	name = "Aldgisl"
+	dynasty = 246
+	religion = "catholic"
+	culture = "frisian"
+	father = 131730
+	10742.1.1 = {
+		birth = yes
+	}
+	10777.1.1 = {
+		death = yes
+	}
+}
+
+
+
+168621 = {
+	name = "Radboud"
+	dynasty = 246
+	religion = "catholic"
+	culture = "frisian"
+	father = 168620
+	10765.1.1 = {
+		birth = yes
+	}
+	10809.1.1 = {
+		death = yes
+	}
+}
+
+
+
+168622 = {
+	name = "Odrade"
+	female = yes
+	dynasty = 246
+	religion = "catholic"
+	culture = "frisian"
+	father = 168620
+	10775.1.1 = {
+		birth = yes
+	}
+	10825.1.1 = {
+		death = yes
+	}
+}
+
+168618 = {
+	name = "Alfbad" #real name unknown
+	dynasty = 246
+	religion = "catholic"
+	culture = "frisian"
+	father = 131727
+	10657.1.1 = {
+		birth = yes
+	}
+	10717.1.1 = {
+		death = yes
+	}
+}
+
+168626 = {
+	name = "Radboud"
+	dynasty = 246
+	religion = "catholic"
+	culture = "frisian"
+	father = 168625
+	mother = 168623
+	10810.1.1 = {
+		birth = yes
+	}
+	
+	10850.1.1 = {
+		death = yes
+	}
+}
+
+reinalda_1 = {
+	name = "Sako"
+	dynasty = frisian_reinalda
+	religion = catholic
+	culture = frisian
+	11112.1.1 = {
+		birth = yes
+	}
+	11167.1.1 = {
+		death = yes
+	}
+}
+
+reinalda_2 = {
+	name = "Wilko"
+	dynasty = frisian_reinalda
+	religion = catholic
+	culture = frisian
+	father = reinalda_1
+	11135.1.1 = {
+		birth = yes
+	}
+	11191.1.1 = {
+		death = yes
+	}
+}
+
+reinalda_3 = {
+	name = "Ofcke"
+	dynasty = frisian_reinalda
+	religion = catholic
+	culture = frisian
+	father = reinalda_1
+	11137.1.1 = {
+		birth = yes
+	}
+	11179.1.1 = {
+		death = yes
+	}
+}
+
+roorda_1 = {
+	name = "Haringh"
+	dynasty = frisian_roorda
+	religion = catholic
+	culture = frisian
+	10995.1.1 = {
+		birth = yes
+	}
+	11042.1.1 = {
+		death = yes
+	}
+}
+
+roorda_2 = {
+	name = "Ruurt"
+	dynasty = frisian_roorda
+	religion = catholic
+	culture = frisian
+	father = roorda_1
+	11035.1.1 = {
+		birth = yes
+	}
+	11085.1.1 = {
+		death = yes
+	}
+}
+
+roorda_3 = {
+	name = "Goffe"
+	dynasty = frisian_roorda
+	religion = catholic
+	culture = frisian
+	father = roorda_2
+	11080.1.1 = {
+		birth = yes
+	}
+	11141.1.1 = {
+		death = yes
+	}
+}
+
+roorda_4 = {
+	name = "Godfried"
+	dynasty = frisian_roorda
+	religion = catholic
+	culture = frisian
+	father = roorda_3
+	11120.1.1 = {
+		birth = yes
+	}
+	11183.1.1 = {
+		death = yes
+	}
+}
+
+roorda_5 = {
+	name = "Frans"
+	dynasty = frisian_roorda
+	religion = catholic
+	culture = frisian
+	father = roorda_3
+	11130.1.1 = {
+		birth = yes
+	}
+	11191.1.1 = {
+		death = yes
+	}
+}

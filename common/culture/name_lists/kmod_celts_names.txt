@@ -1,0 +1,109 @@
+﻿name_list_briton = {
+
+	# The names of the dynasties that can be generated for this culture. These are used when a new dynasty is created, and can also be used for existing dynasties if their name is set to one of these. The "dynnp_de" prefix means that the dynasty name will be generated as "dynn_de_[location]", where [location] is the name of the primary title of the dynasty's founder. If the name is just a string without a prefix, it will be used as-is for the dynasty name.
+	cadet_dynasty_names = {
+		"dynn_Ritugenos"
+		"dynn_Ritobros"
+		"dynn_Tamesios"
+		"dynn_Dubranos"
+		"dynn_Dovagnos"
+		"dynn_Camulosios"
+		"dynn_Lugudanos"
+		"dynn_Duronicos"
+		"dynn_Dunomagos"
+		"dynn_Brogantos"
+		"dynn_Cantorigos"
+		"dynn_Nemetonios"
+		"dynn_Ritumagos"
+		"dynn_Cantobrigos"
+		"dynn_Tamnecios"
+		"dynn_Camunetos"
+		"dynn_Uindomaros"
+		"dynn_Segomaros"
+		"dynn_Maglosios"
+		"dynn_Caturos"
+		"dynn_Mandubrios"
+		"dynn_Moritasgos"
+		"dynn_Belganos"
+		"dynn_Branogenos"
+		"dynn_Iccanos"
+		"dynn_Arconios"
+		"dynn_Senacos"
+		"dynn_Tarvosios"
+		"dynn_Toutanos"
+	}
+
+	dynasty_names = {
+		"dynn_Ritugenos"
+		"dynn_Ritobros"
+		"dynn_Tamesios"
+		"dynn_Dubranos"
+		"dynn_Dovagnos"
+		"dynn_Camulosios"
+		"dynn_Lugudanos"
+		"dynn_Duronicos"
+		"dynn_Dunomagos"
+		"dynn_Brogantos"
+		"dynn_Cantorigos"
+		"dynn_Nemetonios"
+		"dynn_Ritumagos"
+		"dynn_Cantobrigos"
+		"dynn_Tamnecios"
+		"dynn_Camunetos"
+		"dynn_Uindomaros"
+		"dynn_Segomaros"
+		"dynn_Maglosios"
+		"dynn_Caturos"
+		"dynn_Mandubrios"
+		"dynn_Moritasgos"
+		"dynn_Belganos"
+		"dynn_Branogenos"
+		"dynn_Iccanos"
+		"dynn_Arconios"
+		"dynn_Senacos"
+		"dynn_Tarvosios"
+		"dynn_Toutanos"
+	}
+
+
+	male_names = {
+    	Addedo Andoco Anero Arconios Belganos Branos Brigomagos Brogilos Camulos Cantorix
+		Carvogenos Caturos Cunobelinos Dovagnos Dubranos Dubnovel Dumnacos Durogenos Dunomagos
+		Iacos Iccos Lugudanos Maglos Mandubrios Maponos Moritasgos Nantos Nemorix Rigos Ritugenos
+		Ritobros Segomaros Senacos Tamesios Tarvos Toutanos Uindomaros Uoretos Uoretanos
+	}
+
+
+	female_names = {
+		Anera Bellica Briga Brigania Camuna Cantia Carvona Catuna Cunovena Dovena Dubra Dumnella
+		Dunomara Epona Icca Luguna Maglona Mapona Morita Nantosia Nemeta Ritta Ritona Segona Sena
+		Tamesa Tarvena Touta Uindona Uoreta
+	}
+
+
+	# The prefix used for dynasties named after a location. For example, "dynn_de" would give names like "dynn_de_Leon" or "dynn_de_Brittany". If left blank, the dynasty name will just be the location name without a prefix.
+	#dynasty_of_location_prefix = ""
+
+	patronym_prefix_male = ""
+	patronym_prefix_male_vowel = ""
+	patronym_prefix_female = ""
+	patronym_prefix_female_vowel = ""
+	always_use_patronym = no # The britans didn't use patronymics
+
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 20
+	father_name_chance = 5
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 20
+	mat_grm_name_chance = 50
+	mother_name_chance = 5
+	
+	
+
+	# Mercenary names, but the britans didn't have many mercenary companies, so maybe just a few generic ones?
+	#mercenary_names = {
+	#	{ name = "mercenary_company_woad_raiders" coat_of_arms = "mc_woad_raiders" }
+	#} 
+}

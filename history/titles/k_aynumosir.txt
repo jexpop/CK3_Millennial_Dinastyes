@@ -1,0 +1,123 @@
+﻿# HOKKAIDO
+d_sum = {
+	10867.1.1 = { change_development_level = 8 }
+}
+d_menas = {
+	10867.1.1 = { change_development_level = 8 }
+}
+c_iskar = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+
+	10867.1.1 = {
+		holder = ainu_iskar_1
+		government = tribal_government
+	}
+	11066.1.1 = { holder = ainu_iskar_8 }
+	11178.1.1 = { holder = ainu_iskar_11 }
+}
+c_uskes = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+
+	10867.1.1 = {
+		holder = ainu_uskes_1
+		government = tribal_government
+	}
+	11066.1.1 = { holder = ainu_uskes_8 }
+	11178.1.1 = { holder = ainu_uskes_11 }
+}
+c_ioci = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+
+	10867.1.1 = {
+		holder = ainu_ioci_1
+		government = tribal_government
+	}
+	11066.1.1 = { holder = ainu_ioci_8 }
+	11178.1.1 = { holder = ainu_ioci_11 }
+}
+c_simenas = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+
+	10867.1.1 = {
+		holder = ainu_simenas_1
+		government = tribal_government
+	}
+	11066.1.1 = { holder = ainu_simenas_8 }
+	11178.1.1 = { holder = ainu_simenas_11 }
+}
+c_menas = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+
+	10867.1.1 = {
+		holder = ainu_menas_1
+		government = tribal_government
+	}
+	11066.1.1 = { holder = ainu_menas_8 }
+	11178.1.1 = { holder = ainu_menas_12 }
+}
+c_soya = {
+	10867.1.1 = { change_development_level = 1 }
+	11066.1.1 = { change_development_level = 2 }
+	11178.1.1 = { change_development_level = 3 }
+	10867.1.1 = { holder = ainu_repunmosir_1 }
+	11066.1.1 = { holder = ainu_repunmosir_8 }
+	11178.1.1 = { holder = ainu_repunmosir_12 }
+}
+c_sum = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+
+	10867.1.1 = {
+		holder = ainu_sum_1
+		government = tribal_government
+	}
+	11066.1.1 = { holder = ainu_sum_8 }
+	11178.1.1 = { holder = ainu_sum_11 }
+}
+c_chupka = {
+	10867.1.1 = { change_development_level = 1 }
+	11066.1.1 = { change_development_level = 2 }
+	11178.1.1 = { change_development_level = 3 }
+
+	10867.1.1 = {
+		holder = ainu_chupka_1
+		government = tribal_government
+	}
+	11066.1.1 = { holder = ainu_chupka_7 }
+	11178.1.1 = { holder = ainu_chupka_11 }
+}
+c_tarayka = {
+	10867.1.1 = { change_development_level = 0 }
+	11066.1.1 = { change_development_level = 0 }
+	11178.1.1 = { change_development_level = 0 }
+	10867.1.1 = { holder = nivkh_tarayka_1 }
+	11066.1.1 = { holder = nivkh_tarayka_8 }
+	11178.1.1 = { holder = nivkh_tarayka_11 }
+}
+c_pogibi = {
+	10867.1.1 = { change_development_level = 0 }
+	11066.1.1 = { change_development_level = 0 }
+	11178.1.1 = { change_development_level = 0 }
+	10867.1.1 = { holder = nivkh_pogibi_1 }
+	11066.1.1 = { holder = nivkh_pogibi_8 }
+	11178.1.1 = { holder = nivkh_pogibi_11 }
+}
+c_kusunkotan = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+	10867.1.1 = { holder = ainu_kusunkotan_1 }
+	11066.1.1 = { holder = ainu_kusunkotan_8 }
+	11178.1.1 = { holder = ainu_kusunkotan_12 }
+}

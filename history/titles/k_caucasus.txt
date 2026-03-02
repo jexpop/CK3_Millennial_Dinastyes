@@ -1,0 +1,1604 @@
+﻿k_caucasus = {
+	10867.1.1 = { change_development_level = 0 }
+	11066.1.1 = { change_development_level = 0 }
+	11178.1.1 = { change_development_level = 0 }
+}
+
+d_khazaria = {
+	10691.1.1 = {
+		liege = e_caspian-pontic_steppe
+		holder = 74007
+	}
+	10715.1.1 = {
+		holder = 74008
+	}
+	10731.1.1 = {
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	10763.1.1 = {
+		holder = 146203
+	}
+	10796.1.1 = {
+		holder = 74018
+	}
+	10802.1.1 = {
+		holder = 74019
+	}
+	10818.1.1 = {
+		holder = 74020
+	}
+	10829.1.1 = {
+		holder = 74021
+	}
+	10831.1.1 = {
+		holder = 74022
+	}
+	10847.1.1 = {
+		holder = 74023
+	}
+	10852.1.1 = {
+		holder = 74024
+	}
+	10864.1.1 = {
+		holder = 74025
+	}
+	10888.1.1 = {
+		holder = 74026
+	}
+	10899.1.1 = {
+		holder = 146187
+	}
+	10916.1.1 = {
+		holder = 146188
+	}
+	10920.1.1 = {
+		holder = 146189
+	}
+	10928.1.1 = {
+		holder = 146190
+	}
+	10945.1.1 = {
+		holder = 146191
+	}
+	10969.1.1 = {
+		holder = 146193
+	}
+	10993.1.1 = {
+		holder = 146194
+	}
+	11016.1.1 = {
+		holder = 0
+	}
+	11178.1.1 = {
+		holder = 161733 # Fictional placeholder
+		liege = k_caspian_steppe
+	}
+}
+
+c_sarkel = {
+	10691.1.1 = {
+		liege = e_caspian-pontic_steppe
+		holder = 74007
+		government = nomad_government
+	}
+	10715.1.1 = {
+		holder = 74008
+	}
+	10731.1.1 = {
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	10763.1.1 = {
+		holder = 146203
+	}
+	10796.1.1 = {
+		holder = 74018
+	}
+	10802.1.1 = {
+		holder = 74019
+	}
+	10818.1.1 = {
+		holder = 74020
+	}
+	10829.1.1 = {
+		holder = 74021
+	}
+	10831.1.1 = {
+		holder = 74022
+	}
+	10847.1.1 = {
+		holder = 74023
+	}
+	10852.1.1 = {
+		holder = 74024
+	}
+	10864.1.1 = {
+		holder = 74025
+	}
+	10888.1.1 = {
+		holder = 74026
+	}
+	10899.1.1 = {
+		holder = 146187
+	}
+	10916.1.1 = {
+		holder = 146188
+	}
+	10920.1.1 = {
+		holder = 146189
+	}
+	10928.1.1 = {
+		holder = 146190
+	}
+	10945.1.1 = {
+		holder = 146191
+	}
+	10969.1.1 = {
+		holder = 146193
+	}
+	10993.1.1 = {
+		holder = 146194
+	}
+	
+	#Cumans
+	11030.1.1 = {
+		liege = k_caspian_steppe
+	holder = 90142
+	}
+	11060.1.1 = {
+		holder = 806
+	}
+	11178.1.1 = {
+		holder = 161733 # Fictional placeholder
+	}
+	11183.1.1 = {
+		holder = 228030
+	}
+	11203.1.1 = {
+		holder = 125403
+	}
+	11223.1.1 = {
+		holder = 125404
+	}
+	11238.1.1 = {
+		holder = 34851
+	}
+	11262.1.13 = {
+		holder = 34903
+	}
+	11280.1.1 = {
+		holder = 34904
+	}
+	11285.1.1 = {
+		holder = 34906
+	}
+	11305.1.1 = {
+		holder = 480000
+	}
+}
+
+
+c_astrakhan = {
+	10867.1.1 = { change_development_level = 9 }
+	11066.1.1 = { change_development_level = 2 }
+	11178.1.1 = { change_development_level = 15 }
+	
+	10691.1.1 = {
+		liege = e_caspian-pontic_steppe
+		holder = 74007
+		government = nomad_government
+	}
+	10715.1.1 = {
+		holder = 74008
+	}
+	10731.1.1 = {
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	10763.1.1 = {
+		holder = 146203
+	}
+	10796.1.1 = {
+		holder = 74018
+	}
+	10802.1.1 = {
+		holder = 74019
+	}
+	10818.1.1 = {
+		holder = 74020
+	}
+	10829.1.1 = {
+		holder = 74021
+	}
+	10831.1.1 = {
+		holder = 74022
+	}
+	10847.1.1 = {
+		holder = 74023
+	}
+	10852.1.1 = {
+		holder = 74024
+	}
+	10864.1.1 = {
+		holder = 74025
+	}
+	10888.1.1 = {
+		holder = 74026
+	}
+	10899.1.1 = {
+		holder = 146187
+	}
+	10916.1.1 = {
+		holder = 146188
+	}
+	10920.1.1 = {
+		holder = 146189
+	}
+	10928.1.1 = {
+		holder = 146190
+	}
+	10945.1.1 = {
+		holder = 146191
+	}
+	10969.1.1 = {
+		holder = 146193
+	}
+	10993.1.1 = {
+		holder = 146194
+	}
+	
+	#Cumans
+	11030.1.1 = {
+		liege = k_caspian_steppe
+		holder = 90142
+	}
+	11060.1.1 = {
+		holder = 20663
+	}
+	
+	#1178
+	11178.1.1 = {
+		holder = fictional_khazars_9 # Fictional herder
+		liege = d_khazaria
+		government = herder_government
+	}
+	11183.1.1 = {
+		holder = 228030
+		government = nomad_government
+	}
+	11203.1.1 = {
+		holder = 125403
+	}
+	11223.1.1 = {
+		holder = 125404
+	}
+	11238.1.1 = {
+		holder = 34851
+	}
+	11262.1.13 = {
+		holder = 34903
+	}
+	11280.1.1 = {
+		holder = 34904
+	}
+	11285.1.1 = {
+		holder = 34906
+	}
+	11305.1.1 = {
+		holder = 480000
+	}
+}
+
+
+c_beksima = {
+	10691.1.1 = {
+		liege = e_caspian-pontic_steppe
+		holder = 74007
+		government = tribal_government
+	}
+	10715.1.1 = {
+		holder = 74008
+	}
+	10731.1.1 = {
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	10763.1.1 = {
+		holder = 146203
+	}
+	10796.1.1 = {
+		holder = 74018
+	}
+	10802.1.1 = {
+		holder = 74019
+	}
+	10818.1.1 = {
+		holder = 74020
+	}
+	10829.1.1 = {
+		holder = 74021
+	}
+	10831.1.1 = {
+		holder = 74022
+	}
+	10847.1.1 = {
+		holder = 74023
+	}
+	10852.1.1 = {
+		holder = 74024
+	}
+	10864.1.1 = {
+		holder = 74025
+	}
+	10888.1.1 = {
+		holder = 74026
+	}
+	10899.1.1 = {
+		holder = 146187
+	}
+	10916.1.1 = {
+		holder = 146188
+	}
+	10920.1.1 = {
+		holder = 146189
+	}
+	10928.1.1 = {
+		holder = 146190
+	}
+	10945.1.1 = {
+		holder = 146191
+	}
+	10969.1.1 = {
+		holder = 146193
+	}
+	10993.1.1 = {
+		holder = 146194
+	}
+	
+	#Cumans
+	11030.1.1 = {
+		liege = k_caspian_steppe
+	holder = 90142
+	}
+	11060.1.1 = {
+		holder = 806
+	}
+	11178.1.1 = {
+		holder = 161733 # Fictional placeholder
+	}
+	11183.1.1 = {
+		holder = 228030
+	}
+	11203.1.1 = {
+		holder = 125403
+	}
+	11223.1.1 = {
+		holder = 125404
+	}
+	11238.1.1 = {
+		holder = 34851
+	}
+	11262.1.13 = {
+		holder = 34903
+	}
+	11280.1.1 = {
+		holder = 34904
+	}
+	11285.1.1 = {
+		holder = 34906
+	}
+	11305.1.1 = {
+		holder = 480000
+	}
+}
+
+
+d_azov = {
+	10822.1.1= {
+		liege=e_caspian-pontic_steppe
+		government = nomad_government
+	}
+	10829.1.1={
+		holder=74021
+	}
+	10831.1.1={
+		holder=74022
+	}
+	10847.1.1={
+		holder=74023
+	}
+	10852.1.1={
+		holder=0
+	}
+	10863.1.1 = {
+		holder = 0	#placeholder
+	}
+	10906.1.1 = {
+		holder = 302272	#placeholder
+	}
+	10930.1.1 = {
+		holder = 302273 #placeholder
+	}
+	
+	#Kievan invasion
+	10965.1.1 = {
+		liege = 0
+		holder = 0
+	}	
+	
+	#Cumans
+	11066.1.1 = {
+		liege = k_caspian_steppe
+	}
+	11066.1.1 = {
+		holder = 20655
+	}
+	11089.1.1 = {
+		holder = 228059
+	}
+	11110.1.1 = {
+		holder = 479240
+	}
+	11150.1.1 = {
+		holder = 34882
+	}
+	11170.1.1 = {
+		holder = 0
+	}
+	11180.1.1 = {
+		holder = 34883
+	}
+	11210.1.1 = {
+		holder = 34884
+	}
+	11238.1.1 = {
+		liege = e_golden_horde
+	holder = 34885
+	}
+	11270.1.1 = {
+		holder = 34886
+	}
+	11300.1.1 = {
+		holder = 34887
+	}
+	11315.1.1 = {
+		holder = 34888
+	}
+}
+
+c_tmutarakan = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 6 }
+	
+	10822.1.1= {
+		liege=d_azov
+		government = tribal_government
+	}
+	10829.1.1={
+		holder=74021
+	}
+	10831.1.1={
+		holder=74022
+	}
+	10847.1.1={
+		holder=74023
+	}
+	10852.1.1={
+		holder=74024
+	}
+	10863.1.1 = {
+		liege= d_azov
+		government = tribal_government
+		holder = 3022740
+	}
+	10906.1.1 = {
+		holder = 302272	#placeholder
+	}
+	10930.1.1 = {
+		holder = 302273 #placeholder
+	}
+	
+	#Kievan invasion 965
+	#Annexed by Kievan Rus'
+	11016.1.1 = {
+		liege = "d_kiev"
+		government = feudal_government
+		holder = 618
+	}
+	11024.1.2 = {
+		liege = "d_chernigov"
+	}
+	11036.1.2 = {
+		holder = 612
+	}
+	11054.2.20 = {
+		holder = 628
+	}
+	11060.1.2 = {
+		holder = 654
+	}
+	11064.1.2 = {
+		liege = "d_kiev"
+	}
+	11064.1.2 = {
+		holder = 670
+	}
+	11067.2.3 = {
+		liege = "d_chernigov"
+	}
+	11067.2.3 = {
+		holder = 654
+	}
+	11068.1.2 = {
+		holder = 658
+	}
+	11079.8.2 = {
+		liege = "d_kiev"
+	}
+	11079.8.2 = {
+		holder = 630
+	}
+	11081.1.2 = {
+		liege = 0
+	}
+	11081.1.2 = {
+		holder = 668
+	}
+	11083.1.2 = {
+		holder = 660
+	}
+	11093.4.13 = {
+		liege = "d_chernigov"
+	}
+	11115.8.1 = {
+		liege = "d_azov"
+	holder = 479240
+	}
+	11150.1.1 = {
+		holder = 34882
+	}
+	11178.1.1 = {
+		holder = 232544 # Michael Gabras
+	}
+	11180.1.1 = {
+		holder = 34883
+	}
+	11187.1.1 = {
+		holder = 215041
+	}
+	11199.1.1 = {
+		holder = 34883
+	}
+	#11204.5.16 =
+	11205.1.1 = {
+		liege = "k_trebizond"
+	holder = 215519
+	}
+	11222.2.1 = {
+		holder = 125719
+	}
+	11235.1.1 = {
+		holder = 125717
+	}
+	11238.1.1 = {
+		holder = 125720
+	}
+	11263.3.1 = {
+		holder = 125721
+	}
+	11267.3.4 = {
+		holder = 125723
+	}
+	11280.6.1 = {
+		holder = 465805
+	}
+	11284.1.1 = {
+		holder = 125722
+	}
+	11285.1.1 = {
+		holder = 465805
+	}
+	11297.8.16 = {
+		holder = 465810
+	}
+	11330.5.3 = {
+		holder = 125725
+	}
+	11332.1.8 = {
+		holder = 145074
+	}
+	11332.9.22 = {
+		holder = 465800
+	}
+}
+
+
+c_khumar = {
+	10822.1.1= {
+		liege=d_azov
+		government = nomad_government
+	}
+	10829.1.1={
+		holder=74021
+	}
+	10831.1.1={
+		holder=74022
+	}
+	10847.1.1={
+		holder=74023
+	}
+	10852.1.1={
+		holder=74024
+	}
+	10863.1.1 = {
+		liege=e_caspian-pontic_steppe
+		holder = 302271	#placeholder
+	}
+	10906.1.1 = {
+		holder = 302272	#placeholder
+	}
+	10930.1.1 = {
+		holder = 302273 #placeholder
+	}
+	
+	#Kievan invasion
+	10965.1.1 = {
+		liege = 0
+	}	
+	
+	#Cumans	
+	11066.1.1 = {
+		liege = "d_azov"
+	holder = 20655
+	}
+	11089.1.1 = {
+		holder = 228059
+	}
+	11110.1.1 = {
+		holder = 479240
+	}
+	11150.1.1 = {
+		holder = 34882
+	}
+	11178.1.1 = {
+		holder = 161733 # Fictional placeholder
+	}
+	11180.1.1 = {
+		holder = 34883
+	}
+	11210.1.1 = {
+		holder = 34884
+	}
+	11238.1.1 = {
+		holder = 34892
+	}
+	11270.1.1 = {
+		holder = 34893
+	}
+	11300.1.1 = {
+		holder = 34894
+	}
+	11315.1.1 = {
+		holder = 34895
+	}
+}
+
+
+c_azov = {
+	10822.1.1= {
+		liege = d_azov
+		government = herder_government
+	}
+	10829.1.1={
+		holder=74021
+	}
+	10831.1.1={
+		holder=74022
+	}
+	10847.1.1={
+		holder=74023
+	}
+	10852.1.1={
+		holder=74024
+	}
+	10863.1.1 = {
+		liege = e_caspian-pontic_steppe
+		holder = 302271
+	}
+	10906.1.1 = {
+		holder = 302272	#placeholder
+		government = nomad_government
+	}
+	10930.1.1 = {
+		holder = 302273 #placeholder
+	}
+	
+	#Kievan invasion
+	10965.1.1 = {
+		liege = 0
+	}	
+	
+	#Cumans
+	11066.1.1 = {
+		liege = "d_azov"
+	holder = 20655
+	}
+	11089.1.1 = {
+		holder = 228059
+	}
+	11110.1.1 = {
+		holder = 479240
+	}
+	11150.1.1 = {
+		holder = 34882
+	}
+	11170.1.1 = {
+		holder = 34889
+	}
+	11178.1.1 = {
+		holder = 161733 # Fictional placeholder
+	}
+	11180.1.1 = {
+		holder = 34883
+	}
+	11210.1.1 = {
+		holder = 34884
+	}
+	11238.1.1 = {
+		holder = 34892
+	}
+	11270.1.1 = {
+		holder = 34893
+	}
+	11300.1.1 = {
+		holder = 34894
+	}
+	11315.1.1 = {
+		holder = 34895
+	}
+}
+
+
+d_alania = {
+	#Alans tributaries to Khazars
+	10741.1.1 = {
+		holder = 146205	#Buriberdi Zmbalani
+		liege = e_caspian-pontic_steppe
+		government = tribal_government
+	}
+	10777.1.1 = {
+		holder = 146206
+	}
+	10805.1.1 = {
+		holder = 146209
+	}
+	10860.1.1 = {
+		holder = 163118
+	}
+	10900.1.1 = {
+		holder = 183223
+	}
+	
+	#Khazars pwned by Svyatoslav of the Rus
+	#Alans become independent from Khazars around that period
+	10965.1.1 = {
+		liege = 0
+	}
+	11000.1.1 = {
+		holder = 41592	#Urdur Oseti
+	}
+	11022.1.1 = {
+		holder = 20662	#Durgulel Oseti
+	}
+	11088.1.1 = {
+		holder = 9957	#Demetre Oseti
+	}
+	11108.1.1 = {
+		holder = 9959	#Davit Bagratoni
+	}
+	11130.1.1 = {
+		holder = 41550	#Athom Bagratoni
+	}
+	11168.1.1 = {
+		holder = 216524	#Djadaron Bagratoni
+	}
+	11181.1.1 = {
+		holder = 466516	#David Soslan
+	}
+	11207.1.1 = {
+		holder = 302270	#semi-fictional Rhosmices Ovsia
+	}
+	
+	#Mongol conquest and destruction of kingdom of Alania
+	11238.1.2 = {
+		liege = e_golden_horde
+	}
+	11238.1.2 = {
+		holder = 93037	#fictional Khankhusy
+	}
+	11280.1.1 = {
+		holder = 93039
+	}
+	11313.1.1 = {
+		holder = 93047
+	}
+}
+
+
+c_cabardinia = {
+	#Alans tributaries to Khazars
+	10741.1.1 = {
+		holder = 146205	#Buriberdi Zmbalani
+		liege = d_alania
+		government = tribal_government
+	}
+	10777.1.1 = {
+		holder = 146206
+	}
+	10805.1.1 = {
+		holder = 146209
+	}
+	10860.1.1 = {
+		holder = 163118
+	}
+	10900.1.1 = {
+		holder = 183223
+	}
+	
+	#Khazars pwned by Svyatoslav of the Rus (965)
+	#Alans become independent from Khazars around that period
+	#10965.1.1 = {
+	#	liege = 0
+	#}
+	11000.1.1 = {
+		holder = 41592	#Urdur Oseti
+	}
+	11022.1.1 = {
+		holder = 20662	#Durgulel Oseti
+	}
+	11088.1.1 = {
+		holder = 9957	#Demetre Oseti
+	}
+	11108.1.1 = {
+		holder = 9959	#Davit Bagratoni
+	}
+	11130.1.1 = {
+		holder = 41550	#Athom Bagratoni
+	}
+	11168.1.1 = {
+		holder = fictional_alans_1	#Fictional herder
+		government = tribal_government
+		liege = d_alania
+	}
+	11181.1.1 = {
+		holder = 466516	#David Soslan
+		# government = nomad_government
+	}
+	11207.1.1 = {
+		holder = 302270	#semi-fictional Rhosmices Ovsia
+	}
+	
+	#Mongol conquest and destruction of kingdom of Alania
+	#11238.1.2 = {
+	#	liege = e_golden_horde
+	#}
+	11238.1.2 = {
+		holder = 93037	#fictional Khankhusy
+	}
+	11280.1.1 = {
+		holder = 93039
+	}
+	11313.1.1 = {
+		holder = 93047
+	}
+}
+
+c_besinada = {
+	#Alans tributaries to Khazars
+	10741.1.1 = {
+		holder = 146205	#Buriberdi Zmbalani
+		liege = d_alania
+		government = tribal_government
+	}
+	10777.1.1 = {
+		holder = 146206
+	}
+	10805.1.1 = {
+		holder = 146209
+	}
+	10860.1.1 = {
+		holder = 163118
+	}
+	10900.1.1 = {
+		holder = 183223
+	}
+	
+	#Khazars pwned by Svyatoslav of the Rus (965)
+	#Alans become independent from Khazars around that period
+	#10965.1.1 = {
+	#	liege = 0
+	#}
+	11000.1.1 = {
+		holder = 41592	#Urdur Oseti
+	}
+	11022.1.1 = {
+		holder = 20662	#Durgulel Oseti
+	}
+	11065.1.1 = {
+		holder = fictional_alans_2
+		liege = d_alania
+	}
+	11088.1.1 = {
+		holder = 9957	#Demetre Oseti
+	}
+	11108.1.1 = {
+		holder = 9959	#Davit Bagratoni
+	}
+	11130.1.1 = {
+		holder = 41550	#Athom Bagratoni
+	}
+	11168.1.1 = {
+		holder = 216524	#Djadaron Bagratoni
+	}
+	11181.1.1 = {
+		holder = 466516	#David Soslan
+	}
+	11207.1.1 = {
+		holder = 302270	#semi-fictional Rhosmices Ovsia
+	}
+	
+	#Mongol conquest and destruction of kingdom of Alania
+	#11238.1.2 = {
+	#	liege = e_golden_horde
+	#}
+	11238.1.2 = {
+		holder = 93037	#fictional Khankhusy
+	}
+	11280.1.1 = {
+		holder = 93039
+	}
+	11313.1.1 = {
+		holder = 93047
+	}
+}
+
+
+c_maghas = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 6 }
+	
+	#Alans tributaries to Khazars
+	10741.1.1 = {
+		holder = 146205	#Buriberdi Zmbalani
+		liege = d_alania
+		government = tribal_government
+	}
+	10777.1.1 = {
+		holder = 146206
+	}
+	10805.1.1 = {
+		holder = 146209
+	}
+	10860.1.1 = {
+		holder = 163118
+	}
+	10900.1.1 = {
+		holder = 183223
+	}
+	
+	#Khazars pwned by Svyatoslav of the Rus (965)
+	#Alans become independent from Khazars around that period
+	#10965.1.1 = {
+	#	liege = 0
+	#}
+	11000.1.1 = {
+		holder = 41592	#Urdur Oseti
+	}
+	11022.1.1 = {
+		holder = 20662	#Durgulel Oseti
+	}
+	11088.1.1 = {
+		holder = 9957	#Demetre Oseti
+	}
+	11108.1.1 = {
+		holder = 9959	#Davit Bagratoni
+	}
+	11130.1.1 = {
+		holder = 41550	#Athom Bagratoni
+	}
+	11168.1.1 = {
+		holder = 216524	#Djadaron Bagratoni
+	}
+	11181.1.1 = {
+		holder = 466516	#David Soslan
+	}
+	11207.1.1 = {
+		holder = 302270	#semi-fictional Rhosmices Ovsia
+	}
+	
+	#Mongol conquest and destruction of kingdom of Alania
+	#11238.1.2 = {
+	#	liege = e_golden_horde
+	#}
+	11238.1.2 = {
+		holder = 93037	#fictional Khankhusy
+	}
+	11280.1.1 = {
+		holder = 93039
+	}
+	11313.1.1 = {
+		holder = 93047
+	}
+}
+
+
+c_zichia = {
+	#Alans tributaries to Khazars
+	10741.1.1 = {
+		holder = 146205	#Buriberdi Zmbalani
+		liege = d_alania
+		government = tribal_government
+	}
+	10777.1.1 = {
+		holder = 146206
+	}
+	10805.1.1 = {
+		holder = 146209
+	}
+	10860.1.1 = {
+		holder = fictional_alans_3 #fictional herder
+		government = herder_government
+	}
+	10900.1.1 = {
+		holder = 183223
+		# government = nomad_government
+	}
+	
+	#Khazars pwned by Svyatoslav of the Rus (965)
+	#Alans become independent from Khazars around that period
+	#10965.1.1 = {
+	#	liege = 0
+	#}
+	11000.1.1 = {
+		holder = 41592	#Urdur Oseti
+	}
+	11022.1.1 = {
+		holder = 20662	#Durgulel Oseti
+	}
+	11088.1.1 = {
+		holder = 9957	#Demetre Oseti
+	}
+	11108.1.1 = {
+		holder = 9959	#Davit Bagratoni
+	}
+	11130.1.1 = {
+		holder = 41550	#Athom Bagratoni
+	}
+	11168.1.1 = {
+		holder = 216524	#Djadaron Bagratoni
+	}
+	11181.1.1 = {
+		holder = 466516	#David Soslan
+	}
+	11207.1.1 = {
+		holder = 302270	#semi-fictional Rhosmices Ovsia
+	}
+	
+	#Mongol conquest and destruction of kingdom of Alania
+	#11238.1.2 = {
+	#	liege = e_golden_horde
+	#}
+	11238.1.2 = {
+		holder = 93037	#fictional Khankhusy
+	}
+	11280.1.1 = {
+		holder = 93039
+	}
+	11313.1.1 = {
+		holder = 93047
+	}
+}
+
+
+c_derbent = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 39 }
+	
+	10270.1.1 = {
+		holder = 159580
+	}
+	10300.1.1 = {
+		holder = 159581
+	}
+	10330.1.1 = {
+		holder = 159582
+	}
+	10372.1.1 = {
+		holder = 159583
+	}
+	10402.1.1 = {
+		holder = 159585
+	}
+	10435.1.1 = {
+		holder = 159586
+	}
+	10440.1.1 = {
+		holder = 159587
+	}
+	10460.1.1 = {
+		holder = 159588
+	}
+	10465.1.1 = {
+		holder = 159589
+	}
+	10500.1.1 = {
+		holder = 159591
+	}
+	10530.1.1 = {
+		holder = 159615
+	}
+	10570.1.1 = {
+		holder = 159617
+	}
+	10600.1.1 = {
+		holder = 159618
+	}
+	10635.1.1 = {
+		holder = 160036
+	}
+	10636.1.1 = {
+		holder = 159619
+	}
+	10668.1.1 = {
+		holder = 159620
+	}
+	10699.1.1 = {
+		holder = 159627
+	}
+	10705.1.1 = {
+		holder = 160037
+	}
+	10710.1.1 = {
+		holder = 159628
+	}
+	10732.1.1 = {
+		liege = "k_armenia"
+	}
+	10740.1.1 = {
+		holder = 159629
+	}
+	10770.1.1 = {
+		holder = 159630
+	}
+	10821.1.1 = {
+		holder = 159631
+	}
+	10821.9.1 = {
+		holder = 159973
+	}
+	10822.1.1 = {
+		holder = 159966
+	}
+	10852.3.1 = {
+		liege = 0
+	}
+	10853.1.1 = {
+		holder = 159976
+	}
+	10857.1.1 = {
+		liege = "k_armenia"
+	}
+	10860.1.1 = {
+		liege = 0
+		holder = 93010
+	}
+	10885.1.1 = {
+		holder = 93011
+	}
+	10886.1.1 = {
+		holder = 93012
+	}
+	10915.1.1 = {
+		holder = 93013
+	}
+	10939.1.1 = {
+		holder = 93014
+	}
+	10976.1.1 = {
+		holder = 93015
+	}
+	10997.1.1 = {
+		holder = 93016
+	}
+	10998.1.1 = {
+		holder = 93017
+	}
+	11001.1.1 = {
+		holder = 93018
+	}
+	11034.1.1 = {
+		holder = 93019
+	}
+	11043.1.1 = {
+		holder = 93020
+	}
+	11045.1.1 = {
+		holder = 93021
+	}
+	11055.1.1 = {
+		holder = 93020
+	}
+	11065.1.1 = {
+		holder = 93022
+	}
+	11075.1.1 = {
+		holder = 93023
+	}
+	11077.1.1 = {
+		liege = "k_persia"
+		holder = 93024
+	}
+	11120.1.1 = {
+		liege = 0
+		holder = 93025
+	}
+	11140.1.1 = {
+		holder = 93026
+	}
+	11165.1.1 = {
+		holder = 93027
+	}
+	11190.1.1 = {
+		holder = 93028
+	}
+	11210.1.1 = {
+		holder = 93029
+	}
+	11225.1.1 = {
+		liege = e_mongol_empire
+		holder = 144571
+	}
+	11227.12.2 = {
+		liege = e_golden_horde
+	}
+	11243.1.1 = {
+		holder = 144572
+	}
+	11260.1.1 = {
+		holder = 144573
+	}
+	11278.1.1 = {
+		liege = "e_ilkhanate"
+	}
+	11282.1.1 = {
+		holder = 146118
+	}
+	11294.1.1 = {
+		holder = 146120
+	}
+	11317.1.1 = {
+		holder = 144574
+	}
+}
+
+
+c_samander = {
+	10691.1.1 = {
+		liege = e_caspian-pontic_steppe
+		holder = 74007
+	}
+	10715.1.1 = {
+		holder = 74008
+	}
+	10731.1.1 = {
+		holder = 74009
+	}
+	10740.1.1 = {
+		holder = saririds_1
+		government = clan_government
+	}
+	10788.1.1 = {
+		holder = saririds_2
+	}
+	10832.1.1 = {
+		holder = saririds_3
+	}
+	10836.1.1 = {
+		holder = saririds_4
+	}
+	10853.1.1 = {
+		holder = saririds_5
+	}
+	10905.1.1 = {
+		holder = saririds_6
+	}
+	10940.1.1 = {
+		holder = saririds_7
+	}
+	10950.1.1 = {
+		holder = saririds_8
+	}
+	11025.1.1 = {
+		holder = saririds_9
+	}
+	11026.1.1 = {
+		holder = saririds_10
+	}
+	11064.1.1 = {
+		liege = 0 #Sarir seem to have been independent at this time, though more research wouldn't hurt 
+		holder = saririds_11
+	}
+	#Cumans
+	11080.1.1 = {
+		liege = k_caspian_steppe
+	}
+	11178.1.1 = {
+		holder = alan_sarir_1 # Saratan
+		government = tribal_government
+		liege = 0
+	}
+	11183.1.1 = {
+		holder = 228030
+	}
+	11203.1.1 = {
+		holder = 125403
+	}
+	11223.1.1 = {
+		holder = 125404
+	}
+	11238.1.1 = {
+		holder = 34851
+	}
+	11262.1.13 = {
+		holder = 34903
+	}
+	11280.1.1 = {
+		holder = 34904
+	}
+	11285.1.1 = {
+		holder = 34906
+	}
+	11305.1.1 = {
+		holder = 480000
+	}
+}
+
+
+c_samiran = {
+	10691.1.1 = {
+		liege = e_caspian-pontic_steppe
+		holder = 74007
+		government = nomad_government
+	}
+	10715.1.1 = {
+		holder = 74008
+	}
+	10731.1.1 = {
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	10763.1.1 = {
+		holder = 146203
+	}
+	10796.1.1 = {
+		holder = 74018
+	}
+	10802.1.1 = {
+		holder = 74019
+	}
+	10818.1.1 = {
+		holder = 74020
+	}
+	10829.1.1 = {
+		holder = 74021
+	}
+	10831.1.1 = {
+		holder = 74022
+	}
+	10847.1.1 = {
+		holder = 74023
+	}
+	10850.1.1 = {
+		holder = fictional_khazars_6
+		#fictional, to have more chars and avoid domain overlimit
+	}
+	#10852.1.1 = {
+	#	holder = 74024
+	#}
+	#10864.1.1 = {
+	#	holder = 74025
+	#}
+	10888.1.1 = {
+		holder = 74026
+	}
+	10899.1.1 = {
+		holder = 146187
+	}
+	10916.1.1 = {
+		holder = 146188
+	}
+	10920.1.1 = {
+		holder = 146189
+	}
+	10928.1.1 = {
+		holder = 146190
+	}
+	10945.1.1 = {
+		holder = 146191
+	}
+	10969.1.1 = {
+		holder = 146193
+	}
+	10993.1.1 = {
+		holder = 146194
+	}
+	
+	#Cumans
+	11030.1.1 = {
+		liege = k_caspian_steppe
+		holder = 90142
+		government = nomad_government
+	}
+	11060.1.1 = {
+		holder = 20663
+		government = nomad_government
+	}
+	
+	#1178
+	11178.1.1 = {
+		holder = 194214 # Fictional placeholder
+		liege = d_khazaria
+		government = nomad_government
+	}
+	11183.1.1 = {
+		holder = 228030
+	}
+	11203.1.1 = {
+		holder = 125403
+	}
+	11223.1.1 = {
+		holder = 125404
+	}
+	11238.1.1 = {
+		holder = 34851
+	}
+	11262.1.13 = {
+		holder = 34903
+	}
+	11280.1.1 = {
+		holder = 34904
+	}
+	11285.1.1 = {
+		holder = 34906
+	}
+	11305.1.1 = {
+		holder = 480000
+	}
+}
+
+c_anket = {
+	10691.1.1 = {
+		liege = e_caspian-pontic_steppe
+		holder = 74007
+		government = nomad_government
+	}
+	10715.1.1 = {
+		holder = 74008
+	}
+	10731.1.1 = {
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	10763.1.1 = {
+		holder = 146203
+	}
+	10796.1.1 = {
+		holder = 74018
+	}
+	10802.1.1 = {
+		holder = 74019
+	}
+	10818.1.1 = {
+		holder = 74020
+	}
+	10829.1.1 = {
+		holder = 74021
+	}
+	10831.1.1 = {
+		holder = 74022
+	}
+	10847.1.1 = {
+		holder = 74023
+	}
+	10850.1.1 = {
+		holder = fictional_khazars_6
+		#fictional, to have more chars and avoid domain overlimit
+	}
+	#10852.1.1 = {
+	#	holder = 74024
+	#}
+	#10864.1.1 = {
+	#	holder = 74025
+	#}
+	10888.1.1 = {
+		holder = 74026
+	}
+	10899.1.1 = {
+		holder = 146187
+	}
+	10916.1.1 = {
+		holder = 146188
+	}
+	10920.1.1 = {
+		holder = 146189
+	}
+	10928.1.1 = {
+		holder = 146190
+	}
+	10945.1.1 = {
+		holder = 146191
+	}
+	10969.1.1 = {
+		holder = 146193
+	}
+	10993.1.1 = {
+		holder = 146194
+	}
+	
+	#Cumans
+	11030.1.1 = {
+		liege = k_caspian_steppe
+		holder = 90142
+	}
+	11060.1.1 = {
+		holder = 20663
+	}
+	
+	#1178
+	11178.1.1 = {
+		holder = 194214 # Fictional placeholder
+		liege = d_khazaria
+	}
+	11183.1.1 = {
+		holder = 228030
+	}
+	11203.1.1 = {
+		holder = 125403
+	}
+	11223.1.1 = {
+		holder = 125404
+	}
+	11238.1.1 = {
+		holder = 34851
+	}
+	11262.1.13 = {
+		holder = 34903
+	}
+	11280.1.1 = {
+		holder = 34904
+	}
+	11285.1.1 = {
+		holder = 34906
+	}
+	11305.1.1 = {
+		holder = 480000
+	}
+}
+
+

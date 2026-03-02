@@ -1,0 +1,1970 @@
+k_burgundy = {
+	10867.1.1 = { change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10771.12.4 = {
+		holder = 6392	#Charlemagne
+	}
+	10814.1.2 = {
+		holder = 90095	#Louis le Pieux
+	}
+	10840.1.1 = {
+		holder = 30227	#Lothaire I
+	}
+	
+	#Treaty of Verdun 843 - Burgundy part of Lotharingia
+	#Treaty of Prüm 855 - Burgundy independant, as kingdom of Provence
+	10855.8.23 = {
+		holder = 90103 #Charles of Provence
+		liege = 0
+	}
+	10863.1.25 = {
+		#Kingdom split in 2 after Charles of PRovence's death
+		holder = 0
+	}
+	#Kingdom of Burgundy/Provence split for some time
+	
+	#Reunification of the Two Burgundies
+	10933.1.1 = {
+		holder = 1144 #Rudolf II of Burgundy
+		liege = e_hre
+	}
+	10937.12.1 = {
+		holder = 1146	#Conrad of Burgundy
+	}
+	10993.10.19 = {
+		holder = 1148	#Rudolf III of Burgundy
+	}
+	11032.9.5 = {
+		holder = 0 #Incorporated into the HRE
+	}
+	#11032.1.1 = {
+	#	holder = 1312 #Konrad II of HRE
+	#}
+	#11039.6.4 = {
+	#	holder = 1314 #Heinrich III of HRE
+	#}
+	#11056.5.10 = {
+	#	holder = 1316 #Heinrich IV of HRE
+	#}
+	#11106.7.8 = {
+	#	holder = 7901 #Heinrich V of HRE
+	#}
+	#11125.1.1 = {
+	#	holder = 30219 #Lothar III von Supplingburg
+	#}
+	#11137.12.4 = {
+	#	holder = 7903 #Konrad III von Hohenstaufen
+	#}
+	#11152.2.15 = {
+	#	holder = 212501 #Friedrich I von Hohenstaufen
+	#}
+	#11190.6.10 = {
+	#	holder = 212507 #Heinrich VI von Hohenstaufen
+	#}
+	##-> Last ruler is Charles IV of the HRE in 1365-1366
+}
+
+d_provence = {
+	10763.1.1 = {
+		liege = k_lotharingia
+	}
+	10763.1.1 = {
+		holder = 194040 #Thomas
+	}
+	10855.1.1 = {
+		liege = k_burgundy
+	}
+	10855.1.1 = {
+		holder = 90103
+	}
+	10863.1.25 = {
+		liege = k_italy
+		holder = 30228
+	}
+	10875.8.12 = {
+		holder = 90104
+	}
+	10877.6.10 = {
+		liege = k_burgundy
+		holder = 90123
+	}
+	10879.1.11 = {
+		holder = 7981
+	}
+	10887.2.19 = {
+		holder = 1164
+	}
+	10928.1.2 = {
+		holder = 7923
+	}
+	10933.1.1 = {
+		holder = 168168
+	}
+	10935.9.13 = {
+		holder = 1144
+	}
+	10937.7.11 = {
+		holder = 168167
+	}
+	10952.12.17 = {
+		holder = 40800
+	}
+	10957.6.6 = {
+		holder = 402
+	}
+	10993.1.1 = {
+		holder = 40801
+	}
+	11008.1.2 = {
+		holder = 40803
+	}
+	11014.1.2 = {
+		holder = 404
+	}
+	11020.1.1 = {
+		holder = 40804
+	}
+	11025.1.1 = {
+		holder = 40805
+	}
+	11030.1.1 = {
+		holder = 406
+	}
+	11032.9.5 = {
+		liege = e_hre
+	}
+	11040.1.1 = {
+		holder = 410
+	}
+	11050.1.1 = {
+		holder = 40802
+	}
+	11063.1.1 = {
+		holder = 420
+	}
+	11097.1.2 = {
+		holder = 409
+	}
+	11112.1.1 = {
+		holder = 210508
+	}
+	11131.1.19 = {
+		holder = 40807
+	}
+	11144.3.1 = {
+		holder = 40808
+	}
+	11166.1.1 = {
+		holder = 71638
+	}
+	11167.1.1 = {
+		holder = 210500
+	}
+	11173.1.1 = {
+		holder = 71640
+		liege = k_aragon # delegated authority by the king of Aragon
+	}
+	11181.4.5 = {
+		holder = 210514
+	}
+	11185.1.1 = {
+		holder = 210502
+	}
+	11209.12.1 = {
+		holder = 210517
+	}
+	11245.8.19 = {
+		holder = 455407
+	}
+	11246.1.1 = {
+		holder = 455406
+		liege = k_france
+	}
+	11266.2.26 = {
+		liege = k_sicily
+	}
+	11285.1.7 = {
+		holder = 461710
+	}
+	11302.8.31 = {
+		liege = k_naples
+	}
+	11309.5.5 = {
+		holder = 461700
+	}
+
+}
+
+
+c_provence = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 29 }
+	
+	#Karling
+	10763.1.1 = {
+		liege = k_lotharingia
+	}
+	10763.1.1 = {
+		holder = 194040 #Thomas
+	}
+	#Bosonids
+	10801.1.1 = {
+		holder = 7976
+	}
+	10855.1.1 = {
+		liege = "d_provence"
+	}
+	10855.1.1 = {
+		holder = 7561 #Boson
+		liege = k_italy
+	}
+	10874.1.1 = {
+		holder = 7981
+	}
+	10879.1.1 = {
+		holder = 7921
+	}
+	10895.1.1 = {
+		holder = 7923
+	}
+	10923.1.1 = {
+		holder = 7980
+	}
+	10934.1.1 = {
+		holder = 400
+	}
+	10961.1.1 = {
+		holder = 402
+	}
+	10993.1.1 = {
+		holder = 40801
+	}
+	11008.1.2 = {
+		holder = 40803
+	}
+	11014.1.2 = {
+		holder = 404
+	}
+	11020.1.1 = {
+		holder = 40804
+	}
+	11025.1.1 = {
+		holder = 40805
+	}
+	11030.1.1 = {
+		holder = 406
+	}
+	11040.1.1 = {
+		holder = 410
+	}
+	11050.1.1 = {
+		holder = 40802
+	}
+	11063.1.1 = {
+		holder = 420
+	}
+	11097.1.2 = {
+		holder = 409
+	}
+	11112.1.1 = {
+		holder = 210508
+	}
+	11131.1.19 = {
+		holder = 40807
+	}
+	11144.3.1 = {
+		holder = 40808
+	}
+	11166.1.1 = {
+		holder = 71638
+	}
+	11167.1.1 = {
+		holder = 210500
+	}
+	11173.1.1 = {
+		holder = 71640
+	}
+	11181.4.5 = {
+		holder = 210514
+	}
+	11185.1.1 = {
+		holder = 210502
+	}
+	11209.12.1 = {
+		holder = 210517
+	}
+	11245.8.19 = {
+		holder = 455407
+	}
+	11246.1.1 = {
+		holder = 455406
+	}
+	11285.1.7 = {
+		holder = 461710
+	}
+	11309.5.5 = {
+		holder = 461700
+	}
+}
+
+
+c_nice = {
+	10756.1.1 = {
+		liege = k_italy
+	}
+	10756.1.1 = {
+		holder = 190330 #Liutprand
+	}
+	
+	10860.1.1 = {
+		liege = "k_italy"
+	}
+	10860.1.1 = {
+		government = theocracy_government
+		holder = 168009
+	}
+	11024.7.13 = {
+		liege = "d_provence" #d_genoa
+	}
+	11066.1.1 = {
+		holder = 20315
+	}
+	11074.1.1 = {
+		holder = 144585
+	}
+	11078.1.1 = {
+		holder = 144586
+	}
+	11108.1.1 = {
+		holder = 144587
+	}
+	11114.1.1 = {
+		holder = 144588
+	}
+	11149.1.1 = {
+		holder = 144589
+	}
+	11164.1.1 = {
+		holder = 144590
+	}
+	11182.1.1 = {
+		holder = 144591
+	}
+	11191.1.1 = {
+		holder = 144592
+	}
+	11207.1.1 = {
+		holder = 144593
+	}
+	11236.1.1 = {
+		holder = 144594
+	}
+	11246.1.1 = {
+		holder = 144595
+	}
+	11251.1.1 = {
+		holder = 144596
+	}
+	11272.1.1 = {
+		holder = 144597
+	}
+	11292.1.1 = {
+		holder = 144598
+	}
+	11302.1.1 = {
+		holder = 144599
+	}
+	11316.1.1 = {
+		holder = 144600
+	}
+	11323.1.1 = {
+		holder = 144601
+	}
+	11329.1.1 = {
+		holder = 144602
+	}
+	11334.1.1 = {
+		holder = 144603
+	}
+	11335.1.1 = {
+		holder = 144604
+	}
+}
+
+
+c_forcalquier = {
+	10765.1.1 = {
+		liege = "d_provence"
+		holder = 91500 #Welentus, historical as placeholder
+	}
+	10801.1.1 = {
+		holder = 7976
+	}
+	10855.1.1 = {
+		holder = 7561
+		liege = k_italy
+	}
+	10874.1.1 = {
+		holder = 7981
+	}
+	11066.1.1 = {
+		holder = 40802
+		liege = e_hre
+	}
+	11080.1.1 = {
+		holder = 110550
+	}
+	11092.3.28 = {
+		holder = 205985
+	}
+	11129.1.1 = {
+		holder = 205981
+	}
+	11150.1.1 = {
+		holder = 205983
+	}
+	11177.9.1 = {
+		liege = d_provence # acknowledged dependency upon the county of Provence and paid homage
+	}
+	11207.5.13 = {
+		holder = 205980
+	}
+	11209.1.1 = {
+		holder = 210517
+	}
+	11245.8.19 = {
+		holder = 455406
+	}
+	11285.1.7 = {
+		holder = 461710
+	}
+	11309.5.5 = {
+		holder = 461700
+	}
+
+}
+
+
+c_venaissin = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10765.1.1 = {
+		liege = "d_provence"
+		holder = 91500 #Welentus, historical as placeholder
+	}
+	10801.1.1 = {
+		holder = 7976
+	}
+	10855.1.1 = {
+		liege = "d_provence"
+	}
+	10855.1.1 = {
+		holder = 168092
+	}
+	10883.11.15 = {
+		holder = 168094
+	}
+	
+	11066.1.1 = {
+		holder = 32534
+	}
+	11073.1.1 = {
+		holder = 32535
+	}
+	11121.1.1 = {
+		holder = 32537
+	}
+	11156.6.5 = {
+		holder = 32538
+	}
+	11173.1.1 = {
+		holder = 32516
+	}
+	11181.1.1 = {
+		holder = 32519
+	}
+	11218.7.30 = {
+		holder = 32520
+	}
+	11274.1.1 = {
+		liege = "k_papal_state"
+	holder = 70785
+	}
+	11276.1.10 = {
+		holder = 71827
+	}
+	11276.6.22 = {
+		holder = 71829
+	}
+	11276.8.18 = {
+		holder = 71830
+	}
+	11277.5.20 = {
+		holder = 70851
+	}
+	11280.8.22 = {
+		holder = 71831
+	}
+	11285.3.28 = {
+		holder = 71832
+	}
+	11287.4.3 = {
+		holder = 71833
+	}
+	11292.4.4 = {
+		holder = 71834
+	}
+	11294.12.13 = {
+		holder = 71835
+	}
+	11303.10.11 = {
+		holder = 71836
+	}
+	11304.7.7 = {
+		holder = 71837
+	}
+	11314.4.20 = {
+		holder = 71838
+	}
+	11334.12.20 = {
+		holder = 478501
+	}
+
+}
+
+
+c_viviers = {
+	10745.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 91494 #Wegelenzo, historical as placeholder
+	}
+	10864.1.1 = {
+		government = theocracy_government
+		liege = "k_lotharingia"
+	}
+	10864.1.1 = {
+		holder = 168148
+	}
+	10884.12.12 = {
+		liege = "k_france"
+	}
+	11066.1.1 = {
+		liege = "d_provence"
+	}
+	11066.1.1 = {
+		holder = 20291 #Bishop Gérard
+	}
+	11070.1.1 = {
+		holder = 138359 #Bishop Jean II
+	}
+	11096.1.1 = {
+		holder = 138371 #Bishop Leodegarius	
+	}
+	11119.1.1 = {
+		holder = 138361 #Bishop Atton
+	}
+	11125.1.1 = {
+		holder = 138375 #Bishop Pierre I
+	}
+	11133.1.1 = {
+		holder = 138381 #Bishop Josserand de Montaigu
+	}
+	11147.1.1 = {
+		holder = 138379 #Bishop Guillaume I
+	}
+	11157.1.1 = {
+		holder = 138365 #Bishop Raymond d'Uzès
+	}
+	11171.1.1 = {
+		holder = 138366 #Bishop Robert de La Tour du Pin
+	}
+	11174.1.1 = {
+		holder = 138367 #Bishop Nicolas
+		liege = e_hre
+	}
+	11198.1.1 = {
+		liege = "d_toulouse"
+	}
+	11206.1.1 = {
+		holder = 138368 #Bishop Burnon
+	}
+	11220.1.1 = {
+		holder = 138369 #Bishop Guillaume II
+	}
+	11222.1.1 = {
+		holder = 138370 #Bishop Bermond d'Anduze
+	}
+	11226.1.1 = {
+		liege = "d_provence"
+	}
+	11242.1.1 = {
+		holder = 138393 #Arnaud de Vogué
+	}
+	11255.1.1 = {
+		holder = 32742 #Aimon de Genève
+	}
+	11263.1.1 = {
+		holder = 138394  #Hugues de La Tour du Pin
+	}
+	#1279 part of vivarais to france
+	11292.1.1 = {
+		holder = 138395 #Guillaume III de Falguières
+	}
+	11297.1.1 = {
+		holder = 138396 #Aldebert de Peyre
+	}
+	11302.1.1 = {
+		liege = "e_hre"
+	}
+	11306.1.1 = {
+		holder = 31664 #Bishop Louis I de Poitiers
+	}
+	11309.1.1 = {
+		liege = "k_france"
+	}
+	11318.1.1 = {
+		holder = 138397 #Guillaume IV de Flavacourt
+	}
+	11322.1.1 = {
+		holder = 138398 #Pierre II de Mortemart/Gauvain
+	}
+	11325.1.1 = {
+		holder = 138399 #Pierre III de Moussy
+	}
+	11326.1.1 = {
+		holder = 138388 #Aymar d'anduze de la voulte
+	}
+
+}
+
+
+d_savoie = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	11034.1.1 = {
+		liege = "e_hre"
+		holder = 1176
+	}
+	11051.7.1 = {
+		holder = 1178
+	}
+	11051.12.18 = {
+		holder = 1180
+	}
+	11060.3.1 = {
+		holder = 1182
+	}
+	11078.8.9 = {
+		holder = 1184
+	}
+	11080.1.26 = {
+		holder = 213119
+	}
+	11103.3.19 = {
+		holder = 213111
+	}
+	11148.8.30 = {
+		holder = 213110
+	}
+	11189.3.4 = {
+		holder = 213117
+	}
+	11233.3.1 = {
+		holder = 70897
+	}
+	11253.7.13 = {
+		holder = 462158
+	}
+	11259.2.7 = {
+		holder = 70902
+	}
+	11263.3.13 = {
+		holder = 70909
+	}
+	11268.5.14 = {
+		liege = 0
+		holder = 70913
+	}
+	11285.8.16 = {
+		holder = 462150
+	}
+	11323.10.16 = {
+		holder = 462153
+	}
+	11329.11.4 = {
+		holder = 462154
+	}
+}
+
+
+c_savoie = {
+	10760.1.1 = {
+		liege = k_lotharingia
+	}
+	10760.1.1 = {
+		holder = 190562 #Hugh I
+	}
+	10798.1.1 = {
+		holder = 190563 #Hugh II
+	}
+	10855.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 7977
+	}
+	
+	10864.1.1 = {
+		holder = 144998
+	}
+	10866.1.1 = {
+		holder = 7989
+	}
+	10876.1.1 = {
+		holder = 7984
+	}
+	
+	11032.9.5 = {
+		liege = "e_hre"
+	}
+	11046.1.1 = {
+		liege = "d_savoie"
+		holder = 1180
+	}
+	11060.3.1 = {
+		holder = 1182
+	}
+	11078.8.9 = {
+		holder = 1184
+	}
+	11080.1.26 = {
+		holder = 213119
+	}
+	11103.3.19 = {
+		holder = 213111
+	}
+	11148.8.30 = {
+		holder = 213110
+	}
+	11189.3.4 = {
+		holder = 213117
+	}
+	11233.3.1 = {
+		holder = 70897
+	}
+	11253.7.13 = {
+		holder = 70902
+	}
+	11259.2.7 = {
+	}
+	11263.3.13 = {
+		holder = 70909
+	}
+	11268.5.14 = {
+		holder = 70913
+	}
+	11285.8.16 = {
+		holder = 462150
+	}
+	11323.10.16 = {
+		holder = 462153
+	}
+	11329.11.4 = {
+		holder = 462154
+	}
+}
+
+
+c_aosta = {
+	10760.1.1 = {
+		liege = k_lotharingia
+	}
+	10760.1.1 = {
+		holder = 190562 #Hugh I
+	}
+	10798.1.1 = {
+		holder = 190563 #Hugh II
+	}
+	10855.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 7977
+	}
+	
+	10864.1.1 = {
+		holder = 144998
+	}
+	10866.1.1 = {
+		holder = 7989
+	}
+	10876.1.1 = {
+		holder = 7984
+	}
+	
+	11032.9.5 = {
+		liege = "e_hre"
+	}
+	11046.1.1 = {
+		liege = "d_savoie"
+		holder = 1180
+	}
+	11060.3.1 = {
+		holder = 1182
+	}
+	11078.8.9 = {
+		holder = 1184
+	}
+	11080.1.26 = {
+		holder = 213119
+	}
+	11100.1.1 = {
+		holder = challant_1 # Boson I de Challant
+		liege = d_savoie
+	}
+	11125.1.1 = {
+		holder = challant_2 # Aymon I de Challant
+	}
+	11147.1.1 = {
+		holder = challant_3 # Boson II de Challant
+	}
+	11189.3.4 = {
+		holder = 213117
+	}
+	11233.3.1 = {
+		holder = 70897
+	}
+	11253.7.13 = {
+		holder = 70902
+	}
+	11259.2.7 = {
+	}
+	11263.3.13 = {
+		holder = 70909
+	}
+	11268.5.14 = {
+		holder = 70913
+	}
+	11285.8.16 = {
+		holder = 462150
+	}
+	11323.10.16 = {
+		holder = 462153
+	}
+	11329.11.4 = {
+		holder = 462154
+	}
+}
+
+
+c_canavese = {
+	10760.1.1 = {
+		liege = k_lotharingia
+	}
+	10760.1.1 = {
+		holder = 190562 #Hugh I
+	}
+	10798.1.1 = {
+		holder = 190563 #Hugh II
+	}
+	10855.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 7977
+	}
+	
+	10864.1.1 = {
+		holder = 144998
+	}
+	10866.1.1 = {
+		holder = 7989
+	}
+	10876.1.1 = {
+		holder = 7984
+	}
+	
+	11032.9.5 = {
+		liege = "e_hre"
+	}
+	11046.1.1 = {
+		liege = "d_savoie"
+		holder = 1180
+	}
+	11060.3.1 = {
+		holder = 1182
+	}
+	11078.8.9 = {
+		holder = 1184
+	}
+	11080.1.26 = {
+		holder = 213119
+	}
+	11103.3.19 = {
+		holder = 213111
+	}
+	11148.8.30 = {
+		holder = 213110
+	}
+	11189.3.4 = {
+		holder = 213117
+	}
+	11233.3.1 = {
+		holder = 70897
+	}
+	11253.7.13 = {
+		holder = 70902
+	}
+	11259.2.7 = {
+	}
+	11263.3.13 = {
+		holder = 70909
+	}
+	11268.5.14 = {
+		holder = 70913
+	}
+	11285.8.16 = {
+		holder = 462150
+	}
+	11323.10.16 = {
+		holder = 462153
+	}
+	11329.11.4 = {
+		holder = 462154
+	}
+}
+
+d_dauphine = {
+	#Used as Lower Burgundy after Charles of Provence's death in 863
+	#Holders set bit by default to rulers of Lotharingia
+	10863.1.25 = {
+		holder = 144998 #Lothair II
+		liege = k_lotharingia
+	}
+	10869.8.8 = {
+		holder = 90104 #Charles I the Bald
+	}
+	10877.6.10 = {
+		holder = 42019 #Louis I the Younger
+	}
+	10882.1.20 = {
+		holder = 90105 #Charles II the Fat
+	}
+	10888.1.1 = {
+		holder = 7945 #Arnulf of Carinthia
+	}
+	10895.1.1 = {
+		holder = 144997 #Zwentibold
+	}
+	10900.8.13 = {
+		holder = 7949 #Louis III the Child
+	}
+	10911.9.20 = {
+		holder = 90111 #Charles III the Simple
+	}	
+	10933.1.1 = {
+		holder = 0
+		#The two burgundies are reunited under Rudolf II
+	}
+}
+
+c_lyon = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 11 }
+	
+	10765.1.1 = {
+		liege = "k_lotharingia"
+		holder = 91491 #VUODO, historical count as placeholder
+	}
+	10855.8.23 = {
+		liege = "k_burgundy"
+		holder = 144998
+	}
+	10863.1.1 = {
+		holder = 168238  #Guilhem I de Forez
+	}
+	10863.1.25 = {
+		liege = d_dauphine
+	}
+	10871.1.1 = {
+		holder = 168239  #Guilhem II de Forez
+	}
+	10925.8.27 = {
+		holder = 168240  #Artaud I de Forez
+	}
+	10933.1.1 = {
+		liege = k_burgundy
+	}
+	10960.1.1 = {
+		holder = 168241  #Geraud I de Forez
+	}
+	10993.1.1 = {
+		holder = 168242  #Artaud II de Forez
+	}
+	11000.10.11 = {
+		holder = 168243  #Artaud III de Forez
+	}
+	11017.1.1 = {
+		holder = 10028
+	}
+	11032.1.1 = {
+		liege = e_hre
+	}
+	11058.1.1 = {
+		holder = 20290
+	}
+	11079.12.1 = {
+		holder = 212806
+	}
+	11097.6.1 = {
+		holder = 212807
+	}
+	11107.1.1 = {
+		holder = 205681 #Guy d'Albon
+	}
+	11138.10.27 = {
+		holder = 205680 #Guigues d'Albon
+	}
+	11163.1.1 = {
+		liege = "k_france"
+	}
+	11187.1.1 = {
+		liege = "d_burgundy"
+	}
+	11193.1.1 = { #Guigues III should hold Lyon from 1193 to his death, after which his brother Archbishop Renaud holds it.
+		holder = 205684
+	}
+	11202.11.28 = {
+		holder = 205685 #Archbishop Renaud d'Albon
+	}
+	11226.10.21 = {
+		holder = 138427 #ArchBishop Robert d'Auvergne
+	}
+	11234.1.1 = {
+		holder = 138425 #ArchBishop Raoul I de La Roche-Aymon
+	}
+	11236.1.1 = {
+		holder = 138437 #Bishop Aimery de Rives
+	}
+	11245.1.1 = {
+		holder = 70913 #ArchBishop Philippe I de Savoie
+	}
+	11267.1.1 = {
+		holder = 138438	#Bishop Guy II
+	}
+	11268.1.1 = {
+		holder = 71827 #ArchBishop Pierre II de Tarentaise/future Pope Innocent IV
+	}
+	11273.1.1 = {
+		holder = 138439	#ArchBishop Aymar de Roussillon
+	}
+	11283.1.1 = {
+		holder = 138453 #ArchBishop Raoul II de la Tourette
+	}
+	11288.1.1 = {
+		holder = 138404 #ArchBishop Bérard de Got brother of Pope Clement V
+	}
+	11294.1.1 = {
+		holder = 138440 #ArchBishop Henri I de Villars
+	}
+	11301.1.1 = {
+		holder = 138441	#ArchBishop Louis de Villars
+	}
+	11308.1.1 = {
+		holder = 70926 #ArchBishop Pierre de Savoie
+	}
+	11312.4.10 = {
+		liege = "k_france"
+	}
+	11332.11.1 = {
+		holder = 138442 #ArchBishop Guillaume I de Sure
+	}
+
+}
+
+
+c_viennois = {
+	10750.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 91490 #VULFARD, historical placeholder
+	}
+	10855.1.1 = {
+		liege = "k_burgundy"
+	}
+	10855.1.1 = {
+		holder = 163062
+	}
+	10863.1.25 = {
+		liege = d_dauphine
+	}
+	10870.1.1 = {
+		liege = "d_provence"
+	}
+	
+	10996.10.18 = {
+		holder = 138403 #Guigues II d'Albon
+	}
+	11009.1.1 = {
+		holder = 40462 # Guigues III the old d'Albon
+	}
+	11074.4.22 = {
+		holder = 212804 # Guigues IV Pinguis d'Albon
+	}
+	11106.1.19 = {
+		holder = 212803 # Guigues V d'Albon
+	}
+	11125.12.21 = {
+		holder = 212802 # Guigues VI d'Albon
+	}
+	11142.6.28 = {
+		holder = 212801  # Guigues VII d'Albon
+	}
+	11162.7.29 = {
+		holder = 212800 # Beatrix d'Albon
+		liege = e_hre
+	}
+	11187.1.1 = {
+		liege = k_burgundy
+	}
+	11220.1.1 = {
+		liege = d_savoie
+	}
+	11228.12.15 = {
+		holder = 206016 #AndrÃ© Guigues VIII d'Albon
+	}
+	11237.3.14 = {
+		holder = 7499 #Guigues VII/IX de Viennois
+	}
+	11240.9.24 = {
+		liege = "d_savoie"
+	}	
+	11269.1.1 = {
+		holder = 7495 #Jean I de Viennois
+	}
+	11282.9.24 = {
+		holder = 462701 #Jean II de la Tour du Pin
+	}
+	11307.4.12 = {
+		holder = 7497 #Jean III de la Tour du Pin
+	}
+	11319.3.5 = {
+		holder = 7493 #Guigues VIII/X de Viennois
+	}
+	11333.7.28 = {
+		holder = 7492 #Humbert de la Tour du Pin
+	}
+
+}
+
+
+c_valentinois = {
+	10750.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 91490 #VULFARD, historical placeholder
+	}
+	10855.1.1 = {
+		liege = "k_burgundy"
+	}
+	10855.1.1 = {
+		holder = 163062
+	}
+	10863.1.25 = {
+		liege = d_dauphine
+	}
+	10870.1.1 = {
+		liege = "d_provence"
+	}
+	
+	10996.10.18 = {
+		holder = 138403 #Guigues II d'Albon
+	}
+	11009.1.1 = {
+		holder = 40462 # Guigues III the old d'Albon
+	}
+	11074.4.22 = {
+		holder = 212804 # Guigues IV Pinguis d'Albon
+	}
+	11106.1.19 = {
+		holder = 212803 # Guigues V d'Albon
+	}
+	11125.12.21 = {
+		holder = 212802 # Guigues VI d'Albon
+	}
+	11142.6.28 = {
+		holder = 212801  # Guigues VII d'Albon
+	}
+	11158.1.1 = {
+		holder = 212780
+		liege = "e_hre"
+	}
+	11187.1.1 = {
+		liege = k_burgundy
+	}
+	11220.1.1 = {
+		liege = d_savoie
+	}
+	11228.12.15 = {
+		holder = 206016 #AndrÃ© Guigues VIII d'Albon
+	}
+	11237.3.14 = {
+		holder = 7499 #Guigues VII/IX de Viennois
+	}
+	11240.9.24 = {
+		liege = "d_savoie"
+	}	
+	11269.1.1 = {
+		holder = 7495 #Jean I de Viennois
+	}
+	11282.9.24 = {
+		holder = 462701 #Jean II de la Tour du Pin
+	}
+	11307.4.12 = {
+		holder = 7497 #Jean III de la Tour du Pin
+	}
+	11319.3.5 = {
+		holder = 7493 #Guigues VIII/X de Viennois
+	}
+	11333.7.28 = {
+		holder = 7492 #Humbert de la Tour du Pin
+	}
+
+}
+
+
+c_forez = {
+	10765.1.1 = {
+		liege = "k_lotharingia"
+		holder = 91491 #VUODO, historical count as placeholder
+	}
+	10855.8.23 = {
+		liege = "k_burgundy"
+		holder = 144998
+	}
+	10863.1.25 = {
+		liege = d_dauphine
+	}
+	10863.1.1 = {
+		holder = 168238  #Guilhem I de Forez
+	}
+	10871.1.1 = {
+		holder = 168239  #Guilhem II de Forez
+	}
+	10925.8.27 = {
+		holder = 168240  #Artaud I de Forez
+	}
+	10933.1.1 = {
+		liege = k_burgundy
+	}
+	10960.1.1 = {
+		holder = 168241  #Geraud I de Forez
+	}
+	10993.1.1 = {
+		holder = 168242  #Artaud II de Forez
+	}
+	11000.10.11 = {
+		holder = 168243  #Artaud III de Forez
+	}
+	11017.1.1 = {
+		holder = 10028  #Geraud II de Forez
+	}
+	11032.1.1 = {
+		liege = e_hre
+	}
+	11058.3.5 = {
+		holder = 20290 #Artaud IV de Forez
+	}
+	11079.12.6 = {
+		holder = 212806 #Guillaume III de Forez
+	}
+	11097.6.1 = {
+		holder = 212807 #Guillaume IV de Forez
+	}
+	11107.1.1 = {
+		holder = 205681 #Guy d'Albon
+	}
+	11138.10.27 = {
+		holder = 205680 #Guigues d'Albon
+	}
+	11163.1.1 = {
+		liege = "k_france"
+	}
+	11187.1.1 = {
+		liege = "d_burgundy"
+	}
+	11202.11.28 = {
+		holder = 7491 #Guigues IV de Forez/Lyon
+	}
+	11241.10.29 = {
+		holder = 7485 #Renaud de Forez
+	}
+	11270.11.13 = {
+		holder = 7489 #Guy VI de Forez
+	}
+	11278.1.1 = {
+		holder = 7490 #Jean I de Forez
+	}
+	11333.1.1 = {
+		holder = 455670 #Guy VII de Forez
+	}
+}
+
+
+d_upper_burgundy = {
+	10760.1.1 = {
+		liege = k_lotharingia
+	}
+	10760.1.1 = {
+		holder = 190562 #Hugh I
+	}
+	10798.1.1 = {
+		holder = 190563 #Hugh II
+	}
+	
+	#Traty of Prüm in 855, splitting Lotharingia in two
+	10855.1.1 = { #duchy of Transjura/kingdom of Upper-Burgundy
+		liege = "k_burgundy"
+		holder = 7977
+	}
+	
+	#Charles of Provence dies, the kingdom of Provence is split between Lotharingia & Italy
+	10863.1.1 = {
+		liege = k_italy
+	}
+	10864.1.1 = {
+		holder = 144998
+	}
+	10866.1.1 = {
+		holder = 7989
+	}
+	10876.1.1 = {
+		holder = 7984
+	}
+	
+	#Treaty of Ribemont
+	10880.1.1 = {
+		liege = 0
+	}
+	10911.10.25 = {
+		holder = 1144
+	}
+	10937.12.1 = {
+		holder = 1146
+	}
+	10993.10.19 = {
+		holder = 1148
+	}
+	11032.9.5 = {
+		holder = 0
+	}
+	
+	11220.1.1 = {
+		liege = e_hre
+		holder = 32768
+	}
+	11241.1.1 = {
+		holder = 32769
+	}
+	11257.3.14 = {
+		holder = 0
+	}
+
+}
+
+
+c_besancon = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	#County of Burgundy
+	
+	#Royal Domain
+	10769.1.1 = {
+		holder = 144999
+	}
+	10855.8.23 = {
+		liege = "k_burgundy"
+		holder = 91383
+	}
+	10859.1.1 = {
+		holder = 91384
+	}
+	10863.1.25 = {
+		liege = d_dauphine
+	}
+	10880.1.1 = {
+		holder = 90105
+	}
+	10888.1.14 = {
+		holder = 7984
+	}
+	10911.10.25 = {
+		holder = 1144
+	}
+	10933.1.1 = {
+		liege = k_burgundy
+	}
+	10937.12.1 = {
+		holder = 1146
+	}
+	#House of Ivrée
+	10986.1.1 = {
+		liege = "d_burgundy"
+		holder = 272 #Otte-Guillaume
+	}
+	11026.1.1 = {
+		liege = "e_hre"
+		holder = 276 #Renaud I de Bourgogne
+	}
+	11057.1.1 = {
+		holder = 280 #Guillaume I de Bourgogne
+	}
+	11087.1.2 = {
+		holder = 290 #Renaud II de Bourgogne
+	}
+	11097.1.2 = {
+		holder = 205706 #Étienne I de Bourgogne
+	}
+	11102.5.27 = {
+		holder = 232556 #Renaud III de Bourgogne
+	}
+	11148.1.2 = {
+		holder = 205599 #Béatrice I de Bourgogne
+	}
+	
+	#House of Hohenstaufen
+	11184.1.1 = {
+		holder = 212501 #Frédéric I Barberousse
+	}
+	11190.6.2 = {
+		holder = 212511 #Othon I de Hohenstaufen
+	}
+	11200.1.13 = {
+		holder = 30772 #Jeanne I de Bourgogne
+	}
+	11205.1.1 = {
+		holder = 7652 #Béatrice II de Bourgogne
+	}
+	11220.1.1 = {
+		liege = d_upper_burgundy
+	}
+	
+	#House of Andechs
+	11231.1.1 = {
+		holder = 7684 #Othon III de Bourgogne
+	}
+	11248.1.1 = {
+		holder = 7653 #Adélaïde I de Bourgogne
+		liege = e_hre
+	}
+	
+	#House of Ivrée
+	11279.1.1 = {
+		holder = 455739 #Othon IV de Bourgogne
+	}
+	11303.1.1 = {
+		holder = 91146 #Robert de Bourgogne
+	}
+	11315.1.1 = {
+		liege = "k_france"
+		holder = 455741 #Jeanne de Bourgogne
+	}
+	
+	#Direct Capetians
+	11330.1.1 = {
+		liege = "d_burgundy"
+		holder = 455913 #Jeanne III de Bourgogne
+	}
+
+}
+
+
+c_geneva = {
+	11178.1.1 = { change_development_level = 14 }
+
+	10760.1.1 = {
+		liege = "k_lotharingia"
+		holder = 91482 #FREDERIC, count of Transjuranie
+	}
+	10855.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 7977
+	}
+	10864.1.1 = {
+		holder = 144998
+	}
+	10866.1.1 = {
+		holder = 7989
+	}
+	10876.1.1 = {
+		holder = 7984
+	}
+	10888.1.14 = {
+		holder = 168247
+	}
+	10901.1.1 = {
+		holder = 168248
+	}
+	10931.1.1 = {
+		holder = 168249
+	}
+	10963.1.1 = {
+		holder = 168250
+	}
+	10974.1.1 = {
+		holder = 168251
+	}
+	11001.1.1 = {
+		holder = 168252
+	}
+	11023.1.1 = {
+		holder = 20292
+	}
+	11032.9.5 = {
+		liege = "e_hre"
+	}
+	11080.1.1 = {
+		holder = 10079
+	}
+	11128.5.12 = {
+		holder = 212741
+	}
+	11178.6.28 = {
+		holder = 212740
+	}
+	11196.7.25 = {
+		holder = 212742
+	}
+	11220.1.1 = {
+		liege = d_savoie
+	}
+	11225.5.10 = {
+		holder = 212745
+	}
+	11240.8.16 = {
+		liege = "d_savoie"
+	}
+	11252.11.25 = {
+		holder = 32740
+	}
+	11265.5.29 = {
+		holder = 32745
+	}
+	11280.11.18 = {
+		holder = 32748
+	}
+	11285.8.16 = {
+		liege = "d_savoie"
+	}
+	11308.5.22 = {
+		holder = 32750
+	}
+	11320.11.25 = {
+		holder = 32754
+	}
+
+}
+
+
+c_dole = {
+	10769.1.1 = {
+		holder = 144999
+	}
+	10855.8.23 = {
+		liege = "k_burgundy"
+		holder = 91383
+	}
+	10859.1.1 = 	{
+		holder = 91384
+	}
+	10863.1.25 = {
+		liege = d_dauphine
+	}
+	10880.1.1 = {
+		holder = 90105
+	}
+	10888.1.14 = {
+		holder = 7984
+	}
+	10911.10.25 = {
+		holder = 1144
+	}
+	10933.1.1 = {
+		liege = k_burgundy
+	}
+	10937.12.1 = {
+		holder = 1146
+	}
+	#House of IvrÃ©e
+	10986.1.1 = {
+		liege = "d_burgundy"
+		holder = 272 #Otte-Guillaume
+	}
+	11026.1.1 = {
+		liege = "e_hre"
+		holder = 276 #Renaud I de Bourgogne
+	}
+	11057.1.1 = {
+		holder = 280 #Guillaume I de Bourgogne
+	}
+	11087.1.2 = {
+		holder = 290 #Renaud II de Bourgogne
+	}
+	11097.1.2 = {
+		holder = 205706 #Étienne I de Bourgogne
+	}
+	11102.5.27 = {
+		holder = 232556 #Renaud III de Bourgogne
+	}
+	11148.1.2 = {
+		holder = 205599 #Béatrice I de Bourgogne
+	}
+	
+	#House of Hohenstaufen
+	11184.1.1 = {
+		holder = 212501 #FrÃ©dÃ©ric I Barberousse
+	}
+	11190.6.2 = {
+		holder = 212511 #Othon I de Hohenstaufen
+	}
+	11200.1.13 = {
+		holder = 30772 #Jeanne I de Bourgogne
+	}
+	11205.1.1 = {
+		holder = 7652 #BÃ©atrice II de Bourgogne
+	}
+	11220.1.1 = {
+		liege = d_upper_burgundy
+	}
+	
+	#House of Andechs
+	11231.1.1 = {
+		holder = 7684 #Othon III de Bourgogne
+	}
+	11248.1.1 = {
+		holder = 7653 #AdÃ©laÃ¯de I de Bourgogne
+		liege = e_hre
+	}
+	
+	#House of IvrÃ©e
+	11279.1.1 = {
+		holder = 455739 #Othon IV de Bourgogne
+	}
+	11303.1.1 = {
+		holder = 91146 #Robert de Bourgogne
+	}
+	11315.1.1 = {
+		liege = "k_france"
+		holder = 455741 #Jeanne de Bourgogne
+	}
+	
+	#Direct Capetians
+	11330.1.1 = {
+		liege = "d_burgundy"
+		holder = 455913 #Jeanne III de Bourgogne
+	}
+}
+
+c_bresse = {
+	10769.1.1 = {
+		holder = 144999
+	}
+	10855.8.23 = {
+		liege = "k_burgundy"
+		holder = 91383
+	}
+	10859.1.1 = {
+		holder = 91384
+	}
+	10863.1.25 = {
+		liege = d_dauphine
+	}
+	10880.1.1 = {
+		holder = 90105
+	}
+	10888.1.14 = {
+		holder = 7984
+	}
+	10911.10.25 = {
+		holder = 1144
+	}
+	10933.1.1 = {
+		liege = k_burgundy
+	}
+	10937.12.1 = {
+		holder = 1146
+	}
+	#House of IvrÃ©e
+	10986.1.1 = {
+		liege = "d_burgundy"
+		holder = 272 #Otte-Guillaume
+	}
+	11026.1.1 = {
+		liege = "e_hre"
+		holder = 276 #Renaud I de Bourgogne
+	}
+	11057.1.1 = {
+		holder = 280 #Guillaume I de Bourgogne
+	}
+	11087.1.2 = {
+		holder = 290 #Renaud II de Bourgogne
+	}
+	11097.1.2 = {
+		holder = 205706 #Étienne I de Bourgogne
+	}
+	11102.5.27 = {
+		holder = 232556 #Renaud III de Bourgogne
+	}
+	11148.1.2 = {
+		holder = 205599 #Béatrice I de Bourgogne
+	}
+	
+	#House of Hohenstaufen
+	11184.1.1 = {
+		holder = 212501 #FrÃ©dÃ©ric I Barberousse
+	}
+	11190.6.2 = {
+		holder = 212511 #Othon I de Hohenstaufen
+	}
+	11200.1.13 = {
+		holder = 30772 #Jeanne I de Bourgogne
+	}
+	11205.1.1 = {
+		holder = 7652 #BÃ©atrice II de Bourgogne
+	}
+	11220.1.1 = {
+		liege = d_upper_burgundy
+	}
+	
+	#House of Andechs
+	11231.1.1 = {
+		holder = 7684 #Othon III de Bourgogne
+	}
+	11248.1.1 = {
+		holder = 7653 #AdÃ©laÃ¯de I de Bourgogne
+		liege = e_hre
+	}
+	
+	#House of IvrÃ©e
+	11279.1.1 = {
+		holder = 455739 #Othon IV de Bourgogne
+	}
+	11303.1.1 = {
+		holder = 91146 #Robert de Bourgogne
+	}
+	11315.1.1 = {
+		liege = "k_france"
+		holder = 455741 #Jeanne de Bourgogne
+	}
+	
+	#Direct Capetians
+	11330.1.1 = {
+		liege = "d_burgundy"
+		holder = 455913 #Jeanne III de Bourgogne
+	}
+
+}
+
+c_bern = {
+	10760.1.1 = {
+		liege = d_swabia
+	}
+	10760.1.1 = {
+		holder = 167825 #Gerold
+	}
+	#10795.1.1 = {
+	#	holder = 0
+	#}
+	10863.1.25 = {
+		liege = d_dauphine
+	}
+	10864.1.1 = {
+		holder = 168154
+	}
+	10890.3.21 = {
+		holder = 168155
+	}
+	10899.1.1 = {
+		holder = 168158
+	}
+	10933.1.1 = {
+		liege = k_burgundy
+	}
+	11032.9.5 = {
+		liege = "e_hre"
+	}
+	11066.1.1 = {
+		holder = 20287
+	}
+	11081.1.1 = {
+		holder = 40701
+	}
+	11127.1.1 = {
+		holder = 7643
+	}
+	11172.5.9 = {
+		holder = 213162
+	}
+	11227.1.1 = {
+		holder = 7647
+	}
+	11228.1.1 = {
+		holder = 7649
+	}
+	11241.1.1 = {
+		liege = d_upper_burgundy
+	}
+	11257.3.14 = {
+		liege = e_hre
+	}
+	11263.9.3 = {
+		holder = 7650
+	}
+	11269.1.1 = {
+		holder = 7630
+	}
+	11284.1.1 = {
+		holder = 33636
+	}
+	11301.3.29 = {
+		holder = 33637
+	}
+	11322.10.31 = {
+		holder = 33638
+	}
+}
+
+
+c_aargau = {
+	10740.1.1 = {
+		liege = d_swabia
+	}
+	10740.1.1 = {
+		holder = 161481 #Hugo
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10863.1.25 = {
+		liege = d_dauphine
+	}
+	10864.1.1 = {
+		holder = 167848
+	}
+	10933.1.1 = {
+		liege = k_burgundy
+	}
+	11027.1.1 = {
+		holder = 11006
+	}
+	11032.1.1 = {
+		liege = e_hre
+	}
+	11045.1.1 = {
+		holder = 20289
+	}
+	11096.11.11 = {
+		holder = 11010
+	}
+	11111.11.8 = {
+		holder = 213131
+	}
+	11167.1.1 = {
+		holder = 213130
+	}
+	11199.1.1 = {
+		holder = 213135
+	}
+	11220.1.1 = {
+		liege = d_upper_burgundy
+	}
+	11232.4.10 = {
+		holder = 462044
+	}
+	11239.12.13 = {
+		holder = 462021
+	}
+	11278.8.26 = {
+		liege = "d_osterreich"
+	}
+	11282.1.1 = {
+		liege = "e_hre"
+	}
+	11291.7.15 = {
+		liege = "d_osterreich"
+	}
+	11291.7.15 = {
+		holder = 462048
+	}
+	11315.1.28 = {
+		holder = 462050
+	}
+
+}
+
+
+c_neuchatel = {
+	10760.1.1 = {
+		liege = "k_lotharingia"
+		holder = 91482 #FREDERIC, count of Transjuranie
+	}
+	10855.1.1 = {
+		liege = "d_upper_burgundy"
+		holder = 7977
+	}	
+	10863.1.25 = {
+		liege = d_dauphine
+	}
+	10864.1.1 = {
+		holder = 168154
+	}
+	10868.1.1 = {
+		holder = 7989
+		liege = "d_upper_burgundy"
+	}
+	10876.1.1 = {
+		holder = 7984
+	}
+	
+	11032.9.5 = {
+		liege = "e_hre"
+		holder = 40560
+	}
+	11070.1.1 = {
+		holder = 32762
+	}
+	11099.1.1 = {
+		holder = 212010
+	}
+	11132.8.1 = {
+		holder = 212012
+	}
+	11164.1.1 = {
+		holder = 212013
+	}
+	11189.1.1 = {
+		holder = 212018
+	}
+	11196.8.30 = {
+		holder = 32768
+	}
+	11220.1.1 = {
+		liege = d_upper_burgundy
+	}
+	11225.8.1 = {
+		holder = 32769
+	}
+	11257.3.14 = {
+		holder = 32770
+	liege = e_hre
+	}
+	11285.8.16 = {
+		liege = "d_savoie"
+	}
+	11309.8.29 = {
+		holder = 32771
+	}
+}
+

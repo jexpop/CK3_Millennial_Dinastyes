@@ -1,0 +1,2910 @@
+k_himalaya = {
+	10867.1.1 = { change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+}
+
+d_kurmanchal = {
+	10600.1.1={
+		liege="k_guge"
+	}
+	#Katyuri Dynasty
+	10620.1.1 = {
+		holder=247478 #Vashudeva
+	}
+	10625.1.1={
+		liege="e_tibet"
+	}#Zhangzhung conquered by Tibet
+	10658.1.1 = {
+		holder=247479 #Ashokdeva
+	}
+	10684.1.1 = {
+		holder=247480 #Rawatdeva
+	}
+	10716.1.1 = {
+		holder=247481 #Basudeva
+	}
+	10776.1.1 = {
+		holder=247482 #Brahmadeva
+	}
+	10842.1.1 = {
+		liege=0
+	}#Fall of Tibetan Empire
+	10850.1.1 = {
+		holder=247483 #Basantadeva
+	}
+	10870.1.1 = {
+		holder=247484 #Kharparadeva
+	}
+	10880.1.1 = {
+		holder=247485 #Kalyanaraja
+	}
+	10890.1.1 = {
+		holder=247486 #Tribhuvanarajadeva
+	}
+	10900.1.1 = {
+		holder=247487 #Nimbartadeva
+	}
+	10915.1.1 = {
+		holder=247488 #Ishtaganadeva
+	}
+	10930.1.1 = {
+		holder=247489 #Lalitansuradeva
+	}
+	10955.1.1 = {
+		holder=247490 #Bhudeva
+	}
+	10970.1.1 = {
+		holder=247491 #Salonaditya
+	}
+	10985.1.1 = {
+		holder=247492 #Ichchhatadeva
+	}
+	11000.1.1 = {
+		holder=247493 #Deshtadeva
+	}
+	11015.1.1 = {
+		holder=247494 #Padmatadeva
+	}
+	11045.1.1 = {
+		holder=247495 #Subhikshrajyadeva
+	}
+	11060.1.1 = {
+		holder=247496 #Narsinghdeva
+	}
+	11061.1.1 = {
+		holder=247497 #Pritamdeva
+	}
+	11062.1.1 = {
+		holder=247498 #Dhamdeva
+	}
+	11064.1.1 = {
+		holder=247499 #Biradeva
+	}
+	#Chand Dynasty takeover
+	11065.1.1 = {
+		holder=247528 #Bina
+	}
+	11067.1.1 = {
+		holder=247530 #Bira
+	}
+	11080.1.1 = {
+		holder=247531 #Rupa
+	}
+	11100.1.1 = {
+		holder=247532 #Lachchhmi
+	}
+	11108.1.1 = {
+		holder=247533 #Dharma
+	}
+	11127.1.1 = {
+		holder=247534 #Karma
+	}
+	11136.1.1 = {
+		holder=247535 #Kalyan
+	}
+	11157.1.1 = {
+		holder=247536 #Nirbhaya
+	}
+	11164.1.1 = {
+		holder=247537 #Nara
+	}
+	11182.1.1 = {
+		holder=247538 #Nanaki
+	}
+	11213.1.1 = {
+		holder=247539 #Rama
+	}
+	11220.1.1 = {
+		holder=247540 #Bhikma
+	}
+	11239.1.1 = {
+		holder=247541 #Megha
+	}
+	11248.1.1 = {
+		holder=247542 #Dhyana
+	}
+	11262.1.1 = {
+		holder=247543 #Parbata
+	}
+	11283.1.1 = {
+		holder=247544 #Thohar
+	}
+	11290.1.1 = {
+		holder=247545 #Kalyan
+	}
+	11308.1.1 = {
+		holder=247546 #Guru-Gyan
+	}
+	11318.1.1 = {
+		holder=247547 #Udhyan
+	}
+	11335.1.1 = {
+		holder=247548 #Atma
+	}
+	11343.1.1 = {
+		holder=247549 #Triloki
+	}
+	11350.1.1 = {
+		holder=247550 #Damara
+	}
+	11363.1.1 = {
+		holder=247551 #Dharma
+	}
+	11380.1.1 = {
+		holder=247552 #Abhaya
+	}
+
+}
+
+
+c_kumaon = {
+	10600.1.1={
+		liege="d_kurmanchal"
+	}
+	#Katyuri-Vasu Dynasty
+	10620.1.1 = {
+		holder=247478 #Vashudeva
+	}
+	10658.1.1 = {
+		holder=247479 #Ashokdeva
+	}
+	10684.1.1 = {
+		holder=247480 #Rawatdeva
+	}
+	10716.1.1 = {
+		holder=247481 #Basudeva
+	}
+	10776.1.1 = {
+		holder=247482 #Brahmadeva
+	}
+	10850.1.1 = {
+		holder=247483 #Basantadeva
+	}
+	10870.1.1 = {
+		holder=247484 #Kharparadeva
+	}
+	10880.1.1 = {
+		holder=247485 #Kalyanaraja
+	}
+	10890.1.1 = {
+		holder=247486 #Tribhuvanarajadeva
+	}
+	10900.1.1 = {
+		holder=247487 #Nimbartadeva
+	}
+	10915.1.1 = {
+		holder=247488 #Ishtaganadeva
+	}
+	10930.1.1 = {
+		holder=247489 #Lalitansuradeva
+	}
+	10955.1.1 = {
+		holder=247490 #Bhudeva
+	}
+	10970.1.1 = {
+		holder=247491 #Salonaditya
+	}
+	10985.1.1 = {
+		holder=247492 #Ichchhatadeva
+	}
+	11000.1.1 = {
+		holder=247493 #Deshtadeva
+	}
+	11015.1.1 = {
+		holder=247494 #Padmatadeva
+	}
+	11045.1.1 = {
+		holder=247495 #Subhikshrajyadeva
+	}
+	11060.1.1 = {
+		holder=247496 #Narsinghdeva
+	}
+	11061.1.1 = {
+		holder=247497 #Pritamdeva
+	}
+	11062.1.1 = {
+		holder=247498 #Dhamdeva
+	}
+	11064.1.1 = {
+		holder=247499 #Biradeva
+	}
+	#Chand Dynasty takeover
+	#Liege is now Chand and most land go to them, but not Baijnath
+	11065.1.1 = {
+		holder=247500 #Tribhuvanpal
+	}
+	11067.1.1 = {
+		holder=247530 #Bira
+	}
+	11080.1.1 = {
+		holder=247531 #Rupa
+	}
+	11100.1.1 = {
+		holder=247532 #Lachchhmi
+	}
+	11108.1.1 = {
+		holder=247533 #Dharma
+	}
+	11127.1.1 = {
+		holder=247534 #Karma
+	}
+	11136.1.1 = {
+		holder=247535 #Kalyan
+	}
+	11157.1.1 = {
+		holder=247536 #Nirbhaya
+	}
+	11164.1.1 = {
+		holder=247537 #Nara
+	}
+	11182.1.1 = {
+		holder=247538 #Nanaki
+	}
+	11213.1.1 = {
+		holder=247539 #Rama
+	}
+	11220.1.1 = {
+		holder=247540 #Bhikma
+	}
+	11239.1.1 = {
+		holder=247541 #Megha
+	}
+	11248.1.1 = {
+		holder=247542 #Dhyana
+	}
+	11262.1.1 = {
+		holder=247543 #Parbata
+	}
+	11283.1.1 = {
+		holder=247544 #Thohar
+	}
+	11290.1.1 = {
+		holder=247545 #Kalyan
+	}
+	11308.1.1 = {
+		holder=247546 #Guru-Gyan
+	}
+	11318.1.1 = {
+		holder=247547 #Udhyan
+	}
+	11335.1.1 = {
+		holder=247548 #Atma
+	}
+	11343.1.1 = {
+		holder=247549 #Triloki
+	}
+	11350.1.1 = {
+		holder=247550 #Damara
+	}
+	11363.1.1 = {
+		holder=247551 #Dharma
+	}
+	11380.1.1 = {
+		holder=247552 #Abhaya
+	}
+
+}
+
+
+c_garwhal = {
+	10600.1.1={
+		liege="d_kurmanchal"
+	}
+	#Katyuri-Vasu Dynasty
+	10620.1.1 = {
+		holder=247478 #Vashudeva
+	}
+	10658.1.1 = {
+		holder=247479 #Ashokdeva
+	}
+	10684.1.1 = {
+		holder=247480 #Rawatdeva
+	}
+	10716.1.1 = {
+		holder=247481 #Basudeva
+	}
+	10776.1.1 = {
+		holder=247482 #Brahmadeva
+	}
+	10850.1.1 = {
+		holder=247483 #Basantadeva
+	}
+	10870.1.1 = {
+		holder=247484 #Kharparadeva
+	}
+	10880.1.1 = {
+		holder=247485 #Kalyanaraja
+	}
+	10890.1.1 = {
+		holder=247486 #Tribhuvanarajadeva
+	}
+	10900.1.1 = {
+		holder=247487 #Nimbartadeva
+	}
+	10915.1.1 = {
+		holder=247488 #Ishtaganadeva
+	}
+	10930.1.1 = {
+		holder=247489 #Lalitansuradeva
+	}
+	10955.1.1 = {
+		holder=247490 #Bhudeva
+	}
+	10970.1.1 = {
+		holder=247491 #Salonaditya
+	}
+	10985.1.1 = {
+		holder=247492 #Ichchhatadeva
+	}
+	11000.1.1 = {
+		holder=247493 #Deshtadeva
+	}
+	11015.1.1 = {
+		holder=247494 #Padmatadeva
+	}
+	11045.1.1 = {
+		holder=247495 #Subhikshrajyadeva
+	}
+	11060.1.1 = {
+		holder=247496 #Narsinghdeva
+	}
+	11061.1.1 = {
+		holder=247497 #Pritamdeva
+	}
+	11062.1.1 = {
+		holder=247498 #Dhamdeva
+	}
+	11064.1.1 = {
+		holder=247499 #Biradeva
+	}
+	#Chand Dynasty takeover
+	11065.1.1 = {
+		holder=247528 #Bina
+	}
+	11067.1.1 = {
+		holder=247530 #Bira
+	}
+	11080.1.1 = {
+		holder=247531 #Rupa
+	}
+	11100.1.1 = {
+		holder=247532 #Lachchhmi
+	}
+	11108.1.1 = {
+		holder=247533 #Dharma
+	}
+	11127.1.1 = {
+		holder=247534 #Karma
+	}
+	11136.1.1 = {
+		holder=247535 #Kalyan
+	}
+	11157.1.1 = {
+		holder=247536 #Nirbhaya
+	}
+	11164.1.1 = {
+		holder=247537 #Nara
+	}
+	11182.1.1 = {
+		holder=247538 #Nanaki
+	}
+	11213.1.1 = {
+		holder=247539 #Rama
+	}
+	11220.1.1 = {
+		holder=247540 #Bhikma
+	}
+	11239.1.1 = {
+		holder=247541 #Megha
+	}
+	11248.1.1 = {
+		holder=247542 #Dhyana
+	}
+	11262.1.1 = {
+		holder=247543 #Parbata
+	}
+	11283.1.1 = {
+		holder=247544 #Thohar
+	}
+	11290.1.1 = {
+		holder=247545 #Kalyan
+	}
+	11308.1.1 = {
+		holder=247546 #Guru-Gyan
+	}
+	11318.1.1 = {
+		holder=247547 #Udhyan
+	}
+	11335.1.1 = {
+		holder=247548 #Atma
+	}
+	11343.1.1 = {
+		holder=247549 #Triloki
+	}
+	11350.1.1 = {
+		holder=247550 #Damara
+	}
+	11363.1.1 = {
+		holder=247551 #Dharma
+	}
+	11380.1.1 = {
+		holder=247552 #Abhaya
+	}
+
+}
+
+
+c_kali_kumaon = {
+	10600.1.1={
+		liege="d_kurmanchal"
+	}
+	#Katyuri-Vasu Dynasty
+	10620.1.1 = {
+		holder=247478 #Vashudeva
+	}
+	10658.1.1 = {
+		holder=247479 #Ashokdeva
+	}
+	10684.1.1 = {
+		holder=247480 #Rawatdeva
+	}
+	10716.1.1 = {
+		holder=247481 #Basudeva
+	}
+	10776.1.1 = {
+		holder=247482 #Brahmadeva
+	}
+	10850.1.1 = {
+		holder=247483 #Basantadeva
+	}
+	10870.1.1 = {
+		holder=247484 #Kharparadeva
+	}
+	10880.1.1 = {
+		holder=247485 #Kalyanaraja
+	}
+	10890.1.1 = {
+		holder=247486 #Tribhuvanarajadeva
+	}
+	10900.1.1 = {
+		holder=247487 #Nimbartadeva
+	}
+	10915.1.1 = {
+		holder=247488 #Ishtaganadeva
+	}
+	10930.1.1 = {
+		holder=247489 #Lalitansuradeva
+	}
+	#Chand Dynasty takeover
+	10950.1.1 = {
+		holder=247521 #Soma
+	}
+	10975.1.1 = {
+		holder=247522 #Atma
+	}
+	10982.1.1 = {
+		holder=247523 #Purana
+	}
+	11000.1.1 = {
+		holder=247524 #Indra
+	}
+	11010.1.1 = {
+		holder=247525 #Sonsar
+	}
+	11028.1.1 = {
+		holder=247526 #Sudha
+	}
+	11038.1.1 = {
+		holder=247527 #Hammira
+	}
+	11055.1.1 = {
+		holder=247528 #Bina
+	}
+	11067.1.1 = {
+		holder=247530 #Bira
+	}
+	11080.1.1 = {
+		holder=247531 #Rupa
+	}
+	11100.1.1 = {
+		holder=247532 #Lachchhmi
+	}
+	11108.1.1 = {
+		holder=247533 #Dharma
+	}
+	11127.1.1 = {
+		holder=247534 #Karma
+	}
+	11136.1.1 = {
+		holder=247535 #Kalyan
+	}
+	11157.1.1 = {
+		holder=247536 #Nirbhaya
+	}
+	11164.1.1 = {
+		holder=247537 #Nara
+	}
+	11182.1.1 = {
+		holder=247538 #Nanaki
+	}
+	11213.1.1 = {
+		holder=247539 #Rama
+	}
+	11220.1.1 = {
+		holder=247540 #Bhikma
+	}
+	11239.1.1 = {
+		holder=247541 #Megha
+	}
+	11248.1.1 = {
+		holder=247542 #Dhyana
+	}
+	11262.1.1 = {
+		holder=247543 #Parbata
+	}
+	11283.1.1 = {
+		holder=247544 #Thohar
+	}
+	11290.1.1 = {
+		holder=247545 #Kalyan
+	}
+	11308.1.1 = {
+		holder=247546 #Guru-Gyan
+	}
+	11318.1.1 = {
+		holder=247547 #Udhyan
+	}
+	11335.1.1 = {
+		holder=247548 #Atma
+	}
+	11343.1.1 = {
+		holder=247549 #Triloki
+	}
+	11350.1.1 = {
+		holder=247550 #Damara
+	}
+	11363.1.1 = {
+		holder=247551 #Dharma
+	}
+	11380.1.1 = {
+		holder=247552 #Abhaya
+	}
+
+}
+
+
+c_doti = {
+	10625.1.1={
+		liege="d_kurmanchal"
+		holder=247478 #Vashudev
+	}#Katyuri vassals
+	10658.1.1 = {
+		holder=247479 #Ashokdeva
+	}
+	10684.1.1 = {
+		holder=247480 #Rawatdeva
+	}
+	10716.1.1 = {
+		holder=247481 #Basudeva
+	}
+	10776.1.1 = {
+		holder=247482 #Brahmadeva
+	}
+	10850.1.1 = {
+		holder=247483 #Basantadeva
+	}
+	10870.1.1 = {
+		holder=247484 #Kharparadeva
+	}
+	10880.1.1 = {
+		holder=247485 #Kalyanaraja
+	}
+	10890.1.1 = {
+		holder=247486 #Tribhuvanarajadeva
+	}
+	10900.1.1 = {
+		holder=247487 #Nimbartadeva
+	}
+	10915.1.1 = {
+		holder=247488 #Ishtaganadeva
+	}
+	10930.1.1 = {
+		holder=247489 #Lalitansuradeva
+	}
+	10955.1.1 = {
+		holder=247490 #Bhudeva
+	}
+	10970.1.1 = {
+		holder=247491 #Salonaditya
+	}
+	10985.1.1 = {
+		holder=247492 #Ichchhatadeva
+	}
+	11000.1.1 = {
+		holder=247493 #Deshtadeva
+	}
+	11015.1.1 = {
+		holder=247494 #Padmatadeva
+	}
+	11045.1.1 = {
+		holder=247495 #Subhikshrajyadeva
+	}
+	11060.1.1 = {
+		holder=247496 #Narsinghdeva
+	}
+	11061.1.1 = {
+		holder=247497 #Pritamdeva
+	}
+	11062.1.1 = {
+		holder=247498 #Dhamdeva
+	}
+	11064.1.1 = {
+		holder=247499 #Biradeva
+	}
+	#Chand Dynasty takeover
+	11065.1.1 = {
+		holder=247528 #Bina
+	}
+	11067.1.1 = {
+		holder=247530 #Bira
+	}
+	11080.1.1 = {
+		holder=247531 #Rupa
+	}
+	11100.1.1 = {
+		holder=247532 #Lachchhmi
+	}
+	11108.1.1 = {
+		holder=247533 #Dharma
+	}
+	11127.1.1 = {
+		holder=247534 #Karma
+	}
+	11136.1.1 = {
+		holder=247535 #Kalyan
+	}
+	#Katyuri branch of Doti
+	11150.1.1 = {
+		liege=0
+		holder=247516 #Niranjanmalladeva
+	}
+	11231.1.1 = {
+		holder=247517 #Nagimalla
+	}
+	11279.1.1 = {
+		holder=247518 #Ripumalla
+	}
+	11353.1.1 = {
+		holder=247519 #Niraipal
+	}
+	11384.1.1 = {
+		holder=247520 #Nagmalla
+	}
+
+}
+
+
+d_khasa = {
+	#Khasiya Dynasty
+	10882.1.1 = {
+		holder=247553 #Bijor
+	}
+	10902.1.1 = {
+		holder=247554 #Jijar
+	}
+	10909.1.1 = {
+		holder=247555 #Jajar
+	}
+	10928.1.1 = {
+		holder=247556 #Jar
+	}
+	10937.1.1 = {
+		holder=247557 #Kalu
+	}
+	10942.1.1 = {
+		holder=247558 #Kalau
+	}
+	10953.1.1 = {
+		holder=247559 #Jahal
+	}
+	10973.1.1 = {
+		holder=247560 #Mul
+	}
+	10981.1.1 = {
+		holder=247561 #Guna
+	}
+	11000.1.1 = {
+		holder=247562 #Pida
+	}
+	11009.1.1 = {
+		holder=247563 #Nagu
+	}
+	11028.1.1 = {
+		holder=247564 #Bhagu
+	}
+	11039.1.1 = {
+		holder=247565 #Jayapal
+	}
+	11055.1.1 = {
+		holder=247566 #Sonpal
+	}
+	11067.1.1 = {
+		holder=247567 #Indrapal
+	}
+	11088.1.1={
+		holder = 247568 #Naagraj
+	}
+	11096.1.1={
+		holder = 247569 #Chaap
+	}
+	11115.1.1={
+		holder = 247570 #Chapilla
+	}
+	11142.1.1={
+		holder = 247571 #Krashichalla
+	}
+	11168.1.1={
+		holder = 247572 #Kradhichalla
+	}
+	11189.1.1={
+		holder = 247573 #Krachalla
+	}
+	11223.1.1={
+		holder = 247574 #Jitarimalla
+	}
+	11258.1.1={
+		holder = 247575 #Ashokmalla
+	}
+	11287.1.1={
+		holder = 247576 #Ashokchalla
+	}
+	11312.1.1={
+		holder = 247577 #Ripumalla
+	}
+	11314.1.1={
+		holder = 247578 #Adityamalla
+	}
+	11318.1.1={
+		holder = 247579 #Punyamalla
+	}
+	11326.1.1={
+		holder = 247580 #Prithvimalla
+	}
+	11330.1.1={
+		holder = 247581 #Suryamalla
+	}
+
+}
+
+
+c_jumla = {
+	10400.1.1={
+		liege="k_guge"
+	}
+	10571.1.1={
+		holder = 247000
+	}
+	10608.1.1={
+		holder = 247001
+	}
+	10625.1.1={
+		liege="d_kurmanchal"
+		holder=247478 #Vashudev
+	}#Zhangzhung conquered by Tibet (Katyuri vassals)
+	10658.1.1 = {
+		holder=247479 #Ashokdeva
+	}
+	10684.1.1 = {
+		holder=247480 #Rawatdeva
+	}
+	10716.1.1 = {
+		holder=247481 #Basudeva
+	}
+	10776.1.1 = {
+		holder=247482 #Brahmadeva
+	}
+	10850.1.1 = {
+		holder=247483 #Basantadeva
+	}
+	10870.1.1 = {
+		holder=247484 #Kharparadeva
+	}
+	10880.1.1 = {
+		holder=247485 #Kalyanaraja
+	}
+	
+	#Khasiya Dynasty
+	10882.1.1 = {
+		liege="d_khasa"
+		holder=247553 #Bijor
+	}
+	10902.1.1 = {
+		holder=247554 #Jijar
+	}
+	10909.1.1 = {
+		holder=247555 #Jajar
+	}
+	10928.1.1 = {
+		holder=247556 #Jar
+	}
+	10937.1.1 = {
+		holder=247557 #Kalu
+	}
+	10942.1.1 = {
+		holder=247558 #Kalau
+	}
+	10953.1.1 = {
+		holder=247559 #Jahal
+	}
+	10973.1.1 = {
+		holder=247560 #Mul
+	}
+	10981.1.1 = {
+		holder=247561 #Guna
+	}
+	11000.1.1 = {
+		holder=247562 #Pida
+	}
+	11009.1.1 = {
+		holder=247563 #Nagu
+	}
+	11028.1.1 = {
+		holder=247564 #Bhagu
+	}
+	11039.1.1 = {
+		holder=247565 #Jayapal
+	}
+	11055.1.1 = {
+		holder=247566 #Sonpal
+	}
+	11067.1.1 = {
+		holder=247567 #Indrapal
+	}
+	11088.1.1={
+		holder = 247568 #Naagraj
+	}
+	11096.1.1={
+		holder = 247569 #Chaap
+	}
+	11115.1.1={
+		holder = 247570 #Chapilla
+	}
+	11142.1.1={
+		holder = 247571 #Krashichalla
+	}
+	11168.1.1={
+		holder = 247572 #Kradhichalla
+	}
+	11189.1.1={
+		holder = 247573 #Krachalla
+	}
+	11223.1.1={
+		holder = 247574 #Jitarimalla
+	}
+	11258.1.1={
+		holder = 247575 #Ashokmalla
+	}
+	11287.1.1={
+		holder = 247576 #Ashokchalla
+	}
+	11312.1.1={
+		holder = 247577 #Ripumalla
+	}
+	11313.1.1={
+		holder = 247578 #Adityamalla
+	}
+	11318.1.1={
+		holder = 247579 #Punyamalla
+	}
+	11326.1.1={
+		holder = 247580 #Prithvimalla
+	}
+	11330.1.1={
+		holder = 247581 #Suryamalla
+	}
+
+}
+
+
+c_bajura = {
+	10400.1.1={
+		liege="k_guge"
+	}
+	10571.1.1={
+		holder = 247000
+	}
+	10608.1.1={
+		holder = 247001
+	}
+	10625.1.1={
+		liege="d_kurmanchal"
+		holder=247478 #Vashudev
+	}#Zhangzhung conquered by Tibet (Katyuri vassals)
+	10658.1.1 = {
+		holder=247479 #Ashokdeva
+	}
+	10684.1.1 = {
+		holder=247480 #Rawatdeva
+	}
+	10716.1.1 = {
+		holder=247481 #Basudeva
+	}
+	10776.1.1 = {
+		holder=247482 #Brahmadeva
+	}
+	10850.1.1 = {
+		holder=247483 #Basantadeva
+	}
+	10870.1.1 = {
+		holder=247484 #Kharparadeva
+	}
+	10880.1.1 = {
+		holder=247485 #Kalyanaraja
+	}
+	
+	#Khasiya Dynasty
+	10882.1.1 = {
+		liege="d_khasa"
+		holder=247553 #Bijor
+	}
+	10902.1.1 = {
+		holder=247554 #Jijar
+	}
+	10909.1.1 = {
+		holder=247555 #Jajar
+	}
+	10928.1.1 = {
+		holder=247556 #Jar
+	}
+	10937.1.1 = {
+		holder=247557 #Kalu
+	}
+	10942.1.1 = {
+		holder=247558 #Kalau
+	}
+	10953.1.1 = {
+		holder=247559 #Jahal
+	}
+	10973.1.1 = {
+		holder=247560 #Mul
+	}
+	10981.1.1 = {
+		holder=247561 #Guna
+	}
+	11000.1.1 = {
+		holder=247562 #Pida
+	}
+	11009.1.1 = {
+		holder=247563 #Nagu
+	}
+	11028.1.1 = {
+		holder=247564 #Bhagu
+	}
+	11039.1.1 = {
+		holder=247565 #Jayapal
+	}
+	11055.1.1 = {
+		holder=247566 #Sonpal
+	}
+	11067.1.1 = {
+		holder=247567 #Indrapal
+	}
+	11088.1.1={
+		holder = 247568 #Naagraj
+	}
+	11096.1.1={
+		holder = 247569 #Chaap
+	}
+	11115.1.1={
+		holder = 247570 #Chapilla
+	}
+	11142.1.1={
+		holder = 247571 #Krashichalla
+	}
+	11168.1.1={
+		holder = 247572 #Kradhichalla
+	}
+	11189.1.1={
+		holder = 247573 #Krachalla
+	}
+	11223.1.1={
+		holder = 247574 #Jitarimalla
+	}
+	11258.1.1={
+		holder = 247575 #Ashokmalla
+	}
+	11287.1.1={
+		holder = 247576 #Ashokchalla
+	}
+	11312.1.1={
+		holder = 247577 #Ripumalla
+	}
+	11313.1.1={
+		holder = 247578 #Adityamalla
+	}
+	11318.1.1={
+		holder = 247579 #Punyamalla
+	}
+	11326.1.1={
+		holder = 247580 #Prithvimalla
+	}
+	11330.1.1={
+		holder = 247581 #Suryamalla
+	}
+
+}
+
+
+c_jagatipur = {
+	10400.1.1={
+		liege="k_guge"
+	}
+	10571.1.1={
+		holder = 247000
+	}
+	10608.1.1={
+		holder = 247001
+	}
+	10625.1.1={
+		liege="d_kurmanchal"
+		holder=247478 #Vashudev
+	}#Zhangzhung conquered by Tibet (Katyuri vassals)
+	10658.1.1 = {
+		holder=247479 #Ashokdeva
+	}
+	10684.1.1 = {
+		holder=247480 #Rawatdeva
+	}
+	10716.1.1 = {
+		holder=247481 #Basudeva
+	}
+	10776.1.1 = {
+		holder=247482 #Brahmadeva
+	}
+	10850.1.1 = {
+		holder=247483 #Basantadeva
+	}
+	10870.1.1 = {
+		holder=247484 #Kharparadeva
+	}
+	10880.1.1 = {
+		holder=247485 #Kalyanaraja
+	}
+	
+	#Khasiya Dynasty
+	10882.1.1 = {
+		liege="d_khasa"
+		holder=247553 #Bijor
+	}
+	10902.1.1 = {
+		holder=247554 #Jijar
+	}
+	10909.1.1 = {
+		holder=247555 #Jajar
+	}
+	10928.1.1 = {
+		holder=247556 #Jar
+	}
+	10937.1.1 = {
+		holder=247557 #Kalu
+	}
+	10942.1.1 = {
+		holder=247558 #Kalau
+	}
+	10953.1.1 = {
+		holder=247559 #Jahal
+	}
+	10973.1.1 = {
+		holder=247560 #Mul
+	}
+	10981.1.1 = {
+		holder=247561 #Guna
+	}
+	11000.1.1 = {
+		holder=247562 #Pida
+	}
+	11009.1.1 = {
+		holder=247563 #Nagu
+	}
+	11028.1.1 = {
+		holder=247564 #Bhagu
+	}
+	11039.1.1 = {
+		holder=247565 #Jayapal
+	}
+	11055.1.1 = {
+		holder=247566 #Sonpal
+	}
+	11067.1.1 = {
+		holder=247567 #Indrapal
+	}
+	11088.1.1={
+		holder = 247568 #Naagraj
+	}
+	11096.1.1={
+		holder = 247569 #Chaap
+	}
+	11115.1.1={
+		holder = 247570 #Chapilla
+	}
+	11142.1.1={
+		holder = 247571 #Krashichalla
+	}
+	11168.1.1={
+		holder = 247572 #Kradhichalla
+	}
+	11177.1.1={
+		holder = 247573 #Krachalla
+	}
+	11223.1.1={
+		holder = 247574 #Jitarimalla
+	}
+	11258.1.1={
+		holder = 247575 #Ashokmalla
+	}
+	11287.1.1={
+		holder = 247576 #Ashokchalla
+	}
+	11312.1.1={
+		holder = 247577 #Ripumalla
+	}
+	11313.1.1={
+		holder = 247578 #Adityamalla
+	}
+	11318.1.1={
+		holder = 247579 #Punyamalla
+	}
+	11326.1.1={
+		holder = 247580 #Prithvimalla
+	}
+	11330.1.1={
+		holder = 247581 #Suryamalla
+	}
+
+}
+
+
+c_dang = {
+	10400.1.1={
+		liege="k_guge"
+	}
+	10571.1.1={
+		holder = 247000
+	}
+	10608.1.1={
+		holder = 247001
+	}
+	10625.1.1={
+		liege="d_kurmanchal"
+		holder=247478 #Vashudev
+	}#Zhangzhung conquered by Tibet (Katyuri vassals)
+	10658.1.1 = {
+		holder=247479 #Ashokdeva
+	}
+	10684.1.1 = {
+		holder=247480 #Rawatdeva
+	}
+	10716.1.1 = {
+		holder=247481 #Basudeva
+	}
+	10776.1.1 = {
+		holder=247482 #Brahmadeva
+	}
+	10850.1.1 = {
+		holder=247483 #Basantadeva
+	}
+	10870.1.1 = {
+		holder=247484 #Kharparadeva
+	}
+	10880.1.1 = {
+		holder=247485 #Kalyanaraja
+	}
+	
+	#Khasiya Dynasty
+	10882.1.1 = {
+		liege="d_khasa"
+		holder=247553 #Bijor
+	}
+	10902.1.1 = {
+		holder=247554 #Jijar
+	}
+	10909.1.1 = {
+		holder=247555 #Jajar
+	}
+	10928.1.1 = {
+		holder=247556 #Jar
+	}
+	10937.1.1 = {
+		holder=247557 #Kalu
+	}
+	10942.1.1 = {
+		holder=247558 #Kalau
+	}
+	10953.1.1 = {
+		holder=247559 #Jahal
+	}
+	10973.1.1 = {
+		holder=247560 #Mul
+	}
+	10981.1.1 = {
+		holder=247561 #Guna
+	}
+	11000.1.1 = {
+		holder=247562 #Pida
+	}
+	11009.1.1 = {
+		holder=247563 #Nagu
+	}
+	11028.1.1 = {
+		holder=247564 #Bhagu
+	}
+	11039.1.1 = {
+		holder=247565 #Jayapal
+	}
+	11055.1.1 = {
+		holder=247566 #Sonpal
+	}
+	11067.1.1 = {
+		holder=247567 #Indrapal
+	}
+	11088.1.1={
+		holder = 247568 #Naagraj
+	}
+	11096.1.1={
+		holder = 247569 #Chaap
+	}
+	11115.1.1={
+		holder = 247570 #Chapilla
+	}
+	11142.1.1={
+		holder = 247571 #Krashichalla
+	}
+	11168.1.1={
+		holder = 247572 #Kradhichalla
+	}
+	11177.1.1={
+		holder = 247573 #Krachalla
+	}
+	11223.1.1={
+		holder = 247574 #Jitarimalla
+	}
+	11258.1.1={
+		holder = 247575 #Ashokmalla
+	}
+	11287.1.1={
+		holder = 247576 #Ashokchalla
+	}
+	11312.1.1={
+		holder = 247577 #Ripumalla
+	}
+	11313.1.1={
+		holder = 247578 #Adityamalla
+	}
+	11318.1.1={
+		holder = 247579 #Punyamalla
+	}
+	11326.1.1={
+		holder = 247580 #Prithvimalla
+	}
+	11330.1.1={
+		holder = 247581 #Suryamalla
+	}
+
+}
+
+
+c_lumbini = {
+	10400.1.1={
+		liege="k_guge"
+	}
+	10571.1.1={
+		holder = 247000
+	}
+	10608.1.1={
+		holder = 247001
+	}
+	10625.1.1={
+		liege="d_kurmanchal"
+		holder=247478 #Vashudev
+	}#Zhangzhung conquered by Tibet (Katyuri vassals)
+	10658.1.1 = {
+		holder=247479 #Ashokdeva
+	}
+	10684.1.1 = {
+		holder=247480 #Rawatdeva
+	}
+	10716.1.1 = {
+		holder=247481 #Basudeva
+	}
+	10776.1.1 = {
+		holder=247482 #Brahmadeva
+	}
+	10850.1.1 = {
+		holder=247483 #Basantadeva
+	}
+	10870.1.1 = {
+		holder=247484 #Kharparadeva
+	}
+	10880.1.1 = {
+		holder=247485 #Kalyanaraja
+	}
+	
+	#Khasiya Dynasty
+	10882.1.1 = {
+		liege="d_khasa"
+		holder=247553 #Bijor
+	}
+	10902.1.1 = {
+		holder=247554 #Jijar
+	}
+	10909.1.1 = {
+		holder=247555 #Jajar
+	}
+	10928.1.1 = {
+		holder=247556 #Jar
+	}
+	10937.1.1 = {
+		holder=247557 #Kalu
+	}
+	10942.1.1 = {
+		holder=247558 #Kalau
+	}
+	10953.1.1 = {
+		holder=247559 #Jahal
+	}
+	10973.1.1 = {
+		holder=247560 #Mul
+	}
+	10981.1.1 = {
+		holder=247561 #Guna
+	}
+	11000.1.1 = {
+		holder=247562 #Pida
+	}
+	11009.1.1 = {
+		holder=247563 #Nagu
+	}
+	11028.1.1 = {
+		holder=247564 #Bhagu
+	}
+	11039.1.1 = {
+		holder=247565 #Jayapal
+	}
+	11055.1.1 = {
+		holder=247566 #Sonpal
+	}
+	11067.1.1 = {
+		holder=247567 #Indrapal
+	}
+	11088.1.1={
+		holder = 247568 #Naagraj
+	}
+	11096.1.1={
+		holder = 247569 #Chaap
+	}
+	11115.1.1={
+		holder = 247570 #Chapilla
+	}
+	11142.1.1={
+		holder = 247571 #Krashichalla
+	}
+	11168.1.1={
+		holder = 247572 #Kradhichalla
+	}
+	11177.1.1={
+		holder = 247573 #Krachalla
+	}
+	11223.1.1={
+		holder = 247574 #Jitarimalla
+	}
+	11258.1.1={
+		holder = 247575 #Ashokmalla
+	}
+	11287.1.1={
+		holder = 247576 #Ashokchalla
+	}
+	11312.1.1={
+		holder = 247577 #Ripumalla
+	}
+	11313.1.1={
+		holder = 247578 #Adityamalla
+	}
+	11318.1.1={
+		holder = 247579 #Punyamalla
+	}
+	11326.1.1={
+		holder = 247580 #Prithvimalla
+	}
+	11330.1.1={
+		holder = 247581 #Suryamalla
+	}
+
+}
+
+
+c_kaski = {
+	10400.1.1={
+		liege="k_guge"
+	}
+	10571.1.1={
+		holder = 247000
+	}
+	10608.1.1={
+		holder = 247001
+	}
+	10625.1.1={
+		liege="d_kurmanchal"
+		holder=247478 #Vashudev
+	}#Zhangzhung conquered by Tibet (Katyuri vassals)
+	10658.1.1 = {
+		holder=247479 #Ashokdeva
+	}
+	10684.1.1 = {
+		holder=247480 #Rawatdeva
+	}
+	10716.1.1 = {
+		holder=247481 #Basudeva
+	}
+	10776.1.1 = {
+		holder=247482 #Brahmadeva
+	}
+	10850.1.1 = {
+		holder=247483 #Basantadeva
+	}
+	10870.1.1 = {
+		holder=247484 #Kharparadeva
+	}
+	10880.1.1 = {
+		holder=247485 #Kalyanaraja
+	}
+	
+	#Khasiya Dynasty
+	10882.1.1 = {
+		liege="d_khasa"
+		holder=247553 #Bijor
+	}
+	10902.1.1 = {
+		holder=247554 #Jijar
+	}
+	10909.1.1 = {
+		holder=247555 #Jajar
+	}
+	10928.1.1 = {
+		holder=247556 #Jar
+	}
+	10937.1.1 = {
+		holder=247557 #Kalu
+	}
+	10942.1.1 = {
+		holder=247558 #Kalau
+	}
+	10953.1.1 = {
+		holder=247559 #Jahal
+	}
+	10973.1.1 = {
+		holder=247560 #Mul
+	}
+	10981.1.1 = {
+		holder=247561 #Guna
+	}
+	11000.1.1 = {
+		holder=247562 #Pida
+	}
+	11009.1.1 = {
+		holder=247563 #Nagu
+	}
+	11028.1.1 = {
+		holder=247564 #Bhagu
+	}
+	11039.1.1 = {
+		holder=247565 #Jayapal
+	}
+	11055.1.1 = {
+		holder=247566 #Sonpal
+	}
+	11067.1.1 = {
+		holder=247567 #Indrapal
+	}
+	11088.1.1={
+		holder = 247568 #Naagraj
+	}
+	11096.1.1={
+		holder = 247569 #Chaap
+	}
+	11115.1.1={
+		holder = 247570 #Chapilla
+	}
+	11142.1.1={
+		holder = 247571 #Krashichalla
+	}
+	11168.1.1={
+		holder = 247572 #Kradhichalla
+	}
+	11189.1.1={
+		holder = 247573 #Krachalla
+	}
+	11223.1.1={
+		holder = 247574 #Jitarimalla
+	}
+	11258.1.1={
+		holder = 247575 #Ashokmalla
+	}
+	11287.1.1={
+		holder = 247576 #Ashokchalla
+	}
+	11312.1.1={
+		holder = 247577 #Ripumalla
+	}
+	11313.1.1={
+		holder = 247578 #Adityamalla
+	}
+	11318.1.1={
+		holder = 247579 #Punyamalla
+	}
+	11326.1.1={
+		holder = 247580 #Prithvimalla
+	}
+	11330.1.1={
+		holder = 247581 #Suryamalla
+	}
+
+}
+
+
+d_nepal = {
+	#Licchavi Dynasty
+	10425.1.1 = {
+		holder=247408 #Sankaradeva I
+	}
+	10450.1.1 = {
+		holder=247409 #Dharmadeva
+	}
+	10464.1.1 = {
+		holder=247410 #Manadeva I
+	}
+	10505.1.1 = {
+		holder=247411 #Mahideva
+	}
+	10506.1.1 = {
+		holder=247412 #Vasantadeva
+	}
+	10532.1.1 = {
+		holder=247413 #Manudeva
+	}
+	10538.1.1 = {
+		holder=247414 #Vamanadeva
+	}
+	10545.1.1 = {
+		holder=247415 #Ramadeva
+	}
+	10550.1.1 = {
+		holder=247416 #Amaradeva
+	}
+	10555.1.1 = {
+		holder=247417 #Gunakamadeva I
+	}
+	10560.1.1 = {
+		holder=247418 #Ganadeva
+	}
+	10567.1.1 = {
+		holder=247419 #Gangadeva
+	}
+	10573.1.1 = {
+		holder=247420 #Manadeva II
+	}
+	10590.1.1 = {
+		holder=247421 #Shivadeva I
+	}
+	10604.1.1 = {
+		holder=247422 #Amshuvarman
+	}
+	10621.1.1 = {
+		holder=247423 #Udayadeva I
+	}
+	10624.1.1 = {
+		holder=247424 #Dhruvadeva
+	}
+	10625.1.1 = {
+		holder=247425 #Bhimarjunadeva
+	}
+	10643.1.1 = {
+		holder=247426 #Narendradeva I
+		liege="e_tibet"
+	}#Narendradeva seeks aid from Tibet to regain his father’s throne
+	10679.1.1 = {
+		holder=247427 #Shivadeva II
+	}
+	10705.1.1 = {
+		holder=247428 #Jayadeva I
+	}
+	10733.1.1 = {
+		holder=247429 #Sankaradeva II
+	}
+	10749.1.1 = {
+		holder=247430 #Manadeva III
+	}
+	10756.1.1 = {
+		holder=247431 #Baliraja
+	}
+	10826.1.1 = {
+		holder=247432 #Baladeva
+	}
+	10842.1.1 = {
+		liege=0
+	}#Fall of Tibetan Empire
+	10847.1.1 = {
+		holder=247433 #Manadeva IV
+	}
+	
+	#Thakuri Dynasty
+	10879.1.1 = {
+		holder=247434 #Raghadeva
+	}
+	10900.1.1 = {
+		holder=247435 #Sankaradeva III
+	}
+	10930.1.1 = {
+		holder=247436 #Sahadeva
+	}
+	10960.1.1 = {
+		holder=247437 #Vikramadeva
+	}
+	10980.1.1 = {
+		holder=247438 #Gunakamadeva II
+	}
+	10998.1.1 = {
+		holder=247439 #Narendradeva II
+	}
+	10999.1.1 = {
+		holder=247440 #Udayadeva II
+	}
+	11004.1.1 = {
+		holder=247441 #Nirbhayadeva
+	}
+	11007.1.1 = {
+		holder=247442 #Rudradeva I
+	}
+	11009.1.1 = {
+		holder=247443 #Bhojadeva
+	}
+	11010.1.1 = {
+		holder=247444 #Laksmikadeva I
+	}
+	11030.1.1 = {
+		holder=247445 #Vijayakamadeva I
+	}
+	11037.1.1 = {
+		holder=247444 #Laksmikadeva I (again)
+	}
+	
+	#Nuwakot Thakuri Dynasty
+	11041.1.1 = {
+		holder=247446 #Bhaskaradeva
+	}
+	11048.1.1 = {
+		holder=247447 #Yisadeva
+	}
+	11049.1.1 = {
+		holder=247448 #Baladeva
+	}
+	11060.1.1 = {
+		holder=247449 #Padymnakamadeva
+	}
+	11066.1.1 = {
+		holder=247450 #Nagarjunadeva
+	}
+	11069.1.1 = {
+		holder=247451 #Sankaradeva IV
+	}
+	
+	#Suryavamsa Dynasty
+	11082.1.1 = {
+		holder=247463 #Vamadeva
+	}
+	11085.1.1 = {
+		holder=247464 #Harshadeva
+	}
+	
+	#Nuwakot Thakuri Dynasty (restored)
+	11098.1.1 = {
+		holder=247452 #Shivadeva III
+	}
+	11126.1.1 = {
+		holder=247453 #Indradeva
+	}
+	11136.1.1 = {
+		holder=247454 #Manadeva V
+	}
+	11140.1.1={
+		holder=247455 #Narendradeva III
+	}
+	11147.1.1 = {
+		holder=247456 #Anandadeva
+	}
+	11167.1.1 = {
+		holder=247458 #Rudradeva
+	}
+	11175.1.1 = {
+		holder=247720 #Amritadeva
+	}
+	11178.1.1 = {
+		holder=247459 #Somesvaradeva
+	}
+	11184.1.1 = {
+		holder=247460 #Gunakamadeva III
+	}
+	11192.1.1={
+		holder=247461 #Laksmikadeva II
+	}
+	11197.1.1 = {
+		holder=247462 #Vijayakadeva II
+	}
+	
+	#Malla Dynasty
+	11200.1.1 = {
+		holder=247465 #Arideva
+	}
+	11215.1.1 = {
+		holder=247466 #Ranasura
+	}
+	11216.1.1 = {
+		holder=247467 #Abhaya
+	}
+	11255.1.1 = {
+		holder=247468 #Jayadeva II
+	}
+	11260.1.1 = {
+		holder=247469 #Jayabhimadeva
+	}
+	11271.1.1 = {
+		holder=247470 #Jayasimha
+	}
+	11274.1.1 = {
+		holder=247471 #Ananta
+	}
+	11310.1.1 = {
+		holder=247472 #Jayananadadeva
+	}
+	11320.1.1 = {
+		holder=247473 #Jayarudra
+	}
+	11326.1.1 = {
+		holder=247474 #Jayari
+	}
+	11344.1.1 = {
+		holder=247475 #Jayarajadeva
+	}
+	11361.1.1 = {
+		holder=247476 #Jayarjuna
+	}
+
+}
+
+
+c_kathmandu = {
+	#Licchavi Dynasty
+	10425.1.1 = {
+		liege="d_nepal"
+		holder=247408 #Sankaradeva I
+	}
+	10450.1.1 = {
+		holder=247409 #Dharmadeva
+	}
+	10464.1.1 = {
+		holder=247410 #Manadeva I
+	}
+	10505.1.1 = {
+		holder=247411 #Mahideva
+	}
+	10506.1.1 = {
+		holder=247412 #Vasantadeva
+	}
+	10532.1.1 = {
+		holder=247413 #Manudeva
+	}
+	10538.1.1 = {
+		holder=247414 #Vamanadeva
+	}
+	10545.1.1 = {
+		holder=247415 #Ramadeva
+	}
+	10550.1.1 = {
+		holder=247416 #Amaradeva
+	}
+	10555.1.1 = {
+		holder=247417 #Gunakamadeva I
+	}
+	10560.1.1 = {
+		holder=247418 #Ganadeva
+	}
+	10567.1.1 = {
+		holder=247419 #Gangadeva
+	}
+	10573.1.1 = {
+		holder=247420 #Manadeva II
+	}
+	10590.1.1 = {
+		holder=247421 #Shivadeva I
+	}
+	10604.1.1 = {
+		holder=247422 #Amshuvarman
+	}
+	10621.1.1 = {
+		holder=247423 #Udayadeva I
+	}
+	10624.1.1 = {
+		holder=247424 #Dhruvadeva
+	}
+	10625.1.1 = {
+		holder=247425 #Bhimarjunadeva
+	}
+	10643.1.1 = {
+		holder=247426 #Narendradeva I
+	}#Narendradeva seeks aid from Tibet to regain his father’s throne
+	10679.1.1 = {
+		holder=247427 #Shivadeva II
+	}
+	10705.1.1 = {
+		holder=247428 #Jayadeva I
+	}
+	10733.1.1 = {
+		holder=247429 #Sankaradeva II
+	}
+	10749.1.1 = {
+		holder=247430 #Manadeva III
+	}
+	10756.1.1 = {
+		holder=247431 #Baliraja
+	}
+	10826.1.1 = {
+		holder=247432 #Baladeva
+	}
+	10847.1.1 = {
+		holder=247433 #Manadeva IV
+	}
+	
+	#Thakuri Dynasty
+	10879.1.1 = {
+		holder=247434 #Raghadeva
+	}
+	10900.1.1 = {
+		holder=247435 #Sankaradeva III
+	}
+	10930.1.1 = {
+		holder=247436 #Sahadeva
+	}
+	10960.1.1 = {
+		holder=247437 #Vikramadeva
+	}
+	10980.1.1 = {
+		holder=247438 #Gunakamadeva II
+	}
+	10998.1.1 = {
+		holder=247439 #Narendradeva II
+	}
+	10999.1.1 = {
+		holder=247440 #Udayadeva II
+	}
+	11004.1.1 = {
+		holder=247441 #Nirbhayadeva
+	}
+	11007.1.1 = {
+		holder=247442 #Rudradeva I
+	}
+	11009.1.1 = {
+		holder=247443 #Bhojadeva
+	}
+	11010.1.1 = {
+		holder=247444 #Laksmikadeva I
+	}
+	11030.1.1 = {
+		holder=247445 #Vijayakamadeva I
+	}
+	11037.1.1 = {
+		holder=247444 #Laksmikadeva I (again)
+	}
+	
+	#Nuwakot Thakuri Dynasty
+	11041.1.1 = {
+		holder=247446 #Bhaskaradeva
+	}
+	11048.1.1 = {
+		holder=247447 #Yisadeva
+	}
+	11049.1.1 = {
+		holder=247448 #Baladeva
+	}
+	11060.1.1 = {
+		holder=247449 #Padymnakamadeva
+	}
+	11066.1.1 = {
+		holder=247450 #Nagarjunadeva
+	}
+	11069.1.1 = {
+		holder=247451 #Sankaradeva IV
+	}
+	
+	#Suryavamsa Dynasty
+	11082.1.1 = {
+		holder=247463 #Vamadeva
+	}
+	11085.1.1 = {
+		holder=247464 #Harshadeva
+	}
+	
+	#Nuwakot Thakuri Dynasty (restored)
+	11098.1.1 = {
+		holder=247452 #Shivadeva III
+	}
+	11126.1.1 = {
+		holder=247453 #Indradeva
+	}
+	11136.1.1 = {
+		holder=247454 #Manadeva V
+	}
+	11140.1.1={
+		holder=247455 #Narendradeva III
+	}
+	11147.1.1 = {
+		holder=247456 #Anandadeva
+	}
+	11167.1.1 = {
+		holder=247458 #Rudradeva
+	}
+	11175.1.1 = {
+		holder=247720 #Amritadeva
+	}
+	11178.1.1 = {
+		holder=247459 #Somesvaradeva
+	}
+	11184.1.1 = {
+		holder=247460 #Gunakamadeva III
+	}
+	11192.1.1={
+		holder=247461 #Laksmikadeva II
+	}
+	11197.1.1 = {
+		holder=247462 #Vijayakadeva II
+	}
+	
+	#Malla Dynasty
+	11200.1.1 = {
+		holder=247465 #Arideva
+	}
+	11215.1.1 = {
+		holder=247466 #Ranasura
+	}
+	11216.1.1 = {
+		holder=247467 #Abhaya
+	}
+	11255.1.1 = {
+		holder=247468 #Jayadeva II
+	}
+	11260.1.1 = {
+		holder=247469 #Jayabhimadeva
+	}
+	11271.1.1 = {
+		holder=247470 #Jayasimha
+	}
+	11274.1.1 = {
+		holder=247471 #Ananta
+	}
+	11310.1.1 = {
+		holder=247472 #Jayananadadeva
+	}
+	11320.1.1 = {
+		holder=247473 #Jayarudra
+	}
+	11326.1.1 = {
+		holder=247474 #Jayari
+	}
+	11344.1.1 = {
+		holder=247475 #Jayarajadeva
+	}
+	11361.1.1 = {
+		holder=247476 #Jayarjuna
+	}
+}
+
+
+c_bhaktapur = {
+	#Licchavi Dynasty
+	10425.1.1 = {
+		liege="d_nepal"
+		holder=247408 #Sankaradeva I
+	}
+	10450.1.1 = {
+		holder=247409 #Dharmadeva
+	}
+	10464.1.1 = {
+		holder=247410 #Manadeva I
+	}
+	10505.1.1 = {
+		holder=247411 #Mahideva
+	}
+	10506.1.1 = {
+		holder=247412 #Vasantadeva
+	}
+	10532.1.1 = {
+		holder=247413 #Manudeva
+	}
+	10538.1.1 = {
+		holder=247414 #Vamanadeva
+	}
+	10545.1.1 = {
+		holder=247415 #Ramadeva
+	}
+	10550.1.1 = {
+		holder=247416 #Amaradeva
+	}
+	10555.1.1 = {
+		holder=247417 #Gunakamadeva I
+	}
+	10560.1.1 = {
+		holder=247418 #Ganadeva
+	}
+	10567.1.1 = {
+		holder=247419 #Gangadeva
+	}
+	10573.1.1 = {
+		holder=247420 #Manadeva II
+	}
+	10590.1.1 = {
+		holder=247421 #Shivadeva I
+	}
+	10604.1.1 = {
+		holder=247422 #Amshuvarman
+	}
+	10621.1.1 = {
+		holder=247423 #Udayadeva I
+	}
+	10624.1.1 = {
+		holder=247424 #Dhruvadeva
+	}
+	10625.1.1 = {
+		holder=247425 #Bhimarjunadeva
+	}
+	10643.1.1 = {
+		holder=247426 #Narendradeva I
+	}#Narendradeva seeks aid from Tibet to regain his father’s throne
+	10679.1.1 = {
+		holder=247427 #Shivadeva II
+	}
+	10705.1.1 = {
+		holder=247428 #Jayadeva I
+	}
+	10733.1.1 = {
+		holder=247429 #Sankaradeva II
+	}
+	10749.1.1 = {
+		holder=247430 #Manadeva III
+	}
+	10756.1.1 = {
+		holder=247431 #Baliraja
+	}
+	10826.1.1 = {
+		holder=247432 #Baladeva
+	}
+	10847.1.1 = {
+		holder=247433 #Manadeva IV
+	}
+	
+	#Thakuri Dynasty
+	10879.1.1 = {
+		holder=247434 #Raghadeva
+	}
+	10900.1.1 = {
+		holder=247435 #Sankaradeva III
+	}
+	10930.1.1 = {
+		holder=247436 #Sahadeva
+	}
+	10960.1.1 = {
+		holder=247437 #Vikramadeva
+	}
+	10980.1.1 = {
+		holder=247438 #Gunakamadeva II
+	}
+	10998.1.1 = {
+		holder=247439 #Narendradeva II
+	}
+	10999.1.1 = {
+		holder=247440 #Udayadeva II
+	}
+	11004.1.1 = {
+		holder=247441 #Nirbhayadeva
+	}
+	11007.1.1 = {
+		holder=247442 #Rudradeva I
+	}
+	11009.1.1 = {
+		holder=247443 #Bhojadeva
+	}
+	11010.1.1 = {
+		holder=247444 #Laksmikadeva I
+	}
+	11030.1.1 = {
+		holder=247445 #Vijayakamadeva I
+	}
+	11037.1.1 = {
+		holder=247444 #Laksmikadeva I (again)
+	}
+	
+	#Nuwakot Thakuri Dynasty
+	11041.1.1 = {
+		holder=247446 #Bhaskaradeva
+	}
+	11048.1.1 = {
+		holder=247447 #Yisadeva
+	}
+	11049.1.1 = {
+		holder=247448 #Baladeva
+	}
+	11060.1.1 = {
+		holder=247449 #Padymnakamadeva
+	}
+	11066.1.1 = {
+		holder=247450 #Nagarjunadeva
+	}
+	11069.1.1 = {
+		holder=247451 #Sankaradeva IV
+	}
+	
+	#Suryavamsa Dynasty
+	11082.1.1 = {
+		holder=247463 #Vamadeva
+	}
+	11085.1.1 = {
+		holder=247464 #Harshadeva
+	}
+	
+	#Nuwakot Thakuri Dynasty (restored)
+	11098.1.1 = {
+		holder=247452 #Shivadeva III
+	}
+	11126.1.1 = {
+		holder=247453 #Indradeva
+	}
+	11136.1.1 = {
+		holder=247454 #Manadeva V
+	}
+	11140.1.1={
+		holder=247455 #Narendradeva III
+	}
+	11147.1.1 = {
+		holder=247456 #Anandadeva
+	}
+	11167.1.1 = {
+		holder=247458 #Rudradeva
+	}
+	11175.1.1 = {
+		holder=247720 #Amritadeva
+	}
+	11178.1.1 = {
+		holder=247459 #Somesvaradeva
+	}
+	11184.1.1 = {
+		holder=247460 #Gunakamadeva III
+	}
+	11192.1.1={
+		holder=247461 #Laksmikadeva II
+	}
+	11197.1.1 = {
+		holder=247462 #Vijayakadeva II
+	}
+	
+	#Malla Dynasty
+	11200.1.1 = {
+		holder=247465 #Arideva
+	}
+	11215.1.1 = {
+		holder=247466 #Ranasura
+	}
+	11216.1.1 = {
+		holder=247467 #Abhaya
+	}
+	11255.1.1 = {
+		holder=247468 #Jayadeva II
+	}
+	11260.1.1 = {
+		holder=247469 #Jayabhimadeva
+	}
+	11271.1.1 = {
+		holder=247470 #Jayasimha
+	}
+	11274.1.1 = {
+		holder=247471 #Ananta
+	}
+	11310.1.1 = {
+		holder=247472 #Jayananadadeva
+	}
+	11320.1.1 = {
+		holder=247473 #Jayarudra
+	}
+	11326.1.1 = {
+		holder=247474 #Jayari
+	}
+	11344.1.1 = {
+		holder=247475 #Jayarajadeva
+	}
+	11361.1.1 = {
+		holder=247476 #Jayarjuna
+	}
+}
+
+
+c_janakpur = {
+	#Licchavi Dynasty
+	10425.1.1 = {
+		liege="d_nepal"
+		holder=247408 #Sankaradeva I
+	}
+	10450.1.1 = {
+		holder=247409 #Dharmadeva
+	}
+	10464.1.1 = {
+		holder=247410 #Manadeva I
+	}
+	10505.1.1 = {
+		holder=247411 #Mahideva
+	}
+	10506.1.1 = {
+		holder=247412 #Vasantadeva
+	}
+	10532.1.1 = {
+		holder=247413 #Manudeva
+	}
+	10538.1.1 = {
+		holder=247414 #Vamanadeva
+	}
+	10545.1.1 = {
+		holder=247415 #Ramadeva
+	}
+	10550.1.1 = {
+		holder=247416 #Amaradeva
+	}
+	10555.1.1 = {
+		holder=247417 #Gunakamadeva I
+	}
+	10560.1.1 = {
+		holder=247418 #Ganadeva
+	}
+	10567.1.1 = {
+		holder=247419 #Gangadeva
+	}
+	10573.1.1 = {
+		holder=247420 #Manadeva II
+	}
+	10590.1.1 = {
+		holder=247421 #Shivadeva I
+	}
+	10604.1.1 = {
+		holder=247422 #Amshuvarman
+	}
+	10621.1.1 = {
+		holder=247423 #Udayadeva I
+	}
+	10624.1.1 = {
+		holder=247424 #Dhruvadeva
+	}
+	10625.1.1 = {
+		holder=247425 #Bhimarjunadeva
+	}
+	10643.1.1 = {
+		holder=247426 #Narendradeva I
+	}#Narendradeva seeks aid from Tibet to regain his father’s throne
+	10679.1.1 = {
+		holder=247427 #Shivadeva II
+	}
+	10705.1.1 = {
+		holder=247428 #Jayadeva I
+	}
+	10733.1.1 = {
+		holder=247429 #Sankaradeva II
+	}
+	10749.1.1 = {
+		holder=247430 #Manadeva III
+	}
+	10756.1.1 = {
+		holder=247431 #Baliraja
+	}
+	10826.1.1 = {
+		holder=247432 #Baladeva
+	}
+	10847.1.1 = {
+		holder=247433 #Manadeva IV
+	}
+	
+	#Thakuri Dynasty
+	10879.1.1 = {
+		holder=247434 #Raghadeva
+	}
+	10900.1.1 = {
+		holder=247435 #Sankaradeva III
+	}
+	10930.1.1 = {
+		holder=247436 #Sahadeva
+	}
+	10960.1.1 = {
+		holder=247437 #Vikramadeva
+	}
+	10980.1.1 = {
+		holder=247438 #Gunakamadeva II
+	}
+	10998.1.1 = {
+		holder=247439 #Narendradeva II
+	}
+	10999.1.1 = {
+		holder=247440 #Udayadeva II
+	}
+	11004.1.1 = {
+		holder=247441 #Nirbhayadeva
+	}
+	11007.1.1 = {
+		holder=247442 #Rudradeva I
+	}
+	11009.1.1 = {
+		holder=247443 #Bhojadeva
+	}
+	11010.1.1 = {
+		holder=247444 #Laksmikadeva I
+	}
+	11030.1.1 = {
+		holder=247445 #Vijayakamadeva I
+	}
+	11037.1.1 = {
+		holder=247444 #Laksmikadeva I (again)
+	}
+	
+	#Nuwakot Thakuri Dynasty
+	11041.1.1 = {
+		holder=247446 #Bhaskaradeva
+	}
+	11048.1.1 = {
+		holder=247447 #Yisadeva
+	}
+	11049.1.1 = {
+		holder=247448 #Baladeva
+	}
+	11060.1.1 = {
+		holder=247449 #Padymnakamadeva
+	}
+	11066.1.1 = {
+		holder=247450 #Nagarjunadeva
+	}
+	11069.1.1 = {
+		holder=247451 #Sankaradeva IV
+	}
+	
+	#Suryavamsa Dynasty
+	11082.1.1 = {
+		holder=247463 #Vamadeva
+	}
+	11085.1.1 = {
+		holder=247464 #Harshadeva
+	}
+	
+	#Nuwakot Thakuri Dynasty (restored)
+	11098.1.1 = {
+		holder=247452 #Shivadeva III
+	}
+	11126.1.1 = {
+		holder=247453 #Indradeva
+	}
+	11136.1.1 = {
+		holder=247454 #Manadeva V
+	}
+	11140.1.1={
+		holder=247455 #Narendradeva III
+	}
+	11147.1.1 = {
+		holder=247456 #Anandadeva
+	}
+	11167.1.1 = {
+		holder=247458 #Rudradeva
+	}
+	11175.1.1 = {
+		holder=247720 #Amritadeva
+	}
+	11178.1.1 = {
+		holder=247459 #Somesvaradeva
+	}
+	11184.1.1 = {
+		holder=247460 #Gunakamadeva III
+	}
+	11192.1.1={
+		holder=247461 #Laksmikadeva II
+	}
+	11197.1.1 = {
+		holder=247462 #Vijayakadeva II
+	}
+	
+	#Malla Dynasty
+	11200.1.1 = {
+		holder=247465 #Arideva
+	}
+	11215.1.1 = {
+		holder=247466 #Ranasura
+	}
+	11216.1.1 = {
+		holder=247467 #Abhaya
+	}
+	11255.1.1 = {
+		holder=247468 #Jayadeva II
+	}
+	11260.1.1 = {
+		holder=247469 #Jayabhimadeva
+	}
+	11271.1.1 = {
+		holder=247470 #Jayasimha
+	}
+	11274.1.1 = {
+		holder=247471 #Ananta
+	}
+	11310.1.1 = {
+		holder=247472 #Jayananadadeva
+	}
+	11320.1.1 = {
+		holder=247473 #Jayarudra
+	}
+	11326.1.1 = {
+		holder=247474 #Jayari
+	}
+	11344.1.1 = {
+		holder=247475 #Jayarajadeva
+	}
+	11361.1.1 = {
+		holder=247476 #Jayarjuna
+	}
+}
+
+
+d_limbuwan = {
+	10643.1.1 = {
+		liege="e_tibet"
+	}
+	#Mung Mawrong Hang
+	10760.1.1 = {
+		holder=304000 #Mung Mawrong Hang
+	}
+	#Mokwan San
+	10810.1.1 = {
+		holder=304001 #Mokwan San
+	}
+	10842.1.1 = {
+		liege=0
+	}#Fall of Tibetan Empire
+	#Lasahang Dynasty
+	10849.1.1 = {
+		holder=304002 #Uba Hang
+	}
+	10865.1.1 = {
+		holder=304003 #Mabo Hang
+	}
+	10880.1.1 = {
+		holder=304004 #Muda Hang
+	}
+	10884.1.1 = {
+		holder=304005 #Wedo Hang
+	}
+	#Sirijunga
+	10885.1.1 = {
+		holder=304034 #Sirijunga
+	}
+	#Lasahang Dynasty
+	10915.1.1 = {
+		holder=304009 #Chemjong Hang
+	}
+	#Limbuwan lacks a central authority
+	10930.1.1 = {
+		holder=0
+	}
+
+}
+
+
+c_ilam = {
+	10760.1.1 = {
+		liege="d_limbuwan"
+	}
+	#Mung Mawrong Hang
+	10760.1.1 = {
+		holder=304000 #Mung Mawrong Hang
+	}
+	#Mokwan San
+	10810.1.1 = {
+		holder=304001 #Mokwan San
+	}
+	#Lasahang Dynasty
+	10849.1.1 = {
+		holder=304002 #Uba Hang
+	}
+	10865.1.1 = {
+		holder=304003 #Mabo Hang
+	}
+	10880.1.1 = {
+		holder=304004 #Muda Hang
+	}
+	10884.1.1 = {
+		holder=304005 #Wedo Hang
+	}
+	#Nembang Hang usurps his brother-in-law's throne
+	10885.1.1 = {
+		holder=304007 #Nembang Hang
+	}
+	#Lasahang Dynasty
+	10901.1.1 = {
+		holder=304009 #Chemjong Hang
+	}
+	#Limbuwan lacks a central authority
+	#fictional Lasahang Dynasty
+	10930.1.1 = {
+		liege=0
+		holder=304010 #Namsang Hang
+	}
+	10966.1.1 = {
+		holder=304011 #Poba Hang
+	}
+	10973.1.1 = {
+		holder=304012 #Ladho Hang
+	}
+	10995.1.1 = {
+		holder=304013 #Taichi Hang
+	}
+	11009.1.1 = {
+		holder=304014 #Oisum Hang
+	}
+	11035.1.1 = {
+		holder=304015 #Mokwan Hang
+	}
+	11053.1.1 = {
+		holder=304016 #Nembang Hang
+	}
+	11079.1.1 = {
+		holder=304017 #Phung Hang
+	}
+	11094.1.1 = {
+		holder=304018 #Yamdung Hang
+	}
+	11128.1.1 = {
+		holder=304019 #Mirak Hang
+	}
+	11155.1.1 = {
+		holder=304020 #Phedap Hang
+	}
+	11165.1.1 = {
+		holder=304021 #Thobo Hang
+	}
+	11172.1.1 = {
+		holder=304022 #Ap Hang
+	}
+	11198.1.1 = {
+		holder=304023 #Mundhum Hang
+	}
+	11218.1.1 = {
+		holder=304024 #Raya Hang
+	}
+	11242.1.1 = {
+		holder=304025 #Usuru Hang
+	}
+	11276.1.1 = {
+		holder=304026 #Sireng Hang
+	}
+	11288.1.1 = {
+		holder=304027 #Namtimik Hang
+	}
+	11300.1.1 = {
+		holder=304028 #Sawaro Hang
+	}
+	11311.1.1 = {
+		holder=304029 #Sakma Hang
+	}
+	11335.1.1 = {
+		holder=304030 #Perung Hang
+	}
+	11343.1.1 = {
+		holder=304031 #Kiriti Hang
+	}
+
+}
+
+
+c_yangwarok = {
+	10760.1.1 = {
+		liege="d_limbuwan"
+	}
+	#Mung Mawrong Hang
+	10760.1.1 = {
+		holder=304000 #Mung Mawrong Hang
+	}
+	#Yangwarok Dynasty
+	10810.1.1 = {
+		holder=304032 #Galijunga
+	}
+	10860.1.1 = {
+		holder=304033 #Jungahang
+	}
+	10880.1.1 = {
+		holder=304034 #Sirijunga
+	}
+	#Limbuwan lacks a central authority
+	#fictional Yangwarok Dynasty
+	10915.1.1 = {
+		holder=304035 #Mangja
+	}
+	10930.1.1 = {
+		liege=0
+	}
+	10936.1.1 = {
+		holder=304036 #Tangjunga
+	}
+	10959.1.1 = {
+		holder=304037 #Mimiding
+	}
+	10977.1.1 = {
+		holder=304038 #Kiritijunga
+	}
+	10994.1.1 = {
+		holder=304039 #Lendangba
+	}
+	11009.1.1 = {
+		holder=304040 #Pheyamlung
+	}
+	11027.1.1 = {
+		holder=304041 #Yambhamiba
+	}
+	11056.1.1 = {
+		holder=304042 #Mukkujunga
+	}
+	11075.1.1 = {
+		holder=304043 #Kanglaing
+	}
+	11098.1.1 = {
+		holder=304044 #Pakkandi
+	}
+	11119.1.1 = {
+		holder=304045 #Sangkhadeo
+	}
+	11144.1.1 = {
+		holder=304046 #Thindolung
+	}
+	11179.1.1 = {
+		holder=304047 #Mujoklung
+	}
+	11197.1.1 = {
+		holder=304048 #Thoktokso
+	}
+	11213.1.1 = {
+		holder=304049 #Lilimjunga
+	}
+	11238.1.1 = {
+		holder=304050 #Miseksammang
+	}
+	11246.1.1 = {
+		holder=304051 #Tanchippa
+	}
+	11273.1.1 = {
+		holder=304052 #Thosoing
+	}
+	11286.1.1 = {
+		holder=304053 #Khewajunga
+	}
+	11315.1.1 = {
+		holder=304054 #Muijunga
+	}
+	11329.1.1 = {
+		holder=304055 #Shengsengum
+	}
+	11348.1.1 = {
+		holder=304056 #Namnetti
+	}
+
+}
+
+
+#c_okhaldhunga = {
+#	10760.1.1 = {
+#		liege="d_limbuwan"
+#	}
+#	#Mung Mawrong Hang
+#	10760.1.1 = {
+#		holder=304000 #Mung Mawrong Hang
+#	}
+#	#Yangwarok Dynasty
+#	10810.1.1 = {
+#		holder=304032 #Galijunga
+#	}
+#	10860.1.1 = {
+#		holder=304033 #Jungahang
+#	}
+#	10880.1.1 = {
+#		holder=304034 #Sirijunga
+#	}
+#	#Limbuwan lacks a central authority
+#	#fictional Yangwarok Dynasty
+#	10915.1.1 = {
+#		holder=304035 #Mangja
+#	}
+#	10930.1.1 = {
+#		liege=0
+#	}
+#	10936.1.1 = {
+#		holder=304036 #Tangjunga
+#	}
+#	10959.1.1 = {
+#		holder=304037 #Mimiding
+#	}
+#	10977.1.1 = {
+#		holder=304038 #Kiritijunga
+#	}
+#	10994.1.1 = {
+#		holder=304039 #Lendangba
+#	}
+#	11009.1.1 = {
+#		holder=304040 #Pheyamlung
+#	}
+#	11027.1.1 = {
+#		holder=304041 #Yambhamiba
+#	}
+#	11056.1.1 = {
+#		holder=304042 #Mukkujunga
+#	}
+#	11075.1.1 = {
+#		holder=304043 #Kanglaing
+#	}
+#	11098.1.1 = {
+#		holder=304044 #Pakkandi
+#	}
+#	11119.1.1 = {
+#		holder=304045 #Sangkhadeo
+#	}
+#	11144.1.1 = {
+#		holder=304046 #Thindolung
+#	}
+#	11179.1.1 = {
+#		holder=304047 #Mujoklung
+#	}
+#	11197.1.1 = {
+#		holder=304048 #Thoktokso
+#	}
+#	11213.1.1 = {
+#		holder=304049 #Lilimjunga
+#	}
+#	11238.1.1 = {
+#		holder=304050 #Miseksammang
+#	}
+#	11246.1.1 = {
+#		holder=304051 #Tanchippa
+#	}
+#	11273.1.1 = {
+#		holder=304052 #Thosoing
+#	}
+#	11286.1.1 = {
+#		holder=304053 #Khewajunga
+#	}
+#	11315.1.1 = {
+#		holder=304054 #Muijunga
+#	}
+#	11329.1.1 = {
+#		holder=304055 #Shengsengum
+#	}
+#	11348.1.1 = {
+#		holder=304056 #Namnetti
+#	}
+#
+#}
+
+
+c_khotang = {
+	10760.1.1 = {
+		liege="d_limbuwan"
+	}
+	#Mung Mawrong Hang
+	10760.1.1 = {
+		holder=304000 #Mung Mawrong Hang
+	}
+	#Yangwarok Dynasty
+	10810.1.1 = {
+		holder=304032 #Galijunga
+	}
+	10860.1.1 = {
+		holder=304033 #Jungahang
+	}
+	10880.1.1 = {
+		holder=304034 #Sirijunga
+	}
+	#Limbuwan lacks a central authority
+	#fictional Yangwarok Dynasty
+	10915.1.1 = {
+		holder=304035 #Mangja
+	}
+	10930.1.1 = {
+		liege=0
+	}
+	10936.1.1 = {
+		holder=304036 #Tangjunga
+	}
+	10959.1.1 = {
+		holder=304037 #Mimiding
+	}
+	10977.1.1 = {
+		holder=304038 #Kiritijunga
+	}
+	10994.1.1 = {
+		holder=304039 #Lendangba
+	}
+	11009.1.1 = {
+		holder=304040 #Pheyamlung
+	}
+	11027.1.1 = {
+		holder=304041 #Yambhamiba
+	}
+	11056.1.1 = {
+		holder=304042 #Mukkujunga
+	}
+	11075.1.1 = {
+		holder=304043 #Kanglaing
+	}
+	11098.1.1 = {
+		holder=304044 #Pakkandi
+	}
+	11119.1.1 = {
+		holder=304045 #Sangkhadeo
+	}
+	11144.1.1 = {
+		holder=304046 #Thindolung
+	}
+	11179.1.1 = {
+		holder=304047 #Mujoklung
+	}
+	11197.1.1 = {
+		holder=304048 #Thoktokso
+	}
+	11213.1.1 = {
+		holder=304049 #Lilimjunga
+	}
+	11238.1.1 = {
+		holder=304050 #Miseksammang
+	}
+	11246.1.1 = {
+		holder=304051 #Tanchippa
+	}
+	11273.1.1 = {
+		holder=304052 #Thosoing
+	}
+	11286.1.1 = {
+		holder=304053 #Khewajunga
+	}
+	11315.1.1 = {
+		holder=304054 #Muijunga
+	}
+	11329.1.1 = {
+		holder=304055 #Shengsengum
+	}
+	11348.1.1 = {
+		holder=304056 #Namnetti
+	}
+
+}
+

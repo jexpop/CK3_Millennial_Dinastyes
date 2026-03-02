@@ -1,0 +1,4 @@
+﻿l_spanish:
+CURRENT_DATE: "[GetCurrentDate.GetDayOfMonth] de [GetPlayer.Custom('cl_custom_month')] de [GetPlayer.MakeScope.ScriptValue('holocene_year_calculation')|0][GetPlayer.Custom('cl_holocene_suffix')]"
+PLAYER_SYNC_DATES_HEADER:0 "#T Fecha actual: [DATE.GetDayOfMonth] / [DATE.GetMonthOfYear] / [GetPlayer.MakeScope.ScriptValue('holocene_year_calculation')|0][GetPlayer.Custom('cl_holocene_suffix')]#!"
+ GAME_START_DATE_STRING: "Empezada el [DATE.GetStringShortNoYear] [GetPlayer.MakeScope.ScriptValue('holocene_year_calculation')|0][GetPlayer.Custom('cl_holocene_suffix')]"

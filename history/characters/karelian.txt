@@ -1,0 +1,291 @@
+﻿28004 = {
+	name = "Kalevi"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = karelian
+	father = 170115
+	11050.1.1 = {
+		birth = yes
+	}
+	11100.1.1 = {
+		death = yes
+	}
+}
+
+28035 = {
+	name = "Susi"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170120
+	11040.1.1 = {
+		birth = "11040.1.1"
+	}
+	11120.1.1 = {
+		death = "11120.1.1"
+	}
+}
+
+170111 = {
+	name = "Tuure"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = karelian
+	father = 170328
+	10844.1.1 = {
+		birth = yes
+	}
+	10907.1.1 = {
+		death = yes
+	}
+}
+
+170112 = {
+	name = "Ihala"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = karelian
+	father = 170111
+	10882.1.1 = {
+		birth = yes
+	}
+	10944.1.1 = {
+		death = yes
+	}
+}
+
+170113 = {
+	name = "Tuure"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = karelian
+	father = 170112
+	10918.1.1 = {
+		birth = yes
+	}
+	10976.1.1 = {
+		death = yes
+	}
+}
+
+170114 = {
+	name = "VA_inO_"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = karelian
+	father = 170113
+	10952.1.1 = {
+		birth = yes
+	}
+	11031.1.1 = {
+		death = yes
+	}
+}
+
+170115 = {
+	name = "Kettu"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = karelian
+	father = 170114
+	11011.1.1 = {
+		birth = yes
+	}
+	11066.1.1 = {
+		death = yes
+	}
+}
+
+170116 = {
+	name = "Ahma"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170319
+	10845.1.1 = {
+		birth = yes
+	}
+	10899.1.1 = {
+		death = yes
+	}
+}
+
+170117 = {
+	name = "Satatieto"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170116
+	10882.1.1 = {
+		birth = "10882.1.1"
+	}
+	10955.1.1 = {
+		death = "10955.1.1"
+	}
+}
+
+170118 = {
+	name = "Susi"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170117
+	10921.1.1 = {
+		birth = "10921.1.1"
+	}
+	10974.1.1 = {
+		death = "10974.1.1"
+	}
+}
+
+170119 = {
+	name = "Ahma"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170118
+	10952.1.1 = {
+		birth = "10952.1.1"
+	}
+	11025.1.1 = {
+		death = "11025.1.1"
+	}
+}
+
+170120 = {
+	name = "Satatieto"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170119
+	11006.1.1 = {
+		birth = "11006.1.1"
+	}
+	11066.1.1 = {
+		death = "11066.1.1"
+	}
+}
+
+170316 = {
+	name = "Ahma"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	10744.1.1 = {
+		birth = yes
+	}
+	10787.1.1 = {
+		death = yes
+	}
+}
+
+170317 = {
+	name = "Ukko"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170316
+	10768.1.1 = {
+		birth = yes
+	}
+	10821.1.1 = {
+		death = yes
+	}
+}
+
+170318 = {
+	name = "Satatieto"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170317
+	10797.1.1 = {
+		birth = yes
+	}
+	10838.1.1 = {
+		death = yes
+	}
+}
+
+170319 = {
+	name = "Ukko"
+	dynasty = 100392
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170318
+	10824.1.1 = {
+		birth = yes
+	}
+	10867.1.1 = {
+		death = yes
+	}
+}
+
+170324 = {
+	name = "Lemetti"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = "karelian"
+	10724.1.1 = {
+		birth = yes
+	}
+	10780.1.1 = {
+		death = yes
+	}
+}
+
+170325 = {
+	name = "Ihala"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170324
+	10751.1.1 = {
+		birth = yes
+	}
+	10795.1.1 = {
+		death = yes
+	}
+}
+
+170326 = {
+	name = "VA_inO_"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170325
+	10773.1.1 = {
+		birth = yes
+	}
+	10820.1.1 = {
+		death = yes
+	}
+}
+
+170327 = {
+	name = "Lemetti"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170326
+	10799.1.1 = {
+		birth = yes
+	}
+	10846.1.1 = {
+		death = yes
+	}
+}
+
+170328 = {
+	name = "Kettu"
+	dynasty = 100388
+	religion = "finnish_pagan"
+	culture = "karelian"
+	father = 170327
+	10820.1.1 = {
+		birth = yes
+	}
+	10867.1.1 = {
+		death = yes
+	}
+}

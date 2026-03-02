@@ -1,0 +1,1354 @@
+k_malwa = {
+	10867.1.1 = { change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10730.1.1 = {
+		holder = 188001 # Nagabhata I Pratihara
+	}
+	10765.1.1 = {
+		holder = 188003 # Kakustha
+	}
+	10770.1.1 = {
+		holder = 188004 # Devasakti
+	}
+	10780.1.1 = {
+		holder = 188005 # Vatsraja
+	}
+	10800.1.1 = {
+		holder = 188006 # Nagabhata II
+	}
+	10815.1.1 = {
+		holder = 0
+	}
+	10967.1.1 = {
+		holder = 188181 # Siyaka II - declares independence by not recognizing successor of Krishna III
+
+	}
+	10973.1.1 = {
+		holder = 188182 # Vakpati II
+	}
+	10995.1.1 = {
+		holder = 188183 # Sindhu
+	}
+	11010.1.1 = {
+		holder = 188184 # Bhoja I
+	}
+	11055.1.1 = {
+		holder = 188185 # Jayasimha
+
+	}
+	11069.1.1 = {
+		holder = 188186 # Udayaditya
+	}
+	11087.1.1 = {
+		holder = 188187 # Lakshamanadeva
+	}
+	11094.1.1 = {
+		holder = 188188 # Naravarmandeva
+	}
+	11133.1.1 = {
+		holder = 188189 # Yasovarman
+	}
+	11142.1.1 = {
+		holder = 188190 # Jayavarman I
+	}
+	11143.1.1 = {
+		holder = 188191 # Ballala of Malwa
+	}
+	11151.1.1 = {
+		holder = 188088 # Kumarapala Solanki
+	}
+	11160.1.1 = {
+		holder = 188197 # Vindhyavarman Paramara
+	}
+	11193.1.1 = {
+		holder = 188198 # Subhatavarman
+	}
+	11210.1.1 = {
+		holder = 188199 # Arjunavarman I
+	}
+	11218.1.1 = {
+		holder = 188196 # Devapala
+	}
+	11239.1.1 = {
+		holder = 188200 # Jaitugideva
+	}
+	11256.1.1 = {
+		holder = 188201 # Jayavarman II
+	}
+	11269.1.1 = {
+		holder = 188202 # Jayasimha II
+	}
+	11274.1.1 = {
+		holder = 188203 # Arjunavarman II
+	}
+	11283.1.1 = {
+		holder = 188204 # Bhoja II
+	}
+	11298.1.1 = {
+		holder = 188205 # Mahlakadeva
+	}
+	11305.1.1 = {
+		holder = 191927 # Ain-ul-Mulk Multani
+		liege = e_rajastan
+	}
+}
+
+
+d_dadhipadra = {
+	10867.1.1 = { change_development_level = 12 }
+	11066.1.1 = { change_development_level = 18 }
+	11178.1.1 = { change_development_level = 18 }
+	
+	10550.1.1 = {
+		holder = 191605 #Harichandra
+		liege = k_rajputana
+	}
+	10580.1.1 = {
+		holder = 191607 #Rajjila
+	}
+	10600.1.1 = {
+		holder = 191608 #Narabbhata
+	}
+	10625.1.1 = {
+		holder = 191609 #Nagabhata
+		liege = k_malwa
+	}
+	10650.1.1 = {
+		holder = 191612 #Bhoja
+	}
+	10690.1.1 = {
+		holder = 188000 #Chanduka
+	}
+	10730.1.1 = {
+		holder = 188001 #Nagabhata
+	}
+	10765.1.1 = {
+		holder = 188003 # Kakustha
+	}
+	10770.1.1 = {
+		holder = 188004 # Devasakti
+	}
+	10780.1.1 = {
+		holder = 188005 # Vatsaraja
+	}
+	10812.1.1 = {
+		liege = k_karnata
+		holder = 188176 # Upendra Paramara
+	}
+	10818.1.1 = {
+		holder = 188177 # Vairisimha I
+	}
+	10843.1.1 = {
+		holder = 188178 # Siyaka I
+	}
+	10893.1.1 = {
+		holder = 188179 # Vakpati I
+	}
+	10918.1.1 = {
+		holder = 188180 # Vairisimha II
+	}
+	10948.1.1 = {
+		holder = 188181 # Siyaka II
+	}
+	10967.1.1 = {
+		liege = k_malwa	#Independence declared during Rashtrakuta succession
+	}
+	10973.1.1 = {
+		holder = 188182 # Vakpati II
+	}
+	10995.1.1 = {
+		holder = 188183 # Sindhu
+	}
+	11010.1.1 = {
+		holder = 188184 # Bhoja I
+	}
+	11055.1.1 = {
+		holder = 188185 # Jayasimha
+	}
+	11069.1.1 = {
+		holder = 188186 # Udayaditya
+	}
+	11087.1.1 = {
+		holder = 188187 # Lakshamanadeva
+	}
+	11094.1.1 = {
+		holder = 188188 # Naravarmandeva
+	}
+	11133.1.1 = {
+		holder = 188189 # Yasovarman
+	}
+	11142.1.1 = {
+		holder = 188190 # Jayavarman I
+	}
+	11143.1.1 = {
+		holder = 188191 # Ballala of Malwa
+	}
+	11151.1.1 = {
+		holder = 188088 # Kumarapala Solanki
+	}
+	11160.1.1 = {
+		holder = 188197 # Vindhyavarman Paramara
+	}
+	11193.1.1 = {
+		holder = 188198 # Subhatavarman
+	}
+	11210.1.1 = {
+		holder = 188199 # Arjunavarman I
+	}
+	11218.1.1 = {
+		holder = 188196 # Devapala
+	}
+	11239.1.1 = {
+		holder = 188200 # Jaitugideva
+	}
+	11256.1.1 = {
+		holder = 188201 # Jayavarman II
+	}
+	11269.1.1 = {
+		holder = 188202 # Jayasimha II
+	}
+	11274.1.1 = {
+		holder = 188203 # Arjunavarman II
+	}
+	11283.1.1 = {
+		holder = 188204 # Bhoja II
+	}
+	11298.1.1 = {
+		holder = 188205 # Mahlakadeva
+	}
+	11305.1.1 = {
+		holder = 191927 # Ain-ul-Mulk Multani
+	}
+}
+
+
+c_ujjayini = {
+	11178.1.1 = { change_development_level = 30 }
+
+	10730.1.1 = {
+		holder = 188001 # Nagabhata
+		liege = d_dadhipadra
+	}
+	10765.1.1 = {
+		holder = 188003 # Kakustha
+	}
+	10770.1.1 = {
+		holder = 188004 # Devasakti
+	}
+	10780.1.1 = {
+		holder = 188005 # Vatsraja
+	}
+	10800.1.1 = {
+		holder = 188006 # Nagabhata II
+		liege = k_malwa
+	}
+	10815.1.1 = {
+		liege = k_kosala
+	}
+	10833.1.1 = {
+		holder = 188007 # Ramabhadra
+	}
+	10836.1.1 = {
+		holder = 188008 # Bhoja I
+	}
+	10885.1.1 = {
+		holder = 188009 # Mahendrapala I
+	}
+	10910.1.1 = {
+		holder = 188010 # Bhoja II
+	}
+	10912.1.1 = {
+		holder = 188011 # Mahipala
+	}
+	10944.1.1 = {
+		holder = 188012 # Mahendrapala II
+	}
+	# Paramara conquest
+	10955.1.1 = {
+		liege = d_dadhipadra
+		holder = 188181 # Siyaka II Paramara
+	}
+	10973.1.1 = {
+		holder = 188182 # Vakpati II
+	}
+	10995.1.1 = {
+		holder = 188183 # Sindhu
+	}
+	11010.1.1 = {
+		holder = 188184 # Bhoja I
+	}
+	11055.1.1 = {
+		holder = 188185 # Jayasimha
+	}
+	11069.1.1 = {
+		holder = 188186 # Udayaditya
+	}
+	11087.1.1 = {
+		holder = 188187 # Lakshamanadeva
+	}
+	11094.1.1 = {
+		holder = 188188 # Naravarmandeva
+	}
+	11133.1.1 = {
+		holder = 188189 # Yasovarman
+	}
+	11142.1.1 = {
+		holder = 188190 # Jayavarman I
+	}
+	11143.1.1 = {
+		holder = 188191 # Ballala of Malwa
+	}
+	11151.1.1 = {
+		holder = 188088 # Kumarapala Solanki
+	}
+	11160.1.1 = {
+		holder = 188197 # Vindhyavarman Paramara
+	}
+	11193.1.1 = {
+		holder = 188198 # Subhatavarman
+	}
+	11210.1.1 = {
+		holder = 188199 # Arjunavarman I
+	}
+	11218.1.1 = {
+		holder = 188196 # Devapala
+	}
+	11239.1.1 = {
+		holder = 188200 # Jaitugideva
+	}
+	11256.1.1 = {
+		holder = 188201 # Jayavarman II
+	}
+	11269.1.1 = {
+		holder = 188202 # Jayasimha II
+	}
+	11274.1.1 = {
+		holder = 188203 # Arjunavarman II
+	}
+	11283.1.1 = {
+		holder = 188204 # Bhoja II
+	}
+	11298.1.1 = {
+		holder = 188205 # Mahlakadeva
+	}
+	11305.1.1 = {
+		holder = 191927 # Ain-ul-Mulk Multani
+	}
+}
+
+
+c_dadhipadra = {
+	10570.1.1 = {
+		holder = 191624 #Dadda I Pratihara
+		government = feudal_government
+		liege = d_lata
+	}
+	10595.1.1 = {
+		holder = 191625 #Jayabhata I Pratihara
+	}
+	10620.1.1 = {
+		holder = 191626 #Dadda II Pratihara
+	}
+	10640.1.1 = {
+		holder = 191637 #Mahesvardama Chahamana
+	}
+	10650.1.1 = {
+		holder = 191638 #Bhimadama
+	}
+	10680.1.1 = {
+		holder = 191639 #Bhartrvaddha
+	}
+	10700.1.1 = {
+		holder = 191640 #Haradama
+	}
+	10730.1.1 = {
+		holder = 191641 #Dhrubhata
+	}
+	10750.1.1 = {
+		holder = 191920 #Hunas of Hunamandala
+	}
+	10780.1.1 = {
+		holder = 191922 # Hunas of Hunamandala
+	}
+	10840.1.1 = {
+		holder = 188242 #Jajjapa of Hunamandala
+	}
+	10880.1.1 = {
+		holder = 191923 #Hunas of Hunamandala
+	}
+	10948.1.1 = {
+		holder = hunas_1 #Hunas of Hunamandala
+		liege = d_dadhipadra
+	}
+	10960.1.1 = {
+		holder = hunas_2 #Hunas of Hunamandala
+	}
+	11020.1.1 = {
+		holder = hunas_3 #Hunas of Hunamandala
+	}
+	11060.1.1 = {
+		holder = hunas_6
+	}
+	11080.1.1 = {
+		holder = 188186 # Udayaditya
+	}
+	11087.1.1 = {
+		holder = 188187 # Lakshamanadeva
+	}
+	11178.1.1 = {
+		holder = 188198 # Subhatavarman
+	}
+}
+
+c_dhara = {
+	11178.1.1 = { change_development_level = 30 }
+
+	10730.1.1 = {
+		holder = 188001 # Nagabhata
+		liege = d_dadhipadra
+	}
+	10765.1.1 = {
+		holder = 188003 # Kakustha
+	}
+	10770.1.1 = {
+		holder = 188004 # Devasakti
+	}
+	10780.1.1 = {
+		holder = 188005 # Vatsraja
+	}
+	10800.1.1 = {
+		liege = d_dadhipadra
+		holder = 188176 # Upendra Paramara
+	}
+	10818.1.1 = {
+		holder = 188177 # Vairisimha I
+	}
+	10843.1.1 = {
+		holder = 188178 # Siyaka I
+	}
+	10893.1.1 = {
+		holder = 188179 # Vakpati I
+	}
+	10918.1.1 = {
+		holder = 188180 # Vairisimha II
+	}
+	10939.1.1 = {
+		holder = 188011 # Mahipala
+		liege = k_kosala
+	}
+	10944.1.1 = {
+		holder = 188012 # Mahendrapala II
+	}
+	10946.1.1 = {
+		holder = 188180 # Vairisimha II
+		liege = d_dadhipadra
+	}
+	10948.1.1 = {
+		holder = 188181 # Siyaka II
+	}
+	10973.1.1 = {
+		holder = 188182 # Vakpati II
+	}
+	10995.1.1 = {
+		holder = 188183 # Sindhu
+	}
+	11010.1.1 = {
+		holder = 188184 # Bhoja I
+	}
+	11055.1.1 = {
+		holder = 188185 # Jayasimha
+	}
+	11069.1.1 = {
+		holder = 188186 # Udayaditya
+	}
+	11087.1.1 = {
+		holder = 188187 # Lakshamanadeva
+	}
+	11094.1.1 = {
+		holder = 188188 # Naravarmandeva
+	}
+	11133.1.1 = {
+		holder = 188189 # Yasovarman
+	}
+	11142.1.1 = {
+		holder = 188190 # Jayavarman I
+	}
+	11143.1.1 = {
+		holder = 188191 # Ballala of Malwa
+	}
+	11151.1.1 = {
+		liege = k_gujarat
+		holder = 188088 # Kumarapala Solanki
+	}
+	11160.1.1 = {
+		liege = d_dadhipadra
+		holder = 188197 # Vindhyavarman Paramara
+	}
+	11178.1.1 = {
+		holder = 188198 # Subhatavarman
+	}
+	11210.1.1 = {
+		holder = 188199 # Arjunavarman I
+	}
+	11218.1.1 = {
+		holder = 188196 # Devapala
+	}
+	11239.1.1 = {
+		holder = 188200 # Jaitugideva
+	}
+	11256.1.1 = {
+		holder = 188201 # Jayavarman II
+	}
+	11269.1.1 = {
+		holder = 188202 # Jayasimha II
+	}
+	11274.1.1 = {
+		holder = 188203 # Arjunavarman II
+	}
+	11283.1.1 = {
+		holder = 188204 # Bhoja II
+	}
+	11298.1.1 = {
+		holder = 188205 # Mahlakadeva
+	}
+	11305.1.1 = {
+		holder = 191927 # Ain-ul-Mulk Multani
+	}
+}
+
+
+c_dasapura = {
+	10730.1.1 = {
+		holder = 188001 # Nagabhata I Pratihara
+		liege = d_dadhipadra
+	}
+	10765.1.1 = {
+		holder = 188003 # Kakustha
+	}
+	10770.1.1 = {
+		holder = 188004 # Devasakti
+	}
+	10780.1.1 = {
+		holder = 188005 # Vatsraja
+	}
+	10800.1.1 = {
+		holder = 188006 # Nagabhata II
+		liege = k_malwa
+	}
+	10815.1.1 = {
+		liege = k_kosala
+	}
+	10833.1.1 = {
+		holder = 191699 #Govindaraja
+	}
+	10870.1.1 = {
+		holder = 191700 #Durlabharaja
+	}
+	10900.1.1 = {
+		holder = 191701 #Indraraja
+	}
+	# Pratihara collapse and Paramara ascension
+	10946.1.1 = {
+		holder = 188180 # Vairisimha II
+		liege = d_dadhipadra
+	}
+	10948.1.1 = {
+		holder = 188181 # Siyaka II
+	}
+	10973.1.1 = {
+		holder = 188182 # Vakpati II
+	}
+	10995.1.1 = {
+		holder = 188183 # Sindhu
+	}
+	11010.1.1 = {
+		holder = 188184 # Bhoja I
+	}
+	11055.1.1 = {
+		holder = 188185 # Jayasimha
+	}
+	11069.1.1 = {
+		holder = 188186 # Udayaditya
+	}
+	11087.1.1 = {
+		holder = 188187 # Lakshamanadeva
+	}
+	11160.1.1 = {
+		holder = 188197 # Vindhyavarman Paramara
+	}
+	11178.1.1 = {
+		holder = 188198 # Subhatavarman
+		liege = k_malwa
+	}
+	11305.1.1 = {
+		holder = 191927 # Ain-ul-Mulk Multani
+	}
+}
+
+d_akara_dasarna = {
+	10867.1.1 = { change_development_level = 12 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10860.1.1 = {
+		liege = k_kosala
+		holder = 191687
+	}
+	10892.1.1 = {
+		holder = 0
+	}
+}
+
+c_sarangpur = {
+	10730.1.1 = {
+		holder = 188001 # Nagabhata
+		liege = d_dadhipadra
+	}
+	10765.1.1 = {
+		holder = 188003 # Kakustha
+	}
+	10770.1.1 = {
+		holder = 188004 # Devasakti
+	}
+	10780.1.1 = {
+		holder = 188005 # Vatsraja
+	}
+	10800.1.1 = {
+		holder = 188006 # Nagabhata II
+		liege = k_malwa
+	}
+	10815.1.1 = {
+		liege = k_kosala
+	}
+	10833.1.1 = {
+		holder = 188007 # Ramabhadra
+	}
+	10836.1.1 = {
+		holder = 188008 # Bhoja I
+	}
+	10885.1.1 = {
+		holder = 188009 # Mahendrapala I
+	}
+	10910.1.1 = {
+		holder = 188010 # Bhoja II
+	}
+	10912.1.1 = {
+		holder = 188011 # Mahipala
+	}
+	10944.1.1 = {
+		holder = 188012 # Mahendrapala II
+	}
+	10955.1.1 = {
+		holder = 188181 # Siyaka II
+		liege = d_dadhipadra
+	}
+	10973.1.1 = {
+		holder = 188182 # Vakpati II
+	}
+	10995.1.1 = {
+		holder = 188183 # Sindhu
+	}
+	11010.1.1 = {
+		holder = 188184 # Bhoja I
+	}
+	11030.1.1 = {
+		holder = 188186 #Udayaditya - Vassal of Bhoja and later Jayasimha before becoming king.
+		liege = k_malwa
+	}
+	11087.1.1 = {
+		holder = 188187 # Lakshamanadeva
+	}
+	11150.1.1 = {
+		holder = 188194 # Harischandra
+		liege = k_malwa
+	}
+	11305.1.1 = {
+		holder = 191927 # Ain-ul-Mulk Multani
+	}
+}
+
+
+c_vidisa = {
+	10730.1.1 = {
+		holder = 191877 #Rashtrakutas of Pathari
+		liege = 0
+	}
+	10760.1.1 = {
+		holder = 191874 #Jejja
+	}
+	10790.1.1 = {
+		holder = 191875 #Karkaraja
+		liege = d_kanyakubja	#Part of Dharmapalas empire
+	}
+	10840.1.1 = {
+		holder = 191876 #Parabala
+		liege = d_akara_dasarna	#Pratiharas
+	}
+	#10880.1.1 = {
+	#	holder = 0
+	#}
+	10946.1.1 = {
+		liege = k_malwa
+		holder = 188180 # Vairisimha II Paramara
+	}
+	10948.1.1 = {
+		holder = 188181 # Siyaka II
+	}
+	10973.1.1 = {
+		holder = 188182 # Vakpati II
+	}
+	10995.1.1 = {
+		holder = 188183 # Sindhu
+	}
+	11010.1.1 = {
+		holder = 188184 # Bhoja I
+	}
+	11030.1.1 = {
+		holder = 188186 #Udayaditya - Vassal of Bhoja and later Jayasimha before becoming king.
+	}
+	11087.1.1 = {
+		holder = 188187 # Lakshamanadeva
+	}
+	11094.1.1 = {
+		holder = 188188 # Naravarmandeva
+	}
+	11095.1.1 = {
+		holder = 188043 # Sallaksanavarma
+		liege = d_jejakabhukti
+	}
+	11110.1.1 = {
+		holder = 188045 # Jayavarma
+	}
+	11120.1.1 = {
+		holder = 188046 # Prithvivarma
+	}
+	11128.1.1 = {
+		holder = 188048 # Madanavarma
+	}
+	11150.1.1 = {
+		holder = 188194 # Harischandra
+		liege = k_malwa
+	}
+	11193.1.1 = {
+		holder = 188198 # Subhatavarman
+	}
+	11210.1.1 = {
+		holder = 188199 # Arjunavarman I
+	}
+	11218.1.1 = {
+		holder = 188196 # Devapala
+	}
+	11239.1.1 = {
+		holder = 188200 # Jaitugideva
+	}
+	11256.1.1 = {
+		holder = 188201 # Jayavarman II
+	}
+	11269.1.1 = {
+		holder = 188202 # Jayasimha II
+	}
+	11274.1.1 = {
+		holder = 188203 # Arjunavarman II
+	}
+	11283.1.1 = {
+		holder = 188204 # Bhoja II
+	}
+	11298.1.1 = {
+		holder = 188205 # Mahlakadeva
+	}
+	11305.1.1 = {
+		holder = 191927 # Ain-ul-Mulk Multani
+	}
+}
+
+
+c_chanderi = {
+	10730.1.1 = {
+		holder = 191877 #Rashtrakutas of Pathari
+		liege = 0
+	}
+	10760.1.1 = {
+		holder = 191874 #Jejja
+	}
+	10790.1.1 = {
+		holder = 191875 #Karkaraja
+		liege = d_kanyakubja	#Part of Dharmapalas empire
+	}
+	10820.1.1 = {
+		holder = 191686 #Sadhanva
+	}
+	10840.1.1 = {
+		liege = d_akara_dasarna	#Pratiharas
+	}
+	10860.1.1 = {
+		holder = 191687	#Avanivarman
+	}
+	#10880.1.1 = {
+	#	holder = 0
+	#}
+	11060.1.1 = {
+		liege = d_jejakabhukti
+		holder = 188041 # Kirtivarma
+	}
+	11090.1.1 = {
+		holder = 188043 # Sallaksanavarma
+	}
+	11110.1.1 = {
+		holder = 188045 # Jayavarma
+	}
+	11120.1.1 = {
+		holder = 188046 # Prithvivarma
+	}
+	11128.1.1 = {
+		holder = 188048 # Madanavarma
+	}
+	11163.1.1 = {
+		holder = 188052 # Paramardi
+	}
+	11182.1.1 = {
+		holder = 191494 #Mohanpal Singh Bundela
+		liege = k_delhi
+	}
+	11184.1.1 = {
+		liege = d_jejakabhukti
+	}
+	11197.1.1 = {
+		holder = 191495 #Abhaybhupati Singh
+	}
+	11203.1.1 = {
+		liege = k_delhi#Mu'izz al-Din conquered Delhi and made Qutb-ud-din Aibak governor
+	}
+	11206.3.15 = {
+		liege = e_rajastan
+	}
+	11215.1.1 = {
+		holder = 191496 #Arjunpal Singh
+	}
+	11231.1.1 = {
+		holder = 191497 #Virpal Singh
+	}
+	11251.1.1 = {
+		holder = 191498 #Sohanpal Singh
+	}
+	11259.1.1 = {
+		holder = 191499 #Sahjendra Singh
+	}
+	11283.1.1 = {
+		holder = 191500 #Nanak Dev Singh
+	}
+	11307.1.1 = {
+		holder = 191501 #Prithviraj Singh
+	}
+	11339.1.1 = {
+		holder = 191502 #Ram Singh
+	}
+}
+
+
+c_candhoba = {
+	10760.1.1 = {
+		holder = 191685 #Simhavarman Chaulukya (Mattamayura branch)
+		liege = k_malwa
+	}
+	10820.1.1 = {
+		holder = 191686 #Sadhanva
+	}
+	10860.1.1 = {
+		holder = 191687	#Avanivarman
+	}
+	10950.1.1 = {
+		liege = d_jejakabhukti
+		holder = 191852  # Yuvaraja Kacchapaghata
+	}
+	10970.1.1 = {
+		holder = 191853 #Arjuna
+	}
+	11020.1.1 = {
+		holder = 191854 #Abhimanyu
+	}
+	11040.1.1 = {
+		holder = 191855 #Vijayapala, conquers Bayana in 1044
+	}
+	11070.1.1 = {
+		holder = 191856 #Vikramasimha
+	}
+	11110.1.1 = {
+		holder = 191857 #Tihunapaladeva (son of Mahipala of Gwalior branch)
+	}
+	11130.1.1 = {
+		holder = 191858 #Vijayapala
+	}
+	11150.1.1 = {
+		holder = 191859 #Surapala
+	}
+	11169.1.1 = {
+		liege = k_delhi
+	}
+	11170.1.1 = {
+		holder = 191860 #Anayapala
+	}
+	11177.1.1 = {
+		holder = 188142 # Prithviraja III
+	}
+	11192.1.1 = {
+		holder = 170190 #Mu'izz al-Din conquered Gwalior and made Qutb-ud-din Aibak governor
+	}
+	11206.3.15 = {
+		liege = e_rajastan
+	}
+	11210.11.4 = {
+		holder = 170191 #Aram
+	}
+	11211.6.1 = {
+		holder = 170193 #Iltutmish
+	}
+	11215.1.1 = {
+		holder = 191496 #Arjunpal Singh
+	}
+	11221.1.1 = {
+		holder = 170193 #Iltutmish
+	}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11237.1.1 = {
+		holder = 191823#Chahada Yayvapala
+		liege = 0
+	}
+	11254.1.1 = {
+		holder = 191824#Nrivarman
+	}
+	11260.1.1 = {
+		holder = 191825#Asalla
+	}
+	11279.1.1 = {
+		holder = 191826#Gopala
+	}
+	11291.1.1 = {
+		holder = 191827#Ganapati
+	}
+	11298.1.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+		liege = e_rajastan
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+d_anupa = {
+	10867.1.1 = { change_development_level = 12 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10760.1.1 = {
+		holder = 191380	#Nandaraja
+		liege = k_karnata
+	}
+	10860.1.1 = {
+		holder = 74417
+		liege = k_karnata
+	}
+	10914.1.1 = {
+		holder = 0
+	}
+}
+
+c_mandapika = {
+	10760.1.1 = {
+		holder = 191380	#Nandaraja
+		liege = d_anupa
+	}
+	10814.1.1 = {
+		holder = 175030
+	}
+	10830.1.1 = {
+		liege = d_dadhipadra
+		holder = 188177 # Vairisimha I
+	}
+	10843.1.1 = {
+		holder = 188178 # Siyaka I
+	}
+	10893.1.1 = {
+		holder = 188179 # Vakpati I
+	}
+	10918.1.1 = {
+		holder = 188180 # Vairisimha II
+	}
+	10948.1.1 = {
+		holder = 188181 # Siyaka II
+	}
+	10973.1.1 = {
+		holder = 188182 # Vakpati II
+	}
+	10995.1.1 = {
+		holder = 188183 # Sindhu
+	}
+	11010.1.1 = {
+		holder = 188184 # Bhoja I
+	}
+	11055.1.1 = {
+		holder = 188185 # Jayasimha
+	}
+	11069.1.1 = {
+		holder = 188186 # Udayaditya
+	}
+	11087.1.1 = {
+		holder = 188187 # Lakshamanadeva
+	}
+	11178.1.1 = {
+		holder = 188197 # Vindhyavarman
+	}
+	11305.1.1 = {
+		holder = 191927 # Ain-ul-Mulk Multani
+	}
+}
+
+
+c_asirgarh = {
+	10760.1.1 = {
+		holder = 191380	#Nandaraja
+		liege = d_anupa
+	}
+	10860.1.1 = {
+		holder = 74417
+	}
+	#Ruler Placeholder until something better#
+	10946.1.1 = {
+		holder = 188180
+	}
+	10948.1.1 = {
+		holder = 188181
+	}
+	10973.1.1 = {
+		holder = 188182
+	}
+	10995.1.1 = {
+		holder = 188183
+	}
+	11010.1.1 = {
+		holder = 188184
+	}
+	11055.1.1 = {
+		holder = 188185
+		liege = k_malwa
+	}
+	11069.1.1 = {
+		holder = 188186
+	}
+	11087.1.1 = {
+		holder = 188187
+	}
+	11094.1.1 = {
+		holder = 188188
+	}
+	11133.1.1 = {
+		holder = 188189
+	}
+	11142.1.1 = {
+		holder = 188190
+	}
+	11143.1.1 = {
+		holder = 188191
+	}
+	11151.1.1 = {
+		holder = 188088
+	}
+	11160.1.1 = {
+		holder = 188197
+	}
+	11193.1.1 = {
+		holder = 188198
+	}
+	11210.1.1 = {
+		holder = 188199
+	}
+	11218.1.1 = {
+		holder = 188196
+	}
+	11239.1.1 = {
+		holder = 188200
+	}
+	11256.1.1 = {
+		holder = 188201
+	}
+	11269.1.1 = {
+		holder = 188202
+	}
+	11274.1.1 = {
+		holder = 188203
+	}
+	11283.1.1 = {
+		holder = 188204
+	}
+	11298.1.1 = {
+		holder = 188205
+	}
+	11305.1.1 = {
+		holder = 170246
+	}
+	11316.1.3 = {
+		holder = 170247
+	}
+	11316.4.1 = {
+		holder = 170248
+	}
+	11318.1.1 = {
+		holder = 170250
+	}
+	11318.6.1 = {
+		holder = 170248
+	}
+	11320.6.1 = {
+		holder = 170251
+	}
+	11320.10.1 = {
+		holder = 170257
+	}
+	11325.2.1 = {
+		holder = 170258
+	}
+	#End of Ruler Placeholder until something better#
+}
+
+
+c_burhanpur = {
+	10720.1.1 = {
+		holder = 74410
+		liege = k_karnata
+	}
+	10735.1.1 = {
+		holder = 74409	#Dantidurga Rashtrakuta
+	}
+	10756.1.1 = {
+		holder = 74413	#Krishna I
+	}
+	10774.1.1 = {
+		holder = 74414	#Govinda II
+	}
+	10780.1.1 = {
+		holder = 74415	#Dhruva
+	}
+	10793.1.1 = {
+		holder = 74416	#Govinda III
+	}
+	10814.1.1 = {
+		holder = 175030	#Amogavarsha
+	}
+	10860.1.1 = {
+		holder = 74417
+		liege = d_anupa
+	}
+	10900.1.1 = {
+		holder = 74636
+		liege = d_devagiri
+	}
+	10925.1.1 = {
+		holder = 74637
+	}
+	10950.1.1 = {
+		holder = 74638
+	}
+	10974.1.1 = {
+		holder = 74639
+	}
+	10975.1.1 = {
+		holder = 74640
+	}
+	11005.1.1 = {
+		holder = 74641
+	}
+	11020.1.1 = {
+		holder = 74642
+	}
+	11055.1.1 = {
+		holder = 74643
+	}
+	11068.1.1 = {
+		holder = 74644
+	}
+	11069.1.1 = {
+		holder = 74645
+	}
+	11085.1.1 = {
+		holder = 74646
+	}
+	11115.1.1 = {
+		holder = 74648
+	}
+	11145.1.1 = {
+		holder = 74649
+	}
+	11150.1.1 = {
+		holder = 74650
+	}
+	11160.1.1 = {
+		holder = 74651
+	}
+	11161.1.1 = {
+		holder = 74652
+	}
+	11165.1.1 = {
+		holder = 74653
+	}
+	11173.1.1 = {
+		holder = 74654
+		liege = k_maharastra
+	}
+	11192.1.1 = {
+		holder = 74655
+	}
+	11200.1.1 = {
+		holder = 74656
+	}
+	11247.1.1 = {
+		holder = 74657
+	}
+	11261.1.1 = {
+		holder = 74658
+	}
+	11271.1.1 = {
+		holder = 74659
+	}
+	11272.1.1 = {
+		holder = 74660
+	}
+	11311.1.1 = {
+		holder = 74661
+	}
+	11312.1.1 = {
+		holder = 74662
+	}
+}
+
+
+c_thalner = {
+	10760.1.1 = {
+		holder = 191380	#Nandaraja
+		liege = d_anupa
+	}
+	10860.1.1 = {
+		holder = 74417
+	}
+	#Ruler Placeholder until something better#
+	10946.1.1 = {
+		holder = 188180
+	}
+	10948.1.1 = {
+		holder = 188181
+	}
+	10973.1.1 = {
+		holder = 188182
+	}
+	10995.1.1 = {
+		holder = 188183
+	}
+	11010.1.1 = {
+		holder = 188184
+	}
+	11055.1.1 = {
+		holder = 188185
+		liege = k_malwa
+	}
+	11069.1.1 = {
+		holder = 188186
+	}
+	11087.1.1 = {
+		holder = 188187
+	}
+	11094.1.1 = {
+		holder = 188188
+	}
+	11133.1.1 = {
+		holder = 188189
+	}
+	11142.1.1 = {
+		holder = 188190
+	}
+	11143.1.1 = {
+		holder = 188191
+	}
+	11151.1.1 = {
+		holder = 188088
+	}
+	11160.1.1 = {
+		holder = 188197
+	}
+	11193.1.1 = {
+		holder = 188198
+	}
+	11210.1.1 = {
+		holder = 188199
+	}
+	11218.1.1 = {
+		holder = 188196
+	}
+	11239.1.1 = {
+		holder = 188200
+	}
+	11256.1.1 = {
+		holder = 188201
+	}
+	11269.1.1 = {
+		holder = 188202
+	}
+	11274.1.1 = {
+		holder = 188203
+	}
+	11283.1.1 = {
+		holder = 188204
+	}
+	11298.1.1 = {
+		holder = 188205
+	}
+	11305.1.1 = {
+		holder = 170246
+	}
+	11316.1.3 = {
+		holder = 170247
+	}
+	11316.4.1 = {
+		holder = 170248
+	}
+	11318.1.1 = {
+		holder = 170250
+	}
+	11318.6.1 = {
+		holder = 170248
+	}
+	11320.6.1 = {
+		holder = 170251
+	}
+	11320.10.1 = {
+		holder = 170257
+	}
+	11325.2.1 = {
+		holder = 170258
+	}
+	#End of Ruler Placeholder until something better#
+}
+

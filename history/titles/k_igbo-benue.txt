@@ -1,0 +1,471 @@
+k_igbo-benue = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 6 }
+}
+
+c_igbo = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 6 }
+
+	10860.1.1 = {
+		holder = igbo0014
+		government = tribal_government
+	}
+	10899.1.1 = {
+		holder = igbo0013
+	}
+	10948.1.1 = {
+		holder = igbo0012
+	}
+	
+	10978.1.1 = {
+		holder = igbo0001
+		#government = clan_government
+	}
+	11041.1.1 = {
+		holder = igbo0002
+	}
+	11043.1.1 = {
+		holder = igbo0003
+	}
+	11088.1.1 = {
+		holder = igbo0005
+	}
+	11149.1.1 = {
+		holder = igbo0006
+	}
+	11180.1.1 = {
+		holder = igbo0007
+	}
+	11199.1.1 = {
+		holder = igbo0008
+	}
+	11220.1.1 = {
+		holder = igbo0009
+	}
+	11243.1.1 = {
+		holder = igbo0010
+	}
+	11260.1.1 = {
+		holder = igbo0011
+	}
+}
+
+
+c_idoma = {
+	10860.1.1 = {
+		holder = igbo0019
+		government = tribal_government
+	}
+	10893.1.1 = {
+		holder = igbo0020
+	}
+	
+	11043.1.1 = {
+		holder = igbo0021
+	}
+	11079.1.1 = {
+		holder = igbo0022
+	}
+	11109.1.1 = {
+		holder = igbo0023
+	}
+	11131.1.1 = {
+		holder = igbo0024
+	}
+	11166.1.1 = {
+		holder = igbo0025
+	}
+}
+
+
+c_igala = {
+	10860.1.1 = {
+		holder = igbo0026
+		government = tribal_government
+	}
+	10888.1.1 = {
+		holder = igbo0027
+	}
+	
+	11053.1.1 = {
+		holder = igbo0028
+	}
+	11075.1.1 = {
+		holder = igbo0029
+	}
+	11107.1.1 = {
+		holder = igbo0030
+	}
+	11122.1.1 = {
+		holder = igbo0031
+	}
+	11159.1.1 = {
+		holder = igbo0032
+	}
+	11190.1.1 = {
+		holder = igbo0033
+	}
+}
+
+
+c_ijaw = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 6 }
+
+	10860.1.1 = {
+		holder = igbo0014
+		government = tribal_government
+	}
+	10899.1.1 = {
+		holder = igbo0013
+	}
+	10948.1.1 = {
+		holder = igbo0012
+	}
+	
+	10978.1.1 = {
+		holder = igbo0001
+		#government = clan_government
+	}
+	11041.1.1 = {
+		holder = igbo0002
+	}
+	11043.1.1 = {
+		holder = igbo0003
+	}
+	11088.1.1 = {
+		holder = igbo0005
+	}
+	11149.1.1 = {
+		holder = igbo0006
+	}
+	11180.1.1 = {
+		holder = igbo0007
+	}
+	11199.1.1 = {
+		holder = igbo0008
+	}
+	11220.1.1 = {
+		holder = igbo0009
+	}
+	11243.1.1 = {
+		holder = igbo0010
+	}
+	11260.1.1 = {
+		holder = igbo0011
+	}
+}
+
+
+c_ibibo = {
+	10860.1.1 = {
+		holder = igbo0015
+		government = tribal_government
+	}
+	10893.1.1 = {
+		holder = igbo0016
+	}
+	
+	11059.1.1 = {
+		holder = igbo0017
+	}
+	11092.1.1 = {
+		holder = igbo0018
+	}
+	11118.1.1 = {
+		holder = igbo0034
+	}
+	11137.1.1 = {
+		holder = igbo0035
+	}
+	11162.1.1 = {
+		holder = igbo0036
+	}
+}
+
+d_nupe = {
+	# d_nupe
+	
+	11043.1.1 = {
+		government = tribal_government
+		holder = nupe0003
+	}
+	11080.1.1 = {
+		holder = nupe0004
+	}
+	11104.1.1 = {
+		holder = nupe0005
+	}
+	11139.1.1 = {
+		holder = nupe0006
+	}
+	11172.1.1 = {
+		holder = nupe0007
+	}
+	11196.1.1 = {
+		holder = nupe0008
+	}
+}
+
+c_nupe = {
+	10860.1.1 = {
+		holder = nupe0009
+		government = tribal_government
+	}
+	10895.1.1 = {
+		holder = nupe0010
+	}
+	
+	11045.1.1 = {
+		holder = nupe0011
+	}
+	11078.1.1 = {
+		holder = nupe0012
+	}
+	11091.1.1 = {
+		holder = nupe0013
+	}
+	11129.1.1 = {
+		holder = nupe0014
+	}
+	11167.1.1 = {
+		holder = nupe0015
+	}
+	11201.1.1 = {
+		holder = nupe0016
+	}
+}
+
+
+c_guwari = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 4 }
+	11178.1.1 = { change_development_level = 6 }
+
+	10866.1.1 = {
+		government = tribal_government
+		holder = nupe0017
+	}
+	10899.1.1 = {
+		holder = nupe0018
+	}
+	10915.1.1 = {
+		holder = nupe0019
+	}
+	10949.1.1 = {
+		holder = nupe0020
+	}
+	10960.1.1 = {
+		holder = nupe0021
+	}
+	11009.1.1 = {
+		holder = nupe0022
+	}
+	11043.1.1 = {
+		holder = nupe0023
+	}
+	11066.1.1 = {
+		holder = nupe0024
+	}
+	11103.1.1 = {
+		holder = nupe0025
+	}
+	11117.1.1 = {
+		holder = nupe0026
+	}
+	11153.1.1 = {
+		holder = nupe0027
+	}
+	11187.1.1 = {
+		holder = nupe0028
+	}
+	11203.1.1 = {
+		holder = nupe0029
+	}
+}
+
+
+c_opanda = {
+	10860.1.1 = {
+		holder = nupe0001
+		government = tribal_government
+	}
+	10901.1.1 = {
+		holder = nupe0002
+	}
+	
+	11043.1.1 = {
+		liege = d_nupe
+		holder = nupe0003
+	}
+	11080.1.1 = {
+		holder = nupe0004
+	}
+	11104.1.1 = {
+		holder = nupe0005
+	}
+	11139.1.1 = {
+		holder = nupe0006
+	}
+	11172.1.1 = {
+		holder = nupe0007
+	}
+	11196.1.1 = {
+		holder = nupe0008
+	}
+}
+
+
+c_kyadya = {
+	10860.1.1 = {
+		holder = nupe0030
+		government = tribal_government
+	}
+	10880.1.1 = {
+		holder = nupe0031
+	}
+	10931.1.1 = {
+		holder = nupe0032
+	}
+	10993.1.1 = {
+		holder = nupe0033
+	}
+	11056.1.1 = {
+		holder = nupe0034
+	}
+	11058.1.1 = {
+		liege = d_nupe
+	}
+	11087.1.1 = {
+		holder = nupe0035
+	}
+	11105.1.1 = {
+		holder = nupe0036
+	}
+	11137.1.1 = {
+		holder = nupe0037
+	}
+	11168.1.1 = {
+		holder = nupe0038
+	}
+	11198.1.1 = {
+		holder = nupe0039
+	}
+	11218.1.1 = {
+		holder = nupe0040
+	}
+}
+
+
+c_kwararafa = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 4 }
+	11178.1.1 = { change_development_level = 6 }
+
+	10865.1.1 = {
+		holder = nupe0045
+		government = tribal_government
+	}
+	10915.1.1 = {
+		holder = nupe0046
+	}
+	10968.1.1 = {
+		holder = nupe0047
+	}
+	11038.1.1 = {
+		holder = nupe0048
+	}
+	11078.1.1 = {
+		holder = nupe0049
+	}
+	11102.1.1 = {
+		holder = nupe0050
+	}
+	11149.1.1 = {
+		holder = nupe0051
+	}
+	11180.1.1 = {
+		holder = nupe0052
+	}
+	11212.1.1 = {
+		holder = nupe0053
+	}
+	11230.1.1 = {
+		holder = nupe0054
+	}
+}
+
+
+c_keffi = {
+	10860.1.1 = {
+		holder = nupe0001
+		government = tribal_government
+	}
+	10901.1.1 = {
+		holder = nupe0002
+	}
+	
+	11043.1.1 = {
+		liege = d_nupe
+		holder = nupe0003
+	}
+	11080.1.1 = {
+		holder = nupe0004
+	}
+	11104.1.1 = {
+		holder = nupe0005
+	}
+	11139.1.1 = {
+		holder = nupe0006
+	}
+	11172.1.1 = {
+		holder = nupe0007
+	}
+	11196.1.1 = {
+		holder = nupe0008
+	}
+}
+
+
+c_bauchi = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 4 }
+	11178.1.1 = { change_development_level = 6 }
+
+	10865.1.1 = {
+		holder = nupe0045
+		government = tribal_government
+	}
+	10915.1.1 = {
+		holder = nupe0046
+	}
+	10968.1.1 = {
+		holder = nupe0047
+	}
+	11038.1.1 = {
+		holder = nupe0048
+	}
+	11078.1.1 = {
+		holder = nupe0049
+	}
+	11102.1.1 = {
+		holder = nupe0050
+	}
+	11149.1.1 = {
+		holder = nupe0051
+	}
+	11180.1.1 = {
+		holder = nupe0052
+	}
+	11212.1.1 = {
+		holder = nupe0053
+	}
+	11230.1.1 = {
+		holder = nupe0054
+	}
+}
+

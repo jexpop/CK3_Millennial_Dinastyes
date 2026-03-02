@@ -1,0 +1,179 @@
+﻿# Samaritan priesthood
+
+samaritan_priesthood_eleazar_viii = {
+	name = "Eleazar"
+	religion = "samaritan"
+	culture = "bavlim"
+	trait = education_learning_3
+	10585.1.1 = {
+		birth = "10585.1.1"
+	}
+	10660.1.1 = {
+		death = "10660.1.1"
+	}
+}
+# Roughly 62 years between the reign of each Priest between Eleazar VIII and Simeon I
+samaritan_priesthood_netaniel_vi = {
+	name = "Netaniel"
+	religion = "samaritan"
+	culture = "bavlim"
+	trait = education_learning_3
+	10640.1.1 = {
+		birth = "10640.1.1"
+	}
+	10725.1.1 = {
+		death = "10725.1.1"
+	}
+}
+samaritan_priesthood_eleazar_ix = {
+	name = "Eleazar"
+	religion = "samaritan"
+	culture = "bavlim"
+	trait = education_learning_3
+	10695.1.1 = {
+		birth = "10695.1.1"
+	}
+	10782.1.1 = {
+		death = "10782.1.1"
+	}
+}
+samaritan_priesthood_akabon_vii = {
+	name = "Akabon"
+	religion = "samaritan"
+	culture = "bavlim"
+	trait = education_learning_3
+	10755.1.1 = {
+		birth = "10755.1.1"
+	}
+	10843.1.1 = {
+		death = "10843.1.1"
+	}
+}
+samaritan_priesthood_eleazar_x = {
+	name = "Eleazar"
+	religion = "samaritan"
+	culture = "bavlim"
+	trait = education_learning_3
+	10836.1.1 = {
+		birth = "10836.1.1"
+	}
+	10901.1.1 = {
+		death = "10901.1.1"
+	}
+}
+samaritan_priesthood_akabon_viii = {
+	name = "Akabon"
+	religion = "samaritan"
+	culture = "bavlim"
+	trait = education_learning_3
+	10880.1.1 = {
+		birth = yes
+	}
+	10943.1.1 = {
+		death = yes
+	}
+}
+samaritan_priesthood_eleazar_xi = {
+	name = "Eleazar"
+	religion = "samaritan"
+	culture = "bavlim"
+	trait = education_learning_3
+	10900.1.1 = {
+		birth = yes
+	}
+	10973.1.1 = {
+		death = yes
+	}
+}
+samaritan_priesthood_akabon_ix = {
+	name = "Akabon"
+	religion = "samaritan"
+	culture = "bavlim"
+	trait = education_learning_3
+	10943.1.1 = {
+		birth = yes
+	}
+	11012.1.1 = {
+		death = yes
+	}
+}
+samaritan_priesthood_eleazar_xii = {
+	name = "Eleazar"
+	religion = "samaritan"
+	culture = "bavlim"
+	trait = education_learning_3
+	11001.1.1 = {
+		birth = yes
+	}
+	11066.1.1 = {
+		death = yes
+	}
+}
+
+samaritan_priesthood_simeon_i = {
+	name = "Simeon"
+	martial = 10
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	learning = 5
+	religion = "samaritan"
+	culture = "bavlim"
+	trait = education_learning_3
+	trait = brave
+	trait = zealous
+	11010.1.1 = {
+		birth = "11010.1.1"
+	}
+	11090.1.1 = {
+		death = "11090.1.1"
+	}
+}
+
+samaritan_priesthood_1 = {
+	name = "Amram" # Amram V, 1088-1116
+	religion = "samaritan"
+	culture = "bavlim"
+	11067.1.1 = {
+		birth = yes
+	}
+	11116.1.1 = {
+		death = yes
+	}
+}
+
+samaritan_priesthood_2 = {
+	name = "Aaron" # Aaron III, 1116-1137
+	religion = "samaritan"
+	culture = "bavlim"
+	11091.1.1 = {
+		birth = yes
+	}
+	11137.1.1 = {
+		death = yes
+	}
+}
+
+samaritan_priesthood_3 = {
+	name = "Amram" # Amram VI, 1137-1164
+	religion = "samaritan"
+	culture = "bavlim"
+	11112.1.1 = {
+		birth = yes
+	}
+	11164.1.1 = {
+		death = yes
+	}
+}
+
+samaritan_priesthood_4 = {
+	name = "Aaron" # Aaron IV, 1164-1190
+	religion = "samaritan"
+	culture = "bavlim"
+	11139.1.1 = {
+		birth = yes
+	}
+	11190.1.1 = {
+		death = yes
+	}
+}

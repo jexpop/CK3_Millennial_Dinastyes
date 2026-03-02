@@ -1,0 +1,226 @@
+﻿d_bedford = {
+	color = { 241 15 15 }
+
+	capital = c_middlesex
+
+	cultural_names = {
+		name_list_anglo_saxon = cn_east_seaxe
+		name_list_old_saxon = cn_east_seaxe
+	}
+
+	c_middlesex = {
+		color = { 230 5 5 }
+		cultural_names = {
+			# Ancient
+			name_list_briton = cn_briton_ritubria
+						
+			name_list_anglo_saxon = cn_middle_seaxe
+			name_list_old_saxon = cn_middle_seaxe
+		}
+
+		b_london = {
+			province = 1527
+			color = { 230 5 5 }
+			cultural_names = {
+				# Ancient
+				name_list_briton = cn_briton_ritubria
+
+				name_list_anglo_saxon = cn_lunden
+				name_list_old_saxon = cn_lunden
+
+				name_list_roman = cn_londinium
+
+				name_list_welsh = cn_llundein
+				name_list_cornish = cn_llundein
+				name_list_breton = cn_llundein
+				name_list_cumbrian = cn_llundein
+				name_list_pictish = cn_llundein
+
+				name_list_norman = cn_londres
+				name_list_scottish = cn_lunnon
+			}
+		}
+	}
+	c_southwark = {
+		cultural_names = {
+			name_list_anglo_saxon = cn_suthweorc
+			name_list_old_saxon = cn_suthweorc
+		}
+		color = { 230 5 5 }
+
+		b_southwark = {
+			province = 1526
+			cultural_names = {
+				name_list_anglo_saxon = cn_suthweorc
+				name_list_old_saxon = cn_suthweorc
+			}
+			color = { 230 5 5 }
+		}
+	}
+	c_woxbrigge = {
+		color = { 230 5 5 }
+
+		b_woxbrigge = {
+			province = 1528
+			color = { 230 5 5 }
+		}
+	}
+	c_gore = {
+		color = { 230 5 5 }
+
+		b_gore = {
+			province = 1529
+			color = { 230 5 5 }
+		}
+	}
+	c_brentford = {
+		color = { 230 5 5 }
+
+		b_brentford = {
+			province = 1530
+			color = { 230 5 5 }
+		}
+	}
+	c_essex = {
+		color = { 220 20 30 }
+		cultural_names = {
+			name_list_anglo_saxon = cn_east_seaxe
+			name_list_old_saxon = cn_east_seaxe
+		}
+
+		b_colchester = {
+			province = 1514
+			cultural_names = {
+				name_list_anglo_saxon = cn_colenceaster
+				name_list_old_saxon = cn_colenceaster
+			}
+			color = { 220 20 30 }
+		}
+	}
+	c_maldon = {
+		color = { 220 20 30 }
+
+		b_maldon = {
+			province = 1515
+			color = { 220 20 30 }
+		}
+	}
+	c_chelmsford = {
+		color = { 220 20 30 }
+
+		b_chelmsford = {
+			province = 1516
+			color = { 220 20 30 }
+		}
+	}
+	c_dunmow = {
+		color = { 220 20 30 }
+
+		b_dunmow = {
+			province = 1517
+			color = { 220 20 30 }
+		}
+	}
+	c_bedford = {
+		cultural_names = {
+			name_list_anglo_saxon = cn_bedanford
+			name_list_old_saxon = cn_bedanford
+		}
+		color = { 205 20 15 }
+
+		b_bedford = {
+			province = 1538
+			cultural_names = {
+				name_list_anglo_saxon = cn_bedanford
+				name_list_old_saxon = cn_bedanford
+			}
+			color = { 205 20 15 }
+		}
+	}
+	c_ampthill = {
+		color = { 205 20 15 }
+
+		b_ampthill = {
+			province = 1539
+			color = { 205 20 15 }
+		}
+	}
+	c_luton = {
+		color = { 205 20 15 }
+
+		b_luton = {
+			province = 1540
+			color = { 205 20 15 }
+		}
+	}
+
+	c_hertfordshire = {
+		color = { 250 35 35 }
+		cultural_names = {
+			name_list_anglo_saxon = cn_herutford
+			name_list_old_saxon = cn_herutford
+		}
+
+		b_berkhamsted = {
+			province = 1531
+			color = { 250 35 35 }
+		}
+	}
+	c_saint_albans = {
+		color = { 250 35 35 }
+
+		b_saint_albans = {
+			province = 1532
+			color = { 250 35 35 }
+		}
+	}
+	c_hertford = {
+		color = { 250 35 35 }
+
+		b_hertford = {
+			province = 1533
+			color = { 250 35 35 }
+		}
+	}
+
+	c_buckinghamshire = {
+		color = { 200 25 25 }
+		cultural_names = {
+			name_list_anglo_saxon = cn_buccingahamm
+			name_list_old_saxon = cn_buccingahamm
+		}
+
+		b_buckingham = {
+			province = 1551
+			cultural_names = {
+				name_list_anglo_saxon = cn_buccingahamm
+				name_list_old_saxon = cn_buccingahamm
+			}
+			color = { 200 25 25 }
+		}
+	}
+	c_aylesbury = {
+		color = { 200 25 25 }
+
+		b_aylesbury = {
+			province = 1552
+			color = { 200 25 25 }
+		}
+	}
+	c_newport = {
+		color = { 200 25 25 }
+
+		b_newport = {
+			province = 1553
+			color = { 200 25 25 }
+		}
+	}
+	c_wycombe = {
+		color = { 200 25 25 }
+
+		b_wycombe = {
+			province = 1554
+			color = { 200 25 25 }
+		}
+	}
+}

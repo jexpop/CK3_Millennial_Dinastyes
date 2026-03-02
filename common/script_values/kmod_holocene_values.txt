@@ -1,0 +1,11 @@
+﻿holocene_year_calculation = {
+    if = {
+        limit = { current_year < 10000 }
+        value = 10000
+        subtract = current_year
+    }
+    else = {
+        value = current_year
+        subtract = 10000
+    }
+}

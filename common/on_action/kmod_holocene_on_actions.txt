@@ -1,0 +1,11 @@
+﻿yearly_playable_pulse = {
+    on_actions = {
+        holocene_yearly_update
+    }
+}
+
+holocene_yearly_update = {
+    effect = {
+        update_holocene_date = yes 
+    }
+}

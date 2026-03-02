@@ -1,0 +1,1967 @@
+k_tahert = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 20 }
+}
+
+d_tlemcen = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 17 }
+
+	10741.1.1 = {
+		government = clan_government
+		holder = 210032
+	}
+	10790.1.1 = {
+		holder = 0
+	}
+	11060.1.1 = {
+		holder = 155018
+	}
+	11082.1.1 = {
+		liege = "k_maghreb"
+	}
+	11082.1.1 = {
+		holder = 155035
+	}
+	11092.1.1 = {
+		holder = 155080
+	}
+	11115.1.1 = {
+		holder = 155064
+	}
+	11120.1.1 = {
+		holder = 155065
+	}
+	11143.1.1 = {
+		holder = 155082
+	}
+	11145.1.1 = {
+		liege = 0
+	}
+	11145.1.1 = {
+		holder = 32978
+	}
+	11147.1.1 = {
+		liege = "k_maghreb"
+	}
+	11147.1.1 = {
+		holder = 33012
+	}
+	11156.1.1 = {
+		holder = 155086
+	}
+	11175.1.1 = {
+		holder = almohad_8 # Ali
+	}
+	11196.1.1 = {
+		holder = 32988
+	}
+	11229.1.1 = {
+		holder = 155110
+	}
+	11232.1.1 = {
+		holder = 155111
+	}
+	11234.1.1 = {
+		holder = 155112
+	}
+	11236.1.1 = {
+		liege = 0
+	}
+	11236.1.1 = {
+		holder = 33045
+	}
+	11242.1.1 = {
+		liege = "k_africa"
+	}
+	11248.1.1 = {
+		liege = 0
+	}
+	11283.1.1 = {
+		holder = 33046
+	}
+	11304.1.1 = {
+		holder = 33047
+	}
+	11308.1.1 = {
+		holder = 33048
+	}
+	11318.1.1 = {
+		holder = 33049
+	}
+
+}
+
+c_tlemcen = {
+	10867.1.1 = {	change_development_level = 10 }
+	11066.1.1 = { change_development_level = 16 }
+	11178.1.1 = { change_development_level = 31 }
+
+	10741.1.1 = {
+		holder = 210032
+		liege = d_tlemcen
+		government = clan_government
+	}
+	10823.1.1 = {
+		liege = "d_alger"
+		holder = 163097
+	}
+	10866.1.1 = {
+		holder = 163150
+	}
+	10877.1.1 = {
+		liege = 0
+	}
+	11060.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11060.1.1 = {
+		holder = 155018
+	}
+	11082.1.1 = {
+		holder = 155035
+	}
+	11092.1.1 = {
+		holder = 155080
+	}
+	11115.1.1 = {
+		holder = 155064
+	}
+	11120.1.1 = {
+		holder = 155065
+	}
+	11143.1.1 = {
+		holder = 155082
+	}
+	11145.1.1 = {
+		holder = 32978
+	}
+	11147.1.1 = {
+		holder = 33012
+	}
+	11156.1.1 = {
+		holder = 155086
+	}
+	11175.1.1 = {
+		holder = almohad_8 # Ali
+	}
+	11196.1.1 = {
+		holder = 32988
+	}
+	11229.1.1 = {
+		holder = 155110
+	}
+	11232.1.1 = {
+		holder = 155111
+	}
+	11234.1.1 = {
+		holder = 155112
+	}
+	11236.1.1 = {
+		holder = 33045
+	}
+	11283.1.1 = {
+		holder = 33046
+	}
+	11304.1.1 = {
+		holder = 33047
+	}
+	11308.1.1 = {
+		holder = 33048
+	}
+	11318.1.1 = {
+		holder = 33049
+	}
+	11337.1.1 = {
+		liege = "k_maghreb"
+	}
+	11337.1.1 = {
+		holder = 33004
+	}
+}
+
+
+c_wajda = {
+	10767.1.1 = {
+		holder = 210037
+	}
+	10788.1.1 = {
+		liege = "k_maghreb"
+	}
+	10788.1.1 = {
+		holder = 159501
+	}
+	10791.12.16 = {
+		holder = 159502
+	}
+	10828.1.1 = {
+		holder = 159503
+	}
+	10836.1.1 = {
+		holder = 159504
+	}
+	10848.1.1 = {
+		holder = 159505
+	}
+	10864.1.1 = {
+		holder = 159506
+	}
+	10866.1.1 = {
+		government = clan_government
+		#liege = "d_fes"
+		holder = 159508
+	}
+
+	11015.1.1 = {
+		holder = 155001
+	}
+	11039.1.1 = {
+		holder = 155002
+	}
+	11066.1.1 = {
+		holder = 155003
+	}
+	11070.3.18 = {
+		liege = 0
+	}
+	11075.1.1 = {
+		liege = "d_fes" #under Almoravid
+		holder = 155033
+	}
+	11092.1.1 = {
+		holder = 155083
+	}
+	11106.12.6 = {
+		holder = 155075
+	}
+	11115.1.1 = {
+		holder = 155083
+	}
+	11152.1.1 = {
+		holder = 155088
+	}
+	11163.1.1 = {
+		holder = 155085
+	}
+	11175.1.1 = {
+		holder = almohad_8 # Ali
+	}
+	11191.1.1 = {
+		holder = 32983
+	}
+	11212.7.16 = {
+		liege = "k_maghreb"
+	}
+	11212.7.16 = {
+		holder = 32993
+	}
+	11217.1.1 = {
+		holder = 32994
+	}
+	11240.1.1 = {
+		holder = 32995
+	}
+	11244.1.1 = {
+		liege = 0
+	}
+	11244.1.1 = {
+		holder = 32996
+	}
+	11248.1.1 = {
+		liege = "d_fes"
+	}
+	11258.1.1 = {
+		holder = 32997
+	}
+	11286.3.20 = {
+		holder = 32998
+	}
+	11307.5.13 = {
+		holder = 33000
+	}
+	11308.7.28 = {
+		holder = 33001
+	}
+	11310.11.23 = {
+		holder = 33003
+	}
+	11316.1.1 = {
+		holder = 33004
+	}
+
+}
+
+
+c_orania = {
+	10867.1.1 = {	change_development_level = 10 }
+	11066.1.1 = { change_development_level = 16 }
+	11178.1.1 = { change_development_level = 18 }
+	
+	10741.1.1 = {
+		government = clan_government
+		liege = "d_tlemcen"
+		holder = 210032
+	}
+	10823.1.1 = {
+		liege = "d_alger"
+		holder = 163097
+	}
+	10866.1.1 = {
+		holder = 163148
+	}
+	10877.1.1 = {
+		liege = 0
+	}
+	11060.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11060.1.1 = {
+		holder = 155018
+	}
+	11082.1.1 = {
+		holder = 155035
+	}
+	11092.1.1 = {
+		holder = 155080
+	}
+	11115.1.1 = {
+		holder = 155064
+	}
+	11120.1.1 = {
+		holder = 155065
+	}
+	11143.1.1 = {
+		holder = 155082
+	}
+	11145.1.1 = {
+		holder = 32978
+	}
+	11147.1.1 = {
+		holder = 33012
+	}
+	11152.1.1 = {
+		liege = "k_maghreb"
+	}
+	11152.1.1 = {
+		holder = 155091
+	}
+	11180.1.1 = {
+		holder = 155092
+	}
+	11190.1.1 = {
+		holder = 155093
+	}
+	11226.1.1 = {
+		holder = 155094
+	}
+	11236.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11236.1.1 = {
+		holder = 33045
+	}
+	11283.1.1 = {
+		holder = 33046
+	}
+	11304.1.1 = {
+		holder = 33047
+	}
+	11308.1.1 = {
+		holder = 33048
+	}
+	11318.1.1 = {
+		holder = 33049
+	}
+
+}
+
+
+c_hunyan = {
+	10741.1.1 = {
+		liege = "d_tlemcen"
+		holder = 210032
+		government = clan_government
+	}
+	10823.1.1 = {
+		liege = "d_alger"
+		holder = 163097
+	}
+	10866.1.1 = {
+		holder = 163148
+	}
+	10877.1.1 = {
+		liege = 0
+	}
+	11066.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11066.1.1 = {
+		holder = 155007
+	}
+	11082.1.1 = {
+		holder = 155035
+	}
+	11092.1.1 = {
+		holder = 155080
+	}
+	11115.1.1 = {
+		holder = 155064
+	}
+	11120.1.1 = {
+		holder = 155065
+	}
+	11143.1.1 = {
+		holder = 155082
+	}
+	11145.1.1 = {
+		holder = 32978
+	}
+	11147.1.1 = {
+		holder = 33012
+	}
+	11156.1.1 = {
+		holder = 155086
+	}
+	11175.1.1 = {
+		holder = almohad_8 # Ali
+	}
+	11196.1.1 = {
+		holder = 32988
+	}
+	11229.1.1 = {
+		holder = 155110
+	}
+	11232.1.1 = {
+		holder = 155111
+	}
+	11234.1.1 = {
+		holder = 155112
+	}
+	11236.1.1 = {
+		holder = 33045
+	}
+	11283.1.1 = {
+		holder = 33046
+	}
+	11304.1.1 = {
+		holder = 33047
+	}
+	11308.1.1 = {
+		holder = 33048
+	}
+	11318.1.1 = {
+		holder = 33049
+	}
+	11337.1.1 = {
+		liege = "k_maghreb"
+	}
+	11337.1.1 = {
+		holder = 33004
+	}
+
+}
+
+#d_tahert = {
+#	10800.1.1 = {
+#		change_development_level = 4
+#	}
+#	
+#	11001.1.1 = {
+#		change_development_level = 7
+#	}
+#	
+#	11101.1.1 = {
+#		change_development_level = 11
+#	}
+#
+#}
+
+c_tahert = {
+	10867.1.1 = {	change_development_level = 10 }
+	11066.1.1 = { change_development_level = 16 }
+	11178.1.1 = { change_development_level = 18 }
+
+	10768.1.1 = {
+		holder = 210029
+	}
+	10784.1.1 = {
+		holder = 210030
+	}
+	10823.1.1 = {
+		government = clan_government
+		liege = "d_alger"
+		holder = 163097
+	}
+	10877.1.1 = {
+		liege = "d_alger"
+	}
+	11066.1.1 = {
+		holder = 155021
+	}
+	11109.1.1 = {
+		holder = 155022
+	}
+	11152.1.1 = {
+		liege = "k_maghreb"
+	}
+	11152.1.1 = {
+		holder = 155104
+	}
+	11182.1.1 = {
+		holder = 155105
+	}
+	11210.1.1 = {
+		holder = 155170
+	}
+	11242.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11253.1.1 = {
+		liege = 0
+	}
+	11253.1.1 = {
+		holder = 155171
+	}
+	11281.1.1 = {
+		holder = 155106
+	}
+	11290.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11310.1.1 = {
+		holder = 155107
+	}
+}
+
+
+c_yalala = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10767.1.1 = {
+		holder = 210036
+	}
+	10823.1.1 = {
+		government = clan_government
+		liege = "d_alger"
+		holder = 163097
+	}
+	10877.1.1 = {
+		liege = "d_alger"
+	}
+	11066.1.1 = {
+		holder = 155023
+	}
+	11083.1.1 = {
+		liege = "d_fes"
+	}
+	11083.1.1 = {
+		holder = 155033
+	}
+	11092.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11092.1.1 = {
+		holder = 155080
+	}
+	11115.1.1 = {
+		holder = 155064
+	}
+	11120.1.1 = {
+		holder = 155065
+	}
+	11143.1.1 = {
+		holder = 155082
+	}
+	11145.1.1 = {
+		holder = 32978
+	}
+	11147.1.1 = {
+		holder = 33012
+	}
+	11152.1.1 = {
+		liege = "k_maghreb"
+	}
+	11152.1.1 = {
+		holder = 155091
+	}
+	11180.1.1 = {
+		holder = 155092
+	}
+	11190.1.1 = {
+		holder = 155093
+	}
+	11226.1.1 = {
+		holder = 155094
+	}
+	11236.1.1 = {
+		liege = "k_africa"
+	}
+	11249.1.1 = {
+		holder = 155095
+	}
+	11253.1.1 = {
+		liege = 0
+	}
+	11253.1.1 = {
+		holder = 155171
+	}
+	11281.1.1 = {
+		holder = 155106
+	}
+	11290.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11310.1.1 = {
+		holder = 155107
+	}
+}
+
+
+c_ashir = {
+	10768.1.1 = {
+		government = clan_government
+		holder = 210029
+	}
+	10784.1.1 = {
+		holder = 210030
+	}
+	10823.1.1 = {
+		liege = "d_alger"
+	}
+	10823.1.1 = {
+		holder = 163097
+	}
+	10877.1.1 = {
+		liege = "d_alger"
+	}
+	11066.1.1 = {
+		holder = 155021
+	}
+	11109.1.1 = {
+		holder = 155022
+	}
+	11152.1.1 = {
+		liege = "k_maghreb"
+	}
+	11152.1.1 = {
+		holder = 155104
+	}
+	11182.1.1 = {
+		holder = 155105
+	}
+	11210.1.1 = {
+		holder = 155170
+	}
+	11242.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11253.1.1 = {
+		liege = 0
+	}
+	11253.1.1 = {
+		holder = 155171
+	}
+	11281.1.1 = {
+		holder = 155106
+	}
+	11290.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11310.1.1 = {
+		holder = 155107
+	}
+}
+
+
+c_figuig = {
+	10768.1.1 = {
+		government = tribal_government
+		holder = 210029
+	}
+	10784.1.1 = {
+		holder = 210030
+	}
+	10823.1.1 = {
+		liege = "d_alger"
+		holder = 163097
+	}
+	10877.1.1 = {
+		liege = "d_alger"
+	}
+	11066.1.1 = {
+		holder = 155021
+	}
+	11109.1.1 = {
+		holder = 155022
+	}
+	11152.1.1 = {
+		liege = "k_maghreb"
+	}
+	11152.1.1 = {
+		holder = 155104
+	}
+	11178.1.1 = {
+		holder = marinid_1 # Mihyu
+	}
+	11182.1.1 = {
+		holder = 155105
+	}
+	11210.1.1 = {
+		holder = 155170
+	}
+	11242.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11253.1.1 = {
+		liege = 0
+	}
+	11253.1.1 = {
+		holder = 155171
+	}
+	11281.1.1 = {
+		holder = 155106
+	}
+	11290.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11310.1.1 = {
+		holder = 155107
+	}
+}
+
+
+d_alger = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 17 }
+
+	10832.1.1 = {
+		holder = 163097
+		government = clan_government
+	}
+	10871.1.1 = {
+		holder = 0
+	}
+}
+
+
+c_algier = {
+	10767.1.1 = {
+		liege = "d_alger"
+		holder = 210035
+	}
+	10823.1.1 = {
+		government = clan_government
+		liege = "d_alger"
+		holder = 163097
+	}
+	10866.1.1 = {
+		holder = 163149
+	}
+	10877.1.1 = {
+		liege = "d_alger"
+	}
+	11062.1.1 = {
+		holder = 20834
+	}
+	11088.1.1 = {
+		holder = 155026
+	}
+	11109.1.1 = {
+		holder = 155027
+	}
+	11152.1.1 = {
+		liege = "k_maghreb"
+	}
+	11152.1.1 = {
+		holder = 155091
+	}
+	11180.1.1 = {
+		holder = 155092
+	}
+	11185.1.1 = {
+		liege = "d_mallorca"
+	}
+	11185.1.1 = {
+		holder = 32976
+	}
+	11185.7.1 = {
+		liege = "k_maghreb"
+	}
+	11185.7.1 = {
+		holder = 155092
+	}
+	11190.1.1 = {
+		holder = 155093
+	}
+	11223.1.1 = {
+		liege = "d_alger"
+	}
+	11223.1.1 = {
+		holder = 32977
+	}
+	11227.1.1 = {
+		liege = "k_maghreb"
+	}
+	11227.1.1 = {
+		holder = 155094
+	}
+	11236.1.1 = {
+		liege = "k_africa"
+	}
+	11249.1.1 = {
+		holder = 155095
+	}
+	11263.1.1 = {
+		holder = 155096
+	}
+	11269.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11269.1.1 = {
+		holder = 155097
+	}
+	11278.1.1 = {
+		holder = 155098
+	}
+	11294.1.1 = {
+		holder = 155099
+	}
+	11295.1.1 = {
+		holder = 155100
+	}
+	11299.1.1 = {
+		liege = 0
+	}
+	11299.1.1 = {
+		holder = 155102
+	}
+	11302.1.1 = {
+		liege = "k_africa"
+	}
+	11302.1.1 = {
+		holder = 155100
+	}
+	11310.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11310.1.1 = {
+		holder = 155103
+	}
+}
+
+
+c_tanas = {
+	10767.1.1 = {
+		holder = "210036"
+	}
+	10823.1.1 = {
+		government = clan_government
+		liege = "d_alger"
+		holder = 163097
+	}
+	10877.1.1 = {
+		liege = "d_alger"
+	}
+	11066.1.1 = {
+		holder = 155020
+	}
+	11083.1.1 = {
+		liege = "d_fes"
+	}
+	11083.1.1 = {
+		holder = 155033
+	}
+	11092.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11092.1.1 = {
+		holder = 155080
+	}
+	11115.1.1 = {
+		holder = 155064
+	}
+	11120.1.1 = {
+		holder = 155065
+	}
+	11143.1.1 = {
+		holder = 155082
+	}
+	11145.1.1 = {
+		holder = 32978
+	}
+	11147.1.1 = {
+		holder = 33012
+	}
+	11152.1.1 = {
+		liege = "k_maghreb"
+	}
+	11152.1.1 = {
+		holder = 155091
+	}
+	11180.1.1 = {
+		holder = 155092
+	}
+	11185.1.1 = {
+		liege = "d_mallorca"
+	}
+	11185.1.1 = {
+		holder = 32976
+	}
+	11185.7.1 = {
+		liege = "k_maghreb"
+	}
+	11185.7.1 = {
+		holder = 155092
+	}
+	11190.1.1 = {
+		holder = 155093
+	}
+	11226.1.1 = {
+		holder = 155094
+	}
+	11236.1.1 = {
+		liege = "k_africa"
+	}
+	11249.1.1 = {
+		holder = 155095
+	}
+	11263.1.1 = {
+		holder = 155096
+	}
+	11269.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11269.1.1 = {
+		holder = 155097
+	}
+	11278.1.1 = {
+		holder = 155098
+	}
+	11294.1.1 = {
+		holder = 155099
+	}
+	11295.1.1 = {
+		holder = 155100
+	}
+	11299.1.1 = {
+		liege = 0
+	}
+	11299.1.1 = {
+		holder = 155102
+	}
+	11302.1.1 = {
+		liege = "k_africa"
+	}
+	11302.1.1 = {
+		holder = 155100
+	}
+	11310.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11310.1.1 = {
+		holder = 155103
+	}
+	11337.1.1 = {
+		holder = 33049
+	}
+}
+
+d_bejaia = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 17 }
+
+	11062.1.1 = {
+		government = clan_government
+		holder = 20834
+	}
+	11088.1.1 = {
+		holder = 155026
+	}
+	11109.1.1 = {
+		holder = 0
+	}
+}
+
+c_bejaia = {
+	10867.1.1 = {	change_development_level = 10 }
+	11066.1.1 = { change_development_level = 16 }
+	11178.1.1 = { change_development_level = 36 }
+	
+	10767.1.1 = {
+		government = clan_government
+		liege = "d_alger"
+		holder = 210035
+	}
+	10823.1.1 = {
+		liege = "d_alger"
+	}
+	10823.1.1 = {
+		holder = 163097
+	}
+	10866.1.1 = {
+		holder = 163149
+	}
+	11062.1.1 = {
+		liege = "d_bejaia"
+		holder = 20834
+	}
+	11088.1.1 = {
+		holder = 155026
+	}
+	11109.1.1 = {
+		holder = 155027
+	}
+	11152.1.1 = {
+		liege = "k_maghreb"
+	}
+	11152.1.1 = {
+		holder = 155091
+	}
+	11175.1.1 = {
+		holder = almohad_19 # Sulayman
+	}
+	11180.1.1 = {
+		holder = 155092
+	}
+	11185.1.1 = {
+		liege = "d_mallorca"
+	}
+	11185.1.1 = {
+		holder = 32976
+	}
+	11185.7.1 = {
+		liege = "k_maghreb"
+	}
+	11185.7.1 = {
+		holder = 155092
+	}
+	11190.1.1 = {
+		holder = 155093
+	}
+	11223.1.1 = {
+		liege = "d_alger"
+	}
+	11223.1.1 = {
+		holder = 32977
+	}
+	11227.1.1 = {
+		liege = "k_maghreb"
+	}
+	11227.1.1 = {
+		holder = 155094
+	}
+	11236.1.1 = {
+		liege = "k_africa"
+	}
+	11249.1.1 = {
+		holder = 155095
+	}
+	11263.1.1 = {
+		holder = 155096
+	}
+	11269.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11269.1.1 = {
+		holder = 155097
+	}
+	11278.1.1 = {
+		holder = 155098
+	}
+	11294.1.1 = {
+		holder = 155099
+	}
+	11295.1.1 = {
+		holder = 155100
+	}
+	11299.1.1 = {
+		liege = 0
+	}
+	11299.1.1 = {
+		holder = 155102
+	}
+	11302.1.1 = {
+		liege = "k_africa"
+	}
+	11302.1.1 = {
+		holder = 155100
+	}
+	11310.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11310.1.1 = {
+		holder = 155103
+	}
+}
+
+
+c_satif = {
+	10767.1.1 = {
+		government = clan_government
+		liege = "d_alger"
+		holder = 210035
+	}
+	10823.1.1 = {
+		liege = "d_alger"
+	}
+	10823.1.1 = {
+		holder = 163097
+	}
+	10866.1.1 = {
+		holder = 163149
+	}
+	11062.1.1 = {
+		liege = "d_bejaia"
+		holder = 20834
+	}
+	11088.1.1 = {
+		holder = 155026
+	}
+	11109.1.1 = {
+		holder = 155027
+	}
+	11152.1.1 = {
+		liege = "k_maghreb"
+	}
+	11152.1.1 = {
+		holder = 155091
+	}
+	11180.1.1 = {
+		holder = 155092
+	}
+	11185.1.1 = {
+		liege = "d_mallorca"
+	}
+	11185.1.1 = {
+		holder = 32976
+	}
+	11185.7.1 = {
+		liege = "k_maghreb"
+	}
+	11185.7.1 = {
+		holder = 155092
+	}
+	11190.1.1 = {
+		holder = 155093
+	}
+	11223.1.1 = {
+		liege = "d_alger"
+	}
+	11223.1.1 = {
+		holder = 32977
+	}
+	11227.1.1 = {
+		liege = "k_maghreb"
+	}
+	11227.1.1 = {
+		holder = 155094
+	}
+	11236.1.1 = {
+		liege = "k_africa"
+	}
+	11249.1.1 = {
+		holder = 155095
+	}
+	11263.1.1 = {
+		holder = 155096
+	}
+	11269.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11269.1.1 = {
+		holder = 155097
+	}
+	11278.1.1 = {
+		holder = 155098
+	}
+	11294.1.1 = {
+		holder = 155099
+	}
+	11295.1.1 = {
+		holder = 155100
+	}
+	11299.1.1 = {
+		liege = 0
+	}
+	11299.1.1 = {
+		holder = 155102
+	}
+	11302.1.1 = {
+		liege = "k_africa"
+	}
+	11302.1.1 = {
+		holder = 155100
+	}
+	11310.1.1 = {
+		liege = "d_tlemcen"
+	}
+	11310.1.1 = {
+		holder = 155103
+	}
+}
+
+
+d_zab = {
+	10867.1.1 = {
+		government = clan_government
+		holder = 6882	#Just to keep him from tribalifying bits of Algeria unecessarily.
+	}
+	11066.1.1 = {
+		government = tribal_government
+		holder = 155173	#Hassan b. Serhan Athbejid
+	}
+	11080.1.1 = {
+		holder = 155175	#Masud Athbejid
+	}
+	11110.1.1 = {
+		holder = 0
+	}
+}
+
+
+c_hodna = {
+	10767.1.1 = {	
+		government = clan_government
+		liege = "d_alger"
+		holder = 210035
+	}
+	10864.1.1 = {	
+		liege = "k_africa"
+		holder = 6882
+	}
+	11057.1.1 = {
+		government = tribal_government
+		liege = "d_alger" #should be tributary of Hammadids
+		holder = 1229650 #Banu Adi of Hilalian tribe
+	}
+	11059.1.1 = {
+		holder = 1229651
+	}
+	11089.1.1 = {
+		#government = clan_government
+		liege = 0
+		holder = 155174
+	}
+	
+	#Old history
+	11095.1.1 = {
+		holder = 155175
+	}
+	11110.1.1 = {
+		holder = 155176
+	}
+	11125.1.1 = {
+		holder = 155177
+	}
+	11152.1.1 = {
+		liege = "d_alger"
+	}
+	11152.1.1 = {
+		holder = 155087
+	}
+	11185.1.1 = {
+		liege = "d_mallorca"
+	}
+	11185.1.1 = {
+		holder = 32977
+	}
+	11185.7.1 = {
+		liege = "d_alger"
+	}
+	11185.7.1 = {
+		holder = 155087
+	}
+	11190.1.1 = {
+		holder = 32985
+	}
+	11200.1.1 = {
+		liege = "d_tunis"
+	}
+	11200.1.1 = {
+		holder = 32977
+	}
+	11207.1.1 = {
+		liege = "d_alger"
+	}
+	11207.1.1 = {
+		holder = 32985
+	}
+	11223.1.1 = {
+		holder = 32977
+	}
+	11227.1.1 = {
+		holder = 32985
+	}
+	11229.1.1 = {
+		holder = 33021
+	}
+	11251.1.1 = {
+		holder = 33024
+	}
+	11276.1.1 = {
+		holder = 33026
+	}
+	11279.1.1 = {
+		holder = 33025
+	}
+	11284.1.1 = {
+		holder = 33017
+	}
+	11295.1.1 = {
+		holder = 33027
+	}
+	11309.1.1 = {
+		holder = 33028
+	}
+	11310.1.1 = {
+		holder = 33031
+	}
+	11311.1.1 = {
+		holder = 33042
+	}
+	11317.1.1 = {
+		holder = 33043
+	}
+	11318.1.1 = {
+		holder = 33032
+	}
+	
+	
+
+}
+
+
+c_biskra = {
+	10767.1.1 = {	
+		government = clan_government
+		liege = "d_alger"
+		holder = 210035
+	}
+	10864.1.1 = {	
+		liege = "k_africa"
+		holder = 6882
+	}
+	11066.1.1 = {
+		government = tribal_government
+		liege = d_zab
+		holder = 155173	#Hassan b. Serhan Athbejid
+	}
+	11080.1.1 = {
+		holder = 155175	#Masud Athbejid
+	}
+	11110.1.1 = {
+		holder = 155176
+	}
+	11125.1.1 = {
+		holder = 155177
+	}
+
+#Old history
+	11152.1.1 = {
+		liege = "d_alger"
+		holder = 155087
+	}
+	11185.1.1 = {
+		liege = "d_mallorca"
+	}
+	11185.1.1 = {
+		holder = 32977
+	}
+	11185.7.1 = {
+		liege = "d_alger"
+	}
+	11185.7.1 = {
+		holder = 155087
+	}
+	11190.1.1 = {
+		holder = 32985
+	}
+	11200.1.1 = {
+		liege = "d_tunis"
+	}
+	11200.1.1 = {
+		holder = 32977
+	}
+	11207.1.1 = {
+		liege = "d_alger"
+	}
+	11207.1.1 = {
+		holder = 32985
+	}
+	11223.1.1 = {
+		holder = 32977
+	}
+	11227.1.1 = {
+		holder = 32985
+	}
+	11229.1.1 = {
+		holder = 33021
+	}
+	11251.1.1 = {
+		holder = 33024
+	}
+	11276.1.1 = {
+		holder = 33026
+	}
+	11279.1.1 = {
+		holder = 33025
+	}
+	11284.1.1 = {
+		holder = 33017
+	}
+	11295.1.1 = {
+		holder = 33027
+	}
+	11309.1.1 = {
+		holder = 33028
+	}
+	11310.1.1 = {
+		holder = 33031
+	}
+	11311.1.1 = {
+		holder = 33042
+	}
+	11317.1.1 = {
+		holder = 33043
+	}
+	11318.1.1 = {
+		holder = 33032
+	}
+	
+}
+
+c_bilizma = {
+	10767.1.1 = {	
+		government = clan_government
+		liege = "d_alger"
+		holder = 210035
+	}
+	10864.1.1 = {	
+		liege = "k_africa"
+		holder = 6882
+	}
+	11066.1.1 = {
+		government = tribal_government
+		liege = d_zab
+		holder = 155173	#Hassan b. Serhan Athbejid
+	}
+	11080.1.1 = {
+		holder = 155175	#Masud Athbejid
+	}
+	11110.1.1 = {
+		holder = 155176
+	}
+	11125.1.1 = {
+		holder = 155177
+	}
+
+#Old history
+	11152.1.1 = {
+		liege = "d_alger"
+		holder = 155087
+	}
+	11185.1.1 = {
+		liege = "d_mallorca"
+	}
+	11185.1.1 = {
+		holder = 32977
+	}
+	11185.7.1 = {
+		liege = "d_alger"
+	}
+	11185.7.1 = {
+		holder = 155087
+	}
+	11190.1.1 = {
+		holder = 32985
+	}
+	11200.1.1 = {
+		liege = "d_tunis"
+	}
+	11200.1.1 = {
+		holder = 32977
+	}
+	11207.1.1 = {
+		liege = "d_alger"
+	}
+	11207.1.1 = {
+		holder = 32985
+	}
+	11223.1.1 = {
+		holder = 32977
+	}
+	11227.1.1 = {
+		holder = 32985
+	}
+	11229.1.1 = {
+		holder = 33021
+	}
+	11251.1.1 = {
+		holder = 33024
+	}
+	11276.1.1 = {
+		holder = 33026
+	}
+	11279.1.1 = {
+		holder = 33025
+	}
+	11284.1.1 = {
+		holder = 33017
+	}
+	11295.1.1 = {
+		holder = 33027
+	}
+	11309.1.1 = {
+		holder = 33028
+	}
+	11310.1.1 = {
+		holder = 33031
+	}
+	11311.1.1 = {
+		holder = 33042
+	}
+	11317.1.1 = {
+		holder = 33043
+	}
+	11318.1.1 = {
+		holder = 33032
+	}
+	
+}
+
+d_mzab = {
+	10840.1.1 = {	
+		government = tribal_government
+		holder = butr0014
+	}
+	10845.1.1 = {	
+		holder = 1228238
+	}
+	10871.1.1 = {	
+		holder = 0
+	}
+	11066.1.1 = {
+		holder = 1144671
+	}
+	11100.10.10 = {
+		holder = 0
+	}
+}
+
+c_wargla = {
+
+	10866.1.1 = {	
+		government = tribal_government
+		liege = "d_mzab"
+		holder = 1228831
+	}
+	10895.1.1 = {
+		liege = 0
+		holder = 1228832
+	}
+	
+	11066.1.1 = {
+		holder = 1144672
+	}
+
+#Old history
+	11110.10.10 = {
+		holder = 155176
+	}
+	11125.1.1 = {
+		holder = 155177
+	}
+	11152.1.1 = {
+		liege = "d_alger"
+	}
+	11152.1.1 = {
+		holder = 155087
+	}
+	11185.1.1 = {
+		liege = "d_mallorca"
+	}
+	11185.1.1 = {
+		holder = 32977
+	}
+	11185.7.1 = {
+		liege = "d_alger"
+	}
+	11185.7.1 = {
+		holder = 155087
+	}
+	11190.1.1 = {
+		holder = 32985
+	}
+	11200.1.1 = {
+		liege = "d_tunis"
+	}
+	11200.1.1 = {
+		holder = 32977
+	}
+	11207.1.1 = {
+		liege = "d_alger"
+	}
+	11207.1.1 = {
+		holder = 32985
+	}
+	11223.1.1 = {
+		holder = 32977
+	}
+	11227.1.1 = {
+		holder = 32985
+	}
+	11229.1.1 = {
+		holder = 33021
+	}
+	11251.1.1 = {
+		holder = 33024
+	}
+	11276.1.1 = {
+		holder = 33026
+	}
+	11279.1.1 = {
+		holder = 33025
+	}
+	11284.1.1 = {
+		holder = 33017
+	}
+	11295.1.1 = {
+		holder = 33027
+	}
+	11309.1.1 = {
+		holder = 33028
+	}
+	11310.1.1 = {
+		holder = 33031
+	}
+	11311.1.1 = {
+		holder = 33042
+	}
+	11317.1.1 = {
+		holder = 33043
+	}
+	11318.1.1 = {
+		holder = 33032
+	}
+
+}
+
+c_laghwat = {
+	10767.1.1 = {	
+		liege = "d_alger"
+		holder = 210035
+		government = tribal_government
+	}
+	10864.1.1 = {	
+		liege = 0
+		holder = 1228830
+	}
+
+	11066.1.1 = {
+		holder = 155021
+	}
+	
+	#Old history
+	11109.1.1 = {
+		holder = 155175
+	}
+	11110.1.1 = {
+		holder = 155176
+	}
+	11125.1.1 = {
+		holder = 155177
+	}
+	11152.1.1 = {
+		liege = "d_alger"
+	}
+	11152.1.1 = {
+		holder = 155087
+	}
+	11185.1.1 = {
+		liege = "d_mallorca"
+	}
+	11185.1.1 = {
+		holder = 32977
+	}
+	11185.7.1 = {
+		liege = "d_alger"
+	}
+	11185.7.1 = {
+		holder = 155087
+	}
+	11190.1.1 = {
+		holder = 32985
+	}
+	11200.1.1 = {
+		liege = "d_tunis"
+	}
+	11200.1.1 = {
+		holder = 32977
+	}
+	11207.1.1 = {
+		liege = "d_alger"
+	}
+	11207.1.1 = {
+		holder = 32985
+	}
+	11223.1.1 = {
+		holder = 32977
+	}
+	11227.1.1 = {
+		holder = 32985
+	}
+	11229.1.1 = {
+		holder = 33021
+	}
+	11251.1.1 = {
+		holder = 33024
+	}
+	11276.1.1 = {
+		holder = 33026
+	}
+	11279.1.1 = {
+		holder = 33025
+	}
+	11284.1.1 = {
+		holder = 33017
+	}
+	11295.1.1 = {
+		holder = 33027
+	}
+	11309.1.1 = {
+		holder = 33028
+	}
+	11310.1.1 = {
+		holder = 33031
+	}
+	11311.1.1 = {
+		holder = 33042
+	}
+	11317.1.1 = {
+		holder = 33043
+	}
+	11318.1.1 = {
+		holder = 33032
+	}
+	
+	
+
+}
+
+
+c_ghardaia = {
+	10767.1.1 = {	
+		liege = "d_alger"
+		holder = 210035
+		government = tribal_government
+	}
+	10864.1.1 = {	
+		liege = 0
+		holder = 1228830
+	}
+
+	11066.1.1 = {
+		liege = 0
+		holder = 1144673
+	}
+
+#Old history
+	11111.11.1 = {
+		holder = 155176
+	}
+	11125.1.1 = {
+		holder = 155177
+	}
+	11152.1.1 = {
+		liege = "d_alger"
+	}
+	11152.1.1 = {
+		holder = 155087
+	}
+	11185.1.1 = {
+		liege = "d_mallorca"
+	}
+	11185.1.1 = {
+		holder = 32977
+	}
+	11185.7.1 = {
+		liege = "d_alger"
+	}
+	11185.7.1 = {
+		holder = 155087
+	}
+	11190.1.1 = {
+		holder = 32985
+	}
+	11200.1.1 = {
+		liege = "d_tunis"
+	}
+	11200.1.1 = {
+		holder = 32977
+	}
+	11207.1.1 = {
+		liege = "d_alger"
+	}
+	11207.1.1 = {
+		holder = 32985
+	}
+	11223.1.1 = {
+		holder = 32977
+	}
+	11227.1.1 = {
+		holder = 32985
+	}
+	11229.1.1 = {
+		holder = 33021
+	}
+	11251.1.1 = {
+		holder = 33024
+	}
+	11276.1.1 = {
+		holder = 33026
+	}
+	11279.1.1 = {
+		holder = 33025
+	}
+	11284.1.1 = {
+		holder = 33017
+	}
+	11295.1.1 = {
+		holder = 33027
+	}
+	11309.1.1 = {
+		holder = 33028
+	}
+	11310.1.1 = {
+		holder = 33031
+	}
+	11311.1.1 = {
+		holder = 33042
+	}
+	11317.1.1 = {
+		holder = 33043
+	}
+	11318.1.1 = {
+		holder = 33032
+	}
+	
+}
+
+
+c_arigh = {
+	10767.1.1 = {	
+		liege = "d_alger"
+		holder = 210035
+		government = tribal_government
+	}
+	10840.1.1 = {	
+		liege = "d_mzab"
+		holder = butr0014
+	}
+	10845.1.1 = {	
+		holder = 1228238
+	}
+	
+	11066.1.1 = {
+		holder = 1144671
+	}
+	
+#Old history	
+	11080.1.1 = {
+		holder = 155174
+	}
+	11088.1.1 = {
+		liege = 0
+	}
+	11095.1.1 = {
+		holder = 155175
+	}
+	11110.1.1 = {
+		holder = 155176
+	}
+	11125.1.1 = {
+		holder = 155177
+	}
+	11152.1.1 = {
+		liege = "d_alger"
+	}
+	11152.1.1 = {
+		holder = 155087
+	}
+	11185.1.1 = {
+		liege = "d_mallorca"
+	}
+	11185.1.1 = {
+		holder = 32977
+	}
+	11185.7.1 = {
+		liege = "d_alger"
+	}
+	11185.7.1 = {
+		holder = 155087
+	}
+	11190.1.1 = {
+		holder = 32985
+	}
+	11200.1.1 = {
+		liege = "d_tunis"
+	}
+	11200.1.1 = {
+		holder = 32977
+	}
+	11207.1.1 = {
+		liege = "d_alger"
+	}
+	11207.1.1 = {
+		holder = 32985
+	}
+	11223.1.1 = {
+		holder = 32977
+	}
+	11227.1.1 = {
+		holder = 32985
+	}
+	11229.1.1 = {
+		holder = 33021
+	}
+	11251.1.1 = {
+		holder = 33024
+	}
+	11276.1.1 = {
+		holder = 33026
+	}
+	11279.1.1 = {
+		holder = 33025
+	}
+	11284.1.1 = {
+		holder = 33017
+	}
+	11295.1.1 = {
+		holder = 33027
+	}
+	11309.1.1 = {
+		holder = 33028
+	}
+	11310.1.1 = {
+		holder = 33031
+	}
+	11311.1.1 = {
+		holder = 33042
+	}
+	11317.1.1 = {
+		holder = 33043
+	}
+	11318.1.1 = {
+		holder = 33032
+	}
+	
+	
+
+}
+

@@ -1,0 +1,2887 @@
+k_norway = {
+	20.1.1 = {
+		change_development_level = 2
+	}
+	
+	11000.1.1 = {
+		change_development_level = 4
+	}
+	
+	11100.1.1 = {
+		change_development_level = 12
+	}
+	11178.1.1 = { change_development_level = 24 }
+	10872.1.1 = {
+		holder = 144000 #Harald Fairhair
+	}
+	10931.1.1 = {	
+		holder = 102507 # Eric Bloodaxe
+	}
+	10934.1.1 = {
+		holder = 144001 # Haakon the Good
+	}
+	10961.1.1 = {
+		holder = 102508 #Harald Greycloak
+	}
+	10970.1.1 = {	
+		holder = 101502 #Harald Bluetooth
+	}
+	10986.11.1 = {
+		holder = 101505 #Sweyn Forkbeard
+	}
+	10995.1.1 = {
+		holder = 144004 #Olof I
+	}
+	11000.1.1 = {
+		holder = 101505 #Sweyn Forkbeard
+	}
+	11015.1.1 = {
+		holder = 102527 #Olof The Saint
+	}
+	11028.1.1 = {	
+		holder = 101510 #Canut
+	}
+	11029.1.1 = {
+		holder = 102527 #Olof The Saint
+	}
+	11030.7.29 = {
+		holder = 101514 #Svend II
+	}
+	11035.1.29 = {
+		holder = 102529 #Magnus the Good
+	}
+	11047.10.25 = {
+		holder = 102531 # Harald Hardråde
+		succession_laws = { scandinavian_elective_succession_law }
+	}
+	11066.9.26 = {
+		holder = 102532 # Magnus Haraldson
+	}
+	11069.4.28 = {
+		holder = 102534 # Olof Haraldson
+	}
+	11093.1.1 = {
+		holder = 102577 #  Håkon Magnuson
+	}
+	11094.6.6 = {
+		holder = 202511 # Magnus Barfot
+	}
+	11103.1.25 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.5 = {
+		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+	}
+	11162.7.7 = {
+		holder = 202051 # Magnus Erlingsson
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11202.3.9 = {
+		holder = 202502 # Håkon Sverreson
+	}
+	11204.1.1 = {
+		holder = 202508 # Guttorm Sigurdsson
+	}
+	11204.8.11 = {
+		holder = 202032 # Inge Bårdsson
+	}
+	11217.4.23 = {
+		holder = 202509 # Håkon Håkonsson
+	}
+	11263.12.15 = {
+		holder = 6905 # Magnus Lagaböter
+	}
+	11280.5.9 = {
+		holder = 6906 # Erik 'Prästhatare' Magnusson
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11314.1.1 = {
+		effect = {
+			# The capital shifts to Oslo.
+			set_capital_county = title:c_vingulmork
+		}
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	# 11343.11.18 Håkon Magnusson
+
+}
+
+d_viken = {
+	11161.1.1 = {
+		holder = kongsbror_1 # Orm Ivarsson, "it looks as if he more or less had the main responsibility for the defense of Viken"
+		liege = k_norway
+	}
+}
+
+c_raniriki = {
+	21.1.1 = {
+		change_development_level = 2
+	}
+	
+	11001.1.1 = {
+		change_development_level = 7
+	}
+	
+	11101.1.1 = {
+		change_development_level = 12
+	}
+	11178.1.1 = { change_development_level = 13 }
+	
+	10760.1.1 = {
+		holder = 194009
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10863.1.1 = {
+		liege = d_sjaelland
+		holder = 6846
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_norway"
+	}
+	11066.1.1 = {
+		holder = 102534
+	}
+	11093.1.1 = {
+		holder = 202511 # Magnus Barfot
+	}
+	11103.1.25 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	#11136.1.1 = {
+	#	liege = "d_ostlandet"
+	#}
+	11136.1.1 = {
+		holder = 202020
+	}
+	11161.1.1 = {
+		holder = kongsbror_1 # Orm Ivarsson
+	}
+	11184.1.1 = {
+		holder = 202021
+	}
+	11247.1.1 = {
+		holder = 144250
+	}
+	11274.1.1 = {
+		holder = 6905 # Magnus Lagaböter
+	}
+	11280.5.9 = {
+		holder = 6906 # Erik 'Prästhatare' Magnusson
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11312.1.1 = {
+		liege = "d_ostergotland"
+		holder = 450501 # Duke Erik gains the county through marriage to princess Ingeborg
+	}
+	11318.2.16 = {
+		liege = "k_sweden"
+		holder = 450504 # King Birger
+	}
+	11319.7.8 = {
+		holder = 450500 # Magnus Eriksson
+	}
+	
+	11337.1.1 = {
+		holder = 450660
+	}
+
+}
+
+
+c_vingulmork = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10730.1.1 = {
+		holder = 194009
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 144000
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11047.1.1 = {
+		liege = "k_norway"
+	}
+	11066.1.1 = {
+		holder = 102553
+	}
+	11090.1.2 = {
+		holder = 102558
+	}
+	11114.1.2 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.1.1 = {
+		holder = 202512
+		liege = "d_viken"
+	}
+	11155.6.10 = {
+		holder = 202005
+	}
+	11161.1.1 = {
+		holder = kongsbror_1 # Orm Ivarsson
+	}
+	11200.1.1 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11202.3.9 = {
+		holder = 202502 # Håkon Sverreson
+	}
+	11204.1.1 = {
+		holder = 202508 # Guttorm Sigurdsson
+	}
+	11204.8.11 = {
+		holder = 202032 # Inge Bårdsson
+	}
+	11217.4.23 = {
+		holder = 202509 # Håkon Håkonsson
+	}
+	11263.12.15 = {
+		holder = 6905 # Magnus Lagaböter
+	}
+	11280.5.9 = {
+		holder = 6906 # Erik 'Prästhatare' Magnusson
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+
+}
+
+
+c_vestfold = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10750.1.1 = {
+		holder = 194016
+		liege = d_sjaelland
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 144000
+		liege = 0
+	}
+	10872.1.1 = {
+		liege = "k_norway"
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 102534
+	}
+	11093.1.1 = {
+		holder = 202511 # Magnus Barfot
+	}
+	11103.1.25 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.1.1 = {
+		liege = "d_viken"
+	}
+	11136.1.1 = {
+		holder = 202020
+	}
+	11161.1.1 = {
+		holder = kongsbror_1 # Orm Ivarsson
+	}
+	11184.1.1 = {
+		holder = 202021
+	}
+	11187.1.1 = {
+		holder = 202004
+	}
+	11200.1.1 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11202.3.9 = {
+		holder = 202502 # Håkon Sverreson
+	}
+	11204.1.1 = {
+		holder = 202508 # Guttorm Sigurdsson
+	}
+	11204.8.11 = {
+		holder = 202032 # Inge Bårdsson
+	}
+	11217.4.23 = {
+		holder = 202509 # Håkon Håkonsson
+	}
+	11263.12.15 = {
+		holder = 6905 # Magnus Lagaböter
+	}
+	11280.5.9 = {
+		holder = 6906 # Erik 'Prästhatare' Magnusson
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+
+}
+
+
+c_telemark = {
+	21.1.1 = {
+		change_development_level = 2
+	}
+	
+	11001.1.1 = {
+		change_development_level = 7
+	}
+	
+	11101.1.1 = {
+		change_development_level = 12
+	}
+	11178.1.1 = { change_development_level = 13 }
+	
+	10755.1.1 = {
+		holder = 194023
+		#liege = d_sjaelland
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 186017
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_norway"
+	}
+	11066.1.1 = {
+		holder = 20017
+	}
+	11089.1.1 = {
+		holder = 102534 # Olof Haraldson
+	}
+	11093.1.1 = {
+		holder = 102577 # Håkon Magnuson
+	}
+	11094.6.6 = {
+		holder = 202511 # Magnus Barfot
+	}
+	11103.1.25 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.1 = {
+		holder = kongsbror_1 # Orm Ivarsson
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11187.1.1 = {
+		holder = 202003
+	}
+	11200.1.1 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11202.3.9 = {
+		holder = 202502 # Håkon Sverreson
+	}
+	11204.1.1 = {
+		holder = 202508 # Guttorm Sigurdsson
+	}
+	11204.8.11 = {
+		holder = 202032 # Inge Bårdsson
+	}
+	11217.4.23 = {
+		holder = 202509 # Håkon Håkonsson
+	}
+	11220.1.1 = {
+		holder = 194315
+	}
+	11263.12.15 = {
+		holder = 6905 # Magnus Lagaböter
+	}
+	11280.5.9 = {
+		holder = 6906 # Erik 'Prästhatare' Magnusson
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450740
+	}
+
+}
+
+
+c_nedenes = {
+	21.1.1 = {
+		change_development_level = 2
+	}
+	
+	11001.1.1 = {
+		change_development_level = 7
+	}
+	
+	11101.1.1 = {
+		change_development_level = 12
+	}
+	11178.1.1 = { change_development_level = 13 }
+	
+	10760.1.1 = {
+		holder = 194023
+		#liege = d_sjaelland
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 186011
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_norway"
+	}
+	11066.1.1 = {
+		holder = 20016
+	}
+	11089.1.1 = {
+		holder = 102534 # Olof Haraldson
+	}
+	11093.1.1 = {
+		holder = 102577 # Håkon Magnuson
+	}
+	11094.6.6 = {
+		holder = 202511 # Magnus Barfot
+	}
+	11103.1.25 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.5 = {
+		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+	}
+	11162.7.7 = {
+		holder = 202051 # Magnus Erlingsson
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11187.1.1 = {
+		holder = 202001
+	}
+	11200.1.1 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11202.3.9 = {
+		holder = 202502 # Håkon Sverreson
+	}
+	11204.1.1 = {
+		holder = 202508 # Guttorm Sigurdsson
+	}
+	11204.8.11 = {
+		holder = 202032 # Inge Bårdsson
+	}
+	11217.4.23 = {
+		holder = 202509 # Håkon Håkonsson
+	}
+	11220.1.1 = {
+		holder = 194315
+	}
+	11263.12.15 = {
+		holder = 6905 # Magnus Lagaböter
+	}
+	11280.5.9 = {
+		holder = 6906 # Erik 'Prästhatare' Magnusson
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450780
+	}
+
+}
+
+
+c_agdeside = {
+	21.1.1 = {
+		change_development_level = 2
+	}
+	
+	11001.1.1 = {
+		change_development_level = 7
+	}
+	
+	11101.1.1 = {
+		change_development_level = 12
+	}
+	11178.1.1 = { change_development_level = 13 }
+	
+	10760.1.1 = {
+		holder = 194023
+		#liege = d_sjaelland
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 186011
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_norway"
+	}
+	11066.1.1 = {
+		holder = 20016
+	}
+	11089.1.1 = {
+		holder = 102534 # Olof Haraldson
+	}
+	11093.1.1 = {
+		holder = 102577 # Håkon Magnuson
+	}
+	11094.6.6 = {
+		holder = 202511 # Magnus Barfot
+	}
+	11103.1.25 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.5 = {
+		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+	}
+	11162.7.7 = {
+		holder = 202051 # Magnus Erlingsson
+	}
+	11178.1.1 = {
+		holder = 202020 # Asborn Drotning
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11187.1.1 = {
+		holder = 202001
+	}
+	11200.1.1 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11202.3.9 = {
+		holder = 202502 # Håkon Sverreson
+	}
+	11204.1.1 = {
+		holder = 202508 # Guttorm Sigurdsson
+	}
+	11204.8.11 = {
+		holder = 202032 # Inge Bårdsson
+	}
+	11217.4.23 = {
+		holder = 202509 # Håkon Håkonsson
+	}
+	11220.1.1 = {
+		holder = 194315
+	}
+	11263.12.15 = {
+		holder = 6905 # Magnus Lagaböter
+	}
+	11280.5.9 = {
+		holder = 6906 # Erik 'Prästhatare' Magnusson
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450780
+	}
+}
+
+d_vestlandi = {
+	11162.7.7 = {
+		holder = 202050 # Erling Skakke
+		liege = k_norway
+	}
+}
+
+c_rogalandi = {
+	10760.1.1 = {
+		holder = 194008
+		government = tribal_government
+	}
+	#10810.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		holder = 186014
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11020.1.1 = {
+		liege = "k_norway"
+	}
+	11020.1.1 = {
+		holder = 102567
+	}
+	11034.1.1 = {
+		holder = 102568
+	}
+	11162.7.7 = {
+		holder = 202050 # Erling Skakke
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11187.1.1 = {
+		holder = 202002
+	}
+	11200.1.1 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11202.3.9 = {
+		holder = 202502 # Håkon Sverreson
+	}
+	11204.1.1 = {
+		holder = 202508 # Guttorm Sigurdsson
+	}
+	11204.8.11 = {
+		holder = 202032 # Inge Bårdsson
+	}
+	11217.4.23 = {
+		holder = 202509 # Håkon Håkonsson
+	}
+	11220.1.1 = {
+		holder = 194314
+	}
+	11263.12.15 = {
+		holder = 6905 # Magnus Lagaböter
+	}
+	11280.5.9 = {
+		holder = 6906 # Erik 'Prästhatare' Magnusson
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450730
+	}
+
+}
+
+
+c_hordalandi = {
+	21.1.1 = {
+		change_development_level = 2
+	}
+	
+	11001.1.1 = {
+		change_development_level = 7
+	}
+	
+	11101.1.1 = {
+		change_development_level = 12
+	}
+	11178.1.1 = { change_development_level = 13 }
+	
+	10764.1.1 = {
+		holder = 194012
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 166329 # Eirikr Horðalandi, from the Sagas
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_norway"
+	}
+	11066.1.1 = {
+		holder = 102563
+	}
+	11162.7.7 = {
+		holder = 202050 # Erling Skakke
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11202.3.9 = {
+		holder = 202502 # Håkon Sverreson
+	}
+	11204.1.1 = {
+		holder = 202508 # Guttorm Sigurdsson
+	}
+	11204.8.11 = {
+		holder = 202032 # Inge Bårdsson
+	}
+	11217.4.23 = {
+		holder = 202509 # Håkon Håkonsson
+	}
+	11220.1.1 = {
+		holder = 194314
+	}
+	11263.12.15 = {
+		holder = 6905 # Magnus Lagaböter
+	}
+	11280.5.9 = {
+		holder = 6906 # Erik 'Prästhatare' Magnusson
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		liege = "d_trandalog"
+	}
+	11337.1.1 = {
+		holder = 450780
+	}
+}
+
+c_sogn = {
+	21.1.1 = {
+		change_development_level = 2
+	}
+	
+	11001.1.1 = {
+		change_development_level = 7
+	}
+	
+	11101.1.1 = {
+		change_development_level = 12
+	}
+	11178.1.1 = { change_development_level = 13 }
+	
+	10764.1.1 = {
+		holder = 194012
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 280023
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_norway"
+	}
+	11066.1.1 = {
+		holder = 102563
+	}
+	11162.7.7 = {
+		holder = 202050 # Erling Skakke
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11202.3.9 = {
+		holder = 202502 # Håkon Sverreson
+	}
+	11204.1.1 = {
+		holder = 202508 # Guttorm Sigurdsson
+	}
+	11204.8.11 = {
+		holder = 202032 # Inge Bårdsson
+	}
+	11217.4.23 = {
+		holder = 202509 # Håkon Håkonsson
+	}
+	11220.1.1 = {
+		holder = 194314
+	}
+	11263.12.15 = {
+		holder = 6905 # Magnus Lagaböter
+	}
+	11280.5.9 = {
+		holder = 6906 # Erik 'Prästhatare' Magnusson
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		liege = "d_trandalog"
+	}
+	11337.1.1 = {
+		holder = 450780
+	}
+
+}
+
+b_stolsheimen = {	#Fictional, to allow character placement.
+	11055.1.1 = { holder = norwegian.1002 }
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.5 = {
+		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+	}
+	11162.7.7 = {
+		holder = 202050 # Erling Skakke
+	}
+}
+
+
+c_trandheim = {
+	21.1.1 = {
+		change_development_level = 2
+	}
+	
+	11001.1.1 = {
+		change_development_level = 7
+	}
+	
+	11101.1.1 = {
+		change_development_level = 12
+	}
+	11178.1.1 = { change_development_level = 13 }
+	
+	10760.1.1 = {
+		holder = 194013
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		holder = 186004
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11047.1.1 = {
+		liege = k_norway
+		holder = 102531 # Harald Hardråde
+	}
+	11066.9.26 = {
+		holder = 102532 # Magnus Haraldson
+	}
+	11161.1.1 = {
+		holder = nidaros_bishop_1 # Eysteinn Erlendsson, archbishop of Nidaros
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11202.3.9 = {
+		holder = 202502 # Håkon Sverreson
+	}
+	11204.1.1 = {
+		holder = 202508 # Guttorm Sigurdsson
+	}
+	11204.8.11 = {
+		holder = 202032 # Inge Bårdsson
+	}
+	11217.4.23 = {
+		holder = 202034
+	}
+	11240.5.24 = {
+		holder = 202035
+	}
+	11270.1.1 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450790
+	}
+
+}
+
+b_eynafylki = {	#Fictional, to allow character placement.
+	11055.1.1 = { holder = norwegian.1001 }
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.5 = {
+		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+	}
+	11162.7.7 = {
+		holder = 202051 # Magnus Erlingsson
+	}
+	11178.1.1 = {
+		holder = nidaros_bishop_1 # Eysteinn Erlendsson
+	}
+}
+
+
+c_norwegian_more = {
+	21.1.1 = {
+		change_development_level = 2
+	}
+	
+	11001.1.1 = {
+		change_development_level = 7
+	}
+	
+	11101.1.1 = {
+		change_development_level = 12
+	}
+	11178.1.1 = { change_development_level = 13 }
+	
+	10760.1.1 = {
+		holder = 194013
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		#holder = 186004
+		holder = 280021
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11047.1.1 = {
+		liege = k_norway
+		holder = 102531 # Harald Hardråde
+	}
+	11066.9.26 = {
+		holder = 102532 # Magnus Haraldson
+	}
+	11162.7.7 = {
+		holder = 202051 # Magnus Erlingsson
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11202.3.9 = {
+		holder = 202502 # Håkon Sverreson
+	}
+	11204.1.1 = {
+		holder = 202508 # Guttorm Sigurdsson
+	}
+	11204.8.11 = {
+		holder = 202032 # Inge Bårdsson
+	}
+	11217.4.23 = {
+		holder = 202034
+	}
+	11240.5.24 = {
+		holder = 202035
+	}
+	11270.1.1 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450790
+	}
+
+}
+
+
+c_firdafylki = {
+	21.1.1 = {
+		change_development_level = 2
+	}
+	
+	11001.1.1 = {
+		change_development_level = 7
+	}
+	
+	11101.1.1 = {
+		change_development_level = 12
+	}
+	11178.1.1 = { change_development_level = 13 }
+	
+	10764.1.1 = {
+		holder = 194012
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 280025
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_norway"
+	}
+	11066.1.1 = {
+		holder = 102563
+	}
+	11162.7.7 = {
+		holder = 202050 # Erling Skakke
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11202.3.9 = {
+		holder = 202502 # Håkon Sverreson
+	}
+	11204.1.1 = {
+		holder = 202508 # Guttorm Sigurdsson
+	}
+	11204.8.11 = {
+		holder = 202032 # Inge Bårdsson
+	}
+	11217.4.23 = {
+		holder = 202509 # Håkon Håkonsson
+	}
+	11220.1.1 = {
+		holder = 194314
+	}
+	11263.12.15 = {
+		holder = 6905 # Magnus Lagaböter
+	}
+	11280.5.9 = {
+		holder = 6906 # Erik 'Prästhatare' Magnusson
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		liege = "d_trandalog"
+	}
+	11337.1.1 = {
+		holder = 450780
+	}
+
+}
+
+
+d_dalir = {
+	10760.1.1 = {
+		holder = 194014
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		holder = 6844
+	}
+	10872.1.1 = {
+		liege = k_norway
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11040.1.1 = {
+		holder = 102547
+	}
+	11050.1.1 = {
+		
+	}
+	11055.1.1 = {
+		holder = 144248
+	}
+	11120.1.1 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.5 = {
+		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+	}
+	11162.7.7 = {
+		holder = 202051 # Magnus Erlingsson
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11187.1.1 = {
+		liege = "k_norway"
+	}
+	11187.1.1 = {
+		holder = 202008
+	}
+	11200.1.1 = {
+		holder = 202034
+	}
+	11217.4.23 = {
+		holder = 202509 # Håkon Håkonsson
+	}
+	11240.5.24 = {
+		holder = 202035
+	}
+	11270.1.1 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450670
+	}
+
+}
+
+
+c_hedmork = {
+	21.1.1 = {
+		change_development_level = 2
+	}
+	
+	11001.1.1 = {
+		change_development_level = 7
+	}
+	
+	11101.1.1 = {
+		change_development_level = 12
+	}
+	11178.1.1 = { change_development_level = 13 }
+	
+	10760.1.1 = {
+		holder = 194014
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		liege = d_dalir
+		holder = 6844
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11040.1.1 = {
+		holder = 102547
+	}
+	11055.1.1 = {
+		holder = 144248
+	}
+	11120.1.1 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.5 = {
+		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+	}
+	11162.7.7 = {
+		holder = 202051 # Magnus Erlingsson
+	}
+	11175.1.1 = {
+		holder = smattauga_1 # Pal Smattauga, to give Norway some historical chieftains as vassals
+		liege = k_norway
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11187.1.1 = {
+		liege = "k_norway"
+	}
+	11187.1.1 = {
+		holder = 202008
+	}
+	11200.1.1 = {
+		holder = 202034
+	}
+	11217.4.23 = {
+		holder = 202509 # Håkon Håkonsson
+	}
+	11240.5.24 = {
+		holder = 202035
+	}
+	11270.1.1 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450670
+	}
+
+}
+
+
+c_gudbrandsdalir = {
+	10760.1.1 = {
+		holder = 194014
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		liege = d_dalir
+		holder = 6844
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11040.1.1 = {
+		holder = 102547
+	}
+	11050.1.1 = {
+		
+	}
+	11055.1.1 = {
+		holder = 144248
+	}
+	11120.1.1 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.5 = {
+		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+	}
+	11162.7.7 = {
+		holder = 202051 # Magnus Erlingsson
+	}
+	11175.1.1 = {
+		holder = kula_1 # Olafr Kula, to give Norway some historical chieftains as vassals
+		liege = k_norway
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11187.1.1 = {
+		liege = "k_norway"
+	}
+	11187.1.1 = {
+		holder = 202008
+	}
+	11200.1.1 = {
+		holder = 202034
+	}
+	11217.4.23 = {
+		holder = 202509 # Håkon Håkonsson
+	}
+	11240.5.24 = {
+		holder = 202035
+	}
+	11270.1.1 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450670
+	}
+
+}
+
+
+c_eystridalir = {
+	10760.1.1 = {
+		holder = 194014
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		liege = d_viken
+		holder = 6844
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11040.1.1 = {
+		liege = "d_trandalog"
+	}
+	11040.1.1 = {
+		holder = 102547
+	}
+	11055.1.1 = {
+		holder = 144248
+	}
+	11120.1.1 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.5 = {
+		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+	}
+	11162.7.7 = {
+		holder = 202051 # Magnus Erlingsson
+	}
+	11175.1.1 = {
+		holder = snak_1 # Hallstein Snak, to give Norway some historical chieftains as vassals
+		liege = k_norway
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11187.1.1 = {
+		liege = "k_norway"
+	}
+	11187.1.1 = {
+		holder = 202008
+	}
+	11200.1.1 = {
+		holder = 202034
+	}
+	11217.4.23 = {
+		holder = 202509 # Håkon Håkonsson
+	}
+	11240.5.24 = {
+		holder = 202035
+	}
+	11270.1.1 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450670
+	}
+
+}
+
+
+c_gauldala = {
+	10760.1.1 = {
+		holder = 194013
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		#holder = 186004
+		holder = 280026
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11047.1.1 = {
+		liege = k_norway
+		holder = 102531 # Harald Hardråde
+	}
+	11066.9.26 = {
+		holder = 102532 # Magnus Haraldson
+	}
+	11069.4.28 = {
+		holder = 102534 # Olof Haraldson
+	}
+	11093.1.1 = {
+		holder = 102577 # Håkon Magnuson
+	}
+	11094.6.6 = {
+		holder = 202511 # Magnus Barfot
+	}
+	11103.1.25 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.5 = {
+		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+	}
+	11162.7.7 = {
+		holder = 202051 # Magnus Erlingsson
+	}
+	11175.1.1 = {
+		holder = fluga_1 # Kettil Fluga, to give Norway some historical chieftains as vassals
+		liege = k_norway
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11202.3.9 = {
+		holder = 202502 # Håkon Sverreson
+	}
+	11204.1.1 = {
+		holder = 202508 # Guttorm Sigurdsson
+	}
+	11204.8.11 = {
+		holder = 202032 # Inge Bårdsson
+	}
+	11217.4.23 = {
+		holder = 202034
+	}
+	11240.5.24 = {
+		holder = 202035
+	}
+	11270.1.1 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450790
+	}
+
+}
+
+
+d_halogaland = {
+	11066.1.1 = {
+		holder = 102532
+		liege = k_norway
+	}
+	11069.4.2 = {
+		holder = 102577
+	}
+	11094.6.6 = {
+		holder = 202511 # Magnus Barfot
+	}
+	11103.1.25 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.1 = {
+		holder = nidaros_bishop_1 # Eysteinn Erlendsson, archbishop of Nidaros; "Archbishop Eystein, who controlled all the north"
+		government = theocracy_government
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11187.1.1 = {
+		holder = 202010
+	}
+	11200.1.1 = {
+		holder = 202034
+	}
+	11220.1.1 = {
+		holder = 194317
+	}
+	11240.5.24 = {
+		holder = 202035
+	}
+	11270.1.1 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450780
+	}
+
+}
+
+
+c_vastvag = {
+	10760.1.1 = {
+		holder = 194018
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		holder = 168365
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "d_trandalog"
+	}
+	11066.1.1 = {
+		holder = 102532
+	}
+	11069.4.2 = {
+		holder = 102577
+	}
+	11094.6.6 = {
+		holder = 202511 # Magnus Barfot
+	}
+	11103.1.25 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.1 = {
+		holder = nidaros_bishop_1 # Eysteinn Erlendsson, archbishop of Nidaros
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11187.1.1 = {
+		holder = 202010
+	}
+	11200.1.1 = {
+		holder = 202034
+	}
+	11220.1.1 = {
+		holder = 194317
+	}
+	11240.5.24 = {
+		holder = 202035
+	}
+	11270.1.1 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450780
+	}
+
+}
+
+
+c_bothin = {
+	10760.1.1 = {
+		holder = 194018
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		holder = 168365
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "d_halogaland"
+	}
+	11066.1.1 = {
+		holder = 102532
+	}
+	11069.4.2 = {
+		holder = 102577
+	}
+	11094.6.6 = {
+		holder = 202511 # Magnus Barfot
+	}
+	11103.1.25 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.1 = {
+		holder = nidaros_bishop_1 # Eysteinn Erlendsson, archbishop of Nidaros
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11187.1.1 = {
+		holder = 202010
+	}
+	11200.1.1 = {
+		holder = 202034
+	}
+	11220.1.1 = {
+		holder = 194317
+	}
+	11240.5.24 = {
+		holder = 202035
+	}
+	11270.1.1 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450780
+	}
+
+}
+
+
+c_namdalfylki = {
+	10760.1.1 = {
+		holder = 194013
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		#holder = 186004
+		holder = 186002
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11047.1.1 = {
+		liege = k_norway
+		holder = 102531 # Harald Hardråde
+	}
+	11066.9.26 = {
+		holder = 102532 # Magnus Haraldson
+	}
+	11069.4.28 = {
+		holder = 102534 # Olof Haraldson
+	}
+	11093.1.1 = {
+		holder = 102577 # Håkon Magnuson
+	}
+	11094.6.6 = {
+		holder = 202511 # Magnus Barfot
+	}
+	11103.1.25 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.1 = {
+		holder = nidaros_bishop_1 # Eysteinn Erlendsson, archbishop of Nidaros
+	}
+	11163.1.1 = {
+		holder = 202030 # Bard Guttormsson
+		liege = d_halogaland
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11202.3.9 = {
+		holder = 202502 # Håkon Sverreson
+	}
+	11204.1.1 = {
+		holder = 202508 # Guttorm Sigurdsson
+	}
+	11204.8.11 = {
+		holder = 202032 # Inge Bårdsson
+	}
+	11217.4.23 = {
+		holder = 202034
+	}
+	11240.5.24 = {
+		holder = 202035
+	}
+	11270.1.1 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450790
+	}
+
+}
+
+d_iceland = {
+	21.1.1 = {
+		change_development_level = 0
+	}
+	
+	11001.1.1 = {
+		change_development_level = 0
+	}
+	
+	11101.1.1 = {
+		change_development_level = 0
+	}
+	11178.1.1 = { change_development_level = 4 }
+	
+	11066.1.1 = {
+		holder = 20579
+	}
+	11080.6.5 = {
+		holder = 144632
+	}
+	11111.1.1 = {
+		holder = 144633
+	}
+	11150.1.1 = {
+		holder = 202011
+	}
+	11206.6.27 = {
+		holder = 202012
+	}
+	11235.9.1 = {
+		holder = 144647
+	}
+	11264.1.1 = {
+		liege = "k_norway"
+	}
+	11268.1.12 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510
+	}
+	11319.5.8 = {
+		holder = 450500
+	}
+}
+
+
+c_vestisland = {
+	10767.1.1 = {
+		holder = 194044
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 168609 #Aud the Deep-minded, early Icelandic settler and credited as the one who brought Christianity to Iceland
+	}
+	#10935.1.1 = {
+	#	government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	#}
+	11066.1.1 = {
+		liege = "d_iceland"
+	}
+	11066.1.1 = {
+		holder = 20580
+	}
+	11088.1.1 = {
+		holder = 20581
+	}
+	11120.1.1 = {
+		holder = 202026
+	}
+	11133.1.1 = {
+		holder = 202024
+	}
+	11197.1.1 = {
+		holder = 202028
+	}
+	11222.11.7 = {
+		holder = 202012
+	}
+	11235.9.1 = {
+		holder = 144647
+	}
+	11268.1.12 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510
+	}
+	11319.5.8 = {
+		holder = 450500
+	}
+}
+
+c_sudurland = {
+	10767.1.1 = {
+		holder = 194044
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 168609 #Aud the Deep-minded, early Icelandic settler and credited as the one who brought Christianity to Iceland
+	}
+	#10935.1.1 = {
+	#	government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	#}
+	11066.1.1 = {
+		liege = "d_iceland"
+	}
+	11066.1.1 = {
+		holder = 20580
+	}
+	11088.1.1 = {
+		holder = 20581
+	}
+	11120.1.1 = {
+		holder = 202026
+	}
+	11133.1.1 = {
+		holder = 202024
+	}
+	11178.1.1 = {
+		holder = 202018 # Thorlakur, bishop of Skalholt
+		government = theocracy_government
+	}
+	11197.1.1 = {
+		holder = 202028
+	}
+	11222.11.7 = {
+		holder = 202012
+	}
+	11235.9.1 = {
+		holder = 144647
+	}
+	11268.1.12 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510
+	}
+	11319.5.8 = {
+		holder = 450500
+	}
+}
+
+
+c_austisland = {
+	10768.1.1 = {
+		holder = 194045
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 180257
+	}
+	#10935.1.1 = {
+	#	government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	#}
+	11066.1.1 = {
+		liege = "d_iceland"
+	}
+	11066.1.1 = {
+		holder = 20579
+	}
+	11080.6.5 = {
+		holder = 144632
+	}
+	11111.1.1 = {
+		holder = 144633
+	}
+	11150.1.1 = {
+		holder = 202011
+	}
+	11206.6.27 = {
+		holder = 202012
+	}
+	11235.9.1 = {
+		holder = 144647
+	}
+	11268.1.12 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510
+	}
+	11319.5.8 = {
+		holder = 450500
+	}
+}
+
+c_nordrland = {
+	10768.1.1 = {
+		holder = 194045
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 180257
+	}
+	#10935.1.1 = {
+	#	government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	#}
+	11066.1.1 = {
+		liege = "d_iceland"
+	}
+	11066.1.1 = {
+		holder = 20579
+	}
+	11080.6.5 = {
+		holder = 144632
+	}
+	11111.1.1 = {
+		holder = 144633
+	}
+	11150.1.1 = {
+		holder = 202011
+	}
+	11206.6.27 = {
+		holder = 202012
+	}
+	11235.9.1 = {
+		holder = 144647
+	}
+	11268.1.12 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510
+	}
+	11319.5.8 = {
+		holder = 450500
+	}
+}
+
+
+d_northern_isles = {
+	
+	10874.1.1 = {
+		holder = 161303
+	}
+	10892.1.1 = {
+		holder = 161304
+	}
+	10893.1.1 = {
+		holder = 161302
+	}
+	10894.1.1 = {
+		holder = 161306
+	}
+	10910.1.1 = {
+		holder = 161308
+	}
+	10946.1.1 = {
+		holder = 161309
+	}
+	10950.1.1 = {
+		holder = 161310
+	}
+	10954.1.1 = {
+		holder = 161311
+	}
+	10977.1.1 = {
+		holder = 161312
+	}
+	10990.1.1 = {
+		holder = 161313
+	}
+	10991.1.1 = {
+		holder = 161314
+	}
+	10992.1.1 = {
+		holder = 161315
+	}
+	10993.1.1 = {
+		holder = 5994
+	}
+	11014.4.23 = {
+		holder = 161316
+	}
+	11020.1.1 = {
+		holder = 161318
+	}
+	11025.1.1 = {
+		holder = 161317
+	}
+	11030.1.1 = {
+		holder = 102537
+	}
+	11037.1.1 = {
+		holder = 161319
+	}
+	11046.12.1 = {
+		holder = 102537
+	}
+	11064.1.1 = {
+		liege = "k_norway"
+	}
+	11064.1.1 = {
+		holder = 102538
+	}
+	11098.1.1 = {
+		holder = 202511
+	}
+	11103.1.1 = {
+		holder = 220036
+	}
+	11123.1.1 = {
+		holder = 7350
+	}
+	11137.1.1 = {
+		holder = 220020
+	}
+	11206.1.1 = {
+		holder = 220043
+	}
+	11231.1.1 = {
+		holder = 203080
+	}
+	11239.1.1 = {
+		holder = 7347
+	}
+	11256.1.1 = {
+		holder = 7346
+	}
+	11273.1.1 = {
+		holder = 7344
+	}
+	11312.10.28 = {
+		holder = 7343
+	}
+	11321.1.1 = {
+		holder = 450820
+	}
+
+}
+
+
+c_orkney = {
+	10760.1.1 = {
+		liege = "d_moray"
+		holder = 166615
+		government = tribal_government
+	}
+	10867.1.1 = {
+		liege = 0
+		holder = 186502
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "d_northern_isles"
+	}
+	11066.1.1 = {
+		holder = 102538
+	}
+	11098.1.1 = {
+		holder = 220036
+	}
+	11123.1.1 = {
+		holder = 7350
+	}
+	11137.1.1 = {
+		holder = 220020
+	}
+	11206.1.1 = {
+		holder = 220043
+	}
+	11231.1.1 = {
+		holder = 203080
+	}
+	11239.1.1 = {
+		holder = 7347
+	}
+	11256.1.1 = {
+		holder = 7346
+	}
+	11273.1.1 = {
+		holder = 7344
+	}
+	11312.10.28 = {
+		holder = 7343
+	}
+	11321.1.1 = {
+		holder = 450820
+	}
+}
+
+
+c_faereyar = {
+	10760.1.1 = {
+		holder = 166616
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 186504 #Naddod, the discoverer of Iceland and one of the first settles on Faroe Islands
+	}
+	10874.1.1 = {
+		holder = 161303
+	}
+	10892.1.1 = {
+		holder = 161304
+	}
+	10893.1.1 = {
+		holder = 161302
+	}
+	10894.1.1 = {
+		holder = 161306
+	}
+	10910.1.1 = {
+		holder = 161308
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10946.1.1 = {
+		holder = 161309
+	}
+	10950.1.1 = {
+		holder = 161310
+	}
+	10954.1.1 = {
+		holder = 161311
+	}
+	10977.1.1 = {
+		holder = 161312
+	}
+	10990.1.1 = {
+		holder = 161313
+	}
+	10991.1.1 = {
+		holder = 161314
+	}
+	10992.1.1 = {
+		holder = 161315
+	}
+	10993.1.1 = {
+		holder = 5994
+	}
+	11014.4.23 = {
+		holder = 161316
+	}
+	11020.1.1 = {
+		holder = 161318
+	}
+	11025.1.1 = {
+		holder = 161317
+	}
+	11030.1.1 = {
+		holder = 102537
+	}
+	11037.1.1 = {
+		holder = 161319
+	}
+	11046.12.1 = {
+		holder = 102574
+	}
+	11047.1.1 = {
+		liege = "k_norway"
+	}
+	11047.1.1 = {
+		holder = 102529
+	}
+	11047.10.25 = {
+		holder = 102531
+	}
+	11066.9.26 = {
+		holder = 102532
+	}
+	11069.4.28 = {
+		holder = 102534
+	}
+	11093.1.1 = {
+		holder = 102577
+	}
+	11094.6.6 = {
+		holder = 202511
+	}
+	11103.1.25 = {
+		holder = 222598
+	}
+	11115.12.22 = {
+		holder = 222597
+	}
+	11123.8.29 = {
+		holder = 222595
+	}
+	11130.3.26 = {
+		holder = 222599
+	}
+	11135.1.7 = {
+		holder = 202510
+	}
+	11136.12.14 = {
+		holder = 202501
+	}
+	11155.6.10 = {
+		holder = 202514
+	}
+	11157.8.21 = {
+		holder = 202512
+	}
+	11161.1.5 = {
+		holder = 202507
+	}
+	11162.7.7 = {
+		holder = 202051
+	}
+	11184.6.15 = {
+		holder = 202500
+	}
+	11202.3.9 = {
+		holder = 202502
+	}
+	11204.1.1 = {
+		holder = 202508
+	}
+	11204.8.11 = {
+		holder = 202032
+	}
+	11217.4.23 = {
+		liege = d_northern_isles
+		holder = 220042
+	}
+	11263.12.15 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510
+	}
+	11319.5.8 = {
+		holder = 450500
+	}
+}
+
+
+c_shetland = {
+	10760.1.1 = {
+		liege = "d_moray"
+		holder = 166613
+		government = tribal_government
+	}
+	10867.1.1 = {
+		liege = 0
+		holder = 186501
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "d_northern_isles"
+	}
+	11066.1.1 = {
+		holder = 102538
+	}
+	11098.1.1 = {
+		holder = 220036
+	}
+	11123.1.1 = {
+		holder = 7350
+	}
+	11137.1.1 = {
+		holder = 220020
+	}
+	11206.1.1 = {
+		holder = 220043
+	}
+	11231.1.1 = {
+		holder = 203080
+	}
+	11239.1.1 = {
+		holder = 7347
+	}
+	11256.1.1 = {
+		holder = 7346
+	}
+	11273.1.1 = {
+		holder = 7344
+	}
+	11312.10.28 = {
+		holder = 7343
+	}
+	11321.1.1 = {
+		holder = 450820
+	}
+}
+
+
+d_jamtland = {
+	11178.1.1 = {
+		liege = "k_norway"
+	}
+	11178.1.1 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11184.6.15 = {
+		holder = 202500
+	}
+	11202.3.9 = {
+		holder = 202502
+	}
+	11204.1.1 = {
+		holder = 202508
+	}
+	11204.8.11 = {
+		holder = 202032
+	}
+	11217.4.23 = {
+		holder = 202509
+	}
+	11220.1.1 = {
+		holder = 194313
+	}
+	11250.1.1 = {
+		holder = 450801
+	}
+	11290.1.1 = {
+		holder = 450800
+	}
+
+}
+
+
+c_jamtfir = {
+	10760.1.1 = {
+		holder = 194021
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		holder = 186015
+	}
+	11020.1.1 = {
+		government = feudal_government
+	}
+	11066.1.1 = {
+		holder = 102575
+	}
+	11070.1.2 = {
+		holder = 143129
+	}
+	11130.1.1 = {
+		holder = 143130
+	}
+	11178.1.1 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11184.6.15 = {
+		holder = 202500
+	}
+	11202.3.9 = {
+		holder = 202502
+	}
+	11204.1.1 = {
+		holder = 202508
+	}
+	11204.8.11 = {
+		holder = 202032
+	}
+	11217.4.23 = {
+		holder = 202509
+	}
+	11220.1.1 = {
+		holder = 194313
+	}
+	11250.1.1 = {
+		holder = 450801
+	}
+	11290.1.1 = {
+		holder = 450800
+	}
+
+}
+
+
+c_morarna = {
+	10760.1.1 = {
+		holder = 194021
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		holder = 186015
+	}
+	11020.1.1 = {
+		government = feudal_government
+	}
+	11066.1.1 = {
+		holder = 102575
+	}
+	11070.1.2 = {
+		holder = 143129
+	}
+	11130.1.1 = {
+		holder = 143130
+	}
+	11178.1.1 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11184.6.15 = {
+		holder = 202500
+	}
+	11202.3.9 = {
+		holder = 202502
+	}
+	11204.1.1 = {
+		holder = 202508
+	}
+	11204.8.11 = {
+		holder = 202032
+	}
+	11217.4.23 = {
+		holder = 202509
+	}
+	11220.1.1 = {
+		holder = 194313
+	}
+	11250.1.1 = {
+		holder = 450801
+	}
+	11290.1.1 = {
+		holder = 450800
+	}
+
+}
+
+
+c_helgum = {
+	10760.1.1 = {
+		holder = 194021
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		holder = 186015
+	}
+	11020.1.1 = {
+		government = feudal_government
+	}
+	11066.1.1 = {
+		holder = 20019
+	}
+	11070.1.2 = {
+		holder = 143129
+	}
+	11130.1.1 = {
+		holder = 143130
+	}
+	11178.1.1 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11184.6.15 = {
+		holder = 202500
+	}
+	11202.3.9 = {
+		holder = 202502
+	}
+	11204.1.1 = {
+		holder = 202508
+	}
+	11204.8.11 = {
+		holder = 202032
+	}
+	11217.4.23 = {
+		holder = 202509
+	}
+	11220.1.1 = {
+		holder = 194313
+	}
+	11250.1.1 = {
+		holder = 450801
+	}
+	11290.1.1 = {
+		holder = 450800
+	}
+
+}
+
+
+c_harjadalen = {
+	10760.1.1 = {
+		holder = 194021
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		holder = 186015
+	}
+	11020.1.1 = {
+		government = feudal_government
+	}
+	11066.1.1 = {
+		holder = 102575
+	}
+	11070.1.2 = {
+		holder = 143129
+	}
+	11130.1.1 = {
+		holder = 143130
+	}
+	11178.1.1 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11184.6.15 = {
+		holder = 202500
+	}
+	11202.3.9 = {
+		holder = 202502
+	}
+	11204.1.1 = {
+		holder = 202508
+	}
+	11204.8.11 = {
+		holder = 202032
+	}
+	11217.4.23 = {
+		holder = 202509
+	}
+	11220.1.1 = {
+		holder = 194313
+	}
+	11250.1.1 = {
+		holder = 450801
+	}
+	11290.1.1 = {
+		holder = 450800
+	}
+
+}
+

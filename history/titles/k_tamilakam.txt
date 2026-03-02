@@ -1,0 +1,1669 @@
+k_tamilakam = {
+	10867.1.1 = { change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10920.1.1 = {
+		holder = 189033
+	}
+	10955.1.1 = {
+		holder = 189034
+	}
+	10956.1.1 = {
+		holder = 189036
+	}
+	10957.1.1 = {
+		holder = 189037
+	}
+	10970.1.1 = {
+		holder = 189035
+	}
+	10985.1.1 = {
+		holder = 189038
+	}
+	11014.1.1 = {
+		holder = 189039
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = 189041
+	}
+	11063.1.1 = {
+		holder = 189042
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_type = court_intrigue
+				}
+			}
+		}
+	}
+	11067.1.1 = {
+		holder = 189043
+	}
+
+	#Later Cholas
+	11070.1.1 = {
+		holder = 189108
+	}
+	11120.1.1 = {
+		holder = 189117
+	}
+	11135.1.1 = {
+		holder = 189118
+	}
+	11150.1.1 = {
+		holder = 189119
+	}
+	11173.1.1 = {
+		holder = 189120
+	}
+	11178.1.1 = {
+		holder = 189121
+	}
+	11218.1.1 = {
+		holder = 189133 #Pandyan rule
+	}
+	11238.1.1 = {
+		holder = 189134
+	}
+	11251.1.1 = {
+		holder = 189135
+	}
+	11268.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+
+d_pandya_nadu = {
+	10867.1.1 = { change_development_level = 12 }
+	11066.1.1 = { change_development_level = 18 }
+	11178.1.1 = { change_development_level = 18 }
+	
+	10765.1.1 = {
+		holder = 189065
+	}
+	10846.1.1 = {
+		holder = 175090
+	}
+	10920.1.1 = {
+		liege = k_tamilakam #Conquest by Cholas
+		holder = 189109
+	}
+	10960.1.1 = {
+		holder = 189110
+	}
+	10980.1.1 = {
+		holder = 189111
+	}
+	11003.1.1 = {
+		holder = 189112
+	}
+	11024.1.1 = {
+		holder = 189113
+	}
+	11050.1.1 = {
+		holder = 189114
+	}
+	11065.1.1 = {
+		holder = 189115
+	}
+	11081.1.1 = {
+		holder = 189116
+	}
+	11101.1.1 = {
+		holder = 189124
+	}
+	11132.1.1 = {
+		holder = 189125
+	}
+	11161.1.1 = {
+		holder = 189126
+	}
+	11162.1.1 = {
+		holder = 189129
+	}
+	11170.1.1 = {
+		holder = 189127
+	}
+	11175.1.1 = {
+		holder = 189130
+	}
+	11180.1.1 = {
+		holder = 189131
+	}
+	11190.1.1 = {
+		holder = 189132
+	}
+	11216.1.1 = {
+		holder = 189133
+	}
+	11218.1.1 = {
+		liege = 0
+	}
+	11238.1.1 = {
+		holder = 189134
+	}
+	11251.1.1 = {
+		holder = 189135
+	}
+	11268.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+c_madurai = {
+	10867.1.1 = { change_development_level = 18 }
+	11066.1.1 = { change_development_level = 25 }
+	
+	10765.1.1 = {
+		holder = 189065
+	}
+	10846.1.1 = {
+		holder = 175090
+	}
+	10920.1.1 = {
+		holder = 189109
+	}
+	10960.1.1 = {
+		holder = 189110
+	}
+	10980.1.1 = {
+		holder = 189111
+	}
+	11003.1.1 = {
+		holder = 189112
+	}
+	11024.1.1 = {
+		holder = 189113
+	}
+	11050.1.1 = {
+		holder = 189114
+	}
+	11065.1.1 = {
+		holder = 189115
+		liege = d_pandya_nadu
+	}
+	11081.1.1 = {
+		holder = 189116
+	}
+	11101.1.1 = {
+		holder = 189124
+	}
+	11132.1.1 = {
+		holder = 189125
+	}
+	11161.1.1 = {
+		holder = 189126
+	}
+	11162.1.1 = {
+		holder = 189129
+	}
+	11170.1.1 = {
+		holder = 189127
+	}
+	11175.1.1 = {
+		holder = 189130
+	}
+	11180.1.1 = {
+		holder = 189131
+	}
+	11190.1.1 = {
+		holder = 189132
+	}
+	11216.1.1 = {
+		holder = 189133
+	}
+	11238.1.1 = {
+		holder = 189134
+	}
+	11251.1.1 = {
+		holder = 189135
+	}
+	11268.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+
+c_kongu = {
+	10765.1.1 = {
+		holder = 189065
+	}
+	10846.1.1 = {
+		holder = 175090
+	}
+	10920.1.1 = {
+		holder = 189109
+	}
+	10960.1.1 = {
+		holder = 189110
+	}
+	10980.1.1 = {
+		holder = 189111
+	}
+	11003.1.1 = {
+		holder = 189112
+	}
+	11024.1.1 = {
+		holder = 189113
+	}
+	11050.1.1 = {
+		holder = 189114
+	}
+	11065.1.1 = {
+		holder = 189115
+		liege = d_pandya_nadu
+	}
+	11081.1.1 = {
+		holder = 189116
+	}
+	11101.1.1 = {
+		holder = 189124
+	}
+	11132.1.1 = {
+		holder = 189125
+	}
+	11161.1.1 = {
+		holder = 189126
+	}
+	11162.1.1 = {
+		holder = 189129
+	}
+	11170.1.1 = {
+		holder = 189127
+	}
+	11175.1.1 = {
+		holder = 189130
+	}
+	11180.1.1 = {
+		holder = 189131
+	}
+	11190.1.1 = {
+		holder = 189132
+	}
+	11216.1.1 = {
+		holder = 189149
+	}
+	11243.1.1 = {
+		holder = 189150
+	}
+	11268.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+
+c_uraiyur = {	
+	10765.1.1 = {
+		holder = 189065
+	}
+	10846.1.1 = {
+		holder = 175090
+	}
+	10920.1.1 = {
+		holder = 189109
+	}
+	10960.1.1 = {
+		holder = 189110
+	}
+	10980.1.1 = {
+		holder = 189111
+	}
+	11003.1.1 = {
+		holder = 189112
+	}
+	11024.1.1 = {
+		holder = 189113
+	}
+	11050.1.1 = {
+		holder = 189114
+	}
+	11065.1.1 = {
+		holder = 189115
+		liege = d_pandya_nadu
+	}
+	11081.1.1 = {
+		holder = 189116
+	}
+	11101.1.1 = {
+		holder = 189124
+	}
+	11132.1.1 = {
+		holder = 189125
+	}
+	11161.1.1 = {
+		holder = 189126
+	}
+	11162.1.1 = {
+		holder = 189129
+	}
+	11170.1.1 = {
+		holder = 189127
+	}
+	11175.1.1 = {
+		holder = 189130
+	}
+	11180.1.1 = {
+		holder = 189131
+	}
+	11190.1.1 = {
+		holder = 189132
+	}
+	11216.1.1 = {
+		holder = 189149
+	}
+	11243.1.1 = {
+		holder = 189150
+	}
+	11268.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+d_chola_nadu = {
+	10867.1.1 = { change_development_level = 12 }
+	11066.1.1 = { change_development_level = 18 }
+	11178.1.1 = { change_development_level = 18 }
+	
+	10846.1.1 = {
+		holder = 175080
+	}
+	10871.1.1 = {
+		holder = 189032
+	}
+	10907.1.1 = {
+		holder = 189033
+	}
+	10950.1.1 = {
+		holder = 189034
+	}
+	10956.1.1 = {
+		holder = 189036
+	}
+	10957.1.1 = {
+		holder = 189037
+	}
+	10970.1.1 = {
+		holder = 189035
+	}
+	10985.1.1 = {
+		holder = 189038
+	}
+	11014.1.1 = {
+		holder = 189039
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = 189041
+	}
+	11063.1.1 = {
+		holder = 189042
+	}
+	11067.1.1 = {
+		holder = 189043
+	}
+	11070.1.1 = {
+		holder = 189108
+	}
+	11120.1.1 = {
+		holder = 189117
+	}
+	11135.1.1 = {
+		holder = 189118
+	}
+	11150.1.1 = {
+		holder = 189119
+	}
+	11173.1.1 = {
+		holder = 189120
+	}
+	11178.1.1 = {
+		holder = 189121
+	}
+	11218.1.1 = {
+		holder = 189122
+	}
+	11218.1.1 = {
+		liege = "k_tamilakam" #Conquest by Pandyas
+	}
+	11256.1.1 = {
+		holder = 189123
+	}
+	11279.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+c_cholamandalam = {
+	10867.1.1 = { change_development_level = 18 }
+	11066.1.1 = { change_development_level = 25 }
+	11178.1.1 = { change_development_level = 30 }
+	
+	10769.1.1 = {
+		liege = d_tondai_nadu
+		holder = 189400
+	}
+	10846.1.1 = {
+		holder = 175080
+	}
+	10871.1.1 = {
+		holder = 189032
+	}
+	10907.1.1 = {
+		holder = 189033
+	}
+	10950.1.1 = {
+		holder = 189034
+	}
+	10956.1.1 = {
+		holder = 189036
+	}
+	10957.1.1 = {
+		holder = 189037
+	}
+	10970.1.1 = {
+		holder = 189035
+	}
+	10985.1.1 = {
+		holder = 189038
+	}
+	11014.1.1 = {
+		holder = 189039
+		liege = d_chola_nadu
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = 189041
+	}
+	11063.1.1 = {
+		holder = 189042
+	}
+	11067.1.1 = {
+		holder = 189043
+	}
+	11070.1.1 = {
+		holder = 189108
+	}
+	11120.1.1 = {
+		holder = 189117
+	}
+	11135.1.1 = {
+		holder = 189118
+	}
+	11150.1.1 = {
+		holder = 189119
+	}
+	11173.1.1 = {
+		holder = 189120
+	}
+	11178.1.1 = {
+		holder = 189121
+	}
+	11218.1.1 = {
+		holder = 189122
+	}
+	11256.1.1 = {
+		holder = 189123
+	}
+	11279.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+
+c_tagadur = {
+	10765.1.1 = {
+		liege = d_tondai_nadu
+		holder = 189421
+	}
+	10846.1.1 = {
+		holder = 175090
+	}
+	10871.1.1 = {
+		holder = 189032
+	}
+	10907.1.1 = {
+		holder = 189033
+	}
+	10950.1.1 = {
+		holder = 189034
+	}
+	10956.1.1 = {
+		holder = 189036
+	}
+	10957.1.1 = {
+		holder = 189037
+	}
+	10970.1.1 = {
+		holder = 189035
+	}
+	10985.1.1 = {
+		holder = 189038
+	}
+	11014.1.1 = {
+		holder = 189039
+	}
+	11020.1.1 = {
+		liege = d_chola_nadu
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = 189041
+	}
+	11063.1.1 = {
+		holder = 189042
+	}
+	11067.1.1 = {
+		holder = 189043
+	}
+	11070.1.1 = {
+		holder = 189108
+	}
+	11120.1.1 = {
+		holder = 189117
+	}
+	11135.1.1 = {
+		holder = 189118
+	}
+	11150.1.1 = {
+		holder = 189119
+	}
+	11173.1.1 = {
+		holder = 189120
+	}
+	11178.1.1 = {
+		holder = 189121
+	}
+	11216.1.1 = {
+		holder = 189149
+	}
+	11243.1.1 = {
+		holder = 189150
+	}
+	11279.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+
+c_tiruvannamalai = {
+	10769.1.1 = {
+		liege = d_tondai_nadu
+		holder = 189072
+	}
+	10846.1.1 = {
+		holder = 175080
+	}
+	10869.1.1 = {
+		holder = 189071
+	}
+	10879.1.1 = {
+		holder = 189032 #Chola conquest
+	}
+	10907.1.1 = {
+		holder = 189033
+	}
+	10950.1.1 = {
+		holder = 189034
+	}
+	10956.1.1 = {
+		holder = 189036
+	}
+	10957.1.1 = {
+		holder = 189037
+	}
+	10970.1.1 = {
+		holder = 189035
+	}
+	10985.1.1 = {
+		holder = 189038
+	}
+	11014.1.1 = {
+		holder = 189039
+	}
+	11020.1.1 = {
+		liege = d_chola_nadu
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = 189041
+	}
+	11060.1.1 = {
+		holder = cholan_grandee_1 #Significant landholder in Manavil Nadu - South of the Palar River
+	}
+	11124.1.1 = {
+		holder = 189117
+	}
+	11135.1.1 = {
+		holder = 189118
+	}
+	11150.1.1 = {
+		holder = 189119
+	}
+	11173.1.1 = {
+		holder = 189120
+	}
+	11178.1.1 = {
+		holder = 189121
+	}
+	11186.1.1 = {
+		holder = 189147
+	}
+	11190.1.1 = {
+		holder = 189148
+	}
+	11216.1.1 = {
+		holder = 189149
+	}
+	11243.1.1 = {
+		holder = 189150
+	}
+	11279.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+d_chera_nadu = {
+	10867.1.1 = { change_development_level = 12 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10800.1.1 = {
+		holder = 189048
+	}
+	10846.1.1 = {
+		holder = 175100
+	}
+	10883.1.1 = {
+		holder = 189049
+	}
+	10913.1.1 = {
+		holder = 189050
+	}
+	10943.1.1 = {
+		holder = 189051
+	}
+	10962.1.1 = {
+		holder = 189052
+	}
+	11008.1.1 = {
+		liege = "k_tamilakam" #Conquest by Cholas - Intermittently independent on and off beyond this. Frequently in need of re-subjugation.
+	}
+	11014.1.1 = {
+		liege = 0 #Independent
+	}
+	11021.1.1 = {
+		holder = 189053
+		liege = "k_tamilakam"
+	}
+	11036.1.1 = {
+		holder = 189054
+	}
+	11063.1.1 = { #Also revolts a number of times between 1021 and 1063
+		liege = 0 #Independent again
+	}
+	11070.1.1 = {
+		holder = 189055
+	}
+	11080.1.1 = {
+		holder = 189056
+		liege = "k_tamilakam"
+	}
+	11089.1.1 = {
+		holder = 189057
+	}
+	11102.1.1 = {
+		liege = 0
+		holder = 0 #
+	}
+}
+
+
+c_kerala = {
+	10769.1.1 = {
+		holder = 189410
+		liege = d_pandya_nadu
+	}
+	10800.1.1 = {
+		holder = 189048
+	}
+	10846.1.1 = {
+		holder = 175100
+	}
+	10883.1.1 = {
+		holder = 189049
+	}
+	10913.1.1 = {
+		holder = 189050
+	}
+	10943.1.1 = {
+		holder = 189051
+	}
+	10962.1.1 = {
+		holder = 189052
+	}
+	11021.1.1 = {
+		holder = 189053
+	}
+	11036.1.1 = {
+		holder = 189054
+		liege = d_chera_nadu
+	}
+	11070.1.1 = {
+		holder = 189055
+	}
+	11080.1.1 = {
+		holder = 189056
+	}
+	11089.1.1 = {
+		holder = 189057
+	}
+	11102.1.1 = {
+		liege = "k_tamilakam" #Conquest by Cholas
+	}
+	11178.1.1 = {
+		holder = chola_vassal_3 # Fictitious
+	}
+	11218.1.1 = {
+		holder = 189133 #Pandyan rule
+	}
+	11238.1.1 = {
+		holder = 189134
+	}
+	11251.1.1 = {
+		holder = 189135
+	}
+	11268.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+
+c_venadu = {
+	10769.1.1 = {
+		holder = 189405
+		liege = d_pandya_nadu
+	}
+	10857.1.1 = {
+		holder = 189407
+		liege = d_chera_nadu
+	}
+	10883.1.1 = {
+		holder = 189049
+	}
+	10913.1.1 = {
+		holder = 189050
+	}
+	10943.1.1 = {
+		holder = 189051
+	}
+	10962.1.1 = {
+		holder = 189052
+	}
+	11021.1.1 = {
+		holder = 189053
+	}
+	11036.1.1 = {
+		holder = malabari_vassal03
+		liege = d_chera_nadu
+	}
+	#Continue to be held by its own line but since we have no details we revert it to the Cheras:
+	11070.1.1 = {
+		holder = 189055
+	}
+	11080.1.1 = {
+		holder = 189056
+	}
+	11089.1.1 = {
+		holder = 189057
+	}
+	11102.1.1 = {
+		liege = "k_tamilakam" #Conquest by Cholas
+	}
+	11173.1.1 = {
+		holder = venad_chera_1 # Vira Udaya Martanda Varma
+		liege = d_pandya_nadu
+	}
+	11218.1.1 = {
+		holder = 189133 #Pandyan rule
+	}
+	11238.1.1 = {
+		holder = 189134
+	}
+	11251.1.1 = {
+		holder = 189135
+	}
+	11268.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+
+c_alupa = { #Kolathunad
+	10769.1.1 = {
+		holder = 74689
+		liege = d_gangavadi
+	}
+	10800.1.1 = {
+		holder = 189048
+	}
+	10846.1.1 = {
+		holder = 175100
+	}
+	10883.1.1 = {
+		holder = 189049
+	}
+	10913.1.1 = {
+		holder = 189050
+	}
+	10943.1.1 = {
+		holder = 189051
+	}
+	10962.1.1 = {
+		holder = 189052
+	}
+	11021.1.1 = {
+		holder = 189053
+	}
+	11036.1.1 = {
+		holder = malabari_vassal02
+		liege = d_chera_nadu
+	}
+	#Continues to be held by the same line but since we have no details we revert it to the Cheras:
+	11070.1.1 = {
+		holder = 189055
+	}
+	11080.1.1 = {
+		holder = 189056
+	}
+	11089.1.1 = {
+		holder = 189057
+	}
+	11102.1.1 = {
+		liege = "k_tamilakam" #Conquest by Cholas
+	}
+	11178.1.1 = {
+		holder = chola_vassal_1 # Fictitious
+	}
+	11218.1.1 = {
+		holder = 189133 #Pandyan rule
+	}
+	11238.1.1 = {
+		holder = 189134
+	}
+	11251.1.1 = {
+		holder = 189135
+	}
+	11268.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+b_udayavara = {
+	10610.1.1 = {
+		holder = 192001 #Aluvarasa I Alupa
+	}
+	10630.1.1 = {
+		holder = 192002 #Gunasagara
+	}
+	10663.1.1 = {
+		holder = 192003 #Chitravahana
+	}
+	10730.1.1 = {
+		holder = 192004 #Aluvarasa II
+	}
+	10750.1.1 = {
+		holder = 192005 #Chitravahana II
+	}
+	10770.1.1 = {
+		holder = 192007 #Ranasagara
+	}
+	10790.1.1 = {
+		holder = 192009 #Pritvisagara
+	}
+	10836.1.1 = {
+		holder = 74596 #Marama
+	}
+	10873.1.1 = {
+		holder = 74597 #Vimaladitya
+	}
+	10906.1.1 = {
+		holder = 74598 #Rananjaya
+	}
+	10928.1.1 = {
+		holder = 74599 #74599
+	}
+	10960.1.1 = {
+		holder = 74600 #74600
+	}
+	10980.1.1 = {
+		holder = 74601 #Jayasimha
+	}
+	11010.1.1 = {
+		holder = 74602 #Bankideva
+	}
+	11040.1.1 = {
+		holder = 74603 #Pattiyodeya
+	}
+	11080.1.1 = {
+		holder = 74605
+	}
+	11110.1.1 = {
+		holder = 74607
+	}
+	11160.1.1 = {
+		holder = 74609
+	}
+	11220.1.1 = {
+		holder = 74610
+	}
+	11230.1.1 = {
+		holder = 74611
+	}
+	11250.1.1 = {
+		holder = 74612
+	}
+	11275.1.1 = {
+		holder = 74613
+	}
+	11285.1.1 = {
+		holder = 74615
+	}
+	11308.1.1 = {
+		holder = 74616
+	}
+	11335.1.1 = {
+		holder = 74618
+	}
+}
+
+c_eranad = { #Eranadu
+	10769.1.1 = {
+		holder = 74689
+		liege = d_gangavadi
+	}
+	10800.1.1 = {
+		holder = 189048
+	}
+	10846.1.1 = {
+		holder = 175100
+	}
+	10883.1.1 = {
+		holder = 189049
+	}
+	10913.1.1 = {
+		holder = 189050
+	}
+	10943.1.1 = {
+		holder = 189051
+	}
+	10962.1.1 = {
+		holder = 189052
+	}
+	11021.1.1 = {
+		holder = 189053
+	}
+	11036.1.1 = {
+		holder = malabari_vassal01
+		liege = d_chera_nadu
+	}
+	#Continues to be held by the same line but since we have no detailed history we revert it to the Cheras:
+	11070.1.1 = {
+		holder = 189055
+	}
+	11080.1.1 = {
+		holder = 189056
+	}
+	11089.1.1 = {
+		holder = 189057
+	}
+	11102.1.1 = {
+		liege = "k_tamilakam" #Conquest by Cholas
+	}
+	11178.1.1 = {
+		holder = chola_vassal_2 # Fictitious
+	}
+	11218.1.1 = {
+		holder = 189133 #Pandyan rule
+	}
+	11238.1.1 = {
+		holder = 189134
+	}
+	11251.1.1 = {
+		holder = 189135
+	}
+	11268.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+c_maldives = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10769.1.1 = {
+		holder = 189154
+	}
+	10850.1.1 = {
+		holder = 189151
+	}
+	10990.1.1 = {
+		holder = 189159
+	}
+	10991.1.1 = {
+		holder = 189160
+	}
+	11021.1.1 = {
+		holder = 189161
+	}
+	11055.1.1 = {
+		holder = 189162
+	}
+	11084.1.1 = {
+		holder = 189163
+	}
+	11117.1.1 = {
+		holder = 189164
+	}
+	11166.1.1 = {
+		holder = theemuge_1
+	}
+}
+
+
+d_tondai_nadu = {
+	10732.1.1 = {
+		holder = 189073
+	}
+	10796.1.1 = {
+		holder = 0
+	}
+	10846.1.1 = { #Pallavas
+		holder = 175070
+	}
+	10879.1.1 = {
+		liege = "k_tamilakam"
+		holder = 189032 #Chola conquest
+	}
+	10907.1.1 = {
+		holder = 189033
+	}
+	10950.1.1 = {
+		holder = 189034
+	}
+	10956.1.1 = {
+		holder = 189036
+	}
+	10957.1.1 = {
+		holder = 189037
+	}
+	10970.1.1 = {
+		holder = 189035
+	}
+	10985.1.1 = {
+		holder = 189038
+	}
+	11014.1.1 = {
+		holder = 189039
+	}
+	#Banas of Renandu
+	#Independent - often tributary
+	#Vikramaditya
+	11020.1.1 = {
+		liege = 0
+		holder = banas_of_renandu_1
+	}
+	11178.1.1 = {
+		holder = 189121 # Kulottunka
+	}
+}
+
+c_kanchipuram = {
+	11178.1.1 = { change_development_level = 30 }
+
+	#Pallava kingdom
+	10765.1.1 = {
+		liege = d_tondai_nadu
+		holder = 189423
+	}
+	10846.1.1 = {
+		holder = 175070
+	}
+	11020.1.1 = {
+		holder = narayanavanam_yadava_ruler
+		liege = k_tamilakam
+	}
+#	11044.1.1 = {
+#		holder = 189040
+#	}
+#	11054.1.1 = {
+#		holder = 189041
+#	}
+#	11063.1.1 = {
+#		holder = 189042
+#	}
+	11067.1.1 = {
+		holder = 189043
+	}
+	11070.1.1 = {
+		holder = 189108
+	}
+	11120.1.1 = {
+		holder = 189117
+	}
+	11135.1.1 = {
+		holder = 189118
+	}
+	11150.1.1 = {
+		holder = 189119
+	}
+	11173.1.1 = {
+		holder = 189120
+	}
+	11178.1.1 = {
+		holder = 189121
+	}
+	11186.1.1 = {
+		holder = 189147
+	}
+	11190.1.1 = {
+		holder = 189148
+	}
+	11216.1.1 = {
+		holder = 189149
+	}
+	11243.1.1 = {
+		holder = 189150
+	}
+	11279.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+c_candragiri = {
+	10769.1.1 = {
+		liege = d_tondai_nadu
+		holder = 189072
+	}
+	10846.1.1 = {
+		holder = 175070
+	}
+	11020.1.1 = {
+		liege = k_tamilakam
+		holder = narayanavanam_yadava_ruler
+	}
+	#Held by Yadava rulers up until conquest by Vijayanagar in the 1370s.
+	11178.1.1 = {
+		holder = 189121
+	}
+}
+
+
+c_penugonda = {
+	10768.1.1 = {
+		holder = 192010 #Jayandivarman Bana
+	}
+	10795.1.1 = {
+		holder = 192011 #Vijayaditya
+	}
+	10835.1.1 = {
+		holder = 192012 #Malladeva
+	}
+	10850.1.1 = {
+		holder = 192013 #Vikramaditya Jayameru
+	}
+	10895.1.1 = {
+		holder = 192014 #Vijayaditya Prabhumeru
+	}
+	10910.1.1 = {
+		holder = 192015 #Vikramaditya
+	}
+	10916.1.1 = {
+		holder = 74694
+		liege = d_gangavadi
+	}
+	10921.1.1 = {
+		holder = 74695
+	}
+	10933.1.1 = {
+		holder = 74696
+	}
+	10938.1.1 = {
+		holder = 74697
+	}
+	10961.1.1 = {
+		holder = 74698
+	}
+	10968.1.1 = {
+		holder = 74699
+	}
+	10975.1.1 = {
+		holder = 74700
+	}
+	10986.1.1 = {
+		holder = 74701
+	}
+	10999.1.1 = {
+		holder = 74702
+	}
+	
+	11004.1.1 = {
+		liege = k_karnata
+	}
+
+	#Taken from k_karnata
+	11020.1.1 = {
+		#Banas
+		holder = banas_of_renandu_1
+		liege = d_tondai_nadu
+	}
+	#End
+	
+	11120.1.1 = {
+		holder = 74577
+		liege = k_karnata
+	}
+	11141.1.1 = {
+		holder = 74578
+	}
+	11173.1.1 = {
+		holder = 74579
+	}
+	11220.1.1 = {
+		holder = 74580
+	}
+	11235.1.1 = {
+		holder = 74581
+	}
+	11254.1.1 = {
+		holder = 74582
+		liege = d_raichur_doab
+	}
+	11273.1.1 = {
+		holder = 74583
+		liege = k_karnata
+	}
+	11291.1.1 = {
+		holder = 74595
+	}
+	11315.1.1 = {
+		liege = d_raichur_doab
+		holder = 74400
+	}
+	11330.1.1 = {
+		holder = 74404
+	}
+	11337.1.1 = {
+		liege = e_deccan
+	}
+}
+
+c_muluvagil = {
+	10769.1.1 = {
+		liege = d_tondai_nadu
+		holder = 189072
+	}
+
+	#Pallavas
+	10846.1.1 = {
+		holder = 175070
+	}
+	10869.1.1 = {
+		holder = 189071
+	}
+	10879.1.1 = {
+		holder = 189032 #Chola conquest
+	}
+	10907.1.1 = {
+		holder = 189033
+	}
+	10950.1.1 = {
+		holder = 189034
+	}
+	10956.1.1 = {
+		holder = 189036
+	}
+	10957.1.1 = {
+		holder = 189037
+	}
+	10970.1.1 = {
+		holder = 189035
+	}
+	10985.1.1 = {
+		holder = 189038
+	}
+	11014.1.1 = {
+		holder = 189039
+	}
+	11020.1.1 = {
+		liege = d_chola_nadu
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = 189041
+	}
+	11063.1.1 = {
+		holder = 189042
+	}
+	11067.1.1 = {
+		holder = 189043
+	}
+	11070.1.1 = {
+		holder = 189108
+	}
+	11120.1.1 = {
+		holder = 189117
+	}
+	11135.1.1 = {
+		holder = 189118
+	}
+	11150.1.1 = {
+		holder = 189119
+	}
+	11173.1.1 = {
+		holder = 189120
+	}
+	11178.1.1 = {
+		holder = 189121
+	}
+	11186.1.1 = {
+		holder = 189147
+	}
+	11190.1.1 = {
+		holder = 189148
+	}
+	11216.1.1 = {
+		holder = 189149
+	}
+	11243.1.1 = {
+		holder = 189150
+	}
+	11279.1.1 = {
+		holder = 189136
+	}
+	11308.1.1 = {
+		holder = 189137
+	}
+	11327.1.1 = {
+		holder = 189138
+	}
+}
+
+
+c_nellore = {
+	10765.1.1 = {
+		liege = d_tondai_nadu
+		holder = 189423
+	}
+	10846.1.1 = {
+		holder = 175070
+	}
+	10892.1.1 = {
+		holder = 189088 #Bhima I
+		liege = d_vengi
+	}
+	10921.1.1 = {
+		holder = 189089 #Vijayaditya IV
+	}
+	10921.1.1 = {
+		holder = additional_eastern_chalukyas_1
+	}
+	10927.1.1 = {
+		holder = 189090 #Vijayaditya V	
+	}
+	10927.1.1 = {
+		holder = 189091 #Tadapa
+	}
+	10927.2.1 = {
+		holder = 189092 #Vikramaditya II
+	}
+	10928.1.1 = {
+		holder = 189093 #Bhima II
+	}
+	10928.11.1 = {
+		holder = 189094 #Yudhamalla II
+	}
+	10935.1.1 = {
+		holder = 189095 #Bhima III
+	}
+	10947.1.1 = {
+		holder = 189096 #Amma II Vijayaditya VI
+	}
+	10970.1.1 = {
+		holder = 189098 #Danavarna
+	}
+	10973.1.1 = {
+		holder = additional_eastern_chalukyas_2 #Jata Choda Bhima
+	}
+	999 = {
+		holder = 189099 #Saktivarman I
+	}
+	11011.1.1 = {
+		holder = 189100 #Vimaladitya
+	}
+	11018.1.1 = {
+		holder = 189102 #Rajaraja Narenda
+	}
+	11061.1.1 = {
+		holder = 189103 #Saktivarman II
+	}
+	11063.1.1 = {
+		holder = 189104 #Vijayaditya VII
+	}
+	11068.1.1 = {
+		holder = 189105 #Rajaraja II
+	}
+	11072.1.1 = {
+		holder = 189104 #Vijayaditya VII second term
+	}
+	11075.1.1 = {
+		holder = 189105 #Rajaraja II
+	}
+	11079.1.1 = {
+		holder = 189106 #Vishnuvardhana IX
+	}
+	11175.1.1 = {
+		holder = nellore_choda_1 # Manumasiddha I
+	}
+}
+
+
+c_renandu = {
+	10768.1.1 = {
+		holder = 192010 #Jayandivarman Bana
+		liege = d_tondai_nadu
+	}
+	10795.1.1 = {
+		holder = 192011 #Vijayaditya
+	}
+	10835.1.1 = {
+		holder = 192012 #Malladeva
+	}
+	10850.1.1 = {
+		holder = 192013 #Vikramaditya Jayameru
+	}
+	10895.1.1 = {
+		holder = 192014 #Vijayaditya Prabhumeru
+	}
+	10910.1.1 = {
+		holder = 192015 #Vikramaditya
+	}
+	10916.1.1 = {
+		holder = 74694
+		liege = d_gangavadi
+	}
+	10921.1.1 = {
+		holder = 74695
+	}
+	10933.1.1 = {
+		holder = 74696
+	}
+	10938.1.1 = {
+		holder = 74697
+	}
+	10961.1.1 = {
+		holder = 74698
+	}
+	10968.1.1 = {
+		holder = 74699
+	}
+	10975.1.1 = {
+		holder = 74700
+	}
+	10986.1.1 = {
+		holder = 74701
+	}
+	10999.1.1 = {
+		holder = 74702
+	}
+	
+	#Taken from k_karnata
+	11020.1.1 = {
+		#Banas
+		holder = banas_of_renandu_1
+		liege = d_tondai_nadu
+	}
+	#End
+	
+	11120.1.1 = {
+		holder = 74577
+		liege = k_karnata
+	}
+	11141.1.1 = {
+		holder = 74578
+	}
+	11173.1.1 = {
+		holder = 74579
+	}
+	11220.1.1 = {
+		holder = 74580
+	}
+	11235.1.1 = {
+		holder = 74581
+	}
+	11254.1.1 = {
+		holder = 74582
+		liege = d_raichur_doab
+	}
+	11273.1.1 = {
+		holder = 74583
+		liege = k_karnata
+	}
+	11291.1.1 = {
+		holder = 74595
+	}
+	11315.1.1 = {
+		liege = d_raichur_doab
+		holder = 74400
+	}
+	11330.1.1 = {
+		holder = 74404
+	}
+	11337.1.1 = {
+		liege = e_deccan
+	}
+}
+

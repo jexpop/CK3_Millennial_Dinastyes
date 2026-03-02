@@ -1,0 +1,695 @@
+k_blemmyia = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 6 }
+}
+
+d_naqis = {
+	10830.1.1 = {
+		government = tribal_government
+		holder = 1228760
+	}
+	10850.1.1 = {
+		holder = 1228761
+	}
+	10876.1.1 = {
+		holder = 1228767
+	}
+	10920.1.1 = {
+		holder = 1228764
+	}
+#Rabia Arabs
+	10943.1.1 = {
+		holder = bedouin0022 #Ishaq b.Bishr of Rabia Arabs
+	}
+	10966.1.1 = {
+		holder = bedouin0024
+	}
+#Banu'l-Kanz
+	10995.1.1 = {
+		holder = bedouin0025 #Kanz al-Dawla Hibatallah
+	}
+	11032.1.1 = {
+		holder = bedouin0026
+	}
+	11059.1.1 = {
+		holder = bedouin0027
+	}
+	11089.1.1 = {
+		holder = bedouin0028
+	}
+	11111.1.1 = {
+		holder = bedouin0029
+	}
+	11164.1.1 = {
+		holder = bedouin0030
+	}
+	11169.1.1 = {
+		holder = bedouin0031
+	}
+	11174.1.1 = {
+		holder = bedouin0032 # Ibrahim
+	}
+	11197.1.1 = {
+		holder = bedouin0032
+	}
+	11236.1.1 = {
+		holder = bedouin0033
+	}
+}
+
+c_allaqi = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+	
+#Rabia Arabs
+	10860.1.1 = {
+		government = tribal_government
+		liege = d_eastern_desert
+		holder = bedouin0019
+	}
+	10893.1.1 = {
+		holder = bedouin0020
+	}
+	10893.1.1 = {
+		holder = bedouin0021
+	}
+	10937.1.1 = {
+		holder = bedouin0022 #Ishaq b.Bishr of Rabia Arabs
+	}
+	10966.1.1 = {
+		holder = bedouin0024
+	}
+#Banu'l-Kanz
+	10995.1.1 = {
+		holder = bedouin0025 #Kanz al-Dawla Hibatallah
+	}
+	11032.1.1 = {
+		holder = bedouin0026
+	}
+	11059.1.1 = {
+		holder = bedouin0027
+	}
+	11089.1.1 = {
+		holder = bedouin0028
+	}
+	11111.1.1 = {
+		holder = bedouin0029
+	}
+	11164.1.1 = {
+		holder = bedouin0030
+	}
+	11169.1.1 = {
+		holder = bedouin0031
+	}
+	11174.1.1 = {
+		holder = bedouin0032 # Ibrahim
+	}
+	11197.1.1 = {
+		holder = bedouin0032
+	}
+	11236.1.1 = {
+		holder = bedouin0033
+	}
+
+}
+
+
+c_aydhab = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10830.1.1 = {
+		government = tribal_government
+		liege = d_naqis
+		holder = 1228760
+	}
+	10850.1.1 = {
+		holder = 1228761
+	}
+	10876.1.1 = {
+		holder = 1228767
+	}
+	10920.1.1 = {
+		holder = 1228764
+	}
+	10986.1.1 = {
+		holder = 1228768
+	}
+	11020.1.1 = {
+		holder = 1228769
+	}
+	11060.1.1 = {
+		holder = 1228770
+	}
+	11090.1.1 = {
+		holder = 1228771
+	}
+	11125.1.1 = {
+		holder = 1228772
+	}
+	11160.1.1 = {
+		holder = 1228766
+	}
+	11208.1.1 = {
+		holder = 1228773
+	}
+	11230.1.1 = {
+		holder = 1228774
+	}
+	11260.1.1 = {
+		holder = 1228775
+	}
+	11300.1.1 = {
+		holder = 1228776
+	}
+	11325.1.1 = {
+		holder = 1228777
+	}
+}
+
+
+c_naqis = {
+	10830.1.1 = {
+		liege = d_naqis
+		government = tribal_government
+		holder = 1228760
+	}
+	10850.1.1 = {
+		holder = 1228761
+	}
+	10876.1.1 = {
+		holder = 1228767
+	}
+	10920.1.1 = {
+		holder = 1228764
+	}
+	10986.1.1 = {
+		holder = 1228768
+	}
+	11020.1.1 = {
+		holder = 1228769
+	}
+	11060.1.1 = {
+		holder = 1228770
+	}
+	11090.1.1 = {
+		holder = 1228771
+	}
+	11125.1.1 = {
+		holder = 1228772
+	}
+	11160.1.1 = {
+		holder = 1228766
+	}
+	11208.1.1 = {
+		holder = 1228773
+	}
+	11230.1.1 = {
+		holder = 1228774
+	}
+	11260.1.1 = {
+		holder = 1228775
+	}
+	11300.1.1 = {
+		holder = 1228776
+	}
+	11325.1.1 = {
+		holder = 1228777
+	}
+}
+
+
+c_wadi_amur = {
+	10830.1.1 = {
+		liege = d_naqis
+		government = tribal_government
+		holder = 1228760
+	}
+	10850.1.1 = {
+		holder = 1228761
+	}
+	10876.1.1 = {
+		holder = 1228767
+	}
+	10920.1.1 = {
+		holder = 1228764
+	}
+	10986.1.1 = {
+		holder = 1228768
+	}
+	11020.1.1 = {
+		holder = 1228769
+	}
+	11060.1.1 = {
+		holder = 1228770
+	}
+	11090.1.1 = {
+		holder = 1228771
+	}
+	11125.1.1 = {
+		holder = 1228772
+	}
+	11160.1.1 = {
+		holder = 1228766
+	}
+	11208.1.1 = {
+		holder = 1228773
+	}
+	11230.1.1 = {
+		holder = 1228774
+	}
+	11260.1.1 = {
+		holder = 1228775
+	}
+	11300.1.1 = {
+		holder = 1228776
+	}
+	11325.1.1 = {
+		holder = 1228777
+	}
+}
+
+
+d_bazin = {
+	10857.1.1 = {
+		government = tribal_government
+		holder = 1228792
+	}
+	10880.1.1 = {
+		holder = 0
+	}
+}
+
+c_suakin = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10762.1.1 = {
+		liege = 0
+	holder = 145961
+	}
+	10850.1.1 = {
+		holder = 145706
+	}
+	11060.1.1 = {
+		holder = 145707
+	}
+	11090.1.1 = {
+		holder = 145708
+	}
+	11127.1.1 = {
+		holder = 145709
+	}
+	11169.1.1 = {
+		holder = 145710
+	}
+	11203.1.1 = {
+		holder = 145711
+	}
+	11229.1.1 = {
+		holder = 145712
+	}
+	11281.1.1 = {
+		holder = 145713
+	}
+	11296.1.1 = {
+		holder = 145714
+	}
+	11314.1.1 = {
+		holder = 145715
+	}
+}
+
+
+c_bazin = {
+	10765.1.1 = {
+		government = tribal_government
+		liege = 0
+		holder = 145964
+	}
+	10865.1.1 = {
+		liege = d_naqis
+		holder = 145696
+	}
+	#Baqlini branch of Zanafig - should be separate branch
+	10888.1.1 = {
+		holder = beja0005
+	}
+	10918.1.1 = {
+		holder = beja0006
+	}
+	10961.1.1 = {
+		holder = beja0007
+	}
+	10989.1.1 = {
+		holder = beja0008
+	}
+	11028.1.1 = {
+		holder = beja0009
+	}
+	11064.1.1 = {
+		holder = 1228784
+	}
+	11107.1.1 = {
+		holder = 1228785
+	}
+	11133.1.1 = {
+		holder = 1228786
+	}
+	11168.1.1 = {
+		holder = 1228787
+	}
+	11212.1.1 = {
+		holder = 1228788
+	}
+}
+
+
+c_badi = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10765.1.1 = {
+		liege = 0
+	holder = 145964
+	}
+	10865.1.1 = {
+		government = tribal_government
+		liege = d_bazin
+		holder = beja0002
+	}
+	10886.1.1 = {
+		holder = beja0014
+	}
+	10913.1.1 = {
+		holder = beja0015
+	}
+	10958.1.1 = {
+		holder = beja0016
+	}
+	10980.1.1 = {
+		holder = beja0017
+	}
+	11015.1.1 = {
+		holder = beja0018
+	}
+	11058.1.1 = {
+		holder = beja0019
+	}
+	11089.1.1 = {
+		holder = beja0020
+	}
+	11135.1.1 = {
+		holder = beja0021
+	}
+	11164.1.1 = {
+		holder = beja0022
+	}
+	11198.1.1 = {
+		holder = beja0023
+	}
+}
+
+d_baqlin = {
+	10863.1.1 = {
+		government = tribal_government
+		holder = 1228793
+	}
+	10892.1.1 = {
+		holder = 0
+	}
+}
+
+
+c_baqlin = {
+	10767.1.1 = {
+		liege = 0
+	holder = 145962
+		government = tribal_government
+	}
+	10857.1.1 = {
+		liege = d_naqis
+		holder = 1228783
+	}
+	10888.1.1 = {
+		holder = beja0005
+	}
+	10918.1.1 = {
+		holder = beja0006
+	}
+	10961.1.1 = {
+		holder = beja0007
+	}
+	10989.1.1 = {
+		holder = beja0008
+	}
+	11028.1.1 = {
+		holder = beja0009
+	}
+	11064.1.1 = {
+		holder = 1228784
+	}
+	11107.1.1 = {
+		holder = 1228785
+	}
+	11133.1.1 = {
+		holder = 1228786
+	}
+	11168.1.1 = {
+		holder = 1228787
+	}
+	11212.1.1 = {
+		holder = 1228788
+	}
+}
+
+c_djarin = {
+	10767.1.1 = {
+		liege = 0
+		holder = 145962
+		government = tribal_government
+	}
+	10863.1.1 = {
+		liege = d_baqlin
+		holder = 1228793
+	}
+	#Baqlini branch of Zanafig - should be separate branch
+	10888.1.1 = {
+		holder = beja0005
+	}
+	10918.1.1 = {
+		holder = beja0006
+	}
+	10961.1.1 = {
+		holder = beja0007
+	}
+	10989.1.1 = {
+		holder = beja0008
+	}
+	11028.1.1 = {
+		holder = beja0009
+	}
+	11064.1.1 = {
+		holder = 1228784
+	}
+	11107.1.1 = {
+		holder = 1228785
+	}
+	11133.1.1 = {
+		holder = 1228786
+	}
+	11168.1.1 = {
+		holder = 1228787
+	}
+	11212.1.1 = {
+		holder = 1228788
+	}
+}
+
+
+c_qataa = {
+	10767.1.1 = {
+		liege = 0
+	holder = 145962
+		government = tribal_government
+	}
+	10857.1.1 = {
+		holder = 1228792
+	}
+	10880.1.1 = {
+		holder = beja0024
+	}
+	10920.1.1 = {
+		holder = beja0025
+	}
+	10966.1.1 = {
+		holder = beja0026
+	}
+	11000.1.1 = {
+		holder = beja0027
+	}
+	11036.1.1 = {
+		holder = beja0028
+	}
+	11065.1.1 = {
+		holder = beja0029
+	}
+	11101.1.1 = {
+		holder = beja0030
+	}
+	11134.1.1 = {
+		holder = beja0031
+	}
+	11158.1.1 = {
+		holder = beja0032
+	}
+}
+
+
+c_kassala = {
+	10764.1.1 = {
+		holder = 145963
+		government = tribal_government
+	}
+	10840.1.1 = {
+		holder = beja0010
+	}
+	10862.1.1 = {
+		liege = d_baqlin
+		holder = beja0011
+	}
+
+	10880.1.1 = {
+		liege = 0
+		holder = beja0024
+	}
+	10920.1.1 = {
+		holder = beja0025
+	}
+	10966.1.1 = {
+		holder = beja0026
+	}
+	11000.1.1 = {
+		holder = beja0027
+	}
+	11036.1.1 = {
+		holder = beja0028
+	}
+	11065.1.1 = {
+		holder = beja0029
+	}
+	11101.1.1 = {
+		holder = beja0030
+	}
+	11134.1.1 = {
+		holder = beja0031
+	}
+	11158.1.1 = {
+		holder = beja0032
+	}
+}
+
+
+c_showak = {
+	10764.1.1 = {
+		liege = 0
+		holder = 145963
+		government = tribal_government
+	}
+	10840.1.1 = {
+		holder = beja0012
+	}
+	10862.1.1 = {
+		liege = d_baqlin
+		holder = beja0013
+	}
+
+	11030.1.1 = {
+		liege = 0
+		holder = 1231657
+	}
+	11064.1.1 = {
+		holder = 1231654
+	}
+
+#Old history	
+	11099.1.1 = {
+		holder = 145678
+	}
+	11125.1.1 = {
+		holder = 145679
+	}
+	11176.1.1 = {
+		holder = 145680
+	}
+	11188.1.1 = {
+		holder = 145681
+	}
+	11221.1.1 = {
+		holder = 145682
+	}
+	11253.1.1 = {
+		holder = 145683
+	}
+	11286.1.1 = {
+		holder = 145684
+	}
+	11312.1.1 = {
+		holder = 145685
+	}
+}
+
+
+c_wolqayt = {
+	10764.1.1 = {
+		liege = 0
+	holder = 145963
+		government = tribal_government
+	}
+	10840.1.1 = {
+		holder = beja0012
+	}
+	10862.1.1 = {
+		liege = d_baqlin
+		holder = beja0013
+	}
+	11030.1.1 = {
+		liege = 0
+		holder = 1231657
+	}
+	11064.1.1 = {
+		holder = 1231654
+	}
+
+#Old history	
+	11099.1.1 = {
+		holder = 145678
+	}
+	11125.1.1 = {
+		holder = 145679
+	}
+	11176.1.1 = {
+		holder = 145680
+	}
+	11188.1.1 = {
+		holder = 145681
+	}
+	11221.1.1 = {
+		holder = 145682
+	}
+	11253.1.1 = {
+		holder = 145683
+	}
+	11286.1.1 = {
+		holder = 145684
+	}
+	11312.1.1 = {
+		holder = 145685
+	}
+}
+

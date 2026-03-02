@@ -1,0 +1,565 @@
+﻿#Guan characters
+
+#placeholders for c_kwahu-akyem
+
+guan0001 = {
+	name = "Esapo" #fictional
+	dynasty = guandyn001
+	religion = akom_pagan
+	culture = guan
+	10843.1.1 = {
+		birth = yes
+	}
+	10899.1.1 = {
+		death = yes
+	}
+}
+guan0002 = {
+	name = "Pumaya" #fictional
+	dynasty = guandyn001
+	religion = akom_pagan
+	culture = guan
+	father = guan0001
+	10880.1.1 = {
+		birth = yes
+	}
+	10950.1.1 = {
+		death = yes
+	}
+}
+guan0003 = {
+	name = "Footou" #fictional
+	dynasty = guandyn001
+	religion = akom_pagan
+	culture = guan
+	father = guan0002
+	10930.1.1 = {
+		birth = yes
+	}
+	11005.1.1 = {
+		death = yes
+	}
+}
+guan0004 = {
+	name = "Bore_walae" #fictional
+	dynasty = guandyn001
+	religion = akom_pagan
+	culture = guan
+	father = guan0003
+	10990.1.1 = {
+		birth = yes
+	}
+	11058.1.1 = {
+		death = yes
+	}
+}
+guan0005 = {
+	name = "Bin_ka" #fictional
+	dynasty = guandyn001
+	religion = akom_pagan
+	culture = guan
+	father = guan0004
+	11040.1.1 = {
+		birth = yes
+	}
+	11102.1.1 = {
+		death = yes
+	}
+}
+guan0006 = {
+	name = "Pumaya" #fictional
+	dynasty = guandyn001
+	religion = akom_pagan
+	culture = guan
+	father = guan0005
+	11078.1.1 = {
+		birth = yes
+	}
+	11136.1.1 = {
+		death = yes
+	}
+}
+guan0007 = {
+	name = "Esapo" #fictional
+	dynasty = guandyn001
+	religion = akom_pagan
+	culture = guan
+	father = guan0006
+	11117.1.1 = {
+		birth = yes
+	}
+	11178.1.1 = {
+		death = yes
+	}
+}
+guan0008 = {
+	name = "Pumaya" #fictional
+	dynasty = guandyn001
+	religion = akom_pagan
+	culture = guan
+	father = guan0007
+	11159.1.1 = {
+		birth = yes
+	}
+	11221.1.1 = {
+		death = yes
+	}
+}
+guan0009 = {
+	name = "Esapo" #fictional
+	dynasty = guandyn001
+	religion = akom_pagan
+	culture = guan
+	father = guan0008
+	11202.1.1 = {
+		birth = yes
+	}
+	11263.1.1 = {
+		death = yes
+	}
+}
+guan0010 = {
+	name = "Footou" #fictional
+	dynasty = guandyn001
+	religion = akom_pagan
+	culture = guan
+	father = guan0009
+	11240.1.1 = {
+		birth = yes
+	}
+	11305.1.1 = {
+		death = yes
+	}
+}
+
+#rulers in c_afram and d_eweland
+guan0011 = {
+	name = "Maaman" #fictional
+	dynasty = guandyn002
+	religion = akom_pagan
+	culture = guan
+	10850.1.1 = {
+		birth = yes
+	}
+	10912.1.1 = {
+		death = yes
+	}
+}
+guan0012 = {
+	name = "Kowuribi" #fictional
+	dynasty = guandyn002
+	religion = akom_pagan
+	culture = guan
+	father = guan0011
+	10895.1.1 = {
+		birth = yes
+	}
+	10970.1.1 = {
+		death = yes
+	}
+}
+guan0013 = {
+	name = "Koji" #fictional
+	dynasty = guandyn002
+	religion = akom_pagan
+	culture = guan
+	father = guan0012
+	10952.1.1 = {
+		birth = yes
+	}
+	11025.1.1 = {
+		death = yes
+	}
+}
+guan0014 = {
+	name = "Chepura" #fictional
+	dynasty = guandyn002
+	religion = akom_pagan
+	culture = guan
+	father = guan0013
+	11000.1.1 = {
+		birth = yes
+	}
+	11060.1.1 = {
+		death = yes
+	}
+}
+guan0015 = {
+	name = "Esapo" #fictional
+	dynasty = guandyn002
+	religion = akom_pagan
+	culture = guan
+	father = guan0014
+	11038.1.1 = {
+		birth = yes
+	}
+	11095.1.1 = {
+		death = yes
+	}
+}
+guan0016 = {
+	name = "Maaman" #fictional
+	dynasty = guandyn002
+	religion = akom_pagan
+	culture = guan
+	father = guan0015
+	11065.1.1 = {
+		birth = yes
+	}
+	11127.1.1 = {
+		death = yes
+	}
+}
+guan0017 = {
+	name = "Pumaya" #fictional
+	dynasty = guandyn002
+	religion = akom_pagan
+	culture = guan
+	father = guan0016
+	11098.1.1 = {
+		birth = yes
+	}
+	11158.1.1 = {
+		death = yes
+	}
+}
+guan0018 = {
+	name = "Achulo" #fictional
+	dynasty = guandyn002
+	religion = akom_pagan
+	culture = guan
+	father = guan0017
+	11135.1.1 = {
+		birth = yes
+	}
+	11189.1.1 = {
+		death = yes
+	}
+}
+guan0019 = {
+	name = "Kowuribi" #fictional
+	dynasty = guandyn002
+	religion = akom_pagan
+	culture = guan
+	father = guan0018
+	11173.1.1 = {
+		birth = yes
+	}
+	11228.1.1 = {
+		death = yes
+	}
+}
+guan0020 = {
+	name = "Pumaya" #fictional
+	dynasty = guandyn002
+	religion = akom_pagan
+	culture = guan
+	father = guan0019
+	11207.1.1 = {
+		birth = yes
+	}
+	11269.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers for c_dagomba and c_nanumba
+guan0021 = {
+	name = "Kramoase" #fictional
+	dynasty = guandyn003
+	religion = akom_pagan
+	culture = guan
+	10845.1.1 = {
+		birth = yes
+	}
+	10897.1.1 = {
+		death = yes
+	}
+}
+guan0022 = {
+	name = "Awoshie" #fictional
+	dynasty = guandyn003
+	religion = akom_pagan
+	culture = guan
+	father = guan0021
+	10865.1.1 = {
+		birth = yes
+	}
+	10933.1.1 = {
+		death = yes
+	}
+}
+guan0023 = {
+	name = "Achulo" #fictional
+	dynasty = guandyn003
+	religion = akom_pagan
+	culture = guan
+	father = guan0022
+	10908.1.1 = {
+		birth = yes
+	}
+	10978.1.1 = {
+		death = yes
+	}
+}
+guan0024 = {
+	name = "Kramoase" #fictional
+	dynasty = guandyn003
+	religion = akom_pagan
+	culture = guan
+	father = guan0023
+	10950.1.1 = {
+		birth = yes
+	}
+	11030.1.1 = {
+		death = yes
+	}
+}
+guan0025 = {
+	name = "Achulo" #fictional
+	dynasty = guandyn003
+	religion = akom_pagan
+	culture = guan
+	father = guan0024
+	11012.1.1 = {
+		birth = yes
+	}
+	11070.1.1 = {
+		death = yes
+	}
+}
+guan0026 = {
+	name = "Bore_wo" #fictional
+	dynasty = guandyn003
+	religion = akom_pagan
+	culture = guan
+	father = guan0025
+	11050.1.1 = {
+		birth = yes
+	}
+	11116.1.1 = {
+		death = yes
+	}
+}
+guan0027 = {
+	name = "Kramoase" #fictional
+	dynasty = guandyn003
+	religion = akom_pagan
+	culture = guan
+	father = guan0026
+	11088.1.1 = {
+		birth = yes
+	}
+	11145.1.1 = {
+		death = yes
+	}
+}
+guan0028 = {
+	name = "Awoshie" #fictional
+	dynasty = guandyn003
+	religion = akom_pagan
+	culture = guan
+	father = guan0027
+	11125.1.1 = {
+		birth = yes
+	}
+	11183.1.1 = {
+		death = yes
+	}
+}
+guan0029 = {
+	name = "Awoshie" #fictional
+	dynasty = guandyn003
+	religion = akom_pagan
+	culture = guan
+	father = guan0028
+	11166.1.1 = {
+		birth = yes
+	}
+	11217.1.1 = {
+		death = yes
+	}
+}
+guan0030 = {
+	name = "Achulo" #fictional
+	dynasty = guandyn003
+	religion = akom_pagan
+	culture = guan
+	father = guan0029
+	11199.1.1 = {
+		birth = yes
+	}
+	11263.1.1 = {
+		death = yes
+	}
+}
+#fictional rulers for c_gonja and c_daboya
+guan0031 = {
+	name = "Bore_wo" #fictional
+	dynasty = guandyn004
+	religion = akom_pagan
+	culture = guan
+	10848.1.1 = {
+		birth = yes
+	}
+	10908.1.1 = {
+		death = yes
+	}
+}
+guan0032 = {
+	name = "Bore_walae" #fictional
+	dynasty = guandyn004
+	religion = akom_pagan
+	culture = guan
+	father = guan0031
+	10889.1.1 = {
+		birth = yes
+	}
+	10962.1.1 = {
+		death = yes
+	}
+}
+guan0033 = {
+	name = "Esapo" #fictional
+	dynasty = guandyn004
+	religion = akom_pagan
+	culture = guan
+	father = guan0032
+	10945.1.1 = {
+		birth = yes
+	}
+	11012.1.1 = {
+		death = yes
+	}
+}
+guan0034 = {
+	name = "Achulo" #fictional
+	dynasty = guandyn004
+	religion = akom_pagan
+	culture = guan
+	father = guan0033
+	10992.1.1 = {
+		birth = yes
+	}
+	11053.1.1 = {
+		death = yes
+	}
+}
+guan0035 = {
+	name = "Esapo" #fictional
+	dynasty = guandyn004
+	religion = akom_pagan
+	culture = guan
+	father = guan0034
+	11036.1.1 = {
+		birth = yes
+	}
+	11098.1.1 = {
+		death = yes
+	}
+}
+guan0036 = {
+	name = "Bore_wo" #fictional
+	dynasty = guandyn004
+	religion = akom_pagan
+	culture = guan
+	father = guan0035
+	11066.1.1 = {
+		birth = yes
+	}
+	11120.1.1 = {
+		death = yes
+	}
+}
+guan0037 = {
+	name = "Achulo" #fictional
+	dynasty = guandyn004
+	religion = akom_pagan
+	culture = guan
+	father = guan0036
+	11099.1.1 = {
+		birth = yes
+	}
+	11156.1.1 = {
+		death = yes
+	}
+}
+guan0038 = {
+	name = "Bore_walae" #fictional
+	dynasty = guandyn004
+	religion = akom_pagan
+	culture = guan
+	father = guan0037
+	11132.1.1 = {
+		birth = yes
+	}
+	11188.1.1 = {
+		death = yes
+	}
+}
+guan0039 = {
+	name = "Bore_walae" #fictional
+	dynasty = guandyn004
+	religion = akom_pagan
+	culture = guan
+	father = guan0038
+	11173.1.1 = {
+		birth = yes
+	}
+	11222.1.1 = {
+		death = yes
+	}
+}
+guan0040 = {
+	name = "Esapo" #fictional
+	dynasty = guandyn004
+	religion = akom_pagan
+	culture = guan
+	father = guan0039
+	11206.1.1 = {
+		birth = yes
+	}
+	11269.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers of c_po
+guan0041 = {
+	name = "Footou" #fictional
+	dynasty = guandyn005
+	religion = akom_pagan
+	culture = guan
+	10835.1.1 = {
+		birth = yes
+	}
+	10890.1.1 = {
+		death = yes
+	}
+}
+guan0042 = {
+	name = "Bore_walae" #fictional
+	dynasty = guandyn005
+	religion = akom_pagan
+	culture = guan
+	father = guan0041
+	10860.1.1 = {
+		birth = yes
+	}
+	10913.1.1 = {
+		death = yes
+	}
+}
+guan0043 = {
+	name = "Nkpamafo" #fictional
+	dynasty = guandyn005
+	religion = akom_pagan
+	culture = guan
+	father = guan0042
+	10892.1.1 = {
+		birth = yes
+	}
+	10950.1.1 = {
+		death = yes
+	}
+}

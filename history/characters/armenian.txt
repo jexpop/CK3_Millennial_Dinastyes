@@ -1,0 +1,9306 @@
+﻿20562 = {
+	name = "Ghavril"
+	dynasty = 100706
+	martial = 8
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_martial_2
+	trait = cynical
+	11039.1.1 = {
+		birth = "11039.1.1"
+	}
+	11103.1.1 = {
+		death = "11103.1.1"
+	}
+}
+
+223000 = {
+	name = "Levon" #Prince of Cilicia 1185-1198, k. of Armenia 1198-1219
+	# AKA: Levon Medzakordz
+	dna = "bookmark_levon_223000"
+	dynasty = 190
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	learning = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = temperate
+	trait = calm
+	trait = diligent
+	trait = education_diplomacy_3
+	father = 223010
+	mother = 223029
+	11150.1.1 = {
+		birth = "11150.1.1"
+	}
+	11215.1.1 = {
+		add_spouse = 30995 #Sybille de Lusignan
+	}
+	11219.5.2 = {
+		death = "11219.5.2"
+	}
+}
+
+223003 = {
+	name = "Roupen" #Prince of Cilicia 1174-1186
+	dna = "bookmark_levon_roupen_223003"
+	dynasty = 190
+	martial = 4
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = just
+	trait = temperate
+	trait = compassionate
+	trait = education_learning_2
+	father = 223010
+	mother = 223029
+	11146.1.1 = {
+		birth = "11146.1.1"
+	}
+	11179.1.1 = {
+		add_spouse = 223004
+	}
+	11186.1.1 = {
+		death = "11186.1.1"
+	}
+}
+
+223005 = {
+	name = "Alice"
+	female = yes
+	dynasty = 190
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223003
+	mother = 223004
+	11180.1.1 = {
+		birth = "11180.1.1"
+	}
+	11234.1.1 = {
+		death = "11234.1.1"
+	}
+}
+
+223006 = {
+	name = "Philippa"
+	female = yes
+	dynasty = 190
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_stewardship_2
+	father = 223003
+	mother = 223004
+	11185.1.1 = {
+		birth = "11185.1.1"
+	}
+	11219.1.1 = {
+		death = "11219.1.1"
+	}
+}
+
+223010 = {
+	name = "StepanE_" #Prince of Cilicia 1140-1145
+	# AKA: Stepane
+	dynasty = 190
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_diplomacy_3
+	father = 223012
+	mother = 223011
+	11105.1.1 = {
+		birth = "11105.1.1"
+	}
+	11144.1.1 = {
+		add_spouse = 223029
+	}
+	11165.1.1 = {
+		death = "11165.1.1"
+	}
+}
+
+223012 = {
+	name = "Levon" #Prince of Cilicia 1130-1140
+	dynasty = 190
+	martial = 5
+	diplomacy = 5
+	intrigue = 2
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_martial_1
+	father = 232563
+	11088.1.1 = {
+		birth = "11088.1.1"
+	}
+	11104.1.1 = {
+		add_spouse = 223011 #Beatrice de Rethel
+	}
+	11140.2.14 = {
+		death = "11140.2.14"
+	}
+}
+
+223014 = {
+	name = "Thoros" #Prince of Cilicia 1145-1169
+	dynasty = 190
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_martial_2
+	father = 223012
+	mother = 223011
+	11115.1.1 = {
+		birth = "11115.1.1"
+	}
+	11149.1.1 = {
+		add_spouse = 232567 #Isabelle de Courtenay
+	}
+	
+	11164.1.1 = {
+		add_spouse = 30992 #Mariam Rubenid
+	}
+	
+	11169.1.1 = {
+		death = "11169.1.1"
+	}
+}
+
+223015 = {
+	name = "Zabel"
+	female = yes
+	dynasty = 190
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_intrigue_1
+	father = 223014
+	mother = 232567
+	11155.1.1 = {
+		birth = "11155.1.1"
+	}
+	11185.1.1 = {
+		death = "11185.1.1"
+	}
+}
+
+223026 = {
+	name = "Vacaghx"
+	dynasty = 23003
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = cynical
+	trait = education_martial_2
+	father = 223030
+	11145.1.1 = {
+		birth = "11145.1.1"
+	}
+	11166.1.1 = {
+		add_spouse = 223027
+	}
+	11195.1.1 = {
+		death = "11195.1.1"
+	}
+}
+
+223027 = {
+	name = "Retha"
+	female = yes
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = lisping
+	trait = humble
+	trait = education_diplomacy_3
+	11150.1.1 = {
+		birth = "11150.1.1"
+	}
+	11200.1.1 = {
+		death = "11200.1.1"
+	}
+}
+
+223028 = {
+	name = "Gosdantin"
+	dynasty = 23003
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = diligent
+	trait = education_martial_2
+	father = 223026
+	mother = 223027
+	11180.1.1 = {
+		birth = "11180.1.1"
+	}
+	11205.1.1 = {
+		add_spouse = 223037
+	}	
+	11263.1.1 = {
+		death = "11263.1.1"
+	}
+}
+
+223029 = {
+	name = "Retha"
+	female = yes
+	dynasty = 23003
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = cynical
+	trait = greedy
+	trait = education_intrigue_3
+	father = 223030
+	11128.1.1 = {
+		birth = "11128.1.1"
+	}
+	11178.1.1 = {
+		death = "11178.1.1"
+	}
+}
+
+223030 = {
+	name = "Smbat" #Lord of Lampron
+	dynasty = 23003
+	martial = 7
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = zealous
+	trait = education_martial_2
+	father = 223031
+	11110.1.1 = {
+		birth = "11110.1.1"
+	}
+	11153.1.1 = {
+		death = "11153.1.1"
+	}
+}
+
+223031 = {
+	name = "Hethum" #Lord of Lampron
+	dynasty = 23003
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_martial_2
+	father = 41591
+	11089.1.1 = {
+		birth = "11089.1.1"
+	}
+	11130.1.1 = {
+		death = "11130.1.1"
+	}
+}
+
+223032 = {
+	name = "Oshin" #Lord of Lampron
+	dynasty = 23003
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = zealous
+	trait = education_martial_2
+	father = 223031
+	11125.1.1 = {
+		birth = "11125.1.1"
+	}
+	11150.1.1 = {
+		add_spouse = 223033
+	}
+	11170.1.1 = {
+		death = "11170.1.1"
+	}
+}
+
+223033 = {
+	name = "Schahantukhd"
+	female = yes
+	dynasty_house = house_pahlavuni
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = greedy
+	trait = just
+	trait = education_intrigue_1
+	father = 232587
+	11136.1.1 = {
+		birth = "11136.1.1"
+	}
+	11186.1.1 = {
+		death = "11186.1.1"
+	}
+}
+
+223034 = {
+	name = "Hethum"
+	# AKA: Oshin
+	dynasty = 23003
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = zealous
+	trait = chaste
+	trait = education_martial_2
+	father = 223032
+	mother = 223033
+	11151.1.1 = {
+		birth = "11151.1.1"
+	}
+	11176.1.1 = {
+		add_spouse = 223035
+	}
+	11201.1.1 = {
+		death = "11201.1.1"
+	}
+}
+
+223035 = {
+	name = "Maremik"
+	female = yes
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = zealous
+	trait = lustful
+	trait = education_diplomacy_1
+	11160.1.1 = {
+		birth = "11160.1.1"
+	}
+	11210.1.1 = {
+		death = "11210.1.1"
+	}
+}
+
+223036 = {
+	name = "Gosdantin"
+	dynasty = 23003
+	martial = 7
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = just
+	trait = cynical
+	trait = education_martial_2
+	father = 223034
+	mother = 223035
+	11180.1.1 = {
+		birth = "11180.1.1"
+	}
+	11220.1.1 = {
+		add_spouse = 31831
+	}
+	11250.6.29 = {
+		death = "11250.6.29"
+	}
+}
+
+223037 = {
+	name = "Partzapert"
+	#AKA Alix
+	female = yes
+	dynasty = 23003
+	martial = 7
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = honest
+	trait = gluttonous
+	trait = education_stewardship_2
+	father = 223034
+	mother = 223035
+	11185.1.1 = {
+		birth = "11185.1.1"
+	}
+	11222.1.2 = {
+		death = "11222.1.2"
+	}
+}
+
+232561 = {
+	name = "Roupen" #Prince of Cilicia 1080 - 1095
+	dynasty = 190
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = honest
+	trait = education_martial_2
+	father = 159266
+	mother = 159283
+	11020.1.1 = {
+		birth = "11020.1.1"
+	}
+	11037.1.1 = {
+		add_spouse = 232562
+	}
+	11095.1.1 = {
+		death = "11095.1.1"
+	}
+}
+
+232562 = {
+	name = "Kohar"
+	female = yes
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	11020.1.1 = {
+		birth = "11020.1.1"
+	}
+	11089.1.1 = {
+		death = "11089.1.1"
+	}
+}
+
+232563 = {
+	name = "Gosdantin" #Prince of Cilicia 1095-1102
+	dynasty = 190
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = cynical
+	trait = education_martial_2
+	father = 232561
+	mother = 232562
+	11039.1.1 = {
+		birth = "11039.1.1"
+	}
+	11102.1.25 = {
+		death = "11102.1.25"
+	}
+}
+
+232564 = {
+	name = "Thoros" #Prince of Cilicia 1102-1129
+	dynasty = 190
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = diligent
+	trait = brave
+	trait = wrathful
+	trait = education_learning_2
+	father = 232563
+	11062.1.1 = {
+		birth = "11062.1.1"
+	}
+	11129.1.1 = {
+		death = "11129.1.1"
+	}
+}
+
+232565 = {
+	name = "Gosdantin" #Prince of Cilicia 1130
+	dynasty = 190
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = ill
+	father = 232564
+	11102.1.1 = {
+		birth = "11102.1.1"
+	}
+	11130.1.1 = {
+		death = "11130.1.1"
+	}
+}
+
+232566 = {
+	name = "Beatrice"
+	female = yes
+	dynasty = 190
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 232563
+	11087.1.1 = {
+		birth = "11087.1.1"
+	}
+	11118.1.1 = {
+		death = "11118.1.1"
+	}
+}
+
+232568 = {
+	name = "Rita"
+	female = yes
+	dynasty = 190
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223014
+	mother = 232567
+	11150.1.1 = {
+		birth = "11150.1.1"
+	}
+	11169.1.1 = {
+		death = "11169.1.1"
+	}
+}
+
+232569 = {
+	name = "Roupen" #Prince of Cilicia 1170
+	dynasty = 190
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223014
+	mother = 30992
+	11165.1.1 = {
+		birth = "11165.1.1"
+	}
+	11170.1.1 = {
+		death = "11170.1.1"
+	}
+}
+
+232570 = {
+	name = "Gosdantin"
+	dynasty = 190
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = disfigured
+	trait = wrathful
+	father = 223012
+	mother = 223011
+	11107.1.1 = {
+		birth = "11107.1.1"
+	}
+	11138.1.1 = {
+		death = "11138.1.1"
+	}
+}
+
+232571 = {
+	name = "Mleh" #Prince of Cilicia 1170-1175
+	dynasty = 190
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = greedy
+	trait = education_learning_2
+	father = 223012
+	mother = 223011
+	11120.1.1 = {
+		birth = "11120.1.1"
+	}
+	11170.1.1 = {
+		trait = kinslayer_3
+	}
+	11175.1.16 = {
+		death = "11175.1.16"
+	}
+}
+
+232572 = {
+	name = "Roupen"
+	dynasty = 190
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = disfigured
+	father = 223012
+	mother = 223011
+	11122.1.1 = {
+		birth = "11122.1.1"
+	}
+	11141.1.1 = {
+		death = "11141.1.1"
+	}
+}
+
+232573 = {
+	name = "Krikor"
+	# AKA: Grigor
+	dynasty = 190
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = bastard
+	trait = education_martial_2
+	father = 232571
+	11174.1.1 = {
+		birth = "11174.1.1"
+	}
+	11210.1.27 = {
+		death = "11210.1.27"
+	}
+}
+
+232574 = {
+	name = "Smbat"
+	dynasty = 23003
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_stewardship_2
+	father = 223026
+	mother = 223027
+	11181.1.1 = {
+		birth = "11181.1.1"
+	}
+	11231.1.1 = {
+		death = "11231.1.1"
+	}
+}
+
+232575 = {
+	name = "Smbat" #Lord of Lampron
+	# AKA: Smbat
+	dynasty = 23003
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = chaste
+	trait = education_learning_3
+	father = 223032
+	mother = 223033
+	11154.1.1 = {
+		birth = "11154.1.1"
+	}
+	11204.1.1 = {
+		death = "11204.1.1"
+	}
+}
+
+232576 = {
+	name = "Abirad"
+	dynasty_house = house_pahlavuni
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41586
+	11075.1.1 = {
+		birth = "11075.1.1"
+	}
+	11113.1.1 = {
+		death = "11113.1.1"
+	}
+}
+
+232577 = {
+	name = "Vanine"
+	female = yes
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	11075.1.1 = {
+		birth = yes
+	}
+	11120.1.1 = {
+		death = yes
+	}
+}
+
+232578 = {
+	name = "Vassak"
+	dynasty_house = house_pahlavuni
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_martial_1
+	father = 232576
+	mother = 232577
+	11100.1.1 = {
+		birth = "11100.1.1"
+	}
+	11149.1.1 = {
+		death = "11149.1.1"
+	}
+}
+
+232579 = {
+	name = "Maremik"
+	female = yes
+	dynasty = 23003
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223031
+	11117.1.1 = {
+		birth = "11117.1.1"
+	}
+	11166.1.1 = {
+		death = "11166.1.1"
+	}
+}
+
+232580 = {
+	name = "Grigor"
+	# AKA: Grigor Tgha
+	dynasty_house = house_pahlavuni
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = celibate
+	trait = chaste
+	trait = education_learning_3
+	father = 232578
+	mother = 232579
+	11133.1.1 = {
+		birth = yes
+	}
+	11193.1.1 = {
+		death = yes
+	}
+}
+
+232581 = {
+	name = "Aghavni"
+	dynasty_house = house_pahlavuni
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 232578
+	mother = 232579
+	11134.1.1 = {
+		birth = "11134.1.1"
+	}
+	11180.1.1 = {
+		death = "11180.1.1"
+	}
+}
+
+232582 = {
+	name = "Sirvart"
+	female = yes
+	dynasty_house = house_pahlavuni
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 232578
+	mother = 232579
+	11137.1.1 = {
+		birth = "11137.1.1"
+	}
+	11166.1.1 = {
+		death = "11166.1.1"
+	}
+}
+
+232583 = {
+	name = "Grigor"
+	# AKA: Grigor Dgha
+	dynasty_house = house_pahlavuni
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 232576
+	mother = 232577
+	11093.1.1 = {
+		birth = yes
+	}
+	11166.11.17 = {
+		death = yes
+	}
+}
+
+232584 = {
+	name = "Nerseh"
+	# AKA: Nerseh Shnorhali
+	dynasty_house = house_pahlavuni
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_learning_3
+	father = 232576
+	mother = 232577
+	11104.1.1 = {
+		birth = "11104.1.1"
+	}
+	11173.1.17 = {
+		death = "11173.1.17"
+	}
+}
+
+232585 = {
+	name = "Abirad"
+	dynasty_house = house_pahlavuni
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 232576
+	mother = 232577
+	11107.1.1 = {
+		birth = "11107.1.1"
+	}
+	11171.1.1 = {
+		death = "11171.1.1"
+	}
+}
+
+232586 = {
+	name = "Grigor"
+	dynasty_house = house_pahlavuni
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = arrogant
+	trait = diligent
+	trait = education_learning_1
+	father = 232585
+	11130.1.1 = {
+		birth = "11130.1.1"
+	}
+	11180.1.1 = {
+		death = "11180.1.1"
+	}
+}
+
+232587 = {
+	name = "Shahan"
+	dynasty_house = house_pahlavuni
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 232576
+	mother = 232577
+	11111.1.1 = {
+		birth = "11111.1.1"
+	}
+	11173.1.1 = {
+		death = "11173.1.1"
+	}
+}
+
+232588 = {
+	name = "Grigor"
+	# AKA: Grigor Abirat
+	dynasty_house = house_pahlavuni
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_learning_4
+	father = 232587
+	11138.1.1 = {
+		birth = "11138.1.1"
+	}
+	11188.1.1 = {
+		death = "11188.1.1"
+	}
+}
+
+232589 = {
+	name = "Mikayel"
+	dynasty_house = house_pahlavuni
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = cynical
+	trait = education_stewardship_2
+	father = 232587
+	11141.1.1 = {
+		birth = "11141.1.1"
+	}
+	11191.1.1 = {
+		death = "11191.1.1"
+	}
+}
+
+232590 = {
+	name = "Yeva"
+	female = yes
+	dynasty_house = house_pahlavuni
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = zealous
+	trait = education_stewardship_2
+	father = 232589
+	11176.1.1 = {
+		birth = "11176.1.1"
+	}
+	11226.1.1 = {
+		death = "11226.1.1"
+	}
+}
+
+232591 = {
+	name = "Tchordouanel"
+	dynasty = 23000
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	11114.1.1 = {
+		birth = "11114.1.1"
+	}
+	11137.1.1 = {
+		add_spouse = 232582
+	}
+	11165.1.1 = {
+		death = "11165.1.1"
+	}
+}
+
+232592 = {
+	name = "Hethum"
+	dynasty = 23000
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = lazy
+	trait = wrathful
+	trait = education_martial_2
+	father = 232591
+	mother = 232582
+	11155.1.1 = {
+		birth = "11155.1.1"
+	}
+	11205.1.1 = {
+		death = "11205.1.1"
+	}
+}
+
+232593 = {
+	name = "Shahanshah"
+	dynasty = 23000
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = stuttering
+	trait = honest
+	trait = education_intrigue_1
+	father = 232591
+	mother = 232582
+	11158.1.1 = {
+		birth = "11158.1.1"
+	}
+	11208.1.1 = {
+		death = "11208.1.1"
+	}
+}
+
+232594 = {
+	name = "Gauffridus"
+	dynasty = 23010
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = deceitful
+	trait = education_diplomacy_2
+	11160.1.1 = {
+		birth = "11160.1.1"
+	}
+	11210.1.1 = {
+		death = "11210.1.1"
+	}
+}
+
+232595 = {
+	name = "Vahram"
+	dynasty = 23010
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_martial_2
+	father = 232594
+	11177.1.1 = {
+		birth = "11177.1.1"
+	}
+	11227.1.1 = {
+		death = "11227.1.1"
+	}
+}
+
+232596 = {
+	name = "Jocelin"
+	female = yes
+	dynasty = 23010
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_stewardship_2
+	father = 232594
+	11179.1.1 = {
+		birth = "11179.1.1"
+	}
+	11229.1.1 = {
+		death = "11229.1.1"
+	}
+}
+
+232597 = {
+	name = "Paguran"
+	dynasty = 23003
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = chaste
+	trait = diligent
+	trait = calm
+	trait = education_martial_2
+	father = 223030
+	11142.1.1 = {
+		birth = "11142.1.1"
+	}
+	11165.1.2 = {
+		add_spouse = 232771
+	}
+	11192.1.1 = {
+		death = "11192.1.1"
+	}
+}
+
+232771 = {
+	name = "Takuhi_Saven"
+	# AKA: Takuhi Saven; used to be 232598
+	female = yes
+	dynasty_house = house_pahlavuni
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = arbitrary
+	trait = calm
+	trait = education_stewardship_2
+	father = 232587
+	11146.1.1 = {
+		birth = "11146.1.1"
+	}
+	11196.1.1 = {
+		death = "11196.1.1"
+	}
+}
+
+232758 = {
+	name = "Sargis"
+	dna = "232758_sargis_greater_armenia"
+	dynasty_house = house_zakarian
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	learning = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = ambitious
+	trait = diligent
+	trait = deceitful
+	trait = education_martial_2
+	father = 159219
+	11137.1.2 = {
+		birth = "11137.1.2"
+	}
+	11187.1.2 = {
+		death = "11187.1.2"
+	}
+}
+
+232759 = {
+	name = "Zakare"
+	dynasty_house = house_zakarian
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 232758
+	trait = brave
+	trait = education_martial_2
+	11160.1.1 = {
+		birth = "11160.1.1"
+	}
+	11230.1.1 = {
+		death = "11230.1.1"
+	}
+}
+
+232760 = {
+	name = "Ivane"
+	dynasty_house = house_zakarian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 232758
+	trait = education_martial_2
+	11161.1.1 = {
+		birth = "11161.1.1"
+	}
+	11200.1.1 = {
+		name = "Ioane"
+		faith = "orthodox"
+		culture = "georgian"
+		dynasty = 101747
+	}
+	11240.1.1 = {
+		death = "11240.1.1"
+	}
+}
+
+232761 = {
+	name = "Nana"
+	dynasty_house = house_zakarian
+	female = yes
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 232758
+	11169.1.2 = {
+		birth = "11169.1.2"
+	}
+	11219.1.2 = {
+		death = "11219.1.2"
+	}
+}
+
+232768 = {
+	name = "Botso"
+	dynasty = 42
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = craven
+	trait = diligent
+	trait = wrathful
+	trait = education_intrigue_4
+	11159.1.1 = {
+		birth = "11159.1.1"
+	}
+	11210.1.1 = {
+		death = "11210.1.1"
+	}
+}
+
+30920 = {
+	name = "Ardai"
+	# AKA: Arda
+	female = yes
+	dynasty = 190 #Rubenid
+	
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	
+	father = 232564
+	
+	11082.1.1 = {
+		birth = "11082.1.1"
+	}
+	11117.1.1 = {
+		death = "11117.1.1"
+	}
+}
+
+30990 = {
+	name = "Mariam" #real name unknown
+	female = yes
+	dynasty = 190
+	
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	
+	father = 223012
+	mother = 223011
+	11104.1.1 = {
+		birth = "11104.1.1"
+	}
+	
+	11130.1.1 = {
+		death = "11130.1.1"
+	}
+}
+
+30991 = {
+	name = "Tomas"
+	dynasty = 190
+	
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	
+	mother = 30990
+	11126.1.1 = {
+		birth = "11126.1.1"
+	}
+	
+	11165.1.1 = {
+		death = "11165.1.1"
+	}
+}
+
+30992 = {
+	name = "Mariam"
+	female = yes
+	dynasty = 190
+	
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	
+	father = 30991
+	11143.1.1 = {
+		birth = "11143.1.1"
+	}
+	
+	11168.1.1 = {
+		death = "11168.1.1"
+	}
+}
+
+30993 = {
+	name = "Stephanie"
+	female = yes
+	dynasty = 190
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223012
+	mother = 223011
+	11122.1.1 = {
+		birth = "11122.1.1"
+	}
+	11160.1.1 = {
+		death = "11160.1.1"
+	}
+}
+
+30994 = {
+	name = "Doleta"
+	female = yes
+	dynasty = 190
+	
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	
+	father = 223010
+	mother = 223029
+	11158.1.1 = {
+		birth = "11158.1.1"
+	}
+	
+	11217.1.1 = {
+		death = "11217.1.1"
+	}
+}
+
+30998 = {
+	name = "Zabel"
+	female = yes
+	dynasty = 190
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223000
+	mother = 30995
+	11216.1.1 = {
+		birth = "11216.1.1"
+	}
+	#1231 married Hethum I
+	11252.1.23 = {
+		death = "11252.1.23"
+	}
+}
+
+30999 = {
+	name = "Rita"
+	female = yes
+	dynasty = 190
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223000
+	11195.1.1 = {
+		birth = "11195.1.1"
+	}
+	11220.6.1 = {
+		death = "11220.6.1"
+	}
+}
+
+31033 = {
+	name = "Sybilla"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31830
+	mother = 30998
+	11235.1.1 = {
+		birth = "11235.1.1"
+	}
+	11290.1.1 = {
+		death = "11290.1.1"
+	}
+}
+
+41336 = {
+	name = "Davit"
+	dynasty = 507
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_intrigue_2
+	father = 41513
+	mother = 41334
+	11048.1.1 = {
+		birth = "11048.1.1"
+	}
+	11095.1.1 = {
+		death = "11095.1.1"
+	}
+}
+
+41337 = {
+	name = "Abas"
+	dynasty = 507
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_diplomacy_2
+	father = 41513
+	mother = 41334
+	11050.1.1 = {
+		birth = "11050.1.1"
+	}
+	11109.1.1 = {
+		death = "11109.1.1"
+	}
+}
+
+41500 = {
+	name = "Ashot"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 70447
+	10685.1.1 = {
+		birth = "10685.1.1"
+	}
+	10745.1.1 = {
+		trait = blind
+		give_nickname = nick_the_blind
+	}
+	10749.1.1 = {
+		death = "10749.1.1"
+	}
+}
+
+41501 = {
+	name = "Smbat"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41500
+	10715.1.1 = {
+		birth = "10715.1.1"
+	}
+	10775.4.15 = {
+		death = "10775.4.15"
+	}
+}
+
+41502 = {
+	name = "Ashot"
+	# AKA: Ashot Msaker
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41501
+	10755.1.1 = {
+		birth = "10755.1.1"
+	}
+	10785.1.1 = {
+		add_spouse = 159882
+	}
+	10826.1.1 = {
+		death = "10826.1.1"
+	}
+}
+
+41503 = {
+	name = "Hripsime"
+	female = yes
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41502
+	mother = 159882
+	10815.1.1 = {
+		birth = "10815.1.1"
+	}
+	10827.1.1 = {
+		add_spouse = 41559
+	}
+	10882.1.1 = {
+		death = "10882.1.1"
+	}
+}
+
+41504 = {
+	name = "Smbat"
+	# AKA: Smbat Ablabas
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41502
+	mother = 159882
+	10785.1.1 = {
+		birth = "10785.1.1"
+	}
+#	10820.1.1 = {
+#		add_spouse = 125884
+#	}
+	10862.1.1 = {
+		death = "10862.1.1"
+		give_nickname = nick_the_confessor
+	}
+}
+
+41505 = {
+	name = "Ashot"
+	dna = "41505_ashot_armenia"
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41504
+	mother = 159884
+
+	#Skills
+	diplomacy = 6
+	martial = 6
+	stewardship = 12
+	intrigue = 6
+	learning = 8
+	prowess = 4
+	
+	#Education
+	trait = education_diplomacy_4
+
+	#Personality Traits
+	trait = diligent
+	trait = generous
+	trait = cynical	#A fairly loyal vassal to the Caliphate, despite being positioned at the heart of the Christian-Muslim Arab-Byzantine Wars, and resisted attempts by the Orthodox Church to unify Apostolic Christianity with Constantinople.
+	
+	#Other Traits
+	trait = diplomat
+	trait = administrator
+	
+	sexuality = heterosexual
+	disallow_random_traits = yes
+	10820.1.1 = {
+		birth = "10820.1.1"
+	}
+	10840.1.1 = {
+		set_relation_friend = { reason = friend_generic_history target = character:armenian_000081 }	#His brother, though ambitious supported his reign. Just not his son's.
+		add_spouse = armenian_000082
+	}
+	10867.1.1 = {
+
+	}
+	10890.1.1 = {
+		death = "10890.1.1"
+	}
+}
+
+
+
+41506 = {
+	name = "Smbat"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41505
+	mother = armenian_000082
+	10850.1.1 = {
+		birth = "10850.1.1"
+	}
+	10912.1.1 = {
+		death = "10912.1.1"
+	}
+}
+
+41507 = {
+	name = "Ashot"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41506
+	10869.1.1 = {
+		birth = "10869.1.1"
+	}
+	10928.1.1 = {
+		death = "10928.1.1"
+	}
+}
+
+41508 = {
+	name = "Abas"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41506
+	10875.1.1 = {
+		birth = "10875.1.1"
+	}
+	10951.1.1 = {
+		death = "10951.1.1"
+	}
+}
+
+41509 = {
+	name = "Ashot"
+	# AKA: Ashot Oghormac
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41508
+	10905.1.1 = {
+		birth = "10905.1.1"
+	}
+	10977.1.1 = {
+		death = "10977.1.1"
+	}
+}
+
+41510 = {
+	name = "Smbat"
+	# AKA: Smbat Tiezerakal
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41509
+	10933.1.1 = {
+		birth = "10933.1.1"
+	}
+	10990.1.1 = {
+		death = "10990.1.1"
+	}
+}
+
+41511 = {
+	name = "Gurgen_Kvirike"
+	# AKA: Kvirike
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41509
+	10937.1.2 = {
+		birth = "10937.1.2"
+	}
+	10989.1.1 = {
+		death = "10989.1.1"
+	}
+}
+
+41512 = {
+	name = "Davit"
+	# AKA: Davit Anhoghin
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41511
+	10988.1.1 = {
+		birth = "10988.1.1"
+	}
+	11048.1.1 = {
+		death = "11048.1.1"
+	}
+}
+
+41513 = {
+	name = "Kvirike"
+	dynasty = 507
+	martial = 1
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_diplomacy_2
+	father = 41512
+	11018.1.1 = {
+		birth = "11018.1.1"
+	}
+	11049.1.1 = {
+		add_spouse = 41334
+	}
+	11070.1.1 = {
+		death = "11070.1.1"
+	}
+}
+
+41514 = {
+	name = "Gagik"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41512
+	11020.1.1 = {
+		birth = "11020.1.1"
+	}
+	11049.1.1 = {
+		add_spouse = 41335
+	}
+	11058.1.1 = {
+		death = "11058.1.1"
+	}
+}
+
+41517 = {
+	name = "Hethum"
+	dynasty = 507
+	martial = 6
+	diplomacy = 10
+	intrigue = 1
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_diplomacy_2
+	father = 41513
+	mother = 41334
+	11052.1.1 = {
+		birth = "11052.1.1"
+	}
+	11115.1.1 = {
+		death = "11115.1.1"
+	}
+}
+
+41518 = {
+	name = "Mara"
+	female = yes
+	dynasty = 507
+	martial = 8
+	diplomacy = 4
+	intrigue = 10
+	stewardship = 8
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_intrigue_4
+	father = 41521
+	11027.1.1 = {
+		birth = "11027.1.1"
+	}
+	11092.1.1 = {
+		death = "11092.1.1"
+	}
+}
+
+41519 = {
+	name = "Gagik"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41509
+	10950.1.1 = {
+		birth = "10950.1.1"
+	}
+	11020.1.1 = {
+		death = "11020.1.1"
+	}
+}
+
+41520 = {
+	name = "Smbat"
+	# AKA: Smbat Hovhannes
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41519
+	10995.1.1 = {
+		birth = "10995.1.1"
+	}
+	11041.1.1 = {
+		death = "11041.1.1"
+	}
+}
+
+41521 = {
+	name = "Ashot"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41519
+	10997.1.1 = {
+		birth = "10997.1.1"
+	}
+	11041.9.1 = {
+		death = "11041.9.1"
+	}
+}
+
+41522 = {
+	name = "Gagik"
+	dynasty = 507
+	martial = 8
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 9
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_stewardship_1
+	father = 41521
+	11025.1.1 = {
+		birth = "11025.1.1"
+	}
+	11050.1.1 = {
+		add_spouse = 41579
+	}
+	11076.3.2 = {
+		death = "11076.3.2"
+	}
+}
+
+41524 = {
+	name = "Mushel"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41508
+	10910.1.1 = {
+		birth = "10910.1.1"
+	}
+	10984.1.1 = {
+		death = "10984.1.1"
+	}
+}
+
+41525 = {
+	name = "Abas"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41524
+	10940.1.1 = {
+		birth = "10940.1.1"
+	}
+	11024.1.1 = {
+		death = "11024.1.1"
+	}
+}
+
+41526 = {
+	name = "Gagik"
+	# AKA: Gagik Abas
+	dynasty = 507
+	martial = 3
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 10
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_stewardship_1
+	father = 41525
+	10970.1.1 = {
+		birth = "10970.1.1"
+	}
+	11066.1.1 = {
+		employer = 41513
+	}
+	11069.1.1 = {
+		death = "11069.1.1"
+	}
+}
+
+41527 = {
+	name = "Sopi"
+	female = yes
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41505
+	mother = armenian_000082
+	10860.1.1 = {
+		birth = "10860.1.1"
+	}
+	10889.1.1 = {
+		death = "10889.1.1"
+	}
+}
+
+41528 = {
+	name = "Mara"
+	female = yes
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41504
+	mother = 159884
+	10824.1.1 = {
+		birth = "10824.1.1"
+	}
+	10884.1.1 = {
+		death = "10884.1.1"
+	}
+}
+
+41530 = {
+	name = "Bagrat"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41502
+	mother = 159882
+	10789.1.1 = {
+		birth = "10789.1.1"
+	}
+	10851.1.1 = {
+		death = "10851.1.1"
+	}
+}
+
+41531 = {
+	name = "Tornik"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41530
+	10840.1.1 = {
+		birth = "10840.1.1"
+	}
+	10903.1.1 = {
+		death = "10903.1.1"
+	}
+}
+
+41532 = {
+	name = "Grigor"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41531
+	10863.1.1 = {
+		birth = "10863.1.1"
+	}
+	10923.1.1 = {
+		death = "10923.1.1"
+	}
+}
+
+41533 = {
+	name = "Ashot"
+	dynasty = 507
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41532
+	10893.1.1 = {
+		birth = "10893.1.1"
+	}
+	10968.1.1 = {
+		death = "10968.1.1"
+	}
+}
+
+41534 = {
+	name = "Grigor"
+	dynasty_house = house_taronites
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41533
+	10912.1.1 = {
+		birth = "10912.1.1"
+	}
+	10995.1.1 = {
+		death = "10995.1.1"
+	}
+}
+
+41535 = {
+	name = "Ashot"
+	dynasty_house = house_taronites
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41534
+	10950.1.1 = {
+		birth = "10950.1.1"
+	}
+	10998.1.1 = {
+		add_spouse = 41323
+	}
+	11008.1.1 = {
+		death = "11008.1.1"
+	}
+}
+
+41538 = {
+	name = "Vasak"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41500
+	10720.1.1 = {
+		birth = "10720.1.1"
+	}
+	10765.1.1 = {
+		death = "10765.1.1"
+	}
+}
+41539 = {
+	name = "Atrnerseh"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41538
+	10740.1.1 = {
+		birth = "10740.1.1"
+	}
+	10765.1.1 = {
+		add_spouse = 159790
+	}
+	10809.1.1 = {
+		death = "10809.1.1"
+		name = "Adanarse"
+		faith = "orthodox"
+		culture = "georgian"
+	}
+}
+
+41540 = {
+	name = "Ashot"
+	dynasty_house = house_bagrationi
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_stewardship_2
+	father = 41539
+	mother = 159790
+	10765.1.1 = {
+		birth = "10765.1.1"
+	}
+	10809.1.1 = {
+		faith = orthodox
+		culture = "georgian"
+	}
+	10826.1.29 = {
+		death = "10826.1.29"
+	}
+}
+
+41556 = {
+	name = "Smbat"
+	dynasty = 101743
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = incapable
+	trait = education_martial_2
+	father = 41555
+	11021.1.1 = {
+		birth = "11021.1.1"
+	}
+	11071.8.26 = {
+		death = "11071.8.26"
+	}
+}
+
+41557 = {
+	name = "Grigor"
+	dynasty = 101743
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 8
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = brave
+	trait = gluttonous
+	trait = education_martial_2
+	father = 41555
+	11025.1.1 = {
+		birth = "11025.1.1"
+	}
+	11050.1.1 = {
+		add_spouse = 159240
+	}
+	11084.1.1 = {
+		death = "11084.1.1"
+	}
+}
+
+41558 = {
+	name = Hovhannes
+	dynasty = 101743
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = armenian_apostolic
+	culture = armenian
+	trait = education_martial_2
+	father = 41557
+	mother = 159240
+	11050.1.1 = {
+		birth = yes
+	}
+	11066.1.1 = {
+		give_council_position = councillor_spymaster
+	}
+	11105.1.1 = {
+		death = yes
+	}
+}
+
+41559 = {
+	name = "Hamazasp"
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160014
+	10810.1.1 = {
+		birth = "10810.1.1"
+	}
+	10827.1.1 = {
+		add_spouse = 41503
+	}
+	10836.1.1 = {
+		death = "10836.1.1"
+	}
+}
+
+41560 = {
+	name = "Ashot"
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41559
+	mother = 41503
+	10828.1.1 = {
+		birth = "10828.1.1"
+	}
+	10874.1.1 = {
+		death = "10874.1.1"
+	}
+}
+
+41561 = {
+	name = "Mariam"
+	female = yes
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41560
+	10854.1.1 = {
+		birth = "10854.1.1"
+	}
+	10885.1.1 = {
+		death = "10885.1.1"
+	}
+}
+
+41562 = {
+	name = "Grigor"
+	# AKA: Grigor Derenik
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41560
+	10855.1.1 = {
+		birth = "10855.1.1"
+	}
+	10872.1.1 = {
+		add_spouse = 41527
+	}
+	10887.1.1 = {
+		death = "10887.1.1"
+	}
+}
+
+41563 = {
+	name = "Gagik"
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41562
+	mother = 41527
+	10873.1.1 = {
+		birth = "10873.1.1"
+	}
+	10943.1.1 = {
+		death = "10943.1.1"
+	}
+}
+
+41564 = {
+	name = "Derenik"
+	# AKA: Derenik Ashot
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41563
+	10903.1.1 = {
+		birth = "10903.1.1"
+	}
+	10953.1.1 = {
+		death = "10953.1.1"
+	}
+}
+
+41565 = {
+	name = "Grigor"
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41564
+	10950.1.1 = {
+		birth = "10950.1.1"
+	}
+	11016.1.1 = {
+		death = "11016.1.1"
+	}
+}
+
+41566 = {
+	name = "Gagik"
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41565
+	10978.1.1 = {
+		birth = yes
+	}
+	11036.1.1 = {
+		death = "11036.1.1"
+	}
+}
+
+41567 = {
+	name = "Hasan"
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41566
+	10992.1.1 = {
+		birth = yes
+	}
+	11057.1.1 = {
+		death = "11057.1.1"
+	}
+}
+
+41568 = {
+	name = "Abulgharib"
+	dynasty = 101736
+	martial = 1
+	diplomacy = 8
+	intrigue = 9
+	stewardship = 2
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_intrigue_2
+	father = 41567
+	11010.1.1 = {
+		birth = "11010.1.1"
+	}
+	11066.1.1 = {
+		contract_disease_effect = { DISEASE = ill TREATMENT_EVENT = yes }
+	}
+	11068.1.1 = {
+		death = "11068.1.1"
+	}
+}
+
+41569 = {
+	name = "Gaday"
+	dynasty = 101736
+	female = yes
+	martial = 2
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_intrigue_2
+	father = 41568
+	11047.1.1 = {
+		birth = "11047.1.1"
+	}
+	11109.1.1 = {
+		death = "11109.1.1"
+	}
+}
+
+41570 = {
+	name = "Abusahl_Hamazasp"
+	# AKA: Abusahl Hamazasp
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41563
+	10910.1.1 = {
+		birth = "10910.1.1"
+	}
+	10972.1.1 = {
+		death = "10972.1.1"
+	}
+}
+
+41571 = {
+	name = "Ashot_Sahak"
+	# AKA: Ashot Sahak
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41570
+	10926.1.1 = {
+		birth = "10926.1.1"
+	}
+	10983.1.1 = {
+		death = "10983.1.1"
+	}
+}
+
+41572 = {
+	name = "Gurgen_Khachik"
+	# AKA: Gurgen Khachik
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41571
+	10945.1.1 = {
+		birth = "10945.1.1"
+	}
+	11003.1.1 = {
+		death = "11003.1.1"
+	}
+}
+
+41573 = {
+	name = "Gagik"
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41572
+	10965.1.1 = {
+		birth = "10965.1.1"
+	}
+	11023.1.1 = {
+		death = "11023.1.1"
+	}
+}
+
+41574 = {
+	name = "Gurgen"
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41573
+	10995.1.1 = {
+		birth = "10995.1.1"
+	}
+	11048.1.1 = {
+		death = "11048.1.1"
+	}
+}
+
+41575 = {
+	name = "Gagik"
+	dynasty = 101736
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_learning_4
+	father = 41574
+	11025.1.1 = {
+		birth = "11025.1.1"
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+
+41576 = {
+	name = "Hovhannes_Senek_erim"
+	# AKA: Hovhannes Senek'erim
+	# AKA: Senekerim Hovhannes Artsruni
+	dynasty = 101736
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41570
+	10970.1.1 = {
+		birth = "10970.1.1"
+	}
+	11000.1.1 = {
+		add_spouse = 159282
+	}
+	11026.1.1 = {
+		death = "11026.1.1"
+	}
+}
+
+41578 = {
+	name = "Davit"
+	dynasty = 101736
+	martial = 2
+	diplomacy = 1
+	intrigue = 7
+	stewardship = 10
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_stewardship_2
+	father = 41576
+	mother = 159282
+	11000.1.1 = {
+		birth = "11000.1.1"
+	}
+	11050.1.2 = {
+		death = "11050.1.2"
+	}
+}
+
+41579 = {
+	name = "Anoush"
+	female = yes
+	dynasty = 101736
+	martial = 1
+	diplomacy = 2
+	intrigue = 7
+	stewardship = 8
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_stewardship_1
+	father = 41578
+	11030.1.1 = {
+		birth = "11030.1.1"
+	}
+	11092.1.1 = {
+		death = "11092.1.1"
+	}
+}
+
+41580 = {
+	name = "Atom"
+	dynasty = 101736
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 2
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_martial_2
+	father = 41576
+	mother = 159282
+	11001.1.1 = {
+		birth = "11001.1.1"
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+
+41581 = {
+	name = "Abusahl"
+	dynasty = 101736
+	martial = 7
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 8
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_stewardship_2
+	father = 41576
+	mother = 159282
+	11002.1.1 = {
+		birth = "11002.1.1"
+	}
+	11079.1.1 = {
+		death = "11079.1.1"
+	}
+}
+
+41583 = {
+	name = "Vasak"
+	dynasty_house = house_pahlavuni
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = humble
+	trait = just
+	trait = chaste
+	trait = education_martial_2
+	father = 90084
+	10965.1.1 = {
+		birth = "10965.1.1"
+	}
+	11021.1.1 = {
+		death = "11021.1.1"
+	}
+}
+
+41584 = {
+	name = "Grigor"
+	# AKA: Grigor Magistros
+	dynasty_house = house_pahlavuni
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = calm
+	trait = just
+	trait = zealous
+	trait = education_stewardship_4
+	father = 41583
+	10990.1.1 = {
+		birth = "10990.1.1"
+	}
+	11059.1.1 = {
+		death = "11059.1.1"
+	}
+}
+
+41585 = {
+	name = "Grigor"
+	# AKA: Grigor Ykayaser
+	dynasty_house = house_pahlavuni
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = zealous
+	trait = calm
+	trait = honest
+	trait = education_diplomacy_1
+	father = 41584
+	11020.1.1 = {
+		birth = "11020.1.1"
+	}
+	11066.1.1 = {
+		effect = {
+			if = {
+				limit = {
+					government_allows = administrative
+				}
+				vassal_contract_set_obligation_level = {
+					type = administrative_themes
+					level = 3
+				}
+			}
+		}
+	}
+	11102.1.1 = {
+		death = "11102.1.1"
+	}
+}
+
+41586 = {
+	name = "Sarkis"
+	dynasty_house = house_pahlavuni
+	martial = 6
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = gluttonous
+	trait = wrathful
+	trait = education_stewardship_2
+	father = 41585
+	11045.1.1 = {
+		birth = "11045.1.1"
+	}
+	11099.1.1 = {
+		death = "11099.1.1"
+	}
+}
+
+41587 = {
+	name = "Theodorosanti"
+	dynasty_house = house_pahlavuni
+	martial = 5
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = arrogant
+	trait = diligent
+	trait = brave
+	trait = education_martial_2
+	father = 41585
+	11049.1.1 = {
+		birth = "11049.1.1"
+	}
+	11110.1.1 = {
+		death = "11110.1.1"
+	}
+}
+
+41588 = {
+	name = "Poghos"
+	dynasty_house = house_pahlavuni
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = cynical
+	trait = education_stewardship_2
+	father = 41585
+	11053.1.1 = {
+		birth = "11053.1.1"
+	}
+	11105.1.1 = {
+		death = "11105.1.1"
+	}
+}
+
+41589 = {
+	name = "Hetum"
+	dynasty_house = house_pahlavuni
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = calm
+	trait = honest
+	trait = diligent
+	trait = education_stewardship_2
+	father = 70440
+	11006.1.1 = {
+		birth = "11006.1.1"
+	}
+	11040.1.1 = {
+		add_spouse = 159289
+	}
+	11072.1.1 = {
+		death = "11072.1.1"
+	}
+}
+
+41590 = {
+	name = "Toros"
+	# AKA: Thoros
+	dynasty_house = house_pahlavuni
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 8
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = greedy
+	trait = honest
+	trait = rowdy
+	father = 41589
+	mother = 159289
+	disallow_random_traits = yes
+	11051.1.1 = {
+		birth = "11051.1.1"
+	}
+	11105.1.1 = {
+		death = "11105.1.1"
+	}
+}
+
+41591 = {
+	name = "Oshim" #Lord of Lampron
+	dynasty_house = house_pahlavuni
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = lazy
+	trait = gluttonous
+	trait = brave
+	trait = education_martial_2
+	father = 41589
+	mother = 159289
+	11056.1.1 = {
+		birth = "11056.1.1"
+	}
+	11076.1.1 = {
+		dynasty = 23003
+	}
+	11116.1.1 = {
+		death = "11116.1.1"
+	}
+}
+
+4554 = {
+	name = "Kohar"
+	female = yes
+	dynasty = 44
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_stewardship_3
+	11040.1.1 = {
+		birth = "11040.1.1"
+	}
+	11095.1.1 = {
+		death = "11095.1.1"
+	}
+}
+
+461798 = {
+	name = "Alix"
+	female = yes
+	dynasty = 23003
+	martial = 2
+	diplomacy = 3
+	intrigue = 5
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = humble
+	trait = education_intrigue_1
+	father = 31872
+	11296.1.1 = {
+		birth = "11296.1.1"
+	}
+	11329.1.1 = {
+		death = "11329.1.1"
+	}
+}
+
+461799 = {
+	name = "Hethum"
+	dynasty = 23003
+	martial = 3
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = inbred
+	trait = education_stewardship_2
+	father = 461800
+	mother = 461798
+	11320.1.2 = {
+		birth = "11320.1.2"
+	}
+	11330.1.2 = {
+		death = "11330.1.2"
+	}
+}
+
+461800 = {
+	name = "Levon" #king of Armenia 1320-1341
+	dynasty = 23003
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = lazy
+	trait = education_diplomacy_2
+	trait = kinslayer_3
+	father = 461803
+	mother = 31877
+	11296.1.1 = {
+		birth = "11296.1.1"
+	}
+	11312.1.1 = {
+		add_spouse = 461798
+	}
+	11333.1.1 = {
+		add_spouse = 461509
+	}
+	11345.1.1 = {
+		death = "11345.1.1"
+	}
+}
+
+461801 = {
+	name = "Thoros" #king of Armenia 1293-1294
+	dynasty = 23003
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = deceitful
+	trait = education_martial_2
+	father = 461802
+	mother = 31851
+	11271.1.1 = {
+		birth = "11271.1.1"
+	}
+	11292.1.1 = {
+		add_spouse = 461914
+	}
+	11298.7.23 = {
+		death = "11298.7.23"
+	}
+}
+
+461802 = {
+	name = "Levon" #king of Armenia 1270-1289
+	dynasty = 23003
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_stewardship_1
+	father = 31830
+	mother = 30998
+	11236.1.1 = {
+		birth = "11236.1.1"
+	}
+	11265.1.1 = {
+		add_spouse = 31851
+	}	
+	11289.1.1 = {
+		death = "11289.1.1"
+	}
+}
+
+461803 = {
+	name = "Oshim" #king of Armenia 1308-1320
+	dynasty = 23003
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = cynical
+	trait = education_martial_2
+	father = 461802
+	mother = 31851
+	11280.1.1 = {
+		birth = "11280.1.1"
+	}
+	11300.1.1 = {
+		add_spouse = 31877
+	}
+	11320.7.20 = {
+		death = "11320.7.20"
+	}
+}
+
+461804 = {
+	name = "Maria"
+	female = yes
+	dynasty = 23003
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = cynical
+	trait = temperate
+	trait = education_diplomacy_1
+	father = 461803
+	11320.1.1 = {
+		birth = "11320.1.1"
+	}
+	11363.1.1 = {
+		death = "11363.1.1"
+	}
+}
+
+461917 = {
+	name = "Zabel"
+	female = yes
+	dynasty = 23003
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_diplomacy_2
+	father = 461802
+	mother = 31851
+	11272.1.1 = {
+		birth = "11272.1.1"
+	}
+	11323.1.1 = {
+		death = "11323.1.1"
+	}
+}
+
+465911 = {
+	name = "Retha"
+	# AKA: Rita-Maria
+	female = yes
+	dynasty = 23003
+	martial = 7
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 8
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = calm
+	trait = inbred
+	trait = education_intrigue_1
+	father = 461802
+	mother = 31851
+	11283.1.2 = {
+		birth = "11283.1.2"
+	}
+	11333.1.2 = {
+		death = "11333.1.2"
+	}
+}
+
+70440 = {
+	name = "Hethum"
+	dynasty_house = house_pahlavuni
+	martial = 5
+	diplomacy = 9
+	intrigue = 8
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = scholar
+	trait = education_stewardship_2
+	father = 41583
+	
+	10990.1.1 = {
+		birth = "10990.1.1"
+	}
+	11071.1.1 = {
+		death = "11071.1.1"
+	}
+}
+
+70445 = {
+	name = "Hovhannes"
+	dynasty = 507
+	martial = 5
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	sexuality = homosexual
+	trait = greedy
+	trait = education_martial_2
+	father = 41522
+	mother = 41579
+	11054.1.1 = {
+		birth = "11054.1.1"
+	}
+	11099.1.1 = {
+		death = "11099.1.1"
+	}
+}
+
+70446 = {
+	name = "Davit"
+	dynasty = 507
+	martial = 6
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 3
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = temperate
+	trait = education_stewardship_1
+	father = 41522
+	mother = 41579
+	11056.1.1 = {
+		birth = "11056.1.1"
+	}
+	11108.1.1 = {
+		death = "11108.1.1"
+	}
+}
+
+70447 = {
+	name = "Smbat"
+	dynasty = 507
+	martial = 6
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = trusting
+	trait = gregarious
+	trait = education_martial_2
+	father = 70448
+	10660.1.1 = {
+		birth = "10660.1.1"
+	}
+	10726.1.1 = {
+		death = "10726.1.1"
+	}
+}
+
+70448 = {
+	name = "Ashot"
+	dynasty = 507
+	martial = 5
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = shy
+	trait = calm
+	trait = education_diplomacy_2
+	father = 159918
+	10633.1.1 = {
+		birth = "10633.1.1"
+	}
+	10690.1.1 = {
+		death = "10690.1.1"
+	}
+}
+
+70450 = {
+	name = "Mushel" #VI
+	dynasty = 23006
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = brave
+	trait = arrogant
+	trait = education_martial_2
+	father = 159874
+	
+	10710.1.1 = {
+		birth = "10710.1.1"
+	}
+	10774.1.1 = {
+		death = "10774.1.1"
+	}
+}
+
+70451 = {
+	name = "Grigor"
+	dynasty = 23006
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = cynical
+	trait = craven
+	trait = education_diplomacy_1
+	father = 159874
+	
+	10705.1.1 = {
+		birth = "10705.1.1"
+	}
+	10750.1.1 = {
+		death = "10750.1.1"
+	}
+}
+
+70452 = {
+	name = "Grigor"
+	dynasty = 23006
+	martial = 4
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = humble
+	trait = education_martial_3
+	trait = lifestyle_blademaster
+	father = 70454
+	10620.1.1 = {
+		birth = "10620.1.1"
+	}
+	10684.1.1 = {
+		death = "10684.1.1"
+	}
+}
+
+70453 = {
+	name = "Mushel"
+	dynasty = 23006
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = greedy
+	trait = trusting
+	trait = education_stewardship_3
+	father = 70452
+	10675.1.1 = {
+		birth = "10675.1.1"
+	}
+	10743.1.1 = {
+		death = "10743.1.1"
+	}
+}
+
+70454 = {
+	name = "Mushel"
+	dynasty = 23006
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 3
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = cynical
+	trait = arbitrary
+	trait = education_martial_2
+	father = 70455
+	10595.1.1 = {
+		birth = "10595.1.1"
+	}
+	10660.1.1 = {
+		death = "10660.1.1"
+	}
+}
+
+70455 = {
+	name = "Davit"
+	dynasty = 23006
+	martial = 6
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = gregarious
+	trait = wrathful
+	trait = education_intrigue_1
+	father = 159865
+	mother = 159917
+	10545.1.1 = {
+		birth = "10545.1.1"
+	}
+	10570.1.1 = {
+		add_spouse = 159931
+	}
+	10607.1.1 = {
+		death = "10607.1.1"
+	}
+}
+
+70493 = {
+	name = "Leon"
+	# AKA: Leo 'the Armenian'
+	dynasty = 8643
+	martial = 6
+	diplomacy = 3
+	intrigue = 5
+	stewardship = 7
+	religion = "iconoclast"
+	culture = "armenian"
+	trait = ambitious
+	trait = deceitful
+	trait = education_stewardship_3
+	
+	10780.1.1 = {
+		birth = "10780.1.1"
+	}
+	10800.1.1 = {
+		give_nickname = nick_the_own_culture
+	}
+	10820.12.27 = {
+		death = "10820.12.27"
+	}
+}
+
+85001 = {
+	name = "Vahram"
+	# AKA: Philaretos Brakhamios
+	dynasty = 20063
+	martial = 9
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = greedy
+	trait = gregarious
+	trait = cynical
+	trait = education_martial_3
+	11035.1.1 = {
+		birth = "11035.1.1"
+	}
+	11066.1.1 = {
+		effect = {
+			if = {
+				limit = {
+					government_allows = administrative
+				}
+				vassal_contract_set_obligation_level = {
+					type = administrative_themes
+					level = 3
+				}
+			}
+		}
+	}
+	11086.1.1 = {
+		death = "11086.1.1"
+	}
+}
+
+90024 = {
+	name = "Khoushoush"
+	dynasty = 100706
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_martial_2
+	father = 20562
+	11060.1.1 = {
+		birth = "11060.1.1"
+	}
+	11109.1.1 = {
+		death = "11109.1.1"
+	}
+}
+
+90025 = {
+	name = "Morfia"
+	female = yes
+	dynasty = 100706
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_intrigue_1
+	father = 20562
+	11062.1.1 = {
+		birth = "11062.1.1"
+	}
+	11127.1.1 = {
+		death = "11127.1.1"
+	}
+}
+
+90026 = {
+	name = "Beatrice"
+	female = yes
+	dynasty = 100706
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_stewardship_3
+	father = 20562
+	11066.1.1 = {
+		birth = "11066.1.1"
+	}
+	11120.1.1 = {
+		death = "11120.1.1"
+	}
+}
+
+90084 = {
+	name = "Abirad"
+	dynasty_house = house_pahlavuni
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159260
+	trait = education_stewardship_1
+	10946.1.1 = {
+		birth = "10946.1.1"
+	}
+	10991.1.1 = {
+		death = "10991.1.1"
+	}
+}
+
+90087 = {
+	name = "Abulgharib"
+	# AKA: Abelgharib
+	dynasty = 20063
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_martial_2
+	trait = honest
+	father = 85001
+	11060.1.1 = {
+		birth = "11060.1.1"
+	}
+	11120.1.1 = {
+		death = "11120.1.1"
+	}
+}
+
+90088 = {
+	name = "Ligos"
+	dynasty = 20063
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = greedy
+	father = 85001
+	11062.1.1 = {
+		birth = "11062.1.1"
+	}
+	11115.1.1 = {
+		death = "11115.1.1"
+	}
+}
+
+9951 = {
+	name = "Mariam"
+	female = yes
+	dynasty = 101736
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = education_intrigue_1
+	father = 41576
+	mother = 159282
+	11004.1.1 = {
+		birth = "11004.1.1"
+	}
+	11072.11.1 = {
+		death = "11072.11.1"
+	}
+}
+
+9955 = {
+	name = "Helena"
+	female = yes
+	dynasty = 507
+	martial = 8
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 10
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = diligent
+	trait = education_stewardship_2
+	father = 41522
+	mother = 41579
+	11052.1.1 = {
+		birth = "11052.1.1"
+	}
+	11115.1.1 = {
+		death = "11115.1.1"
+	}
+}
+
+31830 = {
+	name = "Hethum" #Hethum I
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223028
+	mother = 223037
+	11210.1.1 = {
+		birth = "11210.1.1"
+	}
+	11226.1.1 = {
+		add_spouse = 30998
+	}
+	11270.10.28 = {
+		death = "11270.10.28"
+	}
+}
+
+31831 = {
+	name = "Stephanie"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223028
+	11204.1.1 = {
+		birth = "11204.1.1"
+	}
+	#married Gosdantin lord of Lampron
+	11274.1.1 = {
+		death = "11274.1.1"
+	}
+}
+
+31832 = {
+	name = "Smbat" #lord of Barbaron
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223028
+	mother = 223037
+	11206.1.1 = {
+		birth = "11206.1.1"
+	}
+	#married Bkhatakhavor Kathun
+	11276.1.1 = {
+		death = "11276.1.1"
+	}
+}
+31833 = {
+	name = "Oshim" #lord of Korikos
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223028
+	mother = 223037
+	11217.1.1 = {
+		birth = "11217.1.1"
+	}
+	11241.1.1 = {
+		add_spouse = 31869
+	}
+	11265.12.25 = {
+		death = "11265.12.25"
+	}
+}
+31834 = {
+	name = "Hovhannes" #bishop of Sis
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223028
+	11223.1.1 = {
+		birth = "11223.1.1"
+	}
+	11289.1.1 = {
+		death = "11289.1.1"
+	}
+}
+
+31835 = {
+	name = "Maria"
+	#AKA Kalamaria
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223028
+	mother = 223037
+	11220.1.1 = {
+		birth = "11220.1.1"
+	}
+	#1237 married Jean d'Ibelin ct of Jaffa-Ascalon
+	11263.1.15 = {
+		death = "11263.1.15"
+	}
+}
+
+31836 = {
+	name = "Emeline"
+	#AKA Stephanie or Estienette
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223028
+	mother = 223037
+	11211.1.1 = {
+		birth = "11211.1.1"
+	}
+	#married 1237 Henry I Lusignan of Cyprus
+	11263.1.1 = {
+		death = "11263.1.1"
+	}
+}
+
+31837 = {
+	name = "Barseghk"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223028
+	mother = 223037
+	11218.1.1 = {
+		birth = "11218.1.1"
+	}
+	11275.1.1 = {
+		death = "11275.1.1"
+	}
+}
+31838 = {
+	name = "Levon"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223028
+	mother = 223037
+	11219.1.1 = {
+		birth = "11219.1.1"
+	}
+	11258.1.25 = {
+		death = "11258.1.25"
+	}
+}
+31839 = {
+	name = "Hripsimeh"
+	#AKA Margueritte
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223028
+	mother = 223037
+	11221.1.1 = {
+		birth = "11221.1.1"
+	}
+	11241.1.1 = {
+		death = "11241.1.1"
+	}
+}
+
+31840 = {
+	name = "Vassak"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223028
+	11224.1.1 = {
+		birth = "11224.1.1"
+	}
+	11285.1.1 = {
+		death = "11285.1.1"
+	}
+}
+31841 = {
+	name = "Licos"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223028
+	11230.1.1 = {
+		birth = "11230.1.1"
+	}
+	11266.1.1 = {
+		death = "11266.1.1"
+	}
+}
+
+31842 = {
+	name = "Gosdantin" #Lord of Neghir
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223028
+	11232.1.1 = {
+		birth = "11232.1.1"
+	}
+	11308.1.1 = {
+		death = "11308.1.1"
+	}
+}
+
+31843 = {
+	name = "Hethum"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31840
+	11255.1.1 = {
+		birth = "11255.1.1"
+	}
+	11305.1.1 = {
+		death = "11305.1.1"
+	}
+}
+31845 = {
+	name = "Gosdantin"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31840
+	11260.1.1 = {
+		birth = "11260.1.1"
+	}
+	11300.1.1 = {
+		death = "11300.1.1"
+	}
+}
+
+31846 = {
+	name = "Levon"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31841
+	11246.1.1 = {
+		birth = "11246.1.1"
+	}
+	11296.1.1 = {
+		death = "11296.1.1"
+	}
+}
+
+
+31847 = {
+	name = "Euphemia"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31830
+	mother = 30998
+	11240.1.1 = {
+		birth = "11240.1.1"
+	}
+	#married Julian Grenier
+	11309.1.1 = {
+		death = "11309.1.1"
+	}
+}
+
+31848 = {
+	name = "Maria"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31830
+	mother = 30998
+	11241.1.1 = {
+		birth = "11241.1.1"
+	}
+	#married Guy d'Ibelin (1289)
+	11310.1.1 = {
+		death = "11310.1.1"
+	}
+}
+
+31849 = {
+	name = "Hethum" #Lord of Lampron
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223036
+	mother = 31831
+	11221.1.1 = {
+		birth = "11221.1.1"
+	}
+	11237.1.1 = {
+		add_spouse = 31850
+	}
+	11250.6.29 = {
+		death = "11250.6.29"
+	}
+}
+
+31851 = {
+	name = "Kyranna"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31849
+	mother = 31850
+	11242.1.1 = {
+		birth = "11242.1.1"
+	}
+	#Levon III of Armenia
+	11285.1.1 = {
+		death = "11285.1.1"
+	}
+}
+
+31852 = {
+	name = "Alix"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31849
+	mother = 31850
+	11243.1.1 = {
+		birth = "11243.1.1"
+	}
+	#married Bailan Ibelin
+	11285.1.1 = {
+		death = "11285.1.1"
+	}
+}
+
+31853 = {
+	name = "Kyranna"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223036
+	mother = 31831
+	11224.1.1 = {
+		birth = "11224.1.1"
+	}
+	11274.1.1 = {
+		death = "11274.1.1"
+	}
+}
+
+31854 = {
+	name = "Oshin"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223036
+	mother = 31831
+	11230.1.1 = {
+		birth = "11230.1.1"
+	}
+	11294.1.7 = {
+		death = "11294.1.7"
+	}
+}
+
+31855 = {
+	name = "Hethum"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31854
+	11265.1.1 = {
+		birth = "11265.1.1"
+	}
+	11307.1.1 = {
+		death = "11307.1.1"
+	}
+}
+
+31856 = {
+	name = "Raymond"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31849
+	mother = 31850
+	11244.1.1 = {
+		birth = "11244.1.1"
+	}
+	11309.1.1 = {
+		death = "11309.1.1"
+	}
+}
+
+31857 = {
+	name = "Hethum" #king of Armenia 1289-1293 1294-1296 1299-1307
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 461802
+	mother = 31851
+	11266.1.1 = {
+		birth = "11266.1.1"
+	}
+	11290.1.1 = {
+		add_spouse = 31858
+	}
+	#blinded by his brother Smbat
+	11299.1.1 = {
+		trait = blind
+	}
+	#converted to catholicism
+	11299.3.4 = {
+		religion = "catholic"
+	}
+	11307.11.7 = {
+		death = "11307.11.7"
+	}
+}
+
+31859 = {
+	name = "Thoros"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31857
+	mother = 31858
+	11291.1.1 = {
+		birth = "11291.1.1"
+	}
+	11296.1.1 = {
+		death = "11296.1.1"
+	}
+}
+
+31860 = {
+	name = "Smbat" #king of Armenia 1296-1298
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 461802
+	mother = 31851
+	11276.1.1 = {
+		birth = "11276.1.1"
+	}
+	11296.1.1 = {
+		trait = kinslayer_3
+	}
+	11311.1.1 = {
+		death = "11311.1.1"
+	}
+}
+
+31861 = {
+	name = "Theophanu"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 461802
+	mother = 31851
+	11278.1.1 = {
+		birth = "11278.1.1"
+	}
+	11296.1.1 = {
+		death = "11296.1.1"
+	}
+}
+31862 = {
+	name = "Nerses"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 461802
+	mother = 31851
+	11279.1.1 = {
+		birth = "11279.1.1"
+	}
+	11301.5.26 = {
+		death = "11301.5.26"
+	}
+}
+
+31863 = {
+	name = "Alinax" #twin of 461803 Oshim
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 461802
+	mother = 31851
+	11280.1.1 = {
+		birth = "11280.1.1"
+	}
+	11310.8.28 = {
+		death = "11310.8.28"
+	}
+}
+
+31864 = {
+	name = "Hethum" #lord of Barbaron
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31832
+	11249.1.1 = {
+		birth = "11249.1.1"
+	}
+	11269.7.15 = {
+		death = "11269.7.15"
+	}
+}
+31865 = {
+	name = "Levon" #lord of Barbaron
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31832
+	11252.1.1 = {
+		birth = "11252.1.1"
+	}
+	11296.1.1 = {
+		death = "11296.1.1"
+	}
+}
+31866 = {
+	name = "Smbat" #lord of Barbaron
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31865
+	11280.1.1 = {
+		birth = "11280.1.1"
+	}
+	11320.1.1 = {
+		death = "11320.1.1"
+	}
+}
+
+31867 = {
+	name = "Marie"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31865
+	11288.1.1 = {
+		birth = "11288.1.1"
+	}
+	11352.8.27 = {
+		death = "11352.8.27"
+	}
+}
+
+31868 = {
+	name = "Hethum" #lord of Korikos
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31833
+	mother = 31869
+	11242.1.1 = {
+		birth = "11242.1.1"
+	}
+	# Isabelle d'Ibelin
+	11314.1.1 = {
+		death = "11314.1.1"
+	}
+}
+
+31869 = {
+	name = "Alix"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 223036
+	mother = 31831
+	11225.1.1 = {
+		birth = "11225.1.1"
+	}
+	11266.1.13 = {
+		death = "11266.1.13"
+	}
+}
+
+31870 = {
+	name = "Oshin"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31833
+	mother = 31869
+	11243.1.1 = {
+		birth = "11243.1.1"
+	}
+	11294.1.1 = {
+		death = "11294.1.1"
+	}
+}
+
+31871 = {
+	name = "Zabel"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31868
+	11270.1.1 = {
+		birth = "11270.1.1"
+	}
+	# Oshin of Armenia
+	11310.4.3 = {
+		death = "11310.4.3"
+	}
+}
+
+31872 = {
+	name = "Oshin" #Lord of Korikos
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31868
+	11272.1.1 = {
+		birth = "11272.1.1"
+	}
+	#married 1308 Marguerite d'Ibelin
+	#married 1320 Jeanne di Tarento
+	11329.2.26 = {
+		death = "11329.2.26"
+	}
+}
+
+31873 = {
+	name = "Gosdantin"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31868
+	11273.1.1 = {
+		birth = "11273.1.1"
+	}
+	11329.2.26 = {
+		death = "11329.2.26"
+	}
+}
+
+31874 = {
+	name = "Levon"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31868
+	11274.1.1 = {
+		birth = "11274.1.1"
+	}
+	11325.1.1 = {
+		death = "11325.1.1"
+	}
+}
+
+31875 = {
+	name = "Hethum"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31872
+	11295.1.1 = {
+		birth = "11295.1.1"
+	}
+	11325.1.1 = {
+		death = "11325.1.1"
+	}
+}
+
+31877 = {
+	name = "Zabel"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31868
+	11279.1.1 = {
+		birth = "11279.1.1"
+	}
+	11310.1.1 = {
+		death = "11310.1.1"
+	}
+}
+
+31878 = {
+	name = "Levon" #king of Armenia 1305 - 1307
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 461801
+	11287.1.1 = {
+		birth = "11287.1.1"
+	}
+	11307.1.1 = {
+		death = "11307.1.1"
+	}
+}
+
+31879 = {
+	name = "Gosdantin" #king of Armenia 1298-1299
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 461802
+	mother = 31851
+	11277.1.1 = {
+		birth = "11277.1.1"
+	}
+	11308.1.1 = {
+		death = "11308.1.1"
+	}
+}
+
+31880 = {
+	name = "Baudouin"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31845
+	11290.1.1 = {
+		birth = "11290.1.1"
+	}
+	11310.1.1 = {
+		add_spouse = 31867
+	}
+	11336.12.12 = {
+		death = "11336.12.12"
+	}
+}
+
+
+31882 = {
+	name = "Hethum"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31845
+	11295.1.1 = {
+		birth = "11295.1.1"
+	}
+	11356.1.1 = {
+		death = "11356.1.1"
+	}
+}
+
+31883 = {
+	name = "Gosdantin"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31880
+	mother = 31867
+	11313.1.1 = {
+		birth = "11313.1.1"
+	}
+	11362.12.21 = {
+		death = "11362.12.21"
+	}
+}
+
+31884 = {
+	name = "Eupheme"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31880
+	mother = 31867
+	11325.5.7 = {
+		birth = "11325.5.7"
+	}
+	11381.1.1 = {
+		death = "11381.1.1"
+	}
+}
+
+31885 = {
+	name = "Geoffroy"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31882
+	11323.1.1 = {
+		birth = "11323.1.1"
+	}
+	11357.5.21 = {
+		death = "11357.5.21"
+	}
+}
+
+31886 = {
+	name = "Gosdantin"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31882
+	11324.1.1 = {
+		birth = "11324.1.1"
+	}
+	11373.4.1 = {
+		death = "11373.4.1"
+	}
+}
+
+31887 = {
+	name = "Vacahk"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31845
+	11293.1.1 = {
+		birth = "11293.1.1"
+	}
+	11328.10.28 = {
+		death = "11328.10.28"
+	}
+}
+
+31888 = {
+	name = "Djoffrey"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 232574
+	11205.1.1 = {
+		birth = "11205.1.1"
+	}
+	11240.1.1 = {
+		add_spouse = 31853
+	}
+	11262.1.1 = {
+		death = "11262.1.1"
+	}
+}
+
+
+
+31889 = {
+	name = "Gosdantin"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31888
+	mother = 31853
+	11241.1.1 = {
+		birth = "11241.1.1"
+	}
+	11261.1.1 = {
+		add_spouse = 31890
+	}
+	11274.1.1 = {
+		death = "11274.1.1"
+	}
+}
+
+31890 = {
+	name = "Retha"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31830
+	mother = 30998
+	11242.1.1 = {
+		birth = "11242.1.1"
+	}
+	11292.1.1 = {
+		death = "11292.1.1"
+
+	}
+}
+
+31891 = {
+	name = "Smbat"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31888
+	mother = 31853
+	11243.1.1 = {
+		birth = "11243.1.1"
+	}
+	11298.1.1 = {
+		death = "11298.1.1"
+	}
+}
+
+31892 = {
+	name = "Oshin"
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31888
+	mother = 31853
+	11244.1.1 = {
+		birth = "11244.1.1"
+	}
+	11294.1.1 = {
+		death = "11294.1.1"
+	}
+}
+
+31893 = {
+	name = "Zabel"
+	female = yes
+	dynasty = 23003
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 31892
+	11270.1.1 = {
+		birth = "11270.1.1"
+	}
+	11320.1.1 = {
+		death = "11320.1.1"
+	}
+}
+
+32928 = {
+	name = "Shajar_al-Durr" #Egypt
+	female = yes
+	religion = "ashari"
+	culture = "armenian"
+	11215.1.1 = {
+		birth = "11215.1.1"
+	}
+	11257.1.1 = {
+		death = "11257.1.1"
+	}
+}
+
+41554 = {
+	name = "Smbat"
+	dynasty = 101743
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159257
+	10933.1.1 = {
+		birth = "10933.1.1"
+	}
+	10998.1.1 = {
+		death = "10998.1.1"
+	}
+}
+
+41555 = {
+	name = "Grigor"
+	dynasty = 101743
+	martial = 7
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41554
+	10990.1.1 = {
+		birth = "10990.1.1"
+	}
+	11053.1.1 = {
+		death = "11053.1.1"
+	}
+}
+
+145068 = {
+	name = "Philippikos"
+	dynasty = 1022181
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = arrogant
+	trait = deceitful
+	trait = education_martial_2
+
+	10670.1.1 = {
+		birth = "10670.1.1"
+	}
+
+	10713.6.3 = {
+		trait = blind
+	}
+	10714.1.20 = {
+		death = "10714.1.20"
+	}
+}
+
+159206 = {
+	name = "Shahanshah" #Shahanshah
+	dynasty_house = house_zakarian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 232759
+	11190.1.1 = {
+		birth = "11190.1.1"
+	}
+	11260.1.1 = {
+		death = "11260.1.1"
+	}
+}
+159209 = {
+	name = "Khorishah"
+	dynasty_house = house_zakarian
+	female = yes
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 232758
+	11162.1.1 = {
+		birth = "11162.1.1"
+	}
+	11171.1.25 = {
+		add_spouse = 159212 #Vakhtank II
+	}
+	11220.1.1 = {
+		death = "11220.1.1"
+	}
+}
+159210 = {
+	name = "Haykaz"
+	dynasty_house = house_vakhtangian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159259
+	11066.1.1 = {
+		birth = "11066.1.1"
+	}
+	11150.1.1 = {
+		death = "11150.1.1"
+	}
+}
+159211 = {
+	name = "Hasan"
+	dynasty_house = house_vakhtangian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159210
+	11095.1.1 = {
+		birth = "11095.1.1"
+	}
+	11130.1.1 = {
+		add_spouse = 159236
+	}
+	11182.1.1 = {
+		death = "11182.1.1"
+	}
+}
+159212 = {
+	name = "Vakhtank"
+	dynasty_house = house_vakhtangian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159211
+	mother = 159236
+	11151.1.1 = {
+		birth = "11151.1.1"
+	}
+	11171.1.25 = {
+		add_spouse = 159209 #Khorishah
+	}
+	11214.1.1 = {
+		death = "11214.1.1"
+	}
+}
+159213 = {
+	name = "Grigor"
+	dynasty_house = house_vakhtangian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159211
+	mother = 159236
+	11159.1.1 = {
+		birth = "11162.1.1"
+	}
+	11230.1.1 = {
+		death = "11230.1.1"
+	}
+}
+159214 = {
+	name = "Haykaz"
+	dynasty_house = house_vakhtangian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159212
+	mother = 159209
+	11192.1.1 = {
+		birth = "11192.1.1"
+	}
+	11214.1.1 = {
+		name = "Hasan-Jalal_Dawla"
+	}
+	11215.1.1 = {
+		add_spouse = 159216
+	}
+	11260.1.1 = {
+		death = "11260.1.1"
+	}
+}
+159215 = {
+	name = "Mamkan"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159242
+	11142.1.1 = {
+		birth = "11142.1.1"
+	}
+	11214.1.1 = {
+		death = "11214.1.1"
+	}
+}
+159216 = {
+	name = "Hripsime" #name unknown
+	dynasty = 1029025
+	female = yes
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159215
+	11193.1.1 = {
+		birth = "11193.1.1"
+	}
+	11215.1.1 = {
+		add_spouse = 159214
+	}
+	11242.1.1 = {
+		death = "11242.1.1"
+	}
+}
+159217 = {
+	name = "Atabeg"
+	dynasty_house = house_vakhtangian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159214
+	mother = 159216
+	11230.1.1 = {
+		birth = "11230.1.1"
+	}
+	11310.1.1 = {
+		death = "11310.1.1"
+	}
+}
+159218 = {
+	name = "Rhuzukan"
+	dynasty_house = house_vakhtangian
+	female = yes
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159214
+	mother = 159216
+	11235.1.1 = {
+		birth = "11235.1.1"
+	}
+	11310.1.1 = {
+		death = "11310.1.1"
+	}
+}
+159219 = {
+	name = "Zakare"
+	dynasty_house = house_zakarian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159237
+	11100.1.1 = {
+		birth = "11100.1.1"
+	}
+	11170.1.1 = {
+		death = "11170.1.1"
+	}
+}
+159220 = {
+	name = "Zakare"
+	dynasty_house = house_vakhtangian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159212
+	mother = 159209
+	11195.1.1 = {
+		birth = "11195.1.1"
+	}
+	11265.1.1 = {
+		death = "11265.1.1"
+	}
+}
+
+159221 = {
+	name = "Ivane"
+	dynasty_house = house_vakhtangian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159212
+	mother = 159209
+	11195.1.1 = {
+		birth = "11195.1.1"
+	}
+	11265.1.1 = {
+		death = "11265.1.1"
+	}
+}
+159222 = {
+	name = "Vakhtank"
+	dynasty_house = house_vakhtangian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159220
+	11240.1.1 = {
+		birth = "11240.1.1"
+	}
+	11320.1.1 = {
+		death = "11320.1.1"
+	}
+}
+159223 = {
+	name = "Zakare" #
+	dynasty_house = house_zakarian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159206
+	11220.1.1 = {
+		birth = "11220.1.1"
+	}
+	11300.1.1 = {
+		death = "11300.1.1"
+	}
+}
+159224 = {
+	name = "Zakare" #
+	dynasty_house = house_zakarian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159223
+	11250.1.1 = {
+		birth = "11250.1.1"
+	}
+	11310.1.1 = {
+		death = "11310.1.1"
+	}
+}
+159225 = {
+	name = "Avag" #
+	dynasty_house = house_zakarian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159223
+	11251.1.1 = {
+		birth = "11251.1.1"
+	}
+	11310.1.1 = {
+		death = "11310.1.1"
+	}
+}
+159226 = {
+	name = "Sargis" #
+	dynasty_house = house_zakarian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159223
+	11252.1.1 = {
+		birth = "11252.1.1"
+	}
+	11315.1.1 = {
+		death = "11315.1.1"
+	}
+}
+159227 = {
+	name = "Artashir" #
+	dynasty_house = house_zakarian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159223
+	11253.1.1 = {
+		birth = "11253.1.1"
+	}
+	11320.1.1 = {
+		death = "11320.1.1"
+	}
+}
+159228 = {
+	name = "Ivane" #
+	dynasty_house = house_zakarian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159223
+	11254.1.1 = {
+		birth = "11254.1.1"
+	}
+	11320.1.1 = {
+		death = "11320.1.1"
+	}
+}
+159229 = {
+	name = "Hovhannes" # John VII, Catholicos of Caucasian Albania
+	dynasty_house = house_vakhtangian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159214
+	mother = 159216
+	11235.1.1 = {
+		birth = "11235.1.1"
+	}
+	11310.1.1 = {
+		death = "11310.1.1"
+	}
+}
+159230 = {
+	name = "Hovhannes" # John VIII, Catholicos of Caucasian Albania
+	dynasty_house = house_vakhtangian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159221
+	11240.1.1 = {
+		birth = "11240.1.1"
+	}
+	11320.1.1 = {
+		death = "11320.1.1"
+	}
+}
+
+159235 = {
+	name = "Grigor"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159241
+	11066.1.1 = {
+		birth = "11066.1.1"
+	}
+	11136.1.1 = {
+		death = "11136.1.1"
+	}
+}
+
+159236 = {
+	name = "Kata"
+	dynasty = 1029025
+	female = yes
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159235
+	11100.1.1 = {
+		birth = "11100.1.1"
+	}
+	11130.1.1 = {
+		add_spouse = 159210
+	}
+	11160.1.1 = {
+		death = "11160.1.1"
+	}
+}
+
+159237 = {
+	name = "Sarkis"
+	dynasty_house = house_zakarian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159238
+	11060.1.1 = {
+		birth = "11060.1.1"
+	}
+	11140.1.1 = {
+		death = "11140.1.1"
+	}
+}
+
+159238 = {
+	name = "Zakare"
+	dynasty_house = house_zakarian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41584
+	11030.1.1 = {
+		birth = "11030.1.1"
+	}
+	11100.1.1 = {
+		death = "11100.1.1"
+	}
+}
+
+159239 = {
+	name = "Grigor"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159986
+	11010.1.1 = {
+		birth = "11010.1.1"
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+
+159240 = {
+	name = "Shahandokht"
+	dynasty = 1029025
+	female = yes
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159239
+	11035.1.1 = {
+		birth = "11035.1.1"
+	}
+	11050.1.1 = {
+		add_spouse = 41557
+	}
+	11100.1.1 = {
+		death = "11100.1.1"
+	}
+}
+
+159241 = {
+	name = "Senekerim"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159239
+	11040.1.1 = {
+		birth = "11040.1.1"
+	}
+	11094.1.1 = {
+		death = "11094.1.1"
+	}
+}
+
+159242 = {
+	name = "Senekerim"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159235
+	11090.1.1 = {
+		birth = "11090.1.1"
+	}
+	11160.1.1 = {
+		death = "11160.1.1"
+	}
+}
+
+159243 = {
+	name = "Vasak"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160013
+	10740.1.1 = {
+		birth = "10740.1.1"
+	}
+	10821.1.1 = {
+		death = "10821.1.1"
+	}
+}
+
+159244 = {
+	name = "Philipo"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159243
+	10770.1.1 = {
+		birth = "10770.1.1"
+	}
+	10848.1.1 = {
+		death = "10848.1.1"
+	}
+}
+
+159245 = {
+	name = "Sahak"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159243
+	10755.1.1 = {
+		birth = "10755.1.1"
+	}
+	10831.1.1 = {
+		death = "10831.1.1"
+	}
+}
+
+159246 = {
+	name = "Grigor-Soupan"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159245
+	10780.1.1 = {
+		birth = "10780.1.1"
+	}
+	10851.1.1 = {
+		death = "10851.1.1"
+	}
+}
+
+159247 = {
+	name = "Vasak"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159246
+	10800.1.1 = {
+		birth = "10800.1.1"
+	}
+	10859.1.1 = {
+		death = "10859.1.1"
+	}
+}
+
+159248 = {
+	name = "Grigor-Soupan"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159247
+	10830.1.1 = {
+		birth = "10830.1.1"
+	}
+	10912.1.1 = {
+		death = "10912.1.1"
+	}
+}
+
+159249 = {
+	name = "Sahak"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159247
+	10831.1.1 = {
+		birth = "10831.1.1"
+	}
+	10914.1.1 = {
+		death = "10914.1.1"
+	}
+}
+
+159250 = {
+	name = "Vasak"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159247
+	10835.1.1 = {
+		birth = "10835.1.1"
+	}
+	10920.1.1 = {
+		death = "10920.1.1"
+	}
+}
+
+159251 = {
+	name = "Vasak"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159244
+	10825.1.1 = {
+		birth = "10825.1.1"
+	}
+	10892.1.1 = {
+		death = "10892.1.1"
+	}
+}
+
+159252 = {
+	name = "Ashot"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159244
+	10830.1.1 = {
+		birth = "10830.1.1"
+	}
+	10908.1.1 = {
+		death = "10908.1.1"
+	}
+}
+
+159253 = {
+	name = "Philipo"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159251
+	10850.1.1 = {
+		birth = "10850.1.1"
+	}
+	10943.1.1 = {
+		death = "10943.1.1"
+	}
+}
+
+159254 = {
+	name = "Smbat"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159252
+	10855.1.1 = {
+		birth = "10855.1.1"
+	}
+	10940.1.1 = {
+		death = "10940.1.1"
+	}
+}
+
+159255 = {
+	name = "Babgen"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159252
+	10856.1.1 = {
+		birth = "10856.1.1"
+	}
+	10941.1.1 = {
+		death = "10941.1.1"
+	}
+}
+
+159256 = {
+	name = "Vasak"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159254
+	10890.1.1 = {
+		birth = "10890.1.1"
+	}
+	10963.1.1 = {
+		death = "10963.1.1"
+	}
+}
+
+159257 = {
+	name = "Sahak"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159244
+	10845.1.1 = {
+		birth = "10845.1.1"
+	}
+	10930.1.1 = {
+		death = "10930.1.1"
+	}
+}
+
+159258 = {
+	name = "Vasak"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41554
+	10980.1.1 = {
+		birth = "10980.1.1"
+	}
+	11019.1.1 = {
+		death = "11019.1.1"
+	}
+}
+
+159259 = {
+	name = "Vakhtank"
+	dynasty_house = house_vakhtangian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41520
+	11040.1.1 = {
+		birth = "11040.1.1"
+	}
+	11041.1.1 = {
+		effect = {
+			remove_claim = title:k_armenia
+		}
+	}
+	11091.1.1 = {
+		death = "11091.1.1"
+	}
+}
+
+159260 = {
+	name = "Aboughamr"
+	dynasty_house = house_pahlavuni
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159261
+	10920.1.1 = {
+		birth = "10920.1.1"
+	}
+	10993.1.1 = {
+		death = "10993.1.1"
+	}
+}
+
+159261 = {
+	name = "Artak"
+	dynasty_house = house_pahlavuni
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159262
+	mother = 159980
+	10890.1.1 = {
+		birth = "10890.1.1"
+	}
+	10971.1.1 = {
+		death = "10971.1.1"
+	}
+}
+
+159262 = {
+	name = "Vahram"
+	dynasty_house = house_pahlavuni
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159578
+	10860.1.1 = {
+		birth = "10860.1.1"
+	}
+	10890.1.1 = {
+		add_spouse = 159980
+	}
+	10936.1.1 = {
+		death = "10936.1.1"
+	}
+}
+
+159264 = {
+	name = "Babgen"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159244
+	10820.1.1 = {
+		birth = "10820.1.1"
+	}
+	10851.1.1 = {
+		death = "10851.1.1"
+	}
+}
+
+159265 = {
+	name = "Roupen"
+	dynasty = 190
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159267
+	10975.1.1 = {
+		birth = "10975.1.1"
+	}
+	11000.1.1 = {
+		add_spouse = 159279
+	}
+	11040.1.1 = {
+		death = "11040.1.1"
+	}
+}
+
+159266 = {
+	name = "Thoros"
+	dynasty = 190
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159265
+	mother = 159279
+	11000.1.1 = {
+		birth = "11000.1.1"
+	}
+	11020.1.1 = {
+		add_spouse = 159283
+	}
+	11060.1.1 = {
+		death = "11060.1.1"
+	}
+}
+
+159267 = {
+	name = "Senekerim"
+	dynasty = 190
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159268
+	10930.1.1 = {
+		birth = "10930.1.1"
+	}
+	10980.1.1 = {
+		death = "10980.1.1"
+	}
+}
+
+159268 = {
+	name = "Roupen"
+	dynasty = 190
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159280
+	10900.1.1 = {
+		birth = "10900.1.1"
+	}
+	10960.1.1 = {
+		death = "10960.1.1"
+	}
+}
+
+159280 = {
+	name = "Smbat"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159250
+	10865.1.1 = {
+		birth = "10865.1.1"
+	}
+	10940.1.1 = {
+		death = "10940.1.1"
+	}
+}
+
+159282 = {
+	name = "Khoushoush"
+	female = yes
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41519
+	10980.1.1 = {
+		birth = "10980.1.1"
+	}
+	11000.1.1 = {
+		add_spouse = 41576
+	}
+	11051.9.1 = {
+		death = "11051.9.1"
+	}
+}
+
+159283 = {
+	name = "Khoushoush"
+	female = yes
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41576
+	mother = 159282
+	11000.1.1 = {
+		birth = "11000.1.1"
+	}
+	11020.1.1 = {
+		add_spouse = 159266
+	}
+	11071.9.1 = {
+		death = "11071.9.1"
+	}
+}
+
+159284 = {
+	name = "Gorandoukht"
+	female = yes
+	dynasty = 190
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = honest
+	father = 159266
+	mother = 159283
+	11015.1.1 = {
+		birth = "11015.1.1"
+	}
+	11030.1.1 = {
+		add_spouse = 159287
+	}
+	11076.1.1 = {
+		death = "11076.1.1"
+	}
+}
+
+159285 = {
+	name = "Mushel" #I of Kars
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41509
+	10940.1.1 = {
+		birth = "10940.1.1"
+	}
+	10984.1.1 = {
+		death = "10984.1.1"
+	}
+}
+
+159286 = {
+	name = "Abas" #I of Kars
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159285
+	10970.1.1 = {
+		birth = "10970.1.1"
+	}
+	11029.1.1 = {
+		death = "11029.1.1"
+	}
+}
+
+159287 = {
+	name = "Gagik-Abas" #I of Kars
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159286
+	11000.1.1 = {
+		birth = "11000.1.1"
+	}
+	11030.1.1 = {
+		add_spouse = 159284
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+
+159288 = {
+	name = "Maria"
+	female = yes
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159287
+	mother = 159284
+	11030.1.1 = {
+		birth = "11030.1.1"
+	}
+	11050.1.1 = {
+		add_spouse = 20534
+	}
+	11090.1.1 = {
+		death = "11090.1.1"
+	}
+}
+
+159289 = {
+	name = "Gaday"
+	female = yes
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41567
+	11010.1.1 = {
+		birth = "11010.1.1"
+	}
+	11040.1.1 = {
+		add_spouse = 41589
+	}
+	11090.1.1 = {
+		death = "11090.1.1"
+	}
+}
+
+159316 = {
+	name = "Halgam"
+	dynasty_house = house_pahlavuni
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 8
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	trait = brave
+	trait = honest
+	trait = education_martial_2
+	father = 41589
+	mother = 159289
+	11055.1.1 = {
+		birth = "11055.1.1"
+	}
+	11105.1.1 = {
+		death = "11105.1.1"
+	}
+}
+
+142589 = {
+	name = "Mariam" #Maria Ardzrouní
+	female = yes
+	dynasty = 101736 #Ardzrouní
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41576
+	mother = 159282
+	11003.1.1 = {
+		birth = "11003.1.1"
+	}
+	11025.1.1 = {
+		name = "Maria"
+		faith = "orthodox"
+		effect = {
+			set_culture = culture:portuguese
+		}
+		add_spouse = 142587
+	}
+	11050.1.1 = {
+		death = "11050.1.1"
+	}
+}
+
+159611 = {
+	name = "Varaz-Bagour" #
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159610
+	mother = 159592
+	10410.1.1 = {
+		birth = "10410.1.1"
+	}
+	10455.1.1 = {
+		death = "10455.1.1"
+	}
+}
+159612 = {
+	name = "Mihran" #
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159611
+	10430.1.1 = {
+		birth = "10430.1.1"
+	}
+	10480.1.1 = {
+		death = "10480.1.1"
+	}
+}
+159613 = {
+	name = "Armayel" #
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159612
+	10450.1.1 = {
+		birth = "10450.1.1"
+	}
+	10510.1.1 = {
+		death = "10510.1.1"
+	}
+}
+159614 = {
+	name = "Vard" #
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159613
+	10475.1.1 = {
+		birth = "10475.1.1"
+	}
+	10540.1.1 = {
+		death = "10540.1.1"
+	}
+}
+159615 = {
+	name = "Vardan" # I of Aghbania
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159614
+	10500.1.1 = {
+		birth = "10500.1.1"
+	}
+	10530.1.1 = {
+		add_spouse = 159616
+	}
+	10570.1.1 = {
+		death = "10570.1.1"
+	}
+}
+159617 = {
+	name = "Vard" # I
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159615
+	mother = 159616
+	10530.1.1 = {
+		birth = "10530.1.1"
+	}
+	10600.1.1 = {
+		death = "10600.1.1"
+	}
+}
+159618 = {
+	name = "Varaz-Grigor" # I
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159617
+	10560.1.1 = {
+		birth = "10560.1.1"
+	}
+	10636.1.1 = {
+		death = "10636.1.1"
+	}
+}
+159619 = {
+	name = "Varaz-Peroz" # I
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159618
+	10590.1.1 = {
+		birth = "10590.1.1"
+	}
+	10668.1.1 = {
+		death = "10668.1.1"
+	}
+}
+159620 = {
+	name = "Varaz-Trdat" # I
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160036
+	10634.1.1 = {
+		birth = "10634.1.1"
+	}
+	10705.1.1 = {
+		death = "10705.1.1"
+	}
+}
+
+
+159627 = {
+	name = "Vardan" # II
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159620
+	10665.1.1 = {
+		birth = "10665.1.1"
+	}
+	10710.1.1 = {
+		death = "10710.1.1"
+	}
+}
+159628 = {
+	name = "Gagik" # I
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159620
+	10655.1.1 = {
+		birth = "10655.1.1"
+	}
+	10740.1.1 = {
+		death = "10740.1.1"
+	}
+}
+159629 = {
+	name = "Nerseh" # I of Aghvank
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160037
+	10700.1.1 = {
+		birth = "10700.1.1"
+	}
+	10770.1.1 = {
+		death = "10770.1.1"
+	}
+}
+159630 = {
+	name = "Stepanos" # I of Aghvank
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159629
+	10730.1.1 = {
+		birth = "10730.1.1"
+	}
+	10821.1.1 = {
+		death = "10821.1.1"
+	}
+}
+159631 = {
+	name = "Varaz-Trdat" # II of Aghvank
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159630
+	10760.1.1 = {
+		birth = "10760.1.1"
+	}
+	10822.1.1 = {
+		death = "10822.1.1"
+	}
+}
+159632 = {
+	name = "Spram"
+	female = yes
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159631
+	10801.1.1 = {
+		birth = "10801.1.1"
+	}
+	10820.1.1 = {
+		add_spouse = 159966
+	}
+	10860.1.1 = {
+		death = "10860.1.1"
+	}
+}
+
+
+159616 = {
+	name = "Khanchik" #
+	female = yes
+	dynasty = 100685
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159591
+	10505.11.1 = {
+		birth = "10505.11.1"
+	}
+	10530.1.1 = {
+		add_spouse = 159615
+	}
+	10570.8.29 = {
+		death = "10570.8.29"
+	}
+}
+
+
+159621 = {
+	name = "Varazman" #
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159613
+	10480.1.1 = {
+		birth = "10480.1.1"
+	}
+	10550.1.1 = {
+		death = "10550.1.1"
+	}
+}
+159622 = {
+	name = "Vardan" #
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159621
+	10510.1.1 = {
+		birth = "10510.1.1"
+	}
+	10580.1.1 = {
+		death = "10580.1.1"
+	}
+}
+159623 = {
+	name = "Aramayel" #
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159622
+	10540.1.1 = {
+		birth = "10540.1.1"
+	}
+	10600.1.1 = {
+		death = "10600.1.1"
+	}
+}
+159624 = {
+	name = "Varazman" #
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159623
+	10570.1.1 = {
+		birth = "10570.1.1"
+	}
+	10630.1.1 = {
+		death = "10630.1.1"
+	}
+}
+159625 = {
+	name = "Spram" #unhistorical name
+	female = yes
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159624
+	10600.1.1 = {
+		birth = "10600.1.1"
+	}
+	10620.1.1 = {
+		add_spouse = 159626
+	}
+	10670.1.1 = {
+		death = "10670.1.1"
+	}
+}
+
+
+159626 = {
+	name = "Zahrmihr" #
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10595.1.1 = {
+		birth = "10595.1.1"
+	}
+	10620.1.1 = {
+		add_spouse = 159625
+	}
+	10660.1.1 = {
+		death = "10660.1.1"
+	}
+}
+
+159580 = {
+	name = "Vachagan" # I of Aghvank
+	dynasty = 100685
+	religion = "urartuism"
+	culture = "armenian"
+	father = 159579
+	10220.11.1 = {
+		birth = "10220.11.1"
+	}
+	10300.8.29 = {
+		death = "10300.8.29"
+	}
+}
+159581 = {
+	name = "Vache" #
+	dynasty = 100685
+	religion = "urartuism"
+	culture = "armenian"
+	father = 159580
+	10260.11.1 = {
+		birth = "10260.11.1"
+	}
+	10330.8.29 = {
+		death = "10330.8.29"
+	}
+}
+159582 = {
+	name = "Urnayr" #
+	dynasty = 100685
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159581
+	10300.11.1 = {
+		birth = "10300.11.1"
+	}
+	10372.8.29 = {
+		death = "10372.8.29"
+	}
+}
+159583 = {
+	name = "Vachagan" # II
+	dynasty = 100685
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159582
+	10330.11.1 = {
+		birth = "10330.11.1"
+	}
+	10402.8.29 = {
+		death = "10402.8.29"
+	}
+}
+159584 = {
+	name = "Sargavan" #
+	dynasty = 100685
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159583
+	10360.11.1 = {
+		birth = "10360.11.1"
+	}
+	10432.8.29 = {
+		death = "10432.8.29"
+	}
+}
+159585 = {
+	name = "Mirhavan" #
+	dynasty = 100685
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159583
+	10361.11.1 = {
+		birth = "10361.11.1"
+	}
+	10435.8.29 = {
+		death = "10435.8.29"
+	}
+}
+159586 = {
+	name = "Satoy" #
+	dynasty = 100685
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159583
+	10362.11.1 = {
+		birth = "10362.11.1"
+	}
+	10440.8.29 = {
+		death = "10440.8.29"
+	}
+}
+159587 = {
+	name = "Asay" #
+	dynasty = 100685
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159586
+	10390.11.1 = {
+		birth = "10390.11.1"
+	}
+	10460.8.29 = {
+		death = "10460.8.29"
+	}
+}
+159588 = {
+	name = "Aswagen" #
+	dynasty = 100685
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159586
+	10395.11.1 = {
+		birth = "10395.11.1"
+	}
+	10465.8.29 = {
+		death = "10465.8.29"
+	}
+}
+159589 = {
+	name = "Vache" #
+	dynasty = 100685
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159588
+	10430.11.1 = {
+		birth = "10430.11.1"
+	}
+	10500.8.29 = {
+		death = "10500.8.29"
+	}
+}
+159590 = {
+	name = "Hazkert" # Yazdegerd
+	dynasty = 100685
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159588
+	10440.11.1 = {
+		birth = "10440.11.1"
+	}
+	10490.8.29 = {
+		death = "10490.8.29"
+	}
+}
+159591 = {
+	name = "Vachagan" # III the Pious
+	dynasty = 100685
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159590
+	10470.11.1 = {
+		birth = "10470.11.1"
+	}
+	10530.8.29 = {
+		death = "10530.8.29"
+	}
+}
+159592 = {
+	name = "Sargavanoush" #
+	female = yes
+	dynasty = 100685
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159584
+	10390.11.1 = {
+		birth = "10390.11.1"
+	}
+	10462.8.29 = {
+		death = "10462.8.29"
+	}
+}
+159558 = {
+	name = "Kamsar"
+	dynasty_house = house_kamsarakan
+	religion = "urartuism"
+	culture = "armenian"
+	father = 159557
+	10250.11.1 = {
+		birth = "10250.11.1"
+	}
+	10325.8.29 = {
+		death = "10325.8.29"
+	}
+}
+159559 = {
+	name = "Arshavir"
+	dynasty_house = house_kamsarakan
+	religion = "urartuism"
+	culture = "armenian"
+	father = 159558
+	10280.11.1 = {
+		birth = "10280.11.1"
+	}
+	10353.8.29 = {
+		death = "10353.8.29"
+	}
+}
+159560 = {
+	name = "Spandarat"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159559
+	10300.11.1 = {
+		birth = "10300.11.1"
+	}
+	10369.8.29 = {
+		death = "10369.8.29"
+	}
+}
+159561 = {
+	name = "Gavazon"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159560
+	10330.11.1 = {
+		birth = "10330.11.1"
+	}
+	10392.8.29 = {
+		death = "10392.8.29"
+	}
+}
+159562 = {
+	name = "Hrahat"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159561
+	10360.11.1 = {
+		birth = "10360.11.1"
+	}
+	10428.8.29 = {
+		death = "10428.8.29"
+	}
+}
+159563 = {
+	name = "Gavazon"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159562
+	10390.11.1 = {
+		birth = "10390.11.1"
+	}
+	10440.8.29 = {
+		death = "10440.8.29"
+	}
+}
+159564 = {
+	name = "Arshavir"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159563
+	10414.11.1 = {
+		birth = "10414.11.1"
+	}
+	10490.8.29 = {
+		death = "10490.8.29"
+	}
+}
+159565 = {
+	name = "Nerseh"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159564
+	10430.11.1 = {
+		birth = "10430.11.1"
+	}
+	10505.8.29 = {
+		death = "10505.8.29"
+	}
+}
+159566 = {
+	name = "Gavazon"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159565
+	10470.11.1 = {
+		birth = "10470.11.1"
+	}
+	10555.8.29 = {
+		death = "10555.8.29"
+	}
+}
+159567 = {
+	name = "Zaurak"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159566
+	10500.11.1 = {
+		birth = "10500.11.1"
+	}
+	10560.8.29 = {
+		death = "10560.8.29"
+	}
+}
+159568 = {
+	name = "Euserk"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159567
+	10520.11.1 = {
+		birth = "10520.11.1"
+	}
+	10590.8.29 = {
+		death = "10590.8.29"
+	}
+}
+159569 = {
+	name = "Nerseh"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159568
+	10540.11.1 = {
+		birth = "10540.11.1"
+	}
+	10620.8.29 = {
+		death = "10620.8.29"
+	}
+}
+159570 = {
+	name = "Vahan"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159569
+	10590.11.1 = {
+		birth = "10590.11.1"
+	}
+	10650.8.29 = {
+		death = "10650.8.29"
+	}
+}
+159571 = {
+	name = "Nerseh"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159570
+	10620.11.1 = {
+		birth = "10620.11.1"
+	}
+	10693.8.29 = {
+		death = "10693.8.29"
+	}
+}
+159572 = {
+	name = "Hrahat"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159571
+	10650.11.1 = {
+		birth = "10650.11.1"
+	}
+	10710.8.29 = {
+		death = "10710.8.29"
+	}
+}
+159573 = {
+	name = "Artavazd"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159572
+	10680.11.1 = {
+		birth = "10680.11.1"
+	}
+	10750.8.29 = {
+		death = "10750.8.29"
+	}
+}
+159574 = {
+	name = "Nerseh"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159573
+	10710.11.1 = {
+		birth = "10710.11.1"
+	}
+	10780.8.29 = {
+		death = "10780.8.29"
+	}
+}
+159575 = {
+	name = "Grigor"
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159574
+	10740.11.1 = {
+		birth = "10740.11.1"
+	}
+	10820.8.29 = {
+		death = "10820.8.29"
+		dynasty_house = house_pahlavuni
+	}
+}
+
+159576 = {
+	name = "Vassak"
+	dynasty_house = house_pahlavuni
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159575
+	10770.11.1 = {
+		birth = "10770.11.1"
+	}
+	10850.8.29 = {
+		death = "10850.8.29"
+	}
+}
+159577 = {
+	name = "Aboughamr"
+	dynasty_house = house_pahlavuni
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159576
+	10800.11.1 = {
+		birth = "10800.11.1"
+	}
+	10870.8.29 = {
+		death = "10870.8.29"
+	}
+}
+159578 = {
+	name = "Abirad"
+	dynasty_house = house_pahlavuni
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159577
+	10830.11.1 = {
+		birth = "10830.11.1"
+	}
+	10900.8.29 = {
+		death = "10900.8.29"
+	}
+}
+
+159838 = {
+	name = "Artavazd" #
+	dynasty = 23006 # Mamikonian
+	religion = "urartuism"
+	culture = "armenian"
+	10255.1.1 = {
+		birth = "10255.1.1"
+	}
+	10314.1.1 = {
+		death = "10314.1.1"
+	}
+}
+159839 = {
+	name = "Vache" #
+	dynasty = 23006 # Mamikonian
+	religion = "urartuism"
+	culture = "armenian"
+	father = 159838
+	10280.1.1 = {
+		birth = "10280.1.1"
+	}
+	10338.1.1 = {
+		death = "10338.1.1"
+	}
+}
+159840 = {
+	name = "Artavazd" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159839
+	10300.1.1 = {
+		birth = "10300.1.1"
+	}
+	10350.1.1 = {
+		death = "10350.1.1"
+	}
+}
+159841 = {
+	name = "Hamazasp" #
+	dynasty = 23006 # Mamikonian
+	religion = "urartuism"
+	culture = "armenian"
+	father = 159838
+	10290.1.1 = {
+		birth = "10290.1.1"
+	}
+	10339.1.1 = {
+		death = "10339.1.1"
+	}
+}
+159842 = {
+	name = "Vartan" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159841
+	10310.1.1 = {
+		birth = "10310.1.1"
+	}
+	10365.1.1 = {
+		death = "10365.1.1"
+	}
+}
+159843 = {
+	name = "Vassak" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159841
+	10311.1.1 = {
+		birth = "10311.1.1"
+	}
+	10395.1.1 = {
+		death = "10395.1.1"
+	}
+}
+159844 = {
+	name = "Mushel" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159843
+	10330.1.1 = {
+		birth = "10330.1.1"
+	}
+	10374.1.1 = {
+		death = "10374.1.1"
+	}
+}
+159845 = {
+	name = "Vache" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159840
+	10330.1.1 = {
+		birth = "10330.1.1"
+	}
+	10385.1.1 = {
+		death = "10385.1.1"
+	}
+}
+159846 = {
+	name = "Artashes" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159839
+	10301.1.1 = {
+		birth = "10301.1.1"
+	}
+	10350.1.1 = {
+		death = "10350.1.1"
+	}
+}
+159847 = {
+	name = "Manvel" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159846
+	10330.1.1 = {
+		birth = "10330.1.1"
+	}
+	10385.1.1 = {
+		death = "10385.1.1"
+	}
+}
+159848 = {
+	name = "Artavazd" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159847
+	10350.1.1 = {
+		birth = "10350.1.1"
+	}
+	10416.1.1 = {
+		death = "10416.1.1"
+	}
+}
+159849 = {
+	name = "Hamazasp" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159848
+	10366.1.1 = {
+		birth = "10366.1.1"
+	}
+	10436.1.1 = {
+		death = "10436.1.1"
+	}
+}
+159850 = {
+	name = "Vartan" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159849
+	10390.1.1 = {
+		birth = "10390.1.1"
+	}
+	10451.1.1 = {
+		death = "10451.1.1"
+		give_nickname = nick_the_martyr
+	}
+}
+159851 = {
+	name = "Hmayeak" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159841
+	10390.1.1 = {
+		birth = "10390.1.1"
+	}
+	10451.1.1 = {
+		death = "10451.1.1"
+		give_nickname = nick_the_martyr
+	}
+}
+159852 = {
+	name = "Vassak" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159851
+	10431.1.1 = {
+		birth = "10431.1.1"
+	}
+	10506.1.1 = {
+		death = "10506.1.1"
+	}
+}
+159853 = {
+	name = "Vahan" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159851
+	10432.1.1 = {
+		birth = "10432.1.1"
+	}
+	10505.1.1 = {
+		death = "10505.1.1"
+		give_nickname = nick_the_great
+	}
+}
+159854 = {
+	name = "Vard" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159851
+	10433.1.1 = {
+		birth = "10433.1.1"
+	}
+	10508.1.1 = {
+		death = "10508.1.1"
+	}
+}
+159855 = {
+	name = "Artavazd" # IV
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159854
+	10473.1.1 = {
+		birth = "10473.1.1"
+	}
+	10553.1.1 = {
+		death = "10553.1.1"
+	}
+}
+159856 = {
+	name = "Hamazasp" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159842
+	10360.1.1 = {
+		birth = "10360.1.1"
+	}
+	10422.1.1 = {
+		death = "10422.1.1"
+	}
+}
+159857 = {
+	name = "Hamazasp" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159849
+	10390.1.1 = {
+		birth = "10390.1.1"
+	}
+	10454.1.1 = {
+		death = "10454.1.1"
+	}
+}
+159858 = {
+	name = "Vahram" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159857
+	10430.1.1 = {
+		birth = "10430.1.1"
+	}
+	10494.1.1 = {
+		death = "10494.1.1"
+	}
+}
+159859 = {
+	name = "Hamazasp" # II
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159858
+	10470.1.1 = {
+		birth = "10470.1.1"
+	}
+	10554.1.1 = {
+		death = "10554.1.1"
+	}
+}
+159860 = {
+	name = "Samvel" # I
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159855
+	10500.1.1 = {
+		birth = "10500.1.1"
+	}
+	10555.1.1 = {
+		death = "10555.1.1"
+	}
+}
+159861 = {
+	name = "Vassak"
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159854
+	10474.1.1 = {
+		birth = "10474.1.1"
+	}
+	10553.1.1 = {
+		death = "10553.1.1"
+	}
+}
+159862 = {
+	name = "Manvel" #II
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159861
+	10510.1.1 = {
+		birth = "10510.1.1"
+	}
+	10571.1.1 = {
+		death = "10571.1.1"
+	}
+}
+159863 = {
+	name = "Vardan" #III
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159861
+	10511.1.1 = {
+		birth = "10511.1.1"
+	}
+	10575.1.1 = {
+		death = "10575.1.1"
+	}
+}
+159864 = {
+	name = "Hmayeak"
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159854
+	10475.1.1 = {
+		birth = "10475.1.1"
+	}
+	10553.1.1 = {
+		death = "10553.1.1"
+	}
+}
+159865 = {
+	name = "Mushel"# II
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159864
+	10510.1.1 = {
+		birth = "10510.1.1"
+	}
+	10530.1.1 = {
+		add_spouse = 159917
+	}
+	10593.1.1 = {
+		death = "10593.1.1"
+	}
+}
+159866 = {
+	name = "Hamazasp" #III
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159865
+	mother = 159917
+	10530.1.1 = {
+		birth = "10530.1.1"
+	}
+	10595.1.1 = {
+		death = "10595.1.1"
+	}
+}
+159867 = {
+	name = "Vahan" #II*
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159865
+	mother = 159917
+	10531.1.1 = {
+		birth = "10531.1.1"
+	}
+	10606.1.1 = {
+		death = "10606.1.1"
+	}
+}
+159868 = {
+	name = "Smbat"# I*
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159867
+	10550.1.1 = {
+		birth = "10550.1.1"
+	}
+	10570.1.1 = {
+		add_spouse = 159930
+	}
+	10611.1.1 = {
+		death = "10611.1.1"
+	}
+}
+159869 = {
+	name = "Vahan" #III*
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159868
+	mother = 159930
+	10570.1.1 = {
+		birth = "10570.1.1"
+	}
+	10636.1.1 = {
+		death = "10636.1.1"
+	}
+}
+
+159930 = {
+	name = "Shoushanig"
+	female = yes
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159568
+	10550.1.1 = {
+		birth = "10550.1.1"
+	}
+	10570.1.1 = {
+		add_spouse = 159868
+	}
+	10590.8.29 = {
+		death = "10590.8.29"
+	}
+}
+
+159931 = {
+	name = "Datevig"
+	female = yes
+	dynasty_house = house_kamsarakan
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159568
+	10545.1.1 = {
+		birth = "10545.1.1"
+	}
+	10570.1.1 = {
+		add_spouse = 70455
+	}
+	10640.1.29 = {
+		death = "10640.1.29"
+	}
+}
+159870 = {
+	name = "Tiran" #III*
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159869
+	10610.1.1 = {
+		birth = "10610.1.1"
+	}
+	10640.1.1 = {
+		death = "10640.1.1"
+	}
+}
+159871 = {
+	name = "Hamazasp"# IV
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 70454
+	10617.1.1 = {
+		birth = "10617.1.1"
+	}
+	10640.1.1 = {
+		add_spouse = 145997
+	}
+	10661.1.1 = {
+		death = "10661.1.1"
+	}
+}
+159872 = {
+	name = "Mushel"# III
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 70454
+	10615.1.1 = {
+		birth = "10615.1.1"
+	}
+	10638.1.1 = {
+		death = "10638.1.1"
+	}
+}
+
+159873 = {
+	name = "Mushel"# V
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159871
+	10634.1.1 = {
+		birth = "10634.1.1"
+	}
+	10709.1.1 = {
+		death = "10709.1.1"
+	}
+}
+159874 = {
+	name = "Hrahat"#
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159873
+	10651.1.1 = {
+		birth = "10651.1.1"
+	}
+	10714.1.1 = {
+		death = "10714.1.1"
+	}
+}
+159875 = {
+	name = "Davit" # I
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159874
+	10691.1.1 = {
+		birth = "10691.1.1"
+	}
+	10744.1.1 = {
+		death = "10744.1.1"
+	}
+}
+159876 = {
+	name = "Samvel" # II
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159875
+	10731.1.1 = {
+		birth = "10731.1.1"
+	}
+	10785.1.1 = {
+		death = "10785.1.1"
+	}
+}
+159877 = {
+	name = "Shapouh" # I
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 70450
+	10731.1.1 = {
+		birth = "10731.1.1"
+	}
+	10785.1.1 = {
+		death = "10785.1.1"
+	}
+}
+159878 = {
+	name = "Shapouh" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159876
+	10751.1.1 = {
+		birth = "10751.1.1"
+	}
+	10825.1.1 = {
+		death = "10825.1.1"
+	}
+}
+159879 = {
+	name = "Davit" # II
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159877
+	10761.1.1 = {
+		birth = "10761.1.1"
+	}
+	10805.1.1 = {
+		death = "10805.1.1"
+	}
+}
+159880 = {
+	name = "Kourdik" # I
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159879
+	10791.1.1 = {
+		birth = "10791.1.1"
+	}
+	10851.1.1 = {
+		death = "10851.1.1"
+	}
+}
+159881 = {
+	name = "Grigor" # III
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159880
+	10821.1.1 = {
+		birth = "10821.1.1"
+	}
+	10856.1.1 = {
+		death = "10856.1.1"
+	}
+}
+159883 = {
+	name = "Samvel" #
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 70450
+	10760.1.1 = {
+		birth = "10760.1.1"
+	}
+	10825.1.1 = {
+		death = "10825.1.1"
+	}
+}
+159882 = {
+	name = "Dzoyk" #
+	female = yes
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159876
+	10760.1.1 = {
+		birth = "10760.1.1"
+	}
+	10785.1.1 = {
+		add_spouse = 41502
+	}
+	10830.1.1 = {
+		death = "10830.1.1"
+	}
+}
+159884 = {
+	name = "Hripsime" #
+	female = yes
+	dynasty = 23006 # Mamikonian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159883
+	10800.1.1 = {
+		birth = "10800.1.1"
+	}
+	10820.1.1 = {
+		add_spouse = 41504
+	}
+	10880.1.1 = {
+		death = "10880.1.1"
+	}
+}
+
+159885 = {
+	name = "Vache"
+	dynasty = 101736
+	religion = "urartuism"
+	culture = "armenian"
+	10260.1.1 = {
+		birth = "10260.1.1"
+	}
+	10350.1.1 = {
+		death = "10350.1.1"
+	}
+}
+
+159886 = {
+	name = "Savasp"
+	dynasty = 101736
+	religion = "urartuism"
+	culture = "armenian"
+	father = 159885
+	10290.1.1 = {
+		birth = "10290.1.1"
+	}
+	10357.1.1 = {
+		death = "10357.1.1"
+	}
+}
+159887 = {
+	name = "Meruzhan"
+	dynasty = 101736
+	religion = "urartuism"
+	culture = "armenian"
+	father = 159885
+	trait = zealous
+	10320.1.1 = {
+		birth = "10320.1.1"
+	}
+	10381.1.1 = {
+		death = "10381.1.1"
+	}
+}
+159888 = {
+	name = "Vache"
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159887
+	10360.1.1 = {
+		birth = "10360.1.1"
+	}
+	10432.1.1 = {
+		death = "10432.1.1"
+	}
+}
+159889 = {
+	name = "Vassak"
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159888
+	10380.1.1 = {
+		birth = "10380.1.1"
+	}
+	10441.1.1 = {
+		death = "10441.1.1"
+	}
+}
+159890 = {
+	name = "Meruzhan"
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159889
+	10400.1.1 = {
+		birth = "10400.1.1"
+	}
+	10451.1.1 = {
+		death = "10451.1.1"
+	}
+}
+159891 = {
+	name = "Mihrshapur"
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159890
+	10420.1.1 = {
+		birth = "10420.1.1"
+	}
+	10475.1.1 = {
+		death = "10475.1.1"
+	}
+}
+159892 = {
+	name = "Sahak"
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159891
+	10440.1.1 = {
+		birth = "10440.1.1"
+	}
+	10484.1.1 = {
+		death = "10484.1.1"
+	}
+}
+159893 = {
+	name = "Vache" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159892
+	10470.1.1 = {
+		birth = "10470.1.1"
+	}
+	10532.1.1 = {
+		death = "10532.1.1"
+	}
+}
+159894 = {
+	name = "Vassak" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159893
+	10500.1.1 = {
+		birth = "10500.1.1"
+	}
+	10567.1.1 = {
+		death = "10567.1.1"
+	}
+}
+159895 = {
+	name = "Vartan" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159894
+	10525.1.1 = {
+		birth = "10525.1.1"
+	}
+	10594.1.1 = {
+		death = "10594.1.1"
+	}
+}
+159896 = {
+	name = "Vassak" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159895
+	10550.1.1 = {
+		birth = "10550.1.1"
+	}
+	10611.1.1 = {
+		death = "10611.1.1"
+		give_nickname = nick_the_martyr
+	}
+}
+159897 = {
+	name = "Varaz-Shapuh" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159895
+	10551.1.1 = {
+		birth = "10551.1.1"
+	}
+	10607.1.1 = {
+		death = "10607.1.1"
+	}
+}
+159898 = {
+	name = "Vachagan" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159896
+	10580.1.1 = {
+		birth = "10580.1.1"
+	}
+	10647.1.1 = {
+		death = "10647.1.1"
+	}
+}
+159899 = {
+	name = "Vartan" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159898
+	10620.1.1 = {
+		birth = "10620.1.1"
+	}
+	10693.1.1 = {
+		death = "10693.1.1"
+	}
+}
+159900 = {
+	name = "Grigor" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159899
+	10650.1.1 = {
+		birth = "10650.1.1"
+	}
+	10705.1.1 = {
+		death = "10705.1.1"
+	}
+}
+159901 = {
+	name = "Koriun" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159899
+	10651.1.1 = {
+		birth = "10651.1.1"
+	}
+	10705.1.1 = {
+		death = "10705.1.1"
+	}
+}
+159902 = {
+	name = "Vassak" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159899
+	10652.1.1 = {
+		birth = "10652.1.1"
+	}
+	10708.1.1 = {
+		death = "10708.1.1"
+	}
+}
+159903 = {
+	name = "Vahan" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159902
+	10685.1.1 = {
+		birth = "10685.1.1"
+	}
+	10748.1.1 = {
+		death = "10748.1.1"
+	}
+}
+159904 = {
+	name = "Sahak" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159903
+	10710.1.1 = {
+		birth = "10710.1.1"
+	}
+	10762.1.1 = {
+		death = "10762.1.1"
+	}
+}
+159905 = {
+	name = "Hamazasp" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159903
+	10711.1.1 = {
+		birth = "10711.1.1"
+	}
+	10762.1.1 = {
+		death = "10762.1.1"
+	}
+}
+159906 = {
+	name = "Gagik" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159903
+	10712.1.1 = {
+		birth = "10712.1.1"
+	}
+	10772.1.1 = {
+		death = "10772.1.1"
+	}
+}
+159907 = {
+	name = "Hamazasp" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159906
+	10740.1.1 = {
+		birth = "10740.1.1"
+	}
+	10785.1.1 = {
+		death = "10785.1.1"
+		give_nickname = nick_the_martyr
+	}
+}
+159908 = {
+	name = "Meruzhan" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159906
+	10745.1.1 = {
+		birth = "10745.1.1"
+	}
+	10785.1.1 = {
+		death = "10785.1.1"
+		give_nickname = nick_the_martyr
+	}
+}
+160014 = {
+	name = "Gagik" #
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159907
+	10770.1.1 = {
+		birth = "10770.1.1"
+	}
+	10830.1.1 = {
+		death = "10830.1.1"
+	}
+}
+
+159917 = {
+	name = "Dzoyk" #
+	female = yes
+	dynasty = 101736
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159894
+	10514.1.1 = {
+		birth = "10514.1.1"
+	}
+	10530.1.1 = {
+		add_spouse = 159865
+	}
+	10600.1.1 = {
+		death = "10600.1.1"
+	}
+}
+
+159918 = {
+	name = "Varaz-Tiroc" #
+	dynasty = 507
+	martial = 5
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 5
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159919
+	mother = 159774
+	10600.1.1 = {
+		birth = "10600.1.1"
+	}
+	10673.1.1 = {
+		death = "10673.1.1"
+	}
+}
+159919 = {
+	name = "Smbat" # IV the Victorious
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159929
+	10565.1.1 = {
+		birth = "10565.1.1"
+	}
+	10580.1.1 = {
+		add_spouse = 159774
+		give_nickname = nick_the_victorious
+	}
+	10643.1.1 = {
+		death = "10643.1.1"
+	}
+}
+159920 = {
+	name = "Smbat" #
+	dynasty = 507
+	religion = "urartuism"
+	culture = "armenian"
+	10260.1.1 = {
+		birth = "10260.1.1"
+	}
+	10320.1.1 = {
+		death = "10320.1.1"
+	}
+}
+159921 = {
+	name = "Bagrat" #
+	dynasty = 507
+	religion = "urartuism"
+	culture = "armenian"
+	father = 159920
+	10280.1.1 = {
+		birth = "10280.1.1"
+	}
+	10343.1.1 = {
+		death = "10343.1.1"
+	}
+}
+159922 = {
+	name = "Smbat" #
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159921
+	10310.1.1 = {
+		birth = "10310.1.1"
+	}
+	10370.1.1 = {
+		death = "10370.1.1"
+	}
+}
+159923 = {
+	name = "Sahak" #
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159922
+	10340.1.1 = {
+		birth = "10340.1.1"
+	}
+	10390.1.1 = {
+		death = "10390.1.1"
+	}
+}
+159924 = {
+	name = "Smbat" #
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159923
+	10370.1.1 = {
+		birth = "10370.1.1"
+	}
+	10440.1.1 = {
+		death = "10440.1.1"
+	}
+}
+159925 = {
+	name = "Tiroc" #
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159924
+	10400.1.1 = {
+		birth = "10400.1.1"
+	}
+	10470.1.1 = {
+		death = "10470.1.1"
+	}
+}
+159926 = {
+	name = "Vassak" #
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159925
+	10425.1.1 = {
+		birth = "10425.1.1"
+	}
+	10483.1.1 = {
+		death = "10483.1.1"
+	}
+}
+159927 = {
+	name = "Spandiat" #
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159926
+	10450.1.1 = {
+		birth = "10450.1.1"
+	}
+	10506.1.1 = {
+		death = "10506.1.1"
+	}
+}
+159928 = {
+	name = "Varaz-Tiroc" #
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159927
+	10490.1.1 = {
+		birth = "10490.1.1"
+	}
+	10556.1.1 = {
+		death = "10556.1.1"
+	}
+}
+159929 = {
+	name = "Manvel" #
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159928
+	10525.1.1 = {
+		birth = "10525.1.1"
+	}
+	10600.1.1 = {
+		death = "10600.1.1"
+	}
+}
+
+159966 = {
+	name = "Atrnerseh"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159973
+	10800.1.1 = {
+		birth = "10800.1.1"
+	}
+	10820.1.1 = {
+		add_spouse = 159632 #Spram
+	}
+	10853.1.1 = {
+		death = "10853.1.1"
+	}
+}
+
+159967 = {
+	name = "Sahak"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159626
+	mother = 159625
+	10625.1.1 = {
+		birth = "10625.1.1"
+	}
+	10703.1.1 = {
+		death = "10703.1.1"
+	}
+}
+159968 = {
+	name = "Hovsep"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159967
+	10655.1.1 = {
+		birth = "10655.1.1"
+	}
+	10723.1.1 = {
+		death = "10723.1.1"
+	}
+}
+159969 = {
+	name = "Stepanos"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159968
+	10685.1.1 = {
+		birth = "10685.1.1"
+	}
+	10743.1.1 = {
+		death = "10743.1.1"
+	}
+}
+159970 = {
+	name = "Sahak"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159969
+	10715.1.1 = {
+		birth = "10715.1.1"
+	}
+	10783.1.1 = {
+		death = "10783.1.1"
+	}
+}
+159971 = {
+	name = "Esayi"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159970
+	10740.1.1 = {
+		birth = "10740.1.1"
+	}
+	10793.1.1 = {
+		death = "10793.1.1"
+	}
+}
+159972 = {
+	name = "Smbat"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159971
+	10756.1.1 = {
+		birth = "10756.1.1"
+	}
+	10814.1.1 = {
+		death = "10814.1.1"
+	}
+}
+159973 = {
+	name = "Sahak" #Sahl Smbatean
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159972
+	10780.1.1 = {
+		birth = "10780.1.1"
+	}
+	10855.1.1 = {
+		death = "10855.1.1"
+	}
+}
+159974 = {
+	name = "Esayi" # Isa Abu-Muse
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159975
+	10800.1.1 = {
+		birth = "10800.1.1"
+	}
+	10855.1.1 = {
+		death = "10855.1.1"
+	}
+}
+159975 = {
+	name = "Hovsep"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159977
+	10785.1.1 = {
+		birth = "10785.1.1"
+	}
+	10830.1.1 = {
+		death = "10830.1.1"
+	}
+}
+159977 = {
+	name = "Sahak"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159970
+	10750.1.1 = {
+		birth = "10750.1.1"
+	}
+	10830.1.1 = {
+		death = "10830.1.1"
+	}
+}
+159978 = {
+	name = "Movses"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159974
+	10820.1.1 = {
+		birth = "10820.1.1"
+	}
+	10875.1.1 = {
+		death = "10875.1.1"
+	}
+}
+159979 = {
+	name = "Gagik"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159978
+	10855.1.1 = {
+		birth = "10855.1.1"
+	}
+	10910.1.1 = {
+		death = "10910.1.1"
+	}
+}
+159980 = {
+	name = "Sopi"
+	female = yes
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159978
+	10860.1.1 = {
+		birth = "10860.1.1"
+	}
+	10890.1.1 = {
+		add_spouse = 159262
+	}
+	10930.1.1 = {
+		death = "10930.1.1"
+	}
+}
+159981 = {
+	name = "Vachagan"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159978
+	10865.1.1 = {
+		birth = "10865.1.1"
+	}
+	10930.1.1 = {
+		death = "10930.1.1"
+	}
+}
+159976 = {
+	name = "Smbat"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159966
+	mother = 159632
+	10830.1.1 = {
+		birth = "10830.1.1"
+	}
+	10891.1.1 = {
+		death = "10891.1.1"
+	}
+}
+159982 = {
+	name = "Sahak"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159976
+	10860.1.1 = {
+		birth = "10860.1.1"
+	}
+	10921.1.1 = {
+		death = "10921.1.1"
+	}
+}
+159983 = {
+	name = "Grigor"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159982
+	10890.1.1 = {
+		birth = "10890.1.1"
+	}
+	10956.1.1 = {
+		death = "10956.1.1"
+	}
+}
+159984 = {
+	name = "Atrnerseh"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159983
+	10920.1.1 = {
+		birth = "10920.1.1"
+	}
+	10996.1.1 = {
+		death = "10996.1.1"
+	}
+}
+159985 = {
+	name = "Sahak"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159984
+	10950.1.1 = {
+		birth = "10950.1.1"
+	}
+	11000.1.1 = {
+		death = "11000.1.1"
+	}
+}
+159986 = {
+	name = "Smbat"
+	dynasty = 1029025
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159985
+	10980.1.1 = {
+		birth = "10980.1.1"
+	}
+	11030.1.1 = {
+		death = "11030.1.1"
+	}
+}
+
+159987 = {
+	name = "Andovk"
+	dynasty = 101743
+	religion = "urartuism"
+	culture = "armenian"
+	10280.1.1 = {
+		birth = "10280.1.1"
+	}
+	10330.1.1 = {
+		death = "10330.1.1"
+	}
+}
+159988 = {
+	name = "Valinak"
+	dynasty = 101743
+	religion = "urartuism"
+	culture = "armenian"
+	father = 159987
+	10300.1.1 = {
+		birth = "10300.1.1"
+	}
+	10339.1.1 = {
+		death = "10339.1.1"
+	}
+}
+159989 = {
+	name = "Andovk"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159987
+	10305.1.1 = {
+		birth = "10305.1.1"
+	}
+	10385.1.1 = {
+		death = "10385.1.1"
+	}
+}
+159990 = {
+	name = "Babgen"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159989
+	10340.1.1 = {
+		birth = "10340.1.1"
+	}
+	10404.1.1 = {
+		death = "10404.1.1"
+	}
+}
+159991 = {
+	name = "Valinak"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159989
+	10345.1.1 = {
+		birth = "10345.1.1"
+	}
+	10413.1.1 = {
+		death = "10413.1.1"
+	}
+}
+159992 = {
+	name = "Vasak"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159990
+	10370.1.1 = {
+		birth = "10370.1.1"
+	}
+	10451.1.1 = {
+		death = "10451.1.1"
+	}
+}
+159993 = {
+	name = "Vahan"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159991
+	10390.1.1 = {
+		birth = "10390.1.1"
+	}
+	10475.1.1 = {
+		death = "10475.1.1"
+	}
+}
+159994 = {
+	name = "Babgen"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159992
+	10430.1.1 = {
+		birth = "10430.1.1"
+	}
+	10490.1.1 = {
+		death = "10490.1.1"
+	}
+}
+159995 = {
+	name = "Gdihon"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159993
+	10410.1.1 = {
+		birth = "10410.1.1"
+	}
+	10483.1.1 = {
+		death = "10483.1.1"
+	}
+}
+159996 = {
+	name = "Vahram"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159995
+	10426.1.1 = {
+		birth = "10426.1.1"
+	}
+	10491.1.1 = {
+		death = "10491.1.1"
+	}
+}
+159997 = {
+	name = "Vasak"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159995
+	10432.1.1 = {
+		birth = "10432.1.1"
+	}
+	10502.1.1 = {
+		death = "10502.1.1"
+	}
+}
+159998 = {
+	name = "Artashir"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159997
+	10448.1.1 = {
+		birth = "10448.1.1"
+	}
+	10514.1.1 = {
+		death = "10514.1.1"
+	}
+}
+159999 = {
+	name = "Babgen"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159998
+	10464.1.1 = {
+		birth = "10464.1.1"
+	}
+	10535.1.1 = {
+		death = "10535.1.1"
+	}
+}
+160000 = {
+	name = "Hovhannes"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159999
+	10480.1.1 = {
+		birth = "10480.1.1"
+	}
+	10553.1.1 = {
+		death = "10553.1.1"
+	}
+}
+160001 = {
+	name = "Valoul"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160000
+	10496.1.1 = {
+		birth = "10496.1.1"
+	}
+	10554.1.1 = {
+		death = "10554.1.1"
+	}
+}
+160002 = {
+	name = "Grigor"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160001
+	10512.1.1 = {
+		birth = "10512.1.1"
+	}
+	10564.1.1 = {
+		death = "10564.1.1"
+	}
+}
+160003 = {
+	name = "Artashir"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160002
+	10528.1.1 = {
+		birth = "10528.1.1"
+	}
+	10590.1.1 = {
+		death = "10590.1.1"
+	}
+}
+160004 = {
+	name = "Piran"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160003
+	10544.1.1 = {
+		birth = "10544.1.1"
+	}
+	10593.1.1 = {
+		death = "10593.1.1"
+	}
+}
+160005 = {
+	name = "Sargis"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160004
+	10560.1.1 = {
+		birth = "10560.1.1"
+	}
+	10598.1.1 = {
+		death = "10598.1.1"
+	}
+}
+160006 = {
+	name = "Sahak"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160005
+	10576.1.1 = {
+		birth = "10576.1.1"
+	}
+	10621.1.1 = {
+		death = "10621.1.1"
+	}
+}
+160007 = {
+	name = "Grigor"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160006
+	10592.1.1 = {
+		birth = "10592.1.1"
+	}
+	10636.1.1 = {
+		death = "10636.1.1"
+	}
+}
+160008 = {
+	name = "Hrahat"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160007
+	10608.1.1 = {
+		birth = "10608.1.1"
+	}
+	10652.1.1 = {
+		death = "10652.1.1"
+	}
+}
+160009 = {
+	name = "Hovhannes"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160008
+	10624.1.1 = {
+		birth = "10624.1.1"
+	}
+	10679.1.1 = {
+		death = "10679.1.1"
+	}
+}
+160010 = {
+	name = "Kourd"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160009
+	10640.1.1 = {
+		birth = "10640.1.1"
+	}
+	10698.1.1 = {
+		death = "10698.1.1"
+	}
+}
+160011 = {
+	name = "Babgen"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160010
+	10660.1.1 = {
+		birth = "10660.1.1"
+	}
+	10741.1.1 = {
+		death = "10741.1.1"
+	}
+}
+160012 = {
+	name = "Kourd"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160011
+	10680.1.1 = {
+		birth = "10680.1.1"
+	}
+	10750.1.1 = {
+		death = "10750.1.1"
+	}
+}
+160013 = {
+	name = "Atrnerseh"
+	dynasty = 101743
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 160012
+	10710.1.1 = {
+		birth = "10710.1.1"
+	}
+	10780.1.1 = {
+		death = "10780.1.1"
+	}
+}
+145225 = {
+	name = "Artavasdos"
+	dynasty = 101199
+	religion = "orthodox"
+	culture = "armenian"
+	trait = greedy
+	trait = ambitious
+	trait = education_martial_2
+
+	10685.1.1 = {
+		birth = "10685.1.1"
+	}
+	10743.11.2 = {
+		trait = blind
+		trait = devoted
+	}
+	10745.1.1 = {
+		death = "10745.1.1"
+	}
+}
+
+160036 = {
+	name = "Juansher" # Javanshir
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159619
+	10616.1.1 = {
+		birth = "10616.1.1"
+	}
+	10700.1.1 = {
+		death = "10700.1.1"
+	}
+}
+160037 = {
+	name = "Stepanos" #
+	dynasty_house = house_mihranian
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 159620
+	10670.1.1 = {
+		birth = "10670.1.1"
+	}
+	10730.1.1 = {
+		death = "10730.1.1"
+	}
+}
+145996 = {
+	name = "Thoros"
+	dynasty = 1022355 # Rshtuni
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10600.1.1 = {
+		birth = "10600.1.1"
+	}
+	10655.1.1 = {
+		death = "10655.1.1"
+	}
+}
+
+145997 = {
+	name = "Maria"
+	dynasty = 1022355
+	female = yes
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 145996
+	10625.1.1 = {
+		birth = "10625.1.1"
+	}
+	10691.1.1 = {
+		death = "10691.1.1"
+	}
+}
+
+145998 = {
+	name = "Sahak"
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41500
+	10713.1.1 = {
+		birth = "10713.1.1"
+	}
+	10761.1.1 = {
+		death = "10761.1.1"
+	}
+}
+
+armenian_000011 = {
+	name = "Gregory"	#I
+	dynasty_house = house_armenian_gregorids
+	religion = "armenian_apostolic"
+	culture = "persian"
+	10257.1.1 = {
+		birth = yes
+	}
+	10288.1.1 = {
+		effect = {
+			give_nickname = nick_the_illuminator
+		}
+	}
+	10325.1.1 = {
+		death = yes
+	}
+}
+armenian_000013 = {
+	name = "Aristaces"	#I
+	father = armenian_000011
+	dynasty_house = house_armenian_gregorids
+	religion = "armenian_apostolic"
+	culture = "persian"
+	10277.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10333.1.1 = {
+		death = yes
+	}
+}
+armenian_000014 = {
+	name = "Vrtanes"	#I
+	father = armenian_000011
+	dynasty_house = house_armenian_gregorids
+	religion = "armenian_apostolic"
+	culture = "persian"
+	10276.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10341.1.1 = {
+		death = yes
+	}
+}
+armenian_000015 = {
+	name = "Husik"	#I
+	father = armenian_000014
+	dynasty_house = house_armenian_gregorids
+	religion = "armenian_apostolic"
+	culture = "persian"
+	10306.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10347.1.1 = {
+		death = yes
+	}
+}
+armenian_000016 = {
+	name = "Daniel"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "persian"
+	10268.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10348.1.1 = {
+		death = yes
+	}
+}
+armenian_000017 = {
+	name = "Pharen"	#I
+	father = armenian_000014
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10310.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10352.1.1 = {
+		death = yes
+	}
+}
+armenian_000018 = {
+	name = "Nerses"	#I the Great
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10323.1.1 = {	#Fictionalised birth date. A bit later than I'd like, but his mother was the youngest child of Khosrov III, so he must have been born later than his more well-recorded family members.
+		birth = yes
+	}
+	10353.1.1 = {
+		effect = {
+			give_nickname = nick_the_great
+		}
+	}
+	10373.1.1 = {
+		death = yes
+	}
+}
+armenian_000019 = {
+	name = "Sahak"	#I
+	dynasty = armenian.albaniosid
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10307.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10377.1.1 = {
+		death = yes
+	}
+}
+armenian_000020 = {
+	name = "Zaven"	#I
+	father = armenian_000019
+	dynasty = armenian.albaniosid
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10337.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10381.1.1 = {
+		death = yes
+	}
+}
+armenian_000021 = {
+	name = "Aspuraces"	#I
+	father = armenian_000020
+	dynasty = armenian.albaniosid
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10357.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10386.1.1 = {
+		death = yes
+	}
+}
+armenian_000022 = {
+	name = "Sahak"	#II
+	father = armenian_000018
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10373.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10428.1.1 = {
+		death = yes
+	}
+}
+armenian_000023 = {
+	name = "Brkisho"
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10372.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10432.1.1 = {
+		death = yes
+	}
+}
+armenian_000024 = {
+	name = "Samuel"
+	father = armenian_000023
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10402.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10437.1.1 = {
+		death = yes
+	}
+}
+armenian_000025 = {
+	name = "Hovsep"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10382.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10452.1.1 = {
+		death = yes
+	}
+}
+armenian_000027 = {
+	name = "Melitus"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10386.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10456.1.1 = {
+		death = yes
+	}
+}
+armenian_000028 = {
+	name = "Moses"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10391.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10461.1.1 = {
+		death = yes
+	}
+}
+armenian_000029 = {
+	name = "Kyud"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10408.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10478.1.1 = {
+		death = yes
+	}
+}
+armenian_000030 = {
+	name = "John"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10420.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10490.1.1 = {
+		death = yes
+	}
+}
+armenian_000031 = {
+	name = "Babken"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10446.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10516.1.1 = {
+		death = yes
+	}
+}
+armenian_000032 = {
+	name = "Samuel"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10456.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10526.1.1 = {
+		death = yes
+	}
+}
+armenian_000033 = {
+	name = "Mushe"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10464.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10534.1.1 = {
+		death = yes
+	}
+}
+armenian_000034 = {
+	name = "Sahak"	#II
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10469.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10539.1.1 = {
+		death = yes
+	}
+}
+armenian_000035 = {
+	name = "Christopher"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10475.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10545.1.1 = {
+		death = yes
+	}
+}
+armenian_000036 = {
+	name = "Ghevond"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10478.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10548.1.1 = {
+		death = yes
+	}
+}
+armenian_000037 = {
+	name = "Nerses"	#II
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10478.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10557.1.1 = {
+		death = yes
+	}
+}
+armenian_000038 = {
+	name = "John"	#II
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10504.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10604.1.1 = {
+		death = yes
+	}
+}
+armenian_000039 = {
+	name = "Moses"	#II
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10534.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10604.1.1 = {
+		death = yes
+	}
+}
+armenian_000041 = {
+	name = "Abraham"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10537.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10615.1.1 = {
+		death = yes
+	}
+}
+armenian_000042 = {
+	name = "Komitas"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10568.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10628.1.1 = {
+		death = yes
+	}
+}
+armenian_000043 = {
+	name = "Christopher"	#II
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10580.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10640.1.  = {
+		death = yes
+	}
+}
+armenian_000044 = {
+	name = "Ezra"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10581.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10641.1.1 = {
+		death = yes
+	}
+}
+armenian_000045 = {
+	name = "Nerses"	#III the Builder
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10601.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10641.1.1 = {
+		effect = {
+			give_nickname = nick_the_builder
+		}
+	}
+	10661.1.1 = {
+		death = yes
+	}
+}
+armenian_000046 = {
+	name = "Anastasius"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10607.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10667.1.1 = {
+		death = yes
+	}
+}
+armenian_000047 = {
+	name = "Israel"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10617.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10677.1.1 = {
+		death = yes
+	}
+}
+armenian_000048 = {
+	name = "Sahak"	#III
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10643.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10703.1.1 = {
+		death = yes
+	}
+}
+armenian_000049 = {
+	name = "Elias"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10657.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10717.1.1 = {
+		death = yes
+	}
+}
+armenian_000050 = {
+	name = "John"	#III the Philosopher
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10668.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10717.1.1 = {
+		effect = {
+			give_nickname = nick_the_philosopher
+		}
+	}
+	10728.1.1 = {
+		death = yes
+	}
+}
+armenian_000051 = {
+	name = "David"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10681.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10741.1.1 = {
+		death = yes
+	}
+}
+armenian_000052 = {
+	name = "Dertad"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10704.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10764.1.1 = {
+		death = yes
+	}
+}
+armenian_000053 = {
+	name = "Dertad"	#II
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10707.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10767.1.1 = {
+		death = yes
+	}
+}
+armenian_000054 = {
+	name = "Sion"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10715.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10775.1.1 = {
+		death = yes
+	}
+}
+armenian_000055 = {
+	name = "Isaiah"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10728.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10788.1.1 = {
+		death = yes
+	}
+}
+armenian_000056 = {
+	name = "Stephen"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10730.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10790.1.1 = {
+		death = yes
+	}
+}
+armenian_000057 = {
+	name = "Joab"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10731.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10791.1.1 = {
+		death = yes
+	}
+}
+armenian_000058 = {
+	name = "Solomon"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10732.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10792.1.1 = {
+		death = yes
+	}
+}
+armenian_000059 = {
+	name = "George"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10735.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10795.1.1 = {
+		death = yes
+	}
+}
+armenian_000060 = {
+	name = "Joseph"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10746.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10806.1.1 = {
+		death = yes
+	}
+}
+armenian_000061 = {
+	name = "David"	#II
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10773.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10833.1.1 = {
+		death = yes
+	}
+}
+armenian_000062 = {
+	name = "John"	#IV
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10795.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10855.1.1 = {
+		death = yes
+	}
+}
+armenian_000063 = {
+	name = "Zacharias"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10816.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10876.1.1 = {
+		death = yes
+	}
+}
+armenian_000064 = {
+	name = "George"	#II
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10837.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10897.1.1 = {
+		death = yes
+	}
+}
+armenian_000065 = {
+	name = "Mashdotz"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10838.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10898.1.1 = {
+		death = yes
+	}
+}
+armenian_000067 = {
+	name = "John"	#V the Historian
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10838.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10898.1.1 = {
+		effect = {
+			give_nickname = nick_the_historian
+		}
+	}
+	10929.1.1 = {
+		death = yes
+	}
+}
+armenian_000068 = {
+	name = "Stephen"	#II
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10870.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10930.1.1 = {
+		death = yes
+	}
+}
+armenian_000069 = {
+	name = "Theodore"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10881.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10941.1.1 = {
+		death = yes
+	}
+}
+armenian_000070 = {
+	name = "Yeghishe"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10886.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10946.1.1 = {
+		death = yes
+	}
+}
+armenian_000072 = {
+	name = "Ananias"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10908.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10968.1.1 = {
+		death = yes
+	}
+}
+armenian_000073 = {
+	name = "Vahan"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10909.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10969.1.1 = {
+		death = yes
+	}
+}
+armenian_000074 = {
+	name = "Stephen"	#III
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10912.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10972.1.1 = {
+		death = yes
+	}
+}
+armenian_000075 = {
+	name = "Khachig"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10932.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	10992.1.1 = {
+		death = yes
+	}
+}
+armenian_000077 = {
+	name = "Sarkis"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10959.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	11019.1. = {
+		death = yes
+	}
+}
+armenian_000078 = {
+	name = "Peter"	#I
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	10998.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	11058.1. = {
+		death = yes
+	}
+}
+armenian_000079 = {
+	name = "Khachik"	#II
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	11005.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	11065.1. = {
+		death = yes
+	}
+}
+armenian_000080 = {
+	name = "Gregory"
+	#dynasty = 0
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	11030.1.1 = {	#Fictionalised birth date.
+		birth = yes
+	}
+	11065.1.1 = {
+		effect = {
+			give_nickname = nick_the_martyrophile
+		}
+	}
+	11105.2.23 = {
+		death = yes
+	}
+}
+
+armenian_000081 = {
+	name = "Abas"
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41504
+	mother = 159884
+
+	#Skills
+	diplomacy = 5
+	martial = 10
+	stewardship = 4
+	intrigue = 8
+	learning = 5
+	prowess = 9
+	
+	#Education
+	trait = education_martial_2
+
+	#Personality Traits
+	trait = wrathful
+	trait = deceitful
+	trait = ambitious
+	
+	disallow_random_traits = yes
+	10830.1.1 = {
+		birth = yes
+	}
+	10893.1.1 = {
+		death = yes	#That's what you get for opposing your nephew, mate.
+	}
+}
+
+armenian_000082 = {
+	name = "Katranide"
+	dynasty = armenian.katranidi
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	female = yes
+
+	#Skills
+	diplomacy = 6
+	martial = 6
+	stewardship = 7
+	intrigue = 7
+	learning = 7
+	prowess = 4
+	
+	#Education
+	trait = education_diplomacy_2
+
+	#Personality Traits
+	trait = shy
+	trait = content
+	trait = patient
+
+	#Other Traits
+	trait = reclusive
+	
+	disallow_random_traits = yes
+	10825.1.1 = {
+		birth = yes
+	}
+	10890.1.1 = {
+		death = yes
+	}
+}
+
+163135 = {
+	name = "Ali"
+	dynasty = 7520
+	culture = "armenian"
+	religion = "ashari"
+	father = armenian_000083
+	
+	#Education
+	trait = education_martial_3
+
+	#Personality Traits
+	trait = brave
+	trait = content
+	trait = sadistic
+
+	10812.1.1 = {
+		birth = yes
+	}
+	10863.1.1 = {
+		death = yes
+	}
+}
+
+armenian_000083 = { #Father of Ali ibn Yahya al-Armani
+	name = "Yahya"
+	dynasty = 7520
+	culture = "armenian"
+	religion = "ashari"
+	
+	10785.1.1 = {
+		birth = yes #Fictionalised birth date.
+	}
+	10838.1.1 = {
+		death = yes #Fictionalised death date.
+	}
+}
+
+armenian_000084 = {
+	name = "Muhammad"
+	dynasty = 7520
+	father = 163135
+	culture = "armenian"
+	religion = "ashari"
+	
+	#Education
+	trait = education_martial_2
+	
+	10842.1.1 = {
+		birth = yes #Fictionalised birth date.
+	}
+	10873.1.1 = {
+		death = yes
+	}
+}
+
+200238 = {
+	name = "Artavazd" # Ardabasto
+	dynasty = erwigiana # Ervigios's Dynasty
+	religion = armenian_apostolic
+	culture = armenian
+	trait = education_stewardship_3
+
+	10611.1.1 = {
+		birth = yes
+	}
+	10653.1.1 = {
+		add_matrilineal_spouse = 200239 # Glasuinta (visigothic.txt)
+	}
+	10661.1.1 = {
+		death = yes
+	}
+}
+
+####Armenians needed for FP3 history pass#####
+
+extra_armenians_1 = {
+	name = "Smbat"
+	dynasty = 507
+	religion = "armenian_apostolic"
+	culture = "armenian"
+	father = 41512
+	11025.1.1 = {
+		birth = yes
+	}
+	11040.1.1 = {
+		add_spouse = 41553
+	}
+	11070.1.1 = {
+		death = yes
+	}
+}
+
+armenian_catholicos_1 = {
+	name = "Barseghk"
+	religion = armenian_apostolic
+	culture = armenian
+	11047.1.1 = {
+		birth = yes
+	}
+	11113.11.13 = {
+		death = yes
+	}
+}

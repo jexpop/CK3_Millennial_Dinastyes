@@ -1,0 +1,195 @@
+﻿#
+#
+194147 = {
+	name = "Varaka"
+	dynasty = 1029108
+	religion = finnish_pagan
+	culture = mari
+	10733.1.1 = {
+		birth = yes
+	}
+	10799.1.1 = {
+		death = yes
+	}
+}
+194148 = {
+	name = "Nuyat"
+	dynasty = 1029108
+	religion = finnish_pagan
+	culture = mari
+	father = 194147
+	10760.1.1 = {
+		birth = yes
+	}
+	10822.1.1 = {
+		death = yes
+	}
+}
+194149 = {
+	name = "Atyamas"
+	dynasty = 1029108
+	religion = finnish_pagan
+	culture = mari
+	father = 194148
+	10780.1.1 = {
+		birth = yes
+	}
+	10839.1.1 = {
+		death = yes
+	}
+}
+160114 = {
+	name = "Shumat"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 1029108
+	father = 194149
+	10800.1.1 = {
+		birth = "10800.1.1"
+	}
+	10865.1.1 = {
+		death = "10865.1.1"
+	}
+}
+160115 = {
+	name = "Azyren"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 1029108
+	father = 160114
+	10843.1.1 = {
+		birth = yes
+	}
+	10927.1.1 = {
+		death = yes
+	}
+}
+159712 = {
+	name = "Purysho"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 1029108
+	father = 160114
+	10842.1.1 = {
+		birth = yes
+	}
+	10927.1.1 = {
+		death = yes
+	}
+}
+160116 = {
+	name = "Saksa"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 1029108
+	father = 160115
+	10861.1.1 = {
+		birth = "10861.1.1"
+	}
+	10905.1.1 = {
+		death = "10905.1.1"
+	}
+}
+160118 = {
+	name = "Tutyra"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 1029108
+	father = 159712
+	10861.1.1 = {
+		birth = "10861.1.1"
+	}
+	10905.1.1 = {
+		death = "10905.1.1"
+	}
+}
+160117 = {
+	name = "Surt"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 1029108
+	father = 160115
+	10862.1.1 = {
+		birth = "10862.1.1"
+	}
+	10905.1.1 = {
+		death = "10905.1.1"
+	}
+}
+160119 = {
+	name = "Uzhara"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 1029108
+	father = 159712
+	10862.1.1 = {
+		birth = "10862.1.1"
+	}
+	10905.1.1 = {
+		death = "10905.1.1"
+	}
+}
+##
+302267 = {
+	name = "Iakov"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 2001051	#Opolyesky
+	10996.12.13 = {
+		birth = yes
+	}
+	11043.5.24 = {
+		death = yes
+	}
+}
+302268 = {
+	name = "Simeon"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 2001051	#Opolyesky
+	father = 302267
+	11025.6.21 = {
+		birth = yes
+	}
+	11072.7.3 = {
+		death = yes
+	}
+}
+302269 = {
+	name = "Alexei"
+	religion = "finnish_pagan"
+	culture = mari
+	dynasty = 2001051	#Opolyesky
+	father = 302268
+	11051.4.19 = {
+		birth = yes
+	}
+	11108.6.30 = {
+		death = yes
+	}
+}
+
+#MPO fictional Maris
+fictional_maris_1 = {	##Fic ruler in Kazan 867 (more chars & avoid domain overlimit)
+	name = "Sokhron"
+	religion = "finnish_pagan"
+	culture = mari
+	10833.7.11 = {
+		birth = yes
+	}
+	10891.1.1 = {
+		death = yes
+	}
+}
+
+fictional_maris_2 = {	##Fic ruler in Yoshkar-ola 867 (more chars & avoid domain overlimit)
+	name = "Mitryai"
+	religion = "finnish_pagan"
+	culture = mari
+	10844.9.27 = {
+		birth = yes
+	}
+	10894.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,710 @@
+﻿k_dacia = {
+	10867.1.1 = { change_development_level = 3 }
+	11066.1.1 = { change_development_level = 7 }
+	11178.1.1 = { change_development_level = 24 }
+}
+
+c_campulung = {
+	###Part of 1st Bulgarian Empire
+	10852.1.1 = {
+		holder = 70382 #Boris
+		liege = k_bulgaria
+		government = tribal_government
+	}
+	10860.1.1 = {
+		#holder = 168067 #Gavril
+		holder = vlach_000004 #Given to a fictious local Vlach for governmental neatness.
+		liege = d_muntenia
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	###Pecheneg rule  from 895 to 1091
+	11066.1.1 = {
+		holder = 302089		#fictional Victor
+		liege = k_pechenegs
+	}
+	
+	###Cumans rules from 1091 to 1241
+	11105.12.3 = {
+		holder = 302090		#fictional Janos
+	}
+	11127.11.19 = {
+		holder = 302091		#fictional Bajan
+	}
+	11164.7.1 = {
+		holder = 302092		#fictional Janos
+	}
+	11181.12.24 = {
+		holder = 302093		#fictional Bajan
+	}
+	
+	###Post-Cuman rule
+	11241.1.1 = {
+		holder = 228027	
+	}
+	11248.1.1 = {
+		holder = 34800	
+	}
+	11277.1.1 = {
+		holder = 34801	
+	}
+	11290.1.1 = {
+		holder = 475560	
+	}
+	11300.1.2 = {
+		holder = 475550
+	}
+	11332.1.1 = {
+		holder = 475553	
+	}
+}
+
+c_polovragi = {
+	###Part of 1st Bulgarian Empire
+	10852.1.1 = {
+		holder = 70382 #Boris
+		liege = k_bulgaria
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 302082		#fictional Vlad
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	###Pecheneg rule  from 895 to 1091
+	11066.1.1 = {
+		holder = 302083		#fictional Florin
+		liege = k_pechenegs
+	}
+	
+	###Cumans rules from 1091 to 1241
+	11099.4.13 = {
+		holder = 302084		#fictional Timotei
+	}
+	11139.11.19 ={
+		holder = 302085		#fictional Franjo
+	}
+	11154.10.25 = {
+		holder = 302086		#fictional Laurentiu
+	}
+	11186.12.3 = {
+		holder = 302087		#fictional Franjo
+	}
+	
+	###Post-Cuman rule
+	11241.1.1 = {
+		holder = 228027	
+	}
+	11248.1.1 = {
+		holder = 34800	
+	}
+	11277.1.1 = {
+		holder = 34801	
+	}
+	11290.1.1 = {
+		holder = 475560	
+	}
+	11300.1.2 = {
+		holder = 475550
+	}
+	11332.1.1 = {
+		holder = 475553	
+	}
+}
+
+c_tabla_butii = {
+	###Part of 1st Bulgarian Empire
+	10852.1.1 = {
+		holder = 70382 #Boris
+		liege = k_bulgaria
+		government = tribal_government
+	}
+	10860.1.1 = {
+		#holder = 168067 #Gavril
+		holder = vlach_000008 #Given to a fictious local Vlach for governmental neatness.
+		liege = d_muntenia
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	###Pecheneg rule  from 895 to 1091
+	11066.1.1 = {
+		holder = 302089		#fictional Victor
+		liege = k_pechenegs
+	}
+	
+	###Cumans rules from 1091 to 1241
+	11105.12.3 = {
+		holder = 302090		#fictional Janos
+	}
+	11127.11.19 = {
+		holder = 302091		#fictional Bajan
+	}
+	11164.7.1 = {
+		holder = 302092		#fictional Janos
+	}
+	11181.12.24 = {
+		holder = 302093		#fictional Bajan
+	}
+	
+	###Post-Cuman rule
+	11241.1.1 = {
+		holder = 228027	
+	}
+	11248.1.1 = {
+		holder = 34800	
+	}
+	11277.1.1 = {
+		holder = 34801	
+	}
+	11290.1.1 = {
+		holder = 475560	
+	}
+	11300.1.2 = {
+		holder = 475550
+	}
+	11332.1.1 = {
+		holder = 475553	
+	}
+}
+
+d_muntenia = {
+	10860.1.1 = {
+		holder = vlach_000005
+		liege = k_bulgaria
+	}
+	10898.12.30 = {
+		holder = 0
+	}
+}
+
+c_giurgiu = {
+	###Part of 1st Bulgarian Empire
+	10852.1.1 = {
+		holder = 70382 #Boris
+		liege = k_bulgaria
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 302095		#fictional Alexandru
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	###Pecheneg rule  from 895 to 1091
+	11066.1.1 = {
+		holder = 302096		#fictional Ioan
+		liege = k_pechenegs
+	}
+	11080.10.14 = {
+		holder = 302097		#fictional Alexandru
+	}
+	
+	###Cumans rules from 1091 to 1241
+	11115.2.4 = {
+		holder = 302098		#fictional Damjan
+	}
+	11136.9.12 = {
+		holder = 302099		#fictional Simion
+	}
+	11164.10.13 = {
+		holder = 302100	#fictional Grigore
+	}
+	11185.4.1 = {
+		holder = 302101	#fictional Damjan
+	}
+	11216.2.16 = {
+		holder = 302102	#fictional Vasile
+	}
+	
+	###Post-Cuman rule
+	11241.1.1 = {
+		holder = 228027	
+	}
+	11248.1.1 = {
+		holder = 34800	
+	}
+	11277.1.1 = {
+		holder = 34801	
+	}
+	11290.1.1 = {
+		holder = 475560	
+	}
+	11300.1.2 = {
+		holder = 475550
+	}
+	11332.1.1 = {
+		holder = 475553	
+	}
+}
+
+c_bucuresti = {
+	###Part of 1st Bulgarian Empire
+	10852.1.1 = {
+		holder = 70382 #Boris
+		liege = k_bulgaria
+		government = tribal_government
+	}
+	10860.1.1 = {
+		#holder = 168067 #Gavril
+		holder = vlach_000005 #Given to a fictious local Vlach for governmental neatness.
+		liege = d_muntenia
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	###Pecheneg rule  from 895 to 1091
+	11066.1.1 = {
+		holder = 302104		#fictional Claudiu
+		liege = k_pechenegs
+	}
+	
+	###Cumans rules from 1091 to 1241
+	11097.2.8 = {
+		holder = 302105		#fictional Ciubar
+	}
+	11125.8.7 = {
+		holder = 302106		#fictional Valeriu
+	}
+	11156.2.20 = {
+		holder =  302107	#fictional Iacob
+	}
+	11184.5.9 = {
+		holder = 302108		#fictional Tudor
+	}
+	
+	###Post-Cuman rule
+	11241.1.1 = {
+		holder = 228027	
+	}
+	11248.1.1 = {
+		holder = 34800	
+	}
+	11277.1.1 = {
+		holder = 34801	
+	}
+	11290.1.1 = {
+		holder = 475560	
+	}
+	11300.1.2 = {
+		holder = 475550
+	}
+	11332.1.1 = {
+		holder = 475553	
+	}
+}
+
+c_calarasi = {
+	###Part of 1st Bulgarian Empire
+	10852.1.1 = {
+		holder = 70382 #Boris
+		liege = k_bulgaria
+		government = tribal_government
+	}
+	10860.1.1 = {
+		#holder = 168067 #Gavril
+		holder = vlach_000007 #Given to a fictious local Vlach for governmental neatness.
+		liege = d_muntenia
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	###Pecheneg rule  from 895 to 1091
+	11066.1.1 = {
+		holder = 302104		#fictional Claudiu
+		liege = k_pechenegs
+	}
+	
+	###Cumans rules from 1091 to 1241
+	11097.2.8 = {
+		holder = 302105		#fictional Ciubar
+	}
+	11125.8.7 = {
+		holder = 302106		#fictional Valeriu
+	}
+	11156.2.20 = {
+		holder =  302107	#fictional Iacob
+	}
+	11184.5.9 = {
+		holder = 302108		#fictional Tudor
+	}
+	
+	###Post-Cuman rule
+	11241.1.1 = {
+		holder = 228027	
+	}
+	11248.1.1 = {
+		holder = 34800	
+	}
+	11277.1.1 = {
+		holder = 34801	
+	}
+	11290.1.1 = {
+		holder = 475560	
+	}
+	11300.1.2 = {
+		holder = 475550
+	}
+	11332.1.1 = {
+		holder = 475553	
+	}
+}
+
+c_buzau = {
+	###Part of 1st Bulgarian Empire
+	10852.1.1 = {
+		holder = 70382 #Boris
+		liege = k_bulgaria
+		government = tribal_government
+	}
+	10860.1.1 = {
+		#holder = 168067 #Gavril
+		holder = vlach_000006 #Given to a fictious local Vlach for governmental neatness.
+		liege = d_muntenia
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	###Pecheneg rule  from 895 to 1091
+	11066.1.1 = {
+		holder = 302110		#fictional Sergiu
+		liege = k_pechenegs
+	}
+	11069.12.15 = {
+		holder = 302111		#fictional Roman
+	}
+	
+	###Cumans rules from 1091 to 1241
+	11119.5.30 = {
+		holder = 302112		#fictional Sergiu
+	}
+	11140.9.18 = {
+		holder = 302113		#fictional Dumitru
+	}
+	11176.4.9 = {
+		holder = 302114		#fictional Janos
+	}
+	11206.2.15 = {
+		holder = 302115		#fictional Gavril
+	}
+	
+	###Post-Cuman rule
+	11241.1.1 = {
+		holder = 228027	
+	}
+	11248.1.1 = {
+		holder = 34800	
+	}
+	11277.1.1 = {
+		holder = 34801	
+	}
+	11290.1.1 = {
+		holder = 475560	
+	}
+	11300.1.2 = {
+		holder = 475550
+	}
+	11332.1.1 = {
+		holder = 475553	
+	}
+}
+
+c_braila = {
+	###Part of 1st Bulgarian Empire
+	10852.1.1 = {
+		holder = 70382 #Boris
+		liege = k_bulgaria
+		government = tribal_government
+	}
+	10860.1.1 = {
+		#holder = 168067 #Gavril
+		holder = vlach_000009 #Given to a fictious local Vlach for governmental neatness.
+		liege = d_muntenia
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	###Pecheneg rule  from 895 to 1091
+	11066.1.1 = {
+		holder = 302110		#fictional Sergiu
+		liege = k_pechenegs
+	}
+	11069.12.15 = {
+		holder = 302111		#fictional Roman
+	}
+	
+	###Cumans rules from 1091 to 1241
+	11119.5.30 = {
+		holder = 302112		#fictional Sergiu
+	}
+	11140.9.18 = {
+		holder = 302113		#fictional Dumitru
+	}
+	11176.4.9 = {
+		holder = 302114		#fictional Janos
+	}
+	11206.2.15 = {
+		holder = 302115		#fictional Gavril
+	}
+	
+	###Post-Cuman rule
+	11241.1.1 = {
+		holder = 228027	
+	}
+	11248.1.1 = {
+		holder = 34800	
+	}
+	11277.1.1 = {
+		holder = 34801	
+	}
+	11290.1.1 = {
+		holder = 475560	
+	}
+	11300.1.2 = {
+		holder = 475550
+	}
+	11332.1.1 = {
+		holder = 475553	
+	}
+}
+
+c_targu_jiu = {
+	###Part of 1st Bulgarian Empire
+	10852.1.1 = {
+		holder = 70382 #Boris
+		liege = k_bulgaria
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 302082		#fictional Vlad
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	###Pecheneg rule  from 895 to 1091
+	11066.1.1 = {
+		holder = 302083		#fictional Florin
+		liege = k_pechenegs
+	}
+	
+	###Cumans rules from 1091 to 1241
+	11099.4.13 = {
+		holder = 302084		#fictional Timotei
+	}
+	11139.11.19 ={
+		holder = 302085		#fictional Franjo
+	}
+	11154.10.25 = {
+		holder = 302086		#fictional Laurentiu
+	}
+	11186.12.3 = {
+		holder = 302087		#fictional Franjo
+	}
+	
+	###Post-Cuman rule
+	11241.1.1 = {
+		holder = 228027	
+	}
+	11248.1.1 = {
+		holder = 34800	
+	}
+	11277.1.1 = {
+		holder = 34801	
+	}
+	11290.1.1 = {
+		holder = 475560	
+	}
+	11300.1.2 = {
+		holder = 475550
+	}
+	11332.1.1 = {
+		holder = 475553	
+	}
+}
+
+c_severin = {
+	###Part of 1st Bulgarian Empire
+	10852.1.1 = {
+		holder = 70382 #Boris
+		liege = k_bulgaria
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 168286
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	###Pecheneg rule  from 895 to 1091
+	11066.1.1 = {
+		holder = 302077		#fictional Dragos
+		liege = k_pechenegs
+	}
+	
+	
+	###Cumans rules from 1091 to 1241
+	11111.7.14 = {
+		holder = 302078		#fictional Iancu
+	}
+	11128.7.11 = {
+		holder = 302079		#fictional Stefan
+	}
+	11162.2.19 = {
+		holder = 302080		#fictional Nicolaie
+	}
+	11182.5.4 = {
+		holder = 302081		#fictional Ioan
+	}
+	
+	
+	###Post-Cuman rule
+	11241.1.1 = {
+		holder = 228027	
+	}
+	11248.1.1 = {
+		holder = 34800	
+	}
+	11277.1.1 = {
+		holder = 34801	
+	}
+	11290.1.1 = {
+		holder = 475560	
+	}
+	11300.1.2 = {
+		holder = 475550
+	}
+	11332.1.1 = {
+		holder = 475553	
+	}
+}
+
+c_calafat = {
+	###Part of 1st Bulgarian Empire
+	10852.1.1 = {
+		holder = 70382 #Boris
+		liege = k_bulgaria
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 168286
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	###Pecheneg rule  from 895 to 1091
+	11066.1.1 = {
+		holder = 302077		#fictional Dragos
+		liege = k_pechenegs
+	}
+	
+	
+	###Cumans rules from 1091 to 1241
+	11111.7.14 = {
+		holder = 302078		#fictional Iancu
+	}
+	11128.7.11 = {
+		holder = 302079		#fictional Stefan
+	}
+	11162.2.19 = {
+		holder = 302080		#fictional Nicolaie
+	}
+	11182.5.4 = {
+		holder = 302081		#fictional Ioan
+	}
+	
+	
+	###Post-Cuman rule
+	11241.1.1 = {
+		holder = 228027	
+	}
+	11248.1.1 = {
+		holder = 34800	
+	}
+	11277.1.1 = {
+		holder = 34801	
+	}
+	11290.1.1 = {
+		holder = 475560	
+	}
+	11300.1.2 = {
+		holder = 475550
+	}
+	11332.1.1 = {
+		holder = 475553	
+	}
+}
+
+c_craiova = {
+	###Part of 1st Bulgarian Empire
+	10852.1.1 = {
+		holder = 70382 #Boris
+		liege = k_bulgaria
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 302095		#fictional Alexandru
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	###Pecheneg rule  from 895 to 1091
+	11066.1.1 = {
+		holder = 302096		#fictional Ioan
+		liege = k_pechenegs
+	}
+	11080.10.14 = {
+		holder = 302097		#fictional Alexandru
+	}
+	
+	###Cumans rules from 1091 to 1241
+	11115.2.4 = {
+		holder = 302098	#fictional Damjan
+	}
+	11136.9.12 = {
+		holder = 302099	#fictional Simion
+	}
+	11164.10.13 = {
+		holder = 302100	#fictional Grigore
+	}
+	11185.4.1 = {
+		holder = 302101	#fictional Damjan
+	}
+	11216.2.16 = {
+		holder = 3020102 #fictional Vasile
+	}
+	
+	###Post-Cuman rule
+	11241.1.1 = {
+		holder = 228027	
+	}
+	11248.1.1 = {
+		holder = 34800	
+	}
+	11277.1.1 = {
+		holder = 34801	
+	}
+	11290.1.1 = {
+		holder = 475560	
+	}
+	11300.1.2 = {
+		holder = 475550
+	}
+	11332.1.1 = {
+		holder = 475553	
+	}
+}
+

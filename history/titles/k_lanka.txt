@@ -1,0 +1,1259 @@
+k_lanka = {
+	10867.1.1 = { change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10741.1.1 = {
+		holder = 189005
+	}
+	10866.1.1 = {
+		holder = 175010
+	}
+	10901.1.1 = {
+		holder = 0
+	}
+	11072.1.1 = {
+		holder = 189029 # Vijayabahu I
+		effect = {
+			set_capital_county = title:c_trincomalee #Polonnaruwa
+		}
+	}
+	11110.1.1 = {
+		holder = 189031 # Jayabahu I
+	}
+	11111.1.1 = {
+		holder = 189030 # Vikramabahu I
+	}
+	11131.1.1 = {
+		holder = 217365 # Gajabahu II
+	}
+	11153.1.1 = {
+		holder = 217366 # Parakramabahu I 'The Great'
+	}
+	11186.1.1 = {
+		holder = 217375 # Vijayabahu II
+	}
+	11187.6.1 = {
+		holder = 217376 # Mahinda VI
+	}
+	11187.6.6 = {
+		holder = 217377 # Nissanka
+	}
+	11196.4.3 = {
+		holder = 217379 # Virabahu
+	}
+	11196.4.4 = {
+		holder = 217391 # Vikramabahu II
+	}
+	11196.7.1 = {
+		holder = 217380 # Chodaganga
+	}
+	11197.4.1 = {
+		holder = 217371 # Lilavati 1st time
+	}
+	11200.8.23 = {
+		holder = 217383 # Sahassamalla
+	}
+	11202.1.1 = {
+		holder = 217382 # Kalyanavati
+	}
+	11208.1.1 = {
+		holder = 217384 # Dharmasoka
+	}
+	11209.4.5 = {
+		holder = 217385 # Anikanga
+	}
+	11209.4.22 = {
+		holder = 217371 # Lilavati 2nd time
+	}
+	11210.1.1 = {
+		holder = 217390 # Lokissara
+	}
+	11210.10.1 = {
+		holder = 217371 # Lilavati 3rd time
+	}
+	
+	# Pandyan Conquest
+	11212.1.1 = {
+		holder = 189128 # Parakrama
+	}
+	11215.1.1 = {
+		holder = 189141 # Kalinga Magha
+	}
+	
+	# Kingdom of Dambadeniya
+	11220.1.1 = {
+		holder = 217387 # Vijayabahu III
+	}
+	11224.1.1 = {
+		holder = 217386 # Parakramabahu # Coronation in 1236
+	}
+	11268.1.1 = {
+		holder = 217388 # Vijayabahu IV
+	}
+	11270.10.1 = {
+		holder = 217389 # Bhuvanaikabahu # Coronation in 1271
+	}
+	11283.1.1 = {
+		holder = 0
+	}
+	11302.1.1 = {
+		holder = 217392 # Parakkamabahu III
+	}
+	11310.1.1 = {
+		holder = 217393 # Bhuvanaikabahu II
+	}
+	11325.1.1 = {
+		holder = 217394 # Parakkamabahu IV
+	}
+	11329.1.1 = {
+		holder = 217395 # Bhuvanaikabaahu III
+	}
+	11335.1.1 = {
+		holder = 217396 # Vijayabahu V
+	}
+}
+
+
+
+d_ruhunu = {
+	10769.1.1 = {
+		holder = 189007
+		liege = k_lanka
+	}
+	10866.1.1 = {
+		holder = 175010
+	}
+	#10901.1.1 = {
+	#	holder = 0
+	#}
+	# Chola conquest
+	11017.1.1 = {
+		holder = 189039
+		liege = k_tamilakam
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = 189041
+	}
+	
+	# Sinhalese rebellion
+
+	11055.1.1 = {
+		holder = sinhalese_ruhuna_monarch_kassapa
+	}
+	11060.1.1 = {
+		holder = 189029 # Vijayabahu I
+	}
+	11066.1.1 = {
+		liege = 0
+	}
+	11072.1.1 = {
+		liege = k_lanka
+	}
+	11110.1.1 = {
+		holder = 217370 # Srivallabha
+	}
+	11138.1.1 = {
+		holder = 217374 # Manabharana
+	}
+	11153.1.1 = {
+		holder = 217366 # Parakramabahu I 'The Great'
+	}
+	11186.1.1 = {
+		holder = 217375 # Vijayabahu II
+	}
+	11187.6.1 = {
+		holder = 217376 # Mahinda VI
+	}
+	11187.6.6 = {
+		holder = 217377 # Nissanka
+	}
+	11196.4.3 = {
+		holder = 217379 # Virabahu
+	}
+	11196.4.4 = {
+		holder = 217391 # Vikramabahu II
+	}
+	11196.7.1 = {
+		holder = 217380 # Chodaganga
+	}
+	11197.4.1 = {
+		holder = 217371 # Lilavati 1st time
+	}
+	11200.8.23 = {
+		holder = 217383 # Sahassamalla
+	}
+	11202.1.1 = {
+		holder = 217382 # Kalyanavati
+	}
+	11208.1.1 = {
+		holder = 217384 # Dharmasoka
+	}
+	11209.4.5 = {
+		holder = 217385 # Anikanga
+	}
+	11209.4.22 = {
+		holder = 217371 # Lilavati 2nd time
+	}
+	11210.1.1 = {
+		holder = 217390 # Lokissara
+	}
+	11210.10.1 = {
+		holder = 217371 # Lilavati 3rd time
+	}
+	
+	# Pandyan Conquest
+	11212.1.1 = {
+		holder = 189128 # Parakrama
+	}
+	11215.1.1 = {
+		holder = 189141 # Kalinga Magha
+	}
+	
+	# Kingdom of Dambadeniya
+	11220.1.1 = {
+		holder = 217387 # Vijayabahu III
+	}
+	11224.1.1 = {
+		holder = 217386 # Parakramabahu # Coronation in 1236
+	}
+	11268.1.1 = {
+		holder = 217388 # Vijayabahu IV
+	}
+	11270.10.1 = {
+		holder = 217389 # Bhuvanaikabahu # Coronation in 1271
+	}
+	11283.1.1 = {
+		holder = 217392 # Parakkamabahu III
+	}
+	11310.1.1 = {
+		holder = 217393 # Bhuvanaikabahu II
+	}
+	11325.1.1 = {
+		holder = 217394 # Parakkamabahu IV
+	}
+	11329.1.1 = {
+		holder = 217395 # Bhuvanaikabaahu III
+	}
+	11335.1.1 = {
+		holder = 217396 # Vijayabahu V
+	}
+}
+
+
+c_dakhina_desa = {
+	10769.1.1 = {
+		holder = 189006
+		liege = k_lanka
+	}
+	10866.1.1 = {
+		holder = 175010
+	}
+	#10901.1.1 = {
+	#	holder = 0
+	#}
+	
+	# Chola conquest
+	11017.1.1 = {
+		holder = 189039
+		liege = k_tamilakam
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = 189041
+	}
+	
+	# Sinhalese rebellion
+	11055.1.1 = {
+		holder = 189029 # Vijayabahu I
+	}
+	11066.1.1 = {
+		liege = d_ruhunu
+	}
+	11072.1.1 = {
+		liege = k_lanka
+	}
+	11110.1.1 = {
+		holder = 217367 # Manabharana
+	}
+	11125.1.1 = {
+		holder = 217368 # Kittisrimegha
+	}
+	11140.1.1 = {
+		holder = 217366 # Parakramabahu I 'The Great'
+	}
+	11186.1.1 = {
+		holder = 217375 # Vijayabahu II
+	}
+	11187.6.1 = {
+		holder = 217376 # Mahinda VI
+	}
+	11187.6.6 = {
+		holder = 217377 # Nissanka
+	}
+	11196.4.3 = {
+		holder = 217379 # Virabahu
+	}
+	11196.4.4 = {
+		holder = 217391 # Vikramabahu II
+	}
+	11196.7.1 = {
+		holder = 217380 # Chodaganga
+	}
+	11197.4.1 = {
+		holder = 217371 # Lilavati 1st time
+	}
+	11200.8.23 = {
+		holder = 217383 # Sahassamalla
+	}
+	11202.1.1 = {
+		holder = 217382 # Kalyanavati
+	}
+	11208.1.1 = {
+		holder = 217384 # Dharmasoka
+	}
+	11209.4.5 = {
+		holder = 217385 # Anikanga
+	}
+	11209.4.22 = {
+		holder = 217371 # Lilavati 2nd time
+	}
+	11210.1.1 = {
+		holder = 217390 # Lokissara
+	}
+	11210.10.1 = {
+		holder = 217371 # Lilavati 3rd time
+	}
+	
+	# Pandyan Conquest
+	11212.1.1 = {
+		holder = 189128 # Parakrama
+	}
+	11215.1.1 = {
+		holder = 189141 # Kalinga Magha
+	}
+	
+	# Kingdom of Dambadeniya
+	11220.1.1 = {
+		holder = 217387 # Vijayabahu III
+	}
+	11224.1.1 = {
+		holder = 217386 # Parakramabahu # Coronation in 1236
+	}
+	11268.1.1 = {
+		holder = 217388 # Vijayabahu IV
+	}
+	11270.10.1 = {
+		holder = 217389 # Bhuvanaikabahu # Coronation in 1271
+	}
+	11283.1.1 = {
+		holder = 217392 # Parakkamabahu III
+	}
+	11310.1.1 = {
+		holder = 217393 # Bhuvanaikabahu II
+	}
+	11325.1.1 = {
+		holder = 217394 # Parakkamabahu IV
+	}
+	11329.1.1 = {
+		holder = 217395 # Bhuvanaikabaahu III
+	}
+	11335.1.1 = {
+		holder = 217396 # Vijayabahu V
+	}
+}
+
+
+c_kotte = { #Pacinadesa
+	10769.1.1 = {
+		holder = 189006
+		liege = k_lanka
+	}
+	10866.1.1 = {
+		holder = 175010
+	}
+	#10901.1.1 = {
+	#	holder = 0
+	#}
+	
+	# Chola conquest
+	11017.1.1 = {
+		holder = 189039
+		liege = k_tamilakam
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = 189041
+	}
+	11063.1.1 = {
+		holder = cholan_lankan_vassals_02
+	}
+	
+	# Sinhalese rebellion
+	11070.6.6 = {
+		holder = 189029
+		liege = d_ruhunu
+	}
+	11072.1.1 = {
+		liege = k_lanka
+	}
+	11110.1.1 = {
+		holder = 217367 # Manabharana
+	}
+	11125.1.1 = {
+		holder = 217368 # Kittisrimegha
+	}
+	11140.1.1 = {
+		holder = 217366 # Parakramabahu I 'The Great'
+	}
+	11186.1.1 = {
+		holder = 217375 # Vijayabahu II
+	}
+	11187.6.1 = {
+		holder = 217376 # Mahinda VI
+	}
+	11187.6.6 = {
+		holder = 217377 # Nissanka
+	}
+	11196.4.3 = {
+		holder = 217379 # Virabahu
+	}
+	11196.4.4 = {
+		holder = 217391 # Vikramabahu II
+	}
+	11196.7.1 = {
+		holder = 217380 # Chodaganga
+	}
+	11197.4.1 = {
+		holder = 217371 # Lilavati 1st time
+	}
+	11200.8.23 = {
+		holder = 217383 # Sahassamalla
+	}
+	11202.1.1 = {
+		holder = 217382 # Kalyanavati
+	}
+	11208.1.1 = {
+		holder = 217384 # Dharmasoka
+	}
+	11209.4.5 = {
+		holder = 217385 # Anikanga
+	}
+	11209.4.22 = {
+		holder = 217371 # Lilavati 2nd time
+	}
+	11210.1.1 = {
+		holder = 217390 # Lokissara
+	}
+	11210.10.1 = {
+		holder = 217371 # Lilavati 3rd time
+	}
+	
+	# Pandyan Conquest
+	11212.1.1 = {
+		holder = 189128 # Parakrama
+	}
+	11215.1.1 = {
+		holder = 189141 # Kalinga Magha
+	}
+	
+	# Kingdom of Dambadeniya
+	11220.1.1 = {
+		holder = 217387 # Vijayabahu III
+	}
+	11224.1.1 = {
+		holder = 217386 # Parakramabahu # Coronation in 1236
+	}
+	11268.1.1 = {
+		holder = 217388 # Vijayabahu IV
+	}
+	11270.10.1 = {
+		holder = 217389 # Bhuvanaikabahu # Coronation in 1271
+	}
+	11283.1.1 = {
+		holder = 217392 # Parakkamabahu III
+	}
+	11310.1.1 = {
+		holder = 217393 # Bhuvanaikabahu II
+	}
+	11325.1.1 = {
+		holder = 217394 # Parakkamabahu IV
+	}
+	11329.1.1 = {
+		holder = 217395 # Bhuvanaikabaahu III
+	}
+	11335.1.1 = {
+		holder = 217396 # Vijayabahu V
+	}
+}
+
+c_rohana = {
+	10769.1.1 = {
+		holder = 189007
+		liege = k_lanka
+	}
+	10866.1.1 = {
+		holder = 175010
+	}
+	#10901.1.1 = {
+	#	holder = 0
+	#}
+	# Chola conquest
+	11017.1.1 = {
+		holder = 189039
+		liege = k_tamilakam
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = 189041
+	}
+	
+	# Sinhalese rebellion
+	11055.1.1 = {
+		holder = 189029 # Vijayabahu I
+	}
+	11066.1.1 = {
+		liege = d_ruhunu
+	}
+	11072.1.1 = {
+		liege = k_lanka
+	}
+	11110.1.1 = {
+		holder = 217370 # Srivallabha
+	}
+	11138.1.1 = {
+		holder = 217374 # Manabharana
+	}
+	11153.1.1 = {
+		holder = 217366 # Parakramabahu I 'The Great'
+	}
+	11186.1.1 = {
+		holder = 217375 # Vijayabahu II
+	}
+	11187.6.1 = {
+		holder = 217376 # Mahinda VI
+	}
+	11187.6.6 = {
+		holder = 217377 # Nissanka
+	}
+	11196.4.3 = {
+		holder = 217379 # Virabahu
+	}
+	11196.4.4 = {
+		holder = 217391 # Vikramabahu II
+	}
+	11196.7.1 = {
+		holder = 217380 # Chodaganga
+	}
+	11197.4.1 = {
+		holder = 217371 # Lilavati 1st time
+	}
+	11200.8.23 = {
+		holder = 217383 # Sahassamalla
+	}
+	11202.1.1 = {
+		holder = 217382 # Kalyanavati
+	}
+	11208.1.1 = {
+		holder = 217384 # Dharmasoka
+	}
+	11209.4.5 = {
+		holder = 217385 # Anikanga
+	}
+	11209.4.22 = {
+		holder = 217371 # Lilavati 2nd time
+	}
+	11210.1.1 = {
+		holder = 217390 # Lokissara
+	}
+	11210.10.1 = {
+		holder = 217371 # Lilavati 3rd time
+	}
+	
+	# Pandyan Conquest
+	11212.1.1 = {
+		holder = 189128 # Parakrama
+	}
+	11215.1.1 = {
+		holder = 189141 # Kalinga Magha
+	}
+	
+	# Kingdom of Dambadeniya
+	11220.1.1 = {
+		holder = 217387 # Vijayabahu III
+	}
+	11224.1.1 = {
+		holder = 217386 # Parakramabahu # Coronation in 1236
+	}
+	11268.1.1 = {
+		holder = 217388 # Vijayabahu IV
+	}
+	11270.10.1 = {
+		holder = 217389 # Bhuvanaikabahu # Coronation in 1271
+	}
+	11283.1.1 = {
+		holder = 217392 # Parakkamabahu III
+	}
+	11310.1.1 = {
+		holder = 217393 # Bhuvanaikabahu II
+	}
+	11325.1.1 = {
+		holder = 217394 # Parakkamabahu IV
+	}
+	11329.1.1 = {
+		holder = 217395 # Bhuvanaikabaahu III
+	}
+	11335.1.1 = {
+		holder = 217396 # Vijayabahu V
+	}
+
+}
+
+
+c_batticaloa = {
+	10769.1.1 = {
+		holder = 189007
+		liege = k_lanka
+	}
+	10866.1.1 = {
+		holder = 175010
+	}
+	#10901.1.1 = {
+	#	holder = 0
+	#}
+	# Chola conquest
+	11017.1.1 = {
+		holder = 189039
+		liege = k_tamilakam
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = sinhalese_ruhuna_monarch_kassapa
+	}
+	
+	# Sinhalese rebellion
+	11066.1.1 = {
+		liege = d_ruhunu
+	}
+	11072.1.1 = {
+		liege = k_lanka
+	}
+	11110.1.1 = {
+		holder = 217370 # Srivallabha
+	}
+	11138.1.1 = {
+		holder = 217374 # Manabharana
+	}
+	11153.1.1 = {
+		holder = 217366 # Parakramabahu I 'The Great'
+	}
+	11186.1.1 = {
+		holder = 217375 # Vijayabahu II
+	}
+	11187.6.1 = {
+		holder = 217376 # Mahinda VI
+	}
+	11187.6.6 = {
+		holder = 217377 # Nissanka
+	}
+	11196.4.3 = {
+		holder = 217379 # Virabahu
+	}
+	11196.4.4 = {
+		holder = 217391 # Vikramabahu II
+	}
+	11196.7.1 = {
+		holder = 217380 # Chodaganga
+	}
+	11197.4.1 = {
+		holder = 217371 # Lilavati 1st time
+	}
+	11200.8.23 = {
+		holder = 217383 # Sahassamalla
+	}
+	11202.1.1 = {
+		holder = 217382 # Kalyanavati
+	}
+	11208.1.1 = {
+		holder = 217384 # Dharmasoka
+	}
+	11209.4.5 = {
+		holder = 217385 # Anikanga
+	}
+	11209.4.22 = {
+		holder = 217371 # Lilavati 2nd time
+	}
+	11210.1.1 = {
+		holder = 217390 # Lokissara
+	}
+	11210.10.1 = {
+		holder = 217371 # Lilavati 3rd time
+	}
+	
+	# Pandyan Conquest
+	11212.1.1 = {
+		holder = 189128 # Parakrama
+	}
+	11215.1.1 = {
+		holder = 189141 # Kalinga Magha
+	}
+	
+	# Kingdom of Dambadeniya
+	11220.1.1 = {
+		holder = 217387 # Vijayabahu III
+	}
+	11224.1.1 = {
+		holder = 217386 # Parakramabahu # Coronation in 1236
+	}
+	11268.1.1 = {
+		holder = 217388 # Vijayabahu IV
+	}
+	11270.10.1 = {
+		holder = 217389 # Bhuvanaikabahu # Coronation in 1271
+	}
+	11283.1.1 = {
+		holder = 217392 # Parakkamabahu III
+	}
+	11310.1.1 = {
+		holder = 217393 # Bhuvanaikabahu II
+	}
+	11325.1.1 = {
+		holder = 217394 # Parakkamabahu IV
+	}
+	11329.1.1 = {
+		holder = 217395 # Bhuvanaikabaahu III
+	}
+	11335.1.1 = {
+		holder = 217396 # Vijayabahu V
+	}
+}
+
+d_sinhala = {
+	10867.1.1 = { change_development_level = 12 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10741.1.1 = {
+		holder = 189005
+	}
+	10781.1.1 = {
+		holder = 0
+	}
+	11017.1.1 = {
+		liege = "k_tamilakam" #Subdued by Cholas
+	}
+	11056.1.1 = {
+		liege = 0 #Independence
+	}
+	11212.1.1 = {
+		holder = 189128
+	}
+	11215.1.1 = {
+		holder = 189141
+	}
+	11236.1.1 = {
+		holder = 189142
+	}
+	11258.1.1 = {
+		liege = "k_tamilakam" #Vassalage to Pandyas
+	}
+	11284.1.1 = {
+		holder = 189143
+	}
+	11292.1.1 = {
+		holder = 189144
+	}
+	11302.1.1 = {
+		holder = 189145
+	}
+	11323.1.1 = {
+		liege = 0 #Fragmentation of Pandyan control
+	}
+	11325.1.1 = {
+		holder = 189146
+	}
+}
+
+
+c_phiti = {
+	10741.1.1 = {
+		holder = 189005
+	}
+	10866.1.1 = {
+		holder = 175010
+	}
+	
+	# Chola conquest
+	10993.1.1 = {
+		holder = 189038
+		liege = k_tamilakam
+	}
+	11014.1.1 = {
+		holder = 189039
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = 189041
+	}
+	11063.1.1 = {
+		holder = cholan_lankan_vassals_03
+	}
+	
+	# Sinhalese rebellion
+	11070.6.6 = {
+		holder = 189029
+		liege = d_ruhunu
+	}
+	11072.1.1 = {
+		liege = k_lanka
+	}
+	11110.1.1 = {
+		holder = 189031 # Jayabahu I
+	}
+	11111.1.1 = {
+		holder = 189030 # Vikramabahu I
+	}
+	11131.1.1 = {
+		holder = 217365 # Gajabahu II
+	}
+	11153.1.1 = {
+		holder = 217366 # Parakramabahu I 'The Great'
+	}
+	11186.1.1 = {
+		holder = 217375 # Vijayabahu II
+	}
+	11187.6.1 = {
+		holder = 217376 # Mahinda VI
+	}
+	11187.6.6 = {
+		holder = 217377 # Nissanka
+	}
+	11196.4.3 = {
+		holder = 217379 # Virabahu
+	}
+	11196.4.4 = {
+		holder = 217391 # Vikramabahu II
+	}
+	11196.7.1 = {
+		holder = 217380 # Chodaganga
+	}
+	11197.4.1 = {
+		holder = 217371 # Lilavati 1st time
+	}
+	11200.8.23 = {
+		holder = 217383 # Sahassamalla
+	}
+	11202.1.1 = {
+		holder = 217382 # Kalyanavati
+	}
+	11208.1.1 = {
+		holder = 217384 # Dharmasoka
+	}
+	11209.4.5 = {
+		holder = 217385 # Anikanga
+	}
+	11209.4.22 = {
+		holder = 217371 # Lilavati 2nd time
+	}
+	11210.1.1 = {
+		holder = 217390 # Lokissara
+	}
+	11210.10.1 = {
+		holder = 217371 # Lilavati 3rd time
+	}
+	# Pandyan conquest
+	11212.1.1 = {
+		holder = 189128
+		liege = d_sinhala
+	}
+	# Kingdom of Jaffna
+	11215.1.1 = {
+		holder = 189141
+	}
+	11236.1.1 = {
+		holder = 189142
+	}
+	11284.1.1 = {
+		holder = 189143
+	}
+	11292.1.1 = {
+		holder = 189144
+	}
+	11302.1.1 = {
+		holder = 189145
+	}
+	11325.1.1 = {
+		holder = 189146
+	}
+
+}
+
+
+c_kandy = { #Malaya
+	10741.1.1 = {
+		holder = 189005
+	}
+	10866.1.1 = {
+		holder = 175010
+	}
+	
+	# Chola conquest
+	10993.1.1 = {
+		holder = 189038
+		liege = k_tamilakam
+	}
+	11014.1.1 = {
+		holder = 189039
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = 189041
+	}
+	
+	# Sinhalese rebellion
+	11055.1.1 = {
+		holder = sinhalese_general_ravideva
+	}
+	11066.1.1 = {
+		liege = d_ruhunu
+	}
+	11072.1.1 = {
+		liege = k_lanka
+	}
+	11110.1.1 = {
+		holder = 189031 # Jayabahu I
+	}
+	11111.1.1 = {
+		holder = 189030 # Vikramabahu I
+	}
+	11131.1.1 = {
+		holder = 217365 # Gajabahu II
+	}
+	11153.1.1 = {
+		holder = 217366 # Parakramabahu I 'The Great'
+	}
+	11186.1.1 = {
+		holder = 217375 # Vijayabahu II
+	}
+	11187.6.1 = {
+		holder = 217376 # Mahinda VI
+	}
+	11187.6.6 = {
+		holder = 217377 # Nissanka
+	}
+	11196.4.3 = {
+		holder = 217379 # Virabahu
+	}
+	11196.4.4 = {
+		holder = 217391 # Vikramabahu II
+	}
+	11196.7.1 = {
+		holder = 217380 # Chodaganga
+	}
+	11197.4.1 = {
+		holder = 217371 # Lilavati 1st time
+	}
+	11200.8.23 = {
+		holder = 217383 # Sahassamalla
+	}
+	11202.1.1 = {
+		holder = 217382 # Kalyanavati
+	}
+	11208.1.1 = {
+		holder = 217384 # Dharmasoka
+	}
+	11209.4.5 = {
+		holder = 217385 # Anikanga
+	}
+	11209.4.22 = {
+		holder = 217371 # Lilavati 2nd time
+	}
+	11210.1.1 = {
+		holder = 217390 # Lokissara
+	}
+	11210.10.1 = {
+		holder = 217371 # Lilavati 3rd time
+	}
+	# Pandyan conquest
+	11212.1.1 = {
+		holder = 189128
+		liege = d_sinhala
+	}
+	# Kingdom of Jaffna
+	11215.1.1 = {
+		holder = 189141
+	}
+	11236.1.1 = {
+		holder = 189142
+	}
+	11284.1.1 = {
+		holder = 189143
+	}
+	11292.1.1 = {
+		holder = 189144
+	}
+	11302.1.1 = {
+		holder = 189145
+	}
+	11325.1.1 = {
+		holder = 189146
+	}
+}
+
+c_trincomalee = {
+	11178.1.1 = { change_development_level = 30 }
+
+	10741.1.1 = {
+		holder = 189005
+	}
+	10866.1.1 = {
+		holder = 175010
+	}
+	
+	# Chola conquest
+	10993.1.1 = {
+		holder = 189038
+		liege = k_tamilakam
+	}
+	11014.1.1 = {
+		holder = 189039
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = 189041
+	}
+	11063.1.1 = {
+		holder = 189042
+	}
+	11067.1.1 = {
+		holder = 189043
+	}
+	11070.1.1 = {
+		holder = 189108
+	}
+	
+	# Sinhalese rebellion
+	11070.6.6 = {
+		holder = 189029
+		liege = d_ruhunu
+	}
+	11072.1.1 = {
+		liege = k_lanka
+	}
+	11110.1.1 = {
+		holder = 189031 # Jayabahu I
+	}
+	11111.1.1 = {
+		holder = 189030 # Vikramabahu I
+	}
+	11131.1.1 = {
+		holder = 217365 # Gajabahu II
+	}
+	11153.1.1 = {
+		holder = 217366 # Parakramabahu I 'The Great'
+	}
+	11186.1.1 = {
+		holder = 217375 # Vijayabahu II
+	}
+	11187.6.1 = {
+		holder = 217376 # Mahinda VI
+	}
+	11187.6.6 = {
+		holder = 217377 # Nissanka
+	}
+	11196.4.3 = {
+		holder = 217379 # Virabahu
+	}
+	11196.4.4 = {
+		holder = 217391 # Vikramabahu II
+	}
+	11196.7.1 = {
+		holder = 217380 # Chodaganga
+	}
+	11197.4.1 = {
+		holder = 217371 # Lilavati 1st time
+	}
+	11200.8.23 = {
+		holder = 217383 # Sahassamalla
+	}
+	11202.1.1 = {
+		holder = 217382 # Kalyanavati
+	}
+	11208.1.1 = {
+		holder = 217384 # Dharmasoka
+	}
+	11209.4.5 = {
+		holder = 217385 # Anikanga
+	}
+	11209.4.22 = {
+		holder = 217371 # Lilavati 2nd time
+	}
+	11210.1.1 = {
+		holder = 217390 # Lokissara
+	}
+	11210.10.1 = {
+		holder = 217371 # Lilavati 3rd time
+	}
+	# Pandyan conquest
+	11212.1.1 = {
+		holder = 189128
+		liege = d_sinhala
+	}
+	# Kingdom of Jaffna
+	11215.1.1 = {
+		holder = 189141
+	}
+	11236.1.1 = {
+		holder = 189142
+	}
+	11284.1.1 = {
+		holder = 189143
+	}
+	11292.1.1 = {
+		holder = 189144
+	}
+	11302.1.1 = {
+		holder = 189145
+	}
+	11325.1.1 = {
+		holder = 189146
+	}
+
+}
+
+
+c_jaffna = {
+	10741.1.1 = {
+		holder = 189005
+	}
+	10866.1.1 = {
+		holder = 175010
+	}
+	
+	# Chola conquest
+	10993.1.1 = {
+		holder = 189038
+		liege = k_tamilakam
+	}
+	11014.1.1 = {
+		holder = 189039
+	}
+	11044.1.1 = {
+		holder = 189040
+	}
+	11054.1.1 = {
+		holder = 189041
+	}
+	11063.1.1 = {
+		holder = cholan_lankan_vassals_01
+	}
+	11070.1.1 = {
+		holder = 189108
+	}
+	
+	# Sinhalese rebellion
+	11070.6.6 = {
+		holder = 189029
+		liege = d_ruhunu
+	}
+	11072.1.1 = {
+		liege = k_lanka
+	}
+	11110.1.1 = {
+		holder = 189031 # Jayabahu I
+	}
+	11111.1.1 = {
+		holder = 189030 # Vikramabahu I
+	}
+	11131.1.1 = {
+		holder = 217365 # Gajabahu II
+	}
+	11153.1.1 = {
+		holder = 217366 # Parakramabahu I 'The Great'
+	}
+	11186.1.1 = {
+		holder = 217375 # Vijayabahu II
+	}
+	11187.6.1 = {
+		holder = 217376 # Mahinda VI
+	}
+	11187.6.6 = {
+		holder = 217377 # Nissanka
+	}
+	11196.4.3 = {
+		holder = 217379 # Virabahu
+	}
+	11196.4.4 = {
+		holder = 217391 # Vikramabahu II
+	}
+	11196.7.1 = {
+		holder = 217380 # Chodaganga
+	}
+	11197.4.1 = {
+		holder = 217371 # Lilavati 1st time
+	}
+	11200.8.23 = {
+		holder = 217383 # Sahassamalla
+	}
+	11202.1.1 = {
+		holder = 217382 # Kalyanavati
+	}
+	11208.1.1 = {
+		holder = 217384 # Dharmasoka
+	}
+	11209.4.5 = {
+		holder = 217385 # Anikanga
+	}
+	11209.4.22 = {
+		holder = 217371 # Lilavati 2nd time
+	}
+	11210.1.1 = {
+		holder = 217390 # Lokissara
+	}
+	11210.10.1 = {
+		holder = 217371 # Lilavati 3rd time
+	}
+	# Pandyan conquest
+	11212.1.1 = {
+		holder = 189128
+		liege = d_sinhala
+	}
+	# Kingdom of Jaffna
+	11215.1.1 = {
+		holder = 189141
+	}
+	11236.1.1 = {
+		holder = 189142
+	}
+	11284.1.1 = {
+		holder = 189143
+	}
+	11292.1.1 = {
+		holder = 189144
+	}
+	11302.1.1 = {
+		holder = 189145
+	}
+	11325.1.1 = {
+		holder = 189146
+	}
+
+}
+

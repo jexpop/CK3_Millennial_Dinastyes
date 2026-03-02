@@ -1,0 +1,1165 @@
+k_sindh = {
+	10867.1.1 = { change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10711.1.1 = {
+		liege = e_arabia
+	}
+	
+	# 711-747: Umayyad governors
+	# 747-768: Abbasid governors
+	
+	10768.1.1 = {
+		holder = 188533 # Hisham ibn 'Amr al-Taghlibi
+		liege = 0 # De facto
+	}
+	
+	# 768-854: Abbasid governors
+	
+	10854.1.1 = {
+		holder = 175050 # Umar I Habbari
+	}
+	10861.1.1 = {
+		liege = 0
+	}
+	10866.1.1 = {
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_language = language_arabic
+					if = {
+						limit = { NOT = { knows_court_language_of = this } }
+						learn_court_language_of = this
+					}
+				}
+			}
+		}
+	}
+	#10884.1.1 = {
+	#	holder =  # Abdullah
+	#}
+	#10913.1.1 = {
+	#	holder =  # Umar II
+	#}
+	#10943.1.1 = {
+	#	holder =  # Muhammad
+	#}
+	#10973.1.1 = {
+	#	holder =  # Ali
+	#}
+	#10987.1.1 = {
+	#	holder =  # Yahya-Manbi
+	#}
+	11011.1.1 = {
+		holder = 188349 # Khafif I
+	}
+	11026.1.1 = {
+		holder = 188350 # Soomra
+	}
+	11053.1.1 = {
+		holder = 188351 # Bhoongar I
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_language = language_arabic
+					if = {
+						limit = { NOT = { knows_court_language_of = this } }
+						learn_court_language_of = this
+					}
+				}
+			}
+		}
+	}
+	11068.1.1 = {
+		holder = 188352 # Doda I
+	}
+	11092.1.1 = {
+		holder = 188353 # Zainab Tari
+	}
+	11102.1.1 = {
+		holder = 188354 # Sanghar
+	}
+	11107.1.1 = {
+		holder = 188357 # Khafif II
+	}
+	11140.1.1 = {
+		holder = 188358 # Umar I
+	}
+	11180.1.1 = {
+		holder = 188359 # Doda II
+	}
+	11182.1.1 = {
+		holder = 144141 # Ghiyath Ghurid
+	}
+	11186.1.1 = {
+		holder = 144142 # Mu'izz
+		liege = e_rajastan
+	}
+	11203.1.1 = {
+		holder = 170300
+	}
+	11210.1.1 = {
+		liege = 0
+	}
+	11228.5.30 = {
+		holder = 188363 # Gunero I
+		liege = e_rajastan
+	}
+	# Possibly some dynastic fighting with a Chamesar, or may be the same person as Gunero
+	11242.1.1 = {
+		holder = 188364 # Muhammed-Tur
+	}
+	11256.1.1 = {
+		holder = 188365 # Gunero II
+	}
+	11259.1.1 = {
+		holder = 188366 # Doda III
+	}
+	11273.1.1 = {
+		holder = 188367 # Tai
+	}
+	11283.1.1 = {
+		holder = 188368 # Chanesar
+	}
+	11300.1.1 = {
+		holder = 188369 # Bhoongar III
+	}
+	11315.1.1 = {
+		holder = 188370 # Khafif III
+	}
+	11333.1.1 = {
+		holder = 188371 # Doda IV
+	}
+}
+
+d_sauvira = {
+	10867.1.1 = { change_development_level = 12 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+}
+
+c_debul = {
+	10768.1.1 = {
+		liege = k_sindh
+		holder = 188287 # Lakho Ghuraro Samma
+	}
+	10810.1.1 = {
+		holder = 188288 # Unad
+	}
+	10835.1.1 = {
+		holder = 188289 # Sampat
+	}
+	10860.1.1 = {
+		holder = 188290 # Kakru
+	}
+	10890.1.1 = {
+		holder = 188291 # Raydhanji
+	}
+	10920.1.1 = {
+		holder = 188292 # Samejaji
+	}
+	10950.1.1 = {
+		holder = 188293 # Sameja
+	}
+	10980.1.1 = {
+		holder = 188294 # Munda
+	}
+	11010.1.1 = {
+		holder = 188295 # Raukadi
+	}
+	11040.1.1 = {
+		holder = 188296 # Jahkra
+		liege = k_sindh
+	}
+	11070.1.1 = {
+		holder = 188297 # ?
+	}
+	11100.1.1 = {
+		holder = 188298 # ?
+	}
+	11120.1.1 = {
+		holder = 188299 # Jam Jada
+	}
+	11147.1.1 = {
+		holder = 188300 # Ghao
+	}
+	11175.1.1 = {
+		liege = 0
+		holder = 188279 # Ratto Rayadhan
+	}
+	11215.1.1 = {
+		holder = 188284 # Gajanji Jadeja
+	}
+	
+	11325.1.1 = {
+		liege = e_rajastan
+	}
+	11335.1.1 = {
+		liege = 0
+		# holder =  # Unar Samma
+	}
+}
+
+
+c_sonda = {
+	10768.1.1 = {
+		liege = k_sindh
+		holder = 188287 # Lakho Ghuraro Samma
+	}
+	10810.1.1 = {
+		holder = 188288 # Unad
+	}
+	10835.1.1 = {
+		holder = 188289 # Sampat
+	}
+	10860.1.1 = {
+		holder = 188290 # Kakru
+	}
+	10890.1.1 = {
+		holder = 188291 # Raydhanji
+	}
+	10920.1.1 = {
+		holder = 188292 # Samejaji
+	}
+	10950.1.1 = {
+		holder = 188293 # Sameja
+	}
+	10980.1.1 = {
+		holder = 188294 # Munda
+	}
+	11010.1.1 = {
+		holder = 188295 # Raukadi
+	}
+	11040.1.1 = {
+		holder = 188296 # Jahkra
+		liege = k_sindh
+	}
+	11070.1.1 = {
+		holder = 188297 # ?
+	}
+	11100.1.1 = {
+		holder = 188298 # ?
+	}
+	11120.1.1 = {
+		holder = 188299 # Jam Jada
+	}
+	11147.1.1 = {
+		holder = 188300 # Ghao
+	}
+	11175.1.1 = {
+		liege = 0
+		holder = 188279 # Ratto Rayadhan
+	}
+	11215.1.1 = {
+		holder = 188285 # Devandji
+	}
+	
+	
+	11325.1.1 = {
+		liege = e_rajastan
+	}
+}
+
+
+c_mansura = {
+	10711.1.1 = {
+		liege = k_sindh
+	}
+	
+	# 711-747: Umayyad governors
+	# 747-768: Abbasid governors
+	
+	10768.1.1 = {
+		holder = 188533 # Hisham ibn 'Amr al-Taghlibi
+	}
+	
+	# 768-854: Abbasid governors
+	
+	10841.1.1 = {
+		holder = 175050 # Umar I
+	}
+	10866.1.1 = {
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	#10884.1.1 = {
+	#	holder =  # Abdullah
+	#}
+	#10913.1.1 = {
+	#	holder =  # Umar II
+	#}
+	#10943.1.1 = {
+	#	holder =  # Muhammad
+	#}
+	#10973.1.1 = {
+	#	holder =  # Ali
+	#}
+	#10987.1.1 = {
+	#	holder =  # Yahya-Manbi
+	#}
+	11011.1.1 = {
+		holder = 188349 # Khafif I
+	}
+	11026.1.1 = {
+		holder = 188350 # Soomra
+	}
+	11053.1.1 = {
+		holder = 188351 # Bhoongar I
+	}
+	11068.1.1 = {
+		holder = 188352 # Doda I
+	}
+	11092.1.1 = {
+		holder = 188353 # Zainab Tari
+	}
+	11102.1.1 = {
+		holder = 188354 # Sanghar
+	}
+	11107.1.1 = {
+		holder = 188357 # Khafif II
+	}
+	11140.1.1 = {
+		holder = 188358 # Umar I
+	}
+	11180.1.1 = {
+		holder = 188359 # Doda II
+	}
+	11194.1.1 = {
+		holder = 188362 # Bhoongar II
+	}
+	11222.1.1 = {
+		holder = 188363 # Gunero I
+	}
+	# Possibly some dynastic fighting with a Chamesar, or may be the same person as Gunero
+	11242.1.1 = {
+		holder = 188159 #
+	}
+	11256.1.1 = {
+		holder = 188160 #
+	}
+	11259.1.1 = {
+		holder = 188161 #
+	}
+	11273.1.1 = {
+		holder = 188162 #
+	}
+	11283.1.1 = {
+		holder = 188368 # Chanesar
+	}
+	11300.1.1 = {
+		holder = 188369 # Bhoongar III
+	}
+	11315.1.1 = {
+		holder = 188370 # Khafif III
+	}
+	11333.1.1 = {
+		holder = 188371 # Doda IV
+	}
+}
+
+
+c_ranikot = {
+	10711.1.1 = {
+		liege = k_sindh
+	}
+	
+	# 711-747: Umayyad governors
+	# 747-768: Abbasid governors
+	
+	10768.1.1 = {
+		holder = 188533 # Hisham ibn 'Amr al-Taghlibi
+	}
+	
+	# 768-854: Abbasid governors
+	
+	10855.1.1 = {
+		holder = 175050
+	}
+	
+	10866.1.1 = {
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	11060.1.1 = {
+		holder = 188351
+	}
+	11107.1.1 = {
+		holder = 188357 # Khafif II
+	}
+	11140.1.1 = {
+		holder = 188358 # Umar I
+	}
+	11178.1.1 = {
+		holder = 188359 # Doda
+		liege = k_sindh
+	}
+	11182.1.1 = {
+		holder = 144142
+		liege = d_kabul
+	}
+	11186.1.1 = {
+		liege = k_sindh
+	}
+	11203.1.1 = {
+		holder = 170300
+	}
+	11220.1.1 = {
+		holder = 188362
+	}
+	11228.5.30 = {
+		holder = 170193 #Iltutmish
+		liege = e_rajastan
+	}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+c_siwistan = {
+	10711.1.1 = {
+		liege = k_sindh
+	}
+	
+	# 711-747: Umayyad governors
+	
+	10762.1.1 = {
+		holder = 188560
+	}
+	
+	# 747-854: Abbasid governors
+	
+	10855.1.1 = {
+		holder = 175050
+	}
+	10866.1.1 = {
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11060.1.1 = {
+		holder = 188351
+		liege = k_sindh
+	}
+	11107.1.1 = {
+		holder = 188357 # Khafif II
+	}
+	11140.1.1 = {
+		holder = 188358 # Umar I
+	}
+	11182.1.1 = {
+		holder = 144142
+		liege = d_kabul
+	}
+	11186.1.1 = {
+		liege = k_sindh
+	}
+	11203.1.1 = {
+		holder = 170300
+	}
+	11220.1.1 = {
+		holder = 188362
+	}
+	11228.5.30 = {
+		holder = 170193 #Iltutmish
+		liege = e_rajastan
+	}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+d_bhakkar = {
+	10860.1.1 = {
+		holder = 178012
+		liege = k_sindh
+	}
+	
+	10895.1.1 = {
+		holder = 0
+	}
+	11215.1.1 = {
+		holder = 194187
+	}
+	11225.1.1 = {
+		holder = 0
+	}
+
+}
+
+
+c_bhakkar = {
+	10711.1.1 = {
+		liege = k_sindh
+	}
+	
+	# 711-747: Umayyad governors
+	
+	10760.1.1 = {
+		holder = 188561
+	}
+	
+	# 747-854: Abbasid governors
+	
+	10860.1.1 = {
+		holder = 178012
+		liege = d_bhakkar
+	}
+	
+	10866.1.1 = {
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	#Taken from k_sindh
+	10895.1.1 = {
+		liege = k_sindh
+	}
+	
+	11011.1.1 = {
+		holder = 188349 # Khafif I
+	}
+	11026.1.1 = {
+		holder = 188350 # Soomra
+	}
+	11053.1.1 = {
+		holder = 188351 # Bhoongar I
+	}
+	11068.1.1 = {
+		holder = 188352 # Doda I
+	}
+	11092.1.1 = {
+		holder = 188353 # Zainab Tari
+	}
+	11107.1.1 = {
+		holder = 188357 # Khafif II
+	}
+	11140.1.1 = {
+		holder = 188358 # Umar I
+	}	
+	11178.1.1 = {
+		holder = 188359 # Doda
+		liege = k_sindh
+	}
+	11182.1.1 = {
+		holder = 144142
+		liege = d_kabul
+	}
+	11186.1.1 = {
+		liege = k_sindh
+	}
+	11203.1.1 = {
+		holder = 170300
+	}
+	11215.1.1 = {
+		holder = 194187
+	}
+	11228.5.30 = {
+		holder = 170193 #Iltutmish
+		liege = e_rajastan
+	}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+c_aror = {
+	10711.1.1 = {
+		liege = k_sindh
+	}
+	
+	# 711-747: Umayyad governors
+	
+	10759.1.1 = {
+		holder = 188558
+	}
+	
+	# 747-854: Abbasid governors
+	
+	10860.1.1 = {
+		holder = 178013
+	}
+	
+	10866.1.1 = {
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	## To be filled
+	#Taken from k_sindh
+	11011.1.1 = {
+		holder = 188349 # Khafif I
+	}
+	11026.1.1 = {
+		holder = 188350 # Soomra
+	}
+	11053.1.1 = {
+		holder = 188351 # Bhoongar I
+	}
+	11068.1.1 = {
+		holder = 188352 # Doda I
+	}
+	11092.1.1 = {
+		holder = 188353 # Zainab Tari
+	}
+	11107.1.1 = {
+		holder = 188357 # Khafif II
+	}
+	11140.1.1 = {
+		holder = 188358 # Umar I
+	}
+	11182.1.1 = {
+		holder = 144142
+		liege = d_kabul
+	}
+	11186.1.1 = {
+		liege = k_sindh
+	}
+	11203.1.1 = {
+		holder = 170300
+	}
+	11215.1.1 = {
+		holder = 194187
+	}
+	11228.5.30 = {
+		holder = 170193 #Iltutmish
+		liege = e_rajastan
+	}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+c_rajanpur = {
+	10711.1.1 = {
+		liege = k_sindh
+	}
+	
+	# 711-747: Umayyad governors
+	
+	10767.1.1 = {
+		holder = 188557
+	}
+	
+	# 747-854: Abbasid governors
+	
+	10860.1.1 = {
+		holder = 178015
+		liege = d_bhakkar
+	}
+	
+	10866.1.1 = {
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	# 985-1008: Soomra rule
+	
+	11008.4.1 = {
+		liege = k_kabulistan
+		# holder = Sukhpal, Ghaznavid governor
+	}
+	11035.1.1 = {
+		holder = ghaznavid_vassal_1
+	}
+	#History uncertain up until Ghurid conquest.
+	11140.1.1 = {
+		holder = 188358 # Umar I
+	}
+	11178.1.1 = {
+		holder = 188359 # Doda
+		liege = k_sindh
+	}
+	11182.1.1 = {
+		holder = 144142
+		liege = d_kabul
+	}
+	11186.1.1 = {
+		liege = k_sindh
+	}
+	11203.1.1 = {
+		holder = 170300
+	}
+	11215.1.1 = {
+		holder = 194187
+	}
+	11228.5.30 = {
+		holder = 170193 #Iltutmish
+		liege = e_rajastan
+	}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+c_vijnot = {
+	10711.1.1 = {
+		liege = k_sindh
+	}
+	
+	# 711-747: Umayyad governors
+	# 747-768: Abbasid governors
+	
+	10767.1.1 = {
+		holder = 188564
+	}
+	
+	# 768-854: Abbasid governors
+	
+	10860.1.1 = {
+		holder = 178014
+	}
+	
+	10866.1.1 = {
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	11044.1.1 = {
+		holder = 188336 #Dusaj
+		liege = d_stravani
+	}
+	11123.1.1 = {
+		holder = 188337 #Lanja
+	}
+	11068.1.1 = {
+		holder = 188352 # Doda I
+		liege = k_sindh
+	}
+	11092.1.1 = {
+		holder = 188353 # Zainab Tari
+	}
+	11102.1.1 = {
+		holder = 188354 # Sanghar
+	}
+	11107.1.1 = {
+		holder = 188357 # Khafif II
+	}
+	11140.1.1 = {
+		holder = 188358 # Umar I
+	}
+	11180.1.1 = {
+		holder = 188359 # Doda II
+	}
+	
+	## To be filled
+	
+	11182.1.1 = {
+		holder = 144142
+		liege = d_kabul
+	}
+	11186.1.1 = {
+		liege = k_sindh
+	}
+	11203.1.1 = {
+		holder = 170300
+	}
+	11220.1.1 = {
+		liege = d_stravani
+		holder = 188342
+	}
+	11228.5.30 = {
+		holder = 170193 #Iltutmish
+		liege = e_rajastan
+	}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+c_sibi = {
+	10711.1.1 = {
+		liege = k_sindh
+	}
+	
+	# 711-747: Umayyad governors
+	
+	10767.1.1 = {
+		holder = 188556
+	}
+	
+	# 747-854: Abbasid governors
+	
+	10860.1.1 = {
+		holder = 178015
+		liege = d_bhakkar
+	}
+	
+	10866.1.1 = {
+		government = clan_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	11059.1.1 = {
+		holder = 144133
+		liege = d_kabul
+	}
+	11066.1.1 = {
+		holder = 20690
+	}
+	11099.1.1 = {
+		holder = 144134
+	}
+	11178.1.1 = {
+		holder = sanjari_1 # Historical figure, placeholder
+	}
+	11186.1.1 = {
+		liege = k_sindh
+	}
+	11203.1.1 = {
+		holder = 170300
+	}
+	11215.1.1 = {
+		holder = 194187
+	}
+	11228.5.30 = {
+		holder = 170193 #Iltutmish
+		liege = e_rajastan
+	}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+

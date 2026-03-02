@@ -1,0 +1,394 @@
+﻿#Daju characters
+
+# rulers of Darfur c_el_fasher and c_dar_al-said
+daju0001 = {
+	name = "Eri" #fictional
+	dynasty = dajudyn001 #
+	religion = kushitism_pagan
+	culture = daju
+	10848.1.1 = {
+		birth = yes
+	}
+	10901.1.1 = {
+		death = yes
+	}
+}
+daju0002 = {
+	name = "Ederisu" #fictional
+	dynasty = dajudyn001
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0001
+	10865.1.1 = {
+		birth = yes
+	}
+	10928.1.1 = {
+		death = yes
+	}
+}
+daju0003 = {
+	name = "Meayge" #fictional
+	dynasty = dajudyn001
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0010
+	11023.1.1 = {
+		birth = yes
+	}
+	11080.1.1 = {
+		death = yes
+	}
+}
+daju0004 = {
+	name = "Meayge" #fictional
+	dynasty = dajudyn001
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0003
+	11050.1.1 = {
+		birth = yes
+	}
+	11104.1.1 = {
+		death = yes
+	}
+}
+daju0005 = {
+	name = "Maazu" #fictional
+	dynasty = dajudyn001
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0004
+	11083.1.1 = {
+		birth = yes
+	}
+	11139.1.1 = {
+		death = yes
+	}
+}
+daju0006 = {
+	name = "Meayge" #fictional
+	dynasty = dajudyn001
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0005
+	11109.1.1 = {
+		birth = yes
+	}
+	11172.1.1 = {
+		death = yes
+	}
+}
+daju0007 = {
+	name = "Eri" #fictional
+	dynasty = dajudyn001
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0006
+	11138.1.1 = {
+		birth = yes
+	}
+	11196.1.1 = {
+		death = yes
+	}
+}
+daju0008 = {
+	name = "Meayge" #fictional
+	dynasty = dajudyn001
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0007
+	11171.1.1 = {
+		birth = yes
+	}
+	11227.1.1 = {
+		death = yes
+	}
+}
+daju0009 = {
+	name = "Zagula" #fictional
+	dynasty = dajudyn001
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0002
+	10916.1.1 = {
+		birth = yes
+	}
+	10996.1.1 = {
+		death = yes
+	}
+}
+daju0010 = {
+	name = "Meayge" #fictional
+	dynasty = dajudyn001
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0009
+	10975.1.1 = {
+		birth = yes
+	}
+	11040.1.1 = {
+		death = yes
+	}
+}
+
+#rulers in c_west_kordofan and c_east_darfur
+daju0011 = {
+	name = "Dahab" #fictional
+	dynasty = dajudyn002
+	religion = kushitism_pagan
+	culture = daju
+	10830.1.1 = {
+		birth = yes
+	}
+	10880.1.1 = {
+		death = yes
+	}
+}
+daju0012 = {
+	name = "Bakhit" #fictional
+	dynasty = dajudyn002
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0011
+	10865.1.1 = {
+		birth = yes
+	}
+	10930.1.1 = {
+		death = yes
+	}
+}
+daju0013 = {
+	name = "Rong" #fictional
+	dynasty = dajudyn002
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0012
+	10910.1.1 = {
+		birth = yes
+	}
+	10983.1.1 = {
+		death = yes
+	}
+}
+daju0014 = {
+	name = "Dahab" #fictional
+	dynasty = dajudyn002
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0013
+	10960.1.1 = {
+		birth = yes
+	}
+	11035.1.1 = {
+		death = yes
+	}
+}
+daju0015 = {
+	name = "Rong" #fictional
+	dynasty = dajudyn002
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0014
+	11018.1.1 = {
+		birth = yes
+	}
+	11075.1.1 = {
+		death = yes
+	}
+}
+daju0016 = {
+	name = "Bakhit" #fictional
+	dynasty = dajudyn002
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0015
+	11058.1.1 = {
+		birth = yes
+	}
+	11115.1.1 = {
+		death = yes
+	}
+}
+daju0017 = {
+	name = "Dahab" #fictional
+	dynasty = dajudyn002
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0016
+	11095.1.1 = {
+		birth = yes
+	}
+	11149.1.1 = {
+		death = yes
+	}
+}
+daju0018 = {
+	name = "Meayge" #fictional
+	dynasty = dajudyn002
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0017
+	11132.1.1 = {
+		birth = yes
+	}
+	11195.1.1 = {
+		death = yes
+	}
+}
+daju0019 = {
+	name = "Dahab" #fictional
+	dynasty = dajudyn002
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0018
+	11177.1.1 = {
+		birth = yes
+	}
+	11230.1.1 = {
+		death = yes
+	}
+}
+daju0020 = {
+	name = "Bakhit" #fictional
+	dynasty = dajudyn002
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0019
+	11210.1.1 = {
+		birth = yes
+	}
+	11264.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers for c_kordofan and c_south_kordofan
+daju0021 = {
+	name = "Bolad" #fictional
+	dynasty = dajudyn003
+	religion = kushitism_pagan
+	culture = daju
+	10845.1.1 = {
+		birth = yes
+	}
+	10897.1.1 = {
+		death = yes
+	}
+}
+daju0022 = {
+	name = "Murtin" #fictional
+	dynasty = dajudyn003
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0021
+	10865.1.1 = {
+		birth = yes
+	}
+	10933.1.1 = {
+		death = yes
+	}
+}
+daju0023 = {
+	name = "Gelgel" #fictional
+	dynasty = dajudyn003
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0022
+	10908.1.1 = {
+		birth = yes
+	}
+	10978.1.1 = {
+		death = yes
+	}
+}
+daju0024 = {
+	name = "Bolad" #fictional
+	dynasty = dajudyn003
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0023
+	10950.1.1 = {
+		birth = yes
+	}
+	11030.1.1 = {
+		death = yes
+	}
+}
+daju0025 = {
+	name = "Gelgel" #fictional
+	dynasty = dajudyn003
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0024
+	11012.1.1 = {
+		birth = yes
+	}
+	11070.1.1 = {
+		death = yes
+	}
+}
+daju0026 = {
+	name = "Ibedou" #fictional
+	dynasty = dajudyn003
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0025
+	11050.1.1 = {
+		birth = yes
+	}
+	11116.1.1 = {
+		death = yes
+	}
+}
+daju0027 = {
+	name = "Bolad" #fictional
+	dynasty = dajudyn003
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0026
+	11088.1.1 = {
+		birth = yes
+	}
+	11145.1.1 = {
+		death = yes
+	}
+}
+daju0028 = {
+	name = "Murtin" #fictional
+	dynasty = dajudyn003
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0027
+	11125.1.1 = {
+		birth = yes
+	}
+	11183.1.1 = {
+		death = yes
+	}
+}
+daju0029 = {
+	name = "Murtin" #fictional
+	dynasty = dajudyn003
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0028
+	11166.1.1 = {
+		birth = yes
+	}
+	11217.1.1 = {
+		death = yes
+	}
+}
+daju0030 = {
+	name = "Gelgel" #fictional
+	dynasty = dajudyn003
+	religion = kushitism_pagan
+	culture = daju
+	father = daju0029
+	11199.1.1 = {
+		birth = yes
+	}
+	11263.1.1 = {
+		death = yes
+	}
+}

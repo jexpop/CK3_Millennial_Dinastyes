@@ -1,0 +1,7904 @@
+k_east_francia = {
+	10867.1.1 = { change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10769.1.1 = {
+		name = EAST_FRANCIA
+	}
+	10771.12.4 = {
+		holder = 6392 #Charlemagne
+	}
+	10814.1.28 = {
+		holder = 90095 #Louis I 'the Pious'
+	}
+	10843.8.11 = {
+		holder = 90107 #Ludwig 'the German'
+	}
+	10867.1.1 = {
+		de_jure_liege = e_germany
+	}
+	10876.8.28 = {
+		holder = 90105 #Charles 'the Fat'
+	}
+	10887.11.30 = {
+		holder = 7945 #Arnulf of Carinthia
+	}
+	10900.1.21 = {
+		holder = 7949 #Ludwig 'the Child'
+	}
+	10911.9.24 = {
+		holder = 7952 #Konrad I
+	}
+	10918.12.23 = {
+		holder = 1280 #Heinrich I
+		name = GERMANY
+		effect = {
+			set_global_variable = {
+				name = east_francia_renamed
+				value = yes
+			}
+		}
+	}
+	10936.7.2 = {
+		holder = 1282 #Otto I
+	}
+	10962.2.2 = {
+		de_jure_liege = e_hre
+	}
+	10973.5.7 = {
+		holder = 1286 #Otto II
+	}
+	10983.12.7 = {
+		holder = 1288 #Otto III
+	}
+	11002.1.12 = {
+		holder = 1296 #Heinrich II
+	}
+	11024.7.13 = {
+		holder = 0 #Subsumed into HRE
+	}
+	#11024.7.13 = {
+	#	holder = 1312 #Konrad II
+	#	liege = "e_hre"
+	#	succession_laws = { feudal_elective_succession_law }
+	#}
+	#11039.6.4 = {
+	#	holder = 1314 #Heinrich III
+	#}
+	#11056.5.10 = {	
+	#	holder = 1316 #Heinrich IV
+	#}
+	#11106.7.8 = {
+	#	holder = 7901 #Heinrich V
+	#}
+	#11125.8.24 = {
+	#	holder = 30219 #Lothar III von Supplingburg
+	#}
+	#11152.2.15 = {
+	#	holder = 212501 #Friedrich I von Hohenstaufen
+	#}
+	#11190.6.10 = {
+	#	holder = 212507 #Heinrich VI von Hohenstaufen
+	#}
+	#11197.9.28 = {
+	#	holder = 212506 #Philip I von Hohenstaufen
+	#}
+	#11208.8.21 = {
+	#	holder = 212607 #Otto IV Welf
+	#}
+	#11212.12.5 = {
+	#	holder = 212513 #Friedrich II von Hohenstaufen
+	#}
+	#11250.12.13 = {
+	#	holder = 30760 #Konrad IV von Hohenstaufen
+	#}
+	#11254.5.21 = {
+	#	holder = 94003 #Willem Gerulfing (van Holland)
+	#}
+	#11256.1.28 = {
+	#	holder = 232682 #Richard of Cornwall (Plantagenet)
+	#}
+	#11272.4.2 = {
+	#	holder = 462021 #Rudolf I von Habsburg
+	#}
+	#11291.7.15 = {
+	#	holder = 462360 #Adolf von Nassau
+	#}
+	#11298.6.23 = {
+	#	holder = 462023 #Albrecht I von Habsburg
+	#}
+	#11308.5.1 = {
+	#	holder = 462611 #Heinrich VII von Luxemburg
+	#}
+	#11313.8.24 = {
+	#	holder = 462740 #Ludwig III von Wittelsbach
+	#}
+}
+
+
+d_west_franconia = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 11 }
+	11178.1.1 = { change_development_level = 15 }
+	
+	10100.1.1 = {
+		liege = k_east_francia
+	}
+	10637.1.1 = {
+		liege = k_east_francia
+	}
+	10637.1.1 = {
+		holder = 190388 #Hruodis
+	}
+	10651.1.1 = {
+		holder = 190389 #Hetan
+	}
+	10677.1.1 = {
+		holder = 190390 #Gozbert
+	}
+	10697.1.1 = {
+		holder = 190391 #Hetan
+	}
+	10733.1.1 = {
+		holder = 190392 #Thuringus
+	}
+	10769.1.1 = {
+		liege = k_france
+	}
+	10770.1.1 = {
+		holder = 190393 #Ado
+	}
+	10805.1.1 = {
+		holder = 0
+	}
+	10865.1.1 = {
+		holder = 42019 #Ludwig II
+		liege = k_east_francia
+	}
+	10906.1.1 = {
+		holder = 7952
+	}
+	10918.12.23 = {
+		holder = 7953
+	}
+	10939.1.1 = {
+		holder = 1306
+	}
+	10955.8.10 = {
+		holder = 1308
+	}
+	11004.11.30 = {
+		holder = 1312
+	}
+	11024.7.13 = {
+		liege = e_hre
+	}
+	11039.6.4 = {
+		holder = 1314
+	}
+	11056.5.10 = {	
+		holder = 1316
+	}
+	11152.2.15 = {
+		holder = 7535
+	}
+	11153.1.1 = {
+		holder = 7536
+	}
+	11160.6.24 = {
+		holder = 7537
+	}
+	11161.6.20 = {
+		holder = 7557
+	}
+	11165.1.1 = {
+		holder = 7537
+	}
+	11183.8.23 = {
+		holder = 7557
+	}
+	11200.10.25 = {
+		holder = 7542
+	}
+	11230.9.9 = {
+		holder = 7543
+	}
+	11249.5.9 = {
+		holder = 7544
+	}
+	11251.1.1 = {
+		holder = 7545
+	}
+	11259.1.1 = {
+		holder = 7547
+	}
+	11284.4.2 = {
+		holder = 7548
+	}
+	11288.1.1 = {
+		holder = 7551
+	}
+	11305.2.25 = {
+		holder = 7555
+	}
+	11320.6.5 = {
+		holder = 7556
+	}
+	11328.6.9 = {
+		holder = 487017
+	}
+
+}
+
+
+c_mainz = {
+	10867.1.1 = { change_development_level = 10 }
+	11066.1.1 = { change_development_level = 16 }
+	11178.1.1 = { change_development_level = 29 }
+	
+	10754.1.1 = {
+		liege = k_france
+	}
+	10754.1.1 = {
+		holder = 190565 #Lullus
+	}
+	10856.2.4 = {
+		liege = k_east_francia
+		holder = 90098
+	}
+	10863.6.4 = {
+		government = theocracy_government
+		holder = 168593
+	}
+	10865.1.1 = {
+		liege = d_west_franconia
+	}
+	10937.1.1 = {
+		holder = 163046
+	}
+	10954.10.1 = {
+		holder = 163047
+	}
+	11051.6.11 = {
+		holder = 163048
+	}
+	11059.1.1 = {
+		liege = "d_west_franconia"
+	}
+	11059.1.1 = {
+		holder = 20256
+	}
+	11084.2.16 = {
+		holder = 7530
+	}
+	11088.1.1 = {
+		holder = 7531
+	}
+	11109.1.1 = {
+		holder = 7532
+	}
+	11137.1.1 = {
+		holder = 7533
+	}
+	11141.1.1 = {
+		holder = 7534
+	}
+	11142.1.1 = {
+		holder = 7535
+	}
+	11153.1.1 = {
+		holder = 7536
+	}
+	11160.6.24 = {
+		holder = 7537
+	}
+	11161.6.20 = {
+		holder = 7557
+	}
+	11165.1.1 = {
+		holder = 7537
+	}
+	11183.8.23 = {
+		holder = 7557
+	}
+	11200.10.25 = {
+		holder = 7542
+	}
+	11230.9.9 = {
+		holder = 7543
+	}
+	11249.5.9 = {
+		holder = 7544
+	}
+	11251.1.1 = {
+		holder = 7545
+	}
+	11259.1.1 = {
+		holder = 7547
+	}
+	11284.4.2 = {
+		holder = 7548
+	}
+	11288.1.1 = {
+		holder = 7551
+	}
+	11305.2.25 = {
+		holder = 7555
+	}
+	11320.6.5 = {
+		holder = 7556
+	}
+	11328.6.9 = {
+		holder = 487017
+	}
+
+}
+
+
+b_katzenelnbogen = {
+	11097.1.1 = {
+		holder = 33252
+	}
+	11108.1.1 = {
+		holder = 33253
+	}
+	11160.1.1 = {
+		holder = 33254
+	}
+	11179.1.1 = {
+		holder = 33255
+	}
+	11219.1.1 = {
+		holder = 33256
+	}
+	11245.1.1 = {
+		holder = 33257
+	}
+	11276.1.1 = {
+		holder = 33258
+	}
+	11331.1.1 = {
+		holder = 33259
+	}
+}
+
+
+c_frankfurt = {
+	10754.1.1 = {
+		liege = k_france
+	}
+	10754.1.1 = {
+		holder = 190565 #Lullus
+	}
+	10856.2.4 = {
+		liege = k_east_francia
+		holder = 90098
+	}
+	10863.6.4 = {
+		government = theocracy_government
+		holder = 168593
+	}
+	10865.1.1 = {
+		liege = d_west_franconia
+	}
+	10937.1.1 = {
+		holder = 163046
+	}
+	10954.10.1 = {
+		holder = 163047
+	}
+	11051.6.11 = {
+		holder = 163048
+	}
+	11059.1.1 = {
+		liege = "d_west_franconia"
+	}
+	11059.1.1 = {
+		holder = 20256
+	}
+	11066.1.1 = {
+		holder = 30205
+	}
+	11106.7.8 = {
+		holder = 7901 #Heinrich V Salier
+	}
+	11125.5.23 = {
+		holder = 30719 #Ruprecht von Nassau
+	}
+	11125.8.24 = {
+		liege = "e_hre"
+	}
+	11154.5.13 = {
+		holder = 30717 #Ruprecht von Nassau
+	}
+	11159.4.1 = {
+		holder = 212370 #Walram von Nassau
+	}
+	11197.7.5 = {
+		holder = 212372 #Heinrich II von Nassau
+	}
+	11220.1.1 = {
+		liege = d_thuringia
+	}
+	11251.1.25 = {
+		holder = 30700 #Walram II von Nassau
+	liege = e_hre
+	}
+	
+	11276.1.24 = {
+		holder = 462360 #Adolf von Nassau
+	}
+	11298.6.23 = {
+		holder = 462362 #Gerlach von Nassau
+	}
+
+}
+
+b_limburg = {
+	11065.1.1 = {
+		holder = 33137 # Walram I of Limburg
+	}
+	11125.5.23 = {
+		holder = 30719 #Ruprecht von Nassau
+	}
+	11154.5.13 = {
+		holder = 30717 #Ruprecht von Nassau
+	}
+	11159.4.1 = {
+		holder = 212370 #Walram von Nassau
+	}
+}
+
+c_klingenberg = {
+	10598.1.1 = {
+		liege = d_west_franconia
+	}
+	10598.1.1 = {
+		holder = 190401 #Chrodbert I
+	}
+	10621.1.1 = {
+		holder = 190402 #Lambert I
+	}
+	10643.1.1 = {
+		holder = 190403 #Chrodbert II
+	}
+	10676.1.1 = {
+		holder = 190404 #Lambert II
+	}
+	10729.1.1 = {
+		holder = 91000 #Robert I
+	}
+	10760.1.1 = {
+		holder = 33327 #Cancor I
+	}
+	10771.1.1 = {
+		holder = 91003 #Thuringbert
+	}
+	10774.1.1 = {
+		holder = 91004 #Robert II
+	}
+	10810.1.1 = {
+		holder = 91005 #Robert III
+	}
+	10834.1.1 = {
+		holder = 190411 #Guntrum
+	}
+	10855.8.23 = {
+		holder = 144998 #Lothair II
+	}
+	10867.1.1 = {
+		holder = 42019 # Ludwig the Younger
+	}
+	10869.8.8 = {
+		holder = 90104 #Charles I the Bald
+	}
+	10877.1.20 = {
+		holder = 42019 #Louis I the Younger
+	}
+	10882.1.20 = {
+		holder = 90105 #Charles II the Fat
+	}
+	10888.1.1 = {
+		holder = 7945 #Arnulf of Carinthia
+	}
+	10895.1.1 = {
+		holder = 144997 #Zwentibold
+	}
+	10900.8.13 = {
+		holder = 7949 #Louis III the Child
+	}
+	10911.9.20 = {
+		holder = 90111 #Charles III the Simple
+	}
+	10923.1.1 = {
+		liege = "d_upper_lorraine"
+	}
+	10923.1.1 = {
+		holder = 7813
+	}
+	10939.10.2 = {
+		holder = 1292
+	}
+	10940.1.1 = {
+		holder = 144993
+	}
+	10944.1.1 = {
+		holder = 1306
+	}
+	10945.1.1 = {
+		holder = 20212
+	}
+	11015.1.1 = {
+		holder = 20208
+	}
+	11034.1.1 = {
+		holder = 20206
+	}
+	11045.1.1 = {
+		holder = 20216
+	}
+	11060.1.1 = {
+		holder = 41721
+	}
+	11066.1.1 = {
+		holder = 1316
+	}
+	11085.9.20 = {
+		holder = 7586
+	}
+	11095.4.27 = {
+		holder = 7587
+	}
+	11113.9.3 = {
+		holder = 7592
+	}
+	11131.2.6 = {
+		holder = 7588
+	}
+	11140.2.13 = {
+		holder = 212540
+	}
+	11141.10.18 = {
+		holder = 7599
+	}
+	11156.10.2 = {
+		holder = 212490
+	}
+	11171.8.11 = {
+		holder = 206800 # Gerard, Count of Loon, as count of Rieneck
+		liege = e_hre
+	}
+	11195.11.8 = {
+		holder = 212605
+	}
+	11212.1.1 = {
+		holder = 7401
+	}
+	11214.4.25 = {
+		holder = 212950
+	}
+	11231.9.15 = {
+		holder = 462756
+	}
+	11253.11.29 = {
+		holder = 462750
+	}
+	11294.2.2 = {
+		holder = 462736
+	}
+	11317.1.1 = {
+		liege = "e_hre"
+	}
+	11317.1.1 = {
+		holder = 462740
+	}
+	11323.8.1 = {
+		holder = 462749
+	}
+
+}
+
+
+c_erbach = {
+	10754.1.1 = {
+		liege = k_france
+	}
+	10754.1.1 = {
+		holder = 190565 #Lullus
+	}
+	10856.2.4 = {
+		liege = k_east_francia
+		holder = 90098
+	}
+	10863.6.4 = {
+		government = theocracy_government
+		holder = 168593
+	}
+	10865.1.1 = {
+		liege = d_west_franconia
+	}
+	10937.1.1 = {
+		holder = 163046
+	}
+	10954.10.1 = {
+		holder = 163047
+	}
+	11051.6.11 = {
+		holder = 163048
+	}
+	11059.1.1 = {
+		liege = "d_west_franconia"
+	}
+	11059.1.1 = {
+		holder = 20256
+	}
+	11066.1.1 = {
+		holder = 167537
+	}
+	11106.7.8 = {
+		holder = 7901 #Heinrich V Salier
+	}
+	11125.5.23 = {
+		holder = 30719 #Ruprecht von Nassau
+	}
+	11125.8.24 = {
+		liege = "e_hre"
+	}
+	11154.5.13 = {
+		holder = 30717 #Ruprecht von Nassau
+	}
+	11156.1.1 = {
+		holder = 212490 # Konrad von Hohenstaufen
+		government = feudal_government
+	}
+	11197.7.5 = {
+		holder = 212372 #Heinrich II von Nassau
+	}
+	11220.1.1 = {
+		liege = d_thuringia
+	}
+	11251.1.25 = {
+		holder = 30700 #Walram II von Nassau
+	liege = e_hre
+	}
+	
+	11276.1.24 = {
+		holder = 462360 #Adolf von Nassau
+	}
+	11298.6.23 = {
+		holder = 462362 #Gerlach von Nassau
+	}
+
+}
+
+
+c_worms = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 30 }
+	
+	10598.1.1 = {
+		liege = d_west_franconia
+	}
+	10598.1.1 = {
+		holder = 190401 #Chrodbert I
+	}
+	10621.1.1 = {
+		holder = 190402 #Lambert I
+	}
+	10643.1.1 = {
+		holder = 190403 #Chrodbert II
+	}
+	10676.1.1 = {
+		holder = 190404 #Lambert II
+	}
+	10729.1.1 = {
+		holder = 91000 #Robert I
+	}
+	10760.1.1 = {
+		holder = 33327 #Cancor I
+	}
+	10771.1.1 = {
+		holder = 91003 #Thuringbert
+	}
+	10774.1.1 = {
+		holder = 91004 #Robert II
+	}
+	10810.1.1 = {
+		holder = 91005 #Robert III
+	}
+	10834.1.1 = {
+		holder = 190411 #Guntrum
+	}
+	10855.8.23 = {
+		holder = 144998 #Lothair II
+	}
+	10867.1.1 = {
+		holder = 161555 #Werner Salian
+	}
+	10869.8.8 = {
+		holder = 90104 #Charles I the Bald
+	}
+	10877.1.20 = {
+		holder = 42019 #Louis I the Younger
+	}
+	10882.1.20 = {
+		holder = 90105 #Charles II the Fat
+	}
+	10888.1.1 = {
+		holder = 7945 #Arnulf of Carinthia
+	}
+	10895.1.1 = {
+		holder = 144997 #Zwentibold
+	}
+	10900.8.13 = {
+		holder = 7949 #Louis III the Child
+	}
+	10911.9.20 = {
+		holder = 90111 #Charles III the Simple
+	}
+	10923.1.1 = {
+		liege = "d_upper_lorraine"
+	}
+	10923.1.1 = {
+		holder = 7813
+	}
+	10939.10.2 = {
+		holder = 1292
+	}
+	10940.1.1 = {
+		holder = 144993
+	}
+	10944.1.1 = {
+		holder = 1306
+	}
+	10945.1.1 = {
+		holder = 20212
+	}
+	11015.1.1 = {
+		holder = 20208
+	}
+	11034.1.1 = {
+		holder = 20206
+	}
+	11045.1.1 = {
+		holder = 20216
+	}
+	11060.1.1 = {
+		holder = 20217
+	}
+	11066.1.1 = {
+		holder = 33134
+	}
+	11085.9.20 = {
+		holder = 7586
+	}
+	11095.4.27 = {
+		holder = 7587
+	}
+	11113.9.3 = {
+		holder = 7592
+	}
+	11131.2.6 = {
+		holder = 7588
+	}
+	11140.2.13 = {
+		holder = 212540
+	}
+	11141.10.18 = {
+		holder = 7599
+	}
+	11156.10.2 = {
+		holder = 212490
+	}
+	11171.4.13 = {
+		holder = sternberg_1 # Konrad von Sternberg
+		government = theocracy_government
+		liege = e_hre
+	}
+	11195.11.8 = {
+		holder = 212605
+	}
+	11212.1.1 = {
+		holder = 7401
+	}
+	11214.4.25 = {
+		holder = 212950
+	}
+	11231.9.15 = {
+		holder = 462756
+	}
+	11253.11.29 = {
+		holder = 462750
+	}
+	11294.2.2 = {
+		holder = 462736
+	}
+	11317.1.1 = {
+		liege = "e_hre"
+	}
+	11317.1.1 = {
+		holder = 462740
+	}
+	11323.8.1 = {
+		holder = 462749
+	}
+
+}
+
+
+c_speyer = {
+	10867.1.1 = { change_development_level = 9 }
+	11066.1.1 = { change_development_level = 13 }
+	11178.1.1 = { change_development_level = 31 }
+	
+	10598.1.1 = {
+		liege = d_west_franconia
+	}
+	10598.1.1 = {
+		holder = 190401 #Chrodbert I
+	}
+	10621.1.1 = {
+		holder = 190402 #Lambert I
+	}
+	10643.1.1 = {
+		holder = 190403 #Chrodbert II
+	}
+	10676.1.1 = {
+		holder = 190404 #Lambert II
+	}
+	10729.1.1 = {
+		holder = 91000 #Robert I
+	}
+	10760.1.1 = {
+		holder = 33327 #Cancor I
+	}
+	10771.1.1 = {
+		holder = 91003 #Thuringbert
+	}
+	10774.1.1 = {
+		holder = 91004 #Robert II
+	}
+	10810.1.1 = {
+		holder = 91005 #Robert III
+	}
+	10834.1.1 = {
+		holder = 190411 #Guntrum
+	}
+	10855.8.23 = {
+		holder = 144998 #Lothair II
+	}
+	10867.1.1 = {
+		holder = 161555 #Werner Salian
+	}
+	10869.8.8 = {
+		holder = 90104 #Charles I the Bald
+	}
+	10877.1.20 = {
+		holder = 42019 #Louis I the Younger
+	}
+	10882.1.20 = {
+		holder = 90105 #Charles II the Fat
+	}
+	10888.1.1 = {
+		holder = 7945 #Arnulf of Carinthia
+	}
+	10895.1.1 = {
+		holder = 144997 #Zwentibold
+	}
+	10900.8.13 = {
+		holder = 7949 #Louis III the Child
+	}
+	10911.9.20 = {
+		holder = 90111 #Charles III the Simple
+	}
+	10923.1.1 = {
+		liege = "d_upper_lorraine"
+	}
+	10923.1.1 = {
+		holder = 7813
+	}
+	10939.10.2 = {
+		holder = 1292
+	}
+	10940.1.1 = {
+		holder = 144993
+	}
+	10944.1.1 = {
+		holder = 1306
+	}
+	10945.1.1 = {
+		holder = 20212
+	}
+	11015.1.1 = {
+		holder = 20208
+	}
+	11034.1.1 = {
+		holder = 20206
+	}
+	11045.1.1 = {
+		holder = 20216
+	}
+	11060.1.1 = {
+		holder = 20217
+	}
+	11066.1.1 = {
+		holder = 33134
+	}
+	11085.9.20 = {
+		holder = 7586
+	}
+	11095.4.27 = {
+		holder = 7587
+	}
+	11113.9.3 = {
+		holder = 7592
+	}
+	11131.2.6 = {
+		holder = 7588
+	}
+	11140.2.13 = {
+		holder = 212540
+	}
+	11141.10.18 = {
+		holder = 7599
+	}
+	11156.10.2 = {
+		holder = 212490
+	}
+	11178.1.1 = {
+		holder = rechberg_1 # Ulrich von Rechberg, bishop of Speyer
+		government = theocracy_government
+		liege = e_hre
+	}
+	11195.11.8 = {
+		holder = 212605
+	}
+	11212.1.1 = {
+		holder = 7401
+	}
+	11214.4.25 = {
+		holder = 212950
+	}
+	11231.9.15 = {
+		holder = 462756
+	}
+	11253.11.29 = {
+		holder = 462750
+	}
+	11294.2.2 = {
+		holder = 462736
+	}
+	11317.1.1 = {
+		liege = "e_hre"
+	}
+	11317.1.1 = {
+		holder = 462740
+	}
+	11323.8.1 = {
+		holder = 462749
+	}
+
+}
+
+
+c_vaihingen = {
+	10598.1.1 = {
+		liege = d_west_franconia
+	}
+	10598.1.1 = {
+		holder = 190401 #Chrodbert I
+	}
+	10621.1.1 = {
+		holder = 190402 #Lambert I
+	}
+	10643.1.1 = {
+		holder = 190403 #Chrodbert II
+	}
+	10676.1.1 = {
+		holder = 190404 #Lambert II
+	}
+	10729.1.1 = {
+		holder = 91000 #Robert I
+	}
+	10760.1.1 = {
+		holder = 33327 #Cancor I
+	}
+	10771.1.1 = {
+		holder = 91003 #Thuringbert
+	}
+	10774.1.1 = {
+		holder = 91004 #Robert II
+	}
+	10810.1.1 = {
+		holder = 91005 #Robert III
+	}
+	10834.1.1 = {
+		holder = 190411 #Guntrum
+	}
+	10855.8.23 = {
+		holder = 144998 #Lothair II
+	}
+	10867.1.1 = {
+		holder = 161555 #Werner Salian
+	}
+	10869.8.8 = {
+		holder = 90104 #Charles I the Bald
+	}
+	10877.1.20 = {
+		holder = 42019 #Louis I the Younger
+	}
+	10882.1.20 = {
+		holder = 90105 #Charles II the Fat
+	}
+	10888.1.1 = {
+		holder = 7945 #Arnulf of Carinthia
+	}
+	10895.1.1 = {
+		holder = 144997 #Zwentibold
+	}
+	10900.8.13 = {
+		holder = 7949 #Louis III the Child
+	}
+	10911.9.20 = {
+		holder = 90111 #Charles III the Simple
+	}
+	10923.1.1 = {
+		liege = "d_upper_lorraine"
+	}
+	10923.1.1 = {
+		holder = 7813
+	}
+	10939.10.2 = {
+		holder = 1292
+	}
+	10940.1.1 = {
+		holder = 144993
+	}
+	10944.1.1 = {
+		holder = 1306
+	}
+	10945.1.1 = {
+		holder = 20212
+	}
+	11015.1.1 = {
+		holder = 20208
+	}
+	11034.1.1 = {
+		holder = 20206
+	}
+	11045.1.1 = {
+		holder = 20216
+	}
+	11060.1.1 = {
+		holder = 6642 # Gerhard of Upper Lorraine
+	}
+	11085.9.20 = {
+		holder = 7586
+	}
+	11095.4.27 = {
+		holder = 7587
+	}
+	11113.9.3 = {
+		holder = 7592
+	}
+	11131.2.6 = {
+		holder = 7588
+	}
+	11140.2.13 = {
+		holder = 212540
+	}
+	11141.10.18 = {
+		holder = 7599
+	}
+	11156.10.2 = {
+		holder = 212490
+	}
+	11178.1.1 = {
+		holder = vaihingen_1 # Egino von Vaihingen
+		liege = e_hre
+	}
+	11195.11.8 = {
+		holder = 212605
+	}
+	11212.1.1 = {
+		holder = 7401
+	}
+	11214.4.25 = {
+		holder = 212950
+	}
+	11231.9.15 = {
+		holder = 462756
+	}
+	11253.11.29 = {
+		holder = 462750
+	}
+	11294.2.2 = {
+		holder = 462736
+	}
+	11317.1.1 = {
+		liege = "e_hre"
+	}
+	11317.1.1 = {
+		holder = 462740
+	}
+	11323.8.1 = {
+		holder = 462749
+	}
+
+}
+
+
+c_durne = {
+	10598.1.1 = {
+		liege = d_west_franconia
+	}
+	10598.1.1 = {
+		holder = 190401 #Chrodbert I
+	}
+	10621.1.1 = {
+		holder = 190402 #Lambert I
+	}
+	10643.1.1 = {
+		holder = 190403 #Chrodbert II
+	}
+	10676.1.1 = {
+		holder = 190404 #Lambert II
+	}
+	10729.1.1 = {
+		holder = 91000 #Robert I
+	}
+	10760.1.1 = {
+		holder = 33327 #Cancor I
+	}
+	10771.1.1 = {
+		holder = 91003 #Thuringbert
+	}
+	10774.1.1 = {
+		holder = 91004 #Robert II
+	}
+	10810.1.1 = {
+		holder = 91005 #Robert III
+	}
+	10834.1.1 = {
+		holder = 190411 #Guntrum
+	}
+	10855.8.23 = {
+		holder = 144998 #Lothair II
+	}
+	10867.1.1 = {
+		holder = 42019 # Ludwig the Younger
+	}
+	10869.8.8 = {
+		holder = 90104 #Charles I the Bald
+	}
+	10877.1.20 = {
+		holder = 42019 #Louis I the Younger
+	}
+	10882.1.20 = {
+		holder = 90105 #Charles II the Fat
+	}
+	10888.1.1 = {
+		holder = 7945 #Arnulf of Carinthia
+	}
+	10895.1.1 = {
+		holder = 144997 #Zwentibold
+	}
+	10900.8.13 = {
+		holder = 7949 #Louis III the Child
+	}
+	10911.9.20 = {
+		holder = 90111 #Charles III the Simple
+	}
+	10923.1.1 = {
+		liege = "d_upper_lorraine"
+	}
+	10923.1.1 = {
+		holder = 7813
+	}
+	10939.10.2 = {
+		holder = 1292
+	}
+	10940.1.1 = {
+		holder = 144993
+	}
+	10944.1.1 = {
+		holder = 1306
+	}
+	10945.1.1 = {
+		holder = 20212
+	}
+	11015.1.1 = {
+		holder = 20208
+	}
+	11034.1.1 = {
+		holder = 20206
+	}
+	11045.1.1 = {
+		holder = 20216
+	}
+	11060.1.1 = {
+		holder = 41721
+	}
+	11085.9.20 = {
+		holder = 7586
+	}
+	11095.4.27 = {
+		holder = 7587
+	}
+	11113.9.3 = {
+		holder = 7592
+	}
+	11131.2.6 = {
+		holder = 7588
+	}
+	11140.2.13 = {
+		holder = 212540
+	}
+	11141.10.18 = {
+		holder = 7599
+	}
+	11156.10.2 = {
+		holder = 212490
+	}
+	11171.1.1 = {
+		holder = durn_1 # Ruprecht von Durn
+		liege = e_hre
+	}
+	11195.11.8 = {
+		holder = 212605
+	}
+	11212.1.1 = {
+		holder = 7401
+	}
+	11214.4.25 = {
+		holder = 212950
+	}
+	11231.9.15 = {
+		holder = 462756
+	}
+	11253.11.29 = {
+		holder = 462750
+	}
+	11294.2.2 = {
+		holder = 462736
+	}
+	11317.1.1 = {
+		liege = "e_hre"
+	}
+	11317.1.1 = {
+		holder = 462740
+	}
+	11323.8.1 = {
+		holder = 462749
+	}
+
+}
+
+
+c_kaiserslautern = {
+	10598.1.1 = {
+		liege = d_west_franconia
+	}
+	10598.1.1 = {
+		holder = 190401 #Chrodbert I
+	}
+	10621.1.1 = {
+		holder = 190402 #Lambert I
+	}
+	10643.1.1 = {
+		holder = 190403 #Chrodbert II
+	}
+	10676.1.1 = {
+		holder = 190404 #Lambert II
+	}
+	10729.1.1 = {
+		holder = 91000 #Robert I
+	}
+	10760.1.1 = {
+		holder = 33327 #Cancor I
+	}
+	10771.1.1 = {
+		holder = 91003 #Thuringbert
+	}
+	10774.1.1 = {
+		holder = 91004 #Robert II
+	}
+	10810.1.1 = {
+		holder = 91005 #Robert III
+	}
+	10834.1.1 = {
+		holder = 190411 #Guntrum
+	}
+	10855.8.23 = {
+		holder = 144998 #Lothair II
+	}
+	10867.1.1 = {
+		holder = 161555 #Werner Salian
+	}
+	10869.8.8 = {
+		holder = 90104 #Charles I the Bald
+	}
+	10877.1.20 = {
+		holder = 42019 #Louis I the Younger
+	}
+	10882.1.20 = {
+		holder = 90105 #Charles II the Fat
+	}
+	10888.1.1 = {
+		holder = 7945 #Arnulf of Carinthia
+	}
+	10895.1.1 = {
+		holder = 144997 #Zwentibold
+	}
+	10900.8.13 = {
+		holder = 7949 #Louis III the Child
+	}
+	10911.9.20 = {
+		holder = 90111 #Charles III the Simple
+	}
+	10923.1.1 = {
+		liege = "d_upper_lorraine"
+	}
+	10923.1.1 = {
+		holder = 7813
+	}
+	10939.10.2 = {
+		holder = 1292
+	}
+	10940.1.1 = {
+		holder = 144993
+	}
+	10944.1.1 = {
+		holder = 1306
+	}
+	10945.1.1 = {
+		holder = 20212
+	}
+	11015.1.1 = {
+		holder = 20208
+	}
+	11034.1.1 = {
+		holder = 20206
+	}
+	11045.1.1 = {
+		holder = 20216
+	}
+	11060.1.1 = {
+		holder = 20217
+	}
+	11066.1.1 = {
+		holder = 70825
+	}
+	11085.9.20 = {
+		holder = 7586
+	}
+	11095.4.27 = {
+		holder = 7587
+	}
+	11113.9.3 = {
+		holder = 7592
+	}
+	11131.2.6 = {
+		holder = 7588
+	}
+	11140.2.13 = {
+		holder = 212540
+	}
+	11141.10.18 = {
+		holder = 7599
+	}
+	11152.2.15 = {
+		holder = 212501 # Frederick Barbarossa
+	}
+	11195.11.8 = {
+		holder = 212605
+	}
+	11212.1.1 = {
+		holder = 7401
+	}
+	11214.4.25 = {
+		holder = 212950
+	}
+	11231.9.15 = {
+		holder = 462756
+	}
+	11253.11.29 = {
+		holder = 462750
+	}
+	11294.2.2 = {
+		holder = 462736
+	}
+	11317.1.1 = {
+		liege = "e_hre"
+	}
+	11317.1.1 = {
+		holder = 462740
+	}
+	11323.8.1 = {
+		holder = 462749
+	}
+
+}
+
+
+d_east_franconia = {
+	10100.1.1 = {
+		liege = k_east_francia
+	}
+	10637.1.1 = {
+		liege = k_east_francia
+	}
+	10637.1.1 = {
+		holder = 190388 #Hruodis
+	}
+	10651.1.1 = {
+		holder = 190389 #Hetan
+	}
+	10677.1.1 = {
+		holder = 190390 #Gozbert
+	}
+	10697.1.1 = {
+		holder = 190391 #Hetan
+	}
+	10733.1.1 = {
+		holder = 190392 #Thuringus
+	}
+	10769.1.1 = {
+		liege = k_france
+	}
+	10770.1.1 = {
+		holder = 190393 #Ado
+	}
+	10805.1.1 = {
+		holder = 0
+	}
+	10865.1.1 = {
+		holder = 42019 #Ludwig II
+		liege = k_east_francia
+	}
+	10906.1.1 = {
+		holder = 7952
+	}
+	10918.12.23 = {
+		holder = 7953
+	}
+	10939.1.1 = {
+		holder = 1306
+	}
+	10955.8.10 = {
+		holder = 1308
+	}
+	11004.11.30 = {
+		holder = 1312
+	}
+	11024.7.13 = {
+		liege = e_hre
+	}
+	11039.6.4 = {
+		holder = 1314
+	}
+	11056.5.10 = {	
+		holder = 1316
+	}
+	11152.2.15 = {
+		holder = 7535
+	}
+	11153.1.1 = {
+		holder = 7536
+	}
+	11160.6.24 = {
+		holder = 7537
+	}
+	11161.6.20 = {
+		holder = 7557
+	}
+	11165.1.1 = {
+		holder = 7537
+	}
+	11183.8.23 = {
+		holder = 7557
+	}
+	11200.10.25 = {
+		holder = 7542
+	}
+	11230.9.9 = {
+		holder = 7543
+	}
+	11249.5.9 = {
+		holder = 7544
+	}
+	11251.1.1 = {
+		holder = 7545
+	}
+	11259.1.1 = {
+		holder = 7547
+	}
+	11284.4.2 = {
+		holder = 7548
+	}
+	11288.1.1 = {
+		holder = 7551
+	}
+	11305.2.25 = {
+		holder = 7555
+	}
+	11320.6.5 = {
+		holder = 7556
+	}
+	11328.6.9 = {
+		holder = 487017
+	}
+
+}
+
+
+c_wurzburg = {
+	10637.1.1 = {
+		liege = k_east_francia
+	}
+	10637.1.1 = {
+		holder = 190388 #Hruodis
+	}
+	10651.1.1 = {
+		holder = 190389 #Hetan
+	}
+	10677.1.1 = {
+		holder = 190390 #Gozbert
+	}
+	10697.1.1 = {
+		holder = 190391 #Hetan
+	}
+	10733.1.1 = {
+		holder = 190392 #Thuringus
+	}
+	10769.1.1 = {
+		liege = k_france
+	}
+	10770.1.1 = {
+		holder = 190393 #Ado
+	}
+	#10805.1.1 = {
+	#	holder = 0
+	#}
+	10814.1.28 = {
+		holder = 90095 #Louis I
+	}
+	10840.1.21 = {
+		holder = 90107 #Ludwig I
+	}
+	10865.1.1 = {
+		liege = d_east_franconia
+		holder = 42019 #Ludwig II
+	}
+	10876.8.23 = {
+		liege = k_east_francia
+	}
+	10882.1.20 = {
+		holder = 90105 #Karl
+	}
+	10888.1.1 = {
+		holder = 7945 #Arnulf
+	}
+	10899.8.12 = {
+		holder = 7949 #Lothair
+	}
+	11066.1.1 = {
+		liege = "d_east_franconia"
+	}
+	11066.1.1 = {
+		holder = 1316
+	}
+	11168.1.1 = {
+		liege = "e_hre"
+	}
+	11171.1.1 = {
+		holder = abenberg_1 # Reginhard von Abenberg, bishop of Wurzburg
+		government = theocracy_government
+	}
+	11186.1.1 = {
+		holder = 144544
+	}
+	11190.1.1 = {
+		holder = 144545
+	}
+	11191.1.1 = {
+		holder = 144546
+	}
+	11197.1.1 = {
+		holder = 212364
+	}
+	11202.12.2 = {
+		holder = 144547
+	}
+	11207.1.1 = {
+		holder = 144548
+	}
+	11220.1.1 = {
+		liege = d_east_franconia
+	}
+	11223.1.1 = {
+		holder = 144549
+	}
+	11225.1.1 = {
+		holder = 144550
+	}
+	11254.1.1 = {
+		holder = 144551
+	}
+	11266.1.1 = {
+		holder = 144552
+	}
+	11271.1.1 = {
+		holder = 144543
+	}
+	11274.1.1 = {
+		holder = 144553
+	}
+	11287.1.1 = {
+		holder = 144554
+	}
+	11303.1.1 = {
+		holder = 144555
+	}
+	11313.1.1 = {
+		holder = 144541
+	}
+	11322.1.1 = {
+		holder = 144556
+	}
+	11332.1.1 = {
+		holder = 144557
+	}
+	11335.1.1 = {
+		holder = 462070
+	}
+
+}
+
+
+c_ansbach = {
+	10768.1.1 = {
+		liege = d_swabia
+	}
+	10768.1.1 = {
+		holder = 168188 #Eberhard
+	}
+	10804.1.1 = {
+		holder = 168190 #Sieghard
+	}
+	10826.1.1 = {
+		holder = 168191 #Sieghard
+	}
+	10843.1.1 = {
+		liege = k_east_francia
+		holder = 168191
+	}
+	10861.1.1 = {
+		holder = 168192
+	}
+	10865.1.1 = {
+		liege = d_swabia
+	}
+	10876.8.28 = {
+		liege = k_east_francia
+	}
+	11066.1.1 = {
+		liege = "d_swabia"
+	}
+	11066.1.1 = {
+		holder = 20237
+	}
+	11171.1.1 = {
+		holder = abenberg_1 # Reginhard von Abenberg, bishop of Wurzburg
+	}
+	11181.5.18 = {
+		holder = 212420
+	}
+	11240.8.19 = {
+		holder = 33711
+	}
+	11241.1.1 = {
+		holder = 462306
+	}
+	11265.2.25 = {
+		holder = 33718
+	}
+	11268.10.29 = {
+		liege = "e_hre"
+	}
+	11279.9.18 = {
+		holder = 462300
+	}
+	11325.6.5 = {
+		holder = 462302
+	}
+}
+
+
+c_coburg = {
+	10637.1.1 = {
+		liege = k_east_francia
+	}
+	10637.1.1 = {
+		holder = 190388 #Hruodis
+	}
+	10651.1.1 = {
+		holder = 190389 #Hetan
+	}
+	10677.1.1 = {
+		holder = 190390 #Gozbert
+	}
+	10697.1.1 = {
+		holder = 190391 #Hetan
+	}
+	10733.1.1 = {
+		holder = 190392 #Thuringus
+	}
+	10769.1.1 = {
+		liege = k_france
+	}
+	10770.1.1 = {
+		holder = 190393 #Ado
+	}
+	#10805.1.1 = {
+	#	holder = 0
+	#}
+	10839.1.1 = {
+		liege = k_east_francia
+	}
+	10839.1.1 = {
+		holder = 7910
+	}
+	10865.1.1 = {
+		liege = "d_east_franconia"
+		government = feudal_government
+	}
+	11066.1.1 = {
+		holder = 7597
+		government = theocracy_government
+	}
+	11178.1.1 = {
+		holder = andechs_1 # Otto von Andechs
+	}
+	11195.11.8 = {
+		holder = 212605
+	}
+	11212.1.1 = {
+		holder = 7401
+	}
+	11214.4.25 = {
+		holder = 212950
+	}
+	11231.9.15 = {
+		holder = 462756
+	}
+	11253.11.29 = {
+		holder = 462750
+	}
+	11294.2.2 = {
+		holder = 462736
+	}
+	11317.1.1 = {
+		liege = "e_hre"
+	}
+	11317.1.1 = {
+		holder = 462740
+	}
+	11323.8.1 = {
+		holder = 462749
+	}
+
+}
+
+b_lichtenfels = {
+	10839.1.1 = {
+		effect = { 
+			if = {
+				limit = {
+					game_start_date = 10867.1.1
+				}
+				set_capital_barony = yes 
+			}
+		}
+		holder = 7910
+	}
+	11066.1.1 = {
+		holder = 7597
+	}
+	11178.1.1 = {
+		holder = andechs_1 # Otto von Andechs
+	}
+	11195.11.8 = {
+		holder = 212605
+	}
+	11212.1.1 = {
+		holder = 7401
+	}
+	11214.4.25 = {
+		holder = 212950
+	}
+	11231.9.15 = {
+		holder = 462756
+	}
+	11253.11.29 = {
+		holder = 462750
+	}
+	11294.2.2 = {
+		holder = 462736
+	}
+	11317.1.1 = {
+		holder = 462740
+	}
+	11323.8.1 = {
+		holder = 462749
+	}
+}
+
+
+c_hohenlohe = {
+	10768.1.1 = {
+		liege = d_swabia
+	}
+	10768.1.1 = {
+		holder = 168188 #Eberhard
+	}
+	10804.1.1 = {
+		holder = 168190 #Sieghard
+	}
+	10826.1.1 = {
+		holder = 168191 #Sieghard
+	}
+	10843.1.1 = {
+		liege = k_east_francia
+		holder = 168191
+	}
+	10861.1.1 = {
+		holder = 168192
+	}
+	10865.1.1 = {
+		liege = d_swabia
+	}
+	10876.8.28 = {
+		liege = k_east_francia
+	}
+	11066.1.1 = {
+		liege = "d_swabia"
+	}
+	11066.1.1 = {
+		holder = 20237
+	}
+	11178.1.1 = {
+		holder = hohenlohe_1 # Konrad von Weikersheim/Hohenlohe
+		liege = e_hre
+	}
+	11181.5.18 = {
+		holder = 212420
+	}
+	11240.8.19 = {
+		holder = 33711
+	}
+	11241.1.1 = {
+		holder = 462306
+	}
+	11265.2.25 = {
+		holder = 33718
+	}
+	11268.10.29 = {
+		liege = "e_hre"
+	}
+	11279.9.18 = {
+		holder = 462300
+	}
+	11325.6.5 = {
+		holder = 462302
+	}
+}
+
+
+c_nurnberg = {
+	10548.1.1 = {
+		holder = 190178 #Garibald I
+	}
+	10591.1.1 = {
+		holder = 190179 #Tassilo I
+	}
+	10610.1.1 = {
+		holder = 190336 #Garibald II
+	}
+	10630.1.1 = {
+		holder = 190337 #Theodo I
+	}
+	10680.1.1 = {
+		holder = 190338 #Lantpert
+	}
+	10680.6.1 = {
+		holder = 190339 #Theodo II
+	}
+	10716.1.1 = {
+		holder = 190334 #Theodbert I
+	}
+	10719.1.1 = {
+		holder = 190370 #Theobald I
+	}
+	10719.4.1 = {
+		holder = 190371 #Tassilo II
+	}
+	10719.8.1 = {
+		holder = 190372 #Grimoald
+	}
+	10725.1.1 = {
+		holder = 190226 #Hugbert
+	}
+	10736.1.1 = {
+		holder = 190227 #Odilo
+	}
+	10748.1.1 = {
+		holder = 144989 #Grifo
+	}
+	10748.6.1 = {
+		holder = 190228 #Tassilo III
+	}
+	10788.1.1 = {
+		liege = "k_bavaria"
+		holder = 6392 #Charlemagne
+	}
+	10814.1.28 = {
+		holder = 30227 #Lothair I
+	}
+	10817.1.1 = {
+		holder = 90095 #Louis I the Pious
+	}
+	10829.1.1 = {
+		holder = 90107 #Louis II the German
+	}
+	10830.1.1 = {
+		holder = 167810 #Ernst I
+	}
+	
+	10865.11.11 = {
+		holder = 167812 #Ernst II
+	}
+	10880.9.29 = {
+		holder = 42019  #Louis III the Younger
+	}
+	10882.1.21 = {
+		holder = 90105 #Charles II the Fat
+	}
+	10887.1.1 = {
+		holder = 7945 #Arnulf of Carinthia
+	}
+	10895.1.1 = {
+		liege = "d_bavaria"
+	}
+	10895.1.1 = {
+		holder = 7969
+	}
+	10899.8.12 = {
+		holder = 7949 #Louis IV the Child
+	}
+	10907.1.1 = {
+		holder = 10097
+	}
+	10937.7.14 = {
+		holder = 7970
+	}
+	10938.1.1 = {
+		holder = 7971
+	}
+	10948.1.1 = {
+		holder = 1292
+	}
+	10955.1.1 = {
+		holder = 1294
+	}
+	10976.1.1 = {
+		holder = 7965
+	}
+	10983.1.1 = {
+		holder = 7972
+	}
+	10985.1.1 = {
+		holder = 1294
+	}
+	10995.1.1 = {
+		holder = 1296
+	}
+	11004.1.1 = {
+		holder = 1254
+	}
+	11009.1.1 = {
+		holder = 1296
+	}
+	11017.1.1 = {
+		holder = 1254
+	}
+	11026.1.1 = {
+		holder = 1314
+	}
+	11042.1.1 = {
+		holder = 1258
+	}
+	11047.1.1 = {	
+		holder = 30729
+	}
+	11053.1.1 = {
+		holder = 1316
+	}
+	11061.1.1 = {
+		holder = 112600
+	}
+	11066.1.1 = {
+		holder = 20258
+	}
+	11070.1.1 = {
+		holder = 10091
+	}
+	11085.1.1 = {
+		holder = 7664
+	}
+	11105.1.1 = {
+		holder = 33297
+	}
+	11137.5.14 = {
+		holder = 212388
+	}
+	11143.1.1 = {
+		holder = 33298
+	}
+	11160.4.16 = {
+		holder = 212390
+	}
+	11192.1.1 = {
+		liege = "e_hre"
+	}
+	11192.1.1 = {
+		holder = 212393
+	}
+	11200.1.1 = {
+		holder = 462356
+	}
+	11241.1.1 = {
+		liege = d_bavaria
+	}
+	11255.1.1 = {
+		holder = 462358
+	}
+	11260.1.1 = {
+		holder = 462359
+	}
+	11297.1.1 = {
+		holder = 33299
+	}
+	11300.1.1 = {
+		holder = 487020
+	}
+	11332.1.1 = {
+		holder = 487021
+	}
+
+}
+
+
+c_bamberg = {
+	10637.1.1 = {
+		liege = k_east_francia
+	}
+	10637.1.1 = {
+		holder = 190388 #Hruodis
+	}
+	10651.1.1 = {
+		holder = 190389 #Hetan
+	}
+	10677.1.1 = {
+		holder = 190390 #Gozbert
+	}
+	10697.1.1 = {
+		holder = 190391 #Hetan
+	}
+	10733.1.1 = {
+		holder = 190392 #Thuringus
+	}
+	10769.1.1 = {
+		liege = k_france
+	}
+	10770.1.1 = {
+		holder = 190393 #Ado
+	}
+	#10805.1.1 = {
+	#	holder = 0
+	#}
+	10839.1.1 = {
+		liege = k_east_francia
+	}
+	10839.1.1 = {
+		holder = 7910
+	}
+	10865.1.1 = {
+		liege = "d_east_franconia"
+	}
+	11066.1.1 = {
+		holder = 1316
+	}
+	11177.1.1 = {
+		holder = andechs_1 # Otto von Andechs
+		government = theocracy_government
+		liege = e_hre
+	}
+	11195.11.8 = {
+		holder = 212605
+	}
+	11212.1.1 = {
+		holder = 7401
+	}
+	11214.4.25 = {
+		holder = 212950
+	}
+	11231.9.15 = {
+		holder = 462756
+	}
+	11253.11.29 = {
+		holder = 462750
+	}
+	11294.2.2 = {
+		holder = 462736
+	}
+	11317.1.1 = {
+		liege = "e_hre"
+	}
+	11317.1.1 = {
+		holder = 462740
+	}
+	11323.8.1 = {
+		holder = 462749
+	}
+
+}
+
+
+c_nordlingen = {
+	10768.1.1 = {
+		holder = 168188 #Eberhard
+	}
+	10804.1.1 = {
+		holder = 168190 #Sieghard
+	}
+	10826.1.1 = {
+		holder = 168191 #Sieghard
+	}
+	10843.1.1 = {
+		liege = k_east_francia
+		holder = 168191
+	}
+	10861.1.1 = {
+		holder = 168192
+	}
+	10865.1.1 = {
+		liege = d_swabia
+	}
+	10895.1.1 = {
+		holder = 7642 #Hupold I Hupoldinger
+	}
+	10909.7.16 = {
+		holder = 7641 #Mangold Hupoldinger
+	}
+	10980.1.1 = {
+		holder = 7640 #Hupold II Hupoldinger
+	}
+	11034.1.1 = {
+		holder = 40570 #Hupold III Hupoldinger
+	}
+	11075.3.5 = {
+	 	holder = 20286 #Hartmann I Hupoldinger
+	}
+	11120.4.16 = {
+		holder = 213160 #Adalbert I Hupoldinger
+	}
+	11151.9.12 = {
+		holder = 33618 #Hartmann II Hupoldinger
+	}
+	11180.8.31 = {
+		holder = 33626 #Adalbert II Hupoldinger
+	}
+	11214.2.15 = {
+		holder = 33627 #Hartmann III Hupoldinger
+	}
+	11258.12.11 = {
+		holder = 33644 #Hartmann IV Hupoldinger
+	}
+	11286.7.4 = {
+		liege = "d_swabia"
+	}
+	11325.6.5 = {
+		holder = 462302 # Ulrich von Wurttemberg
+	}
+}
+
+
+c_wiltberg = {
+	10637.1.1 = {
+		liege = k_east_francia
+	}
+	10637.1.1 = {
+		holder = 190388 #Hruodis
+	}
+	10651.1.1 = {
+		holder = 190389 #Hetan
+	}
+	10677.1.1 = {
+		holder = 190390 #Gozbert
+	}
+	10697.1.1 = {
+		holder = 190391 #Hetan
+	}
+	10733.1.1 = {
+		holder = 190392 #Thuringus
+	}
+	10769.1.1 = {
+		liege = k_france
+	}
+	10770.1.1 = {
+		holder = 190393 #Ado
+	}
+	#10805.1.1 = {
+	#	holder = 0
+	#}
+	10814.1.28 = {
+		holder = 90095 #Louis I
+	}
+	10840.1.21 = {
+		holder = 90107 #Ludwig I
+	}
+	10865.1.1 = {
+		liege = d_east_franconia
+		holder = 42019 #Ludwig II
+	}
+	10876.8.23 = {
+		liege = k_east_francia
+	}
+	10882.1.20 = {
+		holder = 90105 #Karl
+	}
+	10888.1.1 = {
+		holder = 7945 #Arnulf
+	}
+	10899.8.12 = {
+		holder = 7949 #Lothair
+	}
+	11066.1.1 = {
+		liege = "d_east_franconia"
+	}
+	11066.1.1 = {
+		holder = 1316
+	}
+	11168.1.1 = {
+		liege = "e_hre"
+	}
+	11171.1.1 = {
+		holder = abenberg_1 # Reginhard von Abenberg, bishop of Wurzburg
+	}
+	11186.1.1 = {
+		holder = 144544
+	}
+	11190.1.1 = {
+		holder = 144545
+	}
+	11191.1.1 = {
+		holder = 144546
+	}
+	11197.1.1 = {
+		holder = 212364
+	}
+	11202.12.2 = {
+		holder = 144547
+	}
+	11207.1.1 = {
+		holder = 144548
+	}
+	11220.1.1 = {
+		liege = d_east_franconia
+	}
+	11223.1.1 = {
+		holder = 144549
+	}
+	11225.1.1 = {
+		holder = 144550
+	}
+	11254.1.1 = {
+		holder = 144551
+	}
+	11266.1.1 = {
+		holder = 144552
+	}
+	11271.1.1 = {
+		holder = 144543
+	}
+	11274.1.1 = {
+		holder = 144553
+	}
+	11287.1.1 = {
+		holder = 144554
+	}
+	11303.1.1 = {
+		holder = 144555
+	}
+	11313.1.1 = {
+		holder = 144541
+	}
+	11322.1.1 = {
+		holder = 144556
+	}
+	11332.1.1 = {
+		holder = 144557
+	}
+	11335.1.1 = {
+		holder = 462070
+	}
+}
+
+c_kassel = {
+	10761.1.1 = {
+		liege = d_angria
+	}
+	10761.1.1 = {
+		holder = 190463 #Amelung
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10844.1.1 = {
+		liege = "d_angria"
+		holder = 167757
+	}
+	10889.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11059.6.29 = {
+		holder = 1418
+	}
+	11106.1.2 = {
+		holder = 30219
+	}
+	11137.12.4 = {
+		holder = 212602
+	}
+	
+	11139.10.20 = {
+		holder = 212908
+	}
+	11142.1.1 = {
+		holder = 212600
+	}
+	11172.10.14 = {
+		holder = 212430 # Ludwig of Thuringia
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_angria"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	
+	#Landgraves of Hesse
+	
+	11263.1.1 = {
+		holder = 33391
+	}
+	11308.12.21 = {
+		holder = 33394
+	}
+	11328.1.17 = {
+		holder = 33401
+	}
+}
+
+
+c_fulda = {
+	10761.1.1 = {
+		liege = d_angria
+	}
+	10761.1.1 = {
+		holder = 190463 #Amelung
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10844.1.1 = {
+		liege = "d_angria"
+		holder = 167757
+	}
+	10889.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11059.6.29 = {
+		holder = 1416
+	}
+	11066.1.1 = {
+		holder = 1316
+	}
+	11172.1.1 = {
+		holder = fulda_abbot_1 # Konrad II
+		government = theocracy_government
+		liege = e_hre
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_angria"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	
+	#Landgraves of Hesse
+	
+	11263.1.1 = {
+		holder = 33391
+	}
+	11308.12.21 = {
+		holder = 33394
+	}
+	11328.1.17 = {
+		holder = 33401
+	}
+}
+
+
+c_nassau = {
+	10765.1.1 = {
+		liege = d_east_franconia
+	}
+	10765.1.1 = {
+		holder = 33328 #Heimerich
+	}
+	10795.5.5 = {
+		holder = 190397 #Heimerich
+	}
+	10826.1.1 = {
+		liege = k_east_francia
+	}
+	10826.1.1 = {
+		holder = 7946
+	}
+	10860.1.1 = {
+		holder = 7947
+	}
+	10906.1.1 = {
+		liege = "d_east_franconia"
+	}
+	11066.1.1 = {
+		holder = franconian0002
+	}
+	11094.1.1 = {
+		holder = 30721
+	}
+	11106.7.8 = {
+		holder = 7901 #Heinrich V Salier
+	}
+	11125.5.23 = {
+		holder = 30719 #Ruprecht von Nassau
+	}
+	11125.8.24 = {
+		liege = "e_hre"
+	}
+	11154.5.13 = {
+		holder = 30717 #Ruprecht von Nassau
+	}
+	11159.4.1 = {
+		holder = 212370 #Walram von Nassau
+	}
+	11197.7.5 = {
+		holder = 212372 #Heinrich II von Nassau
+	}
+	11220.1.1 = {
+		liege = d_thuringia
+	}
+	11251.1.25 = {
+		holder = 30700 #Walram II von Nassau
+	liege = e_hre
+	}
+	
+	11276.1.24 = {
+		holder = 462360 #Adolf von Nassau
+	}
+	11298.6.23 = {
+		holder = 462362 #Gerlach von Nassau
+	}
+
+}
+
+
+c_marburg = {
+	10765.1.1 = {
+		liege = d_east_franconia
+	}
+	10765.1.1 = {
+		holder = 33328 #Heimerich
+	}
+	10795.5.5 = {
+		holder = 190397 #Heimerich
+	}
+	10826.1.1 = {
+		liege = k_east_francia
+	}
+	10826.1.1 = {
+		holder = 7946
+	}
+	10860.1.1 = {
+		holder = 7947
+	}
+	10906.1.1 = {
+		liege = "d_east_franconia"
+	}
+	11066.1.1 = {
+		holder = 1316
+	}
+	11106.7.8 = {
+		holder = 7901 #Heinrich V Salier
+	}
+	11125.5.23 = {
+		holder = 30719 #Ruprecht von Nassau
+	}
+	11125.8.24 = {
+		liege = "e_hre"
+	}
+	11154.5.13 = {
+		holder = 30717 #Ruprecht von Nassau
+	}
+	11159.4.1 = {
+		holder = 212370 #Walram von Nassau
+	}
+	11197.7.5 = {
+		holder = 212372 #Heinrich II von Nassau
+	}
+	11220.1.1 = {
+		liege = d_thuringia
+	}
+	11251.1.25 = {
+		holder = 30700 #Walram II von Nassau
+	liege = e_hre
+	}
+	
+	11276.1.24 = {
+		holder = 462360 #Adolf von Nassau
+	}
+	11298.6.23 = {
+		holder = 462362 #Gerlach von Nassau
+	}
+
+}
+
+
+d_currezia = {
+	11220.1.1 = {
+		liege = e_hre
+		holder = 212382
+	}
+	11253.7.22 = {
+		holder = 0
+	}
+}
+
+
+c_grisons = {
+	10768.1.1 = {
+		liege = d_swabia
+	}
+	10768.1.1 = {
+		holder = 161742 #Hunfrid
+	}
+	
+	10860.1.1 = {
+		holder = 167974
+		liege = k_east_francia
+	}
+	
+	11066.1.1 = {
+		holder = 20299
+		liege = d_lombardia
+	}
+	11128.12.15 = {
+		holder = 223597
+	}
+	11162.1.1 = {
+		holder = 33553 # Hugo II, count of Tübingen
+		liege = e_hre
+	}
+	11187.1.1 = {
+		holder = 213020
+	}
+	11193.12.25 = {
+		liege = "e_hre"
+	}
+	11200.1.1 = {
+		holder = 212506 #Philip I von Hohenstaufen
+	}
+	11208.6.21 = {
+		holder = 212607 #Otto IV Welf
+	}
+	11212.7.5 = {
+		holder = 213135
+	}
+	11220.1.1 = {
+		liege = d_upper_burgundy
+	}
+	11240.1.1 = {
+		liege = "d_lombardia"
+		holder = 70753
+	}
+	11247.1.1 = {
+		holder = 70762
+	}
+	11257.1.1 = {
+		holder = 70765
+	}
+	11259.1.1 = {
+		holder = 70744
+	}
+	11264.1.1 = {
+		holder = 70766
+	}
+	11265.1.1 = {
+		holder = 70755
+	}
+	11277.1.1 = {
+		holder = 70770
+	}
+	11295.8.1 = {
+		holder = 463145
+	}
+	11302.1.1 = {
+		holder = 70759
+	}
+	11311.8.1 = {
+		holder = 463145
+	}
+	11322.6.28 = {
+		holder = 463141
+	}
+	11327.7.5 = {
+		holder = 463140
+	}
+	
+	11337.1.1 = {
+		holder = 463140
+	}
+
+}
+
+c_sankt_gallen = {
+	10750.1.1 = {
+		liege = d_swabia
+		holder = 190365 #Berthilo
+	}
+	10787.1.1 = {
+		holder = 190366 #Berthold
+	}
+	10802.1.1 = {
+		holder = 190355 #Wado
+	}
+	10805.1.1 = {
+		holder = 190356 #Chadalhoh
+	}
+	10819.1.1 = {
+		holder = 190357 #Berthold
+	}
+	10835.1.1 = {
+		government = theocracy_government
+		liege = k_east_francia
+		holder = swabian0001 #Prince-Bishop Solomon I
+	}
+	10873.1.1 = {
+		holder = swabian0002 #Prince-Bishop Gebhard I
+	}
+	10875.1.1 = {
+		holder = swabian0003 #Prince-Bishop Solomon II
+	}
+	10890.1.1 = {
+		holder = swabian0004 #Prince-Bishop Solomon III
+	}
+	10919.1.1 = {
+		government = feudal_government
+		holder = 1280 #Heinrich I  #King of Germany
+	}
+	10935.1.1 = {
+		government = theocracy_government
+		liege = e_hre
+		holder = bavarian0002 #Saint Konrad of Konstanz
+	}
+	10975.11.26 = {
+		holder = swabian0005 #Prince-Bishop Gaminolf
+	}
+	10979.1.1 = {
+		holder = bavarian0003 #Saint Gebhard of Konstanz
+	}
+	10995.1.1 = {
+		holder = swabian0006 #Prince-Bishop Lambert
+	}
+	11018.1.1 = {
+		holder = bavarian0004 #Prince-Bishop Rudhart
+	}
+	11022.1.1 = {
+		holder = swabian0007 #Prince-Bishop Heimo
+	}
+	11026.1.1 = {
+		holder = swabian0008 #Prince-Bishop Warmund
+	}
+	11034.1.1 = {
+		holder = swabian0009 #Prince-Bishop Eberhard
+	}
+	11047.1.1 = {
+		holder = swabian0010 #Prince-Bishop Theoderich
+	}
+	11051.1.1 = {
+		holder = swabian0011 #Prince-Bishop Rumold
+	}
+	11167.1.1 = {
+		holder = tegerfelden_1 # Ulrich von Tegerfelden, Abbot of St. Gallen
+	}
+	11286.7.4 = {
+		holder = 33645
+	}
+	11290.5.10 = {
+		holder = 33647
+	}
+	11313.12.13 = {
+		liege = "d_osterreich"
+	}
+	11313.12.13 = {
+		holder = 462029
+	}
+	11326.1.1 = {
+		holder = 462020
+	}
+
+}
+
+
+c_zurich = {
+	10750.1.1 = {
+		liege = d_swabia
+	}
+	10750.1.1 = {
+		holder = 190359 #Adalbert
+	}
+	#10784.1.1 = {
+	#	holder = 0
+	#}
+	10800.1.1 = {
+		liege = k_east_francia
+		holder = 7985
+	}
+	10825.1.1 = {
+		holder = 7988
+	}
+	10864.1.1 = {
+		holder = 163058
+	}
+	10911.1.1 = {
+		holder = 7992
+	}
+	10975.1.1 = {
+		holder = 1524
+	}
+	10990.1.2 = {
+		holder = 1526
+	}
+	11010.1.1 = {
+		holder = 1528
+	}
+	11024.7.13 = {
+		liege = e_hre
+	}
+	11030.3.10 = {
+		holder = 7941
+	}
+	11032.9.5 = {
+		liege = "d_swabia"
+	}
+	11055.11.13 = {
+		holder = 20245
+	}
+	11111.4.11 = {
+		holder = 213146
+	}
+	11152.1.5 = {
+		holder = 213141
+	}
+	11186.1.5 = {
+		holder = 213140
+	}
+	11210.2.18 = {
+		holder = 213162
+	}
+	11227.1.1 = {
+		holder = 7647
+	}
+	11228.1.1 = {
+		holder = 7649
+	}
+	11263.9.3 = {
+		holder = 7650
+	}
+	11268.10.29 = {
+		liege = "e_hre"
+	}
+	11269.1.1 = {
+		holder = 7630
+	}
+	11284.1.1 = {
+		holder = 33636
+	}
+	
+	11291.7.15 = {
+		liege = "d_swiss"
+	}
+	11291.7.15 = {
+		holder = 462085
+	}
+
+}
+
+
+b_basel = {
+	#11066.1.1 = {
+	#	liege = "c_aargau"
+	#}
+	11072.1.1 = {
+		holder = 20288 #Burchard von Neuenburg
+	}
+	#11107.4.12 = {
+	#	holder = 0
+	#}
+	11111.4.11 = {
+		holder = 213146
+	}
+	11122.1.1 = {
+		holder = 32763 #Berthold von Neuenburg
+	}
+	11152.1.5 = {
+		holder = 213141
+	}
+	11263.1.1 = {
+		holder = 32775 #Heinrich von Neuenburg
+	}
+	11275.1.1 = {
+		holder = 7548
+	}
+	11296.1.1 = {
+		holder = 7555
+	}
+	#11320.6.5 = {
+	#	holder = 0
+	#}
+}
+
+
+d_alsace = {
+	10670.1.1 = {
+		holder = 161471 #Eticho I Etichonen
+	}
+	10682.1.1 = {
+		holder = 161472 #Adalbert I Etichonen
+	}
+	10722.12.11 = {
+		holder = 161473 #Liutfred I Etichonen
+	}
+	10739.1.1 = {
+		holder = 0
+	}
+	10875.1.1 = {
+		holder = 90102 #Hugues Karling
+	}
+	10895.1.2 = {
+		holder = 0
+	}
+}
+
+
+c_strassburg = {
+	
+	
+	10670.1.1 = {
+		holder = 161471
+	}
+	10682.1.1 = {
+		holder = 161472
+	}
+	10722.12.11 = {
+		holder = 161473
+	}
+	10739.1.1 = {
+		holder = 161475
+	}
+	10748.1.1 = {
+		holder = 161476
+	}
+	10780.1.1 = {
+	}
+	10780.1.1 = {
+		holder = 161477
+	}
+	10800.1.1 = {
+		holder = 161478
+	}
+	10822.1.1 = {
+		holder = 161479
+	}
+	10842.1.1 = {
+		liege = "k_lotharingia"
+	}
+	10898.1.1 = {
+		holder = 1326
+	}
+	10940.1.1 = {
+		holder = 1328
+	}
+	10972.12.18 = {
+		holder = 1330
+	}
+	10986.1.1 = {
+		holder = 144959
+	}
+	11016.1.1 = {
+		holder = 1332 #Hugo VI
+	}
+	11036.1.1 = {
+		holder = 1334
+	}
+	11038.1.1 = {
+		holder = 1336
+	}
+	11049.1.1 = {
+		holder = 1340
+	}
+	11050.6.28 = {
+		holder = 1342
+	}
+	11065.1.1 = {
+		liege = e_hre
+	}
+	11098.1.1 = {
+		holder = 161461
+	}
+	11137.1.1 = {
+		holder = 161462
+	}
+	11178.1.1 = {
+		holder = 161464
+	}
+	11212.1.1 = {
+		holder = 161470
+	}
+	11225.3.19 = {
+		holder = 30759
+	}
+	11235.1.1 = {
+		holder = 30760
+	}
+	11254.5.21 = {
+		holder = 30785
+	}
+	11256.1.28 = {
+		holder = 232682
+	}
+	11268.10.29 = {
+		liege = "e_hre"
+	}
+	11272.4.2 = {
+		holder = 462021
+	}
+	11291.7.15 = {
+		holder = 462360
+	}
+	11298.6.23 = {
+		holder = 462023
+	}
+	11308.5.1 = {
+		holder = 462611
+	}
+	11313.8.24 = {
+		holder = 462740
+	}
+}
+
+
+c_breisgau = {
+	10741.1.1 = {
+		liege = d_swabia
+	}
+	10741.1.1 = {
+		holder = 190360 #Unroch
+	}
+	10859.1.1 = {
+		liege = "k_east_francia"
+		holder = 7990
+	}
+	10867.1.1 = {
+		holder = 167832
+	}
+	
+	11024.1.1 = {
+		liege = "d_swabia"
+	}
+	11024.1.1 = {
+		holder = 1610
+	}
+	11078.11.5 = {
+		holder = 20245
+	}
+	11111.4.11 = {
+		holder = 213146
+	}
+	11152.1.2 = {
+		holder = 213141
+	}
+	11186.1.5 = {
+		holder = 213140
+	}
+	11210.2.18 = {
+		holder = 462320
+	}	
+	11237.1.1 = {
+		holder = 462321
+	}
+	11268.10.29 = {
+		liege = "e_hre"
+	}
+	11271.9.24 = {
+		holder = 462322
+	}
+	11317.12.24 = {
+		holder = 462324
+	}
+}
+
+c_colmar = {
+	10598.1.1 = {
+		liege = d_west_franconia
+	}
+	10598.1.1 = {
+		holder = 190401 #Chrodbert I
+	}
+	10621.1.1 = {
+		holder = 190402 #Lambert I
+	}
+	10643.1.1 = {
+		holder = 190403 #Chrodbert II
+	}
+	10676.1.1 = {
+		holder = 190404 #Lambert II
+	}
+	10729.1.1 = {
+		holder = 91000 #Robert I
+	}
+	10760.1.1 = {
+		holder = 33327 #Cancor I
+	}
+	10771.1.1 = {
+		holder = 91003 #Thuringbert
+	}
+	10774.1.1 = {
+		holder = 91004 #Robert II
+	}
+	10810.1.1 = {
+		holder = 91005 #Robert III
+	}
+	10834.1.1 = {
+		holder = 190411 #Guntrum
+	}
+	10855.8.23 = {
+		holder = 144998 #Lothair II
+	}
+	10867.1.1 = {
+		holder = 163095 #Count Luitfried
+		liege = k_lotharingia
+	}
+	10869.8.8 = {
+		holder = 90104 #Charles I the Bald
+	}
+	10877.1.20 = {
+		holder = 42019 #Louis I the Younger
+	}
+	10882.1.20 = {
+		holder = 90105 #Charles II the Fat
+	}
+	10888.1.1 = {
+		holder = 7945 #Arnulf of Carinthia
+	}
+	10895.1.1 = {
+		holder = 144997 #Zwentibold
+	}
+	10900.8.13 = {
+		holder = 7949 #Louis III the Child
+	}
+	10911.9.20 = {
+		holder = 90111 #Charles III the Simple
+	}
+	10923.1.1 = {
+		liege = "d_upper_lorraine"
+	}
+	10923.1.1 = {
+		holder = 7813
+	}
+	10939.10.2 = {
+		holder = 1292
+	}
+	10940.1.1 = {
+		holder = 144993
+	}
+	10944.1.1 = {
+		holder = 1306
+	}
+	10945.1.1 = {
+		holder = 20212
+	}
+	11015.1.1 = {
+		holder = 20208
+	}
+	11034.1.1 = {
+		holder = 20206
+	}
+	11045.1.1 = {
+		holder = 20216
+	}
+	11060.1.1 = {
+		holder = 20217
+	}
+	11085.9.20 = {
+		holder = 7586
+	}
+	11095.4.27 = {
+		holder = 7587
+	}
+	11113.9.3 = {
+		holder = 7592
+	}
+	11131.2.6 = {
+		holder = 7588
+	}
+	11140.2.13 = {
+		holder = 212540
+	}
+	11141.10.18 = {
+		holder = 7599
+	}
+	11156.10.2 = {
+		holder = 212490
+	}
+	11170.1.1 = {
+		holder = 212500 #Friedrich VI von Hohenstaufen
+	}
+	11195.11.8 = {
+		holder = 212605
+	}
+	11212.1.1 = {
+		holder = 7401
+	}
+	11214.4.25 = {
+		holder = 212950
+	}
+	11231.9.15 = {
+		holder = 462756
+	}
+	11253.11.29 = {
+		holder = 462750
+	}
+	11294.2.2 = {
+		holder = 462736
+	}
+	11317.1.1 = {
+		liege = "e_hre"
+	}
+	11317.1.1 = {
+		holder = 462740
+	}
+	11323.8.1 = {
+		holder = 462749
+	}
+
+}
+
+
+c_sundgau = {
+	10732.1.1 = {
+		liege = d_swabia
+	}
+	10732.1.1 = {
+		holder = 190361 #Hadrad
+	}
+	10760.1.1 = {
+		holder = 190362 #Rothard
+	}
+	10796.1.1 = {
+		holder = 7985 #Welf
+	}
+	10820.1.1 = {
+		liege = "k_lotharingia"
+		holder = 161483
+	}
+	10837.10.27 = {
+		holder = 163055
+	}
+	10864.1.1 = {
+		holder = 163095
+	}
+	10925.1.1 = {
+		liege = "d_swabia"
+	}
+	11057.1.1 = {
+		holder = 11000 #Ludwig
+	}
+	11073.1.1 = {
+		holder = 20250 #Thierry
+	}
+	11103.1.2 = {
+		holder = 7656 #Friedrich
+	}
+	11160.8.19 = {
+		holder = 7658 #Ludwig
+	}
+	11180.1.1 = {
+		holder = 34321 #Ulrich
+	}
+	11194.1.1 = {
+		holder = 34325 #Ludwig
+	}
+	11198.1.1 = {
+		holder = 7659 #Friedrich
+	}
+	
+	11234.1.1 = {
+		holder = 7661 #Ulrich
+	}
+	11268.10.29 = {
+		liege = "e_hre"
+	}
+	11275.2.1 = {
+		holder = 462307 #Theobald
+	}
+	11310.1.1 = {
+		holder = 462034 #Ulrich
+	}
+	11324.11.3 = {
+		holder = 462020
+	}
+}
+
+
+d_swabia = {
+	10709.1.1 = {
+		holder = 190230 #Lantfrid
+	}
+	10730.1.1 = {
+		holder = 190232 #Theobald
+	}
+	10745.1.1 = {
+		holder = 190231 #Lantfrid II
+	}
+	10751.1.1 = {
+		holder = 190234 #Hnabi
+	}
+	10788.1.1 = {
+		holder = 190238 #Erbio
+	}
+	10794.1.1 = {
+		holder = 190239 #Udo
+	}
+	10810.1.1 = {
+		holder = 0
+	}
+	10865.1.1 = {
+		reset_name = yes
+		holder = 90105 # Charles the Fat
+		liege = k_east_francia
+	}
+	10876.8.28 = {
+		liege = 0
+		holder = 0
+	}
+	10909.1.1 = {
+		liege = k_east_francia
+	}
+	10909.1.1 = {
+		holder = 7955
+	}
+	10917.1.21 = {
+		holder = 7956
+	}
+	10926.4.29 = {
+		holder = 7962
+	}
+	10949.12.10 = {
+		holder = 7964
+	}
+	10954.1.1 = {
+		holder = 7957
+	}
+	10973.11.12 = {
+		holder = 7965
+	}
+	10982.1.1 = {
+		holder = 11064
+	}
+	10997.8.20 = {
+		holder = 1384
+	}
+	11003.5.30 = {
+		holder = 7944
+	}
+	11012.4.1 = {
+		holder = 10083
+	}
+	11015.5.13 = {
+		holder = 7943
+	}
+	11024.7.13 = {
+		liege = e_hre
+	}
+	11030.9.17 = {
+		holder = 10085
+	}
+	11045.1.1 = {
+		holder = 20206
+	}
+	11047.1.1 = {
+		holder = 20261
+	}
+	11057.1.1 = {
+		holder = 1388
+	}
+	11079.1.1 = {
+		holder = 7054 #Friedrich I von Hohenstaufen
+	}
+	11105.7.21 = {
+		holder = 212495 #Friedrich II von Hohenstaufen
+	}
+	11147.1.22 = {
+		holder = 212501 #Friedrich III von Hohenstaufen
+	}
+	11152.2.15 = {
+		holder = 7904 #Friedrich IV von Hohenstaufen
+	}
+	11167.1.1 = {
+		holder = 7905 #Friedrich V von Hohenstaufen
+	}
+	11170.1.1 = {
+		holder = 212500 #Friedrich VI von Hohenstaufen
+	}
+	11191.1.20 = {
+		holder = 212505 #Konrad II von Hohenstaufen
+	}
+	11196.8.15 = {
+		holder = 212506 #Phillip I von Hohenstaufen
+	}
+	11208.6.21 = {
+		holder = 212607 #Otto IV Welf
+	}
+	11212.1.1 = {
+		holder = 212513 #Friedrich VII von Hohenstaufen
+	}
+	11216.1.1 = {
+		holder = 30759 #Heinrich VII von Hohenstaufen
+	}
+	11235.1.1 = {
+		holder = 30760 #Konrad III von Hohenstaufen
+	}
+	11254.5.21 = {
+		holder = 30785 #Konrad IV von Hohenstaufen
+	}
+	11268.10.29 = {
+		holder = 0
+	}
+
+}
+
+
+c_ulm = {
+	10693.1.1 = {
+		holder = 190335 #Gotfrid
+	}
+	10709.1.1 = {
+		holder = 190230 #Lantfrid
+	}
+	10730.1.1 = {
+		holder = 190232 #Theobald
+	}
+	10745.1.1 = {
+		holder = 190231 #Lantfrid II
+	}
+	10751.1.1 = {
+		liege = k_lotharingia
+		holder = 190234 #Hnabi
+	}
+	10788.1.1 = {
+		holder = 190238 #Erbio
+	}
+	10794.1.1 = {
+		holder = 190239 #Udo
+	}
+	#10810.1.1 = {
+	#	holder = 0
+	#}
+	10859.1.1 = {
+		liege = k_east_francia
+		holder = 7990
+	}
+	10865.1.1 = {
+		liege = d_swabia
+	}
+	10876.1.1 = {
+		holder = 7991
+	}
+	10876.8.28 = {
+		liege = k_east_francia
+	}
+	11066.1.1 = {
+		liege = "d_swabia"
+	}
+	11066.1.1 = {
+		holder = 1388 #Rudolf von Rheinfelden
+	}
+	
+	#dukes of Teck (von Zahringen)
+	
+	11152.2.15 = {
+		holder = 33529
+	}
+	11195.1.1 = {
+		holder = 33530
+	}
+	11219.9.19 = {
+		holder = 33532
+	}
+	11249.1.1 = {
+		holder = 33535
+	}
+	11268.10.29 = {
+		liege = "e_hre"
+	}
+	11283.12.24 = {
+		holder = 33536
+	}
+	11292.5.1 = {
+		holder = 33541
+	}
+	11313.12.20 = {
+		holder = 33544
+	}
+	11316.3.5 = {
+		holder = 33545
+	}
+	11329.7.4 = {
+		holder = 33546
+	}
+	11334.1.28 = {
+		holder = 33549
+	}
+}
+
+c_grunningen = {
+	10693.1.1 = {
+		holder = 190335 #Gotfrid
+	}
+	10709.1.1 = {
+		holder = 190230 #Lantfrid
+	}
+	10730.1.1 = {
+		holder = 190232 #Theobald
+	}
+	10745.1.1 = {
+		holder = 190231 #Lantfrid II
+	}
+	10751.1.1 = {
+		liege = k_lotharingia
+		holder = 190234 #Hnabi
+	}
+	10788.1.1 = {
+		holder = 190238 #Erbio
+	}
+	10794.1.1 = {
+		holder = 190239 #Udo
+	}
+	#10810.1.1 = {
+	#	holder = 0
+	#}
+	10854.1.1 = {
+		liege = k_east_francia
+	}
+	10854.1.1 = {
+		holder = 167792
+	}
+	10865.1.1 = {
+		liege = d_swabia
+	}
+	10876.8.28 = {
+		liege = k_east_francia
+	}
+	11018.1.1 = {
+		liege = "d_swabia"
+	}
+	11018.1.1 = {
+		holder = 30750
+	}
+	11028.1.1 = {
+		holder = 7053
+	}
+	11054.1.7 = {
+		holder = 7054 #Friedrich I von Hohenstaufen
+	}
+	11170.1.1 = {
+		holder = 212500 #Friedrich VI von Hohenstaufen
+	}
+	11191.1.20 = {
+		holder = 212505 #Konrad II von Hohenstaufen
+	}
+	11196.8.15 = {
+		holder = 212506 #Phillip I von Hohenstaufen
+	}
+	11208.6.21 = {
+		holder = 212513 #Friedrich VII von Hohenstaufen
+	}
+	11216.1.1 = {
+		holder = 30759 #Heinrich VII von Hohenstaufen
+	}
+	11235.1.1 = {
+		holder = 30760 #Konrad III von Hohenstaufen
+	}
+	11254.5.21 = {
+		holder = 30785 #Konrad IV von Hohenstaufen
+	}
+	11268.10.29 = {
+		liege = "e_hre"
+	}
+	#counts of Tübingen
+	
+	11268.10.29 = {
+		holder = 33558
+	}
+	11277.1.1 = {
+		holder = 33561
+	}
+	11294.1.1 = {
+		holder = 33567
+	}
+	11316.1.1 = {
+		holder = 33568
+	}
+	11327.1.1 = {
+		holder = 33569
+	}
+}
+
+
+c_wurttemberg = {
+	10768.1.1 = {
+		liege = d_swabia
+	}
+	10768.1.1 = {
+		holder = 168188 #Eberhard
+	}
+	10804.1.1 = {
+		holder = 168190 #Sieghard
+	}
+	10826.1.1 = {
+		holder = 168191 #Sieghard
+	}
+	10843.1.1 = {
+		liege = k_east_francia
+		holder = 168191
+	}
+	10861.1.1 = {
+		holder = 168192
+	}
+	10865.1.1 = {
+		liege = d_swabia
+	}
+	10876.8.28 = {
+		liege = k_east_francia
+	}
+	11066.1.1 = {
+		liege = "d_swabia"
+	}
+	11066.1.1 = {
+		holder = 10087
+	}
+	11110.1.1 = {
+		holder = 33706
+		government = feudal_government
+	}
+	11143.1.1 = {
+		holder = 33707
+	}
+	11158.1.1 = {
+		holder = 212421
+	}
+	11181.5.18 = {
+		holder = 212420
+	}
+	11240.8.19 = {
+		holder = 33711
+	}
+	11241.1.1 = {
+		holder = 462306
+	}
+	11265.2.25 = {
+		holder = 33718
+	}
+	11268.10.29 = {
+		liege = "e_hre"
+	}
+	11279.9.18 = {
+		holder = 462300
+	}
+	11325.6.5 = {
+		holder = 462302
+	}
+}
+
+
+c_baden = {
+	10768.1.1 = {
+		liege = d_swabia
+	}
+	10768.1.1 = {
+		holder = 190243 #Liutfred
+	}
+	10843.1.1 = {
+		liege = "k_east_francia"
+		holder = 90107
+	}
+	11066.1.1 = {
+		liege = "d_swabia"
+	}
+	11066.1.1 = {
+		holder = 10087
+	}
+	11074.4.25 = {
+		holder = 213153
+	}
+	11130.1.5 = {
+		holder = 212410
+	}
+	11160.1.16 = {
+		holder = 212400
+	}
+	11190.9.16 = {
+		holder = 212402
+	}
+	11243.1.16 = {
+		holder = 462316
+	}
+	11268.10.29 = {
+		liege = "e_hre"
+	}
+	11288.1.1 = {
+		holder = 462314
+	}
+	11297.1.1 = {
+		holder = 462310
+	}
+
+}
+
+
+c_zollern = {
+	10768.1.1 = {
+		liege = d_swabia
+	}
+	10768.1.1 = {
+		holder = 168188 #Eberhard
+	}
+	10804.1.1 = {
+		holder = 168190 #Sieghard
+	}
+	10826.1.1 = {
+		holder = 168191 #Sieghard
+	}
+	10843.1.1 = {
+		liege = k_east_francia
+		holder = 168191
+	}
+	10861.1.1 = {
+		holder = 168192
+	}
+	10865.1.1 = {
+		liege = d_swabia
+	}
+	10876.8.28 = {
+		liege = k_east_francia
+	}
+	11050.1.1 = {
+		holder = 40550 # Burchard I - Count of Zollern and first documented ruler from Hohenzollern
+		liege = "d_swabia"
+	}
+	11061.1.1 = {
+		holder = 212395 # Friedrich I Hohenzollern
+	}
+	11125.1.1 = {
+		holder = 212394 # Friedrich II Hohenzollern
+	}
+	# Friedrich I second and fourth sons should probably rule before Friedrich III, who becomes ruler around 1171
+	11145.1.1 = {
+		holder = 212393 # Friedrich III Hohenzollern
+	}
+}
+
+
+c_hohenberg = {
+	10693.1.1 = {
+		holder = 190335 #Gotfrid
+	}
+	10709.1.1 = {
+		holder = 190230 #Lantfrid
+	}
+	10730.1.1 = {
+		holder = 190232 #Theobald
+	}
+	10745.1.1 = {
+		holder = 190231 #Lantfrid II
+	}
+	10751.1.1 = {
+		liege = k_lotharingia
+		holder = 190234 #Hnabi
+	}
+	10788.1.1 = {
+		holder = 190238 #Erbio
+	}
+	10794.1.1 = {
+		holder = 190239 #Udo
+	}
+	#10810.1.1 = {
+	#	holder = 0
+	#}
+	10865.1.1 = {
+		liege = d_swabia
+		holder = 90105 # Charles the Fat
+	}
+	10876.8.28 = {
+		liege = k_east_francia
+		holder = 7991
+	}
+	11066.1.1 = {
+		liege = d_swabia
+	}
+	11066.1.1 = {
+		holder = 1337
+	}
+	11170.1.1 = {
+		holder = 212500 #Friedrich VI von Hohenstaufen
+	}
+	11191.1.20 = {
+		holder = 212505 #Konrad II von Hohenstaufen
+	}
+	11196.8.15 = {
+		holder = 212506 #Phillip I von Hohenstaufen
+	}
+	11208.6.21 = {
+		holder = 212607 #Otto IV Welf
+	}
+	11212.1.1 = {
+		holder = 212513 #Friedrich VII von Hohenstaufen
+	}
+	11216.1.1 = {
+		holder = 30759 #Heinrich VII von Hohenstaufen
+	}
+	11235.1.1 = {
+		holder = 30760 #Konrad III von Hohenstaufen
+	}
+	11254.5.21 = {
+		holder = 30785 #Konrad IV von Hohenstaufen
+	}
+	11268.10.29 = {
+		liege = "e_hre"
+	}
+	11268.10.29 = {
+		holder = 462334
+	}
+	11284.1.6 = {
+		holder = 462335
+	}
+	11296.1.1 = {
+		holder = 33322
+	}
+	11307.1.1 = {
+		holder = 462337
+	}
+	
+
+}
+
+
+c_furstenberg = {
+	10693.1.1 = {
+		holder = 190335 #Gotfrid
+	}
+	10709.1.1 = {
+		holder = 190230 #Lantfrid
+	}
+	10730.1.1 = {
+		holder = 190232 #Theobald
+	}
+	10745.1.1 = {
+		holder = 190231 #Lantfrid II
+	}
+	10751.1.1 = {
+		liege = k_lotharingia
+		holder = 190234 #Hnabi
+	}
+	10788.1.1 = {
+		holder = 190238 #Erbio
+	}
+	10794.1.1 = {
+		holder = 190239 #Udo
+	}
+	#10810.1.1 = {
+	#	holder = 0
+	#}
+	10865.1.1 = {
+		liege = d_swabia
+		holder = 90105 # Charles the Fat
+	}
+	10876.8.28 = {
+		liege = k_east_francia
+		holder = 7991
+	}
+	11066.1.1 = {
+		liege = d_swabia
+	}
+	11066.1.1 = {
+		holder = 20245
+	}
+	11170.1.1 = {
+		holder = 212500 #Friedrich VI von Hohenstaufen
+	}
+	11191.1.20 = {
+		holder = 212505 #Konrad II von Hohenstaufen
+	}
+	11196.8.15 = {
+		holder = 212506 #Phillip I von Hohenstaufen
+	}
+	11208.6.21 = {
+		holder = 212607 #Otto IV Welf
+	}
+	11212.1.1 = {
+		holder = 212513 #Friedrich VII von Hohenstaufen
+	}
+	11216.1.1 = {
+		holder = 30759 #Heinrich VII von Hohenstaufen
+	}
+	11235.1.1 = {
+		holder = 30760 #Konrad III von Hohenstaufen
+	}
+	11254.5.21 = {
+		holder = 30785 #Konrad IV von Hohenstaufen
+	}
+	11268.10.29 = {
+		liege = "e_hre"
+	}
+	11268.10.29 = {
+		holder = 462334
+	}
+	11284.1.6 = {
+		holder = 462335
+	}
+	11296.1.1 = {
+		holder = 33322
+	}
+	11307.1.1 = {
+		holder = 462337
+	}
+	
+
+}
+
+
+d_angria = {
+	10700.1.1 = {
+		liege = k_saxony
+		de_jure_liege = k_saxony
+	}
+	10740.1.1 = {
+		holder = 190455 #Theoderic
+	}
+	10781.1.1 = {
+		holder = 0
+	}
+	10844.1.1 = {
+		holder = 7959
+		liege = k_east_francia
+		de_jure_liege = k_east_francia
+	}
+	10866.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11024.7.13 = {
+		liege = e_hre
+	}
+	11059.6.29 = {
+		holder = 1416
+	}
+	11072.3.28 = {
+		holder = 1418
+	}
+	11106.1.2 = {
+		holder = 30219
+	}
+	11137.12.4 = {
+		holder = 212602
+	}
+	11139.10.20 = {
+		holder = 212908
+	}
+	11142.1.1 = {
+		holder = 212600 # Henry the Lion
+	}
+	11180.9.16 = {
+		holder = 212905
+		de_jure_liege = k_east_francia
+	}
+	11212.2.2 = {
+		holder = 462114
+	}
+	11260.10.7 = {
+		holder = 33336
+	}
+	11282.1.1 = {
+		holder = 462101
+	}
+	
+	11298.5.24 = {
+		holder = 462100
+	}
+}
+
+c_minden = {
+	10761.1.1 = {
+		holder = 190457 #Bruno
+	}
+	10766.1.1 = {
+		liege = d_angria
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10825.1.1 = {
+		holder = 7959
+	}
+	10844.1.1 = {
+		liege = "d_angria"
+	}
+	10866.1.1 = {
+		holder = 144957
+	}
+	10880.2.2 = {
+		holder = 144955
+	}
+	10913.1.1 = {
+		holder = 106517
+	}
+	10960.1.24 = {
+		holder = 106518
+	}
+	10994.5.4 = {
+		holder = 10082
+	}
+	11003.1.2 = {
+		holder = 106512
+	}
+	11038.1.24 = {
+		holder = 106510 #Ekbert I von Braunschweig
+	}
+	11066.1.1 = {
+		holder = 1416
+	}
+	11171.1.1 = {
+		holder = minden_bishop_1 # Anno von Landsberg, bishop of Minden
+		government = theocracy_government
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		liege = d_angria
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_angria"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	11279.1.1 = {
+		holder = 462805
+	}
+	11322.9.7 = {
+		holder = 462808
+	}
+
+}
+
+
+c_lippe = {
+	10761.1.1 = {
+		liege = d_ostfalen
+	}
+	10761.1.1 = {
+		holder = 190463 #Amelung
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10844.1.1 = {
+		liege = "d_ostfalen"
+		holder = 167757
+	}
+	10889.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11059.6.29 = {
+		holder = 1416
+	}
+	11158.1.1 = {
+		holder = lippe_1 # Hermann
+	}
+	11167.1.1 = {
+		holder = 30324 # Bernhard of Lippe
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_ostfalen"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	
+	#Landgraves of Hesse
+	
+	11263.1.1 = {
+		holder = 33391
+	}
+	11308.12.21 = {
+		holder = 33394
+	}
+	11328.1.17 = {
+		holder = 33401
+	}
+}
+
+
+c_bremen = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10761.1.1 = {
+		liege = d_holstein
+	}
+	10761.1.1 = {
+		holder = 190468 #Richfrid
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10865.2.3 = {
+		government = theocracy_government
+		holder = 163117
+	}
+	11043.4.16 = {
+		holder = 20251 #Adalbert Goseck
+	}
+	11072.3.16 = {
+		holder = 30300 #Liemar von Goslar
+	}
+	11101.5.16 = {
+		holder = 30301 #Humbert von Bremen
+	}
+	11104.1.1 = {
+		holder = 30302 #Friedrich von Bremen
+	}
+	11123.1.29 = {
+		holder = 30303 #Adalbero von Bremen
+	}
+	
+	11123.1.29 = {
+		liege = "e_hre"
+	}
+	
+	
+	11148.8.25 = {
+		holder = 30241 ##Hartwig Staden
+	}
+	
+	11168.3.15 = {
+		holder = 30304 #Baldewin von Bremen
+	}
+	
+	11178.6.18 = {
+		holder = 30305 #Bertram von Köln
+		liege = "d_angria"
+	}
+	
+	
+	11180.1.1 = {
+		holder = 30306 #Siegfried Askanien
+	}
+	11184.10.24 = {
+		holder = 231040 #Hartwig von Utlede
+	}
+	
+	11207.11.3 = {
+		holder = 201548 #Valdemar Knudsson of Denmark
+	}
+	11210.1.1 = {
+		holder = 30070 #Gerhard von Oldenburg
+	}
+	11219.8.13 = {
+		holder = 30307 #Gerhard von der Lippe
+	}
+	11220.1.1 = {
+		liege = d_angria
+	}
+	11258.8.28 = {
+		holder = 30308 #Hildebold von Wunstorf
+	}
+	11273.10.11 = {
+		holder = 30309 #Giselbert van Bronckhorst
+	}
+	
+	11306.11.18 = {
+		holder = 30310 #Heinrich von Goltern
+	}
+	11308.1.1 = {
+		holder = 30311 #Bernhard von Wölpe
+	}
+	
+	11310.9.17 = {
+		holder = 30313 #Jens Grand
+	}
+	11327.5.30 = {
+		holder = 420251 #Burchard Grelle
+	}
+
+}
+
+
+c_wolpe = {
+	10761.1.1 = {
+		liege = d_angria
+	}
+	10761.1.1 = {
+		holder = 190471 #Smeldigoz
+	}
+	
+	# Removed because Wolpe is in the middle of Angria, and it was creating a powder-keg situation in Angria which made playing as Ludwig a newb trap.
+	# Could maybe be re-added if we find a way to stabilize the region and reduce bordergore.
+	#10849.1.1 = {
+	#	liege = "d_thuringia"
+	#}
+	#10849.1.1 = {
+	#	holder = 168228
+	#}
+	#10873.8.1 = {
+	#	holder = 168229
+	#}
+	
+	# Replaced with the Duke of Angria, who might not be the 'real' liege but makes the situation in the realm less chaotic and more stable (as it was historically).
+	10866.1.1 = {
+		holder = 7908
+	}
+	
+	# Normal history continues
+	10880.1.1 = {
+		holder = 33428
+	}
+	10882.1.1 = {
+		holder = 168231
+	}
+	10886.1.1 = {
+		holder = 33428
+	}
+	10892.1.1 = {
+		holder = 7951
+	}
+	
+	10906.2.27 = {
+		liege = k_east_francia
+	}
+	10930.1.1 = {
+		holder = 144958
+	}
+	
+	10963.4.16 = {
+		holder = 7311
+	}
+	11003.12.2 = {
+		holder = 7313
+	}
+	11024.7.13 = {
+		liege = e_hre
+	}
+	11039.4.16 = {
+		holder = 7060
+	}
+	11066.1.1 = {
+		liege = d_angria
+		holder = 1416
+	}
+	11067.1.1 = {
+		holder = 1616
+	}
+	11070.3.6 = {
+		holder = 7400
+	}
+	11112.5.13 = {	
+		liege = "d_thuringia"
+	}
+	11112.5.13 = {
+		holder = 33408
+	}
+	11122.1.1 = {
+		holder = 33409
+	}
+	11131.1.1 = {
+		holder = 212908
+	}
+	11162.1.1 = {
+		holder = wolpe_1 # Bernhard von Wolpe
+		liege = d_angria
+	}
+	11206.1.1 = {
+		holder = 31796
+	}
+	11247.12.27 = {
+		holder = 33412
+	}
+	11278.1.1 = {
+		holder = 33414
+	}
+	11285.5.13 = {
+		holder = 33419
+	}
+	11318.8.20 = {
+		holder = 33422
+	}
+}
+
+
+c_hannover = {
+	10761.1.1 = {
+		liege = d_angria
+	}
+	10761.1.1 = {
+		holder = 190463 #Amelung
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10844.1.1 = {
+		liege = "d_angria"
+		holder = 167757
+	}
+	10889.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11059.6.29 = {
+		holder = 1416
+	}
+	11066.1.1 = {
+		holder = 144202
+	}
+	11072.3.28 = {
+		holder = 1418
+	}
+	11106.1.2 = {
+		holder = 30219
+	}
+	11137.12.4 = {
+		holder = 212602
+	}
+	
+	11139.10.20 = {
+		holder = 212908
+	}
+	11142.1.1 = {
+		holder = 212600
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_angria"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	
+	#Landgraves of Hesse
+	
+	11263.1.1 = {
+		holder = 33391
+	}
+	11308.12.21 = {
+		holder = 33394
+	}
+	11328.1.17 = {
+		holder = 33401
+	}
+}
+
+
+c_hildesheim = {
+	10761.1.1 = {
+		liege = d_angria
+	}
+	10761.1.1 = {
+		holder = 190463 #Amelung
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10844.1.1 = {
+		liege = "d_angria"
+		holder = 167757
+	}
+	10889.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11027.1.1 = {
+		holder = 30247 # Udo von Katlenburg
+	}
+	11040.1.1 = {
+		holder = 30248 # Dietrich I von Katlenburg
+	}
+	11056.1.1 = {
+		holder = 30249 # Dietrich II von Katlenburg
+	}
+	11171.1.1 = {
+		holder = dorstadt_1 # Adelog von Dorstadt, bishop of Hildesheim
+		government = theocracy_government
+		liege = d_angria
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_angria"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	
+	#Landgraves of Hesse
+	
+	11263.1.1 = {
+		holder = 33391
+	}
+	11308.12.21 = {
+		holder = 33394
+	}
+	11328.1.17 = {
+		holder = 33401
+	}
+}
+
+
+c_oldenburg = {
+	10762.1.1 = {
+		liege = d_angria
+	}
+	10762.1.1 = {
+		holder = 190466 #Lothar
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10790.1.1 = {
+		holder = 190467 #Udo
+	}
+	10844.1.1 = {
+		liege = "d_angria"
+		holder = 7959
+	}
+	10866.1.1 = {
+		holder = 167785
+	}
+	11066.1.1 = {
+		holder = 20223 #Eglimar I
+	}
+	11108.1.1 = {
+		holder = 30068 #Eglimar II
+	}
+	11142.1.1 = {
+		liege = "e_hre"
+	}
+	11142.1.1 = {
+		holder = 212915 #Christian I
+	}
+	11167.1.2 = {
+		holder = 212910 #Moritz I
+		liege = d_angria
+	}
+	11209.1.1 = {
+		holder = 212912 #Christian II
+	}
+	11220.1.1 = {
+		liege = d_angria
+	}
+	11233.1.1 = {
+		holder = 30063 #Otto I
+	liege = d_angria
+	}
+	11256.7.10 = {
+		holder = 30077 #Johann I
+	liege = e_hre
+	}
+	11272.1.1 = {
+		holder = 462912 #Christian III
+	}
+	11285.1.2 = {
+		holder = 462915 #Johann II
+	}
+	11316.1.20 = {
+		holder = 30083 #Christian IV
+	}
+	11334.1.1 = {
+		holder = 462917 #Johann III
+	}
+
+}
+
+
+d_anhalt = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 13 }
+	
+	10867.1.1 = {
+		#de_jure_liege = k_east_francia
+	}
+}
+
+
+c_dessau = {
+	10867.1.1 = {
+		holder = 184007
+		liege = 0
+	}
+	11066.1.2 = {
+		holder = 20263
+		government = theocracy_government #Bishops of Magdeburg
+		liege = e_hre
+	}
+	11078.8.7 = {
+		holder = 30238
+	}
+	11102.6.17 = {
+		holder = 144199
+	}
+	11142.1.1 = {
+		holder = 144205
+	}
+	11192.8.25 = {
+		holder = 144206
+	}
+	11266.12.19 = {
+		holder = 33235
+	}
+	11277.1.15 = {
+		holder = 33236
+	}
+	11282.1.1 = {
+		holder = 33759
+	}
+	11305.5.18 = {
+		holder = 33776
+	}
+	11307.9.10 = {
+		holder = 144209
+	}
+	11325.9.21 = {
+		holder = 33402
+	}
+}
+
+
+c_halberstadt = {
+	10761.1.1 = {
+		holder = 190457 #Bruno
+	}
+	10766.1.1 = {
+		liege = d_ostfalen
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10825.1.1 = {
+		holder = 7959
+	}
+	10844.1.1 = {
+		liege = "d_ostfalen"
+	}
+	10866.1.1 = {
+		holder = 144957
+	}
+	10880.2.2 = {
+		holder = 144955
+	}
+	10913.1.1 = {
+		holder = 106517
+	}
+	10960.1.24 = {
+		holder = 106518
+	}
+	10994.5.4 = {
+		holder = 10082
+	}
+	11003.1.2 = {
+		holder = 106512
+	}
+	11038.1.24 = {
+		holder = 106510 #Ekbert I von Braunschweig
+	}
+	11177.1.1 = {
+		holder = halberstadt_bishop_1 # Ulrich, bishop of Halberstadt
+		government = theocracy_government
+		liege = d_angria
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		liege = d_ostfalen
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_ostfalen"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	11279.1.1 = {
+		holder = 462805
+	}
+	11322.9.7 = {
+		holder = 462808
+	}
+
+}
+
+
+c_magdeburg = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10867.1.1 = {
+		holder = 144957	#Count Bruno Ludolfinger
+	}
+	
+	11066.1.1 = {
+		holder = 20263
+		government = theocracy_government #Bishops of Magdeburg
+		liege = e_hre
+	}
+	11078.8.7 = {
+		holder = 30238
+	}
+	11102.6.17 = {
+		holder = 144199
+	}
+	11142.1.1 = {
+		holder = 144205
+	}
+	11192.8.25 = {
+		holder = 144206
+	}
+	11266.12.19 = {
+		holder = 33235
+	}
+	11277.1.15 = {
+		holder = 33236
+	}
+	11282.1.1 = {
+		holder = 33759
+	}
+	11305.5.18 = {
+		holder = 33776
+	}
+	11307.9.10 = {
+		holder = 144209
+	}
+	11325.9.21 = {
+		holder = 33402
+	}
+}
+
+
+c_blankenburg = {
+	10761.1.1 = {
+		holder = 190457 #Bruno
+	}
+	10766.1.1 = {
+		liege = d_ostfalen
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10825.1.1 = {
+		holder = 7959
+	}
+	10844.1.1 = {
+		liege = "d_ostfalen"
+	}
+	10866.1.1 = {
+		holder = 144957
+	}
+	10880.2.2 = {
+		holder = 144955
+	}
+	10913.1.1 = {
+		holder = 106517
+	}
+	10960.1.24 = {
+		holder = 106518
+	}
+	10994.5.4 = {
+		holder = 10082
+	}
+	11003.1.2 = {
+		holder = 106512
+	}
+	11038.1.24 = {
+		holder = 106510 #Ekbert I von Braunschweig
+	}
+	11068.1.1 = {
+		holder = 106515 #Ekbert II von Braunschweig
+	}
+	11090.7.3 = {
+		holder = 112603
+	}
+	11101.1.1 = {
+		holder = 30219
+	}
+	11128.1.1 = {
+		holder = blankenburg_2 # Poppo
+	}
+	11164.1.1 = {
+		holder = blankenburg_1 # Siegfried I, count of Blankenburg
+		liege = d_angria
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		liege = d_ostfalen
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_ostfalen"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	11279.1.1 = {
+		holder = 462805
+	}
+	11322.9.7 = {
+		holder = 462808
+	}
+
+}
+
+
+c_mansfeld = {
+	10761.1.1 = {
+		holder = 190457 #Bruno
+	}
+	10766.1.1 = {
+		liege = d_ostfalen
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10825.1.1 = {
+		holder = 7959
+	}
+	10844.1.1 = {
+		liege = "d_ostfalen"
+	}
+	10866.1.1 = {
+		holder = 144957
+	}
+	10880.2.2 = {
+		holder = 144955
+	}
+	10913.1.1 = {
+		holder = 106517
+	}
+	10960.1.24 = {
+		holder = 106518
+	}
+	10994.5.4 = {
+		holder = 10082
+	}
+	11003.1.2 = {
+		holder = 106512
+	}
+	11038.1.24 = {
+		holder = 106510 #Ekbert I von Braunschweig
+	}
+	11066.1.1 = {
+		holder = 20266
+	}
+	11068.1.1 = {
+		holder = 106515 #Ekbert II von Braunschweig
+	}
+	11069.1.1 = {
+		holder = mansfeld_3 # Hoyer
+	}
+	11115.2.11 = {
+		holder = mansfeld_2 # Hoyer
+	}
+	11157.8.3 = {
+		holder = mansfeld_1 # Hoyer
+		liege = d_angria
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		liege = d_ostfalen
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_ostfalen"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	11279.1.1 = {
+		holder = 462805
+	}
+	11322.9.7 = {
+		holder = 462808
+	}
+
+}
+
+
+c_mersenburg = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10761.1.1 = {
+		holder = 190457 #Bruno
+	}
+	10766.1.1 = {
+		liege = d_ostfalen
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10825.1.1 = {
+		holder = 7959
+	}
+	10844.1.1 = {
+		liege = "d_ostfalen"
+	}
+	10866.1.1 = {
+		holder = 144957
+	}
+	10880.2.2 = {
+		holder = 144955
+	}
+	10913.1.1 = {
+		holder = 106517
+	}
+	10960.1.24 = {
+		holder = 106518
+	}
+	10994.5.4 = {
+		holder = 10082
+	}
+	11003.1.2 = {
+		holder = 106512
+	}
+	11038.1.24 = {
+		holder = 106510 #Ekbert I von Braunschweig
+	}
+	11066.1.1 = {
+		#holder = 30335
+		holder = 20265 # Dedo Wettin
+	}
+	11171.1.1 = {
+		holder = seeburg_1 # Eberhard von Seeburg
+		government = theocracy_government
+		liege = e_hre
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		liege = d_ostfalen
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_ostfalen"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	11279.1.1 = {
+		holder = 462805
+	}
+	11322.9.7 = {
+		holder = 462808
+	}
+
+}
+
+
+d_lausitz = {
+	10867.1.1 = { change_development_level = 4 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10500.1.1 = {
+		holder = 0
+		government = tribal_government
+	}
+	
+	10857.1.1 = {
+		holder = 184007 #Duke Radomil
+		liege = 0
+	}
+	10867.1.1 = {
+		#de_jure_liege = k_pomerania
+	}
+	
+	
+	#Geronen
+	10926.1.1 = {
+		liege = 0
+		holder = 168562
+	}
+	10929.1.1 = {
+		de_jure_liege = k_east_francia
+	}
+	10965.5.20 = {
+		holder = 168568
+	}
+	10979.8.3 = {
+		holder = 168573
+	}
+	10981.1.1 = {
+	}
+	10993.3.13 = {
+		holder = 168569
+	}
+	11015.9.1 = {
+		holder = 168570
+	}
+	11030.1.10 = {
+		holder = 168571
+	}
+	#Wettin
+	11032.7.30 = {
+		liege = "e_hre"
+		holder = 20265
+		government = feudal_government
+	}
+	11069.1.1 = {
+		holder = 11020
+	}
+	11069.10.26 = {
+		holder = 20265
+	}
+	11075.1.1 = {
+		holder = 522
+	}
+	11081.1.1 = {
+		holder = 7699
+	}
+	11103.1.1 = {
+		holder = 7500
+	}
+	11123.1.1 = {
+		holder = 33788
+	}
+	11124.5.22 = {
+		holder = 212908
+	}
+	11131.1.1 = {
+		holder = 33790
+	}
+	11135.12.31 = {
+		holder = 212040
+	}
+	11157.2.5 = {
+		holder = 212048
+	}
+	11185.2.9 = {
+		holder = 212938
+	}
+	11190.8.16 = {
+		holder = 212550
+	}
+	11210.5.6 = {
+		holder = 212042
+	}
+	11221.2.17 = {
+		holder = 7504
+	}
+	11288.2.15 = {
+		holder = 7509
+	}
+	11291.8.16 = {
+		holder = 33427
+	}
+	11307.12.10 = {
+		holder = 33758
+	}
+	11308.12.1 = {
+		holder = 7560
+	}
+	11320.8.20 = {
+		holder = 462731
+	}
+
+}
+
+
+c_juterbog = {
+	10740.1.1 = {
+		holder = 190455 #Theoderic
+
+		government = tribal_government
+	}
+	#10781.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		liege = d_lausitz
+		holder = 168584
+	}
+	10898.1.1 = {
+		holder = 168590
+	}
+	10920.1.1 = {
+		holder = 168591
+	}
+	10929.1.1 = {
+		liege = d_ostmark
+		holder = 168562
+
+		government = feudal_government
+	}
+	10965.5.20 = {
+		holder = 168524
+	}
+	10985.8.25 = {
+		holder = 168528
+	}
+	11018.1.1 = {
+		holder = 168529
+	}
+	11032.7.30 = {
+		holder = 20265
+		liege = d_lausitz
+	}
+	11069.1.1 = {
+		holder = 11020
+	}
+	11069.10.26 = {
+		holder = 20265
+	}
+	11075.1.1 = {
+		holder = 522
+	}
+	11081.1.1 = {
+		holder = 7699
+	}
+	11082.1.2 = {
+		holder = 7034 #Heinrich I
+	}
+	
+	11087.6.27 = {
+		holder = 30229 #Lothar-Udo III
+	}
+	
+	11106.6.2 = {
+		holder = 30230 #Rudolf I
+	}
+	
+	#Rudolf I deposed
+	
+	11114.1.1 = {
+		holder = 30231 #Heinrich II
+	}
+	
+	11123.9.2 = {
+		holder = 212908
+	}
+	11170.11.18 = {
+		holder = 212905
+	}
+	11212.2.2 = {
+		holder = 462118
+	}
+	11252.1.26 = {
+		holder = 462120
+	}
+	11287.1.1 = {
+		holder = 462122
+	}
+	
+	11323.12.26 = {
+		holder = 462390
+	}
+}
+
+
+c_wittenberg = {
+	10740.1.1 = {
+		holder = 190455 #Theoderic
+
+		government = tribal_government
+	}
+	#10781.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		liege = d_lausitz
+		holder = 168584
+	}
+	10898.1.1 = {
+		holder = 168590
+	}
+	10920.1.1 = {
+		holder = 168591
+	}
+	10929.1.1 = {
+		liege = d_lausitz
+		holder = 168562
+
+		government = feudal_government
+	}
+	10965.5.20 = {
+		holder = 168524
+	}
+	10985.8.25 = {
+		holder = 168528
+	}
+	11018.1.1 = {
+		holder = 168529
+	}
+	11051.1.1 = {
+		holder = 168531
+	}
+	11056.9.10 = {
+		holder = 1350 #Lothar-Udo I
+	}
+	11057.11.7 = {
+		holder = 7032 #Lothar-Udo II
+	}
+	11066.1.1 = {
+		holder = 7662 # Thimo Wettin
+	}
+	11082.1.2 = {
+		holder = 7034 #Heinrich I
+	}
+	
+	11087.6.27 = {
+		holder = 30229 #Lothar-Udo III
+	}
+	
+	11106.6.2 = {
+		holder = 30230 #Rudolf I
+	}
+	
+	#Rudolf I deposed
+	
+	11114.1.1 = {
+		holder = 30231 #Heinrich II
+	}
+	
+	11123.9.2 = {
+		holder = 212908
+	}
+	11170.11.18 = {
+		holder = 212905
+	}
+	11212.2.2 = {
+		holder = 462118
+	}
+	11252.1.26 = {
+		holder = 462120
+	}
+	11287.1.1 = {
+		holder = 462122
+	}
+	
+	11323.12.26 = {
+		holder = 462390
+	}
+}
+
+
+c_brene = {
+	10740.1.1 = {
+		holder = 190455 #Theoderic
+	}
+	#10781.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		liege = d_lausitz
+		holder = 184007 #Duke Radomil
+	}
+	10898.1.1 = {
+		holder = 168590
+	}
+	10920.1.1 = {
+		holder = 168591
+	}
+	10929.1.1 = {
+		liege = d_lausitz
+		holder = 168562
+	}
+	10965.5.20 = {
+		holder = 168524
+	}
+	10985.8.25 = {
+		holder = 168528
+	}
+	11018.1.1 = {
+		holder = 168529
+	}
+	11051.1.1 = {
+		holder = 168531
+	}
+	11056.9.10 = {
+		holder = 1350 #Lothar-Udo I
+	}
+	11057.11.7 = {
+		holder = 7032 #Lothar-Udo II
+	}
+	11066.1.1 = {
+		holder = 33370 # Gero Wettin
+	}
+	11082.1.2 = {
+		holder = 7034 #Heinrich I
+	}
+	
+	11087.6.27 = {
+		holder = 30229 #Lothar-Udo III
+	}
+	
+	11106.6.2 = {
+		holder = 30230 #Rudolf I
+	}
+	
+	#Rudolf I deposed
+	
+	11114.1.1 = {
+		holder = 30231 #Heinrich II
+	}
+	
+	11123.9.2 = {
+		holder = 212908
+	}
+	11170.11.18 = {
+		holder = 212905
+	}
+	11212.2.2 = {
+		holder = 462118
+	}
+	11252.1.26 = {
+		holder = 462120
+	}
+	11287.1.1 = {
+		holder = 462122
+	}
+	
+	11323.12.26 = {
+		holder = 462390
+	}
+}
+
+
+c_spreewald = {
+	10740.1.1 = {
+		holder = 190455 #Theoderic
+	}
+	###867 Polanian tribes
+	10860.1.1 = {
+		holder = 302074		#fictional Jaromir Lusici
+		liege = 0
+
+		government = tribal_government
+	}
+	10896.1.1 = {
+		holder = 168590
+		liege = d_pommerania
+	}
+	10920.1.1 = {
+		holder = 168591
+	}
+	10929.1.1 = {
+		liege = d_lausitz
+		holder = 168562
+		government = feudal_government
+	}
+	10965.5.20 = {
+		holder = 168524
+	}
+	10985.8.25 = {
+		holder = 168528
+	}
+	11018.1.1 = {
+		holder = 168529
+	}
+	11051.1.1 = {
+		holder = 168531
+	}
+	11056.9.10 = {
+		holder = 1350 #Lothar-Udo I
+	}
+	11057.11.7 = {
+		holder = 7032 #Lothar-Udo II
+	}
+	11066.1.1 = { 
+		holder = fox_1
+	}
+	11082.1.2 = {
+		holder = 7034 #Heinrich I
+	}
+	
+	11087.6.27 = {
+		holder = 30229 #Lothar-Udo III
+	}
+	
+	11106.6.2 = {
+		holder = 30230 #Rudolf I
+	}
+	
+	#Rudolf I deposed
+	
+	11114.1.1 = {
+		holder = 30231 #Heinrich II
+	}
+	
+	11123.9.2 = {
+		holder = 212908
+	}
+	11170.11.18 = {
+		holder = 212905
+	}
+	11212.2.2 = {
+		holder = 462118
+	}
+	11252.1.26 = {
+		holder = 462120
+	}
+	11287.1.1 = {
+		holder = 462122
+	}
+	
+	11323.12.26 = {
+		holder = 462390
+	}
+}
+
+
+c_naumberg = {	#Lubsko
+	10740.1.1 = {
+		holder = 190455 #Theoderic
+
+		government = tribal_government
+	}
+	#10781.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		liege = 0
+		holder = 184005
+	}
+	10898.1.1 = {
+		holder = 168590
+	}
+	10920.1.1 = {
+		holder = 168591
+	}
+	10929.1.1 = {
+		liege = d_lausitz
+		holder = 168562
+	}
+	10965.5.20 = {
+		holder = 168524
+	}
+	10985.8.25 = {
+		holder = 168528
+	}
+	11018.1.1 = {
+		holder = 168529
+	}
+	11051.1.1 = {
+		holder = 168531
+	}
+	11056.9.10 = {
+		holder = 1350 #Lothar-Udo I
+
+		government = feudal_government
+	}
+	11057.11.7 = {
+		holder = 7032 #Lothar-Udo II
+	}
+	11066.1.1 = {
+		holder = bear_1
+	}
+	11082.1.2 = {
+		holder = 7034 #Heinrich I
+	}
+	
+	11087.6.27 = {
+		holder = 30229 #Lothar-Udo III
+	}
+	
+	11106.6.2 = {
+		holder = 30230 #Rudolf I
+	}
+	
+	#Rudolf I deposed
+	
+	11114.1.1 = {
+		holder = 30231 #Heinrich II
+	}
+	
+	11123.9.2 = {
+		holder = 212908
+	}
+	11170.11.18 = {
+		holder = 212905
+	}
+	11212.2.2 = {
+		holder = 462118
+	}
+	11252.1.26 = {
+		holder = 462120
+	}
+	11287.1.1 = {
+		holder = 462122
+	}
+	
+	11323.12.26 = {
+		holder = 462390
+	}
+}
+
+
+d_meissen = {
+	10867.1.1 = { change_development_level = 4 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10857.1.1 = {
+		holder = 184007 #Duke Radomil
+		liege = 0
+	}
+	10867.1.1 = {
+		#de_jure_liege = k_pomerania
+	}
+	
+	10929.1.1 = {
+		de_jure_liege = k_east_francia
+	}
+	10981.1.1 = {
+		liege = k_east_francia
+		holder = 33459
+	}
+	10985.1.1 = {
+		holder = 33460
+	}
+	11002.4.30 = {
+		holder = 33461
+	}
+	11009.1.1 = {
+		holder = 33463
+	}
+	11024.7.13 = {
+		#de_jure_liege = k_saxony
+		liege = e_hre
+	}
+	11031.1.1 = {
+		holder = 33462
+	}
+	11046.1.24 = {
+		holder = 33464
+	}
+	11062.1.1 = {
+		holder = 7060
+	}
+	11066.1.1 = {
+		#de_jure_liege = k_east_francia
+	}
+	11067.1.1 = {
+		holder = 106510
+	}
+	11068.1.11 = {
+		holder = 106515
+	}
+	11089.1.1 = {
+		holder = 7699
+	}
+	11103.1.1 = {
+		holder = 7500
+	}
+	11123.1.1 = {
+		holder = 33788
+	}
+	11124.5.22 = {
+		holder = 33409
+	}
+	11129.1.1 = {
+		holder = 212040
+	}
+	11157.2.5 = {
+		holder = 212038
+	}
+	
+	11180.9.16 = {
+		de_jure_liege = k_east_francia
+	}
+	
+	11190.2.18 = {
+		holder = 212041
+	}
+	11195.6.24 = {
+		holder = 212042
+	}
+	11221.1.17 = {
+		holder = 7504
+	}
+	11288.2.15 = {
+		holder = 7506
+	}
+	11291.8.16 = {
+		holder = 7512
+	}
+	11323.11.16 = {
+		holder = 462400
+	}
+
+}
+
+
+c_meissen = {
+	10720.1.1 = {
+		liege = "d_bohemia"
+		holder = 168345
+	}
+	10738.1.1 = {
+		holder = 146174
+	}
+	10760.1.1 = {
+		holder = 146175
+	}
+	10801.1.1 = {
+		holder = 168347
+	}
+	10804.1.1 = {
+		holder = 168348
+	}
+	10820.1.1 = {
+		holder = 168349
+	}
+	10830.1.1 = {
+		liege = d_meissen
+	#	holder = 0
+	}
+	
+	10857.1.1 = {
+		holder = 184007
+	}
+	11062.1.1 = {
+		holder = 7060
+	}
+	11067.1.1 = {
+		holder = 106510
+	}
+	11068.1.11 = {
+		holder = 106515
+	}
+	11089.1.1 = {
+		holder = 7699
+	}
+	11103.1.1 = {
+		holder = 7500
+	}
+	11123.1.1 = {
+		holder = 212040
+	}
+	11157.2.5 = {
+		holder = 212038
+	}
+	11190.2.18 = {
+		holder = 212041
+	}
+	11195.6.24 = {
+		holder = 212042
+	}
+	11221.1.17 = {
+		holder = 7504
+	}
+	11288.2.15 = {
+		holder = 7506
+	}
+	11291.8.16 = {
+		holder = 7512
+	}
+	11323.11.16 = {
+		holder = 462400
+	}
+
+}
+
+
+c_dresden = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10720.1.1 = {
+		liege = "d_bohemia"
+		holder = 168345
+	}
+	10738.1.1 = {
+		holder = 146174
+	}
+	10760.1.1 = {
+		holder = 146175
+	}
+	10801.1.1 = {
+		holder = 168347
+	}
+	10804.1.1 = {
+		holder = 168348
+	}
+	10820.1.1 = {
+		holder = 168349
+	}
+	10830.1.1 = {
+		liege = d_meissen
+	#	holder = 0
+	}
+	
+	10857.1.1 = {
+		holder = 184007
+	}
+	11062.1.1 = {
+		holder = 7060
+	}
+	11067.1.1 = {
+		holder = 106510
+	}
+	11068.1.11 = {
+		holder = 106515
+	}
+	11089.1.1 = {
+		holder = 7699
+	}
+	11103.1.1 = {
+		holder = 7500
+	}
+	11123.1.1 = {
+		holder = 212040
+	}
+	11157.2.5 = {
+		holder = 212038
+	}
+	11190.2.18 = {
+		holder = 212041
+	}
+	11195.6.24 = {
+		holder = 212042
+	}
+	11221.1.17 = {
+		holder = 7504
+	}
+	11288.2.15 = {
+		holder = 7506
+	}
+	11291.8.16 = {
+		holder = 7512
+	}
+	11323.11.16 = {
+		holder = 462400
+	}
+
+}
+
+
+c_wolkenstein = {
+	10756.1.1 = {
+		liege = d_thuringia
+		holder = 190387 #Hardrad
+	}
+	10857.1.1 = {
+		liege = d_meissen
+		holder = 184007
+	}
+	11066.1.1 = {
+		holder = 30335
+	}
+	11080.1.1 = {
+		holder = 20270
+	}
+	11123.9.2 = {
+		holder = 212908
+	}
+	11138.10.20 = {
+		holder = 212908
+	}
+	11142.1.1 = {
+		holder = 212600
+	}
+	11178.1.1 = {
+		holder = wartha_1 # Hugo von Wartha
+		liege = e_hre
+	}
+	11180.9.16 = {
+		liege = "d_ostfalen"
+	}
+	11180.9.16 = {
+		holder = 212905
+	}
+	11212.2.2 = {
+		holder = 462114
+	}
+	11260.10.7 = {
+		holder = 462101
+	}
+	11298.5.24 = {
+		holder = 462100
+	}
+}
+
+
+c_osterland = {
+	10720.1.1 = {
+		liege = "d_bohemia"
+		holder = 168345
+	}
+	10738.1.1 = {
+		holder = 146174
+	}
+	10760.1.1 = {
+		holder = 146175
+	}
+	10801.1.1 = {
+		holder = 168347
+	}
+	10804.1.1 = {
+		holder = 168348
+	}
+	10820.1.1 = {
+		holder = 168349
+	}
+	10830.1.1 = {
+		liege = d_meissen
+	#	holder = 0
+	}
+	
+	10857.1.1 = {
+		holder = 184007
+	}
+	11062.1.1 = {
+		#holder = 7060
+		holder = 20265 # Dedo Wettin
+	}
+	11067.1.1 = {
+		holder = 106510
+	}
+	11068.1.11 = {
+		holder = 106515
+	}
+	11089.1.1 = {
+		holder = 7699
+	}
+	11103.1.1 = {
+		holder = 7500
+	}
+	11123.1.1 = {
+		holder = 212040
+	}
+	11157.2.5 = {
+		holder = 212038
+	}
+	11190.2.18 = {
+		holder = 212041
+	}
+	11195.6.24 = {
+		holder = 212042
+	}
+	11221.1.17 = {
+		holder = 7504
+	}
+	11288.2.15 = {
+		holder = 7506
+	}
+	11291.8.16 = {
+		holder = 7512
+	}
+	11323.11.16 = {
+		holder = 462400
+	}
+
+}
+
+
+c_naumburg = {
+	10720.1.1 = {
+		liege = "d_bohemia"
+		holder = 168345
+	}
+	10738.1.1 = {
+		holder = 146174
+	}
+	10760.1.1 = {
+		holder = 146175
+	}
+	10801.1.1 = {
+		holder = 168347
+	}
+	10804.1.1 = {
+		holder = 168348
+	}
+	10820.1.1 = {
+		holder = 168349
+	}
+	10830.1.1 = {
+		liege = d_meissen
+	#	holder = 0
+	}
+	
+	10857.1.1 = {
+		holder = 184007
+	}
+	10968.1.1 = {
+		liege = "d_meissen"
+	}
+	11045.1.1 = {
+		holder = franconian0001 # Bishop Eberhard
+		government = theocracy_government
+	}
+	11067.1.1 = {
+		holder = 106510
+	}
+	11068.1.11 = {
+		holder = 106515
+	}
+	11089.1.1 = {
+		holder = 7699
+	}
+	11103.1.1 = {
+		holder = 7500
+	}
+	11123.1.1 = {
+		holder = 212040
+	}
+	11157.2.5 = {
+		holder = 212038
+	}
+	11190.2.18 = {
+		holder = 212041
+	}
+	11195.6.24 = {
+		holder = 212042
+	}
+	11221.1.17 = {
+		holder = 7504
+	}
+	11288.2.15 = {
+		holder = 7506
+	}
+	11291.8.16 = {
+		holder = 7512
+	}
+	11323.11.16 = {
+		holder = 462400
+	}
+
+}
+
+
+c_vogtland = {
+	10756.1.1 = {
+		liege = d_thuringia
+		holder = 190387 #Hardrad
+	}
+	10857.1.1 = {
+		liege = d_meissen
+		holder = 184007
+	}
+	11066.1.1 = {
+		holder = 30335
+	}
+	11080.1.1 = {
+		holder = 20270
+	}
+	11123.9.2 = {
+		holder = 212908
+	}
+	11138.10.20 = {
+		holder = 212908
+	}
+	11142.1.1 = {
+		holder = 212600
+	}
+	11158.1.1 = {
+		holder = everstein_1 # Albrecht, count of Everstein
+		liege = e_hre
+	}
+	11180.9.16 = {
+		liege = "d_ostfalen"
+	}
+	11180.9.16 = {
+		holder = 212905
+	}
+	11212.2.2 = {
+		holder = 462114
+	}
+	11260.10.7 = {
+		holder = 462101
+	}
+	11298.5.24 = {
+		holder = 462100
+	}
+}
+
+
+c_cottbus = {
+	10720.1.1 = {
+		liege = "d_bohemia"
+		holder = 168345
+	}
+	10738.1.1 = {
+		holder = 146174
+	}
+	10760.1.1 = {
+		holder = 146175
+	}
+	10801.1.1 = {
+		holder = 168347
+	}
+	10804.1.1 = {
+		holder = 168348
+	}
+	10820.1.1 = {
+		holder = 168349
+	}
+	10830.1.1 = {
+		liege = d_meissen
+		#holder = 0
+	}
+	
+	10857.1.1 = {
+		holder = 184007
+	}
+	11062.1.1 = {
+		#holder = 7060
+		holder = 20265
+	}
+	11067.1.1 = {
+		holder = 106510
+	}
+	11068.1.11 = {
+		holder = 106515
+	}
+	11089.1.1 = {
+		holder = 7699
+	}
+	11103.1.1 = {
+		holder = 7500
+	}
+	11123.1.1 = {
+		holder = 212040
+	}
+	11157.2.5 = {
+		holder = 212048
+	}
+	11190.2.18 = {
+		holder = 212041
+	}
+	11195.6.24 = {
+		holder = 212042
+	}
+	11221.1.17 = {
+		holder = 7504
+	}
+	11288.2.15 = {
+		holder = 7506
+	}
+	11291.8.16 = {
+		holder = 7512
+	}
+	11323.11.16 = {
+		holder = 462400
+	}
+
+}
+
+
+c_gorlitz = {
+	#867 tribes
+	10750.1.1 = {
+		holder = 194084
+		liege = d_lower_silesia
+		
+		government = tribal_government
+	}
+	10799.1.1 = {
+		holder = 194085
+	}
+	10822.1.1 = {
+		holder = 82291
+	}
+	10867.1.1 = {
+		liege = 0
+	holder = 184005
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	#Part of Poland
+	10962.1.1 = {
+		liege = "k_poland"
+	}
+	10962.1.1 = {
+		holder = 754
+	}
+	10992.5.25 = {
+		holder = 756
+	}
+	11025.6.17 = {
+		holder = 758
+	}
+
+	# Ends up with HRE eventually
+	11066.1.1 = {
+		#holder = 7060
+		liege = "d_lausitz"
+		holder = 20383 # Frierich the Deceitful
+	}
+	11067.1.1 = {
+		holder = 106510
+	}
+	11068.1.11 = {
+		holder = 106515
+	}
+	11089.1.1 = {
+		holder = 7699
+	}
+	11103.1.1 = {
+		holder = 7500
+	}
+	11123.1.1 = {
+		holder = 212040
+	}
+	11157.2.5 = {
+		holder = 212038
+	}
+	11178.1.1 = {
+		holder = 212850 # Bedrich
+	}
+	11190.2.18 = {
+		holder = 212041
+	}
+	11195.6.24 = {
+		holder = 212042
+	}
+	11221.1.17 = {
+		holder = 7504
+	}
+	11225.1.1 = {
+		liege = "d_thuringia"
+	}
+	11225.1.1 = {
+		holder = 7501
+	}
+	11227.9.11 = {
+		liege = d_lower_silesia
+		holder = 221537
+	}
+	11238.3.19 = {
+		holder = 125905
+	}
+	11241.4.9 = {
+		holder = 125908
+	}
+	11242.1.1 = {
+		holder = 471734
+	}
+	11249.1.1 = {
+		liege = "d_ostmark"
+	}
+	11249.1.1 = {
+		holder = 7688
+	}
+	11267.2.2 = {
+		holder = 7558
+	}
+	11318.2.14 = {
+		holder = 7560
+	}
+	11320.8.20 = {
+		holder = 462731
+	}
+}
+
+
+d_ostfalen = {
+	10700.1.1 = {
+		liege = k_saxony
+		de_jure_liege = k_saxony
+	}
+	10740.1.1 = {
+		holder = 190455 #Theoderic
+	}
+	10781.1.1 = {
+		holder = 0
+		de_jure_liege = k_east_francia
+	}
+	10844.1.1 = {
+		liege = k_east_francia
+	}
+	10844.1.1 = {
+		holder = 7959
+	}
+	10866.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		#de_jure_liege = k_east_francia
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11024.7.13 = {
+		liege = e_hre
+	}
+	11059.6.29 = {
+		holder = 1416
+	}
+	11072.3.28 = {
+		holder = 1418
+	}
+	11106.1.2 = {
+		holder = 30219
+	}
+	11137.12.4 = {
+		holder = 212602
+	}
+	11139.10.20 = {
+		holder = 212908
+	}
+	11142.1.1 = {
+		holder = 212600
+	}
+	
+	11180.9.16 = {
+		holder = 212905
+		de_jure_liege = k_east_francia
+	}
+	11212.2.2 = {
+		holder = 462114
+	}
+	11260.10.7 = {
+		holder = 33336
+	}
+	11282.1.1 = {
+		holder = 462101
+	}
+	
+	11298.5.24 = {
+		holder = 462100
+	}
+
+}
+
+
+c_luneburg = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10740.1.1 = {
+		holder = 190455 #Theoderic
+		liege = d_angria
+	}
+	#10781.1.1 = {
+	#	holder = 0
+	#}
+	10825.1.1 = {
+		holder = 7959
+	}
+	10866.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11059.6.29 = {
+		holder = 1416
+	}
+	11066.1.1 = {
+		holder = 41731
+	}
+	11072.3.28 = {
+		holder = 1418
+	}
+	11088.1.1 = {
+		holder = 30219
+	}
+	11137.12.4 = {
+		holder = 212602
+	}
+	11139.10.20 = {
+		holder = 212908
+	}
+	11142.1.1 = {
+		holder = 212600
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		holder = 462802
+	}
+	11220.1.1 = {
+		liege = "d_angria"
+	}
+	11252.1.1 = {
+		holder = 462832
+	}
+	11277.1.1 = {
+		holder = 462834
+	}
+	11330.4.10 = {
+		holder = 462835
+	}
+
+}
+
+
+c_brunswick = {
+	11178.1.1 = { change_development_level = 11 }
+
+	10761.1.1 = {
+		holder = 190457 #Bruno
+	}
+	10766.1.1 = {
+		liege = d_ostfalen
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10825.1.1 = {
+		holder = 7959
+	}
+	10844.1.1 = {
+		liege = "d_ostfalen"
+	}
+	10866.1.1 = {
+		holder = 144957
+	}
+	10880.2.2 = {
+		holder = 144955
+	}
+	10913.1.1 = {
+		holder = 106517
+	}
+	10960.1.24 = {
+		holder = 106518
+	}
+	10994.5.4 = {
+		holder = 10082
+	}
+	11003.1.2 = {
+		holder = 106512
+	}
+	11038.1.24 = {
+		holder = 106510 #Ekbert I von Braunschweig
+	}
+	11066.1.1 = {
+		holder = 2015
+	}
+	11068.1.1 = {
+		holder = 106515 #Ekbert II von Braunschweig
+	}
+	11090.7.3 = {
+		holder = 112603
+	}
+	11101.1.1 = {
+		holder = 30219
+	}
+	11137.12.4 = {
+		holder = 212602
+	}
+	11139.10.20 = {
+		holder = 212600
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		liege = d_ostfalen
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_ostfalen"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	11279.1.1 = {
+		holder = 462805
+	}
+	11322.9.7 = {
+		holder = 462808
+	}
+
+}
+
+
+c_hamburg = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10740.1.1 = {
+		holder = 190455 #Theoderic
+		liege = d_angria
+	}
+	#10781.1.1 = {
+	#	holder = 0
+	#}
+	10865.2.3 = {
+		holder = 163117
+	}
+	11043.4.15 = {
+		government = theocracy_government
+		holder = 20251 #Adalbert Goseck
+	}
+	11072.3.16 = {
+		holder = 30300 #Liemar von Goslar
+	}
+	11101.5.16 = {
+		holder = 30301 #Humbert von Bremen
+	}
+	11104.1.1 = {
+		holder = 30302 #Friedrich von Bremen
+	}
+	11123.1.29 = {
+		holder = 30303 #Adalbero von Bremen
+	}
+	11148.8.25 = {
+		holder = 30241 ##Hartwig Staden
+	}
+	11164.1.1 = {
+		holder = 212360 # Adolf of Schauenburg
+		government = feudal_government
+	}
+	11180.1.1 = {
+		holder = 30306 #Siegfried Askanien
+	}
+	11184.10.24 = {
+		holder = 231040 #Hartwig von Utlede
+	}
+	
+	11207.11.3 = {
+		holder = 201548 #Valdemar Knudsson of Denmark
+	}
+	11210.1.1 = {
+		holder = 30070 #Gerhard von Oldenburg
+	}
+	11219.8.13 = {
+		holder = 30307 #Gerhard von der Lippe
+	}
+	
+	11224.1.1 = {
+		liege = "d_holstein"
+	}
+	11224.1.1 = {
+		holder = 212360 #Adolf III
+	}
+	11225.1.3 = {
+		holder = 31752 #Adolf IV
+	}
+	11261.7.8 = {
+		holder = 451975 #Gerhard I
+	}
+	11290.12.21 = {
+		holder = 451945 #Heinrich I
+	}
+	11304.8.5 = {
+		holder = 451940 #Gerhard II
+	}
+}
+
+
+c_dannenberg = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10740.1.1 = {
+		holder = 190455 #Theoderic
+		liege = d_ostfalen
+	}
+	#10781.1.1 = {
+	#	holder = 0
+	#}
+	10825.1.1 = {
+		holder = 7959
+	}
+	10866.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11059.6.29 = {
+		holder = 1416
+	}
+	11066.1.1 = {
+		holder = 41731
+	}
+	11145.1.1 = {
+		holder = dannenberg_2 # Volrad
+	}
+	11169.1.1 = {
+		holder = dannenberg_1 # Heinrich I, count of Dannenberg
+		liege = d_angria
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		holder = 462802
+	}
+	11220.1.1 = {
+		liege = "d_ostfalen"
+	}
+	11252.1.1 = {
+		holder = 462832
+	}
+	11277.1.1 = {
+		holder = 462834
+	}
+	11330.4.10 = {
+		holder = 462835
+	}
+
+}
+
+
+c_stendal = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10740.1.1 = {
+		holder = 190455 #Theoderic
+		liege = d_angria
+	}
+	#10781.1.1 = {
+	#	holder = 0
+	#}
+	10825.1.1 = {
+		holder = 7959
+	}
+	10866.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11059.6.29 = {
+		holder = 1416
+	}
+	11066.1.1 = {
+		holder = 20247
+	}
+	11072.3.28 = {
+		holder = 1418
+	}
+	11088.1.1 = {
+		holder = 30219
+	}
+	11137.12.4 = {
+		holder = 212602
+	}
+	11139.10.20 = {
+		holder = 212908
+	}
+	11142.1.1 = {
+		holder = 212600
+	}
+	11157.1.1 = {
+		holder = 212908 # Albert the Bear
+	}
+	11170.11.18 = {
+		holder = 212030 # Otto I
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		holder = 462802
+	}
+	11220.1.1 = {
+		liege = "d_angria"
+	}
+	11252.1.1 = {
+		holder = 462832
+	}
+	11277.1.1 = {
+		holder = 462834
+	}
+	11330.4.10 = {
+		holder = 462835
+	}
+
+}
+
+
+d_thuringia = {
+	10460.1.1 = {
+		holder = 190375 #Basinus
+	}
+	10477.1.1 = {
+		holder = 190376 #Fisud
+	}
+	10500.1.1 = {
+		holder = 190378 #Baderic
+	}
+	10531.1.1 = {
+		holder = 190379 #Hermanfred
+	}
+	10531.1.1 = {
+		liege = k_east_francia
+	}
+	10534.1.1 = {
+		holder = 190381 #Berthar
+	}
+	10539.1.1 = {
+		holder = 190382 #Chamar
+	}
+	10588.1.1 = {
+		holder = 190383 #Radulf
+	}
+	10633.1.1 = {
+		holder = 190384 #Chamar
+	}
+	10666.1.1 = {
+		holder = 190385 #Berthar
+	}
+	10702.1.1 = {
+		holder = 190386 #Chamar
+	}
+	10741.1.1 = {
+		holder = 168224 #Radulf
+	}
+	10769.1.1 = {
+		liege = k_france
+	}
+	10775.1.1 = {
+		holder = 168226 #Thankulf
+	}
+	10815.1.1 = {
+		holder = 168227 #Hadulf
+	}
+	10839.1.1 = {
+		liege = k_east_francia
+	}
+	10849.1.1 = {
+		holder = 168228
+	}
+	10867.1.1 = {
+		#de_jure_liege = k_east_francia
+	}
+	10873.8.1 = {
+		holder = 168229
+	}
+	10880.1.1 = {
+		holder = 33428
+	}
+	10882.1.1 = {
+		holder = 168231
+	}
+	10886.1.1 = {
+		holder = 33428
+	}
+	10892.1.1 = {
+		holder = 7951
+	}
+	10906.2.27 = {
+		liege = 0
+		holder = 0
+	}
+	11112.5.13 = {
+		liege = e_hre
+		holder = 33408
+	}
+	11122.1.1 = {
+		holder = 33409
+	}
+	11131.1.1 = {
+		holder = 212442
+	}
+	11140.1.12 = {
+		holder = 212440
+	}
+	11172.10.14 = {
+		holder = 212430 # Ludwig of Thuringia
+	}
+	11190.1.1 = {
+		holder = 212431
+	}
+	11217.4.25 = {
+		holder = 7501
+	}
+	11227.9.11 = {
+		holder = 7502
+	}
+	11241.1.3 = {
+		holder = 7503
+	}
+	11247.2.19 = {
+		holder = 7504
+	}
+	11265.1.1 = {
+		holder = 7506
+	}
+	11288.2.15 = {
+		holder = 7509
+	}
+	11291.8.16 = {
+		holder = 7506
+	}
+	11294.1.1 = {
+		holder = 462360
+	}
+	11298.6.23 = {
+		holder = 33427
+	}
+	11307.12.10 = {
+		holder = 7512
+	}
+	11323.11.16 = {
+		holder = 462400
+	}
+}
+
+
+c_gottingen = {
+	10761.1.1 = {
+		liege = d_ostfalen
+	}
+	10761.1.1 = {
+		holder = 190463 #Amelung
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10844.1.1 = {
+		liege = "d_ostfalen"
+		holder = 167757
+	}
+	10889.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11059.6.29 = {
+		holder = 1416
+	}
+	11066.1.1 = {
+		holder = 30209
+	}
+	11072.3.28 = {
+		holder = 1418
+	}
+	11106.1.2 = {
+		holder = 30219
+	}
+	11137.12.4 = {
+		holder = 212602
+	}
+	
+	11139.10.20 = {
+		holder = 212908
+	}
+	11142.1.1 = {
+		holder = 212600
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_ostfalen"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	
+	#Landgraves of Hesse
+	
+	11263.1.1 = {
+		holder = 33391
+	}
+	11308.12.21 = {
+		holder = 33394
+	}
+	11328.1.17 = {
+		holder = 33401
+	}
+}
+
+
+c_gleichenstein = {
+	10761.1.1 = {
+		liege = d_angria
+	}
+	10761.1.1 = {
+		holder = 190463 #Amelung
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10844.1.1 = {
+		liege = "d_angria"
+		holder = 167757
+	}
+	
+	# So the dukes of Thuringia have at least a county to call their own.
+	10849.1.1 = {
+		liege = "d_thuringia"
+	}
+	10849.1.1 = {
+		holder = 168228
+	}
+	10873.8.1 = {
+		holder = 168229
+	}
+	10888.1.1 = {
+		liege = "d_angria"
+	}
+	
+	# Normal history resumes.
+	10889.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11059.6.29 = {
+		holder = 1416
+	}
+	11066.1.1 = {
+		holder = 30209
+	}
+	11072.3.28 = {
+		holder = 1418
+	}
+	11106.1.2 = {
+		holder = 30219
+	}
+	11137.12.4 = {
+		holder = 212602
+	}
+	
+	11139.10.20 = {
+		holder = 212908
+	}
+	11142.1.1 = {
+		holder = 212600
+	}
+	11172.10.14 = {
+		holder = 212430 # Ludwig of Thuringia
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_angria"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	
+	#Landgraves of Hesse
+	
+	11263.1.1 = {
+		holder = 33391
+	}
+	11308.12.21 = {
+		holder = 33394
+	}
+	11328.1.17 = {
+		holder = 33401
+	}
+}
+
+
+c_orlamunde = {
+	10460.1.1 = {
+		holder = 190375 #Basinus
+	}
+	10477.1.1 = {
+		holder = 190376 #Fisud
+	}
+	10500.1.1 = {
+		holder = 190378 #Baderic
+	}
+	10531.1.1 = {
+		holder = 190379 #Hermanfred
+	}
+	10531.1.1 = {
+		liege = k_east_francia
+	}
+	10534.1.1 = {
+		holder = 190381 #Berthar
+	}
+	10539.1.1 = {
+		holder = 190382 #Chamar
+	}
+	10588.1.1 = {
+		holder = 190383 #Radulf
+	}
+	10633.1.1 = {
+		holder = 190384 #Chamar
+	}
+	10666.1.1 = {
+		holder = 190385 #Berthar
+	}
+	10702.1.1 = {
+		holder = 190386 #Chamar
+	}
+	10741.1.1 = {
+		holder = 168224 #Radulf
+	}
+	10769.1.1 = {
+		liege = k_france
+	}
+	10775.1.1 = {
+		holder = 168226 #Thankulf
+	}
+	10815.1.1 = {
+		holder = 168227 #Hadulf
+	}
+	10855.1.1 = {
+		liege = "d_thuringia"
+	}
+	10855.1.1 = {
+		holder = 33428
+	}
+	10906.2.27 = {
+		liege = "k_east_francia"
+		holder = 7951
+	}
+	11024.7.13 = {
+		liege = e_hre
+	}
+	11056.1.1 = {
+		liege = "d_meissen"
+	}
+	11056.1.1 = {
+		holder = 20233
+	}
+	11080.6.13 = {
+		holder = 20234
+	}
+	11112.5.13 = {
+		liege = "d_thuringia"
+	}
+	11123.1.1 = {
+		holder = 212442
+	}
+	11140.1.12 = {
+		holder = 212440
+	}
+	11172.10.14 = {
+		holder = 212430
+	}
+	11167.1.1 = {
+		holder = 31793 # Hermann I of Weimar-Orlamünde
+	}
+	11176.1.2 = {
+		holder = 31794 # Siegfried III von Weimar-Orlamünde
+	}
+	11190.1.1 = {
+		holder = 212431
+	}
+	11217.4.25 = {
+		holder = 7501
+	}
+	11227.9.11 = {
+		holder = 7502
+	}
+	11241.1.3 = {
+		holder = 7503
+	}
+	11247.2.19 = {
+		holder = 7504
+	}
+	11265.1.1 = {
+		holder = 7506
+	}
+	11288.2.15 = {
+		holder = 7509
+	}
+	11291.8.16 = {
+		holder = 7506
+	}
+	11294.1.1 = {
+		holder = 462360
+	}
+	11298.6.23 = {
+		holder = 33427
+	}
+	11307.12.10 = {
+		holder = 7512
+	}
+	11323.11.16 = {
+		holder = 462400
+	}
+
+}
+
+
+c_schmalkalden = {
+	10460.1.1 = {
+		holder = 190375 #Basinus
+	}
+	10477.1.1 = {
+		holder = 190376 #Fisud
+	}
+	10500.1.1 = {
+		holder = 190378 #Baderic
+	}
+	10531.1.1 = {
+		holder = 190379 #Hermanfred
+	}
+	10531.1.1 = {
+		liege = k_east_francia
+	}
+	10534.1.1 = {
+		holder = 190381 #Berthar
+	}
+	10539.1.1 = {
+		holder = 190382 #Chamar
+	}
+	10588.1.1 = {
+		holder = 190383 #Radulf
+	}
+	10633.1.1 = {
+		holder = 190384 #Chamar
+	}
+	10666.1.1 = {
+		holder = 190385 #Berthar
+	}
+	10702.1.1 = {
+		holder = 190386 #Chamar
+	}
+	10741.1.1 = {
+		holder = 168224 #Radulf
+	}
+	10769.1.1 = {
+		liege = k_france
+	}
+	10775.1.1 = {
+		holder = 168226 #Thankulf
+	}
+	10815.1.1 = {
+		holder = 168227 #Hadulf
+	}
+	10855.1.1 = {
+		liege = "d_thuringia"
+	}
+	10855.1.1 = {
+		holder = 33428
+	}
+	10906.2.27 = {
+		liege = "k_east_francia"
+		holder = 7951
+	}
+	11024.7.13 = {
+		liege = e_hre
+	}
+	11056.1.1 = {
+		liege = "d_meissen"
+	}
+	11056.1.1 = {
+		holder = 20233
+	}
+	11080.6.13 = {
+		holder = 20234
+	}
+	11112.5.13 = {
+		liege = "d_thuringia"
+	}
+	11123.1.1 = {
+		holder = 212442
+	}
+	11140.1.12 = {
+		holder = 212440
+	}
+	11172.10.14 = {
+		holder = 212430
+	}
+	11190.1.1 = {
+		holder = 212431
+	}
+	11217.4.25 = {
+		holder = 7501
+	}
+	11227.9.11 = {
+		holder = 7502
+	}
+	11241.1.3 = {
+		holder = 7503
+	}
+	11247.2.19 = {
+		holder = 7504
+	}
+	11265.1.1 = {
+		holder = 7506
+	}
+	11288.2.15 = {
+		holder = 7509
+	}
+	11291.8.16 = {
+		holder = 7506
+	}
+	11294.1.1 = {
+		holder = 462360
+	}
+	11298.6.23 = {
+		holder = 33427
+	}
+	11307.12.10 = {
+		holder = 7512
+	}
+	11323.11.16 = {
+		holder = 462400
+	}
+
+}
+
+
+c_lobdaburg = {
+	10460.1.1 = {
+		holder = 190375 #Basinus
+	}
+	10477.1.1 = {
+		holder = 190376 #Fisud
+	}
+	10500.1.1 = {
+		holder = 190378 #Baderic
+	}
+	10531.1.1 = {
+		holder = 190379 #Hermanfred
+	}
+	10531.1.1 = {
+		liege = k_east_francia
+	}
+	10534.1.1 = {
+		holder = 190381 #Berthar
+	}
+	10539.1.1 = {
+		holder = 190382 #Chamar
+	}
+	10588.1.1 = {
+		holder = 190383 #Radulf
+	}
+	10633.1.1 = {
+		holder = 190384 #Chamar
+	}
+	10666.1.1 = {
+		holder = 190385 #Berthar
+	}
+	10702.1.1 = {
+		holder = 190386 #Chamar
+	}
+	10741.1.1 = {
+		holder = 168224 #Radulf
+	}
+	10769.1.1 = {
+		liege = k_france
+	}
+	10775.1.1 = {
+		holder = 168226 #Thankulf
+	}
+	10815.1.1 = {
+		holder = 168227 #Hadulf
+	}
+	10855.1.1 = {
+		liege = "d_thuringia"
+	}
+	10855.1.1 = {
+		holder = 33428
+	}
+	10906.2.27 = {
+		liege = "k_east_francia"
+		holder = 7951
+	}
+	11024.7.13 = {
+		liege = e_hre
+	}
+	11056.1.1 = {
+		liege = "d_meissen"
+	}
+	11056.1.1 = {
+		holder = 20233
+	}
+	11080.6.13 = {
+		holder = 20234
+	}
+	11112.5.13 = {
+		liege = "d_thuringia"
+	}
+	11123.1.1 = {
+		holder = 212442
+	}
+	11140.1.12 = {
+		holder = 212440
+	}
+	11172.10.14 = {
+		holder = 212430
+	}
+	11190.1.1 = {
+		holder = 212431
+	}
+	11217.4.25 = {
+		holder = 7501
+	}
+	11227.9.11 = {
+		holder = 7502
+	}
+	11241.1.3 = {
+		holder = 7503
+	}
+	11247.2.19 = {
+		holder = 7504
+	}
+	11265.1.1 = {
+		holder = 7506
+	}
+	11288.2.15 = {
+		holder = 7509
+	}
+	11291.8.16 = {
+		holder = 7506
+	}
+	11294.1.1 = {
+		holder = 462360
+	}
+	11298.6.23 = {
+		holder = 33427
+	}
+	11307.12.10 = {
+		holder = 7512
+	}
+	11323.11.16 = {
+		holder = 462400
+	}
+
+}
+
+
+d_westfalen = {
+	10700.1.1 = {
+		liege = k_saxony
+		de_jure_liege = k_saxony
+	}
+	10740.1.1 = {
+		holder = 190455 #Theoderic
+	}
+	10781.1.1 = {
+		holder = 33250 # Widukind
+	}
+	10805.1.1 = {
+		holder = 0
+	}
+	10844.1.1 = {
+		holder = 7959
+		liege = k_east_francia
+		de_jure_liege = k_east_francia
+	}
+	10866.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11024.7.13 = {
+		liege = e_hre
+	}
+	11059.6.29 = {
+		holder = 1416
+	}
+	11072.3.28 = {
+		holder = 1418
+	}
+	11106.1.2 = {
+		holder = 30219
+	}
+	11137.12.4 = {
+		holder = 212602
+	}
+	11139.10.20 = {
+		holder = 212908
+	}
+	11142.1.1 = {
+		holder = 212600
+	}
+	
+	11180.9.16 = {
+		holder = 212905
+		de_jure_liege = k_east_francia
+	}
+	11212.2.2 = {
+		holder = 462114
+	}
+	11260.10.7 = {
+		holder = 33336
+	}
+	11282.1.1 = {
+		holder = 462101
+	}
+	
+	11298.5.24 = {
+		holder = 462100
+	}
+
+}
+
+
+c_osnabruck = {
+	10741.1.1 = {
+		liege = d_westfalen
+	}
+	10741.1.1 = {
+		holder = 190462 #Billung
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10844.1.1 = {
+		government = theocracy_government
+		liege = "d_westfalen"
+		holder = 7959
+	}
+	10860.1.1 = {
+		holder = 167784
+	}
+	11057.1.1 = {
+		holder = 20224 #Benno von Osnabruck
+	}
+	11067.12.3 = {
+		holder = 30335 #Benno von Löhningen
+	}
+	11088.7.27 = {
+		holder = 30336 #Markward von Corvey
+	}
+	11093.1.1 = {
+		holder = 30337 #Wicho von Osnabruck
+	}
+	
+	11101.4.21 = {
+		holder = 30338 #Johann von Osnabruck
+	}
+	
+	11110.7.13 = {
+		holder = 30339 #Gottschalk von Diepholz
+	}
+	
+	11119.1.11 = {
+		holder = 30340 #Diethard von Osnabruck
+	}
+	11137.1.1 = {
+		holder = 30341 #Udo von Steinfurt
+	}
+	11141.6.28 = {
+		holder = 30342 #Philipp von Katzenelnbogen
+	}
+	
+	11173.6.15 = {
+		holder = 231042 #Arnold von Berg
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11190.12.15 = {
+		holder = 30070 #Gerhard von Oldenburg
+	}
+	11216.1.1 = {
+		holder = 30348 #Adolf von Tecklenburg
+	}
+	11220.1.1 = {
+		liege = d_westfalen
+	}
+	11224.6.30 = {
+		holder = 30353 #Engelbert von Isenburg
+	}
+	11235.1.1 = {
+		liege = "d_westfalen"
+	}
+	
+	11250.1.1 = {
+		holder = 30355 #Bruno von Isenburg
+	}
+	11258.12.20 =
+	
+	{
+	holder = 30356 #Baldewin von Rüssel
+	}
+	11264.1.1 =
+	
+	{
+	holder = 30357 #Widukind von Waldeck
+	}
+	11269.11.18 = {
+		holder = 30358 #Konrad von Rietberg
+	}
+	11297.4.16 = {
+		holder = 30361 #Ludwig von Ravensberg
+	}
+	11308.1.1 = {
+		holder = 30362 #Engelbert von Weyhe
+	}
+	11320.1.1 =
+	
+	{
+	holder = 462004 #Gottfried von Arnsberg
+	}
+
+}
+
+
+c_tecklenburg = {
+	10741.1.1 = {
+		liege = d_westfalen
+	}
+	10741.1.1 = {
+		holder = 190462 #Billung
+	}
+	10844.1.1 = {
+		liege = "d_westfalen"
+		holder = 7959
+	}
+	10860.1.1 = {
+		holder = 167784
+	}
+	11057.1.1 = {
+		holder = 20224 #Benno von Osnabruck
+	}
+	11067.12.3 = {
+		holder = 30335 #Benno von LÃ¶hningen
+	}
+	11088.7.27 = {
+		holder = 30336 #Markward von Corvey
+	}
+	11093.1.1 = {
+		holder = 30337 #Wicho von Osnabruck
+	}
+	
+	11101.4.21 = {
+		holder = 30338 #Johann von Osnabruck
+	}
+	
+	11110.7.13 = {
+		holder = 30339 #Gottschalk von Diepholz
+	}
+	11113.1.1 = {
+		holder = 30352
+	}
+	11150.2.4 = {
+		holder = 30351
+	}
+	11156.11.22 = {
+		holder = 30350
+	}
+	11202.8.8 = {
+		holder = 31803
+	}
+	11263.9.11 = {
+		holder = 31805
+	}
+	11279.1.1 = {
+		holder = 31806
+	}
+	11285.1.1 = {
+		holder = 31807
+	}
+	11307.5.3 = {
+		holder = 33285
+	}
+	11328.5.4 = {
+		holder = 33288
+	}
+}
+
+
+b_bentheim = {
+	11205.1.1 = {
+		holder = 31066
+	}
+	11209.2.13 = {
+		holder = 31798
+	}
+	11248.5.9 = {
+		holder = 31799
+	}
+	11279.1.1 = {
+		holder = 31800
+	}
+	11307.6.25 = {
+		holder = 31801
+	}
+	11333.7.21 = {
+		holder = 31802
+	}
+}
+
+
+c_munster = {
+	10761.1.1 = {
+		liege = d_westfalen
+	}
+	10761.1.1 = {
+		holder = 190472 #Unwan
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10800.1.1 = {
+		liege = 0
+	}
+	10842.1.1 = {
+		government = theocracy_government
+		liege = "d_westfalen"
+		holder = 163054
+	}
+	11063.1.1 = {
+		holder = 20218 #Friedrich Wettin
+	}
+	
+	11084.4.18 = {
+		holder = 30314 #Erpho von Münster
+	}
+	
+	11097.11.9 = {
+		holder = 30315 #Burchard von Holte
+	}
+	
+	
+	11118.3.19 = {
+		holder = 30221 #Diederik van Zutphen
+	}
+	
+	11127.2.28 =
+	
+	{
+	holder = 30316 #Ekbert von Braunschweig
+	}
+	
+	11132.1.9 = {
+		holder = 30317 #Werner von Steutzlingen
+	}
+	
+	
+	11151.12.1 = {
+		holder = 30318 #Friedrich von Are
+	}
+	11168.1.1 = {
+		holder = 30319 #Ludwig von Wippra
+	}
+	11173.1.1 = {
+		holder = 231041 #Hermann von Katzenelnbogen
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11203.6.9 = {
+		holder = 30072 #Otto von Oldenburg
+	}
+	
+	11218.3.12 = {
+		holder = 30320 #Dietrich von Isenberg
+	}
+	11220.1.1 = {
+		liege = d_lower_lorraine
+	}
+	11226.1.1 = {
+		holder = 30321 #Ludolf von Holte
+	}
+	11235.1.1 = {
+		liege = "d_westfalen"
+	}
+	
+	11247.1.1 = {
+		holder = 30322 #Otto von der Lippe
+	}
+	
+	
+	11259.6.21 = {
+		holder = 30326 #Wilhelm von Holte
+	}
+	
+	11260.1.1 = {
+		holder = 30330 #Gerhard von der Mark
+	}
+	
+	11272.8.11 = {
+		holder = 30332 #Everhard von Diest
+	}
+	11301.4.5 = {
+		holder = 30333 #Otto von Rietberg
+	}
+	
+	11308.10.16 = {
+		holder = 30334 #Konrad von Berg
+	}
+	11313.5.25 =
+	
+	{
+	holder = 462003 #Ludwig von Hessen
+	}
+
+}
+
+
+c_waldeck = {
+	10761.1.1 = {
+		liege = d_westfalen
+	}
+	10761.1.1 = {
+		holder = 190463 #Amelung
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10844.1.1 = {
+		liege = "d_westfalen"
+		holder = 167757
+	}
+	10889.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11059.6.29 = {
+		holder = 1418
+	}
+	11178.1.1 = {
+		holder = 33230
+	}
+	11190.1.1 = {
+		holder = 33231
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_westfalen"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	
+	#Landgraves of Hesse
+	
+	11263.1.1 = {
+		holder = 33391
+	}
+	11308.12.21 = {
+		holder = 33394
+	}
+	11328.1.17 = {
+		holder = 33401
+	}
+}
+
+
+c_paderborn = {
+	10761.1.1 = {
+		liege = d_westfalen
+	}
+	10761.1.1 = {
+		holder = 190463 #Amelung
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10844.1.1 = {
+		liege = "d_westfalen"
+		holder = 167757
+	}
+	10889.1.1 = {
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10961.1.1 = {
+		holder = 1410
+	}
+	10963.3.27 = {
+		holder = 1412
+	}
+	11011.2.9 = {
+		holder = 1414
+	}
+	11059.6.29 = {
+		holder = 1418
+	}
+	11066.1.1 = {
+		holder = 33244
+		government = theocracy_government
+	}
+	11178.1.1 = {
+		holder = paderborn_bishop_1 # Siegfried, bishop of Paderborn
+		government = theocracy_government
+		liege = d_angria
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		holder = 462802
+	}
+	11235.1.1 = {
+		liege = "d_westfalen"
+	}
+	11252.1.1 = {
+		holder = 462803
+	}
+	
+	#Landgraves of Hesse
+	
+	11263.1.1 = {
+		holder = 33391
+	}
+	11308.12.21 = {
+		holder = 33394
+	}
+	11328.1.17 = {
+		holder = 33401
+	}
+}
+
+c_ditmarschen = {
+	10761.1.1 = {
+		liege = d_holstein
+		government = tribal_government
+	}
+	10761.1.1 = {
+		holder = 190474 #Hesso
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10860.1.1 = {
+		holder = 163117	#Count Rimbert Hamburg
+		liege = d_angria
+		government = feudal_government
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 101517
+	}
+	11106.1.1 = {
+		liege = "d_angria"
+	}
+	11106.1.1 = {
+		holder = 31750 #Adolf I
+	}
+	11130.11.13 = {
+		holder = 212362 #Adolf II
+	}
+	11164.7.6 = {
+		holder = 212360 #Adolf III
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11202.1.1 = {
+		liege = "d_holstein"
+	}
+	11225.1.3 = {
+		holder = 31752 #Adolf IV
+	}
+	11261.7.8 = {
+		holder = 451975 #Gerhard I
+	}
+	11290.12.21 = {
+		holder = 451972 #Gerhard II
+	}
+	11312.10.28 = {
+		holder = 451973
+	}
+	11323.1.2 = {
+		holder = 451970 #Gerhard III
+	}
+}

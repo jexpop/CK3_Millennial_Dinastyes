@@ -1,0 +1,2869 @@
+﻿74411 = {
+	name = "Chandalevi"
+	dynasty = 12321
+	female = yes
+	religion = "vaishnavism"
+	culture = "marathi"
+	father = 74480
+	mother = 74488
+
+
+	11050.1.1 = {
+		birth = yes
+	}
+	11111.1.1 = {
+		death = yes
+	}
+}
+
+74474 = {
+	name = "Jatiga"
+	dynasty = 12321
+	religion = "vaishnavism"
+	culture = "marathi"
+
+	10894.1.1 = {
+		birth = yes
+	}
+	10960.1.1 = {
+		death = yes
+	}
+}
+
+74475 = {
+	name = "Naivarman"
+	dynasty = 12321
+	religion = "vaishnavism"
+	culture = "marathi"
+	father = 74474
+
+	10922.1.1 = {
+		birth = yes
+	}
+	10980.1.1 = {
+		death = yes
+	}
+}
+
+74476 = {
+	name = "Chandra"
+	dynasty = 12321
+	religion = "vaishnavism"
+	culture = "marathi"
+	father = 74475
+
+	10949.1.1 = {
+		birth = yes
+	}
+	11000.1.1 = {
+		death = yes
+	}
+}
+
+74477 = {
+	name = "Jatiga"
+	dynasty = 12321
+	religion = "vaishnavism"
+	culture = "marathi"
+	father = 74476
+
+	10976.1.1 = {
+		birth = yes
+	}
+	11020.1.1 = {
+		death = yes
+	}
+}
+
+74478 = {
+	name = "Gonka"
+	dynasty = 12321
+	religion = "vaishnavism"
+	culture = "marathi"
+	father = 74476
+
+	10982.1.1 = {
+		birth = yes
+	}
+	11050.1.1 = {
+		death = yes
+	}
+}
+
+74479 = {
+	name = "Guhala"
+	dynasty = 12321
+	religion = "vaishnavism"
+	culture = "marathi"
+	father = 74478
+
+	11004.1.1 = {
+		birth = yes
+	}
+	11048.1.1 = {
+		death = yes
+	}
+}
+
+74480 = {
+	name = "Marsimha"
+	dynasty = 12321
+	religion = "vaishnavism"
+	culture = "marathi"
+	father = 74479
+
+	11026.1.1 = {
+		birth = yes
+	}
+	11048.1.1 = {
+		add_spouse = 74488
+	}
+	11075.1.1 = {
+		death = yes
+	}
+}
+
+74481 = {
+	name = "Guhala"
+	dynasty = 12321
+	religion = "vaishnavism"
+	culture = "marathi"
+	father = 74480
+	mother = 74488
+
+	11050.1.1 = {
+		birth = yes
+	}
+	11085.1.1 = {
+		death = yes
+	}
+}
+
+74482 = {
+	name = "Bhoja"
+	dynasty = 12321
+	religion = "vaishnavism"
+	culture = "marathi"
+	father = 74480
+	mother = 74488
+
+	11053.1.1 = {
+		birth = yes
+	}
+	11100.1.1 = {
+		death = yes
+	}
+}
+
+74483 = {
+	name = "Ballala"
+	dynasty = 12321
+	religion = "vaishnavism"
+	culture = "marathi"
+	father = 74480
+	mother = 74488
+
+	11056.1.1 = {
+		birth = yes
+	}
+	11108.1.1 = {
+		death = yes
+	}
+}
+
+74484 = {
+	name = "Gonka"
+	dynasty = 12321
+	religion = "vaishnavism"
+	culture = "marathi"
+	father = 74480
+	mother = 74488
+
+	11059.1.1 = {
+		birth = yes
+	}
+	11081.1.1 = {
+		add_spouse = 74489
+	}
+	11106.1.1 = {
+		death = yes
+	}
+}
+
+74485 = {
+	name = "Gandaraditya"
+	dynasty = 12321
+	religion = "vaishnavism"
+	culture = "marathi"
+	father = 74484
+	mother = 74489
+
+	11084.1.1 = {
+		birth = yes
+	}
+	11110.1.1 = {
+		add_spouse = 74490
+	}
+	11138.1.1 = {
+		death = yes
+	}
+}
+
+74486 = {
+	name = "Vijayaditya"
+	dynasty = 12321
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74485
+	mother = 74490
+
+	11111.1.1 = {
+		birth = yes
+	}
+	11133.1.1 = {
+		add_spouse = 74491
+	}
+	11175.1.1 = {
+		death = yes
+	}
+}
+
+74487 = {
+	name = "Bhoja"
+	dynasty = 12321
+	religion = "vaishnavism"
+	culture = "marathi"
+	father = 74486
+	mother = 74491
+
+	11135.1.1 = {
+		birth = yes
+	}
+	11219.1.1 = {
+		death = yes
+	}
+}
+
+74488 = {
+	name = "Jinal"
+	female = yes
+	religion = "vaishnavism"
+	culture = "marathi"
+
+	11030.1.1 = {
+		birth = yes
+	}
+	11092.1.1 = {
+		death = yes
+	}
+}
+
+74489 = {
+	name = "Rasna"
+	female = yes
+	religion = "vaishnavism"
+	culture = "marathi"
+
+	11065.1.1 = {
+		birth = yes
+	}
+	11118.1.1 = {
+		death = yes
+	}
+}
+
+74490 = {
+	name = "Bairavi"
+	female = yes
+	religion = "vaishnavism"
+	culture = "marathi"
+
+	11090.1.1 = {
+		birth = yes
+	}
+	11158.1.1 = {
+		death = yes
+	}
+}
+
+74491 = {
+	name = "Warda"
+	female = yes
+	religion = "vaishnavism"
+	culture = "marathi"
+
+	11115.1.1 = {
+		birth = yes
+	}
+	11179.1.1 = {
+		death = yes
+	}
+}
+
+74492 = {
+	name = "Kapardin"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+
+	10762.1.1 = {
+		birth = yes
+	}
+	10825.1.1 = {
+		death = yes
+	}
+}
+
+74493 = {
+	name = "Pullashkati"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74492
+
+	10790.1.1 = {
+		birth = yes
+	}
+	10850.1.1 = {
+		death = yes
+	}
+}
+
+74494 = {
+	name = "Kapardin"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74493
+
+	10816.1.1 = {
+		birth = yes
+	}
+	10840.1.1 = {
+		add_spouse = 74517
+	}
+	10888.1.1 = {
+		death = yes
+	}
+}
+
+74495 = {
+	name = "Vappuvanna"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74494
+	mother = 74517
+
+	10842.1.1 = {
+		birth = yes
+	}
+	10868.1.1 = {
+		add_spouse = 74518
+	}
+	10910.1.1 = {
+		death = yes
+	}
+}
+
+74496 = {
+	name = "Jhanha"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74495
+	mother = 74518
+
+	10869.1.1 = {
+		birth = yes
+	}
+	10930.1.1 = {
+		death = yes
+	}
+}
+
+74497 = {
+	name = "Goggiraja"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74495
+	mother = 74518
+
+	10878.1.1 = {
+		birth = yes
+	}
+	10945.1.1 = {
+		death = yes
+	}
+}
+
+74498 = {
+	name = "Vajjada"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74497
+
+	10905.1.1 = {
+		birth = yes
+	}
+	10968.1.1 = {
+		death = yes
+	}
+}
+
+74499 = {
+	name = "Chhadvaideva"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74497
+
+	10911.1.1 = {
+		birth = yes
+	}
+	10975.1.1 = {
+		death = yes
+	}
+}
+
+74500 = {
+	name = "Aparajita"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74498
+
+	10933.1.1 = {
+		birth = yes
+	}
+	11010.1.1 = {
+		death = yes
+	}
+}
+
+74501 = {
+	name = "Vajjada"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74500
+
+	10957.1.1 = {
+		birth = yes
+	}
+	11015.1.1 = {
+		death = yes
+	}
+}
+
+74502 = {
+	name = "Kundaladevi"
+	dynasty = 12322
+	female = yes
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74501
+
+	11008.1.1 = {
+		birth = yes
+	}
+	11070.1.1 = {
+		death = yes
+	}
+}
+
+74503 = {
+	name = "Arikesarin"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74500
+
+	10960.1.1 = {
+		birth = yes
+	}
+	11022.1.1 = {
+		death = yes
+	}
+}
+
+74504 = {
+	name = "Chhittaraja"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74501
+
+	10980.1.1 = {
+		birth = yes
+	}
+	11035.1.1 = {
+		death = yes
+	}
+}
+
+74505 = {
+	name = "Nagarjuna"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74504
+
+	11006.1.1 = {
+		birth = yes
+	}
+	11045.1.1 = {
+		death = yes
+	}
+}
+
+74506 = {
+	name = "Mummuniraja"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74504
+
+	11029.1.1 = {
+		birth = yes
+	}
+	11052.1.1 = {
+		add_spouse = 74519
+	}
+	11070.1.1 = {
+		death = yes
+	}
+}
+
+74507 = {
+	name = "Anantadeva"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74506
+	mother = 74519
+
+	11054.1.1 = {
+		birth = yes
+	}
+	11079.1.1 = {
+		add_spouse = 74520
+	}
+	11127.1.1 = {
+		death = yes
+	}
+}
+
+74508 = {
+	name = "Aparaditya"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74507
+	mother = 74520
+
+	11080.1.1 = {
+		birth = yes
+	}
+	11000.1.1 = {
+		add_spouse = 74521
+	}
+	11148.1.1 = {
+		death = yes
+	}
+}
+
+74509 = {
+	name = "Haripaladeva"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74507
+	mother = 74520
+
+	11086.1.1 = {
+		birth = yes
+	}
+	11155.1.1 = {
+		death = yes
+	}
+}
+
+74510 = {
+	name = "Mallikarjuna"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74508
+	mother = 74521
+
+	11103.1.1 = {
+		birth = yes
+	}
+	11125.1.1 = {
+		add_spouse = 74522
+	}
+	11170.1.1 = {
+		death = yes
+	}
+}
+
+74511 = {
+	name = "Aparaditya"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74510
+	mother = 74522
+
+	11126.1.1 = {
+		birth = yes
+	}
+	11197.1.1 = {
+		death = yes
+	}
+}
+
+74512 = {
+	name = "Anantadeva"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74510
+	mother = 74522
+
+	11129.1.1 = {
+		birth = yes
+	}
+	11153.1.1 = {
+		add_spouse = 74523
+	}
+	11200.1.1 = {
+		death = yes
+	}
+}
+
+74513 = {
+	name = "Aparaditya"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74512
+	mother = 74523
+
+	11154.1.1 = {
+		birth = yes
+	}
+	11177.1.1 = {
+		add_spouse = 74524
+	}
+	11199.1.1 = {
+		death = yes
+	}
+}
+
+74514 = {
+	name = "Keshideva"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74513
+	mother = 74524
+
+	11180.1.1 = {
+		birth = yes
+	}
+	11205.1.1 = {
+		add_spouse = 74525
+	}
+	11245.1.1 = {
+		death = yes
+	}
+}
+
+74515 = {
+	name = "Anantadeva"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74514
+	mother = 74525
+
+	11208.1.1 = {
+		birth = yes
+	}
+	11255.1.1 = {
+		death = yes
+	}
+}
+
+74516 = {
+	name = "Someshvara"
+	dynasty = 12322
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 74514
+	mother = 74525
+
+	11211.1.1 = {
+		birth = yes
+	}
+	11265.1.1 = {
+		death = yes
+	}
+}
+
+74517 = {
+	name = "Mika"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	10822.1.1 = {
+		birth = yes
+	}
+	10888.1.1 = {
+		death = yes
+	}
+}
+
+74518 = {
+	name = "Harika"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	10851.1.1 = {
+		birth = yes
+	}
+	10911.1.1 = {
+		death = yes
+	}
+}
+
+74519 = {
+	name = "Yayati"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11034.1.1 = {
+		birth = yes
+	}
+	11097.1.1 = {
+		death = yes
+	}
+}
+
+74520 = {
+	name = "Asmi"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11060.1.1 = {
+		birth = yes
+	}
+	11122.1.1 = {
+		death = yes
+	}
+}
+
+74521 = {
+	name = "Preeti"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11082.1.1 = {
+		birth = yes
+	}
+	11146.1.1 = {
+		death = yes
+	}
+}
+
+74522 = {
+	name = "Induprabha"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11108.1.1 = {
+		birth = yes
+	}
+	11170.1.1 = {
+		death = yes
+	}
+}
+
+74523 = {
+	name = "Dhuthi"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11133.1.1 = {
+		birth = yes
+	}
+	11200.1.1 = {
+		death = yes
+	}
+}
+
+74524 = {
+	name = "Kavana"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11160.1.1 = {
+		birth = yes
+	}
+	11223.1.1 = {
+		death = yes
+	}
+}
+
+74525 = {
+	name = "Rijul"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11189.1.1 = {
+		birth = yes
+	}
+	11255.1.1 = {
+		death = yes
+	}
+}
+
+74536 = {
+	name = "Jagrati"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	10808.1.1 = {
+		birth = yes
+	}
+	10873.1.1 = {
+		death = yes
+	}
+}
+
+74537 = {
+	name = "Ramila"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	10829.1.1 = {
+		birth = yes
+	}
+	10895.1.1 = {
+		death = yes
+	}
+}
+
+74538 = {
+	name = "Shashthadeva"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+
+	10934.1.1 = {
+		birth = yes
+	}
+	10990.1.1 = {
+		death = yes
+	}
+}
+
+74539 = {
+	name = "Nagavarma"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74538
+
+	10957.1.1 = {
+		birth = yes
+	}
+	11012.1.1 = {
+		death = yes
+	}
+}
+
+74540 = {
+	name = "Guhalladeva"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74539
+
+	10980.1.1 = {
+		birth = yes
+	}
+	11031.1.1 = {
+		death = yes
+	}
+}
+
+74541 = {
+	name = "Shashthadeva"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74540
+
+	11005.1.1 = {
+		birth = yes
+	}
+	11025.1.1 = {
+		add_spouse = 74502
+	}
+	11055.1.1 = {
+		death = yes
+	}
+}
+
+74542 = {
+	name = "Guhalladeva"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74539
+
+	10983.1.1 = {
+		birth = yes
+	}
+	11042.1.1 = {
+		death = yes
+	}
+}
+
+74543 = {
+	name = "Veeravarmadeva"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74541
+	mother = 74502
+
+	11027.1.1 = {
+		birth = yes
+	}
+	11054.1.1 = {
+		death = yes
+	}
+}
+
+74544 = {
+	name = "Jayakeshi"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74541
+	mother = 74502
+
+	11028.1.1 = {
+		birth = yes
+	}
+	11040.1.1 = {
+		add_spouse = 74558
+	}
+	11080.1.1 = {
+		death = yes
+	}
+}
+
+74545 = {
+	name = "Guhalladeva"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74544
+	mother = 74558
+
+	11046.1.1 = {
+		birth = yes
+	}
+	11125.1.1 = {
+		death = yes
+	}
+}
+
+74546 = {
+	name = "Vijayaditya"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74544
+	mother = 74558
+
+	11048.1.1 = {
+		birth = yes
+	}
+	11081.1.1 = {
+		add_spouse = 74559
+	}
+	11104.1.1 = {
+		death = yes
+	}
+}
+
+74547 = {
+	name = "Jayakeshi"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74546
+	mother = 74559
+
+	11082.1.1 = {
+		birth = yes
+	}
+	11102.1.1 = {
+		add_spouse = 74560
+	}
+	11148.1.1 = {
+		death = yes
+	}
+}
+
+74548 = {
+	name = "Shivachitta"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74547
+	mother = 74560
+
+	11105.1.1 = {
+		birth = yes
+	}
+	11128.1.1 = {
+		add_spouse = 74561
+	}
+	11179.1.1 = {
+		death = yes
+	}
+}
+
+74549 = {
+	name = "Vijayaditya"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74548
+	mother = 74561
+
+	11130.1.1 = {
+		birth = yes
+	}
+	11156.1.1 = {
+		add_spouse = 74562
+	}
+	11187.1.1 = {
+		death = yes
+	}
+}
+
+74550 = {
+	name = "Jayakeshi"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74549
+	mother = 74562
+
+	11157.1.1 = {
+		birth = yes
+	}
+	11216.1.1 = {
+		death = yes
+	}
+}
+
+74551 = {
+	name = "Shivachitta"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74549
+	mother = 74562
+
+	11160.1.1 = {
+		birth = yes
+	}
+	11184.1.1 = {
+		add_spouse = 74563
+	}
+	11202.1.1 = {
+		death = yes
+	}
+}
+
+74552 = {
+	name = "Tribhuvanamalla"
+	dynasty = 12324
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74551
+	mother = 74563
+
+	11185.1.1 = {
+		birth = yes
+	}
+	11238.1.1 = {
+		death = yes
+	}
+}
+
+74553 = {
+	name = "Shashthadeva"
+	dynasty = 12324
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74564
+	mother = 74552
+
+	11209.1.1 = {
+		birth = yes
+	}
+	11238.1.1 = {
+		add_spouse = 74565
+	}
+	11265.1.1 = {
+		death = yes
+	}
+}
+
+74554 = {
+	name = "Sovidevi"
+	dynasty = 12324
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74553
+	mother = 74565
+
+	11241.1.1 = {
+		birth = yes
+	}
+	11297.1.1 = {
+		death = yes
+	}
+}
+
+74555 = {
+	name = "Kamadeva"
+	dynasty = 12333
+	religion = "shaivism"
+	culture = "marathi"
+
+	11240.1.1 = {
+		birth = yes
+	}
+	11256.1.1 = {
+		add_spouse = 74554
+	}
+	11310.1.1 = {
+		death = yes
+	}
+}
+
+74556 = {
+	name = "Shashthadeva"
+	dynasty = 12333
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74555
+	mother = 74554
+
+	11260.1.1 = {
+		birth = yes
+	}
+	11288.1.1 = {
+		add_spouse = 74566
+	}
+	11325.1.1 = {
+		death = yes
+	}
+}
+
+74557 = {
+	name = "Jayakeshi"
+	dynasty = 12333
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74556
+	mother = 74566
+
+	11291.1.1 = {
+		birth = yes
+	}
+	11320.1.1 = {
+		add_spouse = 74567
+	}
+	11357.1.1 = {
+		death = yes
+	}
+}
+
+74558 = {
+	name = "Chandni"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11020.1.1 = {
+		birth = yes
+	}
+	11093.1.1 = {
+		death = yes
+	}
+}
+
+74559 = {
+	name = "Setu"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11067.1.1 = {
+		birth = yes
+	}
+	11128.1.1 = {
+		death = yes
+	}
+}
+
+74560 = {
+	name = "Ishwari"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11086.1.1 = {
+		birth = yes
+	}
+	11152.1.1 = {
+		death = yes
+	}
+}
+
+74561 = {
+	name = "Nuti"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11111.1.1 = {
+		birth = yes
+	}
+	11176.1.1 = {
+		death = yes
+	}
+}
+
+74562 = {
+	name = "Hemani"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11138.1.1 = {
+		birth = yes
+	}
+	11204.1.1 = {
+		death = yes
+	}
+}
+
+74563 = {
+	name = "Vara"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11165.1.1 = {
+		birth = yes
+	}
+	11211.1.1 = {
+		death = yes
+	}
+}
+
+74564 = {
+	name = "Bhillama"
+	religion = "shaivism"
+	culture = "marathi"
+
+	11190.1.1 = {
+		birth = yes
+	}
+	11208.1.1 = {
+		add_matrilineal_spouse = 74552
+	}
+	11258.1.1 = {
+		death = yes
+	}
+}
+
+74565 = {
+	name = "Ria"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11221.1.1 = {
+		birth = yes
+	}
+	11278.1.1 = {
+		death = yes
+	}
+}
+
+74566 = {
+	name = "Divena"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11270.1.1 = {
+		birth = yes
+	}
+	11338.1.1 = {
+		death = yes
+	}
+}
+
+74567 = {
+	name = "Lopa"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11300.1.1 = {
+		birth = yes
+	}
+	11365.1.1 = {
+		death = yes
+	}
+}
+
+74594 = {
+	name = "Mailaladevi"
+	dynasty = 12324
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74544
+	mother = 74558
+
+	11045.1.1 = {
+		birth = yes
+	}
+	11122.1.1 = {
+		death = yes
+	}
+}
+
+74633 = {
+	name = "Dridhaprahara"
+	dynasty = 12331
+	religion = "digambara"
+	culture = "marathi"
+
+
+	10789.1.1 = {
+		birth = yes
+	}
+	10850.1.1 = {
+		death = yes
+	}
+}
+
+74634 = {
+	name = "Seunachandra"
+	dynasty = 12331
+	religion = "digambara"
+	culture = "marathi"
+	father = 74633
+
+
+	10818.1.1 = {
+		birth = yes
+	}
+	10840.1.1 = {
+		add_spouse = 74663
+	}
+	10874.1.1 = {
+		death = yes
+	}
+}
+
+74635 = {
+	name = "Dhadiyappa"
+	dynasty = 12331
+	religion = "digambara"
+	culture = "marathi"
+	father = 74634
+	mother = 74663
+
+
+	10842.1.1 = {
+		birth = yes
+	}
+	10862.1.1 = {
+		add_spouse = 74664
+	}
+	10900.1.1 = {
+		death = yes
+	}
+}
+
+74636 = {
+	name = "Bhillama"
+	dynasty = 12331
+	religion = "digambara"
+	culture = "marathi"
+	father = 74635
+	mother = 74664
+
+
+	10867.1.1 = {
+		birth = yes
+	}
+	10925.1.1 = {
+		death = yes
+	}
+}
+
+74637 = {
+	name = "Omesh"
+	dynasty = 12331
+	religion = "digambara"
+	culture = "marathi"
+	father = 74636
+
+
+	10890.1.1 = {
+		birth = yes
+	}
+	10950.1.1 = {
+		death = yes
+	}
+}
+
+74638 = {
+	name = "Vadugi"
+	dynasty = 12331
+	religion = "digambara"
+	culture = "marathi"
+	father = 74637
+
+
+	10913.1.1 = {
+		birth = yes
+	}
+	10974.1.1 = {
+		death = yes
+	}
+}
+
+74639 = {
+	name = "Dhadiyappa"
+	dynasty = 12331
+	religion = "digambara"
+	culture = "marathi"
+	father = 74637
+
+
+	10916.1.1 = {
+		birth = yes
+	}
+	10975.1.1 = {
+		death = yes
+	}
+}
+
+74640 = {
+	name = "Bhillama"
+	dynasty = 12331
+	religion = "digambara"
+	culture = "marathi"
+	father = 74639
+
+
+	10938.1.1 = {
+		birth = yes
+	}
+	11005.1.1 = {
+		death = yes
+	}
+}
+
+74641 = {
+	name = "Vesugi"
+	dynasty = 12331
+	religion = "digambara"
+	culture = "marathi"
+	father = 74640
+
+
+	10963.1.1 = {
+		birth = yes
+	}
+	11020.1.1 = {
+		death = yes
+	}
+}
+
+74642 = {
+	name = "Bhillama"
+	dynasty = 12331
+	religion = "digambara"
+	culture = "marathi"
+	father = 74641
+
+
+	10986.1.1 = {
+		birth = yes
+	}
+	11055.1.1 = {
+		death = yes
+	}
+}
+
+74643 = {
+	name = "Vesugi"
+	dynasty = 12331
+	religion = "digambara"
+	culture = "marathi"
+	father = 74642
+
+
+	11010.1.1 = {
+		birth = yes
+	}
+	11034.1.1 = {
+		add_spouse = 74665
+	}
+	11068.1.1 = {
+		death = yes
+	}
+}
+
+74644 = {
+	name = "Bhillama"
+	dynasty = 12331
+	religion = "digambara"
+	culture = "marathi"
+	father = 74643
+	mother = 74665
+
+
+	11035.1.1 = {
+		birth = yes
+	}
+	11093.1.1 = {
+		death = yes
+	}
+}
+
+74645 = {
+	name = "Seunachandra"
+	dynasty = 12331
+	religion = "digambara"
+	culture = "marathi"
+	father = 74642
+
+
+	11016.1.1 = {
+		birth = yes
+	}
+	11034.1.1 = {
+		add_spouse = 74666
+	}
+	11085.1.1 = {
+		death = yes
+	}
+}
+
+74646 = {
+	name = "Airamadeva"
+	dynasty = 12331
+	religion = "digambara"
+	culture = "marathi"
+	father = 74645
+	mother = 74666
+
+
+	11040.1.1 = {
+		birth = yes
+	}
+	11061.1.1 = {
+		add_spouse = 74667
+		#REMOVED_TRAIT remove_trait = digambara_jain
+		religion = shaivism
+		#REMOVED_TRAIT trait = shaivist_hindu
+	}
+	11115.1.1 = {
+		death = yes
+	}
+}
+
+74647 = {
+	name = "Mallugi"
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74646
+	mother = 74667
+
+
+	11063.1.1 = {
+		birth = yes
+	}
+	11082.1.1 = {
+		add_spouse = 74668
+	}
+	11113.1.1 = {
+		death = yes
+	}
+}
+
+74648 = {
+	name = "Singhana"
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74647
+	mother = 74668
+
+
+	11085.1.1 = {
+		birth = yes
+	}
+	11106.1.1 = {
+		add_spouse = 74669
+	}
+	11145.1.1 = {
+		death = yes
+	}
+}
+
+74649 = {
+	name = "Mallugi"
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74648
+	mother = 74669
+
+
+	11107.1.1 = {
+		birth = yes
+	}
+	11131.1.1 = {
+		add_spouse = 74670
+	}
+	11150.1.1 = {
+		death = yes
+	}
+}
+
+74650 = {
+	name = "Amaragangeyya"
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74648
+	mother = 74669
+
+
+	11110.1.1 = {
+		birth = yes
+	}
+	11160.1.1 = {
+		death = yes
+	}
+}
+
+74651 = {
+	name = "Govindaraja"
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74648
+	mother = 74669
+
+
+	11113.1.1 = {
+		birth = yes
+	}
+	11161.1.1 = {
+		death = yes
+	}
+}
+
+74652 = {
+	name = "Amara"
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74648
+	mother = 74669
+
+
+	11116.1.1 = {
+		birth = yes
+	}
+	11161.1.1 = {
+		name = Mallugi
+	}
+	11165.1.1 = {
+		death = yes
+	}
+}
+
+74653 = {
+	name = "Ballala"
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74648
+	mother = 74669
+
+
+	11119.1.1 = {
+		birth = yes
+	}
+	11173.1.1 = {
+		death = yes
+	}
+}
+
+74654 = {
+	name = "Bhillama" #Bhillama V of Devagari Seuna
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74649
+	mother = 74670
+
+
+	11135.1.1 = {
+		birth = yes
+	}
+	11151.1.1 = {
+		add_spouse = 74671
+	}
+	11192.1.1 = {
+		death = yes
+	}
+}
+
+74655 = {
+	name = "Jaitugi"
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74654
+	mother = 74671
+
+
+	11153.1.1 = {
+		birth = yes
+	}
+	11173.1.1 = {
+		add_spouse = 74672
+	}
+	11200.1.1 = {
+		death = yes
+	}
+}
+
+74656 = {
+	name = "Singhana" #Singhana II of Devagari Seuna
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74655
+	mother = 74672
+
+
+	11177.1.1 = {
+		birth = yes
+	}
+	11199.1.1 = {
+		add_spouse = 74673
+	}
+	11247.1.1 = {
+		death = yes
+	}
+}
+
+74657 = {
+	name = "Kannara"
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74656
+	mother = 74673
+
+
+	11200.1.1 = {
+		birth = yes
+	}
+	11261.1.1 = {
+		death = yes
+	}
+}
+
+74658 = {
+	name = "Mahadeva"
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74656
+	mother = 74673
+
+
+	11203.1.1 = {
+		birth = yes
+	}
+	11271.1.1 = {
+		death = yes
+	}
+}
+
+74659 = {
+	name = "Amana"
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74656
+	mother = 74673
+
+
+	11206.1.1 = {
+		birth = yes
+	}
+	11231.1.1 = {
+		add_spouse = 74674
+	}
+	11272.1.1 = {
+		death = yes
+	}
+}
+
+74660 = {
+	name = "Ramachandra" #Ramachandra of Devagari Seuna
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74659
+	mother = 74674
+
+
+	11234.1.1 = {
+		birth = yes
+	}
+	11255.1.1 = {
+		add_spouse = 74675
+	}
+	11311.1.1 = {
+		death = yes
+	}
+}
+
+74661 = {
+	name = "Singhana"
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74660
+	mother = 74675
+
+
+	11257.1.1 = {
+		birth = yes
+	}
+	11312.1.1 = {
+		death = yes
+	}
+}
+
+74662 = {
+	name = "Harapaladeva"
+	dynasty = 12331
+	religion = "shaivism"
+	culture = "marathi"
+	father = 74660
+	mother = 74675
+
+
+	11260.1.1 = {
+		birth = yes
+	}
+	11317.1.1 = {
+		death = yes
+	}
+}
+
+74663 = {
+	name = "Eila"
+	female = yes
+	religion = "digambara"
+	culture = "marathi"
+
+	10827.1.1 = {
+		birth = yes
+	}
+	10890.1.1 = {
+		death = yes
+	}
+}
+
+74664 = {
+	name = "Urmil"
+	female = yes
+	religion = "digambara"
+	culture = "marathi"
+
+	10846.1.1 = {
+		birth = yes
+	}
+	10911.1.1 = {
+		death = yes
+	}
+}
+
+74665 = {
+	name = "Almas"
+	female = yes
+	religion = "digambara"
+	culture = "marathi"
+
+	11016.1.1 = {
+		birth = yes
+	}
+	11079.1.1 = {
+		death = yes
+	}
+}
+
+74666 = {
+	name = "Kirti"
+	female = yes
+	religion = "digambara"
+	culture = "marathi"
+
+	11018.1.1 = {
+		birth = yes
+	}
+	11085.1.1 = {
+		death = yes
+	}
+}
+
+74667 = {
+	name = "Sohni"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11042.1.1 = {
+		birth = yes
+	}
+	11107.1.1 = {
+		death = yes
+	}
+}
+
+74668 = {
+	name = "Gunjan"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11065.1.1 = {
+		birth = yes
+	}
+	11130.1.1 = {
+		death = yes
+	}
+}
+
+74669 = {
+	name = "Xyla"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11086.1.1 = {
+		birth = yes
+	}
+	11152.1.1 = {
+		death = yes
+	}
+}
+
+74670 = {
+	name = "Chandraki"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11114.1.1 = {
+		birth = yes
+	}
+	11181.1.1 = {
+		death = yes
+	}
+}
+
+74671 = {
+	name = "Renuka"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11133.1.1 = {
+		birth = yes
+	}
+	11199.1.1 = {
+		death = yes
+	}
+}
+
+74672 = {
+	name = "Jivika"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11157.1.1 = {
+		birth = yes
+	}
+	11221.1.1 = {
+		death = yes
+	}
+}
+
+74673 = {
+	name = "Gayanthika"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11180.1.1 = {
+		birth = yes
+	}
+	11245.1.1 = {
+		death = yes
+	}
+}
+
+74674 = {
+	name = "Manaal"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	11213.1.1 = {
+		birth = yes
+	}
+	11279.1.1 = {
+		death = yes
+	}
+}
+
+74675 = {
+	name = "Lokamatri"
+	female = yes
+	religion = "krishnaism"
+	culture = "marathi"
+
+	11238.1.1 = {
+		birth = yes
+	}
+	11300.1.1 = {
+		death = yes
+	}
+}
+
+74705 = {
+	name = "Vijayaditya"
+	dynasty = 12333
+	religion = "krishnaism"
+	culture = "marathi"
+	father = 74557
+	mother = 74567
+
+	11321.1.1 = {
+		birth = yes
+	}
+	11390.1.1 = {
+		death = yes
+	}
+}
+178008 = {
+	name = "Gonka" # Fictional
+	dynasty = 1041108
+	religion = "krishnaism"
+	culture = "marathi"
+	10841.1.1 = {
+		birth = yes
+	}
+	10892.1.1 = {
+		death = yes
+	}
+}
+191323 = {
+	name = "Kurumpruhoda"
+	dynasty = 1044336	#Mana
+	religion = "shaivism"
+	culture = "gond"
+	10620.1.1 = {
+		birth = yes
+	}
+	10700.1.1 = {
+		death = yes
+	}
+}
+
+191324 = {
+	name = "Soorjat_Badwaik"
+	dynasty = 1044336	#Mana
+	religion = "shaivism"
+	culture = "gond"
+	father = 191323
+	10680.1.1 = {
+		birth = yes
+	}
+	10750.1.1 = {
+		death = yes
+	}
+}
+
+191325 = {
+	name = "Kurumpruhoda"	#Names are really only known for the first two rulers
+	dynasty = 1044336	#Mana
+	religion = "shaivism"
+	culture = "gond"
+	father = 191324
+	10700.1.1 = {
+		birth = yes
+	}
+	10780.1.1 = {
+		death = yes
+	}
+}
+
+191326 = {
+	name = "Soorjat_Badwaik"
+	dynasty = 1044336	#Mana
+	religion = "shaivism"
+	culture = "gond"
+	father = 191325
+	10730.1.1 = {
+		birth = yes
+	}
+	10820.1.1 = {
+		death = yes
+	}
+}
+
+191327 = {
+	name = "Kurumpruhoda"
+	dynasty = 1044336	#Mana
+	religion = "shaivism"
+	culture = "gond"
+	father = 191326
+	10753.1.1 = {
+		birth = yes
+	}
+	10850.1.1 = {
+		death = yes
+	}
+}
+
+191328 = {
+	name = "Soorjat_Badwaik"
+	dynasty = 1044336	#Mana
+	religion = "shaivism"
+	culture = "gond"
+	father = 191327
+	10780.1.1 = {
+		birth = yes
+	}
+	10870.1.1 = {
+		death = yes
+	}
+}
+
+191329 = {
+	name = "Bhim_Ballal_Singh"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	10850.1.1 = {
+		birth = yes
+	}
+	10895.1.1 = {
+		death = yes
+	}
+}
+
+191330 = {
+	name = "Kharja_Ballal_Singh"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	father = 191329
+	10870.1.1 = {
+		birth = yes
+	}
+	10935.1.1 = {
+		death = yes
+	}
+}
+
+191331 = {
+	name = "Hir_Singh"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	father = 191330
+	10900.1.1 = {
+		birth = yes
+	}
+	10970.1.1 = {
+		death = yes
+	}
+}
+
+191332 = {
+	name = "Andiya_Ballal_Singh"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	father = 191331
+	10920.1.1 = {
+		birth = yes
+	}
+	10995.1.1 = {
+		death = yes
+	}
+}
+
+191333 = {
+	name = "Talwar_Singh"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	father = 191332
+	10950.1.1 = {
+		birth = yes
+	}
+	11027.1.1 = {
+		death = yes
+	}
+}
+
+191334 = {
+	name = "Kesar_Singh"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	father = 191333
+	11000.1.1 = {
+		birth = yes
+	}
+	11072.1.1 = {
+		death = yes
+	}
+}
+
+191335 = {
+	name = "Dinkar_Singh"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	father = 191334
+	11050.1.1 = {
+		birth = yes
+	}
+	11142.1.1 = {
+		death = yes
+	}
+}
+
+191336 = {
+	name = "Ram_Singh"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	father = 191335
+	11130.1.1 = {
+		birth = yes
+	}
+	11207.1.1 = {
+		death = yes
+	}
+}
+
+191337 = {
+	name = "Surja_Ballal_Singh"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	father = 191336
+	11150.1.1 = {
+		birth = yes
+	}
+	11242.1.1 = {
+		death = yes
+	}
+}
+
+191338 = {
+	name = "Khandkya_Ballal_Singh"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	father = 191337
+	11200.1.1 = {
+		birth = yes
+	}
+	11282.1.1 = {
+		death = yes
+	}
+}
+
+191339 = {
+	name = "Hir_Sah"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	father = 191338
+	11260.1.1 = {
+		birth = yes
+	}
+	11320.1.1 = {
+		add_spouse = 191344
+	}
+	11342.1.1 = {
+		death = yes
+	}
+}
+
+191340 = {
+	name = "Bhuma"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	father = 191339	#Adopted by Hir Sahs widow Hirabai
+	mother = 191344	#Adopted by Hir Sahs widow Hirabai
+	11320.1.1 = {
+		birth = yes
+	}
+	11402.1.1 = {
+		death = yes
+	}
+}
+
+191341 = {
+	name = "Lokba"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	father = 191339	#Adopted by Hir Sahs widow Hirabai
+	mother = 191344	#Adopted by Hir Sahs widow Hirabai
+	11321.1.1 = {
+		birth = yes
+	}
+	11401.1.1 = {
+		death = yes
+	}
+}
+
+191342 = {
+	name = "Kondya_Sah"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	father = 191341
+	11370.1.1 = {
+		birth = yes
+	}
+	11442.1.1 = {
+		death = yes
+	}
+}
+
+191343 = {
+	name = "Babji_Ballal_Sah"
+	dynasty = 1044337	#Chanda
+	religion = "shaivism"
+	culture = "gond"
+	father = 191342
+	11425.1.1 = {
+		birth = yes
+	}
+	11522.1.1 = {
+		death = yes
+	}
+}
+
+191344 = {
+	name = "Hirabai"
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+	11300.1.1 = {
+		birth = yes
+	}
+	11360.1.1 = {
+		death = yes
+	}
+}
+
+191377 = {
+	name = "Durgaraja"
+	dynasty = 1044339 #Rashtrakuta of Betul
+	religion = "shaivism"
+	culture = "marathi"
+	10580.1.1 = {
+		birth = yes
+	}
+	10650.1.1 = {
+		death = yes
+	}
+}
+
+191378 = {
+	name = "Govindaraja"
+	dynasty = 1044339 #Rashtrakuta of Betul
+	religion = "shaivism"
+	culture = "marathi"
+	father = 191377
+	10620.1.1 = {
+		birth = yes
+	}
+	10680.1.1 = {
+		death = yes
+	}
+}
+
+191379 = {
+	name = "Svamikaraja"
+	dynasty = 1044339 #Rashtrakuta of Betul
+	religion = "shaivism"
+	culture = "marathi"
+	father = 191378
+	10640.1.1 = {
+		birth = yes
+	}
+	10700.1.1 = {
+		death = yes
+	}
+}
+
+191380 = {
+	name = "Nandaraja"
+	dynasty = 1044339 #Rashtrakuta of Betul
+	religion = "shaivism"
+	culture = "marathi"
+	father = 191379
+	10680.1.1 = {
+		birth = yes
+	}
+	10775.1.1 = {
+		death = yes
+	}
+}
+
+191362 = {
+	name = "Brijnath"	#Fictional
+	dynasty = 1044340 #Malviyas of Ramagiri
+	religion = "digambara"
+	culture = "marathi"
+	10700.1.1 = {
+		birth = yes
+	}
+	10780.1.1 = {
+		death = yes
+	}
+}
+
+191363 = {
+	name = "Radhakant"	#Fictional
+	dynasty = 1044340 #Malviyas of Ramagiri
+	religion = "digambara"
+	culture = "marathi"
+	father = 191362
+	10750.1.1 = {
+		birth = yes
+	}
+	10830.1.1 = {
+		death = yes
+	}
+}
+
+191364 = {
+	name = "Mukund"	#Fictional
+	dynasty = 1044340 #Malviyas of Ramagiri
+	religion = "digambara"
+	culture = "marathi"
+	father = 191363
+	10800.1.1 = {
+		birth = yes
+	}
+	10880.1.1 = {
+		death = yes
+	}
+}
+
+191365 = {
+	name = "Ramavriksha"	#Fictional
+	dynasty = 1044340 #Malviyas of Ramagiri
+	religion = "digambara"
+	culture = "marathi"
+	father = 191364
+	10850.1.1 = {
+		birth = yes
+	}
+	10930.1.1 = {
+		death = yes
+	}
+}
+
+191366 = {
+	name = "Siyaram"	#Fictional
+	dynasty = 1044340 #Malviyas of Ramagiri
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 191365
+	10900.1.1 = {
+		birth = yes
+	}
+	10980.1.1 = {
+		death = yes
+	}
+}
+
+191367 = {
+	name = "Ram"	#Fictional
+	dynasty = 1044340 #Malviyas of Ramagiri
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 191366
+	10950.1.1 = {
+		birth = yes
+	}
+	11030.1.1 = {
+		death = yes
+	}
+}
+
+191368 = {
+	name = "Suryakant"	#Fictional
+	dynasty = 1044340 #Malviyas of Ramagiri
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 191367
+	11000.1.1 = {
+		birth = yes
+	}
+	11080.1.1 = {
+		death = yes
+	}
+}
+
+191369 = {
+	name = "Mangal"	#Fictional
+	dynasty = 1044340 #Malviyas of Ramagiri
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 191368
+	11050.1.1 = {
+		birth = yes
+	}
+	11130.1.1 = {
+		death = yes
+	}
+}
+
+191370 = {
+	name = "Kumar"	#Fictional
+	dynasty = 1044340 #Malviyas of Ramagiri
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 191369
+	11100.1.1 = {
+		birth = yes
+	}
+	11180.1.1 = {
+		death = yes
+	}
+}
+
+191371 = {
+	name = "Yogendra"	#Fictional
+	dynasty = 1044340 #Malviyas of Ramagiri
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 191370
+	11150.1.1 = {
+		birth = yes
+	}
+	11230.1.1 = {
+		death = yes
+	}
+}
+
+191372 = {
+	name = "Siyaram"	#Fictional
+	dynasty = 1044340 #Malviyas of Ramagiri
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 191371
+	11200.1.1 = {
+		birth = yes
+	}
+	11280.1.1 = {
+		death = yes
+	}
+}
+
+191373 = {
+	name = "Radhakant"	#Fictional
+	dynasty = 1044340 #Malviyas of Ramagiri
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 191372
+	11250.1.1 = {
+		birth = yes
+	}
+	11330.1.1 = {
+		death = yes
+	}
+}
+
+191374 = {
+	name = "Hardeva"	#Fictional
+	dynasty = 1044340 #Malviyas of Ramagiri
+	religion = "srikula_shaktism"
+	culture = "marathi"
+	father = 191373
+	11300.1.1 = {
+		birth = yes
+	}
+	11380.1.1 = {
+		death = yes
+	}
+}
+
+191375 = {
+	name = "Kamdeo"	#Historical
+	dynasty = 1044341 #Karhade
+	religion = "srikula_shaktism"
+	culture = "kannada"
+	11150.1.1 = {
+		birth = yes
+		employer = 74578
+	}
+	11173.1.1 = {
+		employer = 74579
+	}
+	11220.1.1 = {
+		death = yes
+	}
+}
+
+191376 = {
+	name = "Hemadpant"	#Historical
+	dynasty = 1044341 #Karhade
+	religion = "smartism"
+	culture = "kannada"
+	father = 191375
+	11200.1.1 = {
+		birth = yes
+	}
+	11274.1.1 = {
+		death = yes
+	}
+}
+191636 = {
+	name = "Aniruddha"
+	dynasty = 1044366
+	religion = "smartism"
+	culture = "marathi"
+	10730.1.1 = {
+		birth = yes
+	}
+	10800.1.1 = {
+		death = yes
+	}
+}
+191989 = {
+	name = "Munja"	#Fictional
+	dynasty = 1044398 #Sinda
+	religion = "shaivism"
+	culture = "marathi"
+
+	10740.1.1 = {
+		birth = yes
+	}
+	10762.1.1 = {
+		add_spouse = 191990
+	}
+	10780.1.1 = {
+		death = yes
+	}
+}
+
+191990 = {
+	name = "Sunita"	#Fictional
+	female = yes
+	religion = "shaivism"
+	culture = "marathi"
+
+	10742.1.1 = {
+		birth = yes
+	}
+	10790.1.1 = {
+		death = yes
+	}
+}
+
+191991 = {
+	name = "Bhima"	#Fictional
+	dynasty = 1044398 #Sinda
+	religion = "shaivism"
+	culture = "marathi"
+	father = 191989
+	mother = 191990
+
+	10763.1.1 = {
+		birth = yes
+	}
+	10840.1.1 = {
+		death = yes
+	}
+}
+
+191992 = {
+	name = "Sindaraja"	#Fictional
+	dynasty = 1044398 #Sinda
+	religion = "shaivism"
+	culture = "marathi"
+	father = 191991
+
+	10800.1.1 = {
+		birth = yes
+	}
+	10870.1.1 = {
+		death = yes
+	}
+}
+
+191993 = {
+	name = "Bhima"
+	dynasty = 1044398 #Sinda
+	religion = "shaivism"
+	culture = "marathi"
+	father = 191992
+
+	10850.1.1 = {
+		birth = yes
+	}
+	10900.1.1 = {
+		death = yes
+	}
+}
+
+191994 = {
+	name = "Munja"
+	dynasty = 1044398 #Sinda
+	religion = "shaivism"
+	culture = "marathi"
+	father = 191993
+
+	10880.1.1 = {
+		birth = yes
+	}
+	10950.1.1 = {
+		death = yes
+	}
+}
+
+191995 = {
+	name = "Adityavarman"
+	dynasty = 1044398 #Sinda
+	religion = "shaivism"
+	culture = "marathi"
+	father = 191994
+
+	10930.1.1 = {
+		birth = yes
+	}
+	10980.1.1 = {
+		death = yes
+	}
+}
+
+191996 = {
+	name = "Bhima"
+	dynasty = 1044398 #Sinda
+	religion = "shaivism"
+	culture = "marathi"
+	father = 191995
+
+	10950.1.1 = {
+		birth = yes
+	}
+	11020.1.1 = {
+		death = yes
+	}
+}
+
+191997 = {
+	name = "Sindaraja"
+	dynasty = 1044398 #Sinda
+	religion = "shaivism"
+	culture = "marathi"
+	father = 191996
+
+	11000.1.1 = {
+		birth = yes
+	}
+	11060.1.1 = {
+		death = yes
+	}
+}
+
+191998 = {
+	name = "Munja"
+	dynasty = 1044398 #Sinda
+	religion = "shaivism"
+	culture = "marathi"
+	father = 191997
+
+	11040.1.1 = {
+		birth = yes
+	}
+	11109.1.1 = {
+		death = yes
+	}
+}

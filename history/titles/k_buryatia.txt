@@ -1,0 +1,604 @@
+﻿k_buryatia = {
+	10867.1.1 = { change_development_level = 0 }
+	11066.1.1 = { change_development_level = 0 }
+	11178.1.1 = { change_development_level = 0 }
+}
+
+d_uda_valley = {
+	#Kirghiz khanate
+	10840.1.2 = {
+		liege = e_kirghiz_khanate
+	}
+	
+	#867
+	10861.3.19 = {
+		holder = 303104		#fictional Husun Mergid
+		government = nomad_government
+	}
+	10887.3.2 = {
+		holder = 303106		#fictional Eljigeden Mergid
+	}
+	
+	#End of Kirghiz Khanate
+	10925.1.2 = {
+		liege = 0
+	}
+	
+	#1066
+	11039.9.17 = {
+		holder = 303109		#fictional Temuge Mergid
+	}
+	11068.3.10 = {
+		holder = 303110		#fictional Arasen Mergid
+	}
+	11099.7.4 = {
+		holder = 303112		#fictional Chilagun Mergid
+	}
+	11110.2.8 = {
+		holder = 303114		#fictional Megujin Mergid
+	}
+	11149.5.28 = {
+		holder = 303115		#fictional Yedi Mergid
+	}
+	11159.7.14 = {
+		holder = 303116		#fictional Yesunge Mergid
+	}
+	11188.11.20 = {
+		holder = 303118		#fictional Ajai Mergid
+	}
+}
+
+
+c_ulan_ude = {
+	#867
+	10861.3.19 = {
+		liege = d_uda_valley
+		holder = 303104		#fictional Husun Mergid
+		government = nomad_government
+	}
+	10887.3.2 = {
+		holder = 303106		#fictional Eljigeden Mergid
+	}
+	
+	#1066
+	11039.9.17 = {
+		holder = 303109		#fictional Temuge Mergid
+	}
+	11068.3.10 = {
+		holder = 303110		#fictional Arasen Mergid
+	}
+	11099.7.4 = {
+		holder = 303112		#fictional Chilagun Mergid
+	}
+	11110.2.8 = {
+		holder = 303114		#fictional Megujin Mergid
+	}
+	11149.5.28 = {
+		holder = 303115		#fictional Yedi Mergid
+	}
+	11159.7.14 = {
+		holder = 303116		#fictional Yesunge Mergid
+	}
+	11188.11.20 = {
+		holder = 303118		#fictional Ajai Mergid
+	}
+}
+
+
+c_chikoy = {
+	#867
+	10861.3.19 = {
+		liege = d_uda_valley
+		holder = 303104		#fictional Husun Mergid
+		government = nomad_government
+	}
+	10887.3.2 = {
+		holder = 303106		#fictional Eljigeden Mergid
+	}
+	
+	#1066
+	11039.9.17 = {
+		holder = 303109		#fictional Temuge Mergid
+	}
+	11068.3.10 = {
+		holder = 303110		#fictional Arasen Mergid
+	}
+	11099.7.4 = {
+		holder = 303112		#fictional Chilagun Mergid
+	}
+	11110.2.8 = {
+		holder = 303114		#fictional Megujin Mergid
+	}
+	11149.5.28 = {
+		holder = 303115		#fictional Yedi Mergid
+	}
+	11159.7.14 = {
+		holder = 303116		#fictional Yesunge Mergid
+	}
+	11188.11.20 = {
+		holder = 303118		#fictional Ajai Mergid
+	}
+}
+
+
+d_dauria = {
+	#867
+	10839.12.20 = {
+		holder = 303070		#fictional Galsan Barga
+		government = nomad_government
+	}
+	10880.10.23 = {
+		holder = 303072		#fictional Geleg Barga
+	}
+	
+	#1066
+	11060.7.30 = {
+		holder = 303074		#fictional Baatar Barga
+	}
+	11100.2.13 = {
+		holder = 303075		#fictional Azarga Barga
+	}
+	11107.6.10 = {
+		holder = 303076		#fictional Mulan Barga
+	}
+	11148.12.27 = {
+		holder = 303077		#fictional Joichi Barga
+	}
+	11153.2.2 = {
+		holder = 303078		#fictional Ligdan Barga
+	}
+	11200.5.18 = {
+		holder = 303079		#fictional Baatar Barga
+	}
+}
+
+
+c_bargajan = {
+	#867
+	10839.12.20 = {
+		liege = d_dauria
+		holder = 303070		#fictional Galsan Barga
+		government = nomad_government
+	}
+	10880.10.23 = {
+		holder = 303072		#fictional Geleg Barga
+	}
+	
+	#1066
+	11060.7.30 = {
+		holder = 303074		#fictional Baatar Barga
+	}
+	11100.2.13 = {
+		holder = 303075		#fictional Azarga Barga
+	}
+	11107.6.10 = {
+		holder = 303076		#fictional Mulan Barga
+	}
+	11148.12.27 = {
+		holder = 303077		#fictional Joichi Barga
+	}
+	11153.2.2 = {
+		holder = 303078		#fictional Ligdan Barga
+	}
+	11200.5.18 = {
+		holder = 303079		#fictional Baatar Barga
+	}
+}
+
+
+c_muya = {
+	#867
+	10839.12.20 = {
+		liege = d_dauria
+		holder = 303070		#fictional Galsan Barga
+		government = nomad_government
+	}
+	10880.10.23 = {
+		holder = 303072		#fictional Geleg Barga
+	}
+	
+	#1066
+	11060.7.30 = {
+		holder = 303074		#fictional Baatar Barga
+	}
+	11100.2.13 = {
+		holder = 303075		#fictional Azarga Barga
+	}
+	11107.6.10 = {
+		holder = 303076		#fictional Mulan Barga
+	}
+	11148.12.27 = {
+		holder = 303077		#fictional Joichi Barga
+	}
+	11153.2.2 = {
+		holder = 303078		#fictional Ligdan Barga
+	}
+	11177.1.1 = {
+		holder = 303079		#fictional Baatar Barga
+		liege = d_dauria
+	}
+}
+
+
+c_kotokel = {
+	#867
+	10839.12.20 = {
+		liege = d_dauria
+		holder = 303070		#fictional Galsan Barga
+		government = nomad_government
+	}
+	10880.10.23 = {
+		holder = 303072		#fictional Geleg Barga
+	}
+	
+	#1066
+	11060.7.30 = {
+		holder = 303074		#fictional Baatar Barga
+	}
+	11100.2.13 = {
+		holder = 303075		#fictional Azarga Barga
+	}
+	11107.6.10 = {
+		holder = 303076		#fictional Mulan Barga
+	}
+	11148.12.27 = {
+		holder = 303077		#fictional Joichi Barga
+	}
+	11153.2.2 = {
+		holder = 303078		#fictional Ligdan Barga
+	}
+	11200.5.18 = {
+		holder = 303079		#fictional Baatar Barga
+	}
+}
+
+
+c_yera = {
+	#867
+	10839.12.20 = {
+		liege = d_dauria
+		holder = 303070		#fictional Galsan Barga
+		government = nomad_government
+	}
+	10880.10.23 = {
+		holder = 303072		#fictional Geleg Barga
+	}
+	
+	#1066
+	11060.7.30 = {
+		holder = 303074		#fictional Baatar Barga
+	}
+	11100.2.13 = {
+		holder = 303075		#fictional Azarga Barga
+	}
+	11107.6.10 = {
+		holder = 303076		#fictional Mulan Barga
+	}
+	11148.12.27 = {
+		holder = 303077		#fictional Joichi Barga
+	}
+	11153.2.2 = {
+		holder = 303078		#fictional Ligdan Barga
+	}
+	11177.1.1 = {
+		holder = 303079		#fictional Baatar Barga
+	}
+}
+
+
+c_kotera = {
+	#867
+	10865.6.19 = {
+		liege = 0
+		holder = galzuud0001		#fictional Osor Galzuud
+		government = nomad_government
+	}
+	10889.8.20 = {
+		holder = 303141		#fictional Namzil Galzuud
+	}
+	
+	#1066
+	11063.3.12 = {
+		holder = galzuud0003		#fictional Geleg Galzuud
+	}
+	11095.1.26 = {
+		holder = galzuud0002		#fictional Dahinima Galzuud
+	}
+	11115.10.30 = {
+		holder = 303144		#fictional Azarga Galzuud
+	}
+	11145.4.11 = {
+		holder = 303145		#fictional Bukha Galzuud
+	}
+	11182.8.15 = {
+		holder = 303146		#fictional Tekhe Galzuud
+	}
+	11194.11.4 = {
+		holder = 303147		#fictional Tsyren Galzuud
+	}
+
+}
+
+
+c_vitim = {
+	#867
+	10865.6.19 = {
+		liege = 0
+		holder = fictional_buryats_6	#fictional herder
+		government = herder_government
+	}
+	10889.8.20 = {
+		holder = 303141		#fictional Namzil Galzuud
+		government = nomad_government
+	}
+	
+	#1066
+	11063.3.12 = {
+		holder = galzuud0003		#fictional Geleg Galzuud
+	}
+	11095.1.26 = {
+		holder = galzuud0002		#fictional Dahinima Galzuud
+	}
+	11115.10.30 = {
+		holder = 303144		#fictional Azarga Galzuud
+	}
+	11145.4.11 = {
+		holder = 303145		#fictional Bukha Galzuud
+	}
+	11182.8.15 = {
+		holder = 303146		#fictional Tekhe Galzuud
+	}
+	11194.11.4 = {
+		holder = 303147		#fictional Tsyren Galzuud
+	}
+
+}
+
+
+c_karabaigal = {
+	#867
+	10865.6.19 = {
+		liege = 0
+		holder = galzuud0001		#fictional Osor Galzuud
+		government = nomad_government
+	}
+	10889.8.20 = {
+		holder = 303141		#fictional Namzil Galzuud
+	}
+	
+	#1066
+	11063.3.12 = {
+		holder = fictional_buryats_18		#fictional herder
+		government = herder_government
+	}
+	11095.1.26 = {
+		holder = galzuud0002		#fictional Dahinima Galzuud
+		government = nomad_government
+	}
+	11115.10.30 = {
+		holder = 303144		#fictional Azarga Galzuud
+	}
+	11145.4.11 = {
+		holder = 303145		#fictional Bukha Galzuud
+	}
+	11182.8.15 = {
+		holder = 303146		#fictional Tekhe Galzuud
+	}
+	11194.11.4 = {
+		holder = 303147		#fictional Tsyren Galzuud
+	}
+
+}
+
+
+c_chuya = {
+	#867
+	10857.5.10 = {
+		liege = 0
+		holder = fictional_buryats_5	#fictional herder
+		government = herder_government
+	}
+	10892.4.25 = {
+		holder = 303149		#fictional Damba Hengelder
+		government = nomad_government
+	}
+	
+	#1066
+	11064.8.11 = {
+		holder = 303150		#fictional Sayn Hengelder
+	}
+	11102.7.11 = {
+		holder = 303151		#fictional Eshegen Hengelder
+	}
+	11124.11.9 = {
+		holder = 303152		#fictional Erdenebal Hengelder
+	}
+	11158.12.6 = {
+		holder = 303153		#fictional Solbon Hengelder
+	}
+	11179.1.2 = {
+		holder = 303154		#fictional Urzin Hengelder
+	}
+	11200.4.20 = {
+		holder = 303155		#fictional Bek Hengelder
+	}
+}
+
+
+c_baigaluuls = {
+	#867
+	10857.5.10 = {
+		liege = 0
+		holder = 303148		#fictional Aldar Hengelder
+		government = nomad_government
+	}
+	10892.4.25 = {
+		holder = 303149		#fictional Damba Hengelder
+	}
+	
+	#1066
+	11064.8.11 = {
+		holder = 303150		#fictional Sayn Hengelder
+	}
+	11102.7.11 = {
+		holder = 303151		#fictional Eshegen Hengelder
+	}
+	11124.11.9 = {
+		holder = 303152		#fictional Erdenebal Hengelder
+	}
+	11158.12.6 = {
+		holder = fictional_buryats_19	#fictional herder
+		government = herder_government
+	}
+	11179.1.2 = {
+		holder = 303154		#fictional Urzin Hengelder
+		government = nomad_government
+	}
+	11200.4.20 = {
+		holder = 303155		#fictional Bek Hengelder
+	}
+}
+
+
+c_uulynkhol = {
+	#867
+	10857.5.10 = {
+		liege = 0
+		holder = fictional_buryats_9 #Fictional herder
+		government = herder_government
+	}
+	10892.4.25 = {
+		holder = 303149		#fictional Damba Hengelder
+		government = nomad_government
+	}
+	
+	#1066
+	11064.8.11 = {
+		holder = 303150		#fictional Sayn Hengelder
+	}
+	11102.7.11 = {
+		holder = 303151		#fictional Eshegen Hengelder
+	}
+	11124.11.9 = {
+		holder = 303152		#fictional Erdenebal Hengelder
+	}
+	11158.12.6 = {
+		holder = 303153		#fictional Solbon Hengelder
+	}
+	11179.1.2 = {
+		holder = 303154		#fictional Urzin Hengelder
+	}
+	11200.4.20 = {
+		holder = 303155		#fictional Bek Hengelder
+	}
+}
+
+
+c_olkhon = {
+	#867
+	10865.1.14 = {
+		liege = 0
+		holder = fictional_buryats_11 #Fictional herder
+		government = herder_government
+	}
+	10891.3.26 = {
+		holder = 303165		#fictional Khermen Yrkhu
+		government = nomad_government
+	}
+	
+	#1066
+	11066.1.2 = {
+		holder = 303166		#fictional Baldan Yrkhu
+	}
+	11092.12.17 = {
+		holder = 303167		#fictional Uskhal Yrkhu
+	}
+	11120.4.15 = {
+		holder = 303168		#fictional Mulan Yrkhu
+	}
+	11141.11.8 = {
+		holder = 303169		#fictional Eshi Yrkhu
+	}
+	11148.7.19 = {
+		holder = 303170		#fictional Bidia Yrkhu
+	}
+	11186.1.16 = {
+		holder = 303171		#fictional Badmazhap Yrkhu
+	}
+}
+
+
+c_irkutsk = {
+	#867
+	10865.1.14 = {
+		liege = 0
+		holder = 303164		#fictional Arugtai Yrkhu
+		government = nomad_government
+	}
+	10891.3.26 = {
+		holder = 303165		#fictional Khermen Yrkhu
+	}
+	
+	#1066
+	11066.1.2 = {
+		holder = 303166		#fictional Baldan Yrkhu
+	}
+	11092.12.17 = {
+		holder = 303167		#fictional Uskhal Yrkhu
+	}
+	11120.4.15 = {
+		holder = 303168		#fictional Mulan Yrkhu
+	}
+	11141.11.8 = {
+		holder = 303169		#fictional Eshi Yrkhu
+	}
+	11148.7.19 = {
+		holder = 303170		#fictional Bidia Yrkhu
+	}
+	
+	#
+	11150.1.2 = {
+		liege = 0
+		holder = 303102		#fictional Bashiila Khori-Tumed
+	}
+	11177.10.22 = {
+		holder = 303103		#fictional Shono Khori-Tumed
+	}
+}
+
+
+c_ryty = {
+	#867
+	10864.1.18 = {
+		liege = 0
+		holder = fictional_buryats_10 #fictional herder
+		government = herder_government
+	}
+	10891.9.13 = {
+		holder = 303157		#fictional Tayisung Abazaj
+		government = nomad_government
+	}
+	
+	#1066
+	11065.9.15 = {
+		holder = 303158		#fictional Ariq Abazaj
+	}
+	11092.6.27 = {
+		holder = 303159		#fictional Jorightu Abazaj
+	}
+	11125.7.11 = {
+		holder = 303160		#fictional Gulichi Abazaj
+	}
+	11150.12.23 = {
+		holder = 303161		#fictional Bars Abazaj
+	}
+	11159.1.27 = {
+		holder = fictional_buryats_20 #fictional herder
+		government = herder_government
+	}
+	11190.1.13 = {
+		holder = 303163		#fictional Khotsa Abazaj
+		government = nomad_government
+	}
+}
+

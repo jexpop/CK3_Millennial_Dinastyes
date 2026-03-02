@@ -1,0 +1,3041 @@
+k_khotan = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 4 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	20.1.1 = {
+		change_development_level = 2
+	}
+	11000.1.1 = {
+		change_development_level = 5
+	}
+	11100.1.1 = {
+		change_development_level = 12
+	}
+
+	#Khotan Kings
+	10100.1.1 = {
+		holder = 166632
+		government = feudal_government
+	}
+	10130.1.1 = {
+		holder = 166633
+	}
+	10132.1.1 = {
+		holder = 166634
+	}
+	10151.1.1 = {
+		holder = 166635
+	}
+	10182.1.1 = {
+		holder = 166636
+	}
+	10188.1.1 = {
+		holder = 166637
+	}
+	10208.1.1 = {
+		holder = 166638
+	}
+	10243.1.1 = {
+		holder = 166639
+	}
+	10251.1.1 = {
+		holder = 166640
+	}
+	10279.1.1 = {
+		holder = 166641
+	}
+	10306.1.1 = {
+		holder = 166642
+	}
+	10336.1.1 = {
+		holder = 166643
+	}
+	10373.1.1 = {
+		holder = 166644
+	}
+	10397.1.1 = {
+		holder = 166645
+	}
+	10436.1.1 = {
+		holder = 166646
+	}
+	10451.1.1 = {
+		holder = 166647
+	}
+	10496.1.1 = {
+		holder = 166648
+	}
+	10512.1.1 = {
+		holder = 166649
+	}
+	10531.1.1 = {
+		holder = 166650
+	}
+	10578.1.1 = {
+		holder = 166651
+	}
+	10596.1.1 = {
+		holder = 166652
+	}
+	10612.1.1 = {
+		holder = 166653
+	}
+	10628.1.1 = {
+		holder = 166654
+	}
+	#640 - Tang Dynasty establishes control over Khotan
+	10649.1.1 = {
+		holder = 166655
+	}
+	10662.1.1 = {
+		holder = 166656
+	}#
+	#Conquered by Tibet
+	10665.1.1 = {
+		liege = e_tibet
+	}
+	10673.1.1 = {
+		holder = 166657
+	}
+	10680.1.1 = {
+		holder = 166658
+	}#Regent of Khotan
+	#Tang Dynasty regains influence over Khotan
+	10692.1.1 = {
+		liege = 0
+		holder = 166659
+	}
+	10719.1.1 = {
+		holder = 166660
+	}
+	10725.1.1 = {
+		holder = 166661
+	}
+	10736.1.1 = {
+		holder = 166662
+	}
+	10740.1.1 = {
+		holder = 166663
+	}
+	10747.1.1 = {
+		holder = 166664
+	}
+	10756.1.1 = {
+		holder = 166665
+	}
+	10789.1.1 = {
+		holder = 166666
+	}
+	#Reconquered by Tibet
+	10792.1.1 = {
+		liege = e_tibet
+	}
+	10798.1.1 = {
+		holder = 166668
+	}
+	10809.1.1 = {
+		holder = 166673
+	}
+	10825.1.1 = {
+		holder = 166675
+	}
+	10841.1.1 = {
+		holder = 166676
+	}
+	#Tibetan Empire Fragments
+	10851.1.1 = {
+		liege = 0
+	}
+	10856.1.1 = {
+		holder = 166679
+	}
+	10859.1.1 = {
+		holder = 166680
+	}
+	10863.1.1 = {
+		holder = 166681
+	}
+	10877.1.1 = {
+		holder = 166683
+	}
+	10885.1.1 = {
+		holder = 166685
+	}
+	10912.1.1 = {
+		holder = 166686
+	}
+	10966.1.1 = {
+		holder = 166687
+	}
+	10977.1.1 = {
+		holder = 166688
+	}
+	10982.1.1 = {
+		holder = 166689
+	}
+
+	#Conquered by Karakhanids
+	11006.1.1 = {
+		holder = 0
+	}
+	11178.1.1 = {
+		holder = 188855
+		liege = e_kara_khitai
+		de_jure_liege = e_kara_khitai
+		government = nomad_government
+	}
+}
+
+
+d_khotan = {
+	#Khotan Kings
+	10100.1.1 = {
+		holder = 166632
+		liege = k_khotan
+	}
+	10130.1.1 = {
+		holder = 166633
+	}
+	10132.1.1 = {
+		holder = 166634
+	}
+	10151.1.1 = {
+		holder = 166635
+	}
+	10182.1.1 = {
+		holder = 166636
+	}
+	10188.1.1 = {
+		holder = 166637
+	}
+	10208.1.1 = {
+		holder = 166638
+	}
+	10243.1.1 = {
+		holder = 166639
+	}
+	10251.1.1 = {
+		holder = 166640
+	}
+	10279.1.1 = {
+		holder = 166641
+	}
+	10306.1.1 = {
+		holder = 166642
+	}
+	10336.1.1 = {
+		holder = 166643
+	}
+	10373.1.1 = {
+		holder = 166644
+	}
+	10397.1.1 = {
+		holder = 166645
+	}
+	10436.1.1 = {
+		holder = 166646
+	}
+	10451.1.1 = {
+		holder = 166647
+	}
+	10496.1.1 = {
+		holder = 166648
+	}
+	10512.1.1 = {
+		holder = 166649
+	}
+	10531.1.1 = {
+		holder = 166650
+	}
+	10578.1.1 = {
+		holder = 166651
+	}
+	10596.1.1 = {
+		holder = 166652
+	}
+	10612.1.1 = {
+		holder = 166653
+	}
+	10628.1.1 = {
+		holder = 166654
+	}
+	10649.1.1 = {
+		holder = 166655
+	}
+	10662.1.1 = {
+		holder = 166656
+	}#
+	10673.1.1 = {
+		holder = 166657
+	}
+	10680.1.1 = {
+		holder = 166658
+	}#Regent of Khotan
+	10692.1.1 = {
+		holder = 166659
+	}
+	10719.1.1 = {
+		holder = 166660
+	}
+	10725.1.1 = {
+		holder = 166661
+	}
+	10736.1.1 = {
+		holder = 166662
+	}
+	10740.1.1 = {
+		holder = 166663
+	}
+	10747.1.1 = {
+		holder = 166664
+	}
+	10756.1.1 = {
+		holder = 166665
+	}
+	10789.1.1 = {
+		holder = 166666
+	}
+	10798.1.1 = {
+		holder = 166668
+	}
+	10809.1.1 = {
+		holder = 166673
+	}
+	10825.1.1 = {
+		holder = 166675
+	}
+	10841.1.1 = {
+		holder = 166676
+	}
+	10856.1.1 = {
+		holder = 166679
+	}
+	10859.1.1 = {
+		holder = 166680
+	}
+	10863.1.1 = {
+		holder = 166681
+	}
+	10877.1.1 = {
+		holder = 166683
+	}
+	10885.1.1 = {
+		holder = 166685
+	}
+	10912.1.1 = {
+		holder = 166686
+	}
+	10966.1.1 = {
+		holder = 166687
+	}
+	10977.1.1 = {
+		holder = 166688
+	}
+	10982.1.1 = {
+		holder = 166689
+	}
+	#Conquered by Karakhanids
+	11006.1.1 = {
+		liege = k_zhetysu
+		holder = 3004
+	}
+	11024.1.2 = {
+		holder = 3008
+	}
+	11032.1.2 = {
+		holder = 144105
+	}
+	11057.1.1 = {
+		holder = karluk0019
+	}
+	11100.1.1 = {
+		holder = karluk0020
+	}
+	11120.1.1 = {
+		holder = karluk0021
+	}
+	11140.1.1 = {
+		holder = karluk0022
+	}
+	11160.1.1 = {
+		holder = karluk0023
+		liege = k_khotan
+	}
+	11180.1.1 = {
+		holder = karluk0024
+	}
+	11200.1.1 = {
+		holder = karluk0025
+	}
+	11220.1.1 = {
+		holder = karluk0026
+	}
+	11240.1.1 = {
+		holder = karluk0027
+	}
+	11260.1.1 = {
+		holder = karluk0028
+	}
+	11280.1.1 = {
+		holder = karluk0029
+	}
+	11300.1.1 = {
+		holder = karluk0030
+	}
+	11320.1.1 = {
+		holder = karluk0031
+	}
+	11340.1.1 = {
+		holder = karluk0032
+	}
+	11360.1.1 = {
+		holder = karluk0033
+	}
+}
+
+
+c_khotan = {
+	10867.1.1 = { change_development_level = 9 }
+	11066.1.1 = { change_development_level = 13 }
+	11178.1.1 = { change_development_level = 15 }
+	
+	#Khotan Kings
+	10100.1.1 = {
+		liege = d_khotan
+		holder = 166632
+		government = feudal_government
+	}
+	10130.1.1 = {
+		holder = 166633
+	}
+	10132.1.1 = {
+		holder = 166634
+	}
+	10151.1.1 = {
+		holder = 166635
+	}
+	10182.1.1 = {
+		holder = 166636
+	}
+	10188.1.1 = {
+		holder = 166637
+	}
+	10208.1.1 = {
+		holder = 166638
+	}
+	10243.1.1 = {
+		holder = 166639
+	}
+	10251.1.1 = {
+		holder = 166640
+	}
+	10279.1.1 = {
+		holder = 166641
+	}
+	10306.1.1 = {
+		holder = 166642
+	}
+	10336.1.1 = {
+		holder = 166643
+	}
+	10373.1.1 = {
+		holder = 166644
+	}
+	10397.1.1 = {
+		holder = 166645
+	}
+	10436.1.1 = {
+		holder = 166646
+	}
+	10451.1.1 = {
+		holder = 166647
+	}
+	10496.1.1 = {
+		holder = 166648
+	}
+	10512.1.1 = {
+		holder = 166649
+	}
+	10531.1.1 = {
+		holder = 166650
+	}
+	10578.1.1 = {
+		holder = 166651
+	}
+	10596.1.1 = {
+		holder = 166652
+	}
+	10612.1.1 = {
+		holder = 166653
+	}
+	10628.1.1 = {
+		holder = 166654
+	}
+	10649.1.1 = {
+		holder = 166655
+	}
+	10662.1.1 = {
+		holder = 166656
+	}#
+	10673.1.1 = {
+		holder = 166657
+	}
+	10680.1.1 = {
+		holder = 166658
+	}#Regent of Khotan
+	10692.1.1 = {
+		holder = 166659
+	}
+	10719.1.1 = {
+		holder = 166660
+	}
+	10725.1.1 = {
+		holder = 166661
+	}
+	10736.1.1 = {
+		holder = 166662
+	}
+	10740.1.1 = {
+		holder = 166663
+	}
+	10747.1.1 = {
+		holder = 166664
+	}
+	10756.1.1 = {
+		holder = 166665
+	}
+	10789.1.1 = {
+		holder = 166666
+	}
+	10798.1.1 = {
+		holder = 166668
+	}
+	10809.1.1 = {
+		holder = 166673
+	}
+	10825.1.1 = {
+		holder = 166675
+	}
+	10841.1.1 = {
+		holder = 166676
+	}
+	10856.1.1 = {
+		holder = 166679
+	}
+	10859.1.1 = {
+		holder = 166680
+	}
+	10863.1.1 = {
+		holder = 166681
+	}
+	10877.1.1 = {
+		holder = 166683
+	}
+	10885.1.1 = {
+		holder = 166685
+	}
+	10912.1.1 = {
+		holder = 166686
+	}
+	10966.1.1 = {
+		holder = 166687
+	}
+	10977.1.1 = {
+		holder = 166688
+	}
+	10982.1.1 = {
+		holder = 166689
+	}
+	#Conquered by Karakhanids
+	11006.1.1 = {
+		holder = 3004
+	}
+	11024.1.2 = {
+		holder = 3008
+	}
+	11032.1.2 = {
+		holder = 144105
+	}
+	11057.1.1 = {
+		holder = karluk0019
+	}
+	11100.1.1 = {
+		holder = karluk0020
+	}
+	11120.1.1 = {
+		holder = karluk0021
+	}
+	11140.1.1 = {
+		holder = karluk0022
+	}
+	11160.1.1 = {
+		holder = karluk0023
+	}
+	11180.1.1 = {
+		holder = karluk0024
+	}
+	11200.1.1 = {
+		holder = karluk0025
+	}
+	11220.1.1 = {
+		holder = karluk0026
+	}
+	11240.1.1 = {
+		holder = karluk0027
+	}
+	11260.1.1 = {
+		holder = karluk0028
+	}
+	11280.1.1 = {
+		holder = karluk0029
+	}
+	11300.1.1 = {
+		holder = karluk0030
+	}
+	11320.1.1 = {
+		holder = karluk0031
+	}
+	11340.1.1 = {
+		holder = karluk0032
+	}
+	11360.1.1 = {
+		holder = karluk0033
+	}
+}
+
+c_dondan_oilik = {
+	10867.1.1 = { change_development_level = 9 }
+	11066.1.1 = { change_development_level = 13 }
+	11178.1.1 = { change_development_level = 15 }
+	
+	#Khotan Kings
+	10100.1.1 = {
+		liege = d_khotan
+		holder = 166632
+		government = feudal_government
+	}
+	10130.1.1 = {
+		holder = 166633
+	}
+	10132.1.1 = {
+		holder = 166634
+	}
+	10151.1.1 = {
+		holder = 166635
+	}
+	10182.1.1 = {
+		holder = 166636
+	}
+	10188.1.1 = {
+		holder = 166637
+	}
+	10208.1.1 = {
+		holder = 166638
+	}
+	10243.1.1 = {
+		holder = 166639
+	}
+	10251.1.1 = {
+		holder = 166640
+	}
+	10279.1.1 = {
+		holder = 166641
+	}
+	10306.1.1 = {
+		holder = 166642
+	}
+	10336.1.1 = {
+		holder = 166643
+	}
+	10373.1.1 = {
+		holder = 166644
+	}
+	10397.1.1 = {
+		holder = 166645
+	}
+	10436.1.1 = {
+		holder = 166646
+	}
+	10451.1.1 = {
+		holder = 166647
+	}
+	10496.1.1 = {
+		holder = 166648
+	}
+	10512.1.1 = {
+		holder = 166649
+	}
+	10531.1.1 = {
+		holder = 166650
+	}
+	10578.1.1 = {
+		holder = 166651
+	}
+	10596.1.1 = {
+		holder = 166652
+	}
+	10612.1.1 = {
+		holder = 166653
+	}
+	10628.1.1 = {
+		holder = 166654
+	}
+	10649.1.1 = {
+		holder = 166655
+	}
+	10662.1.1 = {
+		holder = 166656
+	}#
+	10673.1.1 = {
+		holder = 166657
+	}
+	10680.1.1 = {
+		holder = 166658
+	}#Regent of Khotan
+	10692.1.1 = {
+		holder = 166659
+	}
+	10719.1.1 = {
+		holder = 166660
+	}
+	10725.1.1 = {
+		holder = 166661
+	}
+	10736.1.1 = {
+		holder = 166662
+	}
+	10740.1.1 = {
+		holder = 166663
+	}
+	10747.1.1 = {
+		holder = 166664
+	}
+	10756.1.1 = {
+		holder = 166665
+	}
+	10789.1.1 = {
+		holder = 166666
+	}
+	10798.1.1 = {
+		holder = 166668
+	}
+	10809.1.1 = {
+		holder = 166673
+	}
+	10825.1.1 = {
+		holder = 166675
+	}
+	10841.1.1 = {
+		holder = 166676
+	}
+	10856.1.1 = {
+		holder = 166679
+	}
+	10859.1.1 = {
+		holder = 166680
+	}
+	10863.1.1 = {
+		holder = 166681
+	}
+	10877.1.1 = {
+		holder = 166683
+	}
+	10885.1.1 = {
+		holder = 166685
+	}
+	10912.1.1 = {
+		holder = 166686
+	}
+	10966.1.1 = {
+		holder = 166687
+	}
+	10977.1.1 = {
+		holder = 166688
+	}
+	10982.1.1 = {
+		holder = 166689
+	}
+	#Conquered by Karakhanids
+	11006.1.1 = {
+		holder = 3004
+	}
+	11024.1.2 = {
+		holder = 3008
+	}
+	11032.1.2 = {
+		holder = 144105
+	}
+	11057.1.1 = {
+		holder = karluk0019
+	}
+	11100.1.1 = {
+		holder = karluk0020
+	}
+	11120.1.1 = {
+		holder = karluk0021
+	}
+	11140.1.1 = {
+		holder = karluk0022
+	}
+	11160.1.1 = {
+		holder = karluk0023
+	}
+	11180.1.1 = {
+		holder = karluk0024
+	}
+	11200.1.1 = {
+		holder = karluk0025
+	}
+	11220.1.1 = {
+		holder = karluk0026
+	}
+	11240.1.1 = {
+		holder = karluk0027
+	}
+	11260.1.1 = {
+		holder = karluk0028
+	}
+	11280.1.1 = {
+		holder = karluk0029
+	}
+	11300.1.1 = {
+		holder = karluk0030
+	}
+	11320.1.1 = {
+		holder = karluk0031
+	}
+	11340.1.1 = {
+		holder = karluk0032
+	}
+	11360.1.1 = {
+		holder = karluk0033
+	}
+}
+
+
+c_karghalik = {
+	#Khotan Kings
+	10100.1.1 = {
+		liege = d_khotan
+		holder = 166632
+		government = feudal_government
+	}
+	10130.1.1 = {
+		holder = 166633
+	}
+	10132.1.1 = {
+		holder = 166634
+	}
+	10151.1.1 = {
+		holder = 166635
+	}
+	10182.1.1 = {
+		holder = 166636
+	}
+	10188.1.1 = {
+		holder = 166637
+	}
+	10208.1.1 = {
+		holder = 166638
+	}
+	10243.1.1 = {
+		holder = 166639
+	}
+	10251.1.1 = {
+		holder = 166640
+	}
+	10279.1.1 = {
+		holder = 166641
+	}
+	10306.1.1 = {
+		holder = 166642
+	}
+	10336.1.1 = {
+		holder = 166643
+	}
+	10373.1.1 = {
+		holder = 166644
+	}
+	10397.1.1 = {
+		holder = 166645
+	}
+	10436.1.1 = {
+		holder = 166646
+	}
+	10451.1.1 = {
+		holder = 166647
+	}
+	10496.1.1 = {
+		holder = 166648
+	}
+	10512.1.1 = {
+		holder = 166649
+	}
+	10531.1.1 = {
+		holder = 166650
+	}
+	10578.1.1 = {
+		holder = 166651
+	}
+	10596.1.1 = {
+		holder = 166652
+	}
+	10612.1.1 = {
+		holder = 166653
+	}
+	10628.1.1 = {
+		holder = 166654
+	}
+	10649.1.1 = {
+		holder = 166655
+	}
+	10662.1.1 = {
+		holder = 166656
+	}#
+	10673.1.1 = {
+		holder = 166657
+	}
+	10680.1.1 = {
+		holder = 166658
+	}#Regent of Khotan
+	10692.1.1 = {
+		holder = 166659
+	}
+	10719.1.1 = {
+		holder = 166660
+	}
+	10725.1.1 = {
+		holder = 166661
+	}
+	10736.1.1 = {
+		holder = 166662
+	}
+	10740.1.1 = {
+		holder = 166663
+	}
+	10747.1.1 = {
+		holder = 166664
+	}
+	10756.1.1 = {
+		holder = 166665
+	}
+	10789.1.1 = {
+		holder = 166666
+	}
+	10798.1.1 = {
+		holder = 166668
+	}
+	10809.1.1 = {
+		holder = 166673
+	}
+	10825.1.1 = {
+		holder = 166675
+	}
+	10841.1.1 = {
+		holder = 166676
+	}
+	10856.1.1 = {
+		holder = 166679
+	}
+	10859.1.1 = {
+		holder = 166680
+	}
+	10863.1.1 = {
+		holder = 166681
+	}
+	10877.1.1 = {
+		holder = 166683
+	}
+	10885.1.1 = {
+		holder = 166685
+	}
+	10912.1.1 = {
+		holder = 166686
+	}
+	10966.1.1 = {
+		holder = 166687
+	}
+	10977.1.1 = {
+		holder = 166688
+	}
+	10982.1.1 = {
+		holder = 166689
+	}
+	#Conquered by Karakhanids
+	11006.1.1 = {
+		holder = 3004
+	}
+	11024.1.2 = {
+		holder = 3008
+	}
+	11032.1.2 = {
+		holder = 144105
+	}
+	11057.1.1 = {
+		holder = karluk0019
+	}
+	11100.1.1 = {
+		holder = karluk0020
+	}
+	11120.1.1 = {
+		holder = karluk0021
+	}
+	11140.1.1 = {
+		holder = karluk0022
+	}
+	11160.1.1 = {
+		holder = karluk0023
+	}
+	11180.1.1 = {
+		holder = karluk0024
+	}
+	11200.1.1 = {
+		holder = karluk0025
+	}
+	11220.1.1 = {
+		holder = karluk0026
+	}
+	11240.1.1 = {
+		holder = karluk0027
+	}
+	11260.1.1 = {
+		holder = karluk0028
+	}
+	11280.1.1 = {
+		holder = karluk0029
+	}
+	11300.1.1 = {
+		holder = karluk0030
+	}
+	11320.1.1 = {
+		holder = karluk0031
+	}
+	11340.1.1 = {
+		holder = karluk0032
+	}
+	11360.1.1 = {
+		holder = karluk0033
+	}
+}
+
+
+c_keriya = {
+	#Khotan Kings
+	10100.1.1 = {
+		liege = d_khotan
+		holder = 166632
+		government = feudal_government
+	}
+	10130.1.1 = {
+		holder = 166633
+	}
+	10132.1.1 = {
+		holder = 166634
+	}
+	10151.1.1 = {
+		holder = 166635
+	}
+	10182.1.1 = {
+		holder = 166636
+	}
+	10188.1.1 = {
+		holder = 166637
+	}
+	10208.1.1 = {
+		holder = 166638
+	}
+	10243.1.1 = {
+		holder = 166639
+	}
+	10251.1.1 = {
+		holder = 166640
+	}
+	10279.1.1 = {
+		holder = 166641
+	}
+	10306.1.1 = {
+		holder = 166642
+	}
+	10336.1.1 = {
+		holder = 166643
+	}
+	10373.1.1 = {
+		holder = 166644
+	}
+	10397.1.1 = {
+		holder = 166645
+	}
+	10436.1.1 = {
+		holder = 166646
+	}
+	10451.1.1 = {
+		holder = 166647
+	}
+	10496.1.1 = {
+		holder = 166648
+	}
+	10512.1.1 = {
+		holder = 166649
+	}
+	10531.1.1 = {
+		holder = 166650
+	}
+	10578.1.1 = {
+		holder = 166651
+	}
+	10596.1.1 = {
+		holder = 166652
+	}
+	10612.1.1 = {
+		holder = 166653
+	}
+	10628.1.1 = {
+		holder = 166654
+	}
+	10649.1.1 = {
+		holder = 166655
+	}
+	10662.1.1 = {
+		holder = 166656
+	}#
+	10673.1.1 = {
+		holder = 166657
+	}
+	10680.1.1 = {
+		holder = 166658
+	}#Regent of Khotan
+	10692.1.1 = {
+		holder = 166659
+	}
+	10719.1.1 = {
+		holder = 166660
+	}
+	10725.1.1 = {
+		holder = 166661
+	}
+	10736.1.1 = {
+		holder = 166662
+	}
+	10740.1.1 = {
+		holder = 166663
+	}
+	10747.1.1 = {
+		holder = 166664
+	}
+	10756.1.1 = {
+		holder = 166665
+	}
+	10789.1.1 = {
+		holder = 166666
+	}
+	10798.1.1 = {
+		holder = 166668
+	}
+	10809.1.1 = {
+		holder = 166673
+	}
+	10825.1.1 = {
+		holder = 166675
+	}
+	10841.1.1 = {
+		holder = 166676
+	}
+	10856.1.1 = {
+		holder = 166679
+	}
+	10859.1.1 = {
+		holder = 166680
+	}
+	10863.1.1 = {
+		holder = 166681
+	}
+	10877.1.1 = {
+		holder = 166683
+	}
+	10885.1.1 = {
+		holder = 166685
+	}
+	10912.1.1 = {
+		holder = 166686
+	}
+	10966.1.1 = {
+		holder = 166687
+	}
+	10977.1.1 = {
+		holder = 166688
+	}
+	10982.1.1 = {
+		holder = 166689
+	}
+	#Conquered by Karakhanids
+	11006.1.1 = {
+		holder = 3004
+	}
+	11024.1.2 = {
+		holder = 3008
+	}
+	11032.1.2 = {
+		holder = 144105
+	}
+	11057.1.1 = {
+		holder = karluk0019
+	}
+	11100.1.1 = {
+		holder = karluk0020
+	}
+	11120.1.1 = {
+		holder = karluk0021
+	}
+	11140.1.1 = {
+		holder = karluk0022
+	}
+	11160.1.1 = {
+		holder = karluk0023
+	}
+	11180.1.1 = {
+		holder = karluk0024
+	}
+	11200.1.1 = {
+		holder = karluk0025
+	}
+	11220.1.1 = {
+		holder = karluk0026
+	}
+	11240.1.1 = {
+		holder = karluk0027
+	}
+	11260.1.1 = {
+		holder = karluk0028
+	}
+	11280.1.1 = {
+		holder = karluk0029
+	}
+	11300.1.1 = {
+		holder = karluk0030
+	}
+	11320.1.1 = {
+		holder = karluk0031
+	}
+	11340.1.1 = {
+		holder = karluk0032
+	}
+	11360.1.1 = {
+		holder = karluk0033
+	}
+}
+
+
+c_cherchen = {
+	10720.1.1 = {
+		liege = d_khotan
+		holder = 166736
+		government = feudal_government
+	}
+	10758.1.1 = {
+		holder = 166737
+	}
+	10807.1.1 = {
+		holder = 166739
+	}
+	10852.1.1 = {
+		holder = 166740
+	}
+	10880.1.1 = {
+		holder = saka0001
+	}
+	10920.1.1 = {
+		holder = saka0002
+	}
+	10940.1.1 = {
+		holder = saka0003
+	}
+	10960.1.1 = {
+		holder = saka0004
+	}
+	10980.1.1 = {
+		holder = saka0005
+	}
+	11000.1.1 = {
+		holder = saka0006
+	}
+	#Conquered by Karakhanids
+	11006.1.1 = {
+		government = clan_government # Now Muslim
+		holder = karluk0001
+	}
+	11040.1.1 = {
+		holder = karluk0002
+	}
+	11060.1.1 = {
+		holder = karluk0003
+	}
+	11080.1.1 = {
+		holder = karluk0004
+	}
+	11100.1.1 = {
+		holder = karluk0005
+	}
+	11120.1.1 = {
+		holder = karluk0006
+	}
+	11140.1.1 = {
+		holder = karluk0007
+	}
+	11160.1.1 = {
+		holder = karluk0008
+	}
+	11180.1.1 = {
+		holder = karluk0009
+	}
+	11200.1.1 = {
+		holder = karluk0010
+	}
+	11220.1.1 = {
+		holder = karluk0011
+	}
+	11240.1.1 = {
+		holder = karluk0012
+	}
+	11260.1.1 = {
+		holder = karluk0013
+	}
+	11280.1.1 = {
+		holder = karluk0014
+	}
+	11300.1.1 = {
+		holder = karluk0015
+	}
+	11320.1.1 = {
+		holder = karluk0016
+	}
+	11340.1.1 = {
+		holder = karluk0017
+	}
+	11360.1.1 = {
+		holder = karluk0018
+	}
+}
+
+d_kashgar = {
+	10728.1.1 = {
+		holder = 166690 # Chinese recognition
+		government = feudal_government
+	}
+	10760.1.1 = {
+		holder = 166691
+	}
+	10798.1.1 = {
+		liege = e_tibet # conquered by Tibet around this time
+		holder = 166693
+	}
+	10842.1.1 = {
+		liege = 0
+	}
+	10846.1.1 = {
+		holder = 166694
+	}
+	10891.1.1 = {
+		holder = saka0023
+	}
+	10920.1.1 = {
+		holder = saka0024
+	}
+	10940.1.1 = {
+		holder = saka0025
+	}
+	#Karakhanids
+	10940.6.1 = {
+		holder = 217205
+		liege = k_zhetysu
+	}
+	#Captured by Khotan
+	10966.1.1 = {
+		holder = saka0026
+		liege = k_khotan
+	}
+	10980.1.1 = {
+		holder = saka0027
+	}
+	11000.1.1 = {
+		holder = saka0028
+	}
+	#Karakhanids
+	11006.1.1 = {
+		liege = k_zhetysu
+		government = clan_government # Now Muslim
+		holder = 3004
+	}
+	11024.1.2 = {
+		holder = 3006
+	}
+	#Kashgar vassals - fictional placeholders
+	11026.1.2 = {
+		holder = karluk0043
+	}
+	11080.1.1 = {
+		holder = karluk0044
+	}
+	11100.1.1 = {
+		holder = karluk0045
+	}
+	11120.1.1 = {
+		holder = karluk0046
+	}
+	11140.1.1 = {
+		holder = karluk0047
+	}
+	11160.1.1 = {
+		holder = karluk0048
+		liege = k_khotan
+	}
+	11180.1.1 = {
+		holder = karluk0049
+	}
+	11200.1.1 = {
+		holder = karluk0050
+	}
+	11220.1.1 = {
+		holder = karluk0051
+	}
+	11240.1.1 = {
+		holder = karluk0052
+	}
+	11260.1.1 = {
+		holder = karluk0053
+	}
+	11280.1.1 = {
+		holder = karluk0054
+	}
+	11300.1.1 = {
+		holder = karluk0055
+	}
+	11320.1.1 = {
+		holder = karluk0056
+	}
+	11340.1.1 = {
+		holder = karluk0057
+	}
+	11360.1.1 = {
+		holder = karluk0058
+	}
+}
+
+c_kashgar = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 34 }
+	
+	10720.1.1 = {
+		holder = 166690
+		liege = d_kashgar
+		government = feudal_government
+	}
+	10760.1.1 = {
+		holder = 166691
+	}
+	10798.1.1 = {
+		holder = 166693
+	}
+	10846.1.1 = {
+		holder = 166694
+	}
+	10940.6.1 = {
+		holder = 217205
+	}
+	#Captured by Khotan
+	10966.1.1 = {
+		holder = saka0019
+	}
+	10980.1.1 = {
+		holder = saka0020
+	}
+	11000.1.1 = {
+		holder = saka0021
+	}
+	#Karakhanids
+	11006.1.1 = {
+		government = clan_government # Now Muslim
+		holder = 3004
+	}
+	11024.1.2 = {
+		holder = 3006
+	}
+	#Kashgar vassals - fictional placeholders
+	11026.1.2 = {
+		holder = karluk0043
+	}
+	11080.1.1 = {
+		holder = karluk0044
+	}
+	11100.1.1 = {
+		holder = karluk0045
+	}
+	11120.1.1 = {
+		holder = karluk0046
+	}
+	11140.1.1 = {
+		holder = karluk0047
+	}
+	11160.1.1 = {
+		holder = karluk0048
+	}
+	11180.1.1 = {
+		holder = karluk0049
+	}
+	11200.1.1 = {
+		holder = karluk0050
+	}
+	11220.1.1 = {
+		holder = karluk0051
+	}
+	11240.1.1 = {
+		holder = karluk0052
+	}
+	11260.1.1 = {
+		holder = karluk0053
+	}
+	11280.1.1 = {
+		holder = karluk0054
+	}
+	11300.1.1 = {
+		holder = karluk0055
+	}
+	11320.1.1 = {
+		holder = karluk0056
+	}
+	11340.1.1 = {
+		holder = karluk0057
+	}
+	11360.1.1 = {
+		holder = karluk0058
+	}
+}
+
+c_maralbeshi = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 34 }
+	
+	10720.1.1 = {
+		holder = 166690
+		liege = d_kashgar
+		government = feudal_government
+	}
+	10760.1.1 = {
+		holder = 166691
+	}
+	10798.1.1 = {
+		holder = 166693
+	}
+	10846.1.1 = {
+		holder = 166694
+	}
+	10940.6.1 = {
+		holder = 217205
+	}
+	#Captured by Khotan
+	10966.1.1 = {
+		holder = saka0019
+	}
+	10980.1.1 = {
+		holder = saka0020
+	}
+	11000.1.1 = {
+		holder = saka0021
+	}
+	#Karakhanids
+	11006.1.1 = {
+		government = clan_government # Now Muslim
+		holder = 3004
+	}
+	11024.1.2 = {
+		holder = 3006
+	}
+	#Kashgar vassals - fictional placeholders
+	11026.1.2 = {
+		holder = karluk0043
+	}
+	11080.1.1 = {
+		holder = karluk0044
+	}
+	11100.1.1 = {
+		holder = karluk0045
+	}
+	11120.1.1 = {
+		holder = karluk0046
+	}
+	11140.1.1 = {
+		holder = karluk0047
+	}
+	11160.1.1 = {
+		holder = karluk0048
+	}
+	11180.1.1 = {
+		holder = karluk0049
+	}
+	11200.1.1 = {
+		holder = karluk0050
+	}
+	11220.1.1 = {
+		holder = karluk0051
+	}
+	11240.1.1 = {
+		holder = karluk0052
+	}
+	11260.1.1 = {
+		holder = karluk0053
+	}
+	11280.1.1 = {
+		holder = karluk0054
+	}
+	11300.1.1 = {
+		holder = karluk0055
+	}
+	11320.1.1 = {
+		holder = karluk0056
+	}
+	11340.1.1 = {
+		holder = karluk0057
+	}
+	11360.1.1 = {
+		holder = karluk0058
+	}
+}
+
+
+c_terek_pass = {
+	10720.1.1 = {
+		holder = 166690
+		government = feudal_government
+	}
+	10760.1.1 = {
+		holder = 166691
+	}
+	10798.1.1 = {
+		holder = 166693
+	}
+	10846.1.1 = {
+		holder = 166694
+	}
+	10940.6.1 = {
+		holder = 217205
+		liege = d_zhetysu
+	}
+	#Captured by Khotan
+	10966.1.1 = {
+		holder = saka0019
+	}
+	10980.1.1 = {
+		holder = saka0020
+	}
+	11000.1.1 = {
+		holder = saka0021
+	}
+	#Karakhanids
+	11006.1.1 = {
+		government = clan_government # Now Muslim
+		holder = 3004
+	}
+	11024.1.2 = {
+		holder = 3006
+	}
+	#Kashgar vassals - fictional placeholders
+	11026.1.2 = {
+		holder = karluk0043
+	}
+	11080.1.1 = {
+		holder = karluk0044
+	}
+	11100.1.1 = {
+		holder = karluk0045
+	}
+	11120.1.1 = {
+		holder = karluk0046
+	}
+	11140.1.1 = {
+		holder = karluk0047
+	}
+	11160.1.1 = {
+		holder = karluk0048
+	}
+	11180.1.1 = {
+		holder = karluk0049
+	}
+	11200.1.1 = {
+		holder = karluk0050
+	}
+	11220.1.1 = {
+		holder = karluk0051
+	}
+	11240.1.1 = {
+		holder = karluk0052
+	}
+	11260.1.1 = {
+		holder = karluk0053
+	}
+	11280.1.1 = {
+		holder = karluk0054
+	}
+	11300.1.1 = {
+		holder = karluk0055
+	}
+	11320.1.1 = {
+		holder = karluk0056
+	}
+	11340.1.1 = {
+		holder = karluk0057
+	}
+	11360.1.1 = {
+		holder = karluk0058
+	}
+}
+
+
+c_aksu = {
+	10720.1.1 = {
+		holder = 166702
+		government = feudal_government
+	}
+	10762.1.1 = {
+		holder = 166703
+	}
+	10795.1.1 = {
+		holder = 166705
+	}
+	10798.1.1 = {
+		liege = d_kara_khoja
+	}
+	10852.1.1 = {
+		holder = 166706
+	}
+	#Taken by Guiyi Circuit
+	10866.1.1 = {
+		#liege = k_guiyi
+	}
+	#Conquered by Qocho
+	10866.6.1 = {
+		liege = d_karashar
+	}
+	10893.1.1 = {
+		holder = tocharian0001
+	}
+	10900.1.1 = {
+		holder = uyghur0013
+	}
+	10940.1.1 = {
+		holder = uyghur0014
+	}
+	10960.1.1 = {
+		holder = uyghur0015
+	}
+	10980.1.1 = {
+		holder = uyghur0016
+	}
+	11000.1.1 = {
+		holder = uyghur0017
+	}
+	11020.1.1 = {
+		holder = uyghur0018
+	}
+	11040.1.1 = {
+		holder = uyghur0019
+	}
+	11060.1.1 = {
+		holder = uyghur0020
+	}
+	11080.1.1 = {
+		holder = uyghur0021
+	}
+	11100.1.1 = {
+		holder = uyghur0022
+	}
+	11120.1.1 = {
+		holder = uyghur0023
+	}
+	11140.1.1 = {
+		holder = uyghur0024
+	}
+	11160.1.1 = {
+		holder = uyghur0025
+	}
+	11180.1.1 = {
+		holder = uyghur0026
+	}
+	11200.1.1 = {
+		holder = uyghur0027
+	}
+	11220.1.1 = {
+		holder = uyghur0028
+	}
+	11240.1.1 = {
+		holder = uyghur0029
+	}
+	11260.1.1 = {
+		holder = uyghur0030
+	}
+	11280.1.1 = {
+		holder = uyghur0031
+	}
+	11300.1.1 = {
+		holder = uyghur0032
+	}
+	11320.1.1 = {
+		holder = uyghur0033
+	}
+	11340.1.1 = {
+		holder = uyghur0034
+	}
+	11360.1.1 = {
+		holder = uyghur0035
+	}
+}
+
+
+c_yarkand = {
+	10867.1.1 = { change_development_level = 7 }
+	11066.1.1 = { change_development_level = 11 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	#Khotan Kings
+	10100.1.1 = {
+		liege = d_khotan
+		government = feudal_government
+	}
+
+	#Yarkand Khotan vassals - fictional placeholders
+	10760.1.1 = {
+		holder = saka0009
+	}
+	10800.1.1 = {
+		holder = saka0010
+	}
+	10820.1.1 = {
+		holder = saka0011
+	}
+	10840.1.1 = {
+		holder = saka0012
+	}
+	10860.1.1 = {
+		holder = saka0013
+	}
+	10880.1.1 = {
+		holder = saka0014
+	}
+	10900.1.1 = {
+		holder = saka0015
+	}
+	10920.1.1 = {
+		holder = saka0016
+	}
+	10940.1.1 = {
+		holder = saka0017
+	}
+	10960.1.1 = {
+		holder = saka0019
+	}
+	10980.1.1 = {
+		holder = saka0020
+	}
+	11000.1.1 = {
+		holder = saka0021
+	}
+	#Conquered by Karakhanids
+	11006.1.1 = {
+		liege = d_kashgar
+		government = clan_government # Now Muslim
+		holder = 217206
+	}
+	11015.5.9 = {
+		holder = 217207
+	}
+	11054.2.27 = {
+		holder = 217212
+	}
+	11096.2.17 = {
+		holder = 217211
+	}
+	11117.7.9 = {
+		holder = 217241
+	}
+	11144.7.22 = {
+		holder = 217242
+	}
+	11186.3.27 = {
+		holder = 217243
+	}
+	11223.5.17 = {
+		holder = karluk0035
+	}
+	11240.1.1 = {
+		holder = karluk0036
+	}
+	11260.1.1 = {
+		holder = karluk0037
+	}
+	11280.1.1 = {
+		holder = karluk0038
+	}
+	11300.1.1 = {
+		holder = karluk0039
+	}
+	11300.1.1 = {
+		holder = karluk0039
+	}
+	11320.1.1 = {
+		holder = karluk0040
+	}
+	11340.1.1 = {
+		holder = karluk0041
+	}
+	11360.1.1 = {
+		holder = karluk0042
+	}
+}
+
+
+d_karashar = {
+	#Kingdom of Qocho founded in 843
+	10843.1.1 = {
+		holder = 302970	#Pangtele Ediz/Bilg�
+		liege = k_dzungaria
+		government = feudal_government
+	}
+	10864.10.1 = {
+		holder = 302972	#Bokut Bilg�
+	}
+	10866.1.1 = {
+		holder = sogdian0003
+	}
+	10880.1.1 = {
+		holder = uyghur0036
+	}
+	10900.1.1 = {
+		holder = uyghur0037
+	}
+	10920.1.1 = {
+		holder = uyghur0038
+	}
+	10940.1.1 = {
+		holder = uyghur0039
+	}
+	10960.1.1 = {
+		holder = uyghur0040
+	}
+	10980.1.1 = {
+		holder = uyghur0041
+	}
+	11000.1.1 = {
+		holder = uyghur0042
+	}
+	11020.1.1 = {
+		holder = uyghur0043
+	}
+	11040.1.1 = {
+		holder = uyghur0044
+	}
+	11060.1.1 = {
+		holder = uyghur0045
+	}
+	11080.1.1 = {
+		holder = uyghur0046
+	}
+	11100.1.1 = {
+		holder = uyghur0047
+	}
+	11120.1.1 = {
+		holder = uyghur0048
+	}
+	11140.1.1 = {
+		holder = uyghur0049
+	}
+	11160.1.1 = {
+		holder = uyghur0050
+	}
+	11180.1.1 = {
+		holder = uyghur0051
+	}
+	11200.1.1 = {
+		holder = uyghur0052
+	}
+	11220.1.1 = {
+		holder = uyghur0053
+	}
+	11240.1.1 = {
+		holder = uyghur0054
+	}
+	11260.1.1 = {
+		holder = uyghur0055
+	}
+	11280.1.1 = {
+		holder = uyghur0056
+	}
+	11300.1.1 = {
+		holder = uyghur0057
+	}
+	11320.1.1 = {
+		holder = uyghur0058
+	}
+	11340.1.1 = {
+		holder = uyghur0059
+	}
+	11360.1.1 = {
+		holder = uyghur0060
+	}
+}
+
+
+c_karashar = {
+	10867.1.1 = { change_development_level = 9 }
+	11066.1.1 = { change_development_level = 13 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10720.1.1 = {
+		holder = 166718
+	}
+	10763.1.1 = {
+		holder = 166719
+	}
+	10798.1.1 = {
+		liege = d_kara_khoja
+	}
+	10802.1.1 = {
+		holder = 166721
+	}
+	#Kingdom of Qocho founded in 843
+	10843.1.1 = {
+		holder = 302970	#Pangtele Ediz/Bilg�
+		liege = d_karashar
+		government = feudal_government
+	}
+	10864.10.1 = {
+		holder = 302972	#Bokut Bilg�
+	}
+	10866.1.1 = {
+		holder = sogdian0003
+	}
+	10880.1.1 = {
+		holder = uyghur0036
+	}
+	10900.1.1 = {
+		holder = uyghur0037
+	}
+	10920.1.1 = {
+		holder = uyghur0038
+	}
+	10940.1.1 = {
+		holder = uyghur0039
+	}
+	10960.1.1 = {
+		holder = uyghur0040
+	}
+	10980.1.1 = {
+		holder = uyghur0041
+	}
+	11000.1.1 = {
+		holder = uyghur0042
+	}
+	11020.1.1 = {
+		holder = uyghur0043
+	}
+	11040.1.1 = {
+		holder = uyghur0044
+	}
+	11060.1.1 = {
+		holder = uyghur0045
+	}
+	11080.1.1 = {
+		holder = uyghur0046
+	}
+	11100.1.1 = {
+		holder = uyghur0047
+	}
+	11120.1.1 = {
+		holder = uyghur0048
+	}
+	11140.1.1 = {
+		holder = uyghur0049
+	}
+	11160.1.1 = {
+		holder = uyghur0050
+	}
+	11180.1.1 = {
+		holder = uyghur0051
+	}
+	11200.1.1 = {
+		holder = uyghur0052
+	}
+	11220.1.1 = {
+		holder = uyghur0053
+	}
+	11240.1.1 = {
+		holder = uyghur0054
+	}
+	11260.1.1 = {
+		holder = uyghur0055
+	}
+	11280.1.1 = {
+		holder = uyghur0056
+	}
+	11300.1.1 = {
+		holder = uyghur0057
+	}
+	11320.1.1 = {
+		holder = uyghur0058
+	}
+	11340.1.1 = {
+		holder = uyghur0059
+	}
+	11360.1.1 = {
+		holder = uyghur0060
+	}
+}
+
+
+c_kucha = {
+	10867.1.1 = { change_development_level = 7 }
+	11066.1.1 = { change_development_level = 11 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10595.1.1 = {
+		holder = 166708
+	}
+	10624.1.1 = {
+		holder = 166709
+	}
+	10646.1.1 = {
+		holder = 166710
+	}
+	10689.1.1 = {
+		holder = 166711
+	}
+	10719.1.1 = {
+		holder = 166712
+	}
+	10760.1.1 = {
+		holder = 166713
+	}
+	10782.1.1 = {
+		liege = d_kara_khoja # conquered by Tibet
+	}
+	10792.1.1 = {
+		holder = 166715
+	}
+	#Kingdom of Qocho founded in 843
+	10843.1.1 = {
+		holder = 302970	#Pangtele Ediz/Bilg�
+		liege = d_karashar
+	}
+	10864.1.1 = {
+		holder = 166716
+	}
+	10866.1.1 = {
+		holder = uyghur0061
+		government = feudal_government
+	}
+	10900.1.1 = {
+		holder = uyghur0063
+	}
+	10940.1.1 = {
+		holder = uyghur0064
+	}
+	10960.1.1 = {
+		holder = uyghur0065
+	}
+	10980.1.1 = {
+		holder = uyghur0066
+	}
+	11000.1.1 = {
+		holder = uyghur0067
+	}
+	11020.1.1 = {
+		holder = uyghur0068
+	}
+	11040.1.1 = {
+		holder = uyghur0069
+	}
+	11060.1.1 = {
+		holder = uyghur0070
+	}
+	11080.1.1 = {
+		holder = uyghur0071
+	}
+	11100.1.1 = {
+		holder = uyghur0072
+	}
+	11120.1.1 = {
+		holder = uyghur0073
+	}
+	11140.1.1 = {
+		holder = uyghur0074
+	}
+	11160.1.1 = {
+		holder = uyghur0075
+	}
+	11180.1.1 = {
+		holder = uyghur0076
+	}
+	11200.1.1 = {
+		holder = uyghur0077
+	}
+	11220.1.1 = {
+		holder = uyghur0078
+	}
+	11240.1.1 = {
+		holder = uyghur0079
+	}
+	11260.1.1 = {
+		holder = uyghur0080
+	}
+	11280.1.1 = {
+		holder = uyghur0081
+	}
+	11300.1.1 = {
+		holder = uyghur0082
+	}
+	11320.1.1 = {
+		holder = uyghur0083
+	}
+	11340.1.1 = {
+		holder = uyghur0084
+	}
+	11360.1.1 = {
+		holder = uyghur0085
+	}
+}
+
+
+c_luntai = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10720.1.1 = {
+		holder = 166724
+		government = feudal_government
+	}
+	10759.1.1 = {
+		holder = 166725
+	}
+	10798.1.1 = {
+		liege = d_kara_khoja #Tibet
+		holder = 166727
+	}
+	10855.1.1 = {
+		holder = 166728
+	}
+	#Taken by Guiyi Circuit
+	10866.1.1 = {
+		#liege = k_guiyi
+	}
+	#Taken by Qocho
+	10866.6.1 = {
+		liege = d_karashar
+		holder = uyghur0036
+	}
+	10900.1.1 = {
+		holder = uyghur0037
+	}
+	10920.1.1 = {
+		holder = uyghur0038
+	}
+	10940.1.1 = {
+		holder = uyghur0039
+	}
+	10960.1.1 = {
+		holder = uyghur0040
+	}
+	10980.1.1 = {
+		holder = uyghur0041
+	}
+	11000.1.1 = {
+		holder = uyghur0042
+	}
+	11020.1.1 = {
+		holder = uyghur0043
+	}
+	11040.1.1 = {
+		holder = uyghur0044
+	}
+	11060.1.1 = {
+		holder = uyghur0045
+	}
+	11080.1.1 = {
+		holder = uyghur0046
+	}
+	11100.1.1 = {
+		holder = uyghur0047
+	}
+	11120.1.1 = {
+		holder = uyghur0048
+	}
+	11140.1.1 = {
+		holder = uyghur0049
+	}
+	11160.1.1 = {
+		holder = uyghur0050
+	}
+	11180.1.1 = {
+		holder = uyghur0051
+	}
+	11200.1.1 = {
+		holder = uyghur0052
+	}
+	11220.1.1 = {
+		holder = uyghur0053
+	}
+	11240.1.1 = {
+		holder = uyghur0054
+	}
+	11260.1.1 = {
+		holder = uyghur0055
+	}
+	11280.1.1 = {
+		holder = uyghur0056
+	}
+	11300.1.1 = {
+		holder = uyghur0057
+	}
+	11320.1.1 = {
+		holder = uyghur0058
+	}
+	11340.1.1 = {
+		holder = uyghur0059
+	}
+	11360.1.1 = {
+		holder = uyghur0060
+	}
+}
+
+d_charkliq = {
+	10770.1.1 = {
+		liege = e_tibet # conquered by Tibet
+		holder = bodpa0253
+	}
+	10800.1.1 = {
+		holder = bodpa0254
+	}
+	10820.1.1 = {
+		holder = bodpa0255
+	}
+	10840.1.1 = {
+		holder = bodpa0256
+	}
+	10860.1.1 = {
+		holder = bodpa0258
+	}
+	#Qocho
+	10866.1.1 = {
+		liege = k_dzungaria
+		holder = uyghur0096
+		government = feudal_government
+	}
+	10900.1.1 = {
+		holder = uyghur0097
+	}
+	10920.1.1 = {
+		holder = uyghur0098
+	}
+	10940.1.1 = {
+		holder = uyghur0099
+	}
+	10960.1.1 = {
+		holder = uyghur0100
+	}
+	10980.1.1 = {
+		holder = uyghur0101
+	}
+	11000.1.1 = {
+		holder = uyghur0102
+	}
+	11020.1.1 = {
+		holder = uyghur0103
+	}
+	11040.1.1 = {
+		holder = uyghur0104
+	}
+	11060.1.1 = {
+		holder = uyghur0105
+	}
+	11080.1.1 = {
+		holder = uyghur0106
+	}
+	11100.1.1 = {
+		holder = uyghur0107
+	}
+	11120.1.1 = {
+		holder = uyghur0108
+	}
+	11140.1.1 = {
+		holder = uyghur0109
+	}
+	11160.1.1 = {
+		holder = uyghur0110
+	}
+	11180.1.1 = {
+		holder = uyghur0111
+	}
+	11200.1.1 = {
+		holder = uyghur0112
+	}
+	11220.1.1 = {
+		holder = uyghur0113
+	}
+	11240.1.1 = {
+		holder = uyghur0114
+	}
+	11260.1.1 = {
+		holder = uyghur0115
+	}
+	11280.1.1 = {
+		holder = uyghur0116
+	}
+	11300.1.1 = {
+		holder = uyghur0117
+	}
+	11320.1.1 = {
+		holder = uyghur0118
+	}
+	11340.1.1 = {
+		holder = uyghur0119
+	}
+	11360.1.1 = {
+		holder = uyghur0120
+	}
+}
+
+
+c_charkliq = {
+	10720.1.1 = {
+		holder = 166742
+	}
+	10764.1.1 = {
+		holder = 166743
+	}
+	10770.1.1 = {
+		liege = d_charkliq # conquered by Tibet
+	}
+	10796.1.1 = {
+		holder = 166745
+	}
+	10853.1.1 = {
+		holder = 166746
+	}
+	#Uyghur vassals - fictional placeholders
+	10866.1.1 = {
+		holder = uyghur0096
+	}
+	10900.1.1 = {
+		holder = uyghur0097
+	}
+	10920.1.1 = {
+		holder = uyghur0098
+	}
+	10940.1.1 = {
+		holder = uyghur0099
+	}
+	10960.1.1 = {
+		holder = uyghur0100
+	}
+	10980.1.1 = {
+		holder = uyghur0101
+	}
+	11000.1.1 = {
+		holder = uyghur0102
+	}
+	11020.1.1 = {
+		holder = uyghur0103
+	}
+	11040.1.1 = {
+		holder = uyghur0104
+	}
+	11060.1.1 = {
+		holder = uyghur0105
+	}
+	11080.1.1 = {
+		holder = uyghur0106
+	}
+	11100.1.1 = {
+		holder = uyghur0107
+	}
+	11120.1.1 = {
+		holder = uyghur0108
+	}
+	11140.1.1 = {
+		holder = uyghur0109
+	}
+	11160.1.1 = {
+		holder = uyghur0110
+	}
+	11180.1.1 = {
+		holder = uyghur0111
+	}
+	11200.1.1 = {
+		holder = uyghur0112
+	}
+	11220.1.1 = {
+		holder = uyghur0113
+	}
+	11240.1.1 = {
+		holder = uyghur0114
+	}
+	11260.1.1 = {
+		holder = uyghur0115
+	}
+	11280.1.1 = {
+		holder = uyghur0116
+	}
+	11300.1.1 = {
+		holder = uyghur0117
+	}
+	11320.1.1 = {
+		holder = uyghur0118
+	}
+	11340.1.1 = {
+		holder = uyghur0119
+	}
+	11360.1.1 = {
+		holder = uyghur0120
+	}
+}
+
+
+c_loulan = {
+	10630.1.1 = {
+		holder = 166748
+	}
+	10673.1.1 = {
+		holder = 166749
+	}
+	10698.1.1 = {
+		holder = 166750
+	}
+	10728.1.1 = {
+		holder = 166751
+	}
+	10765.1.1 = {
+		holder = 166752
+	}
+	10770.1.1 = {
+		liege = d_charkliq # conquered by Tibet
+	}
+	10805.1.1 = {
+		holder = 166754
+	}
+	10843.1.1 = {
+		government = feudal_government
+	}
+	10849.1.1 = {
+		holder = 166755
+	}
+	#Uyghur rule
+	10890.1.1 = {
+		holder = uyghur0096
+	}
+	10900.1.1 = {
+		holder = uyghur0097
+	}
+	10920.1.1 = {
+		holder = uyghur0098
+	}
+	10940.1.1 = {
+		holder = uyghur0099
+	}
+	10960.1.1 = {
+		holder = uyghur0100
+	}
+	10980.1.1 = {
+		holder = uyghur0101
+	}
+	11000.1.1 = {
+		holder = uyghur0102
+	}
+	11020.1.1 = {
+		holder = uyghur0103
+	}
+	11040.1.1 = {
+		holder = uyghur0104
+	}
+	11060.1.1 = {
+		holder = uyghur0105
+	}
+	11080.1.1 = {
+		holder = uyghur0106
+	}
+	11100.1.1 = {
+		holder = uyghur0107
+	}
+	11120.1.1 = {
+		holder = uyghur0108
+	}
+	11140.1.1 = {
+		holder = uyghur0109
+	}
+	11160.1.1 = {
+		holder = uyghur0110
+	}
+	11180.1.1 = {
+		holder = uyghur0111
+	}
+	11200.1.1 = {
+		holder = uyghur0112
+	}
+	11220.1.1 = {
+		holder = uyghur0113
+	}
+	11240.1.1 = {
+		holder = uyghur0114
+	}
+	11260.1.1 = {
+		holder = uyghur0115
+	}
+	11280.1.1 = {
+		holder = uyghur0116
+	}
+	11300.1.1 = {
+		holder = uyghur0117
+	}
+	11320.1.1 = {
+		holder = uyghur0118
+	}
+	11340.1.1 = {
+		holder = uyghur0119
+	}
+	11360.1.1 = {
+		holder = uyghur0120
+	}
+}
+
+
+c_dunhuang = {
+	10765.1.1 = {
+		liege = d_charkliq # conquered by Tibet
+		holder = bodpa0253
+	}
+	10800.1.1 = {
+		holder = bodpa0254
+	}
+	10820.1.1 = {
+		holder = bodpa0255
+	}
+	10840.1.1 = {
+		holder = bodpa0256
+	}
+	10843.1.1 = {
+		government = feudal_government
+	}
+	10860.1.1 = {
+		holder = bodpa0258
+	}
+	10866.1.1 = {
+		holder = sogdian0005
+	}
+	#Uyghur rule
+	10880.1.1 = {
+		holder = uyghur0096
+	}
+	10900.1.1 = {
+		holder = uyghur0097
+	}
+	10920.1.1 = {
+		holder = uyghur0098
+	}
+	10940.1.1 = {
+		holder = uyghur0099
+	}
+	10960.1.1 = {
+		holder = uyghur0100
+	}
+	10980.1.1 = {
+		holder = uyghur0101
+	}
+	11000.1.1 = {
+		holder = uyghur0102
+	}
+	11020.1.1 = {
+		holder = uyghur0103
+	}
+	11040.1.1 = {
+		holder = uyghur0104
+	}
+	11060.1.1 = {
+		holder = uyghur0105
+	}
+	11080.1.1 = {
+		holder = uyghur0106
+	}
+	11100.1.1 = {
+		holder = uyghur0107
+	}
+	11120.1.1 = {
+		holder = uyghur0108
+	}
+	11140.1.1 = {
+		holder = uyghur0109
+	}
+	11160.1.1 = {
+		holder = uyghur0110
+	}
+	11180.1.1 = {
+		holder = uyghur0111
+	}
+	11200.1.1 = {
+		holder = uyghur0112
+	}
+	11220.1.1 = {
+		holder = uyghur0113
+	}
+	11240.1.1 = {
+		holder = uyghur0114
+	}
+	11260.1.1 = {
+		holder = uyghur0115
+	}
+	11280.1.1 = {
+		holder = uyghur0116
+	}
+	11300.1.1 = {
+		holder = uyghur0117
+	}
+	11320.1.1 = {
+		holder = uyghur0118
+	}
+	11340.1.1 = {
+		holder = uyghur0119
+	}
+	11360.1.1 = {
+		holder = uyghur0120
+	}
+}
+
+c_luobupo = {
+	10765.1.1 = {
+		liege = d_charkliq # conquered by Tibet
+		holder = bodpa0253
+	}
+	10800.1.1 = {
+		holder = bodpa0254
+	}
+	10820.1.1 = {
+		holder = bodpa0255
+	}
+	10840.1.1 = {
+		holder = bodpa0256
+	}
+	10843.1.1 = {
+		government = feudal_government
+	}
+	10860.1.1 = {
+		holder = bodpa0258
+	}
+	10866.1.1 = {
+		holder = sogdian0005
+	}
+	#Uyghur rule
+	10880.1.1 = {
+		holder = uyghur0096
+	}
+	10900.1.1 = {
+		holder = uyghur0097
+	}
+	10920.1.1 = {
+		holder = uyghur0098
+	}
+	10940.1.1 = {
+		holder = uyghur0099
+	}
+	10960.1.1 = {
+		holder = uyghur0100
+	}
+	10980.1.1 = {
+		holder = uyghur0101
+	}
+	11000.1.1 = {
+		holder = uyghur0102
+	}
+	11020.1.1 = {
+		holder = uyghur0103
+	}
+	11040.1.1 = {
+		holder = uyghur0104
+	}
+	11060.1.1 = {
+		holder = uyghur0105
+	}
+	11066.1.1 = {	#fictional to avoid domain overlimit
+		holder = fictional_uyghurs_2
+		liege = d_charkliq
+	}
+	11080.1.1 = {
+		holder = uyghur0106
+	}
+	11100.1.1 = {
+		holder = uyghur0107
+	}
+	11120.1.1 = {
+		holder = uyghur0108
+	}
+	11140.1.1 = {
+		holder = uyghur0109
+	}
+	11160.1.1 = {
+		holder = uyghur0110
+	}
+	11180.1.1 = {
+		holder = uyghur0111
+	}
+	11200.1.1 = {
+		holder = uyghur0112
+	}
+	11220.1.1 = {
+		holder = uyghur0113
+	}
+	11240.1.1 = {
+		holder = uyghur0114
+	}
+	11260.1.1 = {
+		holder = uyghur0115
+	}
+	11280.1.1 = {
+		holder = uyghur0116
+	}
+	11300.1.1 = {
+		holder = uyghur0117
+	}
+	11320.1.1 = {
+		holder = uyghur0118
+	}
+	11340.1.1 = {
+		holder = uyghur0119
+	}
+	11360.1.1 = {
+		holder = uyghur0120
+	}
+}
+
+
+c_kumtag = {
+	10630.1.1 = {
+		holder = 166748
+	}
+	10673.1.1 = {
+		holder = 166749
+	}
+	10698.1.1 = {
+		holder = 166750
+	}
+	10728.1.1 = {
+		holder = 166751
+	}
+	10765.1.1 = {
+		holder = 166752
+	}
+	10770.1.1 = {
+		liege = d_charkliq # conquered by Tibet
+	}
+	10805.1.1 = {
+		holder = 166754
+	}
+	10843.1.1 = {
+		government = feudal_government
+	}
+	10849.1.1 = {
+		holder = 166755
+	}
+	10866.1.1 = {
+		holder = 166746
+	}
+	#Uyghur rule
+	10890.1.1 = {
+		holder = uyghur0096
+	}
+	10900.1.1 = {
+		holder = uyghur0097
+	}
+	10920.1.1 = {
+		holder = uyghur0098
+	}
+	10940.1.1 = {
+		holder = uyghur0099
+	}
+	10960.1.1 = {
+		holder = uyghur0100
+	}
+	10980.1.1 = {
+		holder = uyghur0101
+	}
+	11000.1.1 = {
+		holder = uyghur0102
+	}
+	11020.1.1 = {
+		holder = uyghur0103
+	}
+	11040.1.1 = {
+		holder = uyghur0104
+	}
+	11060.1.1 = {
+		holder = uyghur0105
+	}
+	11066.1.1 = {	#fictional to avoid domain overlimit
+		holder = fictional_uyghurs_2
+		liege = d_charkliq
+	}
+	11080.1.1 = {
+		holder = uyghur0106
+	}
+	11100.1.1 = {
+		holder = uyghur0107
+	}
+	11120.1.1 = {
+		holder = uyghur0108
+	}
+	11140.1.1 = {
+		holder = uyghur0109
+	}
+	11160.1.1 = {
+		holder = uyghur0110
+	}
+	11180.1.1 = {
+		holder = uyghur0111
+	}
+	11200.1.1 = {
+		holder = uyghur0112
+	}
+	11220.1.1 = {
+		holder = uyghur0113
+	}
+	11240.1.1 = {
+		holder = uyghur0114
+	}
+	11260.1.1 = {
+		holder = uyghur0115
+	}
+	11280.1.1 = {
+		holder = uyghur0116
+	}
+	11300.1.1 = {
+		holder = uyghur0117
+	}
+	11320.1.1 = {
+		holder = uyghur0118
+	}
+	11340.1.1 = {
+		holder = uyghur0119
+	}
+	11360.1.1 = {
+		holder = uyghur0120
+	}
+}
+
+c_dafang = {
+	10630.1.1 = {
+		holder = 166748
+	}
+	10673.1.1 = {
+		holder = 166749
+	}
+	10698.1.1 = {
+		holder = 166750
+	}
+	10728.1.1 = {
+		holder = 166751
+	}
+	10765.1.1 = {
+		holder = 166752
+	}
+	10770.1.1 = {
+		liege = d_charkliq # conquered by Tibet
+	}
+	10805.1.1 = {
+		holder = 166754
+	}
+	10843.1.1 = {
+		government = feudal_government
+	}
+	10849.1.1 = {
+		holder = 166755
+	}
+	10866.1.1 = {
+		holder = 166746
+	}
+	#Uyghur rule
+	10890.1.1 = {
+		holder = uyghur0096
+	}
+	10900.1.1 = {
+		holder = uyghur0097
+	}
+	10920.1.1 = {
+		holder = uyghur0098
+	}
+	10940.1.1 = {
+		holder = uyghur0099
+	}
+	10960.1.1 = {
+		holder = uyghur0100
+	}
+	10980.1.1 = {
+		holder = uyghur0101
+	}
+	11000.1.1 = {
+		holder = uyghur0102
+	}
+	11020.1.1 = {
+		holder = uyghur0103
+	}
+	11040.1.1 = {
+		holder = uyghur0104
+	}
+	11060.1.1 = {
+		holder = uyghur0105
+	}
+	11066.1.1 = {	#fictional to avoid domain overlimit
+		holder = fictional_uyghurs_2
+		liege = d_charkliq
+	}
+	11080.1.1 = {
+		holder = uyghur0106
+	}
+	11100.1.1 = {
+		holder = uyghur0107
+	}
+	11120.1.1 = {
+		holder = uyghur0108
+	}
+	11140.1.1 = {
+		holder = uyghur0109
+	}
+	11160.1.1 = {
+		holder = uyghur0110
+	}
+	11180.1.1 = {
+		holder = uyghur0111
+	}
+	11200.1.1 = {
+		holder = uyghur0112
+	}
+	11220.1.1 = {
+		holder = uyghur0113
+	}
+	11240.1.1 = {
+		holder = uyghur0114
+	}
+	11260.1.1 = {
+		holder = uyghur0115
+	}
+	11280.1.1 = {
+		holder = uyghur0116
+	}
+	11300.1.1 = {
+		holder = uyghur0117
+	}
+	11320.1.1 = {
+		holder = uyghur0118
+	}
+	11340.1.1 = {
+		holder = uyghur0119
+	}
+	11360.1.1 = {
+		holder = uyghur0120
+	}
+}

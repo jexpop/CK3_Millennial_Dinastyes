@@ -1,0 +1,3514 @@
+k_amdo = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 4 }
+	11178.1.1 = { change_development_level = 7 }
+}
+
+d_xining = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		#liege = "k_tuyuhun"
+	}
+	10670.1.1={
+		liege = "e_tibet"
+	}#Tuyuhun conquered by Tibetan Empire. The King escapes to China.
+	#Tongkorpa dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305946
+	}
+	10800.1.1={
+		holder = 305947
+	}
+	10820.1.1={
+		holder = 305948
+	}
+	10840.1.1={
+		holder = 305949
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege = 0
+	}
+	10860.1.1={
+		holder = 305950
+	}
+	10880.1.1={
+		holder = 305951
+	}
+	10900.1.1={
+		holder = 305952
+	}
+	10920.1.1={
+		holder = 305953
+	}
+	10940.1.1={
+		holder = 305954
+	}
+	10960.1.1={
+		holder = 305955
+	}
+	10980.1.1={
+		holder = 305956
+	}
+	11000.1.1={
+		holder = 305957
+	}
+	#Tsongkhapa dynasty - title goes to d_longyou
+	11008.1.1={
+		holder = 0
+	}
+	#Tsongkha is taken by Song Dynasty in 1104 and governed by Zhao Huai'en
+	11104.1.1={
+		liege = 0 #Song China
+		holder = 305972
+	}
+	#Xining is taken by the Jin Dynasty c. 1134
+	#Xining is captured by Xi Xia in 1136
+	#Tangut (Asha) Xining Governors during Xi Xia - fictional placeholders
+	11136.1.1={
+		liege = "k_xia"
+		holder = 305973
+	}
+	11160.1.1={
+		holder = 305974
+	}
+	11180.1.1={
+		holder = 305975
+	}
+	11200.1.1={
+		holder = 305976
+	}
+	11220.1.1={
+		holder = 305977
+	}
+	#Xi Xia is destroyed by the Mongols
+	#Mongol-era Governors of Xining - fictional placeholders
+	11227.9.1={
+		liege = "e_mongolia"
+		holder = 305980
+	}
+	#Sakya Trizin established as overlord of Tibet by Yuan Dynasty
+	11251.1.1={
+		liege = "k_sakya_trizin"
+	}
+	11260.1.1={
+		holder = 305981
+	}
+	11280.1.1={
+		holder = 305982
+	}
+	11300.1.1={
+		holder = 305983
+	}
+	11320.1.1={
+		holder = 305984
+	}
+	11340.1.1={
+		holder = 305985
+	}
+	#Phagmodrupa Kingdom supersedes Sakya in U and Tsang
+	11358.1.1={
+		liege = "e_mongolia"
+	}
+	11360.1.1={
+		holder = 305986
+	}
+}
+
+c_xining = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_xining"
+	}
+	#Tongkorpa dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305946
+	}
+	10800.1.1={
+		holder = 305947
+	}
+	10820.1.1={
+		holder = 305948
+	}
+	10840.1.1={
+		holder = 305949
+	}
+	10860.1.1={
+		holder = 305950
+	}
+	10880.1.1={
+		holder = 305951
+	}
+	10900.1.1={
+		holder = 305952
+	}
+	10920.1.1={
+		holder = 305953
+	}
+	10940.1.1={
+		holder = 305954
+	}
+	10960.1.1={
+		holder = 305955
+	}
+	10980.1.1={
+		holder = 305956
+	}
+	11000.1.1={
+		holder = 305957
+	}
+	#Tsongkhapa dynasty - fictional placeholders
+	11008.1.1={
+		liege = "d_longyou"
+		holder = 305959
+	}
+	11065.1.1={
+		liege = 0
+		holder = 305962
+	}
+	11083.1.1={
+		holder = 305965
+	}
+	11096.1.1={
+		holder = 305966
+	}
+	11099.1.1={
+		holder = 305968
+	}
+	11100.1.1={
+		holder = 305969
+	}
+	#Tsongkha is taken by Song Dynasty in 1104 and governed by Zhao Huai'en
+	11100.1.1={
+		liege = "d_xining"
+		holder = 305972
+	}
+	#Xining is taken by the Jin Dynasty c. 1134
+	#Xining is captured by Xi Xia in 1136
+	#Tangut (Asha) Xining Governors during Xi Xia - fictional placeholders
+	11136.1.1={
+		holder = 305973
+	}
+	11160.1.1={
+		holder = 305974
+	}
+	11180.1.1={
+		holder = 305975
+	}
+	11200.1.1={
+		holder = 305976
+	}
+	11220.1.1={
+		holder = 305977
+	}
+	#Xi Xia is destroyed by the Mongols
+	#Mongol-era Governors of Xining - fictional placeholders
+	11227.9.1={
+		holder = 305980
+	}
+	11260.1.1={
+		holder = 305981
+	}
+	11280.1.1={
+		holder = 305982
+	}
+	11300.1.1={
+		holder = 305983
+	}
+	11320.1.1={
+		holder = 305984
+	}
+	11340.1.1={
+		holder = 305985
+	}
+	11360.1.1={
+		holder = 305986
+	}
+}
+
+
+c_datong = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_xining"
+	}
+	#Tongkorpa dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305946
+	}
+	10800.1.1={
+		holder = 305947
+	}
+	10820.1.1={
+		holder = 305948
+	}
+	10840.1.1={
+		holder = 305949
+	}
+	10860.1.1={
+		holder = 305950
+	}
+	10880.1.1={
+		holder = 305951
+	}
+	10900.1.1={
+		holder = 305952
+	}
+	10920.1.1={
+		holder = 305953
+	}
+	10940.1.1={
+		holder = 305954
+	}
+	10960.1.1={
+		holder = 305955
+	}
+	10980.1.1={
+		holder = 305956
+	}
+	11000.1.1={
+		holder = 305957
+	}
+	#Tsongkhapa dynasty - fictional placeholders
+	11008.1.1={
+		liege = "d_longyou"
+		holder = 305959
+	}
+	11065.1.1={
+		holder = 305962
+	}
+	11083.1.1={
+		holder = 305965
+	}
+	11096.1.1={
+		holder = 305966
+	}
+	11099.1.1={
+		holder = 305968
+	}
+	11100.1.1={
+		holder = 305969
+	}
+	#Tsongkha is taken by Song Dynasty in 1104 and governed by Zhao Huai'en
+	11100.1.1={
+		liege = "d_xining"
+		holder = 305972
+	}
+	#Xining is taken by the Jin Dynasty c. 1134
+	#Xining is captured by Xi Xia in 1136
+	#Tangut (Asha) Xining Governors during Xi Xia - fictional placeholders
+	11136.1.1={
+		holder = 305973
+	}
+	11160.1.1={
+		holder = 305974
+	}
+	11180.1.1={
+		holder = 305975
+	}
+	11200.1.1={
+		holder = 305976
+	}
+	11220.1.1={
+		holder = 305977
+	}
+	#Xi Xia is destroyed by the Mongols
+	#Mongol-era Governors of Xining - fictional placeholders
+	11227.9.1={
+		holder = 305980
+	}
+	11260.1.1={
+		holder = 305981
+	}
+	11280.1.1={
+		holder = 305982
+	}
+	11300.1.1={
+		holder = 305983
+	}
+	11320.1.1={
+		holder = 305984
+	}
+	11340.1.1={
+		holder = 305985
+	}
+	11360.1.1={
+		holder = 305986
+	}
+}
+
+
+d_tuyuhun = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		#liege = "k_tuyuhun"
+		holder = 247346
+	}
+	10317.1.1={
+		holder = 247347
+	}
+	10329.1.1={
+		holder = 247348
+	}
+	10351.1.1={
+		holder = 247349
+	}
+	10371.1.1={
+		holder = 247350
+	}
+	10390.1.1={
+		holder = 247351
+	}
+	10400.1.1={
+		holder = 247352
+	}
+	10405.1.1={
+		holder = 247353
+	}
+	10417.1.1={
+		holder = 247355
+	}
+	10424.1.1={
+		holder = 247357
+	}
+	10436.1.1={
+		holder = 247358
+	}
+	10452.1.1={
+		holder = 247368
+	}
+	10481.1.1={
+		holder = 247371
+	}
+	10490.1.1={
+		holder = 247373
+	}
+	10529.1.1={
+		holder = 247375
+	}
+	10530.1.1={
+		holder = 247376
+	}
+	10534.1.1={
+		holder = 247377
+	}
+	10540.1.1={
+		holder = 247378
+	}
+	10591.1.1={
+		holder = 247381
+	}
+	10597.1.1={
+		holder = 247382
+	}
+	10635.1.1={
+		holder = 247384
+	}
+	10635.11.1={
+		holder = 247385
+	}
+	10663.1.1={
+		holder = 247386
+	}
+	10665.1.1={
+		holder = 247387
+	}
+	10670.1.1={
+		liege = "e_tibet"
+	}#Tuyuhun conquered by Tibetan Empire. The King escapes to China.
+
+	#Tsongonpo rulers (Tuyuhun), Azha dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305916
+	}
+	10800.1.1={
+		holder = 305917
+	}
+	10820.1.1={
+		holder = 305918
+	}
+	10840.1.1={
+		holder = 305919
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege = 0
+	}
+	10860.1.1={
+		holder = 305920
+	}
+	10880.1.1={
+		holder = 305921
+	}
+	10900.1.1={
+		holder = 305922
+	}
+	10920.1.1={
+		holder = 305923
+	}
+	10940.1.1={
+		holder = 305924
+	}
+	10960.1.1={
+		holder = 305925
+	}
+	10980.1.1={
+		holder = 305926
+	}
+	11000.1.1={
+		holder = 305927
+	}
+	11020.1.1={
+		holder = 305928
+	}
+	11040.1.1={
+		holder = 305929
+	}
+	11060.1.1={
+		holder = 305930
+	}
+	11080.1.1={
+		holder = 305931
+	}
+	11100.1.1={
+		holder = 305932
+	}
+	11120.1.1={
+		holder = 305933
+	}
+	11140.1.1={
+		holder = 305934
+	}
+	11160.1.1={
+		holder = 305935
+	}
+	11180.1.1={
+		holder = 305936
+	}
+	11200.1.1={
+		holder = 305937
+	}
+	11220.1.1={
+		holder = 305938
+	}
+	11240.1.1={
+		holder = 305939
+	}
+	#Sakya Trizin established as overlord of Tibet by Yuan Dynasty
+	11251.1.1={
+		liege = "k_sakya_trizin"
+	}
+	11260.1.1={
+		holder = 305940
+	}
+	11280.1.1={
+		holder = 305941
+	}
+	11300.1.1={
+		holder = 305942
+	}
+	11320.1.1={
+		holder = 305943
+	}
+	11340.1.1={
+		holder = 305944
+	}
+	#Phagmodrupa Kingdom supersedes Sakya in U and Tsang
+	11358.1.1={
+		liege = 0
+	}
+	11360.1.1={
+		holder = 305945
+	}
+}
+
+
+c_fuqi = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_tuyuhun"
+		holder = 247346
+	}
+	10317.1.1={
+		holder = 247347
+	}
+	10329.1.1={
+		holder = 247348
+	}
+	10351.1.1={
+		holder = 247349
+	}
+	10371.1.1={
+		holder = 247350
+	}
+	10390.1.1={
+		holder = 247351
+	}
+	10400.1.1={
+		holder = 247352
+	}
+	10405.1.1={
+		holder = 247353
+	}
+	10417.1.1={
+		holder = 247355
+	}
+	10424.1.1={
+		holder = 247357
+	}
+	10436.1.1={
+		holder = 247358
+	}
+	10452.1.1={
+		holder = 247368
+	}
+	10481.1.1={
+		holder = 247371
+	}
+	10490.1.1={
+		holder = 247373
+	}
+	10529.1.1={
+		holder = 247375
+	}
+	10530.1.1={
+		holder = 247376
+	}
+	10534.1.1={
+		holder = 247377
+	}
+	10540.1.1={
+		holder = 247378
+	}
+	10591.1.1={
+		holder = 247381
+	}
+	10597.1.1={
+		holder = 247382
+	}
+	10635.1.1={
+		holder = 247384
+	}
+	10635.11.1={
+		holder = 247385
+	}
+	10663.1.1={
+		holder = 247386
+	}
+	10665.1.1={
+		holder = 247387
+	}
+	#Tsongonpo rulers (Tuyuhun), Azha dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305916
+	}
+	10800.1.1={
+		holder = 305917
+	}
+	10820.1.1={
+		holder = 305918
+	}
+	10840.1.1={
+		holder = 305919
+	}
+	10860.1.1={
+		holder = 305920
+	}
+	10880.1.1={
+		holder = 305921
+	}
+	10900.1.1={
+		holder = 305922
+	}
+	10920.1.1={
+		holder = 305923
+	}
+	10940.1.1={
+		holder = 305924
+	}
+	10960.1.1={
+		holder = 305925
+	}
+	10980.1.1={
+		holder = 305926
+	}
+	11000.1.1={
+		holder = 305927
+	}
+	11020.1.1={
+		holder = 305928
+	}
+	11040.1.1={
+		holder = 305929
+	}
+	11060.1.1={
+		holder = 305930
+	}
+	11080.1.1={
+		holder = 305931
+	}
+	11100.1.1={
+		holder = 305932
+	}
+	11120.1.1={
+		holder = 305933
+	}
+	11140.1.1={
+		holder = 305934
+	}
+	11160.1.1={
+		holder = 305935
+	}
+	11180.1.1={
+		holder = 305936
+	}
+	11200.1.1={
+		holder = 305937
+	}
+	11220.1.1={
+		holder = 305938
+	}
+	11240.1.1={
+		holder = 305939
+	}
+	11260.1.1={
+		holder = 305940
+	}
+	11280.1.1={
+		holder = 305941
+	}
+	11300.1.1={
+		holder = 305942
+	}
+	11320.1.1={
+		holder = 305943
+	}
+	11340.1.1={
+		holder = 305944
+	}
+	11360.1.1={
+		holder = 305945
+	}
+}
+
+c_gerqen = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege="d_tuyuhun"
+		holder = 247346
+	}
+	10317.1.1={
+		holder = 247347
+	}
+	10329.1.1={
+		holder = 247348
+	}
+	10351.1.1={
+		holder = 247349
+	}
+	10371.1.1={
+		holder = 247350
+	}
+	10390.1.1={
+		holder = 247351
+	}
+	10400.1.1={
+		holder = 247352
+	}
+	10405.1.1={
+		holder = 247353
+	}
+	10417.1.1={
+		holder = 247355
+	}
+	10424.1.1={
+		holder = 247357
+	}
+	10436.1.1={
+		holder = 247358
+	}
+	10452.1.1={
+		holder = 247368
+	}
+	10481.1.1={
+		holder = 247371
+	}
+	10490.1.1={
+		holder = 247373
+	}
+	10529.1.1={
+		holder = 247375
+	}
+	10530.1.1={
+		holder = 247376
+	}
+	10534.1.1={
+		holder = 247377
+	}
+	10540.1.1={
+		holder = 247378
+	}
+	10591.1.1={
+		holder = 247381
+	}
+	10597.1.1={
+		holder = 247382
+	}
+	10635.1.1={
+		holder = 247384
+	}
+	10635.11.1={
+		holder = 247385
+	}
+	10663.1.1={
+		holder = 247386
+	}
+	10665.1.1={
+		holder = 247387
+	}
+	#Tsongonpo rulers (Tuyuhun), Azha dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305916
+	}
+	10800.1.1={
+		holder = 305917
+	}
+	10820.1.1={
+		holder = 305918
+	}
+	10840.1.1={
+		holder = 305919
+	}
+	10860.1.1={
+		holder = 305920
+	}
+	10880.1.1={
+		holder = 305921
+	}
+	10900.1.1={
+		holder = 305922
+	}
+	10920.1.1={
+		holder = 305923
+	}
+	10940.1.1={
+		holder = 305924
+	}
+	10960.1.1={
+		holder = 305925
+	}
+	10980.1.1={
+		holder = 305926
+	}
+	11000.1.1={
+		holder = 305927
+	}
+	11020.1.1={
+		holder = 305928
+	}
+	11040.1.1={
+		holder = 305929
+	}
+	11060.1.1={
+		holder = 305930
+	}
+	11080.1.1={
+		holder = 305931
+	}
+	11100.1.1={
+		holder = 305932
+	}
+	11120.1.1={
+		holder = 305933
+	}
+	11140.1.1={
+		holder = 305934
+	}
+	11160.1.1={
+		holder = 305935
+	}
+	11180.1.1={
+		holder = 305936
+	}
+	11200.1.1={
+		holder = 305937
+	}
+	11220.1.1={
+		holder = 305938
+	}
+	11240.1.1={
+		holder = 305939
+	}
+	11260.1.1={
+		holder = 305940
+	}
+	11280.1.1={
+		holder = 305941
+	}
+	11300.1.1={
+		holder = 305942
+	}
+	11320.1.1={
+		holder = 305943
+	}
+	11340.1.1={
+		holder = 305944
+	}
+	11360.1.1={
+		holder = 305945
+	}
+}
+
+
+c_xigortang = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_tuyuhun"
+		holder = 247346
+	}
+	10317.1.1={
+		holder = 247347
+	}
+	10329.1.1={
+		holder = 247348
+	}
+	10351.1.1={
+		holder = 247349
+	}
+	10371.1.1={
+		holder = 247350
+	}
+	10390.1.1={
+		holder = 247351
+	}
+	10400.1.1={
+		holder = 247352
+	}
+	10405.1.1={
+		holder = 247353
+	}
+	10417.1.1={
+		holder = 247355
+	}
+	10424.1.1={
+		holder = 247357
+	}
+	10436.1.1={
+		holder = 247358
+	}
+	10452.1.1={
+		holder = 247368
+	}
+	10481.1.1={
+		holder = 247371
+	}
+	10490.1.1={
+		holder = 247373
+	}
+	10529.1.1={
+		holder = 247375
+	}
+	10530.1.1={
+		holder = 247376
+	}
+	10534.1.1={
+		holder = 247377
+	}
+	10540.1.1={
+		holder = 247378
+	}
+	10591.1.1={
+		holder = 247381
+	}
+	10597.1.1={
+		holder = 247382
+	}
+	10635.1.1={
+		holder = 247384
+	}
+	10635.11.1={
+		holder = 247385
+	}
+	10663.1.1={
+		holder = 247386
+	}
+	10665.1.1={
+		holder = 247387
+	}
+	#Tsongonpo rulers (Tuyuhun), Azha dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305916
+	}
+	10800.1.1={
+		holder = 305917
+	}
+	10820.1.1={
+		holder = 305918
+	}
+	10840.1.1={
+		holder = 305919
+	}
+	10860.1.1={
+		holder = 305920
+	}
+	10880.1.1={
+		holder = 305921
+	}
+	10900.1.1={
+		holder = 305922
+	}
+	10920.1.1={
+		holder = 305923
+	}
+	10940.1.1={
+		holder = 305924
+	}
+	10960.1.1={
+		holder = 305925
+	}
+	10980.1.1={
+		holder = 305926
+	}
+	11000.1.1={
+		holder = 305927
+	}
+	11020.1.1={
+		holder = 305928
+	}
+	11040.1.1={
+		holder = 305929
+	}
+	11060.1.1={
+		holder = 305930
+	}
+	11080.1.1={
+		holder = 305931
+	}
+	11100.1.1={
+		holder = 305932
+	}
+	11120.1.1={
+		holder = 305933
+	}
+	11140.1.1={
+		holder = 305934
+	}
+	11160.1.1={
+		holder = 305935
+	}
+	11180.1.1={
+		holder = 305936
+	}
+	11200.1.1={
+		holder = 305937
+	}
+	11220.1.1={
+		holder = 305938
+	}
+	11240.1.1={
+		holder = 305939
+	}
+	11260.1.1={
+		holder = 305940
+	}
+	11280.1.1={
+		holder = 305941
+	}
+	11300.1.1={
+		holder = 305942
+	}
+	11320.1.1={
+		holder = 305943
+	}
+	11340.1.1={
+		holder = 305944
+	}
+	11360.1.1={
+		holder = 305945
+	}
+}
+
+
+c_derlenka = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_tuyuhun"
+	}
+	#Terlenkha dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305886
+	}
+	10800.1.1={
+		holder = 305887
+	}
+	10820.1.1={
+		holder = 305888
+	}
+	10840.1.1={
+		holder = 305889
+	}
+	10860.1.1={
+		holder = 305890
+	}
+	10880.1.1={
+		holder = 305891
+	}
+	10900.1.1={
+		holder = 305892
+	}
+	10920.1.1={
+		holder = 305893
+	}
+	10940.1.1={
+		holder = 305894
+	}
+	10960.1.1={
+		holder = 305895
+	}
+	10980.1.1={
+		holder = 305896
+	}
+	11000.1.1={
+		holder = 305897
+	}
+	11020.1.1={
+		holder = 305898
+	}
+	11040.1.1={
+		holder = 305899
+	}
+	11060.1.1={
+		holder = 305900
+	}
+	11060.1.1={
+		holder = 305900
+	}
+	11080.1.1={
+		holder = 305901
+	}
+	11100.1.1={
+		holder = 305902
+	}
+	11120.1.1={
+		holder = 305903
+	}
+	11140.1.1={
+		holder = 305904
+	}
+	11160.1.1={
+		holder = 305905
+	}
+	11180.1.1={
+		holder = 305906
+	}
+	11200.1.1={
+		holder = 305907
+	}
+	11220.1.1={
+		holder = 305908
+	}
+	11240.1.1={
+		holder = 305909
+	}
+	11260.1.1={
+		holder = 305910
+	}
+	11280.1.1={
+		holder = 305911
+	}
+	11300.1.1={
+		holder = 305912
+	}
+	11320.1.1={
+		holder = 305913
+	}
+	11340.1.1={
+		holder = 305914
+	}
+	11360.1.1={
+		holder = 305915
+	}
+}
+
+
+c_ulam = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege="d_tuyuhun"
+	}
+	#Terlenkha dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305886
+	}
+	10800.1.1={
+		holder = 305887
+	}
+	10820.1.1={
+		holder = 305888
+	}
+	10840.1.1={
+		holder = 305889
+	}
+	10860.1.1={
+		holder = 305890
+	}
+	10880.1.1={
+		holder = 305891
+	}
+	10900.1.1={
+		holder = 305892
+	}
+	10920.1.1={
+		holder = 305893
+	}
+	10940.1.1={
+		holder = 305894
+	}
+	10960.1.1={
+		holder = 305895
+	}
+	10980.1.1={
+		holder = 305896
+	}
+	11000.1.1={
+		holder = 305897
+	}
+	11020.1.1={
+		holder = 305898
+	}
+	11040.1.1={
+		holder = 305899
+	}
+	11060.1.1={
+		holder = 305900
+	}
+	11060.1.1={
+		holder = 305900
+	}
+	11080.1.1={
+		holder = 305901
+	}
+	11100.1.1={
+		holder = 305902
+	}
+	11120.1.1={
+		holder = 305903
+	}
+	11140.1.1={
+		holder = 305904
+	}
+	11160.1.1={
+		holder = 305905
+	}
+	11180.1.1={
+		holder = 305906
+	}
+	11200.1.1={
+		holder = 305907
+	}
+	11220.1.1={
+		holder = 305908
+	}
+	11240.1.1={
+		holder = 305909
+	}
+	11260.1.1={
+		holder = 305910
+	}
+	11280.1.1={
+		holder = 305911
+	}
+	11300.1.1={
+		holder = 305912
+	}
+	11320.1.1={
+		holder = 305913
+	}
+	11340.1.1={
+		holder = 305914
+	}
+	11360.1.1={
+		holder = 305915
+	}
+}
+
+
+c_tuulain = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_tuyuhun"
+	}
+	#Terlenkha dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305886
+	}
+	10800.1.1={
+		holder = 305887
+	}
+	10820.1.1={
+		holder = 305888
+	}
+	10840.1.1={
+		holder = 305889
+	}
+	10860.1.1={
+		holder = 305890
+	}
+	10880.1.1={
+		holder = 305891
+	}
+	10900.1.1={
+		holder = 305892
+	}
+	10920.1.1={
+		holder = 305893
+	}
+	10940.1.1={
+		holder = 305894
+	}
+	10960.1.1={
+		holder = 305895
+	}
+	10980.1.1={
+		holder = 305896
+	}
+	11000.1.1={
+		holder = 305897
+	}
+	11020.1.1={
+		holder = 305898
+	}
+	11040.1.1={
+		holder = 305899
+	}
+	11060.1.1={
+		holder = 305900
+	}
+	11060.1.1={
+		holder = 305900
+	}
+	11080.1.1={
+		holder = 305901
+	}
+	11100.1.1={
+		holder = 305902
+	}
+	11120.1.1={
+		holder = 305903
+	}
+	11140.1.1={
+		holder = 305904
+	}
+	11160.1.1={
+		holder = 305905
+	}
+	11180.1.1={
+		holder = 305906
+	}
+	11200.1.1={
+		holder = 305907
+	}
+	11220.1.1={
+		holder = 305908
+	}
+	11240.1.1={
+		holder = 305909
+	}
+	11260.1.1={
+		holder = 305910
+	}
+	11280.1.1={
+		holder = 305911
+	}
+	11300.1.1={
+		holder = 305912
+	}
+	11320.1.1={
+		holder = 305913
+	}
+	11340.1.1={
+		holder = 305914
+	}
+	11360.1.1={
+		holder = 305915
+	}
+}
+
+d_nagormo = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		#liege = "k_tuyuhun"
+	}
+	#Tuyuhun Kingdom is conquered by the Tibetan Empire
+	10670.1.1={
+		liege = "e_tibet"
+	}
+	#Nagormo dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305826
+	}
+	10800.1.1={
+		holder = 305827
+	}
+	10820.1.1={
+		holder = 305828
+	}
+	10840.1.1={
+		holder = 305829
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege = 0
+	}
+	10860.1.1={
+		holder = 305830
+	}
+	10880.1.1={
+		holder = 305831
+	}
+	10900.1.1={
+		holder = 305832
+	}
+	10920.1.1={
+		holder = 305833
+	}
+	10940.1.1={
+		holder = 305834
+	}
+	10960.1.1={
+		holder = 305835
+	}
+	10980.1.1={
+		holder = 305836
+	}
+	11000.1.1={
+		holder = 305837
+	}
+	11020.1.1={
+		holder = 305838
+	}
+	11040.1.1={
+		holder = 305839
+	}
+	11060.1.1={
+		holder = 305840
+	}
+	11080.1.1={
+		holder = 305841
+	}
+	11100.1.1={
+		holder = 305842
+	}
+	11120.1.1={
+		holder = 305843
+	}
+	11140.1.1={
+		holder = 305844
+	}
+	11160.1.1={
+		holder = 305845
+	}
+	11180.1.1={
+		holder = 305846
+	}
+	11200.1.1={
+		holder = 305847
+	}
+	11220.1.1={
+		holder = 305848
+	}
+	11240.1.1={
+		holder = 305849
+	}
+	#Sakya Trizin established as overlord of Tibet by Yuan Dynasty
+	11251.1.1={
+		liege = "k_sakya_trizin"
+	}
+	11260.1.1={
+		holder = 305850
+	}
+	11280.1.1={
+		holder = 305851
+	}
+	11300.1.1={
+		holder = 305852
+	}
+	11320.1.1={
+		holder = 305853
+	}
+	11340.1.1={
+		holder = 305854
+	}
+	#Phagmodrupa Kingdom supersedes Sakya in U and Tsang
+	11358.1.1={
+		liege = 0
+	}
+	11360.1.1={
+		holder = 305855
+	}
+}
+
+c_nagormo = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_nagormo"
+	}
+	#Nagormo dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305826
+	}
+	10800.1.1={
+		holder = 305827
+	}
+	10820.1.1={
+		holder = 305828
+	}
+	10840.1.1={
+		holder = 305829
+	}
+	10860.1.1={
+		holder = 305830
+	}
+	10880.1.1={
+		holder = 305831
+	}
+	10900.1.1={
+		holder = 305832
+	}
+	10920.1.1={
+		holder = 305833
+	}
+	10940.1.1={
+		holder = 305834
+	}
+	10960.1.1={
+		holder = 305835
+	}
+	10980.1.1={
+		holder = 305836
+	}
+	11000.1.1={
+		holder = 305837
+	}
+	11020.1.1={
+		holder = 305838
+	}
+	11040.1.1={
+		holder = 305839
+	}
+	11060.1.1={
+		holder = 305840
+	}
+	11080.1.1={
+		holder = 305841
+	}
+	11100.1.1={
+		holder = 305842
+	}
+	11120.1.1={
+		holder = 305843
+	}
+	11140.1.1={
+		holder = 305844
+	}
+	11160.1.1={
+		holder = 305845
+	}
+	11180.1.1={
+		holder = 305846
+	}
+	11200.1.1={
+		holder = 305847
+	}
+	11220.1.1={
+		holder = 305848
+	}
+	11240.1.1={
+		holder = 305849
+	}
+	11260.1.1={
+		holder = 305850
+	}
+	11280.1.1={
+		holder = 305851
+	}
+	11300.1.1={
+		holder = 305852
+	}
+	11320.1.1={
+		holder = 305853
+	}
+	11340.1.1={
+		holder = 305854
+	}
+	11360.1.1={
+		holder = 305855
+	}
+}
+
+
+c_hohaseco = {
+	#Tuyuhun Kingdom (284 - 670)
+	10200.1.1={
+		liege = "d_nagormo"
+	}
+	#Hohozhili dynasty (Aqenganggyai) - fictional placeholders
+	10740.1.1={
+		liege = "d_amdo"
+		holder = 305671
+	}
+	10800.1.1={
+		holder = 305672
+	}
+	10820.1.1={
+		holder = 305673
+	}
+	10840.1.1={
+		holder = 305674
+	}
+	10860.1.1={
+		holder = 305675
+	}
+	10880.1.1={
+		holder = 305676
+	}
+	10900.1.1={
+		holder = 305677
+	}
+	10920.1.1={
+		holder = 305678
+	}
+	10940.1.1={
+		holder = 305679
+	}
+	10960.1.1={
+		holder = 305680
+	}
+	10980.1.1={
+		holder = 305681
+	}
+	11000.1.1={
+		holder = 305682
+	}
+	11020.1.1={
+		holder = 305683
+	}
+	11040.1.1={
+		holder = 305684
+	}
+	11060.1.1={
+		holder = 305685
+	}
+	11080.1.1={
+		holder = 305686
+	}
+	11100.1.1={
+		holder = 305687
+	}
+	11120.1.1={
+		holder = 305688
+	}
+	11140.1.1={
+		holder = 305689
+	}
+	11160.1.1={
+		holder = 305690
+	}
+	11180.1.1={
+		holder = 305691
+	}
+	11200.1.1={
+		holder = 305692
+	}
+	11220.1.1={
+		holder = 305693
+	}
+	11240.1.1={
+		holder = 305694
+	}
+	11260.1.1={
+		holder = 305695
+	}
+	11280.1.1={
+		holder = 305696
+	}
+	11300.1.1={
+		holder = 305697
+	}
+	11320.1.1={
+		holder = 305698
+	}
+	11340.1.1={
+		holder = 305699
+	}
+	11360.1.1={
+		holder = 305700
+	}
+}
+
+c_lenghu = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_nagormo"
+	}
+	#Nagormo dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305826
+	}
+	10800.1.1={
+		holder = 305827
+	}
+	10820.1.1={
+		holder = 305828
+	}
+	10840.1.1={
+		holder = 305829
+	}
+	10860.1.1={
+		holder = 305830
+	}
+	10880.1.1={
+		holder = 305831
+	}
+	10900.1.1={
+		holder = 305832
+	}
+	10920.1.1={
+		holder = 305833
+	}
+	10940.1.1={
+		holder = 305834
+	}
+	10960.1.1={
+		holder = 305835
+	}
+	10980.1.1={
+		holder = 305836
+	}
+	11000.1.1={
+		holder = 305837
+	}
+	11020.1.1={
+		holder = 305838
+	}
+	11040.1.1={
+		holder = 305839
+	}
+	11060.1.1={
+		holder = 305840
+	}
+	11080.1.1={
+		holder = 305841
+	}
+	11100.1.1={
+		holder = 305842
+	}
+	11120.1.1={
+		holder = 305843
+	}
+	11140.1.1={
+		holder = 305844
+	}
+	11160.1.1={
+		holder = 305845
+	}
+	11180.1.1={
+		holder = 305846
+	}
+	11200.1.1={
+		holder = 305847
+	}
+	11220.1.1={
+		holder = 305848
+	}
+	11240.1.1={
+		holder = 305849
+	}
+	11260.1.1={
+		holder = 305850
+	}
+	11280.1.1={
+		holder = 305851
+	}
+	11300.1.1={
+		holder = 305852
+	}
+	11320.1.1={
+		holder = 305853
+	}
+	11340.1.1={
+		holder = 305854
+	}
+	11360.1.1={
+		holder = 305855
+	}
+}
+
+
+c_mangnai = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_nagormo"
+	}
+	#Nagormo dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305826
+	}
+	10800.1.1={
+		holder = 305827
+	}
+	10820.1.1={
+		holder = 305828
+	}
+	10840.1.1={
+		holder = 305829
+	}
+	10860.1.1={
+		holder = 305830
+	}
+	10880.1.1={
+		holder = 305831
+	}
+	10900.1.1={
+		holder = 305832
+	}
+	10920.1.1={
+		holder = 305833
+	}
+	10940.1.1={
+		holder = 305834
+	}
+	10960.1.1={
+		holder = 305835
+	}
+	10980.1.1={
+		holder = 305836
+	}
+	11000.1.1={
+		holder = 305837
+	}
+	11020.1.1={
+		holder = 305838
+	}
+	11040.1.1={
+		holder = 305839
+	}
+	11060.1.1={
+		holder = 305840
+	}
+	11080.1.1={
+		holder = 305841
+	}
+	11100.1.1={
+		holder = 305842
+	}
+	11120.1.1={
+		holder = 305843
+	}
+	11140.1.1={
+		holder = 305844
+	}
+	11160.1.1={
+		holder = 305845
+	}
+	11180.1.1={
+		holder = 305846
+	}
+	11200.1.1={
+		holder = 305847
+	}
+	11220.1.1={
+		holder = 305848
+	}
+	11240.1.1={
+		holder = 305849
+	}
+	11260.1.1={
+		holder = 305850
+	}
+	11280.1.1={
+		holder = 305851
+	}
+	11300.1.1={
+		holder = 305852
+	}
+	11320.1.1={
+		holder = 305853
+	}
+	11340.1.1={
+		holder = 305854
+	}
+	11360.1.1={
+		holder = 305855
+	}
+}
+
+
+c_kumkol = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_nagormo"
+	}
+	#Kumkol vassals - fictional placeholders
+	10740.1.1={
+		holder = 305856
+	}
+	10800.1.1={
+		holder = 305857
+	}
+	10820.1.1={
+		holder = 305858
+	}
+	10840.1.1={
+		holder = 305859
+	}
+	10860.1.1={
+		holder = 305860
+	}
+	10880.1.1={
+		holder = 305861
+	}
+	10900.1.1={
+		holder = 305862
+	}
+	10920.1.1={
+		holder = 305863
+	}
+	10940.1.1={
+		holder = 305864
+	}
+	10960.1.1={
+		holder = 305865
+	}
+	10980.1.1={
+		holder = 305866
+	}
+	11000.1.1={
+		holder = 305867
+	}
+	11020.1.1={
+		holder = 305868
+	}
+	11040.1.1={
+		holder = 305869
+	}
+	11060.1.1={
+		holder = 305870
+	}
+	11080.1.1={
+		holder = 305871
+	}
+	11100.1.1={
+		holder = 305872
+	}
+	11120.1.1={
+		holder = 305873
+	}
+	11140.1.1={
+		holder = 305874
+	}
+	11160.1.1={
+		holder = 305875
+	}
+	11180.1.1={
+		holder = 305876
+	}
+	11200.1.1={
+		holder = 305877
+	}
+	11220.1.1={
+		holder = 305878
+	}
+	11240.1.1={
+		holder = 305879
+	}
+	11260.1.1={
+		holder = 305880
+	}
+	11280.1.1={
+		holder = 305881
+	}
+	11300.1.1={
+		holder = 305882
+	}
+	11320.1.1={
+		holder = 305883
+	}
+	11340.1.1={
+		holder = 305884
+	}
+	11360.1.1={
+		holder = 305885
+	}
+}
+
+d_amdo = {
+	#Sumpa Kingdom (c.200 - 755)
+	10200.1.1={
+		#liege = "k_sumpa"
+	}
+	#Sumpa dynasty (Amdo) - fictional placeholders
+	10700.1.1={
+		holder = 305639
+	}
+	#Last Sumpa King Assassinated by the Tibetans, son fled to China
+	10755.1.1={
+		liege = "e_tibet"
+	}
+	10760.1.1={
+		holder = 305640
+	}
+	10780.1.1={
+		holder = 305641
+	}
+	10800.1.1={
+		holder = 305642
+	}
+	10820.1.1={
+		holder = 305643
+	}
+	10840.1.1={
+		holder = 305644
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege = 0
+	}
+	10860.1.1={
+		holder = 305645
+	}
+	10880.1.1={
+		holder = 305646
+	}
+	10900.1.1={
+		holder = 305647
+	}
+	10920.1.1={
+		holder = 305648
+	}
+	10940.1.1={
+		holder = 305649
+	}
+	10960.1.1={
+		holder = 305650
+	}
+	10980.1.1={
+		holder = 305651
+	}
+	11000.1.1={
+		holder = 305652
+	}
+	11020.1.1={
+		holder = 305653
+	}
+	11040.1.1={
+		holder = 305654
+	}
+	11060.1.1={
+		holder = 305655
+	}
+	11080.1.1={
+		holder = 305656
+	}
+	11100.1.1={
+		holder = 305657
+	}
+	11120.1.1={
+		holder = 305658
+	}
+	11140.1.1={
+		holder = 305659
+	}
+	11160.1.1={
+		holder = 305660
+	}
+	11180.1.1={
+		holder = 305661
+	}
+	11200.1.1={
+		holder = 305662
+	}
+	11220.1.1={
+		holder = 305663
+	}
+	11240.1.1={
+		holder = 305664
+	}
+	#Sakya Trizin established as overlord of Tibet by Yuan Dynasty
+	11251.1.1={
+		liege = "k_sakya_trizin"
+	}
+	11260.1.1={
+		holder = 305665
+	}
+	11280.1.1={
+		holder = 305666
+	}
+	11300.1.1={
+		holder = 305667
+	}
+	11320.1.1={
+		holder = 305668
+	}
+	11340.1.1={
+		holder = 305669
+	}
+	#Phagmodrupa Kingdom supersedes Sakya in U and Tsang
+	11358.1.1={
+		liege = "k_u"
+	}
+	11360.1.1={
+		holder = 305670
+	}
+}
+
+c_amdo = {
+	#Sumpa Kingdom (c.200 - 755)
+	10200.1.1={
+		liege = "d_amdo"
+	}
+	#Sumpa dynasty (Amdo) - fictional placeholders
+	10700.1.1={
+		holder = 305639
+	}
+	10760.1.1={
+		holder = 305640
+	}
+	10780.1.1={
+		holder = 305641
+	}
+	10800.1.1={
+		holder = 305642
+	}
+	10820.1.1={
+		holder = 305643
+	}
+	10840.1.1={
+		holder = 305644
+	}
+	10860.1.1={
+		holder = 305645
+	}
+	10880.1.1={
+		holder = 305646
+	}
+	10900.1.1={
+		holder = 305647
+	}
+	10920.1.1={
+		holder = 305648
+	}
+	10940.1.1={
+		holder = 305649
+	}
+	10960.1.1={
+		holder = 305650
+	}
+	10980.1.1={
+		holder = 305651
+	}
+	11000.1.1={
+		holder = 305652
+	}
+	11020.1.1={
+		holder = 305653
+	}
+	11040.1.1={
+		holder = 305654
+	}
+	11060.1.1={
+		holder = 305655
+	}
+	11080.1.1={
+		holder = 305656
+	}
+	11100.1.1={
+		holder = 305657
+	}
+	11120.1.1={
+		holder = 305658
+	}
+	11140.1.1={
+		holder = 305659
+	}
+	11160.1.1={
+		holder = 305660
+	}
+	11180.1.1={
+		holder = 305661
+	}
+	11200.1.1={
+		holder = 305662
+	}
+	11220.1.1={
+		holder = 305663
+	}
+	11240.1.1={
+		holder = 305664
+	}
+	11260.1.1={
+		holder = 305665
+	}
+	11280.1.1={
+		holder = 305666
+	}
+	11300.1.1={
+		holder = 305667
+	}
+	11320.1.1={
+		holder = 305668
+	}
+	11340.1.1={
+		holder = 305669
+	}
+	11360.1.1={
+		holder = 305670
+	}
+}
+
+
+c_nyainrong = {
+	#Sumpa Kingdom (c.200 - 755)
+	10200.1.1={
+		liege = "d_amdo"
+	}
+	#Sumpa dynasty (Amdo) - fictional placeholders
+	10700.1.1={
+		holder = 305639
+	}
+	10760.1.1={
+		holder = 305640
+	}
+	10780.1.1={
+		holder = 305641
+	}
+	10800.1.1={
+		holder = 305642
+	}
+	10820.1.1={
+		holder = 305643
+	}
+	10840.1.1={
+		holder = 305644
+	}
+	10860.1.1={
+		holder = 305645
+	}
+	10880.1.1={
+		holder = 305646
+	}
+	10900.1.1={
+		holder = 305647
+	}
+	10920.1.1={
+		holder = 305648
+	}
+	10940.1.1={
+		holder = 305649
+	}
+	10960.1.1={
+		holder = 305650
+	}
+	10980.1.1={
+		holder = 305651
+	}
+	11000.1.1={
+		holder = 305652
+	}
+	11020.1.1={
+		holder = 305653
+	}
+	11040.1.1={
+		holder = 305654
+	}
+	11060.1.1={
+		holder = 305655
+	}
+	11080.1.1={
+		holder = 305656
+	}
+	11100.1.1={
+		holder = 305657
+	}
+	11120.1.1={
+		holder = 305658
+	}
+	11140.1.1={
+		holder = 305659
+	}
+	11160.1.1={
+		holder = 305660
+	}
+	11180.1.1={
+		holder = 305661
+	}
+	11200.1.1={
+		holder = 305662
+	}
+	11220.1.1={
+		holder = 305663
+	}
+	11240.1.1={
+		holder = 305664
+	}
+	11260.1.1={
+		holder = 305665
+	}
+	11280.1.1={
+		holder = 305666
+	}
+	11300.1.1={
+		holder = 305667
+	}
+	11320.1.1={
+		holder = 305668
+	}
+	11340.1.1={
+		holder = 305669
+	}
+	11360.1.1={
+		holder = 305670
+	}
+}
+
+
+c_yenshipin = {
+	#Sumpa Kingdom (c.200 - 755)
+	10200.1.1={
+		liege = "d_amdo"
+	}
+	#Sumpa dynasty (Amdo) - fictional placeholders
+	10700.1.1={
+		holder = 305639
+	}
+	10760.1.1={
+		holder = 305640
+	}
+	10780.1.1={
+		holder = 305641
+	}
+	10800.1.1={
+		holder = 305642
+	}
+	10820.1.1={
+		holder = 305643
+	}
+	10840.1.1={
+		holder = 305644
+	}
+	10860.1.1={
+		holder = 305645
+	}
+	10880.1.1={
+		holder = 305646
+	}
+	10900.1.1={
+		holder = 305647
+	}
+	10920.1.1={
+		holder = 305648
+	}
+	10940.1.1={
+		holder = 305649
+	}
+	10960.1.1={
+		holder = 305650
+	}
+	10980.1.1={
+		holder = 305651
+	}
+	11000.1.1={
+		holder = 305652
+	}
+	11020.1.1={
+		holder = 305653
+	}
+	11040.1.1={
+		holder = 305654
+	}
+	11060.1.1={
+		holder = 305655
+	}
+	11080.1.1={
+		holder = 305656
+	}
+	11100.1.1={
+		holder = 305657
+	}
+	11120.1.1={
+		holder = 305658
+	}
+	11140.1.1={
+		holder = 305659
+	}
+	11160.1.1={
+		holder = 305660
+	}
+	11180.1.1={
+		holder = 305661
+	}
+	11200.1.1={
+		holder = 305662
+	}
+	11220.1.1={
+		holder = 305663
+	}
+	11240.1.1={
+		holder = 305664
+	}
+	11260.1.1={
+		holder = 305665
+	}
+	11280.1.1={
+		holder = 305666
+	}
+	11300.1.1={
+		holder = 305667
+	}
+	11320.1.1={
+		holder = 305668
+	}
+	11340.1.1={
+		holder = 305669
+	}
+	11360.1.1={
+		holder = 305670
+	}
+}
+
+
+c_dangla = {
+	#Sumpa Kingdom (c.200 - 755)
+	10200.1.1={
+		liege="d_amdo"
+	}
+	#Sumpa dynasty (Amdo) - fictional placeholders
+	10700.1.1={
+		holder = 305639
+	}
+	10760.1.1={
+		holder = 305640
+	}
+	10780.1.1={
+		holder = 305641
+	}
+	10800.1.1={
+		holder = 305642
+	}
+	10820.1.1={
+		holder = 305643
+	}
+	10840.1.1={
+		holder = 305644
+	}
+	10860.1.1={
+		holder = 305645
+	}
+	10880.1.1={
+		holder = 305646
+	}
+	10900.1.1={
+		holder = 305647
+	}
+	10920.1.1={
+		holder = 305648
+	}
+	10940.1.1={
+		holder = 305649
+	}
+	10960.1.1={
+		holder = 305650
+	}
+	10980.1.1={
+		holder = 305651
+	}
+	11000.1.1={
+		holder = 305652
+	}
+	11020.1.1={
+		holder = 305653
+	}
+	11040.1.1={
+		holder = 305654
+	}
+	11060.1.1={
+		holder = 305655
+	}
+	11080.1.1={
+		holder = 305656
+	}
+	11100.1.1={
+		holder = 305657
+	}
+	11120.1.1={
+		holder = 305658
+	}
+	11140.1.1={
+		holder = 305659
+	}
+	11160.1.1={
+		holder = 305660
+	}
+	11180.1.1={
+		holder = 305661
+	}
+	11200.1.1={
+		holder = 305662
+	}
+	11220.1.1={
+		holder = 305663
+	}
+	11240.1.1={
+		holder = 305664
+	}
+	11260.1.1={
+		holder = 305665
+	}
+	11280.1.1={
+		holder = 305666
+	}
+	11300.1.1={
+		holder = 305667
+	}
+	11320.1.1={
+		holder = 305668
+	}
+	11340.1.1={
+		holder = 305669
+	}
+	11360.1.1={
+		holder = 305670
+	}
+}
+
+
+c_sewa = {
+	#Zhangzhung Kingdom conquered by Tibetan Empire
+	10625.1.1={
+		liege = "d_conyi"
+	}
+	#Tong nomads (Conyi) - fictional placeholders (placeholder female dominated tribe)
+	10755.1.1={
+		holder = 242405
+	}
+	10800.1.1={
+		holder = 305610
+	}
+	10820.1.1={
+		holder = 305611
+	}
+	10840.1.1={
+		holder = 305612
+	}
+	10860.1.1={
+		holder = 305613
+	}
+	10880.1.1={
+		holder = 305614
+	}
+	10900.1.1={
+		holder = 305615
+	}
+	10920.1.1={
+		holder = 305616
+	}
+	10940.1.1={
+		holder = 305617
+	}
+	10960.1.1={
+		holder = 305618
+	}
+	10980.1.1={
+		holder = 305619
+	}
+	11000.1.1={
+		holder = 305620
+	}
+	11020.1.1={
+		holder = 305621
+	}
+	11040.1.1={
+		holder = 305622
+	}
+	11060.1.1={
+		holder = 305623
+	}
+	11080.1.1={
+		holder = 305624
+	}
+	11100.1.1={
+		holder = 305625
+	}
+	11120.1.1={
+		holder = 305626
+	}
+	11140.1.1={
+		holder = 305627
+	}
+	11160.1.1={
+		holder = 305628
+	}
+	11180.1.1={
+		holder = 305629
+	}
+	11200.1.1={
+		holder = 305630
+	}
+	11220.1.1={
+		holder = 305631
+	}
+	11240.1.1={
+		holder = 305632
+	}
+	11260.1.1={
+		holder = 305633
+	}
+	11280.1.1={
+		holder = 305634
+	}
+	11300.1.1={
+		holder = 305635
+	}
+	11320.1.1={
+		holder = 305636
+	}
+	11340.1.1={
+		holder = 305637
+	}
+	11360.1.1={
+		holder = 305638
+	}
+}
+
+c_aqenganggyai = {
+	#Sumpa Kingdom (c.200 - 755)
+	10200.1.1={
+		liege = "d_amdo"
+	}
+	#Hohozhili dynasty (Aqenganggyai) - fictional placeholders
+	10740.1.1={
+		holder = 305671
+	}
+	10800.1.1={
+		holder = 305672
+	}
+	10820.1.1={
+		holder = 305673
+	}
+	10840.1.1={
+		holder = 305674
+	}
+	10860.1.1={
+		holder = 305675
+	}
+	10880.1.1={
+		holder = 305676
+	}
+	10900.1.1={
+		holder = 305677
+	}
+	10920.1.1={
+		holder = 305678
+	}
+	10940.1.1={
+		holder = 305679
+	}
+	10960.1.1={
+		holder = 305680
+	}
+	10980.1.1={
+		holder = 305681
+	}
+	11000.1.1={
+		holder = 305682
+	}
+	11020.1.1={
+		holder = 305683
+	}
+	11040.1.1={
+		holder = 305684
+	}
+	11060.1.1={
+		holder = 305685
+	}
+	11080.1.1={
+		holder = 305686
+	}
+	11100.1.1={
+		holder = 305687
+	}
+	11120.1.1={
+		holder = 305688
+	}
+	11140.1.1={
+		holder = 305689
+	}
+	11160.1.1={
+		holder = 305690
+	}
+	11180.1.1={
+		holder = 305691
+	}
+	11200.1.1={
+		holder = 305692
+	}
+	11220.1.1={
+		holder = 305693
+	}
+	11240.1.1={
+		holder = 305694
+	}
+	11260.1.1={
+		holder = 305695
+	}
+	11280.1.1={
+		holder = 305696
+	}
+	11300.1.1={
+		holder = 305697
+	}
+	11320.1.1={
+		holder = 305698
+	}
+	11340.1.1={
+		holder = 305699
+	}
+	11360.1.1={
+		holder = 305700
+	}
+}
+
+
+c_chumarho = {
+	#Sumpa Kingdom (c.200 - 755)
+	10200.1.1={
+		liege="d_amdo"
+	}
+	#Hohozhili dynasty (Aqenganggyai) - fictional placeholders
+	10740.1.1={
+		holder = 305671
+	}
+	10800.1.1={
+		holder = 305672
+	}
+	10820.1.1={
+		holder = 305673
+	}
+	10840.1.1={
+		holder = 305674
+	}
+	10860.1.1={
+		holder = 305675
+	}
+	10880.1.1={
+		holder = 305676
+	}
+	10900.1.1={
+		holder = 305677
+	}
+	10920.1.1={
+		holder = 305678
+	}
+	10940.1.1={
+		holder = 305679
+	}
+	10960.1.1={
+		holder = 305680
+	}
+	10980.1.1={
+		holder = 305681
+	}
+	11000.1.1={
+		holder = 305682
+	}
+	11020.1.1={
+		holder = 305683
+	}
+	11040.1.1={
+		holder = 305684
+	}
+	11060.1.1={
+		holder = 305685
+	}
+	11080.1.1={
+		holder = 305686
+	}
+	11100.1.1={
+		holder = 305687
+	}
+	11120.1.1={
+		holder = 305688
+	}
+	11140.1.1={
+		holder = 305689
+	}
+	11160.1.1={
+		holder = 305690
+	}
+	11180.1.1={
+		holder = 305691
+	}
+	11200.1.1={
+		holder = 305692
+	}
+	11220.1.1={
+		holder = 305693
+	}
+	11240.1.1={
+		holder = 305694
+	}
+	11260.1.1={
+		holder = 305695
+	}
+	11280.1.1={
+		holder = 305696
+	}
+	11300.1.1={
+		holder = 305697
+	}
+	11320.1.1={
+		holder = 305698
+	}
+	11340.1.1={
+		holder = 305699
+	}
+	11360.1.1={
+		holder = 305700
+	}
+}
+
+d_zadoi = {
+	#Sumpa Kingdom (c.200 - 755)
+	10200.1.1={
+		#liege = "k_sumpa"
+	}
+	#Sumpa dynasty (Zadoi) - fictional placeholders
+	10740.1.1={
+		holder = 305701
+	}
+	#Last Sumpa King Assassinated by the Tibetans, son fled to China
+	10755.1.1={
+		liege = "e_tibet"
+	}
+	10780.1.1={
+		holder = 305702
+	}
+	10800.1.1={
+		holder = 305703
+	}
+	10820.1.1={
+		holder = 305704
+	}
+	10840.1.1={
+		holder = 305705
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege = 0
+	}
+	10860.1.1={
+		holder = 305706
+	}
+	10880.1.1={
+		holder = 305707
+	}
+	10900.1.1={
+		holder = 305708
+	}
+	10920.1.1={
+		holder = 305709
+	}
+	10940.1.1={
+		holder = 305710
+	}
+	10960.1.1={
+		holder = 305711
+	}
+	10980.1.1={
+		holder = 305712
+	}
+	11000.1.1={
+		holder = 305713
+	}
+	11020.1.1={
+		holder = 305714
+	}
+	11040.1.1={
+		holder = 305715
+	}
+	11060.1.1={
+		holder = 305716
+	}
+	11080.1.1={
+		holder = 305717
+	}
+	11100.1.1={
+		holder = 305718
+	}
+	11120.1.1={
+		holder = 305719
+	}
+	11140.1.1={
+		holder = 305720
+	}
+	11160.1.1={
+		holder = 305721
+	}
+	11180.1.1={
+		holder = 305722
+	}
+	11200.1.1={
+		holder = 305723
+	}
+	11220.1.1={
+		holder = 305724
+	}
+	11240.1.1={
+		holder = 305725
+	}
+	#Sakya Trizin established as overlord of Tibet by Yuan Dynasty
+	11251.1.1={
+		liege = "k_sakya_trizin"
+	}
+	11260.1.1={
+		holder = 305726
+	}
+	11280.1.1={
+		holder = 305727
+	}
+	11300.1.1={
+		holder = 305728
+	}
+	11320.1.1={
+		holder = 305729
+	}
+	11340.1.1={
+		holder = 305730
+	}
+	#Phagmodrupa Kingdom supersedes Sakya in U and Tsang
+	11358.1.1={
+		liege = 0
+	}
+	11360.1.1={
+		holder = 305731
+	}
+}
+
+c_zadoi = {
+	#Sumpa Kingdom (c.200 - 755)
+	10200.1.1={
+		liege = "d_zadoi"
+	}
+	#Sumpa dynasty (Zadoi) - fictional placeholders
+	10740.1.1={
+		holder = 305701
+	}
+	10780.1.1={
+		holder = 305702
+	}
+	10800.1.1={
+		holder = 305703
+	}
+	10820.1.1={
+		holder = 305704
+	}
+	10840.1.1={
+		holder = 305705
+	}
+	10860.1.1={
+		holder = 305706
+	}
+	10880.1.1={
+		holder = 305707
+	}
+	10900.1.1={
+		holder = 305708
+	}
+	10920.1.1={
+		holder = 305709
+	}
+	10940.1.1={
+		holder = 305710
+	}
+	10960.1.1={
+		holder = 305711
+	}
+	10980.1.1={
+		holder = 305712
+	}
+	11000.1.1={
+		holder = 305713
+	}
+	11020.1.1={
+		holder = 305714
+	}
+	11040.1.1={
+		holder = 305715
+	}
+	11060.1.1={
+		holder = 305716
+	}
+	11080.1.1={
+		holder = 305717
+	}
+	11100.1.1={
+		holder = 305718
+	}
+	11120.1.1={
+		holder = 305719
+	}
+	11140.1.1={
+		holder = 305720
+	}
+	11160.1.1={
+		holder = 305721
+	}
+	11180.1.1={
+		holder = 305722
+	}
+	11200.1.1={
+		holder = 305723
+	}
+	11220.1.1={
+		holder = 305724
+	}
+	11240.1.1={
+		holder = 305725
+	}
+	11260.1.1={
+		holder = 305726
+	}
+	11280.1.1={
+		holder = 305727
+	}
+	11300.1.1={
+		holder = 305728
+	}
+	11320.1.1={
+		holder = 305729
+	}
+	11340.1.1={
+		holder = 305730
+	}
+	11360.1.1={
+		holder = 305731
+	}
+}
+
+
+c_trandam = {
+	#Sumpa Kingdom (c.200 - 755)
+	10200.1.1={
+		liege = "d_zadoi"
+	}
+	#Sumpa dynasty (Zadoi) - fictional placeholders
+	10740.1.1={
+		holder = 305701
+	}
+	10780.1.1={
+		holder = 305702
+	}
+	10800.1.1={
+		holder = 305703
+	}
+	10820.1.1={
+		holder = 305704
+	}
+	10840.1.1={
+		holder = 305705
+	}
+	10860.1.1={
+		holder = 305706
+	}
+	10880.1.1={
+		holder = 305707
+	}
+	10900.1.1={
+		holder = 305708
+	}
+	10920.1.1={
+		holder = 305709
+	}
+	10940.1.1={
+		holder = 305710
+	}
+	10960.1.1={
+		holder = 305711
+	}
+	10980.1.1={
+		holder = 305712
+	}
+	11000.1.1={
+		holder = 305713
+	}
+	11020.1.1={
+		holder = 305714
+	}
+	11040.1.1={
+		holder = 305715
+	}
+	11060.1.1={
+		holder = 305716
+	}
+	11080.1.1={
+		holder = 305717
+	}
+	11100.1.1={
+		holder = 305718
+	}
+	11120.1.1={
+		holder = 305719
+	}
+	11140.1.1={
+		holder = 305720
+	}
+	11160.1.1={
+		holder = 305721
+	}
+	11180.1.1={
+		holder = 305722
+	}
+	11200.1.1={
+		holder = 305723
+	}
+	11220.1.1={
+		holder = 305724
+	}
+	11240.1.1={
+		holder = 305725
+	}
+	11260.1.1={
+		holder = 305726
+	}
+	11280.1.1={
+		holder = 305727
+	}
+	11300.1.1={
+		holder = 305728
+	}
+	11320.1.1={
+		holder = 305729
+	}
+	11340.1.1={
+		holder = 305730
+	}
+	11360.1.1={
+		holder = 305731
+	}
+}
+
+c_zhidoi = {
+	#Sumpa Kingdom (c.200 - 755)
+	10200.1.1={
+		liege = "d_zadoi"
+	}
+	#Sumpa dynasty (Zadoi) - fictional placeholders
+	10740.1.1={
+		holder = 305701
+	}
+	10780.1.1={
+		holder = 305702
+	}
+	10800.1.1={
+		holder = 305703
+	}
+	10820.1.1={
+		holder = 305704
+	}
+	10840.1.1={
+		holder = 305705
+	}
+	10860.1.1={
+		holder = 305706
+	}
+	10880.1.1={
+		holder = 305707
+	}
+	10900.1.1={
+		holder = 305708
+	}
+	10920.1.1={
+		holder = 305709
+	}
+	10940.1.1={
+		holder = 305710
+	}
+	10960.1.1={
+		holder = 305711
+	}
+	10980.1.1={
+		holder = 305712
+	}
+	11000.1.1={
+		holder = 305713
+	}
+	11020.1.1={
+		holder = 305714
+	}
+	11040.1.1={
+		holder = 305715
+	}
+	11060.1.1={
+		holder = 305716
+	}
+	11080.1.1={
+		holder = 305717
+	}
+	11100.1.1={
+		holder = 305718
+	}
+	11120.1.1={
+		holder = 305719
+	}
+	11140.1.1={
+		holder = 305720
+	}
+	11160.1.1={
+		holder = 305721
+	}
+	11180.1.1={
+		holder = 305722
+	}
+	11200.1.1={
+		holder = 305723
+	}
+	11220.1.1={
+		holder = 305724
+	}
+	11240.1.1={
+		holder = 305725
+	}
+	11260.1.1={
+		holder = 305726
+	}
+	11280.1.1={
+		holder = 305727
+	}
+	11300.1.1={
+		holder = 305728
+	}
+	11320.1.1={
+		holder = 305729
+	}
+	11340.1.1={
+		holder = 305730
+	}
+	11360.1.1={
+		holder = 305731
+	}
+}
+
+
+c_qumarleb = {
+	#Sumpa Kingdom (c.200 - 755)
+	10200.1.1={
+		#liege = "k_sumpa"
+	}
+	#Chumarlep dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305796
+	}
+	#Last Sumpa King Assassinated by the Tibetans, son fled to China
+	10755.1.1={
+		liege = "e_tibet"
+	}
+	10800.1.1={
+		holder = 305797
+	}
+	10820.1.1={
+		holder = 305798
+	}
+	10840.1.1={
+		holder = 305799
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege = 0
+	}
+	10860.1.1={
+		holder = 305800
+	}
+	10880.1.1={
+		holder = 305801
+	}
+	10900.1.1={
+		holder = 305802
+	}
+	10920.1.1={
+		holder = 305803
+	}
+	10940.1.1={
+		holder = 305804
+	}
+	10960.1.1={
+		holder = 305805
+	}
+	10980.1.1={
+		holder = 305806
+	}
+	11000.1.1={
+		holder = 305807
+	}
+	11020.1.1={
+		holder = 305808
+	}
+	11040.1.1={
+		holder = 305809
+	}
+	11060.1.1={
+		holder = 305810
+	}
+	11080.1.1={
+		holder = 305811
+	}
+	11100.1.1={
+		holder = 305812
+	}
+	11120.1.1={
+		holder = 305813
+	}
+	11140.1.1={
+		holder = 305814
+	}
+	11160.1.1={
+		holder = 305815
+	}
+	11180.1.1={
+		holder = 305816
+	}
+	11200.1.1={
+		holder = 305817
+	}
+	11220.1.1={
+		holder = 305818
+	}
+	11240.1.1={
+		holder = 305819
+	}
+	#Sakya Trizin established as overlord of Tibet by Yuan Dynasty
+	11251.1.1={
+		liege = "k_sakya_trizin"
+	}
+	11260.1.1={
+		holder = 305820
+	}
+	11280.1.1={
+		holder = 305821
+	}
+	11300.1.1={
+		holder = 305822
+	}
+	11320.1.1={
+		holder = 305823
+	}
+	11340.1.1={
+		holder = 305824
+	}
+	#Phagmodrupa Kingdom supersedes Sakya in U and Tsang
+	11358.1.1={
+		liege = 0
+	}
+	11360.1.1={
+		holder = 305825
+	}
+}
+
+
+c_chindu = {
+	#Sumpa Kingdom (c.200 - 755)
+	10200.1.1={
+		liege="d_nangqen"
+	}
+	#Nangqên Kingdom
+	10740.1.1={
+		holder = 304264
+	}
+	10800.1.1={
+		holder = 304265
+	}
+	10820.1.1={
+		holder = 304266
+	}
+	10840.1.1={
+		holder = 304267
+	}
+	10860.1.1={
+		holder = 304268
+	}
+	10880.1.1={
+		holder = 304269
+	}
+	10900.1.1={
+		holder = 304270
+	}
+	10920.1.1={
+		holder = 304271
+	}
+	10940.1.1={
+		holder = 304272
+	}
+	10960.1.1={
+		holder = 304273
+	}
+	10980.1.1={
+		holder = 304274
+	}
+	11000.1.1={
+		holder = 304275
+	}
+	11020.1.1={
+		holder = 304276
+	}
+	11040.1.1={
+		holder = 304277
+	}
+	11060.1.1={
+		holder = 304278
+	}
+	11080.1.1={
+		holder = 304279
+	}
+	11100.1.1={
+		holder = 304280
+	}
+	11120.1.1={
+		holder = 304281
+	}
+	11140.1.1={
+		holder = 304282
+	}
+	11160.1.1={
+		holder = 304283
+	}
+	11180.1.1={
+		holder = 304284
+	}
+	11200.1.1={
+		holder = 304285
+	}
+	11220.1.1={
+		holder = 304286
+	}
+	11240.1.1={
+		holder = 304287
+	}
+	11260.1.1={
+		holder = 304288
+	}
+	11280.1.1={
+		holder = 304289
+	}
+	11300.1.1={
+		holder = 304290
+	}
+	11320.1.1={
+		holder = 304291
+	}
+	11340.1.1={
+		holder = 304292
+	}
+	11360.1.1={
+		holder = 304293
+	}
+}
+
+
+c_ngoring = {
+	#Tuyuhun Kingdom (284 - 670)
+	10200.1.1={
+		liege = "d_nagormo"
+	}
+	#Chumarlep dynasty - fictional placeholders
+	10740.1.1={
+		liege = "d_qumarleb"
+		holder = 305796
+	}
+	10800.1.1={
+		holder = 305797
+	}
+	10820.1.1={
+		holder = 305798
+	}
+	10840.1.1={
+		holder = 305799
+	}
+	10860.1.1={
+		holder = 305800
+	}
+	10880.1.1={
+		holder = 305801
+	}
+	10900.1.1={
+		holder = 305802
+	}
+	10920.1.1={
+		holder = 305803
+	}
+	10940.1.1={
+		holder = 305804
+	}
+	10960.1.1={
+		holder = 305805
+	}
+	10980.1.1={
+		holder = 305806
+	}
+	11000.1.1={
+		holder = 305807
+	}
+	11020.1.1={
+		holder = 305808
+	}
+	11040.1.1={
+		holder = 305809
+	}
+	11060.1.1={
+		holder = 305810
+	}
+	11080.1.1={
+		holder = 305811
+	}
+	11100.1.1={
+		holder = 305812
+	}
+	11120.1.1={
+		holder = 305813
+	}
+	11140.1.1={
+		holder = 305814
+	}
+	11160.1.1={
+		holder = 305815
+	}
+	11180.1.1={
+		holder = 305816
+	}
+	11200.1.1={
+		holder = 305817
+	}
+	11220.1.1={
+		holder = 305818
+	}
+	11240.1.1={
+		holder = 305819
+	}
+	11260.1.1={
+		holder = 305820
+	}
+	11280.1.1={
+		holder = 305821
+	}
+	11300.1.1={
+		holder = 305822
+	}
+	11320.1.1={
+		holder = 305823
+	}
+	11340.1.1={
+		holder = 305824
+	}
+	11360.1.1={
+		holder = 305825
+	}
+}
+

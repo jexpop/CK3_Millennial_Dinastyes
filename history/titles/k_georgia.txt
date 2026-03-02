@@ -1,0 +1,1710 @@
+﻿k_georgia = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	#10809.1.1 = {
+		#holder = 41540
+	#}
+	#10826.1.29 = {
+		#holder = 41541
+	#}
+	#10876.1.1 = {
+		#holder = 41542
+	#}
+	#10881.1.1 = {
+		#holder = 70461
+	#}
+	#10891.1.1 = {
+		#holder = 41543
+	#}
+	#10923.1.1 = {
+		#holder = 161200
+	#}
+	#10937.1.1 = {
+		#holder = 41544
+	#}
+	#10958.1.1 = {
+		#holder = 41545
+	#}
+	#10986.1.1 = {
+		#holder = 161203
+	#}
+	#11000.1.1 = {
+		#holder = 41546
+	#}
+	
+	#Unificiation of Georgia
+	11008.1.1 = {
+		holder = 41547
+	}
+	11014.5.7 = {
+		holder = 9950
+	}
+	11027.8.16 = {
+		holder = 9952
+	}
+	11072.11.24 = {
+		holder = 9954
+	}
+	11089.1.1 = {
+		holder = 216517
+	}
+	
+	#
+	11122.1.2 = {
+		effect = {
+			set_capital_county = title:c_tbilisi
+		}
+	}
+	11125.1.24 = {
+		holder = 216516
+	}
+	11154.1.1 = {
+		holder = 144010
+	}
+	11155.1.1 = {
+		holder = 216516
+	}
+	11156.1.1 = {
+		holder = 216515
+	}
+	11184.4.6 = {
+		holder = 466517
+	}
+	11212.1.8 = {
+		holder = 466515
+	}
+	11223.1.1 = {
+		holder = 466518
+	}
+	11245.1.1 = {
+		holder = 466519
+	}
+	11259.1.1 = {
+		holder = 466514
+	}
+	11270.1.1 = {
+		holder = 466501
+	}
+	11289.3.12 = {
+		holder = 144009
+	}
+	11292.1.1 = {
+		holder = 466511
+	}
+	11299.1.1 = {
+		holder = 466500
+	}
+	11302.1.1 = {
+		holder = 145081
+	}
+	11308.1.1 = {
+		holder = 466511
+	}
+	11311.1.1 = {	
+		holder = 466512
+	}
+	11313.1.1 = {
+		holder = 466500
+	}
+}
+
+
+d_tao-klarjeti = {
+	10646.1.1 = {
+		liege = 0
+	}
+	10646.1.1 = {
+		holder = 159918
+	}
+	10673.1.1 = {
+		holder = 70448
+	}
+	10690.1.1 = {
+		holder = 70447
+	}
+	10726.1.1 = {
+		holder = 41500
+	}
+	10749.1.1 = {
+		holder = 41538
+	}
+	10765.1.1 = {
+		holder = 41539
+	}
+	10809.1.1 = {
+		holder = 41540
+	}
+	10826.1.29 = {
+		holder = 41541
+	}
+	10827.1.1 = {
+		holder = 41530
+	}
+	10851.1.1 = {
+		holder = 41531
+	}
+	
+	#Unification of Georgia
+	11008.1.1 = {
+		liege = k_georgia
+	}
+	11064.1.1 = {
+		holder = 9957
+		government = feudal_government
+	}
+	11102.1.1 = {
+		holder = 41550
+	}
+	11122.1.1 = {
+		holder = 216524
+	}
+	11178.1.1 = {
+		holder = 232768 # Botso Jaqeli
+	}
+	11180.1.1 = {
+		holder = 232764
+	}
+	11204.1.2 = {
+		holder = 232765
+	}
+	11226.1.2 = {
+		holder = 232766
+	}
+	11229.1.2 = {
+		holder = 232767
+	}
+	11231.1.2 = {
+		holder = 232769
+	}
+	11250.1.1 = {
+		holder = 466750
+	}
+	11306.1.1 = {
+		holder = 466752
+	}
+	11334.1.2 = {
+		holder = 466753
+	}
+	
+
+}
+
+
+c_tao = {
+	10646.1.1 = {
+		liege = d_greater_armenia
+	}
+	10646.1.1 = {
+		holder = 159918
+	}
+	10673.1.1 = {
+		holder = 70448
+	}
+	10690.1.1 = {
+		holder = 70447
+	}
+	10726.1.1 = {
+		holder = 41500
+	}
+	10749.1.1 = {
+		holder = 41538
+	}
+	10765.1.1 = {
+		holder = 41539
+	}
+	#
+	10780.1.1 = {
+		liege = d_tao-klarjeti
+	}
+	10809.1.1 = {
+		holder = 41540
+	}
+	10826.1.29 = {
+		holder = 41541
+	}
+	10827.1.1 = {
+		holder = 41530
+	}
+	10851.1.1 = {
+		holder = 41531
+	}
+	
+	#1008 Unification of Georgia, k_georgia created
+	11064.1.1 = {
+		holder = 9957
+	}
+	11102.1.1 = {
+		holder = 41550
+	}
+	11122.1.1 = {
+		holder = 216524
+	}
+	11178.1.1 = {
+		holder = 232768 # Botso Jaqeli
+	}
+	11180.1.1 = {
+		holder = 232764
+	}
+	11204.1.2 = {
+		holder = 232765
+	}
+	11226.1.2 = {
+		holder = 232766
+	}
+	11229.1.2 = {
+		holder = 232767
+	}
+	11231.1.2 = {
+		holder = 232769
+	}
+	11250.1.1 = {
+		holder = 466750
+	}
+	11306.1.1 = {
+		holder = 466752
+	}
+	11334.1.2 = {
+		holder = 466753
+	}
+
+}
+
+
+c_klarjeti = {
+	10646.1.1 = {
+		liege = d_greater_armenia
+	}
+	10646.1.1 = {
+		holder = 159918
+	}
+	10673.1.1 = {
+		holder = 70448
+	}
+	10690.1.1 = {
+		holder = 70447
+	}
+	10726.1.1 = {
+		holder = 41500
+	}
+	10749.1.1 = {
+		holder = 41538
+	}
+	10765.1.1 = {
+		holder = 41539
+	}
+	#
+	10780.1.1 = {
+		liege = d_tao-klarjeti
+	}
+	10809.1.1 = {
+		holder = 41540
+	}
+	10826.1.29 = {
+		holder = 41541
+	}
+	10827.1.1 = {
+		holder = 41530
+	}
+	10851.1.1 = {
+		holder = 41531
+	}
+	
+	#1008 Unification of Georgia, k_georgia created
+	11064.1.1 = {
+		holder = 9957
+	}
+	11102.1.1 = {
+		holder = 41550
+	}
+	11122.1.1 = {
+		holder = 216524
+	}
+	11178.1.1 = {
+		holder = 232768 # Botso Jaqeli
+	}
+	11180.1.1 = {
+		holder = 232764
+	}
+	11204.1.2 = {
+		holder = 232765
+	}
+	11226.1.2 = {
+		holder = 232766
+	}
+	11229.1.2 = {
+		holder = 232767
+	}
+	11231.1.2 = {
+		holder = 232769
+	}
+	11250.1.1 = {
+		holder = 466750
+	}
+	11306.1.1 = {
+		holder = 466752
+	}
+	11334.1.2 = {
+		holder = 466753
+	}
+
+}
+
+
+c_kartli = {
+	10867.1.1 = {	change_development_level = 6 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10646.1.1 = {
+		liege = d_greater_armenia
+	}
+	10646.1.1 = {
+		holder = 159918
+	}
+	10673.1.1 = {
+		holder = 70448
+	}
+	10690.1.1 = {
+		holder = 70447
+	}
+	10726.1.1 = {
+		holder = 41500
+	}
+	10749.1.1 = {
+		holder = 41538
+	}
+	10765.1.1 = {
+		holder = 41539
+	}
+	#
+	10780.1.1 = {
+		liege = d_tao-klarjeti
+	}
+	10809.1.1 = {
+		holder = 41540
+	}
+	10826.1.29 = {
+		holder = 41541
+	}
+	10827.1.1 = {
+		holder = 41530
+	}
+	10851.1.1 = {
+		holder = 41531
+	}
+	
+	#1008 Unification of Georgia, k_georgia created
+	11064.1.1 = {
+		holder = 41553
+	}
+	11102.1.1 = {
+		holder = 41550
+	}
+	11122.1.1 = {
+		holder = 216524
+	}
+	11177.1.1 = {
+		holder = surameli_1 # Rati Surameli
+		liege = k_georgia
+	}
+	11180.1.1 = {
+		holder = 232764
+	}
+	11204.1.2 = {
+		holder = 232765
+	}
+	11226.1.2 = {
+		holder = 232766
+	}
+	11229.1.2 = {
+		holder = 232767
+	}
+	11231.1.2 = {
+		holder = 232769
+	}
+	11250.1.1 = {
+		holder = 466750
+	}
+	11306.1.1 = {
+		holder = 466752
+	}
+	11334.1.2 = {
+		holder = 466753
+	}
+
+}
+
+
+c_acampse = {
+	10646.1.1 = {
+		liege = "d_greater_armenia"
+	}
+	10646.1.1 = {
+		holder = 159918
+	}
+	10673.1.1 = {
+		holder = 70448
+	}
+	10690.1.1 = {
+		holder = 70447
+	}
+	10726.1.1 = {
+		holder = 41500
+	}
+	10749.1.1 = {
+		holder = 41538
+	}
+	10765.1.1 = {
+		holder = 41539
+	}
+	10780.1.1 = {
+		liege = "d_tao-klarjeti"
+	}
+	10809.1.1 = {
+		holder = 41540
+	}
+	10826.1.29 = {
+		holder = 41541
+	}
+	10827.1.1 = {
+		holder = 41530
+	}
+	10851.1.1 = {
+		holder = 41531
+	}
+	
+	#1008 Unification of Georgia, k_georgia created
+	11064.1.1 = {
+		liege = "d_tao-klarjeti"
+	}
+	11064.1.1 = {
+		holder = 9957
+	}
+	11102.1.1 = {
+		holder = 41550
+	}
+	11122.1.1 = {
+		holder = 216524
+	}
+	11178.1.1 = {
+		holder = 232768 # Botso Jaqeli
+	}
+	11180.1.1 = {
+		holder = 232764
+	}
+	11204.1.2 = {
+		holder = 232765
+	}
+	11226.1.2 = {
+		holder = 232766
+	}
+	11229.1.2 = {
+		holder = 232767
+	}
+	11231.1.2 = {
+		holder = 232769
+	}
+	11250.1.1 = {
+		holder = 466750
+	}
+	11306.1.1 = {
+		holder = 466752
+	}
+	11334.1.2 = {
+		holder = 466753
+	}
+
+}
+
+
+d_abkhazia = {
+	10500.1.1 = {
+		holder = 160021
+		liege = "e_byzantium"
+	}
+	10530.1.1 = {
+		holder = 160022
+	}
+	10550.1.1 = {
+		holder = 160023
+	}
+	10580.1.1 = {
+		holder = 160024
+	}
+	10610.1.1 = {
+		holder = 160025
+	}
+	10640.1.1 = {
+		holder = 160026
+	}
+	10660.1.1 = {
+		holder = 160027
+	}
+	10680.1.1 = {
+		holder = 160028
+	}
+	10710.1.1 = {
+		holder = 160029
+	}
+	10730.1.1 = {
+		holder = 160030
+	}
+	10745.1.1 = {
+		holder = 160031
+	}
+	10767.1.1 = {
+		holder = 70472
+	}
+	10786.1.1 = {
+		liege = 0
+	}
+	10812.1.1 = {
+		holder = 70473
+	}
+	10838.1.1 = {
+		holder = 70471
+	}
+	
+	#860 setup
+	10873.1.1 = {
+		holder = 70476
+	}
+	10879.1.1 = {
+		holder = 70474
+	}
+	10882.1.1 = {
+		holder = 70475
+	}
+	10888.1.1 = {
+		holder = 70470
+	}
+	10899.1.1 = {
+		holder = 70469
+	}
+	10917.1.1 = {
+		holder = 70468
+	}
+	10960.1.1 = {
+		holder = 70465
+	}
+	10969.1.1 = {
+		holder = 70466
+	}
+	10976.1.1 = {
+		holder = 70467
+	}
+	10978.1.1 = {
+		holder = 41547
+	}
+	
+	#Unification of Georgia
+	11008.1.1 = {
+		liege = k_georgia
+	}
+	11014.5.7 = {
+		holder = 9950
+	}
+	11027.8.6 = {
+		holder = 9952
+	}
+	11072.11.24 = {
+		holder = 9954
+	}
+	11089.1.1 = {
+		holder = 216517
+	}
+	11120.1.1 = {
+		holder = 93523
+	}
+	11150.1.1 = {
+		holder = 232762
+	}
+	11184.1.1 = {
+		holder = 93522
+	}
+	11213.1.1 = {
+		holder = 93524
+	}
+	11243.1.1 = {
+		holder = 466518
+	}
+	11245.1.1 = {
+		holder = 466519
+	}
+	11259.1.1 = {
+		holder = 466514
+	}
+	11270.1.1 = {
+		holder = 466501
+	}
+	11289.3.12 = {
+		holder = 144009
+	}
+	11292.1.1 = {
+		holder = 466511
+	}
+	11311.1.1 = {	
+		holder = 466512
+	}
+	11313.1.1 = {
+		holder = 466500
+	}
+
+}
+
+
+c_abkhazia = {
+	10500.1.1 = {
+		holder = 160021
+		liege = "d_abkhazia"
+	}
+	10530.1.1 = {
+		holder = 160022
+	}
+	10550.1.1 = {
+		holder = 160023
+	}
+	10580.1.1 = {
+		holder = 160024
+	}
+	10610.1.1 = {
+		holder = 160025
+	}
+	10640.1.1 = {
+		holder = 160026
+	}
+	10660.1.1 = {
+		holder = 160027
+	}
+	10680.1.1 = {
+		holder = 160028
+	}
+	10710.1.1 = {
+		holder = 160029
+	}
+	10730.1.1 = {
+		holder = 160030
+	}
+	10745.1.1 = {
+		holder = 160031
+	}
+	10767.1.1 = {
+		holder = 70472
+	}
+	10812.1.1 = {
+		holder = 70471
+	}
+	10873.1.1 = {
+		holder = 70470
+	}
+	10899.1.1 = {
+		holder = 70469
+	}
+	10917.1.1 = {
+		holder = 70468
+	}
+	10960.1.1 = {
+		holder = 70465
+	}
+	10969.1.1 = {
+		holder = 70466
+	}
+	10976.1.1 = {
+		holder = 70467
+	}
+	
+	#1008 Unification of Georgia, k_georgia created
+	11027.8.6 = {
+		holder = 9952
+	}
+	11072.11.24 = {
+		holder = 9954
+	}
+	11089.1.1 = {
+		holder = 216517
+	}
+	11120.1.1 = {
+		holder = 93523
+	}
+	11150.1.1 = {
+		holder = 232762
+	}
+	11184.1.1 = {
+		holder = 93522
+	}
+	11213.1.1 = {
+		holder = 93524
+	}
+	11243.1.1 = {
+		holder = 466518
+	}
+	11245.1.1 = {
+		holder = 466519
+	}
+	11259.1.1 = {
+		holder = 466514
+	}
+	11270.1.1 = {
+		holder = 466501
+	}
+	11289.3.12 = {
+		holder = 144009
+	}
+	11292.1.1 = {
+		holder = 466511
+	}
+	11311.1.1 = {	
+		holder = 466512
+	}
+	11313.1.1 = {
+		holder = 466500
+	}
+
+}
+
+
+c_odishi = {
+	10500.1.1 = {
+		holder = 160021
+		liege = "d_abkhazia"
+	}
+	10530.1.1 = {
+		holder = 160022
+	}
+	10550.1.1 = {
+		holder = 160023
+	}
+	10580.1.1 = {
+		holder = 160024
+	}
+	10610.1.1 = {
+		holder = 160025
+	}
+	10640.1.1 = {
+		holder = 160026
+	}
+	10660.1.1 = {
+		holder = 160027
+	}
+	10680.1.1 = {
+		holder = 160028
+	}
+	10710.1.1 = {
+		holder = 160029
+	}
+	10730.1.1 = {
+		holder = 160030
+	}
+	10745.1.1 = {
+		holder = 160031
+	}
+	10767.1.1 = {
+		holder = 70472
+	}
+	10812.1.1 = {
+		holder = 70471
+	}
+	10873.1.1 = {
+		holder = 70470
+	}
+	10899.1.1 = {
+		holder = 70469
+	}
+	10917.1.1 = {
+		holder = 70468
+	}
+	10960.1.1 = {
+		holder = 70465
+	}
+	10969.1.1 = {
+		holder = 70466
+	}
+	10976.1.1 = {
+		holder = 70467
+	}
+	
+	#1008 Unification of Georgia, k_georgia created
+	11027.8.6 = {
+		holder = 9952
+	}
+	11072.11.24 = {
+		holder = 9954
+	}
+	11089.1.1 = {
+		holder = 216517
+	}
+	11120.1.1 = {
+		holder = 93523
+	}
+	11150.1.1 = {
+		holder = 232762
+	}
+	11178.1.1 = {
+		holder = 232764 # Vardan Dadiani
+		liege = d_abkhazia
+	}
+	11184.1.1 = {
+		holder = 93522
+	}
+	11213.1.1 = {
+		holder = 93524
+	}
+	11243.1.1 = {
+		holder = 466518
+	}
+	11245.1.1 = {
+		holder = 466519
+	}
+	11259.1.1 = {
+		holder = 466514
+	}
+	11270.1.1 = {
+		holder = 466501
+	}
+	11289.3.12 = {
+		holder = 144009
+	}
+	11292.1.1 = {
+		holder = 466511
+	}
+	11311.1.1 = {	
+		holder = 466512
+	}
+	11313.1.1 = {
+		holder = 466500
+	}
+
+}
+
+
+c_svaneti = {
+	10500.1.1 = {
+		holder = 160021
+		liege = "d_abkhazia"
+	}
+	10530.1.1 = {
+		holder = 160022
+	}
+	10550.1.1 = {
+		holder = 160023
+	}
+	10580.1.1 = {
+		holder = 160024
+	}
+	10610.1.1 = {
+		holder = 160025
+	}
+	10640.1.1 = {
+		holder = 160026
+	}
+	10660.1.1 = {
+		holder = 160027
+	}
+	10680.1.1 = {
+		holder = 160028
+	}
+	10710.1.1 = {
+		holder = 160029
+	}
+	10730.1.1 = {
+		holder = 160030
+	}
+	10745.1.1 = {
+		holder = 160031
+	}
+	10767.1.1 = {
+		holder = 70472
+	}
+	10812.1.1 = {
+		holder = 70471
+	}
+	10873.1.1 = {
+		holder = 70470
+	}
+	10899.1.1 = {
+		holder = 70469
+	}
+	10917.1.1 = {
+		holder = 70468
+	}
+	10960.1.1 = {
+		holder = 70465
+	}
+	10969.1.1 = {
+		holder = 70466
+	}
+	10976.1.1 = {
+		holder = 70467
+	}
+	
+	#1008 Unification of Georgia, k_georgia created
+	11027.8.6 = {
+		holder = 9952
+	}
+	11072.11.24 = {
+		holder = 9954
+	}
+	11089.1.1 = {
+		holder = 216517
+	}
+	11120.1.1 = {
+		holder = 93523
+	}
+	11150.1.1 = {
+		holder = 232762
+	}
+	11184.1.1 = {
+		holder = 93522
+	}
+	11213.1.1 = {
+		holder = 93524
+	}
+	11243.1.1 = {
+		holder = 466518
+	}
+	11245.1.1 = {
+		holder = 466519
+	}
+	11259.1.1 = {
+		holder = 466514
+	}
+	11270.1.1 = {
+		holder = 466501
+	}
+	11289.3.12 = {
+		holder = 144009
+	}
+	11292.1.1 = {
+		holder = 466511
+	}
+	11311.1.1 = {	
+		holder = 466512
+	}
+	11313.1.1 = {
+		holder = 466500
+	}
+
+}
+
+
+c_guria = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10500.1.1 = {
+		holder = 160021
+		liege = "d_abkhazia"
+	}
+	10530.1.1 = {
+		holder = 160022
+	}
+	10550.1.1 = {
+		holder = 160023
+	}
+	10580.1.1 = {
+		holder = 160024
+	}
+	10610.1.1 = {
+		holder = 160025
+	}
+	10640.1.1 = {
+		holder = 160026
+	}
+	10660.1.1 = {
+		holder = 160027
+	}
+	10680.1.1 = {
+		holder = 160028
+	}
+	10710.1.1 = {
+		holder = 160029
+	}
+	10730.1.1 = {
+		holder = 160030
+	}
+	10745.1.1 = {
+		holder = 160031
+	}
+	10767.1.1 = {
+		holder = 70472
+	}
+	10812.1.1 = {
+		holder = 70471
+	}
+	10873.1.1 = {
+		holder = 70470
+	}
+	10899.1.1 = {
+		holder = 70469
+	}
+	10917.1.1 = {
+		holder = 70468
+	}
+	10960.1.1 = {
+		holder = 70465
+	}
+	10969.1.1 = {
+		holder = 70466
+	}
+	10976.1.1 = {
+		holder = 70467
+	}
+	
+	#1008 Unification of Georgia, k_georgia created
+	11027.8.6 = {
+		holder = 9952
+	}
+	11072.11.24 = {
+		holder = 9954
+	}
+	11089.1.1 = {
+		holder = 216517
+	}
+	11120.1.1 = {
+		holder = 93523
+	}
+	11150.1.1 = {
+		holder = 232762
+	}
+	11184.1.1 = {
+		holder = 93522
+	}
+	11213.1.1 = {
+		holder = 93524
+	}
+	11243.1.1 = {
+		holder = 466518
+	}
+	11245.1.1 = {
+		holder = 466519
+	}
+	11259.1.1 = {
+		holder = 466514
+	}
+	11270.1.1 = {
+		holder = 466501
+	}
+	11289.3.12 = {
+		holder = 144009
+	}
+	11292.1.1 = {
+		holder = 466511
+	}
+	11311.1.1 = {	
+		holder = 466512
+	}
+	11313.1.1 = {
+		holder = 466500
+	}
+
+}
+ d_georgia = {
+	10867.1.1 = {	change_development_level = 6 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 13 }
+ }
+
+c_tbilisi = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 43 }
+	
+	50.1.1 = {
+		holder = 159909
+	}
+	58.1.1 = {
+		holder = 159910
+	}
+	10106.1.1 = {
+		holder = 159911
+	}
+	10116.1.1 = {
+		holder = 159912
+	}
+	10135.1.1 = {
+		holder = 159913
+	}
+	10138.1.1 = {
+		holder = 159914
+	}
+	10185.1.1 = {
+		holder = 159915
+	}
+	10189.1.1 = {
+		holder = 159593
+	}
+	10216.1.1 = {
+		holder = 159594
+	}
+	10234.1.1 = {
+		holder = 159595
+	}
+	10249.1.1 = {
+		holder = 159596
+	}
+	10265.1.1 = {
+		holder = 159597
+	}
+	10284.1.1 = {
+		holder = 159604
+	}
+	10345.1.1 = {
+		holder = 159606
+	}
+	10361.1.1 = {
+		holder = 159758
+	}
+	10363.1.1 = {
+		holder = 159605
+	}
+	10365.1.1 = {
+		holder = 159763
+	}
+	10380.1.1 = {
+		holder = 159770
+	}
+	10394.1.1 = {
+		holder = 159761
+	}
+	10406.1.1 = {
+		holder = 159762
+	}
+	10409.1.1 = {
+		holder = 159763
+	}
+	10411.1.1 = {
+		holder = 159764
+	}
+	10435.1.1 = {
+		holder = 159765
+	}
+	10447.1.1 = {
+		holder = 159766
+	}
+	10522.1.1 = {
+		liege = d_georgia
+		holder = 159767
+	}
+	10534.1.1 = {
+		holder = 159768
+	}
+	10547.1.1 = {
+		holder = 159769
+	}
+	10561.1.1 = {
+		holder = 159772
+	}
+	10570.1.1 = {
+		holder = 159773
+	}
+	10588.1.1 = {
+		holder = 159776
+	}
+	10590.1.1 = {
+		holder = 159777
+	}
+	10627.1.1 = {
+		holder = 159778
+	}
+	10637.1.1 = {
+		holder = 159779
+	}
+	10650.1.1 = {
+		holder = 159780
+	}
+	10684.1.1 = {
+		holder=159783
+	}
+	10693.1.1 = {
+		holder = 159785
+	}
+	
+	#Conquered by Marwan II ibn-Muhammad
+	10737.1.1 = {
+		holder = 163041
+		liege = e_arabia
+	}
+	
+	10800.1.1 = {
+		holder = 302377	#fictional Shuab Shuabid
+	}
+	10811.1.1 = {
+		holder = 302363	#Ismail bin Shuab Shuabid
+	}
+	10813.1.1 = {
+		holder = 302364	#Mohammed bin Atab
+	}
+	10829.1.1 = {
+		holder = 302365	#Ali bin Shuab
+	}
+	10833.1.1 = {
+		holder = 302366	#Ishaq bin Ismail bin Shuab
+	}
+	10850.1.1 = {
+		liege = 0
+	}
+	
+	#Invaded by Bugha al-Kabir "the Turk" in 853
+	10853.1.1 = {
+		holder = 163167	#Mohammed bin Khalil Shaybanid
+		liege = k_armenian_principality # changed from e_arabia for more coherent map
+	}
+	10870.1.1 = {
+		holder = 159732	#Isa bin ash-Sheikh ash-Shayban
+	}
+	10876.1.1 = {
+		holder = 302361	#Ibrahim Shaybanid
+	}
+	10878.1.1 = {
+		holder = 302362	#Gabuloc Shaybanid
+	}
+	10880.1.1 = {
+		holder = 302367	#Jaffar I bin Ali Jaffarid
+	}
+	10914.1.1 = {
+		holder = 302368	#Mansur bin Jaffar Jaffarid
+	}
+	10952.1.1 = {
+		holder = 302369	#Jaffar II bin Mansur Jaffarid
+	}
+	10981.1.1 = {
+		holder = 302370	#Ali bin Jaffar Jaffarid
+	}
+	#1008 unification of Georgia and new kingdom
+	11032.1.1 = {
+		holder = 302371	#Jaffar III bin Ali Jaffarid
+	}
+	11046.1.1 = {
+		holder = 302372	#Mansur bin Jaffar Jaffarid
+	}
+	11054.1.1 = {
+		holder = 302373	#Abul-Haija bin Jaffar Jaffarid
+	}
+	11062.1.1 = {
+		holder = 302374	#Placeholder for city council
+	}
+	#1066 startdate
+	11068.1.1 = {
+		holder = 302375	#Fadlun of Ganja Jaffarid
+	}
+	11080.1.1 = {
+		holder = 302376	#Placeholder for city council
+	}
+	11088.1.1 = {
+		holder = 41608	#Placeholder for city council
+	}
+	
+	#David the Builder (Georgia) retakes Tbilisi in 1122
+	11122.1.1 = {
+		holder = 216517
+		liege = k_georgia
+	}
+	11125.1.24 = {
+		holder = 216516
+	}
+	11154.1.1 = {
+		holder = 144010
+	}
+	11155.1.1 = {
+		holder = 216516
+	}
+	11156.1.1 = {
+		holder = 216515
+	}
+	11184.4.6 = {
+		holder = 466517
+	}
+	11212.1.8 = {
+		holder = 466515
+	}
+	11223.1.1 = {
+		holder = 466518
+	}
+	11245.1.1 = {
+		holder = 466519
+	}
+	11259.1.1 = {
+		holder = 466514
+	}
+	11270.1.1 = {
+		holder = 466501
+	}
+	11289.3.12 = {
+		holder = 144009
+	}
+	11292.1.1 = {
+		holder = 466511
+	}
+	11311.1.1 = {	
+		holder = 466512
+	}
+	11313.1.1 = {
+		holder=466500
+	}
+
+}
+
+
+c_lori = {
+	10646.1.1 = {
+		liege = "d_greater_armenia"
+	}
+	10646.1.1 = {
+		holder = 159918
+	}
+	10673.1.1 = {
+		holder = 70448
+	}
+	10690.1.1 = {
+		holder = 70447
+	}
+	10726.1.1 = {
+		holder = 41500
+	}
+	10749.1.1 = {
+		holder = 41501
+	}
+	10775.4.15 = {
+		holder = 41502
+	}
+	10826.1.1 = {
+		holder = 41504
+	}
+	10862.1.1 = {
+		holder = 41505
+	}
+	11045.1.1 = {
+		liege = 0
+	}
+	11066.1.1 = {
+		holder = 41513
+	}
+	11178.1.1 = {
+		holder = 232758 # Sargis Zakarian
+		liege = k_georgia
+	}
+	11191.1.1 = {
+		holder = 232759
+	}
+	11202.1.1 = {
+		holder = 232760
+	}
+	11202.7.1 = {
+		liege = "d_greater_armenia"
+		holder = 159207
+	}
+	11225.1.2 = {
+		liege = "d_erzerum"
+		holder = 34233
+	}
+	#placeholders
+	11230.1.1 = {
+		holder = 34398
+	}
+	11250.1.1 = {
+		holder = 34399
+	}
+	11280.1.1 = {
+		holder = 34400
+	}
+	11300.1.1 = {
+		holder = 34401
+	}
+	
+
+}
+
+
+c_kakheti = {
+	50.1.1 = {
+		holder = 159909
+	}
+	58.1.1 = {
+		holder = 159910
+	}
+	10106.1.1 = {
+		holder = 159911
+	}
+	10116.1.1 = {
+		holder = 159912
+	}
+	10135.1.1 = {
+		holder = 159913
+	}
+	10138.1.1 = {
+		holder = 159914
+	}
+	10185.1.1 = {
+		holder = 159915
+	}
+	10189.1.1 = {
+		holder = 159593
+	}
+	10216.1.1 = {
+		holder = 159594
+	}
+	10234.1.1 = {
+		holder = 159595
+	}
+	10249.1.1 = {
+		holder = 159596
+	}
+	10265.1.1 = {
+		holder = 159597
+	}
+	10284.1.1 = {
+		holder = 159604
+	}
+	10345.1.1 = {
+		holder = 159606
+	}
+	10361.1.1 = {
+		holder = 159758
+	}
+	10363.1.1 = {
+		holder = 159605
+	}
+	10365.1.1 = {
+		holder = 159763
+	}
+	10380.1.1 = {
+		holder = 159770
+	}
+	10394.1.1 = {
+		holder = 159761
+	}
+	10406.1.1 = {
+		holder = 159762
+	}
+	10409.1.1 = {
+		holder = 159763
+	}
+	10411.1.1 = {
+		holder = 159764
+	}
+	10435.1.1 = {
+		holder = 159765
+	}
+	10447.1.1 = {
+		holder = 159766
+	}
+	10522.1.1 = {
+		liege = 0
+		holder = 159767
+	}
+	10534.1.1 = {
+		holder = 159768
+	}
+	10547.1.1 = {
+		holder = 159769
+	}
+	10561.1.1 = {
+		holder = 159772
+	}
+	10570.1.1 = {
+		holder = 159773
+	}
+	10588.1.1 = {
+		holder = 159776
+	}
+	10590.1.1 = {
+		holder = 159777
+	}
+	10627.1.1 = {
+		holder = 159778
+	}
+	10637.1.1 = {
+		holder = 159779
+	}
+	10650.1.1 = {
+		holder = 159780
+	}
+	10684.1.1 = {
+		holder = 159783
+	}
+	10693.1.1 = {
+		holder = 159785
+	}
+	10748.1.1 = {
+		holder = 159787
+	}
+	10760.1.1 = {
+		holder = 159788
+	}
+	10779.1.1 = {
+		holder = 159786
+	}
+	#10826.1.29 = {
+	#	liege = "k_georgia"
+	#}
+	10826.1.29 = {
+		holder = 41541
+	}
+	
+	#1008 Unification of Georgia, k_georgia created
+	11058.1.1 = {
+		holder = 41515 # Agsartan
+	}
+	11088.1.1 = {
+		holder = 41608
+	}
+	11122.1.1 = {
+		holder = 216524
+	}
+	11178.1.1 = {
+		holder = 466517 # Tamar
+	}
+	11180.1.1 = {
+		holder = 232764
+	}
+	11204.1.2 = {
+		holder = 232765
+	}
+	
+	#Taken by Georgia
+	11120.1.1 = {
+		liege = k_georgia
+	}
+	11226.1.2 = {
+		holder = 232766
+	}
+	11229.1.2 = {
+		holder = 232767
+	}
+	11231.1.2 = {
+		holder = 232769
+	}
+	11250.1.1 = {
+		holder = 466750
+	}
+	11306.1.1 = {
+		holder = 466752
+	}
+	11334.1.2 = {
+		holder = 466753
+	}
+
+}
+
+
+c_hereti = {
+	10270.1.1 = {
+		#liege = "d_albania"
+		holder = 159580
+	}
+	10300.1.1 = {
+		holder = 159581
+	}
+	10330.1.1 = {
+		holder = 159582
+	}
+	10372.1.1 = {
+		holder = 159583
+	}
+	10402.1.1 = {
+		holder = 159585
+	}
+	10435.1.1 = {
+		holder = 159586
+	}
+	10440.1.1 = {
+		holder = 159587
+	}
+	10460.1.1 = {
+		holder = 159588
+	}
+	10465.1.1 = {
+		holder = 159589
+	}
+	10500.1.1 = {
+		holder = 159591
+	}
+	10530.1.1 = {
+		holder = 159615
+	}
+	10570.1.1 = {
+		holder = 159617
+	}
+	10600.1.1 = {
+		holder = 159618
+	}
+	10635.1.1 = {
+		holder = 160036
+	}
+	10636.1.1 = {
+		holder = 159619
+	}
+	10668.1.1 = {
+		holder = 159620
+	}
+	10699.1.1 = {
+		holder = 159627
+	}
+	10705.1.1 = {
+		holder = 160037
+	}
+	10710.1.1 = {
+		holder = 159628
+	}
+	10740.1.1 = {
+		holder = 159629
+	}
+	10750.1.1 = {
+		holder = 159630
+	}
+	10821.1.1 = {
+		holder = 159631
+	}
+	10821.9.1 = {
+		holder = 159973
+	}
+	10822.1.1 = {
+		holder = 159966
+	}
+	10826.1.29 = {
+		holder = 41541
+	}
+	10853.1.1 = {
+		holder = 159976
+	}
+	
+	#1008 Unification of Georgia, k_georgia created
+	11058.1.1 = {
+		holder = 41515 # Agsartan
+	}
+	11088.1.1 = {
+		holder = 41608
+	}
+	#Taken by Georgia
+	11120.1.1 = {
+		liege = k_georgia
+	}
+	11122.1.1 = {
+		holder = 216524
+	}
+	11178.1.1 = {
+		holder = grigolisdze_1 # Asat Grigolisdze
+	}
+	11226.1.2 = {
+		holder = 232766
+	}
+	11229.1.2 = {
+		holder = 232767
+	}
+	11231.1.2 = {
+		holder = 232769
+	}
+	11250.1.1 = {
+		holder = 466750
+	}
+	11306.1.1 = {
+		holder = 466752
+	}
+	11334.1.2 = {
+		holder = 466753
+	}
+}
+

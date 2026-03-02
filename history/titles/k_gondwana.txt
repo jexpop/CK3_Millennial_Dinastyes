@@ -1,0 +1,681 @@
+k_gondwana = {
+	10867.1.1 = { change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 18 }
+
+	10920.1.1 = {
+		holder = 190203 #Yuvaraja Cedi
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_language = language_rajasthani
+					if = {
+						limit = { NOT = { knows_court_language_of = this } }
+						learn_court_language_of = this
+					}
+				}
+			}
+		}
+	}
+	10945.1.1 = {
+		holder = 190204 #Lakshmanaraja Cedi
+	}
+	10969.1.1 = {
+		holder = 190205 #Sankaragana Cedi
+	}
+	10980.1.1 = {
+		holder = 190206 #Yuvaraja Cedi
+	}
+	10990.1.1 = {
+		holder = 190207 #Kokkala Cedi
+	}
+	11015.1.1 = {
+		holder = 190208 #Gangeyadeva Cedi
+	}
+	11042.1.1 = {
+		holder = 190209 #Karnadeva Cedi
+	}
+	11073.1.1 = {
+		holder = 190210 #Yashkarna Cedi
+	}
+	11123.1.1 = {
+		holder = 190211 #Gayakarna Cedi
+	}
+	11153.1.1 = {
+		holder = 190212 #Narasimha Cedi
+	}
+	11163.1.1 = {
+		holder = 190213 #Jayasimha Cedi
+	}
+	11188.1.1 = {
+		holder = 190213 #Vijayasimha Cedi
+	}
+	11203.1.1 = {
+		holder = 188054 # Trailokyavarma Candela
+	}
+	11245.1.1 = {
+		holder = 188056 # Viravarma I
+	}
+	11285.1.1 = {
+		holder = 188058 # Bhojavarma
+	}
+	11289.1.1 = {
+		holder = 0
+	}
+}
+
+
+d_dahala = {
+	10675.1.1 = {
+		holder = 191317 #Vamaraja Cedi
+	}
+	10700.1.1 = {
+		holder = 191318 #? Cedi
+	}
+	10730.1.1 = {
+		holder = 191319 #? Cedi
+	}
+	10750.1.1 = {
+		holder = 191320 #Sankaragana Cedi
+	}
+	10780.1.1 = {
+		holder = 191388 #Cedi?
+	}
+	10825.1.1 = {
+		holder = 191321 #Laksmanaraja Cedi
+	}
+	10845.1.1 = {
+		holder = 190200 #Kokkala Cedi
+	}
+	10890.1.1 = {
+		holder = 190201 #Sankaragana Cedi
+	}
+	10910.1.1 = {
+		holder = 190202 #Balaharsha Cedi
+	}
+	10915.1.1 = {
+		holder = 190203 #Yuvaraja Cedi
+	}
+	10920.1.1 = {
+		liege = k_gondwana
+	}
+	10945.1.1 = {
+		holder = 190204 #Lakshmanaraja Cedi
+	}
+	10969.1.1 = {
+		holder = 190205 #Sankaragana Cedi
+	}
+	10980.1.1 = {
+		holder = 190206 #Yuvaraja Cedi
+	}
+	10990.1.1 = {
+		holder = 190207 #Kokkala Cedi
+	}
+	11015.1.1 = {
+		holder = 190208 #Gangeyadeva Cedi
+	}
+	11042.1.1 = {
+		holder = 190209 #Karnadeva Cedi
+	}
+	11073.1.1 = {
+		holder = 190210 #Yashkarna Cedi
+	}
+	11123.1.1 = {
+		holder = 190211 #Gayakarna Cedi
+	}
+	11153.1.1 = {
+		holder = 190212 #Narasimha Cedi
+	}
+	11163.1.1 = {
+		holder = 190213 #Jayasimha Cedi
+	}
+	11188.1.1 = {
+		holder = 190213 #Vijayasimha Cedi
+	}
+	11211.1.1 = {
+		holder = 0
+	}
+}
+
+
+c_tripuri = {
+	10675.1.1 = {
+		holder = 191317 #Vamaraja Cedi
+		liege = d_dahala
+	}
+	10700.1.1 = {
+		holder = 191318 #? Cedi
+	}
+	10730.1.1 = {
+		holder = 191319 #? Cedi
+	}
+	10750.1.1 = {
+		holder = 191320 #Sankaragana Cedi
+	}
+	10780.1.1 = {
+		holder = 191388 #Cedi?
+	}
+	10825.1.1 = {
+		holder = 191321 #Laksmanaraja Cedi
+	}
+	10845.1.1 = {
+		holder = 190200 #Kokkala Cedi
+	}
+	10890.1.1 = {
+		holder = 190201 #Sankaragana Cedi
+	}
+	10910.1.1 = {
+		holder = 190202 #Balaharsha Cedi
+	}
+	10915.1.1 = {
+		holder = 190203 #Yuvaraja Cedi
+	}
+	10945.1.1 = {
+		holder = 190204 #Lakshmanaraja Cedi
+	}
+	10969.1.1 = {
+		holder = 190205 #Sankaragana Cedi
+	}
+	10980.1.1 = {
+		holder = 190206 #Yuvaraja Cedi
+	}
+	10990.1.1 = {
+		holder = 190207 #Kokkala Cedi
+	}
+	11015.1.1 = {
+		holder = 190208 #Gangeyadeva Cedi
+	}
+	11042.1.1 = {
+		holder = 190209 #Karnadeva Cedi
+	}
+	11073.1.1 = {
+		holder = 190210 #Yashkarna Cedi
+	}
+	11123.1.1 = {
+		holder = 190211 #Gayakarna Cedi
+	}
+	11153.1.1 = {
+		holder = 190212 #Narasimha Cedi
+	}
+	11163.1.1 = {
+		holder = 190213 #Jayasimha Cedi
+	}
+	11188.1.1 = {
+		holder = 190213 #Vijayasimha Cedi
+	}
+	11203.1.1 = {
+		holder = 188054 # Trailokyavarma
+		liege = d_jejakabhukti
+	}
+	11211.1.1 = {
+		holder = 191504 #Gond dynasty of Garha-Mandla
+		liege = k_maharastra
+	}
+	11250.1.1 = {
+		holder = 191505 #Gond dynasty of Garha-Mandla
+	}
+	11270.1.1 = {
+		holder = 191506 #Gond dynasty of Garha-Mandla
+	}
+	11290.1.1 = {
+		holder = 191507 #Gond dynasty of Garha-Mandla
+	}
+	11320.1.1 = {
+		holder = 191508 #Gond dynasty of Garha-Mandla
+	}
+	11330.1.1 = {
+		holder = 191509 #Gond dynasty of Garha-Mandla
+	}
+}
+
+
+c_chauragarh = {
+	10675.1.1 = {
+		holder = 191317 #Vamaraja Cedi
+		liege = d_dahala
+	}
+	10700.1.1 = {
+		holder = 191318 #? Cedi
+	}
+	10730.1.1 = {
+		holder = 191319 #? Cedi
+	}
+	10750.1.1 = {
+		holder = 191320 #Sankaragana Cedi
+	}
+	10780.1.1 = {
+		holder = 191388 #Cedi?
+	}
+	10825.1.1 = {
+		holder = 191321 #Laksmanaraja Cedi
+	}
+	10845.1.1 = {
+		holder = 190200 #Kokkala Cedi
+	}
+	10890.1.1 = {
+		holder = 190201 #Sankaragana Cedi
+	}
+	10910.1.1 = {
+		holder = 190202 #Balaharsha Cedi
+	}
+	10915.1.1 = {
+		holder = 190203 #Yuvaraja Cedi
+	}
+	10945.1.1 = {
+		holder = 190204 #Lakshmanaraja Cedi
+	}
+	10969.1.1 = {
+		holder = 190205 #Sankaragana Cedi
+	}
+	10980.1.1 = {
+		holder = 190206 #Yuvaraja Cedi
+	}
+	10990.1.1 = {
+		holder = 190207 #Kokkala Cedi
+	}
+	11015.1.1 = {
+		holder = 190208 #Gangeyadeva Cedi
+	}
+	11042.1.1 = {
+		holder = 190209 #Karnadeva Cedi
+	}
+	11073.1.1 = {
+		holder = 190210 #Yashkarna Cedi
+	}
+	11123.1.1 = {
+		holder = 190211 #Gayakarna Cedi
+	}
+	11153.1.1 = {
+		holder = 190212 #Narasimha Cedi
+	}
+	11163.1.1 = {
+		holder = 190213 #Jayasimha Cedi
+	}
+	11177.1.1 = {
+		holder = 190213 #Vijayasimha Cedi
+	}
+	11203.1.1 = {
+		holder = 188054 # Trailokyavarma
+		liege = d_jejakabhukti
+	}
+	11211.1.1 = {
+		holder = 191504 #Gond dynasty of Garha-Mandla
+		liege = k_maharastra
+	}
+	11250.1.1 = {
+		holder = 191505 #Gond dynasty of Garha-Mandla
+	}
+	11270.1.1 = {
+		holder = 191506 #Gond dynasty of Garha-Mandla
+	}
+	11290.1.1 = {
+		holder = 191507 #Gond dynasty of Garha-Mandla
+	}
+	11320.1.1 = {
+		holder = 191508 #Gond dynasty of Garha-Mandla
+	}
+	11330.1.1 = {
+		holder = 191509 #Gond dynasty of Garha-Mandla
+	}
+}
+
+
+d_ratanpur = {
+	10760.1.1 = {
+		holder = 191295 #Nandivarman
+	}
+	10810.1.1 = {
+		holder = 191296 #Vijayaditya
+	}
+	10840.1.1 = {
+		holder = 191297 #Malladeva
+	}
+	10870.1.1 = {
+		holder = 175130 #Vikramaditya I Jayameru
+	}
+	10895.1.1 = {
+		holder = 0
+	}
+	11000.1.1 = {	#Haihaya sidebranch
+		holder = 191345 #Kalingaraja
+		liege = k_gondwana
+	}
+	11030.1.1 = {
+		holder = 191346 #Kamalaraja
+	}
+	11050.1.1 = {
+		holder = 191347 #Ratnadeva - moves capital to Ratanpur
+	}
+	11070.1.1 = {
+		holder = 191348 #Prthvideva
+	}
+	11100.1.1 = {
+		holder = 191349 #Jajalladeva
+		liege = 0
+	}
+	11130.1.1 = {
+		holder = 191350 #Ratnadeva II
+	}
+	11150.1.1 = {
+		holder = 191351 #Prthvideva II
+	}
+	11170.1.1 = {
+		holder = 191352 #Jajalladeva
+	}
+	11190.1.1 = {
+		holder = 191353 #Ratnadeva III
+	}
+	11198.1.1 = {
+		holder = 191354 #Pratapamalla
+	}
+	11225.1.1 = {
+		holder = 191355 #Laxmideo
+	}
+	11250.1.1 = {
+		holder = 191356 #Simhana
+	}
+	11280.1.1 = {
+		holder = 191357 #Danghira
+	}
+	11300.1.1 = {
+		holder = 191358 #Ramachandra
+	}
+	11340.1.1 = {
+		holder = 191359 #Ratanasena
+	}
+	11380.1.1 = {
+		holder = 191360 #Vahar
+	}
+	11426.1.1 = {
+		holder = 191361 #Kamaldeva
+	}
+}
+
+
+c_ratanpur = {
+	10760.1.1 = {
+		holder = 191295 #Nandivarman
+		liege = d_ratanpur
+	}
+	10810.1.1 = {
+		holder = 191296 #Vijayaditya
+	}
+	10840.1.1 = {
+		holder = 191297 #Malladeva
+	}
+	10870.1.1 = {
+		holder = 175130 #Vikramaditya I Jayameru
+	}
+	10885.1.1 = {
+		holder = 190200 #Kokkala Cedi
+	}
+	10890.1.1 = {
+		holder = 190201 #Sankaragana Cedi
+	}
+	10910.1.1 = {
+		holder = 190202 #Balaharsha Cedi
+	}
+	10915.1.1 = {
+		holder = 190203 #Yuvaraja Cedi
+	}
+	10945.1.1 = {
+		holder = 190204 #Lakshmanaraja Cedi
+	}
+	10969.1.1 = {
+		holder = 190205 #Sankaragana Cedi
+	}
+	10980.1.1 = {
+		holder = 190206 #Yuvaraja Cedi
+	}
+	10990.1.1 = {
+		holder = 190207 #Kokkala Cedi
+	}
+	11000.1.1 = {
+		holder = 191345 #Kalingaraja
+		liege = d_ratanpur
+	}
+	11030.1.1 = {
+		holder = 191346 #Kamalaraja
+	}
+	11050.1.1 = {
+		holder = 191347 #Ratnadeva - moves capital to Ratanpur
+	}
+	11070.1.1 = {
+		holder = 191348 #Prthvideva
+	}
+	11100.1.1 = {
+		holder = 191349 #Jajalladeva
+	}
+	11130.1.1 = {
+		holder = 191350 #Ratnadeva II
+	}
+	11150.1.1 = {
+		holder = 191351 #Prthvideva II
+	}
+	11170.1.1 = {
+		holder = 191352 #Jajalladeva
+	}
+	11190.1.1 = {
+		holder = 191353 #Ratnadeva III
+	}
+	11198.1.1 = {
+		holder = 191354 #Pratapamalla
+	}
+	11225.1.1 = {
+		holder = 191355 #Laxmideo
+	}
+	11250.1.1 = {
+		holder = 191356 #Simhana
+	}
+	11280.1.1 = {
+		holder = 191357 #Danghira
+	}
+	11300.1.1 = {
+		holder = 191358 #Ramachandra
+	}
+	11340.1.1 = {
+		holder = 191359 #Ratanasena
+	}
+	11380.1.1 = {
+		holder = 191360 #Vahar
+	}
+	11426.1.1 = {
+		holder = 191361 #Kamaldeva
+	}
+}
+
+
+c_tummana = {
+	10690.1.1 = {
+		holder = 191385#Jayavardhana I Sailavamsa
+	}
+	10720.1.1 = {
+		holder = 191386#Jayavardhana II Sailavamsa
+	}
+	10740.1.1 = {
+		holder = 191387#Srivardhana II Sailavamsa
+		liege = d_dahala
+	}
+	10750.1.1 = {
+		holder = 191482 # Patel
+		liege = d_dahala
+	}
+	10780.1.1 = {
+		holder = 191483 #Mukhia
+	}
+	10810.1.1 = {
+		holder = 191484 #Mahji
+	}
+	10830.1.1 = {
+		holder = 191485 #Mukhia
+	}
+	10860.1.1 = {
+		holder = 191486 #Mahji
+	}
+	10880.1.1 = {
+		holder = 191487 #Patel
+	}
+	10920.1.1 = {
+		holder = 190203 #Yuvaraja Cedi
+	}
+	10915.1.1 = {
+		holder = 190203 #Yuvaraja Cedi
+	}
+	10945.1.1 = {
+		holder = 190204 #Lakshmanaraja Cedi
+	}
+	10969.1.1 = {
+		holder = 190205 #Sankaragana Cedi
+	}
+	10980.1.1 = {
+		holder = 190206 #Yuvaraja Cedi
+	}
+	10990.1.1 = {
+		holder = 190207 #Kokkala Cedi
+	}
+	11000.1.1 = {
+		holder = 191345 #Kalingaraja
+		liege = d_ratanpur
+	}
+	11030.1.1 = {
+		holder = 191346 #Kamalaraja
+	}
+	11050.1.1 = {
+		holder = 191347 #Ratnadeva - moves capital to Ratanpur
+	}
+	11070.1.1 = {
+		holder = 191348 #Prthvideva
+	}
+	11100.1.1 = {
+		holder = 191349 #Jajalladeva
+	}
+	11130.1.1 = {
+		holder = 191350 #Ratnadeva II
+	}
+	11150.1.1 = {
+		holder = 191351 #Prthvideva II
+	}
+	11170.1.1 = {
+		holder = 191352 #Jajalladeva
+	}
+	11190.1.1 = {
+		holder = 191353 #Ratnadeva III
+	}
+	11198.1.1 = {
+		holder = 191354 #Pratapamalla
+	}
+	11225.1.1 = {
+		holder = 191355 #Laxmideo
+		liege = d_daksina_kosala
+	}
+	11250.1.1 = {
+		holder = 191356 #Simhana
+	}
+	11280.1.1 = {
+		holder = 191357 #Danghira
+	}
+	11300.1.1 = {
+		holder = 191358 #Ramachandra
+	}
+	11340.1.1 = {
+		holder = 191359 #Ratanasena
+	}
+	11380.1.1 = {
+		holder = 191360 #Vahar
+	}
+	11426.1.1 = {
+		holder = 191361 #Kamaldeva
+	}
+}
+
+
+c_bandhugadha = {
+	#Baland Tribe
+	10750.1.1 = {
+		holder = 191482 # Patel
+		liege = d_dahala
+	}
+	10780.1.1 = {
+		holder = 191483 #Mukhia
+	}
+	10810.1.1 = {
+		holder = 191484 #Mahji
+	}
+	10830.1.1 = {
+		holder = 191485 #Mukhia
+	}
+	10860.1.1 = {
+		holder = 191486 #Mahji
+	}
+	10880.1.1 = {
+		holder = 191487 #Patel
+	}
+	10920.1.1 = {
+		holder = 190203 #Yuvaraja Cedi
+	}
+	10945.1.1 = {
+		holder = 190204 #Lakshmanaraja Cedi
+	}
+	10969.1.1 = {
+		holder = 190205 #Sankaragana Cedi
+	}
+	10980.1.1 = {
+		holder = 190206 #Yuvaraja Cedi
+	}
+	10990.1.1 = {
+		holder = 190207 #Kokkala Cedi
+	}
+	11015.1.1 = {
+		holder = 190208 #Gangeyadeva Cedi
+	}
+	11042.1.1 = {
+		holder = 190209 #Karnadeva Cedi
+	}
+	11073.1.1 = {
+		holder = 190210 #Yashkarna Cedi
+	}
+	11123.1.1 = {
+		holder = 190211 #Gayakarna Cedi
+	}
+	11153.1.1 = {
+		holder = 190212 #Narasimha Cedi
+	}
+	11163.1.1 = {
+		holder = 190213 #Jayasimha Cedi
+	}
+	11188.1.1 = {
+		holder = 190213 #Vijayasimha Cedi
+	}
+	11203.1.1 = {
+		holder = 188054 # Trailokyavarma
+		liege = d_jejakabhukti
+	}
+	11240.1.1 = {
+		holder = 191470 #Karnadeva
+		liege = 0
+	}
+	11270.1.1 = {
+		holder = 191476 #Sohaga
+	}
+	11275.1.1 = {
+		holder = 191477 #Saranga
+	}
+	11280.1.1 = {
+		holder = 191478 #Bilas
+	}
+	11285.1.1 = {
+		holder = 191479 #Bhim Mal
+	}
+	11317.1.1 = {
+		holder = 191480 #Anik Dev
+	}
+	11335.1.1 = {
+		holder = 191481 #Malkeshwar Dev
+	}
+
+}
+

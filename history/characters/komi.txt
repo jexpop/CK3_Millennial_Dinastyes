@@ -1,0 +1,564 @@
+﻿6855 = {
+	name = "Parush"
+	religion = siberian_pagan
+	culture = komi
+	dynasty = 1042196
+	father = 188864
+	10840.1.1 = {
+		birth = yes
+	}
+	10891.1.1 = {
+		death = yes
+	}
+}
+
+161725 = {
+	name = "Varaka"
+	#placeholder
+	dynasty = 1051137
+	religion = siberian_pagan
+	culture = "komi"
+	father = 161724
+	11200.1.1 = {
+		birth = yes
+	}
+	11260.1.1 = {
+		death = yes
+	}
+}
+
+161726 = {
+	name = "Chuga"
+	#placeholder
+	dynasty = 1051137
+	religion = siberian_pagan
+	culture = "komi"
+	father = 161725
+	11230.1.1 = {
+		birth = yes
+	}
+	11290.1.1 = {
+		death = yes
+	}
+}
+
+161727 = {
+	name = "Tugan"
+	#placeholder
+	dynasty = 1051137
+	religion = siberian_pagan
+	culture = "komi"
+	father = 161726
+	11260.1.1 = {
+		birth = yes
+	}
+	11310.1.1 = {
+		death = yes
+	}
+}
+
+161728 = {
+	name = "Nylog"
+	#placeholder
+	dynasty = 1051137
+	religion = siberian_pagan
+	culture = "komi"
+	father = 161727
+	11290.1.1 = {
+		birth = yes
+	}
+	11330.1.1 = {
+		death = yes
+	}
+}
+
+161729 = {
+	name = "Sarin"
+	#placeholder
+	dynasty = 1051137
+	religion = siberian_pagan
+	culture = "komi"
+	father = 161728
+	11310.1.1 = {
+		birth = yes
+	}
+	11375.1.1 = {
+		death = yes
+	}
+}
+
+159734 = {
+	name = "Burmort"
+	dynasty = 1029125
+	religion = siberian_pagan
+	culture = "komi"
+	father = 188806
+	10841.1.1 = {
+		birth = yes
+	}
+	10911.1.1 = {
+		death = yes
+	}
+}
+188803 = {
+	name = "Omurtag" # fictitious
+	dynasty = 1029125
+	religion = siberian_pagan
+	culture = "komi"
+	10738.1.1 = {
+		birth = yes
+	}
+	10795.1.1 = {
+		death = yes
+	}
+}
+
+188804 = {
+	name = "Omurtag" # fictitious
+	dynasty = 1029125
+	religion = siberian_pagan
+	culture = "komi"
+	father = 188803
+	10765.1.1 = {
+		birth = yes
+	}
+	10815.1.1 = {
+		death = yes
+	}
+}
+
+188805 = {
+	name = "Omurtag" # fictitious
+	dynasty = 1029125
+	religion = siberian_pagan
+	culture = "komi"
+	father = 188804
+	10790.1.1 = {
+		birth = yes
+	}
+	10830.1.1 = {
+		death = yes
+	}
+}
+
+188806 = {
+	name = "Omurtag" # fictitious
+	dynasty = 1029157
+	religion = "tengri_pagan"
+	culture = "bolghar"
+	father = 188805
+	10812.1.1 = {
+		birth = yes
+	}
+	10860.1.1 = {
+		death = yes
+	}
+}
+
+188861 = {
+	name = "Nuyanza" # fictitious
+	dynasty = 1042196
+	religion = siberian_pagan
+	culture = komi
+	10738.1.1 = {
+		birth = yes
+	}
+	10798.1.1 = {
+		death = yes
+	}
+}
+
+188862 = {
+	name = "Chipaz" # fictitious
+	dynasty = 1042196
+	religion = siberian_pagan
+	culture = komi
+	father = 188861
+	10765.1.1 = {
+		birth = yes
+	}
+	10810.1.1 = {
+		death = yes
+	}
+}
+
+188863 = {
+	name = "Setyamka" # fictitious
+	dynasty = 1042196
+	religion = siberian_pagan
+	culture = komi
+	father = 188862
+	10790.1.1 = {
+		birth = yes
+	}
+	10840.1.1 = {
+		death = yes
+	}
+}
+
+188864 = {
+	name = "Varmanpaz" # fictitious
+	dynasty = 1042196
+	religion = siberian_pagan
+	culture = komi
+	father = 188863
+	10815.1.1 = {
+		birth = yes
+	}
+	10862.1.1 = {
+		death = yes
+	}
+}
+#Volga Bulgaria update
+302319 = {
+	name = "Kuaz"
+	dynasty = 2001061	#Palniks
+	religion = siberian_pagan
+	culture = komi
+	10839.1.2 = {
+		birth = yes
+	}
+	10888.1.2 = {
+		death = yes
+	}
+}
+302320 = {
+	name = "Kya"
+	dynasty = 2001061	#Palniks
+	religion = siberian_pagan
+	culture = komi
+	11050.1.2 = {
+		birth = yes
+	}
+	11115.1.2 = {
+		death = yes
+	}
+}
+302321 = {
+	name = "Chichayka"
+	dynasty = 2001061	#Palniks
+	religion = siberian_pagan
+	culture = komi
+	father = 302320
+	11075.1.2 = {
+		birth = yes
+	}
+	11130.1.2 = {
+		death = yes
+	}
+}
+302322 = {
+	name = "Kya"
+	dynasty = 2001061	#Palniks
+	religion = siberian_pagan
+	culture = komi
+	father = 302321
+	11105.1.2 = {
+		birth = yes
+	}
+	11164.1.2 = {
+		death = yes
+	}
+}
+302323 = {
+	name = "Nalka"
+	dynasty = 2001061	#Palniks
+	religion = siberian_pagan
+	culture = komi
+	father = 302322
+	11134.1.2 = {
+		birth = yes
+	}
+	11201.1.2 = {
+		death = yes
+	}
+}
+302324 = {
+	name = "Nylog"
+	dynasty = 2001062	#Udmurt
+	religion = siberian_pagan
+	culture = komi
+	10843.1.2 = {
+		birth = yes
+	}
+	10901.1.2 = {
+		death = yes
+	}
+}
+302325 = {
+	name = "Tuhan"
+	dynasty = 2001062	#Udmurt
+	religion = siberian_pagan
+	culture = komi
+	11038.1.2 = {
+		birth = yes
+	}
+	11096.1.2 = {
+		death = yes
+	}
+}
+302326 = {
+	name = "Sektev"
+	dynasty = 2001062	#Udmurt
+	religion = siberian_pagan
+	culture = komi
+	father=  302325
+	11065.1.2 = {
+		birth = yes
+	}
+	11137.1.2 = {
+		death = yes
+	}
+}
+302327 = {
+	name = "Malyy"
+	dynasty = 2001062	#Udmurt
+	religion = siberian_pagan
+	culture = komi
+	father=  302326
+	11085.1.2 = {
+		birth = yes
+	}
+	11135.1.2 = {
+		death = yes
+	}
+}
+302328 = {
+	name = "Vokan"
+	dynasty = 2001062	#Udmurt
+	religion = siberian_pagan
+	culture = komi
+	father=  302327
+	11104.1.2 = {
+		birth = yes
+	}
+	11175.1.2 = {
+		death = yes
+	}
+}
+302329 = {
+	name = "Malyy"
+	dynasty = 2001062	#Udmurt
+	religion = siberian_pagan
+	culture = komi
+	father=  302328
+	11135.1.2 = {
+		birth = yes
+	}
+	11207.1.2 = {
+		death = yes
+	}
+}
+302330 = {
+	name = "Onika"
+	dynasty = 2001063	#of Kerken
+	religion = siberian_pagan
+	culture = komi
+	10840.1.2 = {
+		birth = yes
+	}
+	10912.1.2 = {
+		death = yes
+	}
+}
+302331 = {
+	name = "Rateg"
+	dynasty = 2001063	#of Kerken
+	religion = siberian_pagan
+	culture = komi
+	11044.1.2 = {
+		birth = yes
+	}
+	11100.1.2 = {
+		death = yes
+	}
+}
+302332 = {
+	name = "Ozhmeg"
+	dynasty = 2001063	#of Kerken
+	religion = siberian_pagan
+	culture = komi
+	father = 302331
+	11073.1.2 = {
+		birth = yes
+	}
+	11137.1.2 = {
+		death = yes
+	}
+}
+302333 = {
+	name = "Gazheg"
+	dynasty = 2001063	#of Kerken
+	religion = siberian_pagan
+	culture = komi
+	father = 302332
+	11100.1.2 = {
+		birth = yes
+	}
+	11161.1.2 = {
+		death = yes
+	}
+}
+302334 = {
+	name = "Rateg"
+	dynasty = 2001063	#of Kerken
+	religion = siberian_pagan
+	culture = komi
+	father = 302333
+	11131.1.2 = {
+		birth = yes
+	}
+	11198.1.2 = {
+		death = yes
+	}
+}
+302335 = {
+	name = "Zhuneg"
+	dynasty = 2001063	#of Kerken
+	religion = siberian_pagan
+	culture = komi
+	father = 302334
+	11164.1.2 = {
+		birth = yes
+	}
+	11227.1.2 = {
+		death = yes
+	}
+}
+302336 = {
+	name = "Anava"
+	female = yes
+	dynasty = 2001064	#Lysvvel
+	religion = siberian_pagan
+	culture = komi
+	10850.1.2 = {
+		birth = yes
+	}
+	10931.1.2 = {
+		death = yes
+	}
+}
+302337 = {
+	name = "Spira"
+	dynasty = 2001064	#Lysvvel
+	religion = siberian_pagan
+	culture = komi
+	11050.1.2 = {
+		birth = yes
+	}
+	11117.1.2 = {
+		death = yes
+	}
+}
+302338 = {
+	name = "Liyava"
+	female = yes
+	dynasty = 2001064	#Lysvvel
+	religion = siberian_pagan
+	culture = komi
+	father = 302337
+	11082.1.2 = {
+		birth = yes
+	}
+	11151.1.2 = {
+		death = yes
+	}
+}
+302339 = {
+	name = "Ylvan"
+	dynasty = 2001064	#Lysvvel
+	religion = siberian_pagan
+	culture = komi
+	mother = 302338
+	11112.1.2 = {
+		birth = yes
+	}
+	11165.1.2 = {
+		death = yes
+	}
+}
+302340 = {
+	name = "Ylvan"
+	dynasty = 2001064	#Lysvvel
+	religion = siberian_pagan
+	culture = komi
+	father = 302339
+	11145.1.2 = {
+		birth = yes
+	}
+	11200.1.2 = {
+		death = yes
+	}
+}
+#
+161720 = {
+	name = "Pyera"
+	#placeholder
+	dynasty = 1051137
+	religion = siberian_pagan
+	culture = komi
+	11050.1.1 = {
+		birth = yes
+	}
+	11110.1.1 = {
+		death = yes
+	}
+}
+
+
+161721 = {
+	name = "Azeg"	#placeholder
+	dynasty = 1051137
+	religion = siberian_pagan
+	culture = komi
+	father = 161720
+	11080.1.1 = {
+		birth = yes
+	}
+	11140.1.1 = {
+		death = yes
+	}
+}
+
+161722 = {
+	name = "Arti"	#placeholder
+	dynasty = 1051137
+	religion = siberian_pagan
+	culture = komi
+	father = 161721
+	11110.1.1 = {
+		birth = yes
+	}
+	11170.1.1 = {
+		death = yes
+	}
+}
+
+161723 = {
+	name = "Zarny" #placeholder
+	dynasty = 1051137
+	religion = siberian_pagan
+	culture = komi
+	stewardship = 8
+	father = 161722
+	11140.1.1 = {
+		birth = yes
+	}
+	11200.1.1 = {
+		death = yes
+	}
+}
+
+161724 = {
+	name = "Parush" #placeholder
+	dynasty = 1051137
+	religion = siberian_pagan
+	culture = komi
+	father = 161723
+	11170.1.1 = {
+		birth = yes
+	}
+	11230.1.1 = {
+		death = yes
+	}
+}

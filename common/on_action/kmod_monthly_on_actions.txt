@@ -1,0 +1,13 @@
+﻿# Initialisation on game start
+on_game_start_after_lobby = {
+	on_actions = {
+		initial_monthly_setup
+	}
+}
+initial_monthly_setup = {
+	effect = {
+        every_player = {
+            update_name_month = yes
+        }
+	}
+}

@@ -1,0 +1,278 @@
+﻿#southern Afar
+145665 = {
+	name = "Rahad"
+	dynasty = 1022243
+	religion = "waaqism_pagan"
+	culture = "afar"
+	10851.1.1 = {
+		birth = yes
+	}
+	10909.1.1 = {
+		death = yes
+	}
+}
+
+145666 = {
+	name = "Aydahis"
+	dynasty = 1022244
+	religion = "waaqism_pagan"
+	culture = "afar"
+	11040.1.1 = {
+		birth = yes
+	}
+	11085.1.1 = {
+		death = yes
+	}
+}
+
+145667 = {
+	name = "Talib"
+	dynasty = 1022244
+	religion = "waaqism_pagan"
+	culture = "afar"
+	father = 145666
+	11065.1.1 = {
+		birth = yes
+	}
+	11089.1.1 = {
+		religion = "ashari"
+	}
+	11101.1.1 = {
+		death = yes
+	}
+}
+
+145668 = {
+	name = "Hussayn"
+	dynasty = 1022244
+	religion = "ashari"
+	culture = "afar"
+	father = 145667
+	11090.1.1 = {
+		birth = yes
+	}
+	11153.1.1 = {
+		death = yes
+	}
+}
+
+145669 = {
+	name = "Alladin"
+	dynasty = 1022244
+	religion = "ashari"
+	culture = "afar"
+	father = 145668
+	11123.1.1 = {
+		birth = yes
+	}
+	11177.1.1 = {
+		death = yes
+	}
+}
+
+145670 = {
+	name = "Alim"
+	dynasty = 1022244
+	religion = "ashari"
+	culture = "afar"
+	father = 145669
+	11156.1.1 = {
+		birth = yes
+	}
+	11212.1.1 = {
+		death = yes
+	}
+}
+
+145671 = {
+	name = "Fadil"
+	dynasty = 1022244
+	religion = "ashari"
+	culture = "afar"
+	father = 145670
+	11188.1.1 = {
+		birth = yes
+	}
+	11247.1.1 = {
+		death = yes
+	}
+}
+
+145672 = {
+	name = "Muazir"
+	dynasty = 1022244
+	religion = "ashari"
+	culture = "afar"
+	father = 145670
+	11192.1.1 = {
+		birth = yes
+	}
+	11254.1.1 = {
+		death = yes
+	}
+}
+
+145673 = {
+	name = "Muzaffar"
+	dynasty = 1022244
+	religion = "ashari"
+	culture = "afar"
+	father = 145672
+	11215.1.1 = {
+		birth = yes
+	}
+	11276.1.1 = {
+		death = yes
+	}
+}
+
+145674 = {
+	name = "Muzaffaraddin"
+	dynasty = 1022244
+	religion = "ashari"
+	culture = "afar"
+	father = 145673
+	11242.1.1 = {
+		birth = yes
+	}
+	11287.1.1 = {
+		death = yes
+	}
+}
+
+145675 = {
+	name = "Muslihiddin"
+	dynasty = 1022244
+	religion = "ashari"
+	culture = "afar"
+	father = 145673
+	11247.1.1 = {
+		birth = yes
+	}
+	11298.1.1 = {
+		death = yes
+	}
+}
+
+145676 = {
+	name = "Mukhtar"
+	dynasty = 1022244
+	religion = "ashari"
+	culture = "afar"
+	father = 145675
+	11281.1.1 = {
+		birth = yes
+	}
+	11340.1.1 = {
+		death = yes
+	}
+}
+
+#northern Afar
+afar0001 = {
+	name = "Aref"
+	dynasty = afardyn001
+	religion = "waaqism_pagan"
+	culture = "afar"
+	10845.1.1 = {
+		birth = yes
+	}
+	10897.1.1 = {
+		death = yes
+	}
+}
+afar0002 = {
+	name = "Alimirah"
+	dynasty = afardyn002
+	religion = "waaqism_pagan"
+	culture = "afar"
+	11033.1.1 = {
+		birth = yes
+	}
+	11086.1.1 = {
+		death = yes
+	}
+}
+
+
+afar0003 = {
+	name = "Hanfere"
+	dynasty = afardyn002
+	religion = "waaqism_pagan"
+	culture = "afar"
+	father = afar0002
+	11058.1.1 = {
+		birth = yes
+	}
+	11112.1.1 = {
+		death = yes
+	}
+}
+afar0004 = {
+	name = "Garad"
+	dynasty = afardyn002
+	religion = "waaqism_pagan"
+	culture = "afar"
+	father = afar0003
+	11093.1.1 = {
+		birth = yes
+	}
+	11115.1.1 = {
+		religion = "ashari"
+	}
+	11148.1.1 = {
+		death = yes
+	}
+}
+afar0005 = {
+	name = "Asa"
+	dynasty = afardyn002
+	religion = "ashari"
+	culture = "afar"
+	father = afar0004
+	11117.1.1 = {
+		birth = yes
+	}
+	11166.1.1 = {
+		death = yes
+	}
+}
+afar0006 = {
+	name = "Alimirah"
+	dynasty = afardyn002
+	religion = "ashari"
+	culture = "afar"
+	father = afar0005
+	11145.1.1 = {
+		birth = yes
+	}
+	11198.1.1 = {
+		death = yes
+	}
+}
+afar0007 = {
+	name = "Gaas"
+	dynasty = afardyn002
+	religion = "ashari"
+	culture = "afar"
+	father = afar0006
+	11179.1.1 = {
+		birth = yes
+	}
+	11239.1.1 = {
+		death = yes
+	}
+}
+afar0008 = {
+	name = "Badlay"
+	dynasty = afardyn002
+	religion = "ashari"
+	culture = "afar"
+	father = afar0007
+	11216.1.1 = {
+		birth = yes
+	}
+	11263.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,6 @@
+﻿update_month_sgui = {
+    scope = character
+    effect = {
+        update_name_month = yes # Llama al efecto del paso 1
+    }
+}

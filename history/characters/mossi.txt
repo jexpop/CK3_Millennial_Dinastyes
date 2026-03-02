@@ -1,0 +1,330 @@
+﻿mossi0000 = {
+	name = "Tohajiye"
+	# grandfather to the Mossi people according to oral traditions
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	trait = lifestyle_hunter
+	father = mossi0018
+	11265.1.1 = {
+		birth = yes
+	}
+	11295.1.1 = {
+		add_spouse = mossi0001 #Pagawolga, princess of Mali who had limp
+	}
+	11330.6.6 = {
+		death = yes
+	}
+}
+mossi0002 = {
+	name = "Kpogonumbo"
+	# grandfather of main Mossi kingdoms
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	trait = one_legged
+	father = mossi0000
+	mother = mossi0001
+	11307.1.1 = {
+		birth = yes
+	}
+	11333.1.1 = {
+		add_spouse = mossi0003 #Sisabge, princess of Biun in Gurma
+	}
+	11350.1.1 = {
+		add_spouse = mossi0004 #Solyini, princess of Gurma
+	}
+	11375.6.6 = {
+		death = yes
+	}
+}
+mossi0005 = {
+	name = "Namzisielle"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0002
+	mother = mossi0003
+	11336.1.1 = {
+		birth = yes
+	}
+	11380.1.1 = {
+		death = yes
+	}
+}
+mossi0006 = {
+	name = "Nyalgeh"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0002
+	mother = mossi0003
+	11337.1.1 = {
+		birth = yes
+	}
+	11375.1.1 = {
+		death = yes
+	}
+}
+mossi0007 =  {
+	name = "Ngalgensam"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0002
+	mother = mossi0003
+	11339.1.1 = {
+		birth = yes
+	}
+	11399.1.1 = {
+		death = yes
+	}
+}
+mossi0008 =  {
+	name = "Na Bawa"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0002
+	mother = mossi0004
+	11354.1.1 = {
+		birth = yes
+	}
+	11435.1.1 = {
+		death = yes
+	}
+}
+mossi0009 =  {
+	name = "Yenega"
+	female = yes
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0008
+	11380.1.1 = {
+		birth = yes
+	}
+	11450.1.1 = {
+		death = yes
+	}
+}
+mossi0010 =  {
+	name = "Zirili" #founder of Mamprusi kingdom
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0008
+	11385.1.1 = {
+		birth = yes
+	}
+	11450.1.1 = {
+		death = yes
+	}
+}
+mossi0011 =  {
+	name = "Kufogo"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0008
+	11388.1.1 = {
+		birth = yes
+	}
+	11434.12.12 = {
+		death = yes
+	}
+}
+mossi0012 =  {
+	name = "Tohago" #founder of Nalengu
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0008
+	11389.1.1 = {
+		birth = yes
+	}
+	11448.1.1 = {
+		death = yes
+	}
+}
+mossi0013 =  {
+	name = "Ngamantambo" #settled in Nanumbu and became king
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0008
+	11391.1.1 = {
+		birth = yes
+	}
+	11453.1.1 = {
+		death = yes
+	}
+}
+mossi0014 =  {
+	name = "Sitobo"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0008
+	11395.1.1 = {
+		birth = yes
+	}
+	11457.1.1 = {
+		death = yes
+	}
+}
+mossi0015 =  {
+	name = "Sibie"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0008
+	11396.1.1 = {
+		birth = yes
+	}
+	11459.1.1 = {
+		death = yes
+	}
+}
+mossi0016 =  {
+	name = "Bienumone"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0008
+	11398.1.1 = {
+		birth = yes
+	}
+	11449.1.1 = {
+		death = yes
+	}
+}
+mossi0017 =  {
+	name = "Bogoyelgo"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0008
+	11399.1.1 = {
+		birth = yes
+	}
+	11460.1.1 = {
+		death = yes
+	}
+}
+#fictional Mossi leaders beyond(before) reach of oral history
+mossi0018 =  {
+	name = "Gweba"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0019
+	11230.1.1 = {
+		birth = yes
+	}
+	11290.1.1 = {
+		death = yes
+	}
+}
+mossi0019 =  {
+	name = "Nedega"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0020
+	11203.1.1 = {
+		birth = yes
+	}
+	11264.1.1 = {
+		death = yes
+	}
+}
+mossi0020 =  {
+	name = "Kufogo"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0021
+	11180.1.1 = {
+		birth = yes
+	}
+	11238.1.1 = {
+		death = yes
+	}
+}
+mossi0021 =  {
+	name = "Bogoyelgo"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0022
+	11151.1.1 = {
+		birth = yes
+	}
+	11212.1.1 = {
+		death = yes
+	}
+}
+mossi0022 =  {
+	name = "Nyalgeh"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0023
+	11119.1.1 = {
+		birth = yes
+	}
+	11173.1.1 = {
+		death = yes
+	}
+}
+mossi0023 =  {
+	name = "Sitobo"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0024
+	11083.1.1 = {
+		birth = yes
+	}
+	11149.1.1 = {
+		death = yes
+	}
+}
+mossi0024 =  {
+	name = "Nungu"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	father = mossi0025
+	11052.1.1 = {
+		birth = yes
+	}
+	11109.1.1 = {
+		death = yes
+	}
+}
+mossi0025 =  {
+	name = "Wedraogo"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	11028.1.1 = {
+		birth = yes
+	}
+	11089.1.1 = {
+		death = yes
+	}
+}
+mossi0026 = {
+	name = "Nyalgeh"
+	dynasty = 1069100
+	religion = west_african_bidu_pagan
+	culture = mossi
+	10837.1.1 = {
+		birth = yes
+	}
+	10888.1.1 = {
+		death = yes
+	}
+}

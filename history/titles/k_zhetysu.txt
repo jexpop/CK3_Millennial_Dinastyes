@@ -1,0 +1,1732 @@
+k_zhetysu = {
+	10867.1.1 = { change_development_level = 0 }
+	11066.1.1 = { change_development_level = 0 }
+	11178.1.1 = { change_development_level = 0 }
+	
+	#As Karakhanid Khanate from year 840
+	10840.1.1 = {
+		holder = 34872	#Bilge Khan
+		government = nomad_government
+	}
+	10893.1.1 = {
+		holder = 188851	#Bazir Arslan Khan
+	}
+	10920.1.1 = {
+		holder = 188852	#Oghulchak Arslan Khan
+	}
+	10940.1.1 = {
+		holder = 188853	#Satuk Bughra Khan
+	}
+	10955.1.1 = {
+		holder = 188854bis	#Musa Bughra Khan
+	}
+	10958.1.1 = {
+		holder = 188854	#Suleyman-Arslan
+	}
+	#960 Karakhanids convert to Islam
+	#Conversion to Islam probably started before, but this year is reported as seeing mass conversions in the hundred of thousands
+	10970.1.1 = {
+		holder = 3000	#Ali Arslan Khan
+	}
+	10998.1.1 = {
+		holder = 3002	#Ahmad Arslan
+	}
+	11017.1.1 = {
+		holder = 3004	#Mansur Arslan
+	}
+	11020.1.1 = {
+		holder = 3010	#Ali Tigin Bughra Khan, son of Mansur Arslan
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	
+	#Split of Karakhanid khanate
+	#Western Karakhanid set to k_transoxiana, eastern Karakhanid set to k_zhetysu
+	11042.1.2 = {
+		holder = 144102 # Sulayman II AKA Ebu Shuca
+	}
+	11056.1.1 = {
+		holder = 144103	#Muhammad
+	}
+	11057.1.1 = {
+		holder = 144104	#Ibrahim
+	}
+	11059.1.1 = {
+		holder = 144107 # Ebu Ali el-Hasan
+	}
+	
+	#1137 - Kara Khitai vassalizes eastern Karakhanid khanate
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+		liege = e_kara_khitai
+	}
+	11178.1.1 = {
+		holder = 188912	#Yelü Zhilugu
+		de_jure_liege = e_kara_khitai
+	}
+	11188.1.1 = {
+		holder = 188856 # Yusuf
+	}
+	11205.1.1 = {
+		holder = 188857 # Muhammad
+	}
+	11211.1.1 = {
+		holder = 188914 # Kuchlug
+	}
+	
+	#mongols
+	11218.1.1 = {
+		liege = e_mongol_empire
+		holder = 34852
+	}
+	11227.12.2 = {
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+d_zhetysu = {
+	10850.1.1 = {
+		liege = k_zhetysu	#Karakhanid
+		holder = 34872
+		government = nomad_government
+	}
+	10893.1.1 = {
+		holder = 188851
+	}
+	10920.1.1 = {
+		holder = 188852
+	}
+	10940.1.1 = {
+		holder = 188853
+	}
+	10958.1.1 = {
+		holder = 188854
+	}
+	10970.1.1 = {
+		holder = 3000
+	}
+	10998.1.1 = {
+		holder = 3002
+	}
+	11017.1.1 = {
+		holder = 3004
+	}
+	11024.1.1 = {
+		holder = 3010
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	
+	#1042 Karakhanid split
+	#Eastern karakhanid = k_zhetysu
+	11056.1.1 = {
+		holder = 144103
+	}
+	11057.1.1 = {
+		holder = 144104
+	}
+	11059.1.1 = {
+		holder = 144107 # Ebu Ali el-Hasan
+	}
+	11102.1.1 = {
+		holder = 144114 # Ahmad
+	}
+	11128.1.1 = {
+		holder = 144115 # Ibrahim
+	}
+	
+	#1137 Kara khitai
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+	}
+	11178.1.1 = {
+		holder = 188912	#Yelü Zhilugu
+	}
+	11188.1.1 = {
+		holder = 188856 # Yusuf
+	}
+	11205.1.1 = {
+		holder = 188857 # Muhammad
+	}
+	11211.1.1 = {
+		holder = 188914 # Kuchlug
+	}
+	
+	#Mongols
+	11218.1.1 = {
+		holder = 34852
+	}
+	11227.12.2 = {
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_qayaliq = {
+	10765.1.1 = {
+		holder = 188768
+		government = nomad_government
+	}
+	10775.1.1 = {
+		holder = 188769
+	}
+	10800.1.1 = {
+		holder = 188770
+	}
+	10825.1.1 = {
+		holder = 188771
+	}
+	10860.1.1 = {
+		liege = k_zhetysu
+		holder = 188834
+		government = nomad_government
+	}
+	10885.1.1 = {
+		holder = 188835
+	}
+	10890.1.1 = {
+		holder = 188836
+	}
+	10910.1.1 = {
+		holder = 188837
+	}
+	10935.1.1 = {
+		holder = 188838
+	}
+	10965.1.1 = {
+		holder = 188839
+	}
+	10985.1.1 = {
+		holder = 188840
+	}
+	11010.1.1 = {
+		holder = 188841
+	}
+	11035.1.1 = {
+		holder = 188842
+	}
+	
+	#1042 Karakhanid split in western & eastern
+	11060.1.1 = {
+		holder = 188843
+	}
+	11085.1.1 = {
+		holder = 188844
+	}
+	11110.1.1 = {
+		holder = 188845
+	}
+	11135.1.1 = {
+		holder = 188846
+	}
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+	}
+	11178.1.1 = {
+		holder = 188912	#Yelü Zhilugu
+	}
+}
+
+
+c_almaty = {
+	10867.1.1 = { change_development_level = 4 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	#10766.1.1 = {
+	#	holder = 188773 # Yagma
+	#}
+	10766.1.1 = {
+		holder = 188768
+		government = nomad_government
+	}
+	
+	10860.1.1 = {
+		liege = k_zhetysu
+		holder = 188834
+		government = nomad_government
+	}
+	10885.1.1 = {
+		holder = 188835
+	}
+	10890.1.1 = {
+		holder = 188836
+	}
+	10910.1.1 = {
+		holder = 188837
+	}
+	10935.1.1 = {
+		holder = 188838
+	}
+	10965.1.1 = {
+		holder = 188839
+	}
+	10985.1.1 = {
+		holder = 188840
+	}
+	11010.1.1 = {
+		holder = 188841
+	}
+	11035.1.1 = {
+		holder = 188842
+	}
+	
+	#1042 Karakhanid split in western & eastern
+	11060.1.1 = {
+		holder = fictional_karluks_12
+		government = herder_government
+	}
+	11085.1.1 = {
+		holder = 188844
+		government = nomad_government
+	}
+	11110.1.1 = {
+		holder = 188845
+	}
+	11135.1.1 = {
+		holder = 188846
+	}
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+	}
+	11178.1.1 = {
+		holder = 188912	#Yelü Zhilugu
+	}
+}
+
+
+c_kopathal = {
+	10766.1.1 = {
+		holder = 188768
+		government = nomad_government
+	}
+	10775.1.1 = {
+		holder = 188769
+	}
+	10800.1.1 = {
+		holder = 188770
+	}
+	10825.1.1 = {
+		holder = 188771
+	}
+	10850.1.1 = {
+		holder = 188778
+		liege = d_zhetysu
+	}
+	10893.1.1 = {
+		holder = 188851
+	}
+	10920.1.1 = {
+		holder = 188852
+	}
+	10940.1.1 = {
+		holder = 188853
+	}
+	10958.1.1 = {
+		holder = 188854
+	}
+	10970.1.1 = {
+		holder = 3000
+	}
+	10998.1.1 = {
+		holder = 3002
+	}
+	11017.1.1 = {
+		holder = 3004
+	}
+	11024.1.1 = {
+		holder = 3010
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	11056.1.1 = {
+		holder = 144103
+	}
+	11057.1.1 = {
+		holder = 144104
+	}
+	11059.1.1 = {
+		holder = 144107 # Ebu Ali el-Hasan
+	}
+	11065.1.1 = {
+		holder = 144114 # Ahmad
+	}
+	11128.1.1 = {
+		holder = 144115 # Ibrahim
+	}
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+	}
+	11178.1.1 = {
+		holder = 188856 # Yusuf
+		liege = k_khotan
+	}
+	11205.1.1 = {
+		holder = 188857 # Muhammad
+	}
+	11211.1.1 = {
+		holder = 188914 # Kuchlug
+	}
+	11218.1.1 = {
+		liege = e_mongol_empire
+		holder = 34852
+	}
+	11227.12.2 = {
+		liege = d_zhetysu
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_kaskelen = {
+	10766.1.1 = {
+		holder = 188768
+		government = nomad_government
+	}
+	10775.1.1 = {
+		holder = 188769
+	}
+	10800.1.1 = {
+		holder = 188770
+	}
+	10825.1.1 = {
+		holder = 188771
+	}
+	10850.1.1 = {
+		liege = d_zhetysu
+		holder = 188778
+	}
+	10893.1.1 = {
+		holder = 188851
+	}
+	10920.1.1 = {
+		holder = 188852
+	}
+	10940.1.1 = {
+		holder = 188853
+	}
+	10958.1.1 = {
+		holder = 188854
+	}
+	10970.1.1 = {
+		holder = 3000
+	}
+	10998.1.1 = {
+		holder = 3002
+	}
+	11017.1.1 = {
+		holder = 3004
+	}
+	11024.1.1 = {
+		holder = 3010
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	11056.1.1 = {
+		holder = 144103
+	}
+	11057.1.1 = {
+		holder = 144104
+	}
+	11059.1.1 = {
+		holder = 144107 # Ebu Ali el-Hasan
+	}
+	11065.1.1 = {
+		holder = 144114 # Ahmad
+	}
+	11128.1.1 = {
+		holder = 144115 # Ibrahim
+	}
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+	}
+	11178.1.1 = {
+		holder = 188856 # Yusuf
+		liege = k_khotan
+	}
+	11205.1.1 = {
+		holder = 188857 # Muhammad
+	}
+	11211.1.1 = {
+		holder = 188914 # Kuchlug
+	}
+	11218.1.1 = {
+		liege = e_mongol_empire
+		holder = 34852
+	}
+	11227.12.2 = {
+		liege = d_zhetysu
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_aksuyek = {
+	10766.1.1 = {
+		holder = 188768
+		government = nomad_government
+	}
+	10775.1.1 = {
+		holder = 188769
+	}
+	10800.1.1 = {
+		holder = 188770
+	}
+	10825.1.1 = {
+		holder = 188771
+	}
+	10850.1.1 = {
+		liege = d_zhetysu
+		holder = 188778
+	}
+	
+	10893.1.1 = {
+		holder = 188851
+	}
+	10920.1.1 = {
+		holder = 188852
+	}
+	10940.1.1 = {
+		holder = 188853
+	}
+	10958.1.1 = {
+		holder = 188854
+	}
+	10970.1.1 = {
+		holder = 3000
+	}
+	10998.1.1 = {
+		holder = 3002
+	}
+	11017.1.1 = {
+		holder = 3004
+	}
+	11024.1.1 = {
+		holder = 3010
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	11056.1.1 = {
+		holder = 144103
+	}
+	11057.1.1 = {
+		holder = 144104
+	}
+	11059.1.1 = {
+		holder = 144107 # Ebu Ali el-Hasan
+	}
+	11065.1.1 = {
+		holder = fictional_karluks_13 # fictional herder
+		government = herder_government
+	}
+	11128.1.1 = {
+		holder = 144115 # Ibrahim
+		# government = nomad_government
+	}
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+	}
+	11178.1.1 = {
+		holder = 188856 # Yusuf
+		liege = k_khotan
+	}
+	11205.1.1 = {
+		holder = 188857 # Muhammad
+	}
+	11211.1.1 = {
+		holder = 188914 # Kuchlug
+	}
+	11218.1.1 = {
+		liege = e_mongol_empire
+		holder = 34852
+	}
+	11227.12.2 = {
+		liege = d_zhetysu
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_uchkul = {
+	10765.1.1 = {
+		holder = 188768
+		government = nomad_government
+	}
+	10775.1.1 = {
+		holder = 188769
+	}
+	10800.1.1 = {
+		holder = 188770
+	}
+	10825.1.1 = {
+		holder = 188771
+	}
+	10860.1.1 = {
+		liege = k_zhetysu
+		holder = 188834
+		government = nomad_government
+	}
+	10885.1.1 = {
+		holder = 188835
+	}
+	10890.1.1 = {
+		holder = 188836
+	}
+	10910.1.1 = {
+		holder = 188837
+	}
+	10935.1.1 = {
+		holder = 188838
+	}
+	10965.1.1 = {
+		holder = 188839
+	}
+	10985.1.1 = {
+		holder = 188840
+	}
+	11010.1.1 = {
+		holder = 188841
+	}
+	11035.1.1 = {
+		holder = 188842
+	}
+	
+	#1042 Karakhanid split in western & eastern
+	11060.1.1 = {
+		holder = 188843
+	}
+	11085.1.1 = {
+		holder = 188844
+	}
+	11110.1.1 = {
+		holder = 188845
+	}
+	11135.1.1 = {
+		holder = 188846
+	}
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+	}
+	11178.1.1 = {
+		holder = fictional_karluks_8	#fictional herder
+		government = herder_government
+		liege = e_kara_khitai
+	}
+}
+
+
+c_chuguchak = {
+	#867 - Kimeks
+	10867.1.1 = {
+		liege = 0
+		holder = 302657	#fictional TO_rtogul Alakolyuk
+		government = nomad_government
+	}
+	10882.6.23 = {
+		holder = 302659	#fictional Sibel Alakolyuk
+	}
+	
+	#1066
+	11061.1.1 = {
+		holder = fictional_karluks_6	#fictional, to add chars and avoid domain overlimit
+	}
+	
+	
+	#1134 - Kara Khitai installed in the region
+	11134.1.1 = {
+		liege = e_kara_khitai
+	}
+	11178.1.1 = {
+		holder = fictional_karluks_24
+		liege = e_kara_khitai
+	}
+	11211.1.1 = {
+		holder = 188914	#Kuchlug
+	}
+}
+
+
+c_kokpekty = {
+	#867 - Kimeks
+	10867.1.1 = {
+		liege = 0
+		holder = 302657	#fictional TO_rtogul Alakolyuk
+		government = nomad_government
+	}
+	10882.6.23 = {
+		holder = 302659	#fictional Sibel Alakolyuk
+	}
+	
+	#1066
+	11057.1.1 = {
+		holder = fictional_kimeks_14	#fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+	}
+	
+	#1134 - Kara Khitai installed in the region
+	11134.1.1 = {
+		liege = e_kara_khitai
+	}
+	11178.1.1 = {
+		holder = fictional_karluks_23
+		liege = e_kara_khitai
+	}
+	11211.1.1 = {
+		holder = 188914	#Kuchlug
+	}
+}
+
+c_bazarka = {
+	#867 - Kimeks
+	10867.1.1 = {
+		liege = 0
+		holder = 302657	#fictional TO_rtogul Alakolyuk
+		government = nomad_government
+	}
+	10882.6.23 = {
+		holder = 302659	#fictional Sibel Alakolyuk
+	}
+	
+	#1066
+	11057.1.1 = {
+		holder = fictional_kimeks_14	#fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+	}
+	
+	#1134 - Kara Khitai installed in the region
+	11134.1.1 = {
+		liege = e_kara_khitai
+	}
+	11178.1.1 = {
+		holder = fictional_kimeks_48 # fictional herder
+		liege = e_kara_khitai
+		government = herder_government
+	}
+	11211.1.1 = {
+		holder = 188914	#Kuchlug
+		# government = nomad_government
+	}
+}
+
+
+c_guzkol = {
+	10765.1.1 = {
+		holder = 188768
+		government = nomad_government
+	}
+	10775.1.1 = {
+		holder = 188769
+	}
+	10800.1.1 = {
+		holder = 188770
+	}
+	10825.1.1 = {
+		holder = 188771
+	}
+	10860.1.1 = {
+		liege = k_zhetysu
+		holder = fictional_karluks_16 #fictional herder
+		government = herder_government
+	}
+	10885.1.1 = {
+		holder = 188835
+		# government = nomad_government
+	}
+	10890.1.1 = {
+		holder = 188836
+	}
+	10910.1.1 = {
+		holder = 188837
+	}
+	10935.1.1 = {
+		holder = 188838
+	}
+	10965.1.1 = {
+		holder = 188839
+	}
+	10985.1.1 = {
+		holder = 188840
+	}
+	11010.1.1 = {
+		holder = 188841
+	}
+	11035.1.1 = {
+		holder = 188842
+	}
+	
+	#1042 Karakhanid split in western & eastern
+	11060.1.1 = {
+		holder = 188843
+	}
+	11063.1.1 = {
+		holder = 188844
+	}
+	11085.1.1 = {
+		holder = 188844
+	}
+	11110.1.1 = {
+		holder = 188845
+	}
+	11135.1.1 = {
+		holder = 188846
+	}
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+	}
+	11178.1.1 = {
+		holder = fictional_karluks_22
+		liege = 0
+	}
+}
+
+
+c_lepsink = {
+	10765.1.1 = {
+		holder = 188768
+		government = nomad_government
+	}
+	10775.1.1 = {
+		holder = 188769
+	}
+	10800.1.1 = {
+		holder = 188770
+	}
+	10825.1.1 = {
+		holder = 188771
+	}
+	10850.1.1 = {
+		liege = d_zhetysu
+		holder = 34872	#Bilge Khan
+	}
+	10867.1.1 = {
+		holder = 188852	#Oghulchak Arslan Khan
+	}
+	10940.1.1 = {
+		holder = 188853
+	}
+	10958.1.1 = {
+		holder = 188854
+	}
+	10970.1.1 = {
+		holder = 3000
+	}
+	10998.1.1 = {
+		holder = 3002
+	}
+	11017.1.1 = {
+		holder = 3004
+	}
+	11024.1.1 = {
+		holder = 3010
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	11056.1.1 = {
+		holder = 144103
+	}
+	11057.1.1 = {
+		holder = 144104
+	}
+	11059.1.1 = {
+		holder = 3022
+	}
+	11102.1.1 = {
+		holder = 144114 # Ahmad
+	}
+	11128.1.1 = {
+		holder = 144115 # Ibrahim
+	}
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+	}
+	11178.1.1 = {
+		holder = fictional_karluks_21
+		liege = e_kara_khitai
+	}
+	11188.1.1 = {
+		holder = 188856 # Yusuf
+	}
+	11205.1.1 = {
+		holder = 188857 # Muhammad
+	}
+	11211.1.1 = {
+		holder = 188914 # Kuchlug
+	}
+	11218.1.1 = {
+		liege = e_mongol_empire
+		holder = 34852
+	}
+	11227.12.2 = {
+		liege = d_zhetysu
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_emil = {
+	#867
+	10843.1.19 = {
+		holder = fictional_karluks_17	#fictional herder
+		liege = 0
+		government = herder_government
+	}
+	10870.4.13 = {
+		holder = 302729	#fictional Tolun Jazaiqjürgis
+		government = nomad_government
+	}
+	
+	#1066
+	11060.7.19 = {
+		holder = 302790	#Koza Jaziqjürgis
+		liege = k_zhetysu
+	}
+	11095.8.28 = {
+		holder = 302792 #Gzi Jaziqjürgis
+	}
+	11113.7.18 = {
+		holder = 302793 #Koza Jaziqjürgis
+	}
+	
+	#1134 - Kara Khitai installed in the region
+	11134.1.1 = {
+		liege = e_kara_khitai
+	}
+	11170.1.1 = {
+		holder = 188910	# Duolubu Xiao
+	}
+	11176.1.1 = {
+		holder = 188909 # Wolila
+	}
+	11211.1.1 = {
+		holder = 188914	#Kuchlug
+	}
+}
+
+
+c_jinsko = {
+	#867 - Basmyls
+	10867.1.1 = {
+		liege = 0
+		holder = fictional_karluks_19	#fictional herder
+		government = herder_government
+	}
+	10875.3.24 = {
+		holder = 302662	#fictional Gzi Basmyl
+		# government = nomad_government
+	}
+	
+	#1066
+	11059.1.1 = {
+		holder = fictional_karluks_5	#fictional, to avoid domain overlimit
+		liege = k_zhetysu
+		government = herder_government
+	}
+	
+	#1134 - Kara Khitai installed in the region
+	11134.1.1 = {
+		liege = e_kara_khitai
+	}
+	11170.1.1 = {
+		holder = 188910	# Duolubu Xiao
+	}
+	11176.1.1 = {
+		holder = 188909 # Wolila
+	}
+	11211.1.1 = {
+		holder = 188914	#Kuchlug
+	}
+}
+
+c_ebi-nor = {
+	#867 - Basmyls
+	10867.1.1 = {
+		liege = 0
+		holder = 302661	#fictional Kuntuvdi Basmyl
+		government = nomad_government
+	}
+	10875.3.24 = {
+		holder = 302662	#fictional Gzi Basmyl
+	}
+	
+	#1066
+	11059.1.1 = {
+		holder = fictional_karluks_15	#fictional herder
+		liege = k_zhetysu
+		government = herder_government
+	}
+	
+	#1134 - Kara Khitai installed in the region
+	11134.1.1 = {
+		liege = e_kara_khitai
+	}
+	11170.1.1 = {
+		holder = 188910	# Duolubu Xiao
+		# government = nomad_government
+	}
+	11176.1.1 = {
+		holder = 188909 # Wolila
+	}
+	11211.1.1 = {
+		holder = 188914	#Kuchlug
+	}
+}
+
+
+c_karamay = {
+	#867
+	10843.1.19 = {
+		holder = 302726	#fictional Uzur Jazaiqjürgis
+		liege = 0
+		government = nomad_government
+	}
+	10870.4.13 = {
+		holder = 302729	#fictional Tolun Jazaiqjürgis
+	}
+	
+	#1066
+	11060.7.19 = {
+		holder = 302790	#Koza Jaziqjürgis
+		liege = k_zhetysu
+	}
+	11095.8.28 = {
+		holder = 302792 #Gzi Jaziqjürgis
+	}
+	11113.7.18 = {
+		holder = 302793 #Koza Jaziqjürgis
+	}
+	
+	#1134 - Kara Khitai installed in the region
+	11134.1.1 = {
+		liege = e_kara_khitai
+	}
+
+	11170.1.1 = {
+		holder = 188910	# Duolubu Xiao
+		liege = e_kara_khitai
+	}
+	11176.1.1 = {
+		holder = 188909 # Wolila
+	}
+	11211.1.1 = {
+		holder = 188914	#Kuchlug
+	}
+}
+
+
+c_iliq = {
+	#10766.1.1 = {
+	#	holder = 188773 # Yagma
+	#}
+	10766.1.1 = {
+		holder = 188768
+		government = nomad_government
+	}
+	
+	10850.1.1 = {
+		liege = d_zhetysu
+		holder = 34872	#Bilge Khan
+	}
+	10867.1.1 = {
+		holder = fictional_karluks_18	#fictional nomad
+		government = herder_government
+	}
+	10940.1.1 = {
+		holder = 188853
+		government = nomad_government
+	}
+	10958.1.1 = {
+		holder = 188854
+	}
+	10970.1.1 = {
+		holder = 3000
+	}
+	10998.1.1 = {
+		holder = 3002
+	}
+	11017.1.1 = {
+		holder = 3004
+	}
+	11024.1.1 = {
+		holder = 3010
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	11056.1.1 = {
+		holder = 144103
+	}
+	11057.1.1 = {
+		holder = 144104
+	}
+	11059.1.1 = {
+		holder = 3022
+	}
+	11102.1.1 = {
+		holder = 144114 # Ahmad
+	}
+	11128.1.1 = {
+		holder = 144115 # Ibrahim
+	}
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+	}
+	11178.1.1 = {
+		holder = 188912	#Yelü Zhilugu
+	}
+	11188.1.1 = {
+		holder = 188856 # Yusuf
+	}
+	11205.1.1 = {
+		holder = 188857 # Muhammad
+	}
+	11211.1.1 = {
+		holder = 188914 # Kuchlug
+	}
+	11218.1.1 = {
+		liege = e_mongol_empire
+		holder = 34852
+	}
+	11227.12.2 = {
+		liege = d_zhetysu
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+c_ghulja = {
+	#867 - Basmyls
+	10867.1.1 = {
+		liege = 0
+		holder = 302661	#fictional Kuntuvdi Basmyl
+		government = nomad_government
+	}
+	10875.3.24 = {
+		holder = 302662	#fictional Gzi Basmyl
+	}
+	
+	#1066 - Kara Khanid
+	10970.1.1 = {
+		holder = 3000
+		liege = d_zhetysu
+	}
+	10998.1.1 = {
+		holder = 3002
+	}
+	11017.1.1 = {
+		holder = 3004
+	}
+	11024.1.1 = {
+		holder = 3010
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	11056.1.1 = {
+		holder = 144103
+	}
+	11057.1.1 = {
+		holder = 144104
+	}
+	11059.1.1 = {
+		holder = 3022 # Yaqub Karakhanid
+	}
+	11095.1.1 = {
+		holder = 302675	#Sotan Karakhanid
+	}
+	11119.12.5 = {
+		holder = 302676	#Togli Karakhanid
+	}
+	
+	#1137 - Kara Khitai
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+	}
+	11178.1.1 = {
+		holder = fictional_karluks_7	#fictional herder
+		liege = e_kara_khitai
+		government = herder_government
+	}
+	11188.1.1 = {
+		holder = 188856 # Yusuf
+		# government = nomad_government
+	}
+	11205.1.1 = {
+		holder = 188857 # Muhammad
+	}
+	11211.1.1 = {
+		holder = 188914 # Kuchlug
+	}
+	
+	#Mongols
+	11218.1.1 = {
+		liege = e_mongol_empire
+		holder = 34852
+	}
+	11227.12.2 = {
+		liege = d_zhetysu
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+}
+
+
+c_kash = {
+	#867 - Basmyls
+	10867.1.1 = {
+		liege = 0
+		holder = 302661	#fictional Kuntuvdi Basmyl
+		government = nomad_government
+	}
+	10875.3.24 = {
+		holder = 302662	#fictional Gzi Basmyl
+	}
+	
+	#1066 - Kara Khanid
+	10970.1.1 = {
+		holder = 3000
+		liege = d_zhetysu
+	}
+	10998.1.1 = {
+		holder = 3002
+	}
+	11017.1.1 = {
+		holder = 3004
+	}
+	11024.1.1 = {
+		holder = 3010
+	}
+	11034.1.1 = {
+		holder = 144102 # Ebu Shuca
+	}
+	11056.1.1 = {
+		holder = 144103
+	}
+	11057.1.1 = {
+		holder = 144104
+	}
+	11059.1.1 = {
+		holder = fictional_karluks_11 # fictional herder
+		government = herder_government
+	}
+	11095.1.1 = {
+		holder = 302675	#Sotan Karakhanid
+		government = nomad_government
+	}
+	11119.12.5 = {
+		holder = 302676	#Togli Karakhanid
+	}
+	
+	#1137 - Kara Khitai
+	11158.1.1 = {
+		holder = 188855 # Muhammad
+	}
+	11178.1.1 = {
+		holder = 188912	#Yelü Zhilugu
+	}
+	11188.1.1 = {
+		holder = 188856 # Yusuf
+	}
+	11205.1.1 = {
+		holder = 188857 # Muhammad
+	}
+	11211.1.1 = {
+		holder = 188914 # Kuchlug
+	}
+	
+	#Mongols
+	11218.1.1 = {
+		liege = e_mongol_empire
+		holder = 34852
+	}
+	11227.12.2 = {
+		liege = d_zhetysu
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+}
+

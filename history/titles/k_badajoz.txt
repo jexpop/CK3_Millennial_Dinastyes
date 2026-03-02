@@ -1,0 +1,1303 @@
+﻿k_badajoz = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 11 }
+	11178.1.1 = { change_development_level = 24 }
+
+	10875.1.1 = {
+		holder = 73957 # Abd al-Rahman ibn Marwan
+		liege = 0
+	}
+	10889.1.1 = {
+		holder = andalusian0095 # Abd al-Rahman ibn Abd al-Rahman
+	}
+	10890.1.1 = {
+		holder = 73959 # Zaid ibn Abd al-Rahman
+	}
+	10913.1.1 = {
+		holder = andalusian0001 # Abdallah ibn Abd al-Rahman
+	}
+	10923.1.1 = {
+		holder = andalusian0002 # Abdallah ibn Abdallah
+	}
+	10930.1.1 = {
+		holder = 0 # Annexed by Andalusia
+	}
+}
+
+d_beja = {
+	10840.1.1 = {
+		holder = danis0005 # Adanis ibn Awsaga, leader of the Banu Danis
+		liege = k_andalusia
+	}
+	10875.1.1 = {
+		holder = surunbaqi0001 # Walih Sa'dun al-Surunbaqi of Portucale
+		liege = k_badajoz
+	}
+	10881.1.1 = {
+		holder = andalusian0020 #'Mas'ud ibn Sa'dun al-Surunbaqi
+	}
+	10909.1.1 = {
+		holder = 0 # Annexed to Badajoz
+	}
+	11022.4.8 = {
+		holder = 200220 # Abd al-Aziz ibn Sabur
+		liege = 0
+	}
+	11030.1.1 = {
+		holder = 200221 # Abd al-Malik ibn Sabur
+	}
+	11034.1.1 = {
+		holder = 0 # Annexed to Badajoz
+	}
+	11067.1.1 = {
+		holder = 3902 # al-Mutawakkil
+	}
+	11079.1.1 = {
+		holder = 0 # Annexed to Badajoz
+	}
+	11142.1.1 = {
+		holder = 73203 # Siddray Wazirid
+	}
+	11145.1.1 = {
+		liege = 0
+	}
+	11147.10.25 = {
+		holder = 0
+		de_jure_liege = k_portugal
+	}
+}
+
+
+c_lisboa = {
+	10867.1.1 = {	change_development_level = 9 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 24 }
+ 
+	10840.1.1 = {
+		holder = danis0005 # Walih Adanis ibn Awsaga of Beja
+		liege = d_beja
+		government = clan_government
+	}
+	10875.1.1 = {
+		liege = k_andalusia
+	}
+	10883.1.1 = {
+		holder = danis0009 # Sheik Mas'ud ibn Adanis of Alcacer do Sal
+	}
+	10930.1.1 = {
+		holder = danis0017 # Sheik Abdallah ibn Umar of Alcacer do Sal
+	}
+	10976.10.16 = {
+		holder = 3204 # Caliph Hisham II of Andalusia
+	}
+	10981.1.1 = {
+		holder = 200219 # Emir Sabur of Badajoz
+		liege = d_badajoz
+	}
+	11022.4.8 = {
+		holder = 200220 # Emir Abd al-Aziz ibn Sabur of Beja
+		liege = d_beja
+	}
+	11034.1.1 = {
+		holder = 3900 # Emir al-Muzaffar of Badajoz
+		liege = d_badajoz
+	}
+	11061.1.1 = {
+		holder = 3902 # Emir al-Mutawakkil of Beja
+	}
+	11067.1.1 = {
+		liege = d_beja
+	}
+	11079.1.1 = {
+		liege = d_badajoz
+	}
+	11093.5.1 = {
+		holder = 73205 # Yusuf Yusufid
+		liege = k_maghreb
+	}
+	11116.1.1 = {
+		holder = 73207 # Ismai'l Ismailid
+	}
+	11142.1.1 = {
+		holder = 73203 # Siddray Wazirid
+		liege = d_beja
+	}
+	11147.10.25 = {
+		holder = 209503 # Afonso I de Bourgogne
+		liege = k_portugal
+	}
+	11185.12.6 = {
+		holder = 209500 # Sancho I de Bourgogne
+	}
+	11212.3.26 = {
+		holder = 459560 # Afonso II de Bourgogne
+	}
+	11223.3.25 = {
+		holder = 459562 # Sancho II de Bourgogne
+	}
+	11248.1.3 = {
+		holder = 459520 # Afonso III de Bourgogne
+	}
+	11279.4.18 = {
+		holder = 459510 # Dinis Afonses de Bourgogne
+	}
+	11325.1.7 = {
+		holder = 459500 # Afonso IV de Bourgogne
+	}
+}
+
+c_beja = {
+	10852.1.1 = {
+		holder = levantine0078 # Sheik Ibrahim ibn Jalid of Elvas
+		liege = k_andalusia
+		government = clan_government
+	}
+	10875.1.1 = {
+		holder = surunbaqi0001 # Walih Sa'dun al-Surunbaqi of Portucale
+		liege = d_beja
+	}
+	10881.1.1 = {
+		holder = andalusian0020 # Walih Ma'sud ibn Sa'dun al-Surunbaqi of Beja
+	}
+	10909.1.1 = {
+		holder = 73959 # Sultan Zaid ibn Abd al-Rahman of Badajoz
+		liege = k_badajoz
+	}
+	10913.1.1 = {
+		holder = andalusian0001 # Sultan Abdallah ibn Abd al-Rahman of Badajoz
+	}
+	10923.1.1 = {
+		holder = andalusian0002 # Sultan Abdallah ibn Abdallah of Badajoz
+	}
+	10909.1.1 = {
+		liege = d_badajoz
+	}
+	10981.1.1 = {
+		holder = 200219 # Emir Sabur of Badajoz
+	}
+	11022.4.8 = {
+		holder = 45007 # Emir al-Mansur I of Badajoz
+	}
+	11045.1.1 = {
+		holder = 3900 # Emir al-Muzaffar of Badajoz
+	}
+	11061.1.1 = {
+		holder = 3902 # Emir al-Mutawakkil of Beja
+	}
+	11067.1.1 = {
+		liege = d_beja
+	}
+	11079.1.1 = {
+		holder = 45009 # al-Abbas ibn Umar
+		liege = d_badajoz
+	}
+	11094.1.1 = {
+		holder = 73205 # Yusuf Yusufid
+		liege = k_maghreb
+	}
+	11116.1.1 = {
+		holder = 73207 # Isma'il Isamilid
+	}
+	11142.1.1 = {
+		holder = 73203 # Siddray Wazirid
+		liege = d_beja
+	}
+	11147.10.25 = {
+		liege = 0
+	}
+	11150.1.1 = {
+		holder = 224011 # Yazid Yazidid
+		liege = k_maghreb
+	}
+	11188.1.1 = {
+		holder = 224021 # Bilal Tremecen
+	}
+	11199.1.1 = {
+		holder = 73609 # Utman Tittawin
+	}
+	11213.1.1 = {
+		holder = 73610 # Abdallah Utmanid
+	}
+	11217.10.18 = {
+		holder = 142547 # Afonso Hermiges de Baiao
+		liege = k_portugal
+	}
+	11220.1.1 = {
+		holder = 142550 # Afonso Lopes de Baiao
+	}
+	11261.1.1 = {
+		holder = 142551 # Fernao Lopes de Baiao
+	}
+	11262.1.1 = {
+		holder = 142552 # Diogo Lopes de Baiao
+	}
+	11263.1.1 = {
+		holder = 142561 # Pero Ponce de Baiao
+	}
+	11272.1.1 = {
+		holder = 142572 # Afonso Rodrigues de Baiao
+	}
+	11286.1.1 = {
+		holder = 142574 # Martim Afonses de Baiao
+	}
+	11306.1.1 = {
+		holder = 142575 # Rodrigo Afonses de Baiao
+	}
+	11307.1.1 = {
+		holder = 142576 # Geraldo Afonses de Baiao
+	}
+	11308.1.1 = {
+		holder = 142584 # Guiomar Martimes de Baiao
+	}
+	11327.1.1 = {
+		holder = 142585 # Aldonca Martimes de Baiao
+	}
+	11328.1.1 = {
+		holder = 142586 # Mor Martimes de Baiao
+	}
+}
+
+
+b_beja = {
+	11238.1.1 = {
+		holder = 142855
+	}
+	11240.1.1 = {
+		holder = 142871
+	}
+	11280.1.1 = {
+		holder = 142880
+	}
+	11310.1.1 = {
+		holder = 142886
+	}
+}
+
+
+c_alcacer_do_sal = {
+	10840.1.1 = {
+		holder = danis0005 # Walih Adanis ibn Awsaga of Beja
+		liege = d_beja
+		government = clan_government
+	}
+	10875.1.1 = {
+		liege = k_andalusia
+	}
+	10883.1.1 = {
+		holder = danis0009 # Mas'ud ibn Adanis
+	}
+	10930.1.1 = {
+		holder = danis0017 # Abdallah ibn Umar
+	}
+	10976.10.1 = {
+		holder = 3204 # Caliph Hisham II of Andalusia
+	}
+	10981.1.1 = {
+		holder = 200219 # Emir Sabur of Badajoz
+		liege = d_badajoz
+	}
+	11022.4.8 = {
+		holder = 200220 # Emir Abd al-Aziz ibn Sabur of Beja
+		liege = d_beja
+	}
+	11030.1.1 = {
+		holder = 200221 # Emir Abd al-Malik ibn Sabur of Beja
+	}
+	11034.1.1 = {
+		holder = 3900 # Emir al-Muzaffar of Badajoz
+		liege = d_badajoz
+	}
+	11061.1.1 = {
+		holder = 3902 # Emir al-Mutawakkil of Beja
+	}
+	11067.1.1 = {
+		liege = d_beja
+	}
+	11079.1.1 = {
+		liege = d_badajoz
+	}
+	11080.1.1 = {
+		holder = 45009 # Abbas Aftasid
+	}
+	11094.1.1 = {
+		holder = 73205 # Yusuf Yusufid
+		liege = k_maghreb
+	}
+	11116.1.1 = {
+		holder = 73207 # Isma'il Isamilid
+	}
+	11142.1.1 = {
+		holder = 73203 # Siddray Wazirid
+		liege = d_beja
+	}
+	11147.10.25 = {
+		liege = 0
+	}
+	11150.1.1 = {
+		holder = 224011 # Yazid Yazidid
+		liege = k_maghreb
+	}
+	11158.1.1 = {
+		holder = 209503 # Captured by Afonso I of Portugal and held by the Portuguese until 1191
+	}
+	11191.1.1 = {
+		holder = 224021 # Bilal Tremecen
+	}
+	11199.1.1 = {
+		holder = 73609 # Utman Tittawin
+	}
+	11213.1.1 = {
+		holder = 73610 # Abdallah Utmanid
+	}
+	11217.10.18 = {
+		holder = 142547 # Afonso Hermiges de Baiao
+		liege = k_portugal
+	}
+	11220.1.1 = {
+		holder = 142550 # Afonso Lopes de Baiao
+	}
+	11261.1.1 = {
+		holder = 142551 # Fernao Lopes de Baiao
+	}
+	11262.1.1 = {
+		holder = 142552 # Diogo Lopes de Baiao
+	}
+	11263.1.1 = {
+		holder = 142561 # Pero Ponce de Baiao
+	}
+	11272.1.1 = {
+		holder = 142572 # Afonso Rodrigues de Baiao
+	}
+	11286.1.1 = {
+		holder = 142574 # Martim Afonses de Baiao
+	}
+	11306.1.1 = {
+		holder = 142575 # Rodrigo Afonses de Baiao
+	}
+	11307.1.1 = {
+		holder = 142576 # Geraldo Afonses de Baiao
+	}
+	11308.1.1 = {
+		holder = 142584 # Guiomar Martimes de Baiao
+	}
+	11327.1.1 = {
+		holder = 142585 # Aldonca Martimes de Baiao
+	}
+	11328.1.1 = {
+		holder = 142586 # Mor Martimes de Baiao
+	}
+}
+
+
+c_elvas = {
+	10852.1.1 = {
+		holder = levantine0078 # Ibrahim ibn Jalid
+		liege = k_andalusia
+		government = clan_government
+	}
+	10875.1.1 = {
+		liege = d_beja
+	}
+	10882.1.1 = {
+		holder = levantine0080 # Ishaq ibn Ibrahim
+	}
+	10909.1.1 = {
+		liege = d_badajoz
+	}
+	10922.1.1 = {
+		holder = levantine0081 # Muhammad ibn Ibrahim
+	}
+	10940.1.1 = {
+		holder = levantine0082 # Ibrahim ibn Muhammad
+	}
+	10961.1.1 = {
+		holder = levantine0083 # Ahmad ibn Muhammad
+	}
+	10983.1.1 = {
+		holder = 200219 # Emir Sabur of Badajoz
+	}
+	11022.4.8 = {
+		holder = 45007 # Emir al-Mansur I of Badajoz
+		liege = d_badajoz
+	}
+	11045.1.1 = {
+		holder = 3900 # Emir al-Muzaffar of Badajoz
+	}
+	11061.1.1 = {
+		holder = 3902 # Emir al-Mutawakkil of Beja
+	}
+	11067.1.1 = {
+		liege = d_beja
+	}
+	11079.1.1 = {
+		holder = 45009 # Sheik al-Abbas ibn Umar of Evora
+		liege = d_badajoz
+	}
+	11080.1.1 = {
+		holder = 45009 # Abbas Aftasid
+	}
+	11094.1.1 = {
+		holder = 73205 # Yusuf Yusufid
+		liege = k_maghreb
+	}
+	11116.1.1 = {
+		holder = 73207 # Isma'il Isamilid
+	}
+	11142.1.1 = {
+		holder = 73203 # Siddray Wazirid
+		liege = d_beja
+	}
+	11147.10.25 = {
+		liege = 0
+	}
+	11150.1.1 = {
+		holder = 224011 # Yazid Yazidid
+		liege = k_maghreb
+	}
+	11188.1.1 = {
+		holder = 224021 # Bilal Tremecen
+	}
+	11199.1.1 = {
+		holder = 73609 # Utman Tittawin
+	}
+	11213.1.1 = {
+		holder = 73610 # Abdallah Utmanid
+	}
+	11217.10.18 = {
+		holder = 142547 # Afonso Hermiges de Baiao
+		liege = k_portugal
+	}
+	11220.1.1 = {
+		holder = 142550 # Afonso Lopes de Baiao
+	}
+	11261.1.1 = {
+		holder = 142551 # Fernao Lopes de Baiao
+	}
+	11262.1.1 = {
+		holder = 142552 # Diogo Lopes de Baiao
+	}
+	11263.1.1 = {
+		holder = 142561 # Pero Ponçe de Baiao
+	}
+	11272.1.1 = {
+		holder = 142572 # Afonso Rodrigues de Baiao
+	}
+	11286.1.1 = {
+		holder = 142574 # Martim Afonses de Baiao
+	}
+	11306.1.1 = {
+		holder = 142575 # Rodrigo Afonses de Baiao
+	}
+	11307.1.1 = {
+		holder = 142576 # Geraldo Afonses de Baiao
+	}
+	11308.1.1 = {
+		holder = 142584 # Guiomar Martimes de Baiao
+	}
+	11327.1.1 = {
+		holder = 142585 # Aldonca Martimes de Baiao
+	}
+	11328.1.1 = {
+		holder = 142586 # Mor Martimes de Baiao
+	}
+}
+
+
+d_badajoz = {
+	10778.1.1 = {
+		holder = 73680 # Sultan Hisham I of Andalusia
+		liege = k_andalusia
+		government = clan_government
+	}
+	10788.9.29 = {
+		holder = 0
+	}
+	10820.1.1 = {
+		holder = 73956 # Marwan ibn Yunus al-Yiliqi
+	}
+	10827.1.1 = {
+		holder = 0
+	}
+	10867.1.1 = {
+		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz
+	}
+	10868.1.1 = {
+		holder = 0
+	}
+	10875.1.1 = {
+		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz (restored)
+		liege = k_badajoz
+	}
+	10889.1.1 = {
+		holder = andalusian0095 # Sultan Abd al-Rahman ibn Abd al-Rahman of Badajoz
+	}
+	10890.1.1 = {
+		holder = 73959 # Sultan Zaid ibn Abd al-Rahman of Badajoz
+	}
+	10913.1.1 = {
+		holder = andalusian0001 # Sultan Abdallah ibn Abd al-Rahman of Badajoz
+	}
+	10923.1.1 = {
+		holder = andalusian0002 # Sultan Abdallah ibn Abdallah of Badajoz
+	}
+	10930.1.1 = {
+		holder = 0
+	}
+	10981.1.1 = {
+		holder = 200219 # Sabur
+		liege = k_andalusia
+	}
+	11009.3.3 = {
+		liege = 0
+	}
+	11022.4.8 = {
+		holder = 45007 # al-Mansur I
+	}
+	11045.1.1 = {
+		holder = 3900 # al-Muzzaffar
+	}
+	11067.1.1 = {
+		holder = 3901 # al-Mansur II
+	}
+	11079.1.1 = {
+		holder = 3902 # Emir al-Muttawakkil of Beja
+	}
+	11094.1.1 = {
+		holder = 73196 # al-Mansur III
+	}
+	11095.1.1 = {
+		holder = 0
+	}
+	11146.1.1 = {
+		holder = 224008 # Muhammad banu al-Hayyan
+	}
+	11150.1.1 = {
+		holder = 0
+	}
+	11212.7.16 = {
+		de_jure_liege = k_leon
+	}
+}
+
+
+c_badajoz = {
+	10778.1.1 = {
+		holder = 73680 # Sultan Hisham I of Andalusia
+		liege = d_badajoz
+		government = clan_government
+	}
+	#10788.9.29-820: Unknown Walihs of Badajoz
+	10820.1.1 = {
+		holder = 73956 # Walih Marwan ibn Yunus al-Yiliqi of Badajoz
+	}
+	#827-867: Unknown Walihs of badajoz
+	10867.1.1 = {
+		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz
+	}
+	#868-875: Unknown Walihs of Badajoz
+	10875.1.1 = {
+		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz (restored)
+	}
+	10889.1.1 = {
+		holder = andalusian0095 # Sultan Abd al-Rahman ibn Abd al-Rahman of Badajoz
+	}
+	10890.1.1 = {
+		holder = 73959 # Sultan Zaid ibn Abd al-Rahman of Badajoz
+	}
+	10913.1.1 = {
+		holder = andalusian0001 # Sultan Abdallah ibn Abd al-Rahman of Badajoz
+	}
+	10923.1.1 = {
+		holder = andalusian0002 # Sultan Abdallah ibn Abdallah of Badajoz
+	}
+	#930-981: Unknown Walihs of Badajoz
+	10981.1.1 = {
+		holder = 200219 # Emir Sabur of Badajoz
+	}
+	11022.4.8 = {
+		holder = 45007 # Emir al-Mansur I of Badajoz
+	}
+	11045.1.1 = {
+		holder = 3900 # Emir al-Muzzaffar of Badajoz
+	}
+	11067.1.1 = {
+		holder = 3901 # Emir al-Mansur II of Badajoz
+	}
+	11079.1.1 = {
+		holder = 3902 # Emir al-Muttawakkil of Beja
+	}
+	11094.1.1 = {
+		holder = 73205 # Yusuf Yusufid
+		liege = k_maghreb
+	}
+	11116.1.1 = {
+		holder = 73207 # Isma'il Ismailid
+	}
+	11142.1.1 = {
+		holder = 73203 # Siddray Wazirid
+		liege = d_beja
+	}
+	11146.1.1 = {
+		holder = 224008 # Muhammad Hayyid
+		liege = d_badajoz
+	}
+	11150.1.1 = {
+		holder = 224022 # Muhammad Ishaqid
+		liege = k_maghreb
+	}
+	11169.1.1 = {
+		holder = 224010 # Abd al-Aziz Mansurid
+	}
+	11188.1.1 = {
+		holder = 73613 # Abd al-Rahman Sebtaid
+	}
+	11205.1.1 = {
+		holder = 73614 # Rashid Sebtaid
+	}
+	11230.3.19 = {
+		holder = 457650 # Alfonso IX de Borgona
+		liege = k_leon
+	}
+	11230.9.24 = {
+		holder = 457620 # Fernando II de Borgona
+	}
+	11252.5.30 = {
+		holder = 457540 # Alfonso X de Borgona
+	}
+	11284.4.4 = {
+		holder = 457630 # Juan Manuel de Villena
+		liege = d_murcia
+	}
+}
+
+
+c_plasencia = {
+	10778.1.1 = {
+		holder = 73680 # Sultan Hisham I of Andalusia
+		liege = d_badajoz
+		government = clan_government
+	}
+	#10788.9.29-820: Unknown Walihs of Badajoz
+	10820.1.1 = {
+		holder = 73956 # Walih Marwan ibn Yunus al-Yiliqi of Badajoz
+	}
+	#827-867: Unknown Walihs of badajoz
+	10867.1.1 = {
+		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz
+	}
+	#868-875: Unknown Walihs of Badajoz
+	10875.1.1 = {
+		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz (restored)
+	}
+	10889.1.1 = {
+		holder = andalusian0095 # Sultan Abd al-Rahman ibn Abd al-Rahman of Badajoz
+	}
+	10890.1.1 = {
+		holder = 73959 # Sultan Zaid ibn Abd al-Rahman of Badajoz
+	}
+	10913.1.1 = {
+		holder = andalusian0001 # Sultan Abdallah ibn Abd al-Rahman of Badajoz
+	}
+	10923.1.1 = {
+		holder = andalusian0002 # Sultan Abdallah ibn Abdallah of Badajoz
+	}
+	#930-981: Unknown Walihs of Badajoz
+	10981.1.1 = {
+		holder = 200219 # Emir Sabur of Badajoz
+	}
+	11022.4.8 = {
+		holder = 45007 # Emir al-Mansur I of Badajoz
+	}
+	11045.1.1 = {
+		holder = 3900 # Emir al-Muzzaffar of Badajoz
+	}
+	11061.1.1 = {
+		holder = 3901 # Emir al-Mansur II of Badajoz
+	}
+	11079.1.1 = {
+		holder = 3902 # Emir al-Mutawakkil of Beja (restored)
+	}
+	11094.1.1 = {
+		holder = 73205 # Yusuf Yusufid
+		liege = k_maghreb
+	}
+	11116.1.1 = {
+		holder = 73204 # Hakam Hayyid
+	}
+	11142.1.1 = {
+		holder = 207500 # Alfonso VII of Leon
+	}
+	11157.7.21 = {
+		holder = 208500 # Fernando II of Leon
+	}
+	11188.1.1 = {
+		holder = 73613 # Abd al-Rahman Sebtaid
+	}
+	11205.1.1 = {
+		holder = 73614 # Rashid Sebtaid
+	}
+	11225.1.1 = {
+		holder = 73082 # Pedro Ponce de Leon I
+		liege = k_leon
+	}
+	11265.1.1 = {
+		holder = 73083 # Fernando Ponce de Leon
+	}
+	11292.1.1 = {
+		holder = 73087 # Pedro Ponce de Leon II
+	}
+	11311.1.1 = {
+		holder = 73091 # Rodrigo Ponce de Leon
+	}
+}
+
+
+c_caceres = {
+	10778.1.1 = {
+		holder = 73680 # Sultan Hisham I of Andalusia
+		liege = d_badajoz
+		government = clan_government
+	}
+	#10788.9.29-820: Unknown Walihs of Badajoz
+	10820.1.1 = {
+		holder = 73956 # Walih Marwan ibn Yunus al-Yiliqi of Badajoz
+	}
+	#827-867: Unknown Walihs of badajoz
+	10867.1.1 = {
+		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz
+	}
+	#868-875: Unknown Walihs of Badajoz
+	10875.1.1 = {
+		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz (restored)
+	}
+	10889.1.1 = {
+		holder = andalusian0095 # Sultan Abd al-Rahman ibn Abd al-Rahman of Badajoz
+	}
+	10890.1.1 = {
+		holder = 73959 # Sultan Zaid ibn Abd al-Rahman of Badajoz
+	}
+	10913.1.1 = {
+		holder = andalusian0001 # Sultan Abdallah ibn Abd al-Rahman of Badajoz
+	}
+	10923.1.1 = {
+		holder = andalusian0002 # Sultan Abdallah ibn Abdallah of Badajoz
+	}
+	#930-981: Unknown Walihs of Badajoz
+	10981.1.1 = {
+		holder = 200219 # Emir Sabur of Badajoz
+	}
+	11022.4.8 = {
+		holder = 45007 # Emir al-Mansur I of Badajoz
+	}
+	11045.1.1 = {
+		holder = 3900 # Emir al-Muzzaffar of Badajoz
+	}
+	11061.1.1 = {
+		holder = 3901 # Emir al-Mansur II of Badajoz
+	}
+	11079.1.1 = {
+		holder = 3902 # Emir al-Mutawakkil of Beja (restored)
+	}
+	11094.1.1 = {
+		holder = 73196 # Emir al-Mansur III of Badajoz
+	}
+	11095.1.1 = {
+		holder = 73205 # Yusuf Yusufid
+		liege = k_maghreb
+	}
+	11116.1.1 = {
+		holder = 73207 # Isma'il Ismailid
+	}
+	11142.1.1 = {
+		holder = 73203 # Siddray Wazirid
+		liege = d_beja
+	}
+	11146.1.1 = {
+		holder = 224008 # Muhammad Hayyid
+		liege = d_badajoz
+	}
+	11150.1.1 = {
+		holder = 224022 # Muhammad Ishaquid
+		liege = k_maghreb
+	}
+	11169.1.1 = {
+		holder = 224010 # Abd al-Aziz Mansurid
+	}
+	11188.1.1 = {
+		holder = 73613 # Abd al-Rahman Sebtaid
+	}
+	11205.1.1 = {
+		holder = 73614 # Rashid Sebtaid
+	}
+	11229.4.23 = {
+		holder = 457650 # Alfonso X de Borgona
+		liege = k_leon
+	}
+	11230.9.24 = {
+		holder = 457620 # Fernando III de Borgona
+	}
+	11252.5.30 = {
+		holder = 71486 # Luis Fernández de Borgona
+	}
+	11279.4.20 = {
+		holder = 71488 # Luis Luisez de Borgona
+	}
+	11301.1.1 = {
+		holder = 458020 # Fernando Ponce de Leon
+	}
+	11313.1.1 = {
+		holder = 458021 # Pedro Ponce de Leon
+	}
+}
+
+
+c_merida = {
+	10778.1.1 = {
+		holder = 73680 # Sultan Hisham I of Andalusia
+		liege = d_badajoz
+		government = clan_government
+	}
+	#10788.9.29-817: Unknown Walihs of Badajoz
+	10817.1.1 = {
+		holder = 73955 # Yunus al-Yiliqi
+	}
+	10820.1.1 = {
+		holder = 73956 # Walih Marwan ibn Yunus al-Yiliqi of Badajoz
+	}
+	#827-867: Unknown Walihs of badajoz
+	10867.1.1 = {
+		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz
+	}
+	#868-875: Unknown Walihs of Badajoz
+	10875.1.1 = {
+		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz (restored)
+	}
+	10889.1.1 = {
+		holder = andalusian0095 # Sultan Abd al-Rahman ibn Abd al-Rahman of Badajoz
+	}
+	10890.1.1 = {
+		holder = 73959 # Sultan Zaid ibn Abd al-Rahman of Badajoz
+	}
+	10913.1.1 = {
+		holder = andalusian0001 # Sultan Abdallah ibn Abd al-Rahman of Badajoz
+	}
+	10923.1.1 = {
+		holder = andalusian0002 # Sultan Abdallah ibn Abdallah of Badajoz
+	}
+	#930-935: Unknown Walih of Badajoz
+	10935.1.1 = {
+		holder = andalusian0012 # Yahya ibn Muhammad al-Tawil
+	}
+	#936-981: Unknown Walihs of Badajoz
+	10981.1.1 = {
+		holder = 200219 # Emir Sabur of Badajoz
+	}
+	11022.4.8 = {
+		holder = 45007 # Emir al-Mansur I of Badajoz
+	}
+	11045.1.1 = {
+		holder = 3900 # Emir al-Muzzaffar of Badajoz
+	}
+	11067.1.1 = {
+		holder = 3901 # Emir al-Mansur II of Badajoz
+	}
+	11079.1.1 = {
+		holder = 45008 # al-Fadl ibn Umar
+	}
+	11094.1.1 = {
+		holder = 73205 # Yusuf Yusufid
+		liege = k_maghreb
+	}
+	11116.1.1 = {
+		holder = 73207 # Isma'il Ismailid
+	}
+	11142.1.1 = {
+		holder = 73203 # Siddray Wazirid
+		liege = d_beja
+	}
+	11146.1.1 = {
+		holder = 224008 # Muhammad Hayyid
+		liege = d_badajoz
+	}
+	11150.1.1 = {
+		holder = 224022 # Muhammad Ishaquid
+		liege = k_maghreb
+	}
+	11169.1.1 = {
+		holder = 224010 # Abd al-Aziz Mansurid
+	}
+	11173.1.1 = {
+		holder = 71397 # Fernando Rodríguez de Castro 
+		liege = k_leon
+		government = feudal_government
+	}
+	11188.1.1 = {
+		holder = 73613 # Abd al-Rahman Sebtaid
+	}
+	11205.1.1 = {
+		holder = 73614 # Rashid Sebtaid
+	}
+	11229.4.23 = {
+		holder = 457650 # Alfonso X de Borgona
+		liege = k_leon
+	}
+	11230.9.24 = {
+		holder = 457620 # Fernando III de Borgona
+	}
+	11252.5.30 = {
+		holder = 71486 # Luis Fernández de Borgona
+	}
+	11279.4.20 = {
+		holder = 71488 # Luis Luisez de Borgona
+	}
+	11301.1.1 = {
+		holder = 458020 # Fernando Ponce de Leon
+	}
+	11313.1.1 = {
+		holder = 458021 # Pedro Ponce de Leon
+	}
+}
+
+
+c_medellin = {
+	10778.1.1 = {
+		holder = 73680 # Sultan Hisham I of Andalusia
+		liege = d_badajoz
+		government = clan_government
+	}
+	#10788.9.29-820: Unknown Walihs of Badajoz
+	10820.1.1 = {
+		holder = 73956 # Walih Marwan ibn Yunus al-Yiliqi of Badajoz
+	}
+	#827-867: Unknown Walihs of badajoz
+	10867.1.1 = {
+		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz
+	}
+	#868-875: Unknown Walihs of Badajoz
+	10875.1.1 = {
+		holder = 73957 # Sultan Abd al-Rahman ibn Marwan of Badajoz (restored)
+	}
+	10889.1.1 = {
+		holder = andalusian0095 # Sultan Abd al-Rahman ibn Abd al-Rahman of Badajoz
+	}
+	10890.1.1 = {
+		holder = 73959 # Sultan Zaid ibn Abd al-Rahman of Badajoz
+	}
+	10913.1.1 = {
+		holder = andalusian0001 # Sultan Abdallah ibn Abd al-Rahman of Badajoz
+	}
+	10923.1.1 = {
+		holder = andalusian0002 # Sultan Abdallah ibn Abdallah of Badajoz
+	}
+	#930-981: Unknown Walihs of Badajoz
+	10981.1.1 = {
+		holder = 200219 # Emir Sabur of Badajoz
+	}
+	11022.4.8 = {
+		holder = 45007 # Emir al-Mansur I of Badajoz
+	}
+	11045.1.1 = {
+		holder = 3900 # Emir al-Muzzaffar of Badajoz
+	}
+	11067.1.1 = {
+		holder = 3901 # Emir al-Mansur II of Badajoz
+	}
+	11079.1.1 = {
+		holder = 45008 # Sheik al-Fadl ibn Umar of Merida
+	}
+	11094.1.1 = {
+		holder = 73205 # Yusuf Yusufid
+		liege = k_maghreb
+	}
+	11116.1.1 = {
+		holder = 73207 # Isma'il Ismailid
+	}
+	11142.1.1 = {
+		holder = 73203 # Siddray Wazirid
+		liege = d_beja
+	}
+	11146.1.1 = {
+		holder = 224008 # Muhammad Hayyid
+		liege = d_badajoz
+	}
+	11150.1.1 = {
+		holder = 224022 # Muhammad Ishaqid
+		liege = k_maghreb
+	}
+	11169.1.1 = {
+		holder = 224010 # Abd al-Aziz Mansurid
+	}
+	11188.1.1 = {
+		holder = 73613 # Abd al-Rahman Sebtaid
+	}
+	11205.1.1 = {
+		holder = 73614 # Rashid Sebtaid
+	}
+	11230.3.19 = {
+		holder = 457650 # Alfonso IX de Borgona
+		liege = k_leon
+	}
+	11230.9.24 = {
+		holder = 457620 # Fernando II de Borgona
+	}
+	11252.5.30 = {
+		holder = 457540 # Alfonso X de Borgona
+	}
+	11284.4.4 = {
+		holder = 457630 # Juan Manuel de Villena
+		liege = d_murcia
+	}
+}
+
+
+d_algarve = {
+	10827.1.1 = {
+		holder = khali0003 # Bakr ibn Khali
+		liege = k_andalusia
+	}
+	10870.1.1 = {
+		holder = khali0004 # Yahya ibn Bakr
+		liege = 0
+	}
+	10901.2.6 = {
+		holder = khali0009 # Bakr ibn Yahya
+	}
+	10920.1.1 = {
+		holder = 0 # Annexed to Andalusia
+	}
+	11249.1.1 = {
+		de_jure_liege = k_portugal
+	}
+}
+
+
+c_faro = {
+	10827.1.1 = {
+		holder = khali0003 # Walih Bakr ibn Khali of Algarve
+		liege = d_algarve
+		government = clan_government
+	}
+	10870.1.1 = {
+		holder = khali0004 # Emir Yahya ibn Bakr of Algarve
+	}
+	10901.2.6 = {
+		holder = khali0009 # Emir Bakr ibn Yahya of Algarve
+	}
+	10920.1.1 = {
+		holder = 3200 # Caliph Abd al-Rahman III of Andalusia
+		liege = k_andalusia
+	}
+	10961.10.15 = {
+		holder = 3202 # Caliph al-Hakam II of Andalusia
+	}
+	10976.10.1 = {
+		holder = 3204 # Caliph Hisham II of Andalusia
+	}
+	11009.2.15 = {
+		holder = 73671 # Caliph Muhammad II of Andalusia
+	}
+	11009.11.8 = {
+		holder = 73675 # Caliph Suleyman ibn al-Hakam of Andalusia
+	}
+	11010.5.10 = {
+		holder = 73671 # Caliph Muhammad II of Andalusia (restored)
+	}
+	11010.7.23 = {
+		holder = 3204 # Caliph Hisham II of Andalusia (restored)
+	}
+	11013.1.1 = {
+		holder = andalusian0126 # Sa'id ibn Harun
+	}
+	11016.1.1 = {
+		liege = 0
+	}
+	11043.8.9 = {
+		holder = andalusian0127 # Muhammad ibn Sa'id
+	}
+	11052.5.3 = {
+		holder = andalusian0128 # Utman ibn Sa'id, really unknown Harunid ruler
+		liege = d_sevilla
+	}
+	11070.1.1 = {
+		holder = 73215 # Rashid Abbadid
+	}
+	11091.1.1 = {
+		holder = 73223 # Ya'far Yafarid
+		liege = k_maghreb
+	}
+	11117.1.1 = {
+		holder = 73225 # Ibrahim Yafarid
+	}
+	11135.1.1 = {
+		holder = 73208 # Muhammad Ismailid
+	}
+	11149.1.1 = {
+		holder = 224009 # Abd al-Aziz Muttawakilid
+	}
+	11172.1.1 = {
+		holder = 224021 # Bilal Tremecen
+	}
+	11199.1.1 = {
+		holder = 73609 # Utman Tittawin
+	}
+	11213.1.1 = {
+		holder = 73610 # Abdallah Utmanid
+	}
+	11228.1.1 = {
+		holder = 73625 # Muhammad Hudid
+		liege = d_murcia
+	}
+	11238.1.1 = {
+		holder = 73632 # Su'ayb Mahfuzid
+		liege = 0
+	}
+	11249.1.1 = {
+		holder = 143071 # Pero Ourigues de Aboim
+		liege = k_portugal
+	}
+	11250.1.1 = {
+		holder = 142217 # João Peres de Aboim I
+	}
+	11285.3.15 = {
+		holder = 142219 # Pedro Jes de Aboim
+	}
+	11311.1.1 = {
+		holder = 142154 # João Peres de Aboim II
+	}
+	11328.1.1 = {
+		holder = 459531 # Maria Peres de Aboim
+	}
+	11330.1.31 = {
+		holder = 459532 # Pedro de Sousa Arroches
+	}
+}
+
+
+c_silves = {
+	10827.1.1 = {
+		holder = khali0003 # Walih Bakr ibn Khali of Algarve
+		liege = d_algarve
+		government = clan_government
+	}
+	10870.1.1 = {
+		holder = khali0004 # Emir Yahya ibn Bakr of Algarve
+	}
+	10901.2.6 = {
+		holder = khali0009 # Emir Bakr ibn Yahya of Algarve
+	}
+	10920.1.1 = {
+		holder = 3200 # Caliph Abd al-Rahman III of Andalusia
+		liege = k_andalusia
+	}
+	10961.10.15 = {
+		holder = 3202 # Caliph al-Hakam II of Andalusia
+	}
+	10976.10.1 = {
+		holder = 3204 # Caliph Hisham II of Andalusia
+	}
+	11009.2.15 = {
+		holder = 73671 # Caliph Muhammad II of Andalusia
+	}
+	11009.11.8 = {
+		holder = 73675 # Caliph Suleyman ibn al-Hakam of Andalusia
+	}
+	11010.5.10 = {
+		holder = 73671 # Caliph Muhammad II of Andalusia (restored)
+	}
+	11010.7.23 = {
+		holder = 3204 # Caliph Hisham II of Andalusia (restored)
+	}
+	11013.1.1 = {
+		holder = bedouin0204 # Isa I ibn Abu Bakr
+	}
+	11027.1.1 = {
+		liege = 0
+	}
+	11041.8.30 = {
+		holder = bedouin0205 # Muhammad I Amid al-Dawla
+	}
+	11048.10.1 = {
+		holder = bedouin0208 # Isa II al-Muzaffar
+	}
+	11054.1.1 = {
+		holder = bedouin0209 # Muhammad II al-Nasr
+	}
+	11058.6.25 = {
+		holder = bedouin0210 # Isa III al-Muzaffar
+	}
+	11063.1.1 = {
+		holder = 3214 # Emir al-Mu'tamid of Sevilla
+		liege = d_sevilla
+	}
+	11069.2.27 = {
+		holder = 3912 # Muhammad ibn Ammar
+	}
+	11070.1.1 = {
+		holder = 3214 # Emir al-Mu'tamid of Sevilla (restored)
+	}
+	11091.10.1 = {
+		holder = 73223 # Ya'far Yafarid
+		liege = k_maghreb
+	}
+	11117.1.1 = {
+		holder = 73225 # Ibrahim Yafarid
+	}
+	11135.1.1 = {
+		holder = 73208 # Muhammad Ismailid
+	}
+	11149.1.1 = {
+		holder = 224009 # Abd al-Aziz Muttawakilid
+	}
+	11172.1.1 = {
+		holder = 224021 # Bilal Tremecen
+	}
+	11199.1.1 = {
+		holder = 73609 # Utman Tittawin
+	}
+	11213.1.1 = {
+		holder = 73610 # Abdallah Utmanid
+	}
+	11228.1.1 = {
+		holder = 73625 # Muhammad Hudid
+		liege = d_murcia
+	}
+	11238.1.1 = {
+		holder = 73632 # Su'ayb Mahfuzid
+		liege = 0
+	}
+	11249.1.1 = {
+		holder = 143071 # Pero Ourigues de Aboim
+		liege = k_portugal
+	}
+	11250.1.1 = {
+		holder = 142217 # João Peres de Aboim I
+	}
+	11285.3.15 = {
+		holder = 142219 # Pedro Jes de Aboim
+	}
+	11311.1.1 = {
+		holder = 142154 # João Peres de Aboim II
+	}
+	11328.1.1 = {
+		holder = 459531 # Maria Peres de Aboim
+	}
+	11330.1.31 = {
+		holder = 459532 # Pedro de Sousa Arroches
+	}
+}
+
+
+b_lagos = {
+	11242.1.1 = {
+		holder = 142718
+	}
+	11250.1.1 = {
+		holder = 142736
+	}
+	11270.1.1 = {
+		holder = 142741
+	}
+	11310.1.1 = {
+		holder = 142743
+	}
+}

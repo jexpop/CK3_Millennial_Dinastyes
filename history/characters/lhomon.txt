@@ -1,0 +1,2094 @@
+﻿# Bumthang (Bhutan)
+
+247004 = {
+	name="Sindhu"
+	dynasty=105804 #Chakhar
+	religion="shaivism"
+	culture="bengali"
+	10705.1.1={
+		birth=yes
+	}
+	10730.1.1={
+		name="Sendha_Gyalpo"
+	}
+	10746.6.1={
+		religion="vajrayana"
+	}
+	10775.1.1={
+		death=yes
+	}
+}
+
+247005 = {
+	name="Tala_Mebar"
+	dynasty=105804 #Chakhar
+	religion="old_bon"
+	culture="lhomon" #Monpa
+	father=247004
+	10728.1.1={
+		birth=yes
+	}
+	10746.1.1={
+		death=yes
+	}
+}
+
+247006 = {
+	name="Mangala_Jashi_Kyeden" #One of the five tantric consorts of Padmasambhava
+	female=yes
+	dynasty=105804 #Chakhar
+	religion="old_bon"
+	culture="lhomon" #Monpa
+	father=247004
+	10730.1.1={
+		birth=yes
+	}
+	10746.6.1={
+		religion="vajrayana"
+
+	}
+	10810.1.1={
+		death=yes
+	}
+}
+
+247007 = {
+	name="Pemba_Goba"
+	dynasty=105804 #Chakhar
+	religion="old_bon"
+	culture="lhomon" #Monpa
+	father=247005
+	10745.1.1={
+		birth=yes
+	}
+	10746.6.1={
+		religion="vajrayana"
+
+	}
+	10793.1.1={
+		death=yes
+	}
+}
+
+247008 = {
+	name="Thubten_Zonpa"
+	dynasty=105804 #Chakhar
+	religion="vajrayana"
+	culture="lhomon" #Monpa
+	father=247007
+	10770.1.1={
+		birth=yes
+	}
+	10836.1.1={
+		death=yes
+	}
+}
+
+247009 = {
+	name="Nima_Assam"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247008
+	10802.1.1={
+		birth=yes
+	}
+	10864.1.1={
+		death=yes
+	}
+}
+
+247010 = {
+	name="Tenzin_Gyaltso"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247009
+	10831.1.1={
+		birth=yes
+	}
+	10895.1.1={
+		death=yes
+	}
+}
+
+247011 = {
+	name="Lobsang_Tsewang"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247010
+	10859.1.1={
+		birth=yes
+	}
+	10923.1.1={
+		death=yes
+	}
+}
+
+247012 = {
+	name="Yongten_Nam-kha"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247011
+	10888.1.1={
+		birth=yes
+	}
+	10955.1.1={
+		death=yes
+	}
+}
+
+247013 = {
+	name="Sangye_Wangdak"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247012
+	10913.1.1={
+		birth=yes
+	}
+	10973.1.1={
+		death=yes
+	}
+}
+
+247014 = {
+	name="Yeshe_Lhakpa"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247013
+	10936.1.1={
+		birth=yes
+	}
+	10995.1.1={
+		death=yes
+	}
+}
+
+247015 = {
+	name="Dechan_Zapa"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247014
+	10963.1.1={
+		birth=yes
+	}
+	11024.1.1={
+		death=yes
+	}
+}
+
+247016 = {
+	name="Jinpa_Skamar"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247015
+	10996.1.1={
+		birth=yes
+	}
+	11057.1.1={
+		death=yes
+	}
+}
+
+247017 = {
+	name="Zenji_Jigme"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247016
+	11024.1.1={
+		birth=yes
+	}
+	11086.1.1={
+		death=yes
+	}
+}
+
+247018 = {
+	name="Ngawang_Rinchen"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247017
+	11055.1.1={
+		birth=yes
+	}
+	11106.1.1={
+		death=yes
+	}
+}
+
+247019 = {
+	name="Kalsang_Zapa"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247018
+	11077.1.1={
+		birth=yes
+	}
+	11134.1.1={
+		death=yes
+	}
+}
+
+247020 = {
+	name="Wangdue_Thokmay"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247019
+	11099.1.1={
+		birth=yes
+	}
+	11163.1.1={
+		death=yes
+	}
+}
+
+247021 = {
+	name="Seba_Yeshe"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247020
+	11125.1.1={
+		birth=yes
+	}
+	11174.1.1={
+		death=yes
+	}
+}
+
+247022 = {
+	name="Michewa_Torma"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247021
+	11148.1.1={
+		birth=yes
+	}
+	11208.1.1={
+		death=yes
+	}
+}
+
+247023 = {
+	name="Pasang_Daivika"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247022
+	11180.1.1={
+		birth=yes
+	}
+	11246.1.1={
+		death=yes
+	}
+}
+
+247024 = {
+	name="Lhamo_Karma"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247023
+	11209.1.1={
+		birth=yes
+	}
+	11289.1.1={
+		death=yes
+	}
+}
+
+247025 = {
+	name="Khandro_Tashi"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247024
+	11246.1.1={
+		birth=yes
+	}
+	11311.1.1={
+		death=yes
+	}
+}
+
+247026 = {
+	name="Jampo_Akar"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247025
+	11275.1.1={
+		birth=yes
+	}
+	11349.1.1={
+		death=yes
+	}
+}
+
+247027 = {
+	name="Chophel_Ketu"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247026
+	11304.1.1={
+		birth=yes
+	}
+	11361.1.1={
+		death=yes
+	}
+}
+
+247028 = {
+	name="Mida_Sonam"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247027
+	11327.1.1={
+		birth=yes
+	}
+	11377.1.1={
+		death=yes
+	}
+}
+
+247029 = {
+	name="Wangchuk_Kalsang"
+	dynasty=105804 #Chakhar
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=247028
+	11350.1.1={
+		birth=yes
+	}
+	11411.1.1={
+		death=yes
+	}
+}
+
+#Paro
+
+247030 = {
+	name="Tsenang"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	10815.1.1={
+		birth=yes
+	}
+	10881.1.1={
+		death=yes
+	}
+}
+
+247031 = {
+	name="Kundun"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247030
+	10843.1.1={
+		birth=yes
+	}
+	10916.1.1={
+		death=yes
+	}
+}
+
+247032 = {
+	name="Popo"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247031
+	10869.1.1={
+		birth=yes
+	}
+	10933.1.1={
+		death=yes
+	}
+}
+
+247033 = {
+	name="Champo"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247032
+	10891.1.1={
+		birth=yes
+	}
+	10962.1.1={
+		death=yes
+	}
+}
+
+247034 = {
+	name="Dache"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247033
+	10929.1.1={
+		birth=yes
+	}
+	10987.1.1={
+		death=yes
+	}
+}
+
+247035 = {
+	name="Sonam"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247034
+	10956.1.1={
+		birth=yes
+	}
+	11007.1.1={
+		death=yes
+	}
+}
+
+247036 = {
+	name="Jinpa"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247035
+	10990.1.1={
+		birth=yes
+	}
+	11050.1.1={
+		death=yes
+	}
+}
+
+247037 = {
+	name="Zigsa"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247036
+	11016.1.1={
+		birth=yes
+	}
+	11062.1.1={
+		death=yes
+	}
+}
+
+247038 = {
+	name="Rinzen"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247037
+	11037.1.1={
+		birth=yes
+	}
+	11088.1.1={
+		death=yes
+	}
+}
+
+247039 = {
+	name="Norbu"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247038
+	11061.1.1={
+		birth=yes
+	}
+	11110.1.1={
+		death=yes
+	}
+}
+
+247040 = {
+	name="Gyaltsen"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247039
+	11086.1.1={
+		birth=yes
+	}
+	11133.1.1={
+		death=yes
+	}
+}
+
+247041 = {
+	name="Palden"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247040
+	11104.1.1={
+		birth=yes
+	}
+	11168.1.1={
+		death=yes
+	}
+}
+
+247042 = {
+	name="Anil"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247041
+	11128.1.1={
+		birth=yes
+	}
+	11183.1.1={
+		death=yes
+	}
+}
+
+247043 = {
+	name="Dhargey"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247042
+	11155.1.1={
+		birth=yes
+	}
+	11209.1.1={
+		death=yes
+	}
+}
+
+247044 = {
+	name="Goba"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247043
+	11184.1.1={
+		birth=yes
+	}
+	11251.1.1={
+		death=yes
+	}
+}
+
+247045 = {
+	name="Tseten"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247044
+	11205.1.1={
+		birth=yes
+	}
+	11277.1.1={
+		death=yes
+	}
+}
+
+247046 = {
+	name="Lhundup"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247045
+	11249.1.1={
+		birth=yes
+	}
+	11298.1.1={
+		death=yes
+	}
+}
+
+247047 = {
+	name="Jigme"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247046
+	11277.1.1={
+		birth=yes
+	}
+	11328.1.1={
+		death=yes
+	}
+}
+
+247048 = {
+	name="Hariti"
+	female=yes
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247047
+	11295.1.1={
+		birth=yes
+	}
+	11345.1.1={
+		death=yes
+	}
+}
+
+247049 = {
+	name="Kamala"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	mother=247048
+	11317.1.1={
+		birth=yes
+	}
+	11381.1.1={
+		death=yes
+	}
+}
+
+247050 = {
+	name="Skamar"
+	dynasty=2003007 #Paro
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=247049
+	11350.1.1={
+		birth=yes
+	}
+	11410.1.1={
+		death=yes
+	}
+}
+
+#Thekung Adek (Lepcha Kings of Eastern Sikkim)
+
+304080 = {
+	name="Thekung_Adek"
+	dynasty=2003006 #Panu
+	religion="old_bon"
+	culture="lhomon" #Lepcha
+	
+	10640.1.1={
+		birth=yes
+	}
+	10690.1.1={
+		death=yes
+	}
+}
+
+#Fictional descendants of Thekung Adek
+
+304081 = {
+	name="Dronyer"
+	dynasty=2003006 #Panu
+	religion="old_bon"
+	culture="lhomon" #Lepcha
+	father=304080 #Thekung Adek
+	
+	10670.1.1={
+		birth=yes
+	}
+	10736.1.1={
+		death=yes
+	}
+}
+304082 = {
+	name="Minjur"
+	dynasty=2003006 #Panu
+	religion="old_bon"
+	culture="lhomon" #Lepcha
+	father=304081 #Dronyer
+	
+	10690.1.1={
+		birth=yes
+	}
+	10747.1.1={
+		religion="vajrayana"
+	}
+	10763.1.1={
+		death=yes
+	}
+}
+304083 = {
+	name="Zhelngo"
+	dynasty=2003006 #Panu
+	religion="old_bon"
+	culture="lhomon" #Lepcha
+	father=304082 #Minjur
+	
+	10710.1.1={
+		birth=yes
+	}
+	10747.1.1={
+		religion="vajrayana"
+	}
+	10772.1.1={
+		death=yes
+	}
+}
+304084 = {
+	name="Pekar"
+	dynasty=2003006 #Panu
+	religion="old_bon"
+	culture="lhomon" #Lepcha
+	father=304083 #Zhelngo
+	
+	10730.1.1={
+		birth=yes
+	}
+	10747.1.1={
+		religion="vajrayana"
+	}
+	10788.1.1={
+		death=yes
+	}
+}
+304085 = {
+	name="Ngodrup"
+	dynasty=2003006 #Panu
+	religion="vajrayana"
+	culture="lhomon" #Lepcha
+	father=304084 #Pekar
+	
+	10750.1.1={
+		birth=yes
+	}
+	10816.1.1={
+		death=yes
+	}
+}
+304086 = {
+	name="Kuengzang"
+	dynasty=2003006 #Panu
+	religion="vajrayana"
+	culture="lhomon" #Lepcha
+	father=304085 #Ngodrup
+	
+	10775.1.1={
+		birth=yes
+	}
+	10835.1.1={
+		death=yes
+	}
+}
+304087 = {
+	name="Namlungpa"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304086 #Kuengzang
+	
+	10800.1.1={
+		birth=yes
+	}
+	10858.1.1={
+		death=yes
+	}
+}
+304088 = {
+	name="Tshewang"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304087 #Namlungpa
+	
+	10820.1.1={
+		birth=yes
+	}
+	10876.1.1={
+		death=yes
+	}
+}
+304089 = {
+	name="Passang"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304088 #Tshewang
+	
+	10850.1.1={
+		birth=yes
+	}
+	10905.1.1={
+		death=yes
+	}
+}
+304090 = {
+	name="Jangcchub"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304089 #Passang
+	
+	10870.1.1={
+		birth=yes
+	}
+	10925.1.1={
+		death=yes
+	}
+}
+304091 = {
+	name="Gyaltshen"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304090 #Passang
+	
+	10895.1.1={
+		birth=yes
+	}
+	10936.1.1={
+		death=yes
+	}
+}
+304092 = {
+	name="Kuengzang"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304091 #Gyaltshen
+	
+	10915.1.1={
+		birth=yes
+	}
+	10948.1.1={
+		death=yes
+	}
+}
+304093 = {
+	name="Khedrup"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304092 #Kuengzang
+	
+	10940.1.1={
+		birth=yes
+	}
+	10995.1.1={
+		death=yes
+	}
+}
+304094 = {
+	name="Zhidhar"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304093 #Khedrup
+	
+	10960.1.1={
+		birth=yes
+	}
+	11009.1.1={
+		death=yes
+	}
+}
+304095 = {
+	name="Lyonpo"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304094 #Zhidhar
+	
+	10980.1.1={
+		birth=yes
+	}
+	11044.1.1={
+		death=yes
+	}
+}
+304096 = {
+	name="Lhendup"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304095 #Lyonpo
+	
+	11000.1.1={
+		birth=yes
+	}
+	11058.1.1={
+		death=yes
+	}
+}
+304097 = {
+	name="Tamzhing"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304096 #Lhendup
+	
+	11020.1.1={
+		birth=yes
+	}
+	11077.1.1={
+		death=yes
+	}
+}
+304098 = {
+	name="Dronyer"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304097 #Tamzhing
+	
+	11040.1.1={
+		birth=yes
+	}
+	11096.1.1={
+		death=yes
+	}
+}
+304099 = {
+	name="Nob"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304098 #Dronyer
+	
+	11065.1.1={
+		birth=yes
+	}
+	11116.1.1={
+		death=yes
+	}
+}
+304100 = {
+	name="Kinga"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304099 #Nob
+	
+	11090.1.1={
+		birth=yes
+	}
+	11144.1.1={
+		death=yes
+	}
+}
+304101 = {
+	name="Passang"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304100 #Kinga
+	
+	11110.1.1={
+		birth=yes
+	}
+	11168.1.1={
+		death=yes
+	}
+}
+304102 = {
+	name="Lhendup"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304101 #Passang
+	
+	11135.1.1={
+		birth=yes
+	}
+	11196.1.1={
+		death=yes
+	}
+}
+304103 = {
+	name="Ngawang"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304102 #Lhendup
+	
+	11155.1.1={
+		birth=yes
+	}
+	11210.1.1={
+		death=yes
+	}
+}
+304104 = {
+	name="Gongzim"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304103 #Ngawang
+	
+	11180.1.1={
+		birth=yes
+	}
+	11241.1.1={
+		death=yes
+	}
+}
+304105 = {
+	name="Rinchen"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304104 #Gongzim
+	
+	11200.1.1={
+		birth=yes
+	}
+	11263.1.1={
+		death=yes
+	}
+}
+304106 = {
+	name="Phuntsho"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304105 #Rinchen
+	
+	11230.1.1={
+		birth=yes
+	}
+	11281.1.1={
+		death=yes
+	}
+}
+304107 = {
+	name="Dhendup"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304106 #Phuntsho
+	
+	11250.1.1={
+		birth=yes
+	}
+	11299.1.1={
+		death=yes
+	}
+}
+304108 = {
+	name="Ugyen"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304107 #Dhendup
+	
+	11275.1.1={
+		birth=yes
+	}
+	11326.1.1={
+		death=yes
+	}
+}
+304109 = {
+	name="Thekung"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304108 #Ugyen
+	
+	11298.1.1={
+		birth=yes
+	}
+	11353.1.1={
+		death=yes
+	}
+}
+304110 = {
+	name="Jakar"
+	dynasty=2003006 #Panu
+	religion="lamaism"
+	culture="lhomon" #Lepcha
+	father=304109 #Thekung
+	
+	11320.1.1={
+		birth=yes
+	}
+	11375.1.1={
+		death=yes
+	}
+}
+
+#fictional Monyul dynasty
+304111 = {
+	name="Tashiganpa"
+	dynasty=2003008 #Monyul
+	religion="old_bon"
+	culture="lhomon" #Monpa
+	
+	10800.1.1={
+		birth=yes
+	}
+	10856.1.1={
+		death=yes
+	}
+}
+304112 = {
+	name="Wangzob"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304111 #Tashiganpa
+	
+	10825.1.1={
+		birth=yes
+	}
+	10877.1.1={
+		death=yes
+	}
+}
+304113 = {
+	name="C_anglong"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304112 #Wangzob
+	
+	10850.1.1={
+		birth=yes
+	}
+	10905.1.1={
+		death=yes
+	}
+}
+304114 = {
+	name="Nim"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304113 #C'anglong
+	
+	10870.1.1={
+		birth=yes
+	}
+	10922.1.1={
+		death=yes
+	}
+}
+304115 = {
+	name="Tobgay"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304114 #Nim
+	
+	10890.1.1={
+		birth=yes
+	}
+	10946.1.1={
+		death=yes
+	}
+}
+304116 = {
+	name="Domchu"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304115 #Tobgay
+	
+	10920.1.1={
+		birth=yes
+	}
+	10979.1.1={
+		death=yes
+	}
+}
+304117 = {
+	name="Trulku"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304116 #Domchu
+	
+	10950.1.1={
+		birth=yes
+	}
+	11003.1.1={
+		death=yes
+	}
+}
+304118 = {
+	name="Pema"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304117 #Trulku
+	
+	10975.1.1={
+		birth=yes
+	}
+	11028.1.1={
+		death=yes
+	}
+}
+304119 = {
+	name="Dorji"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304118 #Pema
+	
+	11000.1.1={
+		birth=yes
+	}
+	11062.1.1={
+		death=yes
+	}
+}
+304120 = {
+	name="Khandu"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304119 #Dorji
+	
+	11020.1.1={
+		birth=yes
+	}
+	11084.1.1={
+		death=yes
+	}
+}
+304121 = {
+	name="Ngawang"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304120 #Khandu
+	
+	11040.1.1={
+		birth=yes
+	}
+	11098.1.1={
+		death=yes
+	}
+}
+304122 = {
+	name="Tashi"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304121 #Ngawang
+	
+	11060.1.1={
+		birth=yes
+	}
+	11118.1.1={
+		death=yes
+	}
+}
+304123 = {
+	name="Bapu"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304122 #Tashi
+	
+	11080.1.1={
+		birth=yes
+	}
+	11133.1.1={
+		death=yes
+	}
+}
+304124 = {
+	name="Bac_og"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304123 #Tashi
+	
+	11100.1.1={
+		birth=yes
+	}
+	11160.1.1={
+		death=yes
+	}
+}
+304125 = {
+	name="Takpon"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304124 #Bac'og
+	
+	11125.1.1={
+		birth=yes
+	}
+	11177.1.1={
+		death=yes
+	}
+}
+304126 = {
+	name="Leki"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304125 #Takpon
+	
+	11150.1.1={
+		birth=yes
+	}
+	11193.1.1={
+		death=yes
+	}
+}
+304127 = {
+	name="Choenzo"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304126 #Leki
+	
+	11175.1.1={
+		birth=yes
+	}
+	11212.1.1={
+		death=yes
+	}
+}
+304128 = {
+	name="Jangcchub"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304127 #Choenzo
+	
+	11200.1.1={
+		birth=yes
+	}
+	11248.1.1={
+		death=yes
+	}
+}
+304129 = {
+	name="Drugyel"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304128 #Jangcchub
+	
+	11220.1.1={
+		birth=yes
+	}
+	11276.1.1={
+		death=yes
+	}
+}
+304130 = {
+	name="Yeshey"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304129 #Drugyel
+	
+	11245.1.1={
+		birth=yes
+	}
+	11288.1.1={
+		death=yes
+	}
+}
+304131 = {
+	name="Konchhog"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304130 #Yeshey
+	
+	11270.1.1={
+		birth=yes
+	}
+	11318.1.1={
+		death=yes
+	}
+}
+304132 = {
+	name="Norbu"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304131 #Konchhog
+	
+	11290.1.1={
+		birth=yes
+	}
+	11338.1.1={
+		death=yes
+	}
+}
+304133 = {
+	name="Kuengzang"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304132 #Norbu
+	
+	11310.1.1={
+		birth=yes
+	}
+	11361.1.1={
+		death=yes
+	}
+}
+304134 = {
+	name="Wangzom"
+	dynasty=2003008 #Monyul
+	religion="lamaism"
+	culture="lhomon" #Monpa
+	father=304133 #Kuengzang
+	
+	11328.1.1={
+		birth=yes
+	}
+	11382.1.1={
+		death=yes
+	}
+}
+
+#fictional Lhoyul dynasty
+
+304135 = {
+	name="Namlungpa"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	
+	10810.1.1={
+		birth=yes
+	}
+	10867.1.1={
+		death=yes
+	}
+}
+304136 = {
+	name="Aum"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304135 #Namlungpa
+	
+	10830.1.1={
+		birth=yes
+	}
+	10885.1.1={
+		death=yes
+	}
+}
+304137 = {
+	name="Druk"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304136 #Aum
+	
+	10850.1.1={
+		birth=yes
+	}
+	10908.1.1={
+		death=yes
+	}
+}
+304138 = {
+	name="Nidup"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304137 #Druk
+	
+	10875.1.1={
+		birth=yes
+	}
+	10940.1.1={
+		death=yes
+	}
+}
+304139 = {
+	name="KU_njom"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304138 #Nidup
+	
+	10900.1.1={
+		birth=yes
+	}
+	10963.1.1={
+		death=yes
+	}
+}
+304140 = {
+	name="Lam"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304139 #Künjom
+	
+	10925.1.1={
+		birth=yes
+	}
+	10988.1.1={
+		death=yes
+	}
+}
+304141 = {
+	name="Chime"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304140 #Lam
+	
+	10950.1.1={
+		birth=yes
+	}
+	11010.1.1={
+		death=yes
+	}
+}
+304142 = {
+	name="Kuengzang"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304141 #Chime
+	
+	10975.1.1={
+		birth=yes
+	}
+	11047.1.1={
+		death=yes
+	}
+}
+304143 = {
+	name="Khedrup"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304142 #Kuengzang
+	
+	11000.1.1={
+		birth=yes
+	}
+	11066.1.1={
+		death=yes
+	}
+}
+304144 = {
+	name="Sanje"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304143 #Khedrup
+	
+	11025.1.1={
+		birth=yes
+	}
+	11086.1.1={
+		death=yes
+	}
+}
+304145 = {
+	name="Penjore"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304144 #Sanje
+	
+	11050.1.1={
+		birth=yes
+	}
+	11108.1.1={
+		death=yes
+	}
+}
+304146 = {
+	name="Dopola"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304145 #Penjore
+	
+	11075.1.1={
+		birth=yes
+	}
+	11135.1.1={
+		death=yes
+	}
+}
+304147 = {
+	name="Ngodrup"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304146 #Dopola
+	
+	11100.1.1={
+		birth=yes
+	}
+	11166.1.1={
+		death=yes
+	}
+}
+304148 = {
+	name="Jamyang"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304147 #Ngodrup
+	
+	11125.1.1={
+		birth=yes
+	}
+	11179.1.1={
+		death=yes
+	}
+}
+304149 = {
+	name="Rukbo"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304148 #Jamyang
+	
+	11150.1.1={
+		birth=yes
+	}
+	11208.1.1={
+		death=yes
+	}
+}
+304150 = {
+	name="Dronyer"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304149 #Lhundzongpa
+	
+	11175.1.1={
+		birth=yes
+	}
+	11234.1.1={
+		death=yes
+	}
+}
+304151 = {
+	name="Pila"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304150 #Dronyer
+	
+	11200.1.1={
+		birth=yes
+	}
+	11255.1.1={
+		death=yes
+	}
+}
+304152 = {
+	name="Teeyum"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304151 #Pila
+	
+	11225.1.1={
+		birth=yes
+	}
+	11284.1.1={
+		death=yes
+	}
+}
+304153 = {
+	name="Gyab"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304152 #Teeyum
+	
+	11250.1.1={
+		birth=yes
+	}
+	11305.1.1={
+		death=yes
+	}
+}
+304154 = {
+	name="Rabden"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304153 #Gyab
+	
+	11275.1.1={
+		birth=yes
+	}
+	11330.1.1={
+		death=yes
+	}
+}
+304155 = {
+	name="Tshoki"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304154 #Rabden
+	
+	11300.1.1={
+		birth=yes
+	}
+	11352.1.1={
+		death=yes
+	}
+}
+304156 = {
+	name="Talom"
+	dynasty=2003009 #Lhoyul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304155 #Tshoki
+	
+	11325.1.1={
+		birth=yes
+	}
+	11380.1.1={
+		death=yes
+	}
+}
+
+#fictional Dzayul dynasty
+
+304157 = {
+	name="Tsechup"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	
+	10805.1.1={
+		birth=yes
+	}
+	10865.1.1={
+		death=yes
+	}
+}
+304158 = {
+	name="Pelri"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304157 #Tsechup
+	
+	10830.1.1={
+		birth=yes
+	}
+	10885.1.1={
+		death=yes
+	}
+}
+304159 = {
+	name="Chimi"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304158 #Pelri
+	
+	10850.1.1={
+		birth=yes
+	}
+	10906.1.1={
+		death=yes
+	}
+}
+304160 = {
+	name="Thinley"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304159 #Chimi
+	
+	10875.1.1={
+		birth=yes
+	}
+	10929.1.1={
+		death=yes
+	}
+}
+304161 = {
+	name="Sanje"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304160 #Thinley
+	
+	10900.1.1={
+		birth=yes
+	}
+	10957.1.1={
+		death=yes
+	}
+}
+304162 = {
+	name="Bapu"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304161 #Sanje
+	
+	10925.1.1={
+		birth=yes
+	}
+	10975.1.1={
+		death=yes
+	}
+}
+304163 = {
+	name="Jimi"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304162 #Bapu
+	
+	10950.1.1={
+		birth=yes
+	}
+	11006.1.1={
+		death=yes
+	}
+}
+304164 = {
+	name="Abo"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304163 #Jimi
+	
+	10975.1.1={
+		birth=yes
+	}
+	11041.1.1={
+		death=yes
+	}
+}
+304165 = {
+	name="Sedi"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304164 #Abo
+	
+	11000.1.1={
+		birth=yes
+	}
+	11057.1.1={
+		death=yes
+	}
+}
+304166 = {
+	name="Talom"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304165 #Sedi
+	
+	11025.1.1={
+		birth=yes
+	}
+	11080.1.1={
+		death=yes
+	}
+}
+304167 = {
+	name="Ome"
+	dynasty=2003010 #Dzayul
+	religion="sedism"
+	culture="lhomon" #Lhoba
+	father=304165 #Sedi
+	
+	11030.1.1={
+		birth=yes
+	}
+	11077.1.1={
+		death=yes
+	}
+}
+304168 = {
+	name="Rukbo"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304166 #Talom
+	
+	11050.1.1={
+		birth=yes
+	}
+	11110.1.1={
+		death=yes
+	}
+}
+304169 = {
+	name="Lam"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304168 #Rukbo
+	
+	11075.1.1={
+		birth=yes
+	}
+	11130.1.1={
+		death=yes
+	}
+}
+304170 = {
+	name="Chokyi"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304169 #Lam
+	
+	11100.1.1={
+		birth=yes
+	}
+	11155.1.1={
+		death=yes
+	}
+}
+304171 = {
+	name="Zam"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	stewardship = 8
+	father=304170 #Chokyi
+	11125.1.1={
+		birth=yes
+	}
+	11180.1.1={
+		death=yes
+	}
+}
+304172 = {
+	name="Galay"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304171 #Zam
+	
+	11150.1.1={
+		birth=yes
+	}
+	11211.1.1={
+		death=yes
+	}
+}
+304173 = {
+	name="Leki"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304172 #Galay
+	
+	11175.1.1={
+		birth=yes
+	}
+	11228.1.1={
+		death=yes
+	}
+}
+304174 = {
+	name="Dronyer"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304173 #Leki
+	
+	11200.1.1={
+		birth=yes
+	}
+	11255.1.1={
+		death=yes
+	}
+}
+304175 = {
+	name="Khesar"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304174 #Dronyer
+	
+	11225.1.1={
+		birth=yes
+	}
+	11277.1.1={
+		death=yes
+	}
+}
+304176 = {
+	name="Polo"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304175 #Khesar
+	
+	11250.1.1={
+		birth=yes
+	}
+	11304.1.1={
+		death=yes
+	}
+}
+304177 = {
+	name="Melo"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304176 #Polo
+	
+	11275.1.1={
+		birth=yes
+	}
+	11320.1.1={
+		death=yes
+	}
+}
+304178 = {
+	name="Pila"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304177 #Melo
+	
+	11300.1.1={
+		birth=yes
+	}
+	11348.1.1={
+		death=yes
+	}
+}
+304179 = {
+	name="Jigme"
+	dynasty=2003010 #Dzayul
+	religion="donyipoloism"
+	culture="lhomon" #Lhoba
+	father=304178 #Pila
+	
+	11325.1.1={
+		birth=yes
+	}
+	11377.1.1={
+		death=yes
+	}
+}

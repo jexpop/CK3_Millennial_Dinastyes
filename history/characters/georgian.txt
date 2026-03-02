@@ -1,0 +1,3261 @@
+﻿144009 = {
+	name = "Vakhtang"
+	dynasty = 507
+	religion = "orthodox"
+	culture = "georgian"
+	father = 466519
+	11267.1.1 = {
+		birth = "11267.1.1"
+	}
+	11292.1.1 = {
+		death = "11292.1.1"
+	}
+}
+
+144010 = {
+	name = "Davit"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	religion = "orthodox"
+	culture = "georgian"
+	father = 216516
+	11122.1.1 = {
+		birth = "11122.1.1"
+	}
+	11155.1.1 = {
+		death = "11155.1.1"
+	}
+}
+
+144565 = {
+	name = "Aghsartan"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	religion = "orthodox"
+	culture = "georgian"
+	father = 216517
+	11095.1.1 = {
+		birth = "11095.1.1"
+	}
+	11105.1.1 = {
+		death = "11105.1.1"
+	}
+}
+
+
+216510 = {
+	name = "Rusudan"
+	dna = "bookmark_tamar_rusudan_216510"
+	female = yes
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 5
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_stewardship_2
+	father = 216515
+	mother = 216540
+	11162.1.2 = {
+		birth = "11162.1.2"
+	}
+	11185.1.31 = {
+		death = "11185.1.31"
+	}
+}
+
+216515 = {
+	name = "Giorgi"
+	dna = "bookmark_tamar_giorgi_216515"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	health = 1.5 # Make it more likely that Tamar succeeds soon after
+	fertility = 0.2
+	religion = "orthodox"
+	culture = "georgian"
+	trait = diligent
+	trait = zealous
+	trait = ambitious
+	trait = education_learning_2
+	father = 216516
+	11123.1.2 = {
+		birth = "11123.1.2"
+	}
+	11155.1.2 = {
+		add_spouse = 216540
+	}
+	11178.1.1 = {
+		effect = {
+			add_realm_law = high_partition_succession_law
+		}
+	}
+	11184.4.6 = {
+		death = "11184.4.6"
+	}
+}
+
+216516 = {
+	name = "Demetre"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 4
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 8
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_martial_2
+	father = 216517
+	11093.1.2 = {
+		birth = "11093.1.2"
+	}
+	11156.1.1 = {
+		death = "11156.1.1"
+	}
+}
+
+216517 = {
+	name = "Davit"
+	# AKA: Davit 'Aghmashenebeli'
+	dynasty = 507
+	martial = 8
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 10
+	religion = "orthodox"
+	culture = "georgian"
+	trait = cynical
+	trait = diligent
+	trait = education_stewardship_4
+	father = 9954
+	11073.1.2 = {
+		birth = "11073.1.2"
+	}
+	11108.1.1 = {
+		add_spouse = terteroba_1
+	}
+	11125.1.24 = {
+		death = "11125.1.24"
+	}
+}
+
+228068 = {
+	name = "Aghsarthan"
+	dynasty_house = house_kesranid
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "ashari"
+	culture = "persian"
+	trait = education_intrigue_1
+	father = 232753
+	mother = 232750
+	11140.1.1 = {
+		birth = "11140.1.1"
+	}
+	11160.1.1 = {
+		religion = "orthodox"
+		culture = "georgian"
+		dynasty = 101752
+	}
+	11198.1.1 = {
+		death = "11198.1.1"
+	}
+}
+
+228069 = {
+	name = "Otago"
+	dynasty = 101752
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = deceitful
+	trait = humble
+	trait = education_intrigue_1
+	father = 228068
+	11160.1.1 = {
+		birth = "11160.1.1"
+	}
+	11210.1.1 = {
+		death = "11210.1.1"
+	}
+}
+
+232750 = {
+	name = "Tamar"
+	female = yes
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = chaste
+	trait = education_learning_1
+	father = 216517
+	11098.1.2 = {
+		birth = "11098.1.2"
+	}
+	11154.1.2 = {
+		death = "11154.1.2"
+	}
+}
+
+232751 = {
+	name = "Rusudan"
+	female = yes
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "alan"
+	father = 216517
+	11101.1.1 = {
+		birth = "11101.1.1"
+	}
+	11133.1.1 = {
+		death = "11133.1.1"
+	}
+}
+
+232752 = {
+	name = "Rusudan"
+	female = yes
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = chaste
+	trait = calm
+	trait = education_diplomacy_3
+	father = 216516
+	11124.1.2 = {
+		birth = "11124.1.2"
+	}
+	11174.1.2 = {
+		death = "11174.1.2"
+	}
+}
+
+232754 = {
+	name = "Shota"
+	dynasty = 101746
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = humble
+	trait = zealous
+	trait = education_learning_3
+	11165.1.2 = {
+		birth = "11165.1.2"
+	}
+	11215.1.2 = {
+		death = "11215.1.2"
+	}
+}
+
+232755 = {
+	name = "Mikeli"
+	dynasty = 200055
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = celibate
+	trait = cynical
+	trait = arrogant
+	trait = education_learning_4
+	11136.1.2 = {
+		birth = "11136.1.2"
+	}
+	11186.1.2 = {
+		death = "11186.1.2"
+	}
+}
+
+232756 = {
+	name = "Gamrekel"
+	dynasty = 200056
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = wrathful
+	trait = patient
+	trait = brave
+	trait = education_martial_3
+	11133.1.2 = {
+		birth = "11133.1.2"
+	}
+	11183.1.2 = {
+		death = "11183.1.2"
+	}
+}
+
+232757 = {
+	name = "Aton"
+	dynasty = 200057
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = calm
+	trait = just
+	trait = temperate
+	trait = education_stewardship_4
+	11144.1.2 = {
+		birth = "11144.1.2"
+	}
+	11194.1.2 = {
+		death = "11194.1.2"
+	}
+}
+
+232762 = {
+	name = "Kakhaber"
+	dynasty = 101748
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = temperate
+	trait = calm
+	trait = education_stewardship_3
+	father = 93523
+	11130.1.1 = {
+		birth = "11130.1.1"
+	}
+	11184.1.1 = {
+		death = "11184.1.1"
+	}
+}
+
+232763 = {
+	name = "Aton"
+	dynasty = 200058
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = celibate
+	trait = honest
+	trait = education_learning_3
+	11143.1.2 = {
+		birth = "11143.1.2"
+	}
+	11193.1.2 = {
+		death = "11193.1.2"
+	}
+}
+
+232764 = {
+	name = "Vardan"
+	dynasty = 101753
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = deceitful
+	trait = ambitious
+	trait = greedy
+	trait = education_martial_3
+	11154.1.2 = {
+		birth = "11154.1.2"
+	}
+	11204.1.2 = {
+		death = "11204.1.2"
+	}
+}
+
+232765 = {
+	name = "Shergil-Johan"
+	# AKA: Shergil
+	dynasty = 101753
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_stewardship_2
+	father = 232764
+	11176.1.2 = {
+		birth = "11176.1.2"
+	}
+	11226.1.2 = {
+		death = "11226.1.2"
+	}
+}
+
+232766 = {
+	name = "Zakaria"
+	dynasty = 101753
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_martial_2
+	father = 232764
+	11179.1.2 = {
+		birth = "11179.1.2"
+	}
+	11229.1.2 = {
+		death = "11229.1.2"
+	}
+}
+
+232767 = {
+	name = "Sargis"
+	dynasty = 101753
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_learning_2
+	father = 232764
+	11181.1.2 = {
+		birth = "11181.1.2"
+	}
+	11231.1.2 = {
+		death = "11231.1.2"
+	}
+}
+
+232769 = {
+	name = "Qvarqvare"
+	dynasty = 42
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_stewardship_2
+	father = 232768
+	11190.1.1 = {
+		birth = "11190.1.1"
+	}
+	11250.1.1 = {
+		death = "11250.1.1"
+	}
+}
+
+232770 = {
+	name = "Guzan"
+	dynasty = 200059
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = diligent
+	trait = arrogant
+	trait = cynical
+	trait = education_diplomacy_3
+	11153.1.2 = {
+		birth = "11153.1.2"
+	}
+	11203.1.2 = {
+		death = "11203.1.2"
+	}
+}
+
+41334 = {
+	name = "Kata"
+	female = yes
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_intrigue_3
+	father = 9950
+	mother = 9951
+	11027.1.1 = {
+		birth = "11027.1.1"
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+
+41335 = {
+	name = "Zoracertel"
+	female = yes
+	dynasty = 25201
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = chaste
+	trait = education_stewardship_2
+	11030.1.1 = {
+		birth = "11030.1.1"
+	}
+	11087.1.1 = {
+		death = "11087.1.1"
+	}
+}
+
+41515 = {
+	name = "Agsartan"
+	dynasty = 507
+	martial = 7
+	diplomacy = 9
+	intrigue = 1
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = cynical
+	trait = education_diplomacy_2
+	father = 41514
+	mother = 41335
+	11050.1.1 = {
+		birth = "11050.1.1"
+	}
+	11084.1.1 = {
+		death = "11084.1.1"
+	}
+}
+
+41516 = {
+	name = "Kvirike"
+	dynasty = 507
+	martial = 5
+	diplomacy = 7
+	intrigue = 3
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	father = 41515
+	11066.1.1 = {
+		birth = "11066.1.1"
+	}
+	11102.1.1 = {
+		death = "11102.1.1"
+	}
+}
+
+41552 = { # AKA: Mariam, or Maria of Alania
+	name = "Martha"
+	dna = 41552_maria
+	female = yes
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 7
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 8
+	religion = "orthodox"
+	culture = "georgian"
+	trait = ambitious #Involved in the second imperial coup 
+	trait = diligent
+	trait = generous #Noted for her charity
+	trait = curious
+	disallow_random_traits = yes
+	father = 9952
+	mother = 9953
+	11053.1.1 = {
+		birth = "11053.1.1"
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}
+	}
+	11066.1.2 = {
+		effect = {
+			create_betrothal = character:1736 #In real life they were married at this time, but we don't marry underage characters in this game so bethrothal it is
+		}
+	}
+	11069.1.1 = {
+		add_spouse = 1736
+	}
+	11118.1.1 = {
+		death = "11118.1.1"
+	}
+}
+
+41553 = {
+	name = "Gorandukht"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	female = yes
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "orthodox"
+	culture = "georgian"
+	trait = humble
+	trait = education_diplomacy_3
+	father = 9950
+	mother = 9951
+	11020.1.1 = {
+		birth = "11020.1.1"
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+
+41582 = {
+	name = "Gurandukht"
+	dynasty = 101737
+	female = yes
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "orthodox"
+	culture = "georgian"
+	father = 70465
+	10946.1.1 = {
+		birth = "10946.1.1"
+	}
+	11001.1.1 = {
+		death = "11001.1.1"
+	}
+}
+
+461922 = {
+	name = "Sultana"
+	female = yes
+	dynasty = 507
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_intrigue_2
+	father = 466500
+	11320.1.2 = {
+		birth = "11320.1.2"
+	}
+	11370.1.2 = {
+		death = "11370.1.2"
+	}
+}
+
+466500 = {
+	name = "Giorgi"
+	# AKA: Giorgi 'Brtskinvale'
+	dynasty = 507
+	martial = 8
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = deceitful
+	trait = diligent
+	trait = brave
+	trait = education_intrigue_3
+	trait = chaste
+	father = 466501
+	mother = 466502
+	11287.1.2 = {
+		birth = "11287.1.2"
+	}
+	11337.1.2 = {
+		death = "11337.1.2"
+	}
+}
+
+466501 = {
+	name = "Demetre"
+	# AKA: Demetre 'Tavdadebuli'
+	dynasty = 507
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = lustful
+	trait = wrathful
+	trait = zealous
+	trait = education_diplomacy_2
+	trait = hunchbacked
+	trait = education_intrigue_2
+	father = 466514
+	11247.1.2 = {
+		birth = "11247.1.2"
+	}
+	11272.1.2 = {
+		add_spouse = 145080
+	}
+	11280.1.2 = {
+		add_spouse = 466502
+	}
+	11289.3.12 = {
+	 death = "11289.3.12"
+	}
+}
+
+466502 = {
+	 name = "Natela"
+	 female = yes
+	 dynasty = 42
+	 martial = 6
+	 diplomacy = 6
+	 intrigue = 4
+	 stewardship = 5
+	 religion = "orthodox"
+	 culture = "georgian"
+	 trait = greedy
+	 trait = education_learning_2
+	 father = 466750
+	 11262.1.2 = {
+		  birth = "11262.1.2"
+	 }
+	 11315.1.2 = {
+		  death = "11315.1.2"
+	 }
+}
+
+466503 = {
+	name = "Davit"
+	dynasty = 507
+	martial = 4
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 7
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_martial_2
+	father = 466500
+	11330.1.2 = {
+		birth = "11330.1.2"
+	}
+	11380.1.2 = {
+		death = "11380.1.2"
+	}
+}
+
+466510 = {
+	name = "Andronik"
+	dynasty = 507
+	martial = 4
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "orthodox"
+	culture = "georgian"
+	trait = arrogant
+	trait = education_intrigue_2
+	father = 466511
+	mother = 477515
+	11293.1.2 = {
+		birth = "11293.1.2"
+	}
+	11343.1.2 = {
+		death = "11343.1.2"
+	}
+}
+
+466511 = {
+	  name = "Davit"
+	  dynasty = 507
+	  martial = 8
+	  diplomacy = 8
+	  intrigue = 7
+	  stewardship = 5
+	  religion = "orthodox"
+	  culture = "georgian"
+	  trait = lustful
+	  trait = honest
+	  trait = education_diplomacy_2
+	  father = 466501
+	  mother = 145080
+	  11273.1.2 = {
+			birth = "11273.1.2"
+	  }
+	  11290.1.2 = {
+	  add_spouse = 477515
+	  }
+	  11311.1.1 = {
+			death = "11311.1.1"
+	  }
+}
+
+466512 = {
+	name = "Giorgi"
+	# AKA: Giorgi 'Mtsire'
+	dynasty = 507
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = honest
+	trait = education_stewardship_2
+	father = 466511
+	11308.1.2 = {
+		birth = "11308.1.2"
+	}
+	11313.1.1 = {
+		death = "11313.1.1"
+	}
+}
+
+466513 = {
+	name = "Giorgi_Didi"
+	# AKA: Giorgi Didi
+	dynasty = 507
+	martial = 4
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = lazy
+	trait = humble
+	trait = stuttering
+	trait = education_martial_2
+	father = 466510
+	11325.1.2 = {
+		birth = "11325.1.2"
+	}
+	11375.1.2 = {
+		death = "11375.1.2"
+	}
+}
+
+466514 = {
+	name = "Davit"
+	# AKA: Davit Ulu
+	dynasty = 507
+	martial = 7
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = bastard
+	trait = education_martial_2
+	father = 466515
+	11210.1.2 = {
+		birth = "11210.1.2"
+	}
+	11270.1.1 = {
+		death = "11270.1.1"
+	}
+}
+
+466515 = {
+	name = "Giorgi"
+	# AKA: Giorgi Lasha
+	dynasty = 507
+	martial = 9
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = chaste
+	trait = cynical
+	trait = disfigured
+	trait = education_martial_3
+	father = 466516
+	mother = 466517
+	11192.1.2 = {
+		birth = "11192.1.2"
+	}
+	11223.1.1 = {
+		death = "11223.1.1"
+	}
+}
+
+466517 = {
+	name = "Tamar"
+	dna = "bookmark_tamar_466517"
+	female = yes
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 8
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "orthodox"
+	culture = "georgian"
+	trait = diligent
+	trait = calm
+	trait = zealous
+	trait = education_diplomacy_4
+	father = 216515
+	mother = 216540
+	11160.1.1 = {
+		birth = "11160.1.1"
+	}
+	11187.1.1 = {
+		give_nickname = nick_the_great
+	}
+	11212.1.8 = {
+		death = "11212.1.8"
+	}
+}
+
+466518 = {
+	name = "Rusudan"
+	female = yes
+	dynasty = 507
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = cynical
+	trait = education_stewardship_2
+	father = 466516
+	mother = 466517
+	11195.1.1 = {
+		birth = "11195.1.1"
+	}
+	11247.1.1 = {
+		death = "11247.1.1"
+	}
+}
+
+466519 = {
+	name = "Davit"
+	# AKA: Davit Narin
+	dynasty = 507
+	martial = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = diligent
+	trait = honest
+	trait = education_intrigue_2
+	trait = education_stewardship_2
+	father = 34233
+	mother = 466518
+	11225.1.1 = {
+		birth = "11225.1.1"
+	}
+	11293.1.15 = {
+		death = "11293.1.15"
+	}
+}
+
+466520 = {
+	name = "Bagrat"
+	# AKA: Bagrat 'Mtsire'
+	dynasty = 507
+	martial = 8
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_stewardship_2
+	trait = lustful
+	father = 466521
+	11326.1.2 = {
+		birth = "11326.1.2"
+	}
+	11376.1.2 = {
+		death = "11376.1.2"
+	}
+}
+
+466521 = {
+	name = "Mikeli"
+	dynasty = 507
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 7
+	religion = "orthodox"
+	culture = "georgian"
+	trait = ambitious
+	trait = education_martial_2
+	father = 466519
+	11269.1.2 = {
+		birth = "11269.1.2"
+	}
+	11329.1.2 = {
+		death = "11329.1.2"
+	}
+}
+
+466750 = {
+	name = "Beka"
+	dynasty = 42
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = gregarious
+	trait = arrogant
+	trait = education_stewardship_3
+	father = 232769
+	11236.1.1 = {
+		birth = "11236.1.1"
+	}
+	11306.1.1 = {
+		death = "11306.1.1"
+	}
+}
+
+466751 = {
+	name = "Djiadjak"
+	female = yes
+	dynasty = 42
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = lustful
+	father = 466750
+	11283.1.2 = {
+		birth = "11283.1.2"
+	}
+	11321.1.2 = {
+		death = "11321.1.2"
+	}
+}
+
+466752 = {
+	name = "Sargis"
+	dynasty = 42
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = deceitful
+	trait = ambitious
+	trait = education_diplomacy_1
+	father = 466750
+	11280.1.2 = {
+		birth = "11280.1.2"
+	}
+	11334.1.2 = {
+		death = "11334.1.2"
+	}
+}
+
+466753 = {
+	name = "Qvarqvare"
+	dynasty = 42
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = cynical
+	trait = wrathful
+	trait = education_learning_2
+	father = 466752
+	11302.1.2 = {
+		birth = "11302.1.2"
+	}
+	11352.1.2 = {
+		death = "11352.1.2"
+	}
+}
+
+466754 = {
+	name = "Sindukhtar"
+	dynasty = 42
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_stewardship_2
+	father = 466753
+	11329.1.2 = {
+		birth = "11329.1.2"
+	}
+	11379.1.2 = {
+		death = "11379.1.2"
+	}
+}
+
+466755 = {
+	name = "Beka"
+	dynasty = 42
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_martial_2
+	father = 466753
+	11331.1.2 = {
+		birth = "11331.1.2"
+	}
+	11381.1.2 = {
+		death = "11381.1.2"
+	}
+}
+
+466756 = {
+	name = "Gulkan"
+	dynasty = 42
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_learning_2
+	father = 466753
+	11334.1.2 = {
+		birth = "11334.1.2"
+	}
+	11384.1.2 = {
+		death = "11384.1.2"
+	}
+}
+
+466757 = {
+	name = "Liparit"
+	dynasty = 101742
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_intrigue_1
+	11256.1.2 = {
+		birth = "11256.1.2"
+	}
+	11285.1.2 = {
+		add_spouse = 466758
+	}
+	11314.1.2 = {
+		death = "11314.1.2"
+	}
+}
+
+466758 = {
+	name = "Ana"
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_learning_3
+	11264.1.2 = {
+		birth = "11264.1.2"
+	}
+	11321.1.2 = {
+		death = "11321.1.2"
+	}
+}
+
+466759 = {
+	name = "Chesar"
+	dynasty = 101742
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = chaste
+	trait = generous
+	trait = education_martial_2
+	father = 466757
+	mother = 466758
+	11291.1.2 = {
+		birth = "11291.1.2"
+	}
+	11312.1.2 = {
+		add_spouse = 466760
+	}
+	11341.1.2 = {
+		death = "11341.1.2"
+	}
+}
+
+466760 = {
+	name = "Khorishah"
+	# AKA: Khorishah Senikariman
+	female = yes
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = arbitrary
+	trait = education_intrigue_2
+	11296.1.2 = {
+		birth = "11296.1.2"
+	}
+	11346.1.2 = {
+		death = "11346.1.2"
+	}
+}
+
+466761 = {
+	name = "Sargis"
+	dynasty = 101742
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = gluttonous
+	trait = arrogant
+	trait = cynical
+	trait = education_diplomacy_3
+	father = 466759
+	mother = 466760
+	11313.1.2 = {
+		birth = "11313.1.2"
+	}
+	11363.1.2 = {
+		death = "11363.1.2"
+	}
+}
+
+466762 = {
+	name = "Hovhannes"
+	dynasty = 101742
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = celibate
+	trait = temperate
+	trait = education_learning_1
+	father = 466759
+	mother = 466760
+	11317.1.2 = {
+		birth = "11317.1.2"
+	}
+	11367.1.2 = {
+		death = "11367.1.2"
+	}
+}
+
+466763 = {
+	name = "Burtel"
+	dynasty = 101742
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = diligent
+	trait = just
+	trait = education_stewardship_3
+	father = 466757
+	mother = 466758
+	11295.1.2 = {
+		birth = "11295.1.2"
+	}
+	11345.1.2 = {
+		death = "11345.1.2"
+	}
+}
+
+70460 = {
+	name = "Adarnase"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = zealous
+	trait = education_intrigue_2
+	father = 41540
+	
+	10814.1.1 = {
+		birth = "10814.1.1"
+	}
+	10872.1.1 = {
+		death = "10872.1.1"
+	}
+}
+
+70465 = {
+	name = "Levan"
+	dynasty = 101737
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "orthodox"
+	culture = "georgian"
+	trait = zealous
+	trait = lustful
+	trait = education_martial_1
+	father = 70468
+	
+	10910.1.1 = {
+		birth = "10910.1.1"
+	}
+	10969.1.1 = {
+		death = "10969.1.1"
+	}
+}
+
+70466 = {
+	name = "Demetre"
+	dynasty = 101737
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = just
+	trait = craven
+	trait = education_stewardship_2
+	father = 70465
+	
+	10933.1.1 = {
+		birth = "10933.1.1"
+	}
+	10976.1.1 = {
+		death = "10976.1.1"
+	}
+}
+
+70467 = {
+	name = "Teodos"
+	dynasty = 101737
+	martial = 7
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "orthodox"
+	culture = "georgian"
+	trait = deceitful
+	trait = zealous
+	trait = education_martial_2
+	father = 70465
+	
+	10934.1.1 = {
+		birth = "10934.1.1"
+	}
+	10978.1.1 = {
+		death = "10978.1.1"
+	}
+}
+
+70468 = {
+	name = "Giorgi"
+	dynasty = 101737
+	martial = 4
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = humble
+	trait = education_diplomacy_2
+	father = 70469
+	
+	10888.1.1 = {
+		birth = "10888.1.1"
+	}
+	10960.1.1 = {
+		death = "10960.1.1"
+	}
+}
+
+70469 = {
+	name = "Konstantin"
+	dynasty = 101737
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = arrogant
+	trait = ambitious
+	trait = education_martial_3
+	father = 70470
+	
+	10854.1.1 = {
+		birth = "10854.1.1"
+	}
+	10917.1.1 = {
+		death = "10917.1.1"
+	}
+}
+
+70470 = {
+	name = "Bagrat"
+	dynasty = 101737
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "orthodox"
+	culture = "georgian"
+	trait = craven
+	trait = lazy
+	trait = education_intrigue_2
+	father = 70471
+	
+	10830.1.1 = {
+		birth = "10830.1.1"
+	}
+	10899.1.1 = {
+		death = "10899.1.1"
+	}
+}
+
+70471 = {
+	name = "Demetre"
+	dynasty = 101737
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 3
+	religion = "orthodox"
+	culture = "georgian"
+	trait = scholar
+	trait = education_diplomacy_3
+	father = 70472
+	
+	10805.1.1 = {
+		birth = "10805.1.1"
+	}
+	10873.1.1 = {
+		death = "10873.1.1"
+	}
+}
+
+70472 = {
+	name = "Levan"
+	dynasty = 101737
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "iconoclast"
+	culture = "georgian"
+	trait = lustful
+	trait = beauty_good_1
+	trait = education_martial_2
+	father = 160030
+	mother = 145999
+	10750.1.1 = {
+		birth = "10750.1.1"
+	}
+	10786.1.1 = {
+		religion = "orthodox"
+	}
+	10812.1.1 = {
+		death = "10812.1.1"
+	}
+}
+
+70473 = {
+	name = "Teodos"
+	dynasty = 101737
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "iconoclast"
+	culture = "georgian"
+	trait = ambitious
+	trait = arrogant
+	trait = education_intrigue_1
+	father = 70472
+	10768.1.1 = {
+		birth = "10768.1.1"
+	}
+	10786.1.1 = {
+		religion = "orthodox"
+	}
+	10838.1.1 = {
+		death = "10838.1.1"
+	}
+}
+
+70474 = {
+	name = "Ioane"
+	dynasty = 101737
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 6
+	religion = "orthodox"
+	culture = "georgian"
+	trait = arbitrary
+	trait = deceitful
+	trait = education_martial_4
+	father = 70476
+	
+	10832.1.1 = {
+		birth = "10832.1.1"
+	}
+	10882.1.1 = {
+		death = "10882.1.1"
+	}
+}
+
+70475 = {
+	name = "Adarnase"
+	dynasty = 101737
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = arrogant
+	trait = brave
+	trait = education_martial_2
+	father = 70474
+	
+	10857.1.1 = {
+		birth = "10857.1.1"
+	}
+	10888.1.1 = {
+		death = "10888.1.1"
+	}
+}
+
+70476 = {
+	name = "Giorgi"
+	dynasty = 101737
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 3
+	religion = "orthodox"
+	culture = "georgian"
+	trait = intellect_good_1
+	trait = paranoid
+	trait = education_stewardship_2
+	father = 70472
+	
+	10807.1.1 = {
+		birth = "10807.1.1"
+	}
+	10879.1.1 = {
+		death = "10879.1.1"
+	}
+}
+
+85012 = {
+	name = "Ioane"
+	dynasty = 20021
+	martial = 5
+	diplomacy = 6
+	intrigue = 9
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_stewardship_2
+	trait = deceitful
+	trait = arrogant
+	father = 90086
+	11040.1.1 = {
+		birth = "11040.1.1"
+	}
+	11095.1.1 = {
+		death = "11095.1.1"
+	}
+}
+
+90086 = {
+	name = "Liparit"
+	# AKA: Liparit Magistros
+	dynasty = 20021
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "orthodox"
+	culture = "georgian"
+	trait = diligent
+	trait = brave
+	trait = calm
+	trait = education_martial_4
+	10999.1.1 = {
+		birth = "10999.1.1"
+	}
+	11064.1.1 = {
+		death = "11064.1.1"
+	}
+}
+
+90151 = {
+	name = "Niania"
+	female = yes
+	dynasty = 200052
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_learning_2
+	trait = gluttonous
+	trait = wrathful
+	11036.1.2 = {
+		birth = "11036.1.2"
+	}
+	11086.1.2 = {
+		death = "11086.1.2"
+	}
+}
+
+90152 = {
+	name = "Vardan_Marushidze"
+	# AKA: Vardan Marushidze
+	dynasty = 101741
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_intrigue_3
+	trait = lustful
+	trait = wrathful
+	11044.1.2 = {
+		birth = "11044.1.2"
+	}
+	11094.1.2 = {
+		death = "11094.1.2"
+	}
+}
+
+90153 = {
+	name = "Giorgi"
+	dynasty = 200053
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "orthodox"
+	culture = "georgian"
+	trait = cynical
+	trait = calm
+	trait = education_learning_2
+	11053.1.2 = {
+		birth = "11053.1.2"
+	}
+	11103.1.2 = {
+		death = "11103.1.2"
+	}
+}
+
+9950 = {
+	name = "Giorgi"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 7
+	religion = "orthodox"
+	culture = "georgian"
+	trait = just
+	trait = arrogant
+	trait = brave
+	trait = education_martial_3
+	father = 41547
+	10995.1.1 = {
+		birth = "10995.1.1"
+	}
+	11017.1.1 = {
+		add_spouse = 9951
+	}
+	11024.1.1 = {
+		remove_spouse = 9951 # Was divorced in order to marry Alda, daughter of the king of Alania.
+	}
+	11024.1.2 = {
+		add_spouse = 9956
+	}
+	11027.8.16 = {
+		death = "11027.8.16"
+	}
+}
+
+9952 = {
+	name = "Bagrat"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 6
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "orthodox"
+	culture = "georgian"
+	trait = honest
+	trait = just
+	trait = diligent
+	trait = brave
+	trait = education_martial_2
+	father = 9950
+	mother = 9951
+	11018.1.1 = {
+		birth = "11018.1.1"
+	}
+	11032.1.1 = {
+		add_spouse = 41311
+	}
+	11040.1.1 = {
+		add_spouse = 9953
+	}
+	11072.11.24 = {
+		death = "11072.11.24"
+	}
+}
+
+9954 = {
+	name = "Giorgi"
+	# AKA: Giorgi 'Sevatosi'
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 5
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 9
+	religion = "orthodox"
+	culture = "georgian"
+	trait = cynical
+	trait = brave
+	trait = wrathful
+	trait = education_diplomacy_2
+	father = 9952
+	mother = 9953
+	11050.1.1 = {
+		birth = "11050.1.1"
+	}
+	11066.1.1 = {
+		effect = {
+			create_betrothal = character:9955
+		}
+	}
+	11112.1.1 = {
+		death = "11112.1.1"
+	}
+}
+
+9960 = {
+	name = "Gabriel"
+	dynasty = 101698
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "orthodox"
+	culture = "georgian"
+	trait = chaste
+	trait = calm
+	trait = education_learning_4
+	11029.1.1 = {
+		birth = "11029.1.1"
+	}
+	11066.1.1 = {
+		employer = 9952
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+
+71856 = {
+	name = "Tamar"
+	# AKA: Gurcu Hatun
+	dynasty_house = house_seljuk
+	female = yes
+	religion = "orthodox"
+	culture = "georgian"
+	father = 34233
+	mother = 466518
+	11220.1.1 = {
+		birth = "11220.1.1"
+	}
+	11237.1.1 = {
+		name = "Gurcu"
+		# AKA: Gurcu Hatun
+		religion = "ashari"
+		culture = "turkish"
+	}
+	11286.1.1 = {
+		death = "11286.1.1"
+	}
+}
+
+93522 = {
+	name = "Dagato"
+	dynasty = 101748
+	religion = "orthodox"
+	culture = "georgian"
+	father = 232762
+	11155.1.1 = {
+		birth = "11155.1.1"
+	}
+	11213.1.1 = {
+		death = "11213.1.1"
+	}
+}
+
+93523 = {
+	name = "Dagato"
+	dynasty = 101748
+	religion = "orthodox"
+	culture = "georgian"
+	11100.1.1 = {
+		birth = "11100.1.1"
+	}
+	11150.1.1 = {
+		death = "11150.1.1"
+	}
+}
+
+93524 = {
+	name = "Dardan"
+	dynasty = 101748
+	religion = "orthodox"
+	culture = "georgian"
+	father = 93522
+	11190.1.1 = {
+		birth = "11190.1.1"
+	}
+	11243.1.1 = {
+		death = "11243.1.1"
+	}
+}
+
+145078 = {
+	name = "Rusudan"
+	female = yes
+	dynasty = 507
+	religion = "orthodox"
+	culture = "georgian"
+	father = 466514
+	11227.1.2 = {
+		birth = "11227.1.2"
+	}
+	11253.1.2 = {
+		death = "11253.1.2"
+	}
+}
+
+145081 = {
+	name = "Vakhtang"
+	dynasty = 507
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_martial_2
+	father = 466501
+	mother = 145080
+	11276.1.2 = {
+		birth = "11276.1.2"
+	}
+	11308.1.1 = {
+		death = "11308.1.1"
+	}
+}
+
+159207 = {
+	name = "Avag" #
+	dynasty = 101747
+	religion = "orthodox"
+	culture = "georgian"
+	father = 232760
+	11200.1.1 = {
+		birth = "11200.1.1"
+	}
+	11260.1.1 = {
+		death = "11260.1.1"
+	}
+}
+159208 = {
+	name = "T_amt_a" #
+	dynasty = 101747
+	female = yes
+	religion = "orthodox"
+	culture = "georgian"
+	father = 232760
+	11200.1.1 = {
+		birth = "11200.1.1"
+	}
+	11260.1.1 = {
+		death = "11260.1.1"
+	}
+}
+159909 = {
+	name = "Parsman" #
+	dynasty = 23001
+	religion = "urartuism"
+	culture = "georgian"
+	2.1.1 = {
+		birth = "2.1.1"
+	}
+	58.1.1 = {
+		death = "58.1.1"
+	}
+}
+
+159910 = {
+	name = "Mihrdat" #
+	dynasty = 23001
+	religion = "urartuism"
+	culture = "georgian"
+	father = 159909
+	42.1.1 = {
+		birth = "42.1.1"
+	}
+	10106.1.1 = {
+		death = "10106.1.1"
+	}
+}
+
+159911 = {
+	name = "Amazasp" #
+	dynasty = 23001
+	religion = "urartuism"
+	culture = "georgian"
+	father = 159910
+	62.1.1 = {
+		birth = "62.1.1"
+	}
+	10117.1.1 = {
+		death = "10117.1.1"
+	}
+}
+
+159912 = {
+	name = "Parsman" #
+	dynasty = 23001
+	religion = "urartuism"
+	culture = "georgian"
+	father = 159911
+	82.1.1 = {
+		birth = "82.1.1"
+	}
+	10135.1.1 = {
+		death = "10135.1.1"
+		give_nickname = nick_the_good
+	}
+}
+
+159913 = {
+	name = "Hradam" #
+	dynasty = 23001
+	religion = "urartuism"
+	culture = "georgian"
+	father = 159912
+	10102.1.1 = {
+		birth = "10102.1.1"
+	}
+	10138.1.1 = {
+		death = "10138.1.1"
+	}
+}
+159914 = {
+	name = "Parsman" #
+	dynasty = 23001
+	religion = "urartuism"
+	culture = "georgian"
+	father = 159913
+	10130.1.1 = {
+		birth = "10130.1.1"
+	}
+	10185.1.1 = {
+		death = "10185.1.1"
+	}
+}
+159915 = {
+	name = "Amazasp" #
+	dynasty = 23001
+	religion = "urartuism"
+	culture = "georgian"
+	father = 159914
+	10154.1.1 = {
+		birth = "10154.1.1"
+	}
+	10189.1.1 = {
+		death = "10189.1.1"
+	}
+}
+159916 = {
+	name = "Ghadana" #
+	female = yes
+	dynasty = 23001
+	religion = "urartuism"
+	culture = "georgian"
+	father = 159914
+	10155.1.1 = {
+		birth = "10155.1.1"
+	}
+	10220.1.1 = {
+		death = "10220.1.1"
+	}
+}
+159603 = {
+	name = "Khosro" #
+	dynasty_house = house_khosroviani
+	religion = "urartuism"
+	culture = "georgian"
+	father = 159602
+	10235.11.1 = {
+		birth = "10235.11.1"
+	}
+	10301.1.1 = {
+		death = "10301.1.1"
+	}
+}
+159604 = {
+	name = "Mirian" # III of Kartli/Iberia
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159603
+	10265.11.1 = {
+		birth = "10265.11.1"
+	}
+	10285.11.1 = {
+		add_spouse = 159598
+	}
+	10361.1.1 = {
+		death = "10361.1.1"
+	}
+}
+159605 = {
+	name = "Varaz-Bakur" #
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159604
+	mother = 159598
+	10292.1.1 = {
+		birth = "10292.1.1"
+	}
+	10365.1.1 = {
+		death = "10365.1.1"
+	}
+}
+159607 = {
+	name = "Mihrdat" #
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159605
+	10320.1.1 = {
+		birth = "10320.1.1"
+	}
+	10380.1.1 = {
+		death = "10380.1.1"
+	}
+}
+159608 = {
+	name = "Varaz-Bakur" #
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159607
+	10340.1.1 = {
+		birth = "10340.1.1"
+	}
+	10394.1.1 = {
+		death = "10394.1.1"
+	}
+}
+159609 = {
+	name = "Khours" #
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159608
+	10370.1.1 = {
+		birth = "10370.1.1"
+	}
+	10430.1.1 = {
+		death = "10430.1.1"
+	}
+}
+159610 = {
+	name = "Barzabod" #
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159609
+	10390.1.1 = {
+		birth = "10390.1.1"
+	}
+	10410.11.1 = {
+		add_spouse = 159592
+	}
+	10444.1.1 = {
+		death = "10444.1.1"
+	}
+}
+159593 = {
+	name = "Rev" # I of Iberia
+	dynasty = 100685
+	religion = "urartuism"
+	culture = "georgian"
+	father = 159550
+	mother = 159916
+	10170.11.1 = {
+		birth = "10170.11.1"
+	}
+	10216.8.29 = {
+		death = "10216.8.29"
+	}
+}
+159594 = {
+	name = "Vache" # I of Iberia
+	dynasty = 100685
+	religion = "urartuism"
+	culture = "georgian"
+	father = 159593
+	10190.11.1 = {
+		birth = "10190.11.1"
+	}
+	10234.8.29 = {
+		death = "10234.8.29"
+	}
+}
+159595 = {
+	name = "Bakur" # I of Iberia
+	dynasty = 100685
+	religion = "urartuism"
+	culture = "georgian"
+	father = 159594
+	10210.11.1 = {
+		birth = "10210.11.1"
+	}
+	10249.8.29 = {
+		death = "10249.8.29"
+	}
+}
+159596 = {
+	name = "Mihrdat" # II of Iberia
+	dynasty = 100685
+	religion = "urartuism"
+	culture = "georgian"
+	father = 159595
+	10230.11.1 = {
+		birth = "10230.11.1"
+	}
+	10265.8.29 = {
+		death = "10265.8.29"
+	}
+}
+159597 = {
+	name = "Varaz-Bakur" #
+	dynasty = 100685
+	religion = "urartuism"
+	culture = "georgian"
+	father = 159596
+	10250.11.1 = {
+		birth = "10250.11.1"
+	}
+	10284.8.29 = {
+		death = "10284.8.29"
+	}
+}
+159598 = {
+	name = "Abeshura" #
+	female = yes
+	dynasty = 100685
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159597
+	10270.11.1 = {
+		birth = "10270.11.1"
+	}
+	10292.8.29 = {
+		death = "10292.8.29"
+	}
+}
+
+159606 = {
+	name = "Rev" # II
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159604
+	10300.1.1 = {
+		birth = "10300.1.1"
+	}
+	10361.1.1 = {
+		death = "10361.1.1"
+	}
+}
+159758 = {
+	name = "Saurmag" # II
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159606
+	10320.1.1 = {
+		birth = "10320.1.1"
+	}
+	10378.1.1 = {
+		death = "10378.1.1"
+	}
+}
+159759 = {
+	name = "Varaz-Bakur" # II
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159604
+	10305.1.1 = {
+		birth = "10305.1.1"
+	}
+	10365.1.1 = {
+		death = "10365.1.1"
+	}
+}
+159760 = {
+	name = "Mihrdat" # III
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159759
+	10325.1.1 = {
+		birth = "10325.1.1"
+	}
+	10378.1.1 = {
+		death = "10378.1.1"
+	}
+}
+159770 = {
+	name = "Varaz-Bakur" # III
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159759
+	10345.1.1 = {
+		birth = "10345.1.1"
+	}
+	10394.1.1 = {
+		death = "10394.1.1"
+	}
+}
+159761 = {
+	name = "Trdati" # II
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159606
+	10325.1.1 = {
+		birth = "10325.1.1"
+	}
+	10406.1.1 = {
+		death = "10406.1.1"
+	}
+}
+159762 = {
+	name = "Parsman" # IV
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159759
+	10335.1.1 = {
+		birth = "10335.1.1"
+	}
+	10409.1.1 = {
+		death = "10409.1.1"
+	}
+}
+159763 = {
+	name = "Mihrdat" # IV
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159759
+	10340.1.1 = {
+		birth = "10340.1.1"
+	}
+	10411.1.1 = {
+		death = "10411.1.1"
+	}
+}
+159764 = {
+	name = "Archili" # I
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159763
+	10370.1.1 = {
+		birth = "10370.1.1"
+	}
+	10435.1.1 = {
+		death = "10435.1.1"
+	}
+}
+159765 = {
+	name = "Mihrdat" # V
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159764
+	10390.1.1 = {
+		birth = "10390.1.1"
+	}
+	10447.1.1 = {
+		death = "10447.1.1"
+	}
+}
+159766 = {
+	name = "Vakhtang" # I Gorgasali
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159765
+	10439.1.1 = {
+		birth = "10439.1.1"
+	}
+	10522.1.1 = {
+		death = "10522.1.1"
+	}
+}
+159767 = {
+	name = "Darchili" # I
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159766
+	10460.1.1 = {
+		birth = "10460.1.1"
+	}
+	10534.1.1 = {
+		death = "10534.1.1"
+	}
+}
+159768 = {
+	name = "Bakur" # II
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159767
+	10500.1.1 = {
+		birth = "10500.1.1"
+	}
+	10547.1.1 = {
+		death = "10547.1.1"
+	}
+}
+159769 = {
+	name = "Parsman" # V
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159768
+	10530.1.1 = {
+		birth = "10530.1.1"
+	}
+	10561.1.1 = {
+		death = "10561.1.1"
+	}
+}
+159771 = {
+	name = "Darchili" #name unknown
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159767
+	10505.1.1 = {
+		birth = "10505.1.1"
+	}
+	10540.1.1 = {
+		death = "10540.1.1"
+	}
+}
+159772 = {
+	name = "Parsman" # VI
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159771
+	10525.1.1 = {
+		birth = "10525.1.1"
+	}
+	10570.1.1 = {
+		death = "10570.1.1"
+	}
+}
+159773 = {
+	name = "Bakur" # III
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159772
+	10555.1.1 = {
+		birth = "10555.1.1"
+	}
+	10590.1.1 = {
+		death = "10590.1.1"
+	}
+}
+159774 = {
+	name = "Parsmandukht"
+	female = yes
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159772
+	10565.1.1 = {
+		birth = "10565.1.1"
+	}
+	10580.1.1 = {
+		add_spouse = 159919
+	}
+	10650.1.1 = {
+		death = "10650.1.1"
+	}
+}
+
+159775 = {
+	name = "Levan" #
+	dynasty_house = house_khosroviani
+	religion = "armenian_apostolic"
+	culture = "georgian"
+	father = 159766
+	10470.1.1 = {
+		birth = "10470.1.1"
+	}
+	10535.1.1 = {
+		death = "10535.1.1"
+	}
+}
+159776 = {
+	name = "Guaram" #
+	dynasty = 1029127
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159775
+	10510.1.1 = {
+		birth = "10510.1.1"
+	}
+	10590.1.1 = {
+		death = "10590.1.1"
+	}
+}
+159777 = {
+	name = "Stepanoz" #
+	dynasty = 1029127
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159776
+	10540.1.1 = {
+		birth = "10540.1.1"
+	}
+	10627.1.1 = {
+		death = "10627.1.1"
+	}
+}
+
+159778 = {
+	name = "Adarnase" # I
+	dynasty_house = house_khosroviani
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159773
+	10580.1.1 = {
+		birth = "10580.1.1"
+	}
+	10642.1.1 = {
+		death = "10642.1.1"
+	}
+}
+159779 = {
+	name = "Stepanoz" # II
+	dynasty_house = house_khosroviani
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159778
+	10600.1.1 = {
+		birth = "10600.1.1"
+	}
+	10650.1.1 = {
+		death = "10650.1.1"
+	}
+}
+159780 = {
+	name = "Adarnase" # II
+	dynasty_house = house_khosroviani
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159778
+	10620.1.1 = {
+		birth = "10620.1.1"
+	}
+	10684.1.1 = {
+		death = "10684.1.1"
+	}
+}
+
+159781 = {
+	name = "Demetre" #
+	dynasty = 1029127
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159776
+	10545.1.1 = {
+		birth = "10545.1.1"
+	}
+	10630.1.1 = {
+		death = "10630.1.1"
+	}
+}
+159782 = {
+	name = "Levan" # name unknown
+	dynasty = 1029127
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159777
+	10570.1.1 = {
+		birth = "10570.1.1"
+	}
+	10650.1.1 = {
+		death = "10650.1.1"
+	}
+}
+159783 = {
+	name = "Guaram" # II
+	dynasty = 1029127
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159782
+	10600.1.1 = {
+		birth = "10600.1.1"
+	}
+	10693.1.1 = {
+		death = "10693.1.1"
+	}
+}
+159784 = {
+	name = "Stepanoz" # name unknown
+	dynasty = 1029127
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159783
+	10630.1.1 = {
+		birth = "10630.1.1"
+	}
+	10690.1.1 = {
+		death = "10690.1.1"
+	}
+}
+159785 = {
+	name = "Guaram" # III
+	dynasty = 1029127
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159784
+	10680.1.1 = {
+		birth = "10680.1.1"
+	}
+	10700.1.1 = {
+		add_spouse = 159789
+	}
+	10748.1.1 = {
+		death = "10748.1.1"
+	}
+}
+159786 = {
+	name = "Stepanoz" # III
+	dynasty = 1029127
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159785
+	mother = 159789
+	10710.1.1 = {
+		birth = "10710.1.1"
+	}
+	10786.1.1 = {
+		death = "10786.1.1"
+	}
+}
+159787 = {
+	name = "Adarnase" # III
+	dynasty = 1029128
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159780
+	10660.1.1 = {
+		birth = "10660.1.1"
+	}
+	10760.1.1 = {
+		death = "10760.1.1"
+	}
+}
+159788 = {
+	name = "Nerse" # I
+	dynasty = 1029128
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159787
+	10700.1.1 = {
+		birth = "10700.1.1"
+	}
+	10780.1.1 = {
+		death = "10780.1.1"
+	}
+}
+159789 = {
+	name = "Tamari" # unknown
+	female = yes
+	dynasty = 1029128
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159787
+	10680.1.1 = {
+		birth = "10680.1.1"
+	}
+	10760.1.1 = {
+		death = "10760.1.1"
+	}
+}
+159790 = {
+	name = "Tamari" # unknown
+	female = yes
+	dynasty = 1029127
+	religion = "orthodox"
+	culture = "georgian"
+	father = 159785
+	mother = 159789
+	10740.1.1 = {
+		birth = "10740.1.1"
+	}
+	10765.1.1 = {
+		add_spouse = 41539
+	}
+	10786.1.1 = {
+		death = "10786.1.1"
+	}
+}
+
+160021 = {
+	name = "Anos"
+	dynasty = 101737
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	10460.1.1 = {
+		birth = "10460.1.1"
+	}
+	10530.1.1 = {
+		death = "10530.1.1"
+	}
+}
+160022 = {
+	name = "Ghozar"
+	dynasty = 101737
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	father = 160021
+	10490.1.1 = {
+		birth = "10490.1.1"
+	}
+	10550.1.1 = {
+		death = "10550.1.1"
+	}
+}
+160023 = {
+	name = "Istvine"
+	dynasty = 101737
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	father = 160022
+	10510.1.1 = {
+		birth = "10510.1.1"
+	}
+	10580.1.1 = {
+		death = "10580.1.1"
+	}
+}
+160024 = {
+	name = "Phiniktios"
+	dynasty = 101737
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	father = 160023
+	10540.1.1 = {
+		birth = "10540.1.1"
+	}
+	10610.1.1 = {
+		death = "10610.1.1"
+	}
+}
+160025 = {
+	name = "Barnuk"
+	dynasty = 101737
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	father = 160024
+	10570.1.1 = {
+		birth = "10570.1.1"
+	}
+	10640.1.1 = {
+		death = "10640.1.1"
+	}
+}
+160026 = {
+	name = "Demetre"
+	dynasty = 101737
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	father = 160025
+	10600.1.1 = {
+		birth = "10600.1.1"
+	}
+	10660.1.1 = {
+		death = "10660.1.1"
+	}
+}
+160027 = {
+	name = "Teodos"
+	dynasty = 101737
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	father = 160026
+	10630.1.1 = {
+		birth = "10630.1.1"
+	}
+	10680.1.1 = {
+		death = "10680.1.1"
+	}
+}
+160028 = {
+	name = "Konstanti"
+	dynasty = 101737
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	father = 160027
+	10660.1.1 = {
+		birth = "10660.1.1"
+	}
+	10710.1.1 = {
+		death = "10710.1.1"
+	}
+}
+160029 = {
+	name = "Teodor"
+	dynasty = 101737
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	father = 160028
+	10680.1.1 = {
+		birth = "10680.1.1"
+	}
+	10730.1.1 = {
+		death = "10730.1.1"
+	}
+}
+
+160030 = {
+	name = "Konstanti"
+	dynasty = 101737
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	father = 160029
+	10697.1.1 = {
+		birth = "10697.1.1"
+	}
+	10730.1.1 = {
+		religion = "iconoclast"
+	}
+	10745.1.1 = {
+		death = "10745.1.1"
+	}
+}
+
+160031 = {
+	name = "Levan"
+	dynasty = 101737
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	father = 160030
+	10715.1.1 = {
+		birth = "10715.1.1"
+	}
+	10730.1.1 = {
+		religion = "iconoclast"
+	}
+	10749.1.1 = {
+		add_spouse = 145999
+	}
+	10767.1.1 = {
+		death = "10767.1.1"
+	}
+}
+
+160032 = {
+	name = "Guaram" #Mampali
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "orthodox"
+	culture = "georgian"
+	trait = just
+	trait = brave
+	trait = education_martial_4
+	father = 70460
+	
+	10830.1.1 = {
+		birth = "10830.1.1"
+	}
+	10882.1.1 = {
+		death = "10882.1.1"
+	}
+}
+160033 = {
+	name = "Nasra"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "orthodox"
+	culture = "georgian"
+	trait = ambitious
+	trait = greedy
+	trait = education_intrigue_1
+	father = 160032
+	
+	10850.1.1 = {
+		birth = "10850.1.1"
+	}
+	10882.1.1 = {
+		death = "10882.1.1"
+	}
+}
+160034 = {
+	name = "Adarnase"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 6
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_martial_1
+	father = 70461
+	
+	10852.1.1 = {
+		birth = "10852.1.1"
+	}
+	10896.1.1 = {
+		death = "10896.1.1"
+	}
+}
+160035 = {
+	name = "Ashot"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_martial_2
+	father = 70461
+	
+	10855.1.1 = {
+		birth = "10855.1.1"
+	}
+	10918.1.1 = {
+		death = "10918.1.1"
+	}
+}
+
+70461 = {
+	name = "Gurgen"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 6
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "orthodox"
+	culture = "georgian"
+	trait = arbitrary
+	trait = brave
+	trait = education_martial_2
+	father = 70460
+	
+	10836.1.1 = {
+		birth = "10836.1.1"
+	}
+	10891.1.1 = {
+		death = "10891.1.1"
+	}
+}
+
+41542 = {
+	name = "Davit"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 6
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = humble
+	trait = just
+	trait = rowdy
+	disallow_random_traits = yes
+	father = 41541
+	mother = 41528
+	10854.1.1 = {
+		birth = "10854.1.1"
+	}
+	10875.1.1 = {
+		add_spouse = 41561
+	}
+	10881.1.1 = {
+		death = "10881.1.1"
+	}
+}
+
+41543 = {
+	name = "Adanarse"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "orthodox"
+	culture = "georgian"
+	trait = arrogant
+	trait = wrathful
+	trait = lazy
+	trait = education_intrigue_2
+	father = 41542
+	mother = 41561
+	10877.1.1 = {
+		birth = "10877.1.1"
+	}
+	10923.1.1 = {
+		death = "10923.1.1"
+	}
+}
+
+41544 = {
+	name = "Sumbat"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_martial_2
+	father = 41543
+	10902.1.1 = {
+		birth = "10902.1.1"
+	}
+	10958.1.1 = {
+		death = "10958.1.1"
+	}
+}
+
+41545 = {
+	name = "Bagrat"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "orthodox"
+	culture = "georgian"
+	trait = education_stewardship_3
+	father = 41544
+	10931.1.1 = {
+		birth = "10931.1.1"
+	}
+	10994.1.1 = {
+		death = "10994.1.1"
+	}
+}
+
+41546 = {
+	name = "Gurgen"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 8
+	religion = "orthodox"
+	culture = "georgian"
+	trait = brave
+	trait = gluttonous
+	trait = education_martial_2
+	father = 41545
+	10947.1.1 = {
+		birth = "10947.1.1"
+	}
+	10960.1.1 = {
+		add_spouse = 41582
+	}
+	11008.1.1 = {
+		death = "11008.1.1"
+	}
+}
+
+41547 = {
+	name = "Bagrat"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "orthodox"
+	culture = "georgian"
+	trait = calm
+	trait = just
+	trait = diligent
+	trait = greedy
+	trait = education_diplomacy_4
+	trait = kinslayer_3
+	father = 41546
+	mother = 41582
+	10961.1.1 = {
+		birth = "10961.1.1"
+	}
+	11014.5.7 = {
+		death = "11014.5.7"
+	}
+}
+
+161200 = {
+	name = "Davit" #Davit II
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	religion = "orthodox"
+	culture = "georgian"
+	father = 41543
+	10897.1.1 = {
+		birth = "10897.1.1"
+	}
+	10937.1.1 = {
+		death = "10937.1.1"
+	}
+}
+
+161201 = {
+	name = "Bagrat"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	religion = "orthodox"
+	culture = "georgian"
+	father = 41543
+	10900.1.1 = {
+		birth = "10900.1.1"
+	}
+	10945.1.1 = {
+		death = "10945.1.1"
+	}
+}
+
+161202 = {
+	name = "Adanarse"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	religion = "orthodox"
+	culture = "georgian"
+	father = 161201
+	10920.1.1 = {
+		birth = "10920.1.1"
+	}
+	10961.1.1 = {
+		death = "10961.1.1"
+	}
+}
+
+161203 = {
+	name = "Davit" #Davit III
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	religion = "orthodox"
+	culture = "georgian"
+	father = 161202
+	10940.1.1 = {
+		birth = "10940.1.1"
+	}
+	10986.1.1 = {
+		give_nickname = nick_the_great
+	}	
+	11000.1.1 = {
+		death = "11000.1.1"
+	}
+}
+
+41541 = {
+	name = "Bagrat"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	martial = 7
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 7
+	religion = "orthodox"
+	culture = "georgian"
+	trait = honest
+	trait = lazy
+	trait = education_intrigue_2
+	father = 41540
+	10815.1.1 = {
+		birth = "10815.1.1"
+	}
+	10850.1.1 = {
+		add_spouse = 41528
+	}
+	10876.1.1 = {
+		death = "10876.1.1"
+	}
+}
+
+extra_georgians_1 = { #unnamed in the sources, but known to have married Alp Arslan
+	name = "Chiora"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	religion = "orthodox"
+	culture = "georgian"
+	female = yes 
+	mother = 41553
+	father = extra_armenians_1
+	11045.1.1 = {
+		birth = yes
+	}
+	11090.1.1 = {
+		death = yes
+	}
+}
+
+surameli_1 = {
+	name = "Rati"
+	dynasty = georgian_surameli
+	religion = "orthodox"
+	culture = "georgian"
+	11142.1.1 = {
+		birth = yes
+	}
+	11198.1.1 = {
+		death = yes
+	}
+}
+
+grigolisdze_1 = {
+	name = "Asat"
+	dynasty = georgian_grigolisdze
+	religion = "orthodox"
+	culture = "georgian"
+	11147.1.1 = {
+		birth = yes
+	}
+	11193.1.1 = {
+		death = yes
+	}
+}
+
+bagratuni_1 = {
+	name = "Vakhtang"
+	dynasty_house = house_bagrationi # Georgian Bagrationi cadets
+	religion = orthodox
+	culture = georgian
+	trait = education_intrigue_1
+	father = 216517
+	mother = terteroba_1
+	11118.1.1 = {
+		birth = yes
+	}
+	11138.1.1 = {
+		death = yes
+	}
+}

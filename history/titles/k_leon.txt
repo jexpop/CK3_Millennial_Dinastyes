@@ -1,0 +1,947 @@
+k_leon = {
+	10867.1.1 = { change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+ 
+	10910.12.19 = {
+		insert_title_history = k_asturias
+		de_jure_liege = e_spain
+	}
+	10910.12.20 = {
+		holder = 70020 # García I Alfónsez
+	}
+	10914.1.19 = {
+		holder = 70021 # Ordoño II Alfónsez
+	}
+	10924.6.1 = {
+		holder = 70030 # Fruela II Alfónsez
+	}
+	10925.8.1 = {
+		holder = 70023 # Alfonso IV Ordóñez
+	}
+	10931.6.1 = {
+		holder = 70024 # Ramiro II Ordóñez
+	}
+	10951.1.15 = {
+		holder = 108600 # Ordoño III Ramírez
+	}
+	10956.10.13 = {
+		holder = 70026 # Sancho I Ramírez
+	}
+	10958.1.1 = {
+		holder = 70029 # Ordoño IV Alfónsez
+	}
+	10960.1.1 = {
+		holder = 70026 # Sancho I Ramírez (restored)
+	}
+	10966.11.15 = {
+		holder = 108610 # Ramiro III Sánchez
+	}
+	10984.1.1 = {
+		holder = 108590 # Bermudo II Ramírez
+	}
+	10999.9.1 = {
+		holder = 108570 # Alfonso V Bermúdez
+	}
+	11028.8.7 = {
+		holder = 70075 # Bermudo III Alfónsez
+	}
+	11037.9.4 = {
+		holder = 107510 # Fernando I Sánchez
+	}
+	11065.12.27 = {
+		holder = 108500 # Alfonso VI Fernández
+	}
+	11072.1.12 = {
+		holder = 107500 # King Sancho II of Castille
+	}
+	11072.10.7 = {
+		holder = 108500 # Alfonso VI Fernández
+	}
+	11109.7.1 = {
+		holder = 207660 # Urraca Alfónsez Jimena
+	}
+	11126.3.8 = {
+		holder = 207500 # Alfonso VII de Borgoña
+	}
+	11157.8.21 = {
+		holder = 208500 # Fernando II de Borgoña
+	}
+	11188.1.22 = {
+		holder = 457650 # Alfonso IX de Borgoña
+	}
+	11230.9.24 = {
+		holder = 457620 # Fernando III de Borgoña
+	}
+	11252.5.30 = {
+		holder = 457540 # Alfonso X de Borgoña
+	}
+	11284.4.4 = {
+		holder = 457530 # Sancho IV de Borgoña
+	}
+	11295.4.25 = {
+		holder = 457520 # Fernando IV de Borgoña
+	}
+	11312.9.7 = {
+		holder = 457500 # Alfonso XI de Borgoña
+	}
+}
+
+d_leon = {
+	10711.1.1 = {
+		de_jure_liege = k_asturias
+	}
+	10900.1.1 = {
+		holder = 70020 # King García I of León
+		liege = k_asturias
+	}
+	10910.12.20 = {
+		de_jure_liege = k_leon
+		holder = 0
+	}
+}
+
+c_leon = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 34 }
+ 
+	10754.1.1 = {
+		holder = 70003 # King Alfonso I of Asturias
+		liege = k_asturias
+	}
+	10757.1.1 = {
+		holder = 70004 # King Fruela I of Asturias
+	}
+	10768.1.1 = {
+		holder = 70012 # King Aurelio of Asturias
+	}
+	10773.1.1 = {
+		holder = 70118 # King Silo of Asturias
+	}
+	10783.1.1 = {
+		holder = 70006 # King Alfonso II of Asturias
+	}
+	10783.2.1 = {
+		holder = 70116 # King Mauregato of Asturias
+	}
+	10788.1.1 = {
+		holder = 70013 # King Bermudo I of Asturias
+	}
+	10791.1.1 = {
+		holder = 70006 # King Alfonso II of Asturias (restored)
+	}
+	10842.3.20 = {
+		holder = basque0007 # King Nepociano of Asturias
+	}
+	10843.1.1 = {
+		holder = 70015 # King Ramiro I of Asturias
+	}
+	10850.2.1 = {
+		holder = 70017 # King Ordoño I of Asturias
+	}
+	10866.5.27 = {
+		holder = 70019 # King Alfonso III of Asturias
+	}
+	10900.1.1 = {
+		holder = 70020 # King García I of León
+		liege = d_leon
+	}
+	10910.12.20 = {
+		liege = k_leon
+	}
+	10914.1.19 = {
+		holder = 70021 # King Ordoño II of León
+	}
+	10924.6.1 = {
+		holder = 70030 # King Fruela II of León
+	}
+	10925.8.1 = {
+		holder = 70064 # Duke Alfonso Froilaz of Asturias
+	}
+	10926.1.1 = {
+		holder = 70023 # King Alfonso IV of León
+	}
+	10931.6.1 = {
+		holder = 70024 # King Ramiro II of León
+	}
+	10951.1.5 = {
+		holder = 108600 # King Ordoño III of León
+	}
+	10956.10.13 = {
+		holder = 70026 # King Sancho I of León
+	}
+	10958.1.1 = {
+		holder = 70029 # King Ordoño IV of León
+	}
+	10960.1.1 = {
+		holder = 70026 # King Sancho I of León (restored)
+	}
+	10966.11.15 = {
+		holder = 108610 # King Ramiro III of León
+	}
+	10984.1.1 = {
+		holder = 108590 # King Bermudo II of León
+	}
+	10999.9.1 = {
+		holder = 108570 # King Alfonso V of León
+	}
+	11028.8.7 = {
+		holder = 70075 # King Bermudo III of León
+	}
+	11032.1.1 = {
+		holder = 106030 # King Sancho III of Navarra
+		liege = k_navarra
+	}
+	11035.10.18 = {
+		holder = 70075 # King Bermudo III of León (restored)
+		liege = k_leon
+	}
+	11037.9.4 = {
+		holder = 107510 # King Fernando I of León
+	}
+	11065.12.27 = {
+		holder = 108500 # King Alfonso VI of León
+	}
+	11072.1.12 = {
+		holder = 107500 # King Sancho II of Castille
+	}
+	11072.10.7 = {
+		holder = 108500 # King Alfonso VI of León (restored)
+	}
+	11109.7.1 = {
+		holder = 207660 # Urraca Jimena
+	}
+	11126.3.8 = {
+		holder = 207500 # Alfonso VII de Borgoña
+	}
+	11157.8.21 = {
+		holder = 208500 # Fernando II de Borgoña
+	}
+	11188.1.1 = {
+		holder = 457650 # Alfonso IX de Borgoña
+	}
+	11230.9.24 = {
+		holder = 457620 # Fernando III de Borgoña
+	}
+	11252.5.30 = {
+		holder = 457540 # Alfonso X de Borgoña
+	}
+	11284.4.4 = {
+		holder = 457530 # Sancho IV de Borgoña
+	}
+	11295.4.25 = {
+		holder = 457520 # Fernando IV de Borgoña
+	}
+	11312.9.7 = {
+		holder = 457500 # Alfonso XI de Borgoña
+	}
+}
+
+b_guardo = { # Counts of Cea
+	10950.1.1 = {
+		holder = asturleonese0037 # Count Bermudo Núñez of Salamanca
+	}
+	10955.1.1 = {
+		holder = asturleonese0009 # Fernando Bermúdez de Cea
+	}
+	10978.10.9 = {
+		holder = asturleonese0011 # Pedro Fernández de Cea
+	}
+	11029.5.30 = {
+		holder = 106030 # King Sancho III of Navarra
+	}
+	11038.1.1 = {
+		holder = asturleonese0210 # Gutierre Alfonso
+	}
+	11051.1.1 = {
+		holder = 71329 # Alfonso Muñoz
+	}
+	11059.1.1 = {
+		holder = 71331 # Martín Alfonso
+	}
+	11126.3.8 = {
+		holder = 207500 # Alfonso VII de Borgoña
+	}
+	11157.8.21 = {
+		holder = 208500 # Fernando II de Borgoña
+	}
+}
+
+c_benavente = {
+	10754.1.1 = {
+		holder = 70003 # King Alfonso I of Asturias
+		liege = k_asturias
+	}
+	10757.1.1 = {
+		holder = 70004 # King Fruela I of Asturias
+	}
+	10768.1.1 = {
+		holder = 70012 # King Aurelio of Asturias
+	}
+	10773.1.1 = {
+		holder = 70118 # King Silo of Asturias
+	}
+	10783.1.1 = {
+		holder = 70006 # King Alfonso II of Asturias
+	}
+	10783.2.1 = {
+		holder = 70116 # King Mauregato of Asturias
+	}
+	10788.1.1 = {
+		holder = 70013 # King Bermudo I of Asturias
+	}
+	10791.1.1 = {
+		holder = 70006 # King Alfonso II of Asturias (restored)
+	}
+	10842.3.20 = {
+		holder = basque0007 # King Nepociano of Asturias
+	}
+	10843.1.1 = {
+		holder = 70015 # King Ramiro I of Asturias
+	}
+	10850.2.1 = {
+		holder = 70017 # King Ordoño I of Asturias
+	}
+	10866.5.27 = {
+		holder = 73750 # Fruela Ordóñez
+	}
+	10896.1.1 = {
+		holder = 70019 # King Alfonso III of Asturias
+	}
+	10900.1.1 = {
+		holder = 70020 # King García I of León
+		liege = d_leon
+	}
+	10910.12.20 = {
+		liege = k_leon
+	}
+	10914.1.19 = {
+		holder = 70021 # King Ordoño II of León
+	}
+	10924.6.1 = {
+		holder = 70030 # King Fruela II of León
+	}
+	10925.8.1 = {
+		holder = 70064 # Duke Alfonso Froilaz of Asturias
+	}
+	10926.1.1 = {
+		holder = 70023 # King Alfonso IV of León
+	}
+	10931.6.1 = {
+		holder = 70024 # King Ramiro II of León
+	}
+	10951.1.5 = {
+		holder = 108600 # King Ordoño III of León
+	}
+	10956.10.13 = {
+		holder = 70026 # King Sancho I of León
+	}
+	10958.1.1 = {
+		holder = 70029 # King Ordoño IV of León
+	}
+	10960.1.1 = {
+		holder = 70026 # King Sancho I of León (restored)
+	}
+	10966.11.15 = {
+		holder = 108610 # King Ramiro III of León
+	}
+	10984.1.1 = {
+		holder = 108590 # King Bermudo II of León
+	}
+	10999.9.1 = {
+		holder = 108570 # King Alfonso V of León
+	}
+	11028.1.1 = {
+		holder = 70075 # King Bermudo III of León
+	}
+	11032.1.1 = {
+		holder = 106030 # King Sancho III of Navarra
+		liege = k_navarra
+	}
+	11035.10.18 = {
+		holder = 70075 # King Bermudo III of León (restored)
+		liege = k_leon
+	}
+	11037.9.4 = {
+		holder = 107510 # King Fernando I of León
+	}
+	11065.12.27 = {
+		holder = 108500 # King Alfonso VI of León
+	}
+	11157.8.21 = {
+		holder = 208500 # Fernando II de Borgoña
+	}
+	11188.1.1 = {
+		holder = 457650 # Alfonso IX de Borgoña
+	}
+	11230.9.24 = {
+		holder = 457620 # Fernando III de Borgoña
+	}
+	11252.5.30 = {
+		holder = 457540 # Alfonso X de Borgoña
+	}
+	11284.4.4 = {
+		holder = 457530 # Sancho IV de Borgoña
+	}
+	11295.4.25 = {
+		holder = 457520 # Fernando IV de Borgoña
+	}
+	11312.9.7 = {
+		holder = 457500 # Alfonso XI de Borgoña
+	}
+}
+
+c_zamora = {
+	10794.1.1 = {
+		holder = 70006 # King Alfonso II of Asturias
+		liege = k_asturias
+	}
+	10842.3.20 = {
+		holder = basque0007 # King Nepociano of Asturias
+	}
+	10843.1.1 = {
+		holder = 70015 # King Ramiro I of Asturias
+	}
+	10850.2.1 = {
+		holder = 70017 # King Ordoño I of Asturias
+	}
+	10866.5.27 = {
+		holder = 70019 # King Alfonso III of Asturias
+	}
+	10910.12.20 = {
+		holder = 70020 # King García I of León
+		liege = k_leon
+	}
+	10914.1.19 = {
+		holder = 70021 # King Ordoño II of León
+	}
+	10924.6.1 = {
+		holder = 70030 # King Fruela II of León
+	}
+	10925.8.1 = {
+		holder = 70064 # Duke Alfonso Froilaz of Asturias
+	}
+	10926.1.1 = {
+		holder = 70023 # King Alfonso IV of León
+	}
+	10931.6.1 = {
+		holder = 70024 # King Ramiro II of León
+	}
+	10951.1.5 = {
+		holder = 108600 # King Ordoño III of León
+	}
+	10956.10.13 = {
+		holder = 70026 # King Sancho I of León
+	}
+	10958.1.1 = {
+		holder = 70029 # King Ordoño IV of León
+	}
+	10960.1.1 = {
+		holder = 70026 # King Sancho I of León (restored)
+	}
+	10966.11.15 = {
+		holder = 108610 # King Ramiro III of León
+	}
+	10984.1.1 = {
+		holder = 108590 # King Bermudo II of León
+	}
+	10999.9.1 = {
+		holder = 108570 # King Alfonso V of León
+	}
+	11028.8.7 = {
+		holder = 70075 # King Bermudo III of León
+	}
+	11032.1.1 = {
+		holder = 106030 # King Sancho III of Navarra
+		liege = k_navarra
+	}
+	11035.10.18 = {
+		holder = 70075 # King Bermudo III of León (restored)
+		liege = k_leon
+	}
+	11037.9.4 = {
+		holder = 107510 # King Fernando I of León
+	}
+	11065.12.27 = {
+		holder = 108501 # Urraca Fernández
+	}
+	11100.1.1 = {
+		holder = 108500 # King Alfonso VI of León
+	}
+	11103.11.13 = {
+		holder = 142140 # Count Fernão Mendes of Braganza
+		liege = d_porto
+	}
+	11176.1.1 = {
+		holder = cabrera_1 # Fernando de Cabrera
+		liege = k_leon
+	}
+	11180.1.1 = {
+		holder = 208530 # Pedro Arias
+	}
+	11200.1.1 = {
+		holder = 72952 # Martín Rodríguez
+	}
+	11238.1.1 = {
+		holder = 72953 # Pedro
+	}
+	11254.1.1 = {
+		holder = 72954 # Suero Pérez de Velasco
+	}
+	11286.1.1 = {
+		holder = 72955 # Alfonso
+	}
+	11293.1.1 = {
+		holder = 72956 # Pedro
+	}
+	11303.1.1 = {
+		holder = 72957 # Gonzalo Rodríguez Osorio
+	}
+	11310.1.1 = {
+		holder = 72958 # Diego
+	}
+	11326.1.1 = {
+		holder = 72959 # Rodrigo
+	}
+	11335.1.1 = {
+		holder = 72960 # Pedro
+	}
+}
+
+b_toro = {
+	11030.5.24 = {
+		holder = castilian0206 # Fernando Muñoz
+	}
+	11065.12.27 = {
+		holder = 108501 # Urraca; the county Holder
+	}
+	11099.11.15 = {
+		holder = 71378
+	}
+	11117.7.8 = {
+		holder = 71377
+	}
+	11121.1.1 = {
+		holder = 72949 # Bernat de Perigueux
+	}
+	11149.1.1 = {
+		holder = 72950 # Esteban
+	}
+	11174.1.1 = {
+		holder = 72951 # Guillén
+	}
+}
+
+c_salamanca = {
+	10860.1.1 = {
+		holder = 73989 # Boutros, placeholder
+		# Nominally under al-Andalus, but in practice very much a frontier.
+		liege = 0
+	}
+	10885.1.1 = {
+		holder = andalusian0137 # Ludriqh, placeholder
+	}
+	#910-939: Local lords
+	10939.1.1 = {
+		holder = asturleonese0037 # Bermudo Núñez de Cea
+		liege = k_leon
+	}
+	10955.1.1 = {
+		holder = 108600 # King Ordoño III of León
+	}
+	10956.11.13 = {
+		holder = 70026 # King Sancho I of León
+	}
+	10958.1.1 = {
+		holder = 70029 # King Ordoño IV of León
+	}
+	10960.1.1 = {
+		holder = 70026 # King Sancho I of León (restored)
+	}
+	10966.11.15 = {
+		holder = 108610 # King Ramiro III of León
+	}
+	10977.1.1 = {
+		holder = asturleonese0004 # Fernando Flaínez
+	}
+	10986.1.1 = {
+		holder = asturleonese0121 # Pedro Fernández
+	}
+	11027.1.1 = {
+		holder = 108570 # King Alfonso V of León
+	}
+	11028.8.7 = {
+		holder = 70075 # King Bermudo III of León
+	}
+	11032.1.1 = {
+		holder = 106030 # King Sancho III of Navarra
+		liege = k_navarra
+	}
+	11035.10.18 = {
+		holder = 70075 # King Bermudo III of León (restored)
+		liege = k_leon
+	}
+	11037.9.4 = {
+		holder = 107510 # King Fernando of León
+	}
+	11065.12.27 = {
+		holder = 108500 # King Alfonso VI of León
+	}
+	11126.5.3 = {
+		holder = 208550 # Fernando Perez de Traba
+	}
+	11154.12.1 = {
+		holder = 72879 # Gonzalo Fernandez de Traba
+	}
+	11160.11.18 = {
+		holder = 72882 # Gomez Gonzalez de Traba
+	}
+	11188.1.22 = {
+		holder = 71410 # Sancho Fernández de Borgoña
+	}
+	11220.8.25 = {
+		holder = 71412 # Diego Sánchez de Borgoña
+	}
+	11260.1.1 = {
+		holder = 71415 # Diego Díaz de Borgoña
+	}
+	11296.1.1 = {
+		holder = 71524 # Felipe Sánchez de Borgoña
+	}
+	11327.4.30 = {
+		holder = 72637 # Lope de Pacheco
+	}
+}
+
+c_avila = {
+	10854.1.1 = {
+		holder = 200156 # Ulyan, placeholder
+		# Nominally under al-Andalus, but in practice very much a frontier.
+		liege = 0
+	}
+	10878.1.1 = {
+		holder = 70019 # King Alfonso III of Asturias
+		liege = k_asturias
+	}
+	10900.1.1 = {
+		holder = 70020 # King García I of León
+		liege = d_leon
+	}
+	10910.12.20 = {
+		liege = k_leon
+	}
+	10914.1.19 = {
+		holder = 70021 # King Ordoño II of León
+	}
+	10924.6.1 = {
+		holder = 70030 # King Fruela II of León
+	}
+	10925.8.1 = {
+		holder = 70064 # Duke Alfonso Froilaz of Asturias
+		liege = d_asturias
+	}
+	10926.1.1 = {
+		holder = 70023 # King Alfonso IV of León
+	}
+	10931.6.1 = {
+		holder = 70024 # King Ramiro II of León
+	}
+	10939.1.1 = {
+		holder = asturleonese0037 # Count Bermudo Núñez of Salamanca
+	}
+	10955.1.1 = {
+		holder = 108600 # King Ordoño III of León
+	}
+	10956.11.13 = {
+		holder = 70026 # King Sancho I of León
+	}
+	10958.1.1 = {
+		holder = 70029 # King Ordoño IV of León
+	}
+	10960.1.1 = {
+		holder = 70026 # King Sancho I of León (restored)
+	}
+	10966.11.15 = {
+		holder = 108610 # King Ramiro III of León
+	}
+	10977.1.1 = {
+		holder = asturleonese0004 # Count Fernando Flaínez of Salamanca
+	}
+	10986.1.1 = {
+		holder = asturleonese0121 # Count Pedro Fernández of Salamanca
+	}
+	11027.1.1 = {
+		holder = 108570 # King Alfonso V of León
+	}
+	11028.8.7 = {
+		holder = 70075 # King Bermudo III of León
+	}
+	11032.1.1 = {
+		holder = 106030 # King Sancho III of Navarra
+		liege = k_navarra
+	}
+	11035.10.18 = {
+		holder = 70075 # King Bermudo III of León
+		liege = k_leon
+	}
+	11037.9.4 = {
+		holder = 107510 # King Fernando I of León
+	}
+	11065.12.27 = {
+		holder = 108500 # King Alfonso VI of León
+	}
+	11157.8.21 = {
+		holder = 208500 # Fernando II de Borgoña
+	}
+	11188.1.22 = {
+		holder = 71410 # Sancho Fernández de Borgoña
+	}
+	11220.8.25 = {
+		holder = 71412 # Diego Sánchez de Borgoña
+	}
+	11260.1.1 = {
+		holder = 71415 # Diego Díaz de Borgoña
+	}
+	11296.1.1 = {
+		holder = 71524 # Felipe Sánchez de Borgoña
+	}
+	11327.4.30 = {
+		holder = 72637 # Lope de Pacheco
+	}
+}
+
+
+d_asturias = {
+	10711.1.1 = {
+		de_jure_liege = k_asturias
+	}
+	10900.1.1 = {
+		holder = 70030 # Fruela II de Cantabria, titled King of Asturias from 10910.12.20
+		liege = k_asturias
+	}
+	10910.12.20 = {
+		liege = k_leon
+		de_jure_liege = k_leon
+	}
+	10925.8.1 = {
+		holder = 70064 # Alfonso Froilaz 'el Jorobado'
+	}
+	10932.1.1 = {
+		holder = 0
+	}
+}
+
+
+c_asturias_de_oviedo = {
+	10718.1.1 = {
+		holder = 70000 # King Pelayo of Asturias
+		liege = k_asturias
+	}
+	10737.1.1 = {
+		holder = 70115 # King Favila of Asturias
+	}
+	10739.6.15 = {
+		holder = 70003 # King Alfonso I of Asturias
+	}
+	10757.1.1 = {
+		holder = 70004 # King Fruela I of Asturias
+	}
+	10768.1.1 = {
+		holder = 70012 # King Aurelio of Asturias
+	}
+	10773.1.1 = {
+		holder = 70118 # King Silo of Asturias
+	}
+	10783.1.1 = {
+		holder = 70006 # King Alfonso II of Asturias
+	}
+	10783.2.1 = {
+		holder = 70116 # King Mauregato of Asturias
+	}
+	10788.1.1 = {
+		holder = 70013 # King Bermudo I of Asturias
+	}
+	10791.1.1 = {
+		holder = 70006 # King Alfonso II of Asturias (restored)
+	}
+	10842.3.20 = {
+		holder = basque0007 # King Nepociano of Asturias
+	}
+	10843.1.1 = {
+		holder = 70015 # King Ramiro I of Asturias
+	}
+	10850.2.1 = {
+		holder = 70017 # King Ordoño I of Asturias
+	}
+	10866.5.27 = {
+		holder = 70019 # King Alfonso III of Asturias
+	}
+	10900.1.1 = {
+		holder = 70030 # King Fruela II of León
+		liege = d_asturias
+	}
+	10925.8.1 = {
+		holder = 70064 # Duke Alfonso Froilaz of Asturias
+	}
+	10932.6.1 = {
+		holder = 70024 # King Ramiro II of León
+		liege = k_leon
+	}
+	10951.1.15 = {
+		holder = 108600 # King Ordoño III of León
+	}
+	10956.10.13 = {
+		holder = 70026 # King Sancho I of León
+	}
+	10958.1.1 = {
+		holder = 70029 # King Ordoño IV of León
+	}
+	10960.1.1 = {
+		holder = 70026 # King Sancho I of León (restored)
+	}
+	10966.11.15 = {
+		holder = 108550 # Gundemaro Pinióliz
+	}
+	11012.1.1 = {
+		holder = asturleonese0308 # Munio Rodríguez 'Canis'
+	}
+	11020.2.26 = {
+		holder = asturleonese0309 # Munio Muñoz
+	}
+	11028.11.15 = {
+		holder = 70075 # King Bermudo III of León
+	}
+	11032.1.1 = {
+		holder = 106030 # King Sancho III of Navarra
+		liege = k_navarra
+	}
+	11035.10.18 = {
+		holder = 70075 # King Bermudo III of León (restored)
+		liege = k_leon
+	}
+	11037.9.4 = {
+		holder = 108510 # Diego Fernández de Oviedo
+	}
+	11046.7.24 = {
+		holder = 108512 # Rodrigo Díaz de Oviedo
+	}
+	11090.1.1 = {
+		holder = 108514 # Fernando Díaz de Oviedo
+	}
+	11108.5.1 = {
+		holder = 72701 # Diego Fernández de Oviedo II
+	}
+	11137.1.1 = {
+		holder = 72731 # Diego Pérez de las Asturias
+	}
+	11186.1.1 = {
+		holder = 72758 # Alvaro Díaz de las Asturias
+	}
+	11218.1.1 = {
+		holder = 72760 # Pedro Alvarez de las Asturias
+	}
+	11286.10.25 = {
+		holder = 72769 # Pedro Pérez de las Asturias
+	}
+	11300.1.1 = {
+		holder = 72773 # Rodrigo Pérez de las Asturias
+	}
+	11334.1.1 = {
+		holder = 457510 # Enrique de Trastámara
+	}
+}
+
+
+c_pravia = {
+	10718.1.1 = {
+		holder = 70000 # King Pelayo of Asturias
+		liege = k_asturias
+	}
+	10737.1.1 = {
+		holder = 70115 # King Favila of Asturias
+	}
+	10739.6.15 = {
+		holder = 70003 # King Alfonso I of Asturias
+	}
+	10755.1.1 = {
+		holder = 70118 # King Silo of Asturias
+	}
+	10783.1.1 = {
+		holder = 70006 # King Alfonso II of Asturias
+	}
+	10783.2.1 = {
+		holder = 70116 # King Mauregato of Asturias
+	}
+	10788.1.1 = {
+		holder = 70013 # King Bermudo I of Asturias
+	}
+	10791.1.1 = {
+		holder = 70006 # King Alfonso II of Asturias (restored)
+	}
+	10842.3.20 = {
+		holder = basque0007 # King Nepociano of Asturias
+	}
+	10843.1.1 = {
+		holder = 70015 # King Ramiro I of Asturias
+	}
+	10850.2.1 = {
+		holder = 70017 # King Ordoño I of Asturias
+	}
+	10866.5.27 = {
+		holder = 70019 # King Alfonso III of Asturias
+	}
+	10900.1.1 = {
+		holder = 70030 # King Fruela II of León
+		liege = d_asturias
+	}
+	10925.8.1 = {
+		holder = 70064 # Duke Alfonso Froilaz of Asturias
+	}
+	10932.6.1 = {
+		holder = 70024 # King Ramiro II of León
+		liege = k_leon
+	}
+	10951.1.15 = {
+		holder = asturleonese0410 # Fáfila Spasández
+	}
+	10981.3.11 = {
+		holder = asturleonese0069 # Fruela Jiménez
+	}
+	11012.11.12 = {
+		holder = asturleonese0072 # Pedro Froilaz
+	}
+	11032.1.1 = {
+		liege = k_navarra
+	}
+	11033.9.16 = {
+		holder = asturleonese0075 # Pelayo Froilaz 'el Diácono'
+	}
+	11035.10.18 = {
+		liege = k_leon
+	}
+	11050.1.1 = {
+		holder = asturleonese0078 # Pedro Peláez
+	}
+	11096.3.22 = {
+		holder = asturleonese0086 # Gonzalo Peláez
+	}
+	11138.3.1 = {
+		holder = 72731 # Diego Pérez de las Asturias
+	}
+	11186.1.1 = {
+		holder = 72758 # Alvaro Díaz de las Asturias
+	}
+	11218.1.1 = {
+		holder = 72760 # Pedro Alvarez de las Asturias
+	}
+	11286.10.25 = {
+		holder = 72769 # Pedro Pérez de las Asturias
+	}
+	11300.1.1 = {
+		holder = 72773 # Rodrigo Pérez de las Asturias
+	}
+	11334.1.1 = {
+		holder = 457510 # Enrique de Trastámara
+	}
+}

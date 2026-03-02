@@ -1,0 +1,622 @@
+k_esthonia = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 9 }
+}
+
+d_esthonia = {
+	# Mark for v1.102
+	10766.1.1 = {
+		holder = 170347
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 167735
+	}
+	11066.1.1 = {
+		holder = 28026
+	}
+	11120.1.1 = {
+		holder = 144631
+	}
+	11170.1.1 = {
+		holder = 228026
+	}
+	11219.1.1 = {
+		liege = "k_denmark"
+	}
+	11219.1.1 = {
+		holder = 201501 # Valdemar Sejr
+	}
+	11228.1.1 = {
+		holder = 93533
+	}
+	11260.10.5 = {
+		holder = 451519
+	}
+	11282.1.1 = {
+		holder = 451514 # Erik Klipping
+	}
+	11286.11.22 = {
+		holder = 451515 # Erik Menved
+	}
+	11319.11.13 = {
+		holder = 451520 # Christoffer II
+	}
+	11329.1.1 = {
+		holder = 451801
+	}
+	11330.5.30 = {
+		holder = 452505
+	}
+	11332.1.1 = {
+		holder = 451523
+	}
+}
+
+
+c_reval = {
+	10867.1.1 = { change_development_level = 3 }
+	11066.1.1 = { change_development_level = 7 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10766.1.1 = {
+		liege = "d_esthonia"
+		holder = 170347
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 167735
+	}
+	11066.1.1 = {
+		holder = 28026
+	}
+	11120.1.1 = {
+		holder = 144631
+	}
+	11170.1.1 = {
+		holder = 228026
+	}
+	11219.1.1 = {
+		holder = 201501 # Valdemar Sejr
+	}
+	11228.1.1 = {
+		holder = 93533
+	}
+	11260.10.5 = {
+		holder = 451519
+	}
+	11282.1.1 = {
+		holder = 451514 # Erik Klipping
+	}
+	11286.11.22 = {
+		holder = 451515 # Erik Menved
+	}
+	11319.11.13 = {
+		holder = 451520 # Christoffer II
+	}
+	11329.1.1 = {
+		holder = 451801
+	}
+	11330.5.30 = {
+		holder = 452505
+	}
+	11332.1.1 = {
+		holder = 451523
+	}
+}
+
+
+c_narva = {
+	10767.1.1 = {
+		liege = "d_esthonia"
+		holder = 170348
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 167736
+	}
+	11066.1.1 = {
+		holder = 28026
+	}
+	11120.1.1 = {
+		holder = 144631
+	}
+	11170.1.1 = {
+		holder = 228026
+	}
+	11219.1.1 = {
+		holder = 201501 # Valdemar Sejr
+	}
+	11228.1.1 = {
+		holder = 93533
+	}
+	11260.10.5 = {
+		holder = 451519
+	}
+	11282.1.1 = {
+		holder = 451514 # Erik Klipping
+	}
+	11286.11.22 = {
+		holder = 451515 # Erik Menved
+	}
+	11319.11.13 = {
+		holder = 451520 # Christoffer II
+	}
+	11329.1.1 = {
+		holder = 451801
+	}
+	11330.5.30 = {
+		holder = 452505
+	}
+	11332.1.1 = {
+		holder = 451523
+	}
+}
+
+
+c_osel = {
+	10763.1.1 = {
+		holder = 170350
+		liege = "d_livonia"
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 167734
+	}
+	11066.1.1 = {
+		holder = 28021
+	}
+	11120.1.1 = {
+		holder = 144640
+	}
+	11170.1.1 = {
+		holder = 228021
+	}
+	11228.1.1 = {
+		liege = "d_livonia"
+	}
+	
+	11228.1.1 = {
+		holder = 30436 #Gottfried von Naumburg
+	}
+	11234.1.1 = {
+		holder = 30437 #Heinrich von Ösel
+	}
+	11236.9.22 = {
+		liege = "d_teutonic_order"
+	}
+	
+	11260.1.1 = {
+		holder = 30438 #Hermann von Buxthoeven
+	}
+	11285.1.1 = {
+		holder = 30439 #Heinrich II von Osel
+	}
+	11294.1.1 = {
+		holder = 30440 #Konrad von Osel
+	}
+	11307.1.1 = {
+		holder = 30441 #Hartung von Osel
+	}
+	11321.1.1 = {
+		holder = 30442 #Jakob von Osel
+	}
+}
+
+
+b_hiiumaa = {
+	11228.1.1 = {
+		holder = 30436 #Gottfried von Naumburg
+	}
+	11234.1.1 = {
+		holder = 30437 #Heinrich von Ösel
+	}
+	11260.1.1 = {
+		holder = 30438 #Hermann von Buxthoeven
+	}
+	11285.1.1 = {
+		holder = 30439 #Heinrich II von Osel
+	}
+	11294.1.1 = {
+		holder = 30440 #Konrad von Osel
+	}
+	11307.1.1 = {
+		holder = 30441 #Hartung von Osel
+	}
+	11321.1.1 = {
+		holder = 30442 #Jakob von Osel
+	}
+}
+
+
+c_wiek = {
+	10765.1.1 = {
+		holder = 170349
+		liege = "d_livonia"
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 167737
+	}
+	11066.1.1 = {
+		holder = 28023
+	}
+	11089.1.1 = {
+		holder = 143150
+	}
+	11139.1.1 = {
+		holder = 143151
+	}
+	11187.1.1 = {
+		holder = 228023
+	}
+	
+	##Livonian Swordbrothers
+	
+	11202.1.1 = {
+		holder = 30443 #Vinno von Rohrbach
+	}
+	11209.1.1 = {
+		holder = 30444 #Volkwin von Naumburg
+	}
+	
+	##Swordbrothers absorbed by the Teutonic Order
+	
+	11236.9.22 = {
+		liege = "d_teutonic_order"
+	}
+	11236.9.22 = {
+		holder = 30403 #Hermann von Salza
+	}
+	11239.3.20 = {
+		holder = 30404 #Konrad von Thüringen
+	}
+	11240.7.24 = {
+		holder = 30405 #Gerhard von Malberg
+	}
+	11244.1.1 = {
+		holder = 30406 #Heinrich von Hohenlohe
+	}
+	11249.7.15 = {
+		holder = 30407 #Gunther von Wüllersleben
+	}
+	11252.5.4 = {
+		holder = 30408 #Poppo von Osterna
+	}
+	11256.1.1 = {
+		holder = 30409 #Anno von Sangershausen
+	}
+	11273.7.8 = {
+		holder = 30410 #Hartmann von Heldrungen
+	}
+	11282.8.19 = {
+		holder = 30411 #Burchard von Schwanden
+	}
+	11290.1.1 = {
+		holder = 30412 #Konrad von Feuchtwangen
+	}
+	11296.7.4 = {
+		holder = 30413 #Gottfried von Hohenlohe
+	}
+	11303.1.1 = {
+		holder = 30414 #Siegfried von Feuchtwangen
+	}
+	11311.5.3 = {
+		holder = 30415 #Karl von Trier
+	}
+	11324.2.11 = {
+		holder = 30416 #Werner von Orseln
+	}
+	11330.11.18 = {
+		holder = 30417 #Luther Welf
+	}
+	11335.4.18 = {
+		holder = 474000 #Dietrich von Altenburg
+	}
+}
+
+
+d_livonia = {
+	10765.1.1 = {
+		holder = 170349
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 167737
+	}
+	11066.1.1 = {
+		holder = 28023
+	}
+	11089.1.1 = {
+		holder = 143150
+	}
+	11139.1.1 = {
+		holder = 143151
+	}
+	11187.1.1 = {
+		holder = 228023
+	}
+	
+	###Livonian Swordbrothers
+	
+	11202.1.1 = {
+		holder = 30443 #Vinno von Rohrbach
+	}
+	
+	11209.1.1 = {
+		holder = 30444 #Volkwin von Naumburg
+	}
+	11236.9.22 = {
+		holder = 0
+	}
+
+}
+
+
+c_vidzeme = {
+	10765.1.1 = {
+		holder = 170349
+		liege = "d_livonia"
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 167737
+	}
+	11066.1.1 = {
+		holder = 28023
+	}
+	11089.1.1 = {
+		holder = 143150
+	}
+	11139.1.1 = {
+		holder = 143151
+	}
+	11187.1.1 = {
+		holder = 228023
+	}
+	
+	##Livonian Swordbrothers
+	11217.9.21 = {
+		holder = 30444 #Volkwin von Naumburg
+	}
+	
+	##Swordbrothers absorbed by the Teutonic Order
+	
+	11236.9.22 = {
+		liege = "d_teutonic_order"
+		holder = 30403 #Hermann von Salza
+	}
+	11239.3.20 = {
+		holder = 30404 #Konrad von Thüringen
+	}
+	11240.7.24 = {
+		holder = 30405 #Gerhard von Malberg
+	}
+	11244.1.1 = {
+		holder = 30406 #Heinrich von Hohenlohe
+	}
+	11249.7.15 = {
+		holder = 30407 #Gunther von Wüllersleben
+	}
+	11252.5.4 = {
+		holder = 30408 #Poppo von Osterna
+	}
+	11256.1.1 = {
+		holder = 30409 #Anno von Sangershausen
+	}
+	11273.7.8 = {
+		holder = 30410 #Hartmann von Heldrungen
+	}
+	11282.8.19 = {
+		holder = 30411 #Burchard von Schwanden
+	}
+	11290.1.1 = {
+		holder = 30412 #Konrad von Feuchtwangen
+	}
+	11296.7.4 = {
+		holder = 30413 #Gottfried von Hohenlohe
+	}
+	11303.1.1 = {
+		holder = 30414 #Siegfried von Feuchtwangen
+	}
+	11311.5.3 = {
+		holder = 30415 #Karl von Trier
+	}
+	11324.2.11 = {
+		holder = 30416 #Werner von Orseln
+	}
+	11330.11.18 = {
+		holder = 30417 #Luther Welf
+	}
+	11335.4.18 = {
+		holder = 474000 #Dietrich von Altenburg
+	}
+}
+
+
+c_livs = {
+	10765.1.1 = {
+		holder = 170349
+		liege = "d_livonia"
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 167737
+	}
+	11066.1.1 = {
+		holder = 28023
+	}
+	11089.1.1 = {
+		holder = 143150
+	}
+	11139.1.1 = {
+		holder = 143151
+	}
+	11178.1.1 = {
+		holder = 228007 # Uchva, fictional
+	}
+	11187.1.1 = {
+		holder = 228023
+	}
+	
+	##Livonian Swordbrothers
+	
+	11202.1.1 = {
+		holder = 30443 #Vinno von Rohrbach
+	}
+	11209.1.1 = {
+		holder = 30444 #Volkwin von Naumburg
+	}
+	
+	##Swordbrothers absorbed by the Teutonic Order
+	
+	11236.9.22 = {
+		liege = "d_teutonic_order"
+	}
+	11236.9.22 = {
+		holder = 30403 #Hermann von Salza
+	}
+	11239.3.20 = {
+		holder = 30404 #Konrad von Thüringen
+	}
+	11240.7.24 = {
+		holder = 30405 #Gerhard von Malberg
+	}
+	11244.1.1 = {
+		holder = 30406 #Heinrich von Hohenlohe
+	}
+	11249.7.15 = {
+		holder = 30407 #Gunther von Wüllersleben
+	}
+	11252.5.4 = {
+		holder = 30408 #Poppo von Osterna
+	}
+	11256.1.1 = {
+		holder = 30409 #Anno von Sangershausen
+	}
+	11273.7.8 = {
+		holder = 30410 #Hartmann von Heldrungen
+	}
+	11282.8.19 = {
+		holder = 30411 #Burchard von Schwanden
+	}
+	11290.1.1 = {
+		holder = 30412 #Konrad von Feuchtwangen
+	}
+	11296.7.4 = {
+		holder = 30413 #Gottfried von Hohenlohe
+	}
+	11303.1.1 = {
+		holder = 30414 #Siegfried von Feuchtwangen
+	}
+	11311.5.3 = {
+		holder = 30415 #Karl von Trier
+	}
+	11324.2.11 = {
+		holder = 30416 #Werner von Orseln
+	}
+	11330.11.18 = {
+		holder = 30417 #Luther Welf
+	}
+	11335.4.18 = {
+		holder = 474000 #Dietrich von Altenburg
+	}
+}
+
+
+c_dorpat = {
+	10761.1.1 = {
+		liege = "d_livonia"
+		holder = 170352
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 167738
+	}
+	11066.1.1 = {
+		liege = "d_esthonia"
+	}
+	11066.1.1 = {
+		holder = 28025
+	}
+	11089.1.1 = {
+		holder = 28026
+	}
+	11120.1.1 = {
+		holder = 144631
+	}
+	11170.1.1 = {
+		holder = 228026
+	}
+	11187.1.1 = {
+		liege = "d_livonia"
+	}
+	11187.1.1 = {
+		holder = 228025
+	}
+	11200.1.1 = {
+		holder = 228023
+	}
+	11202.1.1 = {
+		holder = 30443 #Vinno von Rohrbach
+	}
+	
+	11209.1.1 = {
+		holder = 30444 #Volkwin von Naumburg
+	}
+	
+	11225.1.1 = {
+		holder = 30429 #Hermann von Buxthoevden
+	}
+	
+	11236.9.22 = {
+		liege = "d_teutonic_order"
+	}
+	11248.1.1 = {
+		holder = 30430 #Alexander von Dorpat
+	}
+	11268.1.1 = {
+		holder = 30431 #Friedrich von Haseldorf
+	}
+	11288.1.1 = {
+		holder = 30432 #Bernhard von Dorpat
+	}
+	11302.1.1 = {
+		holder = 30433 #Dietrich von Vyshusen
+	}
+	11312.1.1 = {
+		holder = 30434 #Nikolaus von Dorpat
+	}
+	11323.1.1 = {
+		holder = 30445 #Engelbert von Dolen
+	}
+
+}
+
+
+b_tartu = {
+	11225.1.1 = {
+		holder = 30429 #Hermann von Buxthoevden
+	}
+	11248.1.1 = {
+		holder = 30430 #Alexander von Dorpat
+	}
+	11268.1.1 = {
+		holder = 30431 #Friedrich von Haseldorf
+	}
+	11288.1.1 = {
+		holder = 30432 #Bernhard von Dorpat
+	}
+	11302.1.1 = {
+		holder = 30433 #Dietrich von Vyshusen
+	}
+	11312.1.1 = {
+		holder = 30434 #Nikolaus von Dorpat
+	}
+	11323.1.1 = {
+		holder = 30445 #Engelbert von Dolen
+	}
+
+}
+

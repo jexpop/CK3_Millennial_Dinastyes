@@ -1,0 +1,2545 @@
+﻿k_gyalrong = {
+	10867.1.1 = { change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 14 }
+}
+
+d_gyalrong = {
+	#Qiang Tribes
+	10634.1.1={
+		liege = "e_tibet"
+	}#Qiang tribes conquered by Tibetan Empire.
+	#Gyelrong Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0211
+	}
+	10800.1.1={
+		holder = bodpa0212
+	}
+	10820.1.1={
+		holder = bodpa0213
+	}
+	10840.1.1={
+		holder = bodpa0214
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege = 0
+	}
+	10860.1.1={
+		holder = bodpa0215
+	}
+	10880.1.1={
+		holder = bodpa0216
+	}
+	10900.1.1={
+		holder = bodpa0217
+	}
+	10920.1.1={
+		holder = bodpa0218
+	}
+	10940.1.1={
+		holder = bodpa0219
+	}
+	10960.1.1={
+		holder = bodpa0220
+	}
+	10980.1.1={
+		holder = bodpa0221
+	}
+	11000.1.1={
+		holder = bodpa0222
+	}
+	11020.1.1={
+		holder = bodpa0223
+	}
+	11040.1.1={
+		holder = bodpa0224
+	}
+	11060.1.1={
+		holder = bodpa0225
+	}
+	11080.1.1={
+		holder = bodpa0226
+	}
+	11100.1.1={
+		holder = bodpa0227
+	}
+	11120.1.1={
+		holder = bodpa0228
+	}
+	11140.1.1={
+		holder = bodpa0229
+	}
+	11160.1.1={
+		holder = bodpa0230
+	}
+	11180.1.1={
+		holder = bodpa0231
+	}
+	11200.1.1={
+		holder = bodpa0232
+	}
+	11220.1.1={
+		holder = bodpa0233
+	}
+	11240.1.1={
+		holder = bodpa0234
+	}
+	#Sakya Trizin established as overlord of Tibet by Yuan Dynasty
+	11251.1.1={
+		liege = "k_sakya_trizin"
+	}
+	11260.1.1={
+		holder = bodpa0235
+	}
+	11280.1.1={
+		holder = bodpa0236
+	}
+	11300.1.1={
+		holder = bodpa0237
+	}
+	11320.1.1={
+		holder = bodpa0238
+	}
+	11340.1.1={
+		holder = bodpa0239
+	}
+	#Phagmodrupa Kingdom supersedes Sakya in U and Tsang
+	11358.1.1={
+		liege = 0
+	}
+	11360.1.1={
+		holder = bodpa0240
+	}
+}
+
+c_barkam = {
+	#Qiang Tribes
+	10500.1.1={
+		liege = "d_gyalrong"
+	}
+	#Gyelrong Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0211
+	}
+	10800.1.1={
+		holder = bodpa0212
+	}
+	10820.1.1={
+		holder = bodpa0213
+	}
+	10840.1.1={
+		holder = bodpa0214
+	}
+	10860.1.1={
+		holder = bodpa0215
+	}
+	10880.1.1={
+		holder = bodpa0216
+	}
+	10900.1.1={
+		holder = bodpa0217
+	}
+	10920.1.1={
+		holder = bodpa0218
+	}
+	10940.1.1={
+		holder = bodpa0219
+	}
+	10960.1.1={
+		holder = bodpa0220
+	}
+	10980.1.1={
+		holder = bodpa0221
+	}
+	11000.1.1={
+		holder = bodpa0222
+	}
+	11020.1.1={
+		holder = bodpa0223
+	}
+	11040.1.1={
+		holder = bodpa0224
+	}
+	11060.1.1={
+		holder = bodpa0225
+	}
+	11080.1.1={
+		holder = bodpa0226
+	}
+	11100.1.1={
+		holder = bodpa0227
+	}
+	11120.1.1={
+		holder = bodpa0228
+	}
+	11140.1.1={
+		holder = bodpa0229
+	}
+	11160.1.1={
+		holder = bodpa0230
+	}
+	11180.1.1={
+		holder = bodpa0231
+	}
+	11200.1.1={
+		holder = bodpa0232
+	}
+	11220.1.1={
+		holder = bodpa0233
+	}
+	11240.1.1={
+		holder = bodpa0234
+	}
+	11260.1.1={
+		holder = bodpa0235
+	}
+	11280.1.1={
+		holder = bodpa0236
+	}
+	11300.1.1={
+		holder = bodpa0237
+	}
+	11320.1.1={
+		holder = bodpa0238
+	}
+	11340.1.1={
+		holder = bodpa0239
+	}
+	11360.1.1={
+		holder = bodpa0240
+	}
+}
+
+
+c_ngawa = {
+	#Qiang Tribes
+	10500.1.1={
+		liege = "d_gyalrong"
+	}
+	#Chakla Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0181
+	}
+	10800.1.1={
+		holder = bodpa0182
+	}
+	10820.1.1={
+		holder = bodpa0183
+	}
+	10840.1.1={
+		holder = bodpa0184
+	}
+	10860.1.1={
+		holder = bodpa0185
+	}
+	10880.1.1={
+		holder = bodpa0186
+	}
+	10900.1.1={
+		holder = bodpa0187
+	}
+	10920.1.1={
+		holder = bodpa0188
+	}
+	10940.1.1={
+		holder = bodpa0189
+	}
+	10960.1.1={
+		holder = bodpa0190
+	}
+	10980.1.1={
+		holder = bodpa0191
+	}
+	11000.1.1={
+		holder = bodpa0192
+	}
+	11020.1.1={
+		holder = bodpa0193
+	}
+	11040.1.1={
+		holder = bodpa0194
+	}
+	11060.1.1={
+		holder = bodpa0195
+	}
+	11080.1.1={
+		holder = bodpa0196
+	}
+	11100.1.1={
+		holder = bodpa0197
+	}
+	11120.1.1={
+		holder = bodpa0198
+	}
+	11140.1.1={
+		holder = bodpa0199
+	}
+	11160.1.1={
+		holder = bodpa0200
+	}
+	11180.1.1={
+		holder = bodpa0201
+	}
+	11200.1.1={
+		holder = bodpa0202
+	}
+	11220.1.1={
+		holder = bodpa0203
+	}
+	11240.1.1={
+		holder = bodpa0204
+	}
+	11260.1.1={
+		holder = bodpa0205
+	}
+	11280.1.1={
+		holder = bodpa0206
+	}
+	11300.1.1={
+		holder = bodpa0207
+	}
+	11320.1.1={
+		holder = bodpa0208
+	}
+	11340.1.1={
+		holder = bodpa0209
+	}
+	11360.1.1={
+		holder = bodpa0210
+	}
+}
+
+c_sungqu = {
+	#Qiang Tribes
+	10500.1.1={
+		liege = "d_gyalrong"
+	}
+	#Chakla Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0181
+	}
+	10800.1.1={
+		holder = bodpa0182
+	}
+	10820.1.1={
+		holder = bodpa0183
+	}
+	10840.1.1={
+		holder = bodpa0184
+	}
+	10860.1.1={
+		holder = bodpa0185
+	}
+	10880.1.1={
+		holder = bodpa0186
+	}
+	10900.1.1={
+		holder = bodpa0187
+	}
+	10920.1.1={
+		holder = bodpa0188
+	}
+	10940.1.1={
+		holder = bodpa0189
+	}
+	10960.1.1={
+		holder = bodpa0190
+	}
+	10980.1.1={
+		holder = bodpa0191
+	}
+	11000.1.1={
+		holder = bodpa0192
+	}
+	11020.1.1={
+		holder = bodpa0193
+	}
+	11040.1.1={
+		holder = bodpa0194
+	}
+	11060.1.1={
+		holder = bodpa0195
+	}
+	11080.1.1={
+		holder = bodpa0196
+	}
+	11100.1.1={
+		holder = bodpa0197
+	}
+	11120.1.1={
+		holder = bodpa0198
+	}
+	11140.1.1={
+		holder = bodpa0199
+	}
+	11160.1.1={
+		holder = bodpa0200
+	}
+	11180.1.1={
+		holder = bodpa0201
+	}
+	11200.1.1={
+		holder = bodpa0202
+	}
+	11220.1.1={
+		holder = bodpa0203
+	}
+	11240.1.1={
+		holder = bodpa0204
+	}
+	11260.1.1={
+		holder = bodpa0205
+	}
+	11280.1.1={
+		holder = bodpa0206
+	}
+	11300.1.1={
+		holder = bodpa0207
+	}
+	11320.1.1={
+		holder = bodpa0208
+	}
+	11340.1.1={
+		holder = bodpa0209
+	}
+	11360.1.1={
+		holder = bodpa0210
+	}
+}
+
+
+c_zoige = {
+	#Qiang Tribes
+	10500.1.1={
+		liege = "d_gyalrong"
+	}
+	#Chakla Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0181
+	}
+	10800.1.1={
+		holder = bodpa0182
+	}
+	10820.1.1={
+		holder = bodpa0183
+	}
+	10840.1.1={
+		holder = bodpa0184
+	}
+	10860.1.1={
+		holder = bodpa0185
+	}
+	10880.1.1={
+		holder = bodpa0186
+	}
+	10900.1.1={
+		holder = bodpa0187
+	}
+	10920.1.1={
+		holder = bodpa0188
+	}
+	10940.1.1={
+		holder = bodpa0189
+	}
+	10960.1.1={
+		holder = bodpa0190
+	}
+	10980.1.1={
+		holder = bodpa0191
+	}
+	11000.1.1={
+		holder = bodpa0192
+	}
+	11020.1.1={
+		holder = bodpa0193
+	}
+	11040.1.1={
+		holder = bodpa0194
+	}
+	11060.1.1={
+		holder = bodpa0195
+	}
+	11080.1.1={
+		holder = bodpa0196
+	}
+	11100.1.1={
+		holder = bodpa0197
+	}
+	11120.1.1={
+		holder = bodpa0198
+	}
+	11140.1.1={
+		holder = bodpa0199
+	}
+	11160.1.1={
+		holder = bodpa0200
+	}
+	11180.1.1={
+		holder = bodpa0201
+	}
+	11200.1.1={
+		holder = bodpa0202
+	}
+	11220.1.1={
+		holder = bodpa0203
+	}
+	11240.1.1={
+		holder = bodpa0204
+	}
+	11260.1.1={
+		holder = bodpa0205
+	}
+	11280.1.1={
+		holder = bodpa0206
+	}
+	11300.1.1={
+		holder = bodpa0207
+	}
+	11320.1.1={
+		holder = bodpa0208
+	}
+	11340.1.1={
+		holder = bodpa0209
+	}
+	11360.1.1={
+		holder = bodpa0210
+	}
+}
+
+
+c_quqen = {
+	#Qiang Tribes
+	10500.1.1={
+		liege = "d_gyalrong"
+	}
+	#Gyelrong Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0211
+	}
+	10800.1.1={
+		holder = bodpa0212
+	}
+	10820.1.1={
+		holder = bodpa0213
+	}
+	10840.1.1={
+		holder = bodpa0214
+	}
+	10860.1.1={
+		holder = bodpa0215
+	}
+	10880.1.1={
+		holder = bodpa0216
+	}
+	10900.1.1={
+		holder = bodpa0217
+	}
+	10920.1.1={
+		holder = bodpa0218
+	}
+	10940.1.1={
+		holder = bodpa0219
+	}
+	10960.1.1={
+		holder = bodpa0220
+	}
+	10980.1.1={
+		holder = bodpa0221
+	}
+	11000.1.1={
+		holder = bodpa0222
+	}
+	11020.1.1={
+		holder = bodpa0223
+	}
+	11040.1.1={
+		holder = bodpa0224
+	}
+	11060.1.1={
+		holder = bodpa0225
+	}
+	11080.1.1={
+		holder = bodpa0226
+	}
+	11100.1.1={
+		holder = bodpa0227
+	}
+	11120.1.1={
+		holder = bodpa0228
+	}
+	11140.1.1={
+		holder = bodpa0229
+	}
+	11160.1.1={
+		holder = bodpa0230
+	}
+	11180.1.1={
+		holder = bodpa0231
+	}
+	11200.1.1={
+		holder = bodpa0232
+	}
+	11220.1.1={
+		holder = bodpa0233
+	}
+	11240.1.1={
+		holder = bodpa0234
+	}
+	11260.1.1={
+		holder = bodpa0235
+	}
+	11280.1.1={
+		holder = bodpa0236
+	}
+	11300.1.1={
+		holder = bodpa0237
+	}
+	11320.1.1={
+		holder = bodpa0238
+	}
+	11340.1.1={
+		holder = bodpa0239
+	}
+	11360.1.1={
+		holder = bodpa0240
+	}
+}
+
+d_chakla = {
+	#Qiang Tribes
+	10634.1.1={
+		liege = "e_tibet"
+	}#Qiang tribes conquered by Tibetan Empire.
+	#Chakla Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0151
+	}
+	10800.1.1={
+		holder = bodpa0152
+	}
+	10820.1.1={
+		holder = bodpa0153
+	}
+	10840.1.1={
+		holder = bodpa0154
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege = 0
+	}
+	10860.1.1={
+		holder = bodpa0155
+	}
+	10880.1.1={
+		holder = bodpa0156
+	}
+	10900.1.1={
+		holder = bodpa0157
+	}
+	10920.1.1={
+		holder = bodpa0158
+	}
+	10940.1.1={
+		holder = bodpa0159
+	}
+	10960.1.1={
+		holder = bodpa0160
+	}
+	10980.1.1={
+		holder = bodpa0161
+	}
+	11000.1.1={
+		holder = bodpa0162
+	}
+	11020.1.1={
+		holder = bodpa0163
+	}
+	11040.1.1={
+		holder = bodpa0164
+	}
+	11060.1.1={
+		holder = bodpa0165
+	}
+	11080.1.1={
+		holder = bodpa0166
+	}
+	11100.1.1={
+		holder = bodpa0167
+	}
+	11120.1.1={
+		holder = bodpa0168
+	}
+	11140.1.1={
+		holder = bodpa0169
+	}
+	11160.1.1={
+		holder = bodpa0170
+	}
+	11180.1.1={
+		holder = bodpa0171
+	}
+	11200.1.1={
+		holder = bodpa0172
+	}
+	11220.1.1={
+		holder = bodpa0173
+	}
+	11240.1.1={
+		holder = bodpa0174
+	}
+	#Sakya Trizin established as overlord of Tibet by Yuan Dynasty
+	11251.1.1={
+		liege = "k_sakya_trizin"
+	}
+	11260.1.1={
+		holder = bodpa0175
+	}
+	11280.1.1={
+		holder = bodpa0176
+	}
+	11300.1.1={
+		holder = bodpa0177
+	}
+	11320.1.1={
+		holder = bodpa0178
+	}
+	11340.1.1={
+		holder = bodpa0179
+	}
+	#Phagmodrupa Kingdom supersedes Sakya in U and Tsang
+	11358.1.1={
+		liege = 0
+	}
+	11360.1.1={
+		holder = bodpa0180
+	}
+}
+
+
+c_chakla = {
+	#Qiang Tribes
+	10500.1.1={
+		liege="d_chakla"
+	}
+	#Chakla Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0151
+	}
+	10800.1.1={
+		holder = bodpa0152
+	}
+	10820.1.1={
+		holder = bodpa0153
+	}
+	10840.1.1={
+		holder = bodpa0154
+	}
+	10860.1.1={
+		holder = bodpa0155
+	}
+	10880.1.1={
+		holder = bodpa0156
+	}
+	10900.1.1={
+		holder = bodpa0157
+	}
+	10920.1.1={
+		holder = bodpa0158
+	}
+	10940.1.1={
+		holder = bodpa0159
+	}
+	10960.1.1={
+		holder = bodpa0160
+	}
+	10980.1.1={
+		holder = bodpa0161
+	}
+	11000.1.1={
+		holder = bodpa0162
+	}
+	11020.1.1={
+		holder = bodpa0163
+	}
+	11040.1.1={
+		holder = bodpa0164
+	}
+	11060.1.1={
+		holder = bodpa0165
+	}
+	11080.1.1={
+		holder = bodpa0166
+	}
+	11100.1.1={
+		holder = bodpa0167
+	}
+	11120.1.1={
+		holder = bodpa0168
+	}
+	11140.1.1={
+		holder = bodpa0169
+	}
+	11160.1.1={
+		holder = bodpa0170
+	}
+	11180.1.1={
+		holder = bodpa0171
+	}
+	11200.1.1={
+		holder = bodpa0172
+	}
+	11220.1.1={
+		holder = bodpa0173
+	}
+	11240.1.1={
+		holder = bodpa0174
+	}
+	11260.1.1={
+		holder = bodpa0175
+	}
+	11280.1.1={
+		holder = bodpa0176
+	}
+	11300.1.1={
+		holder = bodpa0177
+	}
+	11320.1.1={
+		holder = bodpa0178
+	}
+	11340.1.1={
+		holder = bodpa0179
+	}
+	11360.1.1={
+		holder = bodpa0180
+	}
+}
+
+
+c_lhagang = {
+	#Qiang Tribes
+	10500.1.1={
+		liege="d_chakla"
+	}
+	#Chakla Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0151
+	}
+	10800.1.1={
+		holder = bodpa0152
+	}
+	10820.1.1={
+		holder = bodpa0153
+	}
+	10840.1.1={
+		holder = bodpa0154
+	}
+	10860.1.1={
+		holder = bodpa0155
+	}
+	10880.1.1={
+		holder = bodpa0156
+	}
+	10900.1.1={
+		holder = bodpa0157
+	}
+	10920.1.1={
+		holder = bodpa0158
+	}
+	10940.1.1={
+		holder = bodpa0159
+	}
+	10960.1.1={
+		holder = bodpa0160
+	}
+	10980.1.1={
+		holder = bodpa0161
+	}
+	11000.1.1={
+		holder = bodpa0162
+	}
+	11020.1.1={
+		holder = bodpa0163
+	}
+	11040.1.1={
+		holder = bodpa0164
+	}
+	11060.1.1={
+		holder = bodpa0165
+	}
+	11080.1.1={
+		holder = bodpa0166
+	}
+	11100.1.1={
+		holder = bodpa0167
+	}
+	11120.1.1={
+		holder = bodpa0168
+	}
+	11140.1.1={
+		holder = bodpa0169
+	}
+	11160.1.1={
+		holder = bodpa0170
+	}
+	11180.1.1={
+		holder = bodpa0171
+	}
+	11200.1.1={
+		holder = bodpa0172
+	}
+	11220.1.1={
+		holder = bodpa0173
+	}
+	11240.1.1={
+		holder = bodpa0174
+	}
+	11260.1.1={
+		holder = bodpa0175
+	}
+	11280.1.1={
+		holder = bodpa0176
+	}
+	11300.1.1={
+		holder = bodpa0177
+	}
+	11320.1.1={
+		holder = bodpa0178
+	}
+	11340.1.1={
+		holder = bodpa0179
+	}
+	11360.1.1={
+		holder = bodpa0180
+	}
+}
+
+
+c_dawu = {
+	#Qiang Tribes
+	10500.1.1={
+		liege = "d_chakla"
+	}
+	#Chakla Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0151
+	}
+	10800.1.1={
+		holder = bodpa0152
+	}
+	10820.1.1={
+		holder = bodpa0153
+	}
+	10840.1.1={
+		holder = bodpa0154
+	}
+	10860.1.1={
+		holder = bodpa0155
+	}
+	10880.1.1={
+		holder = bodpa0156
+	}
+	10900.1.1={
+		holder = bodpa0157
+	}
+	10920.1.1={
+		holder = bodpa0158
+	}
+	10940.1.1={
+		holder = bodpa0159
+	}
+	10960.1.1={
+		holder = bodpa0160
+	}
+	10980.1.1={
+		holder = bodpa0161
+	}
+	11000.1.1={
+		holder = bodpa0162
+	}
+	11020.1.1={
+		holder = bodpa0163
+	}
+	11040.1.1={
+		holder = bodpa0164
+	}
+	11060.1.1={
+		holder = bodpa0165
+	}
+	11080.1.1={
+		holder = bodpa0166
+	}
+	11100.1.1={
+		holder = bodpa0167
+	}
+	11120.1.1={
+		holder = bodpa0168
+	}
+	11140.1.1={
+		holder = bodpa0169
+	}
+	11160.1.1={
+		holder = bodpa0170
+	}
+	11180.1.1={
+		holder = bodpa0171
+	}
+	11200.1.1={
+		holder = bodpa0172
+	}
+	11220.1.1={
+		holder = bodpa0173
+	}
+	11240.1.1={
+		holder = bodpa0174
+	}
+	11260.1.1={
+		holder = bodpa0175
+	}
+	11280.1.1={
+		holder = bodpa0176
+	}
+	11300.1.1={
+		holder = bodpa0177
+	}
+	11320.1.1={
+		holder = bodpa0178
+	}
+	11340.1.1={
+		holder = bodpa0179
+	}
+	11360.1.1={
+		holder = bodpa0180
+	}
+}
+
+
+#c_draggo = { #DELETE
+#	#Qiang Tribes
+#	10500.1.1={
+#		liege = "d_draggo"
+#	}
+#	#Drakgo Dynasty - fictional Placeholders
+#	10740.1.1={
+#		holder = bodpa0121
+#	}
+#	10800.1.1={
+#		holder = bodpa0122
+#	}
+#	10820.1.1={
+#		holder = bodpa0123
+#	}
+#	10840.1.1={
+#		holder = bodpa0124
+#	}
+#	10860.1.1={
+#		holder = bodpa0125
+#	}
+#	10880.1.1={
+#		holder = bodpa0126
+#	}
+#	10900.1.1={
+#		holder = bodpa0127
+#	}
+#	10920.1.1={
+#		holder = bodpa0128
+#	}
+#	10940.1.1={
+#		holder = bodpa0129
+#	}
+#	10960.1.1={
+#		holder = bodpa0130
+#	}
+#	10980.1.1={
+#		holder = bodpa0131
+#	}
+#	11000.1.1={
+#		holder = bodpa0132
+#	}
+#	11020.1.1={
+#		holder = bodpa0133
+#	}
+#	11040.1.1={
+#		holder = bodpa0134
+#	}
+#	11060.1.1={
+#		holder = bodpa0135
+#	}
+#	11080.1.1={
+#		holder = bodpa0136
+#	}
+#	11100.1.1={
+#		holder = bodpa0137
+#	}
+#	11120.1.1={
+#		holder = bodpa0138
+#	}
+#	11140.1.1={
+#		holder = bodpa0139
+#	}
+#	11160.1.1={
+#		holder = bodpa0140
+#	}
+#	11180.1.1={
+#		holder = bodpa0141
+#	}
+#	11200.1.1={
+#		holder = bodpa0142
+#	}
+#	11220.1.1={
+#		holder = bodpa0143
+#	}
+#	11240.1.1={
+#		holder = bodpa0144
+#	}
+#	11260.1.1={
+#		holder = bodpa0145
+#	}
+#	11280.1.1={
+#		holder = bodpa0146
+#	}
+#	11300.1.1={
+#		holder = bodpa0147
+#	}
+#	11320.1.1={
+#		holder = bodpa0148
+#	}
+#	11340.1.1={
+#		holder = bodpa0149
+#	}
+#	11360.1.1={
+#		holder = bodpa0150
+#	}
+#}
+
+
+c_sertar = {
+	#Qiang Tribes
+	10500.1.1={
+		liege = "d_chakla"
+	}
+	#Drakgo Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0121
+	}
+	10800.1.1={
+		holder = bodpa0122
+	}
+	10820.1.1={
+		holder = bodpa0123
+	}
+	10840.1.1={
+		holder = bodpa0124
+	}
+	10860.1.1={
+		holder = bodpa0125
+	}
+	10880.1.1={
+		holder = bodpa0126
+	}
+	10900.1.1={
+		holder = bodpa0127
+	}
+	10920.1.1={
+		holder = bodpa0128
+	}
+	10940.1.1={
+		holder = bodpa0129
+	}
+	10960.1.1={
+		holder = bodpa0130
+	}
+	10980.1.1={
+		holder = bodpa0131
+	}
+	11000.1.1={
+		holder = bodpa0132
+	}
+	11020.1.1={
+		holder = bodpa0133
+	}
+	11040.1.1={
+		holder = bodpa0134
+	}
+	11060.1.1={
+		holder = bodpa0135
+	}
+	11080.1.1={
+		holder = bodpa0136
+	}
+	11100.1.1={
+		holder = bodpa0137
+	}
+	11120.1.1={
+		holder = bodpa0138
+	}
+	11140.1.1={
+		holder = bodpa0139
+	}
+	11160.1.1={
+		holder = bodpa0140
+	}
+	11180.1.1={
+		holder = bodpa0141
+	}
+	11200.1.1={
+		holder = bodpa0142
+	}
+	11220.1.1={
+		holder = bodpa0143
+	}
+	11240.1.1={
+		holder = bodpa0144
+	}
+	11260.1.1={
+		holder = bodpa0145
+	}
+	11280.1.1={
+		holder = bodpa0146
+	}
+	11300.1.1={
+		holder = bodpa0147
+	}
+	11320.1.1={
+		holder = bodpa0148
+	}
+	11340.1.1={
+		holder = bodpa0149
+	}
+	11360.1.1={
+		holder = bodpa0150
+	}
+}
+
+d_golog = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		#liege = "k_tuyuhun"
+	}
+	10670.1.1={
+		liege = "e_tibet"
+	}#Tuyuhun conquered by Tibetan Empire. The King escapes to China.
+	#Golok Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0091
+	}
+	10800.1.1={
+		holder = bodpa0092
+	}
+	10820.1.1={
+		holder = bodpa0093
+	}
+	10840.1.1={
+		holder = bodpa0094
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege = 0
+	}
+	10860.1.1={
+		holder = bodpa0095
+	}
+	10880.1.1={
+		holder = bodpa0096
+	}
+	10900.1.1={
+		holder = bodpa0097
+	}
+	10920.1.1={
+		holder = bodpa0098
+	}
+	10940.1.1={
+		holder = bodpa0099
+	}
+	10960.1.1={
+		holder = bodpa0100
+	}
+	10980.1.1={
+		holder = bodpa0101
+	}
+	11000.1.1={
+		holder = bodpa0102
+	}
+	11020.1.1={
+		holder = bodpa0103
+	}
+	11040.1.1={
+		holder = bodpa0104
+	}
+	11060.1.1={
+		holder = bodpa0105
+	}
+	11080.1.1={
+		holder = bodpa0106
+	}
+	11100.1.1={
+		holder = bodpa0107
+	}
+	11120.1.1={
+		holder = bodpa0108
+	}
+	11140.1.1={
+		holder = bodpa0109
+	}
+	11160.1.1={
+		holder = bodpa0110
+	}
+	11180.1.1={
+		holder = bodpa0111
+	}
+	11200.1.1={
+		holder = bodpa0112
+	}
+	11220.1.1={
+		holder = bodpa0113
+	}
+	11240.1.1={
+		holder = bodpa0114
+	}
+	#Sakya Trizin established as overlord of Tibet by Yuan Dynasty
+	11251.1.1={
+		liege = "k_sakya_trizin"
+	}
+	11260.1.1={
+		holder = bodpa0115
+	}
+	11280.1.1={
+		holder = bodpa0116
+	}
+	11300.1.1={
+		holder = bodpa0117
+	}
+	11320.1.1={
+		holder = bodpa0118
+	}
+	11340.1.1={
+		holder = bodpa0119
+	}
+	#Phagmodrupa Kingdom supersedes Sakya in U and Tsang
+	11358.1.1={
+		liege = 0
+	}
+	11360.1.1={
+		holder = bodpa0120
+	}
+}
+
+c_maqen = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_golog"
+	}
+	#Golok Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0091
+	}
+	10800.1.1={
+		holder = bodpa0092
+	}
+	10820.1.1={
+		holder = bodpa0093
+	}
+	10840.1.1={
+		holder = bodpa0094
+	}
+	10860.1.1={
+		holder = bodpa0095
+	}
+	10880.1.1={
+		holder = bodpa0096
+	}
+	10900.1.1={
+		holder = bodpa0097
+	}
+	10920.1.1={
+		holder = bodpa0098
+	}
+	10940.1.1={
+		holder = bodpa0099
+	}
+	10960.1.1={
+		holder = bodpa0100
+	}
+	10980.1.1={
+		holder = bodpa0101
+	}
+	11000.1.1={
+		holder = bodpa0102
+	}
+	11020.1.1={
+		holder = bodpa0103
+	}
+	11040.1.1={
+		holder = bodpa0104
+	}
+	11060.1.1={
+		holder = bodpa0105
+	}
+	11080.1.1={
+		holder = bodpa0106
+	}
+	11100.1.1={
+		holder = bodpa0107
+	}
+	11120.1.1={
+		holder = bodpa0108
+	}
+	11140.1.1={
+		holder = bodpa0109
+	}
+	11160.1.1={
+		holder = bodpa0110
+	}
+	11180.1.1={
+		holder = bodpa0111
+	}
+	11200.1.1={
+		holder = bodpa0112
+	}
+	11220.1.1={
+		holder = bodpa0113
+	}
+	11240.1.1={
+		holder = bodpa0114
+	}
+	11260.1.1={
+		holder = bodpa0115
+	}
+	11280.1.1={
+		holder = bodpa0116
+	}
+	11300.1.1={
+		holder = bodpa0117
+	}
+	11320.1.1={
+		holder = bodpa0118
+	}
+	11340.1.1={
+		holder = bodpa0119
+	}
+	11360.1.1={
+		holder = bodpa0120
+	}
+}
+
+
+c_madoi = {
+	#Sumpa Kingdom (c.200 - 755)
+	10200.1.1={
+		liege = "d_qumarleb"
+	}
+	#Chumarlep dynasty - fictional placeholders
+	10740.1.1={
+		holder = 305796
+	}
+	10800.1.1={
+		holder = 305797
+	}
+	10820.1.1={
+		holder = 305798
+	}
+	10840.1.1={
+		holder = 305799
+	}
+	10860.1.1={
+		holder = 305800
+	}
+	10880.1.1={
+		holder = 305801
+	}
+	10900.1.1={
+		holder = 305802
+	}
+	10920.1.1={
+		holder = 305803
+	}
+	10940.1.1={
+		holder = 305804
+	}
+	10960.1.1={
+		holder = 305805
+	}
+	10980.1.1={
+		holder = 305806
+	}
+	11000.1.1={
+		holder = 305807
+	}
+	11020.1.1={
+		holder = 305808
+	}
+	11040.1.1={
+		holder = 305809
+	}
+	11060.1.1={
+		holder = 305810
+	}
+	11080.1.1={
+		holder = 305811
+	}
+	11100.1.1={
+		holder = 305812
+	}
+	11120.1.1={
+		holder = 305813
+	}
+	11140.1.1={
+		holder = 305814
+	}
+	11160.1.1={
+		holder = 305815
+	}
+	11180.1.1={
+		holder = 305816
+	}
+	11200.1.1={
+		holder = 305817
+	}
+	11220.1.1={
+		holder = 305818
+	}
+	11240.1.1={
+		holder = 305819
+	}
+	11260.1.1={
+		holder = 305820
+	}
+	11280.1.1={
+		holder = 305821
+	}
+	11300.1.1={
+		holder = 305822
+	}
+	11320.1.1={
+		holder = 305823
+	}
+	11340.1.1={
+		holder = 305824
+	}
+	11360.1.1={
+		holder = 305825
+	}
+}
+
+
+c_baima = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_golog"
+	}
+	#Golok Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0091
+	}
+	10800.1.1={
+		holder = bodpa0092
+	}
+	10820.1.1={
+		holder = bodpa0093
+	}
+	10840.1.1={
+		holder = bodpa0094
+	}
+	10860.1.1={
+		holder = bodpa0095
+	}
+	10880.1.1={
+		holder = bodpa0096
+	}
+	10900.1.1={
+		holder = bodpa0097
+	}
+	10920.1.1={
+		holder = bodpa0098
+	}
+	10940.1.1={
+		holder = bodpa0099
+	}
+	10960.1.1={
+		holder = bodpa0100
+	}
+	10980.1.1={
+		holder = bodpa0101
+	}
+	11000.1.1={
+		holder = bodpa0102
+	}
+	11020.1.1={
+		holder = bodpa0103
+	}
+	11040.1.1={
+		holder = bodpa0104
+	}
+	11060.1.1={
+		holder = bodpa0105
+	}
+	11080.1.1={
+		holder = bodpa0106
+	}
+	11100.1.1={
+		holder = bodpa0107
+	}
+	11120.1.1={
+		holder = bodpa0108
+	}
+	11140.1.1={
+		holder = bodpa0109
+	}
+	11160.1.1={
+		holder = bodpa0110
+	}
+	11180.1.1={
+		holder = bodpa0111
+	}
+	11200.1.1={
+		holder = bodpa0112
+	}
+	11220.1.1={
+		holder = bodpa0113
+	}
+	11240.1.1={
+		holder = bodpa0114
+	}
+	11260.1.1={
+		holder = bodpa0115
+	}
+	11280.1.1={
+		holder = bodpa0116
+	}
+	11300.1.1={
+		holder = bodpa0117
+	}
+	11320.1.1={
+		holder = bodpa0118
+	}
+	11340.1.1={
+		holder = bodpa0119
+	}
+	11360.1.1={
+		holder = bodpa0120
+	}
+}
+
+d_malho = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		#liege = "k_tuyuhun"
+	}
+	10670.1.1={
+		liege = "e_tibet"
+	}#Tuyuhun conquered by Tibetan Empire. The King escapes to China.
+	#Sokwo Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0061
+	}
+	10800.1.1={
+		holder = bodpa0062
+	}
+	10820.1.1={
+		holder = bodpa0063
+	}
+	10840.1.1={
+		holder = bodpa0064
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege = 0
+	}
+	10860.1.1={
+		holder = bodpa0065
+	}
+	10880.1.1={
+		holder = bodpa0066
+	}
+	10900.1.1={
+		holder = bodpa0067
+	}
+	10920.1.1={
+		holder = bodpa0068
+	}
+	10940.1.1={
+		holder = bodpa0069
+	}
+	10960.1.1={
+		holder = bodpa0070
+	}
+	10980.1.1={
+		holder = bodpa0071
+	}
+	11000.1.1={
+		holder = bodpa0072
+	}
+	11020.1.1={
+		holder = bodpa0073
+	}
+	11040.1.1={
+		holder = bodpa0074
+	}
+	11060.1.1={
+		holder = bodpa0075
+	}
+	11080.1.1={
+		holder = bodpa0076
+	}
+	11100.1.1={
+		holder = bodpa0077
+	}
+	11120.1.1={
+		holder = bodpa0078
+	}
+	11140.1.1={
+		holder = bodpa0079
+	}
+	11160.1.1={
+		holder = bodpa0080
+	}
+	11180.1.1={
+		holder = bodpa0081
+	}
+	11200.1.1={
+		holder = bodpa0082
+	}
+	11220.1.1={
+		holder = bodpa0083
+	}
+	11240.1.1={
+		holder = bodpa0084
+	}
+	#Sakya Trizin established as overlord of Tibet by Yuan Dynasty
+	11251.1.1={
+		liege = "k_sakya_trizin"
+	}
+	11260.1.1={
+		holder = bodpa0085
+	}
+	11280.1.1={
+		holder = bodpa0086
+	}
+	11300.1.1={
+		holder = bodpa0087
+	}
+	11320.1.1={
+		holder = bodpa0088
+	}
+	11340.1.1={
+		holder = bodpa0089
+	}
+	#Phagmodrupa Kingdom supersedes Sakya in U and Tsang
+	11358.1.1={
+		liege = 0
+	}
+	11360.1.1={
+		holder = bodpa0090
+	}
+}
+
+c_rebgong = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_xining"
+	}
+	#Rongwo dynasty - fictional placeholders
+	10740.1.1={
+		holder = bodpa0031
+	}
+	10800.1.1={
+		holder = bodpa0032
+	}
+	10820.1.1={
+		holder = bodpa0033
+	}
+	10840.1.1={
+		holder = bodpa0034
+	}
+	10860.1.1={
+		holder = bodpa0035
+	}
+	10880.1.1={
+		holder = bodpa0036
+	}
+	10900.1.1={
+		holder = bodpa0037
+	}
+	10920.1.1={
+		holder = bodpa0038
+	}
+	10940.1.1={
+		holder = bodpa0039
+	}
+	10960.1.1={
+		holder = bodpa0040
+	}
+	10980.1.1={
+		holder = bodpa0041
+	}
+	11000.1.1={
+		holder = bodpa0042
+	}
+	11020.1.1={
+		holder = bodpa0043
+	}
+	11040.1.1={
+		holder = bodpa0044
+	}
+	11060.1.1={
+		holder = bodpa0045
+	}
+	11080.1.1={
+		holder = bodpa0046
+	}
+	11100.1.1={
+		holder = bodpa0047
+	}
+	11120.1.1={
+		holder = bodpa0048
+	}
+	11140.1.1={
+		holder = bodpa0049
+	}
+	11160.1.1={
+		holder = bodpa0050
+	}
+	11180.1.1={
+		holder = bodpa0051
+	}
+	11200.1.1={
+		holder = bodpa0052
+	}
+	11220.1.1={
+		holder = bodpa0053
+	}
+	#Xi Xia is destroyed by the Mongols
+	#Mongol-era Governors of Xining - fictional placeholders
+	11227.9.1={
+		liege = "d_malho"
+	}
+	11240.1.1={
+		holder = bodpa0054
+	}
+	11260.1.1={
+		holder = bodpa0055
+	}
+	11280.1.1={
+		holder = bodpa0056
+	}
+	11300.1.1={
+		holder = bodpa0057
+	}
+	11320.1.1={
+		holder = bodpa0058
+	}
+	11340.1.1={
+		holder = bodpa0059
+	}
+	11360.1.1={
+		holder = bodpa0060
+	}
+}
+
+
+c_mangra = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_malho"
+	}
+	#Sokwo Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0061
+	}
+	10800.1.1={
+		holder = bodpa0062
+	}
+	10820.1.1={
+		holder = bodpa0063
+	}
+	10840.1.1={
+		holder = bodpa0064
+	}
+	10860.1.1={
+		holder = bodpa0065
+	}
+	10880.1.1={
+		holder = bodpa0066
+	}
+	10900.1.1={
+		holder = bodpa0067
+	}
+	10920.1.1={
+		holder = bodpa0068
+	}
+	10940.1.1={
+		holder = bodpa0069
+	}
+	10960.1.1={
+		holder = bodpa0070
+	}
+	10980.1.1={
+		holder = bodpa0071
+	}
+	11000.1.1={
+		holder = bodpa0072
+	}
+	11020.1.1={
+		holder = bodpa0073
+	}
+	11040.1.1={
+		holder = bodpa0074
+	}
+	11060.1.1={
+		holder = bodpa0075
+	}
+	11080.1.1={
+		holder = bodpa0076
+	}
+	11100.1.1={
+		holder = bodpa0077
+	}
+	11120.1.1={
+		holder = bodpa0078
+	}
+	11140.1.1={
+		holder = bodpa0079
+	}
+	11160.1.1={
+		holder = bodpa0080
+	}
+	11180.1.1={
+		holder = bodpa0081
+	}
+	11200.1.1={
+		holder = bodpa0082
+	}
+	11220.1.1={
+		holder = bodpa0083
+	}
+	11240.1.1={
+		holder = bodpa0084
+	}
+	11260.1.1={
+		holder = bodpa0085
+	}
+	11280.1.1={
+		holder = bodpa0086
+	}
+	11300.1.1={
+		holder = bodpa0087
+	}
+	11320.1.1={
+		holder = bodpa0088
+	}
+	11340.1.1={
+		holder = bodpa0089
+	}
+	11360.1.1={
+		holder = bodpa0090
+	}
+}
+
+
+c_zekog = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_malho"
+	}
+	#Sokwo Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0061
+	}
+	10800.1.1={
+		holder = bodpa0062
+	}
+	10820.1.1={
+		holder = bodpa0063
+	}
+	10840.1.1={
+		holder = bodpa0064
+	}
+	10860.1.1={
+		holder = bodpa0065
+	}
+	10880.1.1={
+		holder = bodpa0066
+	}
+	10900.1.1={
+		holder = bodpa0067
+	}
+	10920.1.1={
+		holder = bodpa0068
+	}
+	10940.1.1={
+		holder = bodpa0069
+	}
+	10960.1.1={
+		holder = bodpa0070
+	}
+	10980.1.1={
+		holder = bodpa0071
+	}
+	11000.1.1={
+		holder = bodpa0072
+	}
+	11020.1.1={
+		holder = bodpa0073
+	}
+	11040.1.1={
+		holder = bodpa0074
+	}
+	11060.1.1={
+		holder = bodpa0075
+	}
+	11080.1.1={
+		holder = bodpa0076
+	}
+	11100.1.1={
+		holder = bodpa0077
+	}
+	11120.1.1={
+		holder = bodpa0078
+	}
+	11140.1.1={
+		holder = bodpa0079
+	}
+	11160.1.1={
+		holder = bodpa0080
+	}
+	11180.1.1={
+		holder = bodpa0081
+	}
+	11200.1.1={
+		holder = bodpa0082
+	}
+	11220.1.1={
+		holder = bodpa0083
+	}
+	11240.1.1={
+		holder = bodpa0084
+	}
+	11260.1.1={
+		holder = bodpa0085
+	}
+	11280.1.1={
+		holder = bodpa0086
+	}
+	11300.1.1={
+		holder = bodpa0087
+	}
+	11320.1.1={
+		holder = bodpa0088
+	}
+	11340.1.1={
+		holder = bodpa0089
+	}
+	11360.1.1={
+		holder = bodpa0090
+	}
+}
+
+d_gainlho = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		#liege = "k_tuyuhun"
+	}
+	10670.1.1={
+		liege = "e_tibet"
+	}#Tuyuhun conquered by Tibetan Empire. The King escapes to China.
+	#Chone dynasty - fictional placeholders
+	10740.1.1={
+		holder = bodpa0001
+	}
+	10800.1.1={
+		holder = bodpa0002
+	}
+	10820.1.1={
+		holder = bodpa0003
+	}
+	10840.1.1={
+		holder = bodpa0004
+	}
+	#Era of Fragmentation
+	10842.1.1={
+		liege = 0
+	}
+	10860.1.1={
+		holder = bodpa0005
+	}
+	10880.1.1={
+		holder = bodpa0006
+	}
+	10900.1.1={
+		holder = bodpa0007
+	}
+	10920.1.1={
+		holder = bodpa0008
+	}
+	10940.1.1={
+		holder = bodpa0009
+	}
+	10960.1.1={
+		holder = bodpa0010
+	}
+	10980.1.1={
+		holder = bodpa0011
+	}
+	11000.1.1={
+		holder = bodpa0012
+	}
+	11020.1.1={
+		holder = bodpa0013
+	}
+	11040.1.1={
+		holder = bodpa0014
+	}
+	11060.1.1={
+		holder = bodpa0015
+	}
+	11080.1.1={
+		holder = bodpa0016
+	}
+	11100.1.1={
+		holder = bodpa0017
+	}
+	11120.1.1={
+		holder = bodpa0018
+	}
+	11140.1.1={
+		holder = bodpa0019
+	}
+	11160.1.1={
+		holder = bodpa0020
+	}
+	11180.1.1={
+		holder = bodpa0021
+	}
+	11200.1.1={
+		holder = bodpa0022
+	}
+	11220.1.1={
+		holder = bodpa0023
+	}
+	11240.1.1={
+		holder = bodpa0024
+	}
+	#Sakya Trizin established as overlord of Tibet by Yuan Dynasty
+	11251.1.1={
+		liege = "k_sakya_trizin"
+	}
+	11260.1.1={
+		holder = bodpa0025
+	}
+	11280.1.1={
+		holder = bodpa0026
+	}
+	11300.1.1={
+		holder = bodpa0027
+	}
+	11320.1.1={
+		holder = bodpa0028
+	}
+	11340.1.1={
+		holder = bodpa0029
+	}
+	#Phagmodrupa Kingdom supersedes Sakya in U and Tsang
+	11358.1.1={
+		liege = 0
+	}
+	11360.1.1={
+		holder = bodpa0030
+	}
+}
+
+c_jone = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_gainlho"
+	}
+	#Chone dynasty - fictional placeholders
+	10740.1.1={
+		holder = bodpa0001
+	}
+	10800.1.1={
+		holder = bodpa0002
+	}
+	10820.1.1={
+		holder = bodpa0003
+	}
+	10840.1.1={
+		holder = bodpa0004
+	}
+	10860.1.1={
+		holder = bodpa0005
+	}
+	10880.1.1={
+		holder = bodpa0006
+	}
+	10900.1.1={
+		holder = bodpa0007
+	}
+	10920.1.1={
+		holder = bodpa0008
+	}
+	10940.1.1={
+		holder = bodpa0009
+	}
+	10960.1.1={
+		holder = bodpa0010
+	}
+	10980.1.1={
+		holder = bodpa0011
+	}
+	11000.1.1={
+		holder = bodpa0012
+	}
+	11020.1.1={
+		holder = bodpa0013
+	}
+	11040.1.1={
+		holder = bodpa0014
+	}
+	11060.1.1={
+		holder = bodpa0015
+	}
+	11080.1.1={
+		holder = bodpa0016
+	}
+	11100.1.1={
+		holder = bodpa0017
+	}
+	11120.1.1={
+		holder = bodpa0018
+	}
+	11140.1.1={
+		holder = bodpa0019
+	}
+	11160.1.1={
+		holder = bodpa0020
+	}
+	11180.1.1={
+		holder = bodpa0021
+	}
+	11200.1.1={
+		holder = bodpa0022
+	}
+	11220.1.1={
+		holder = bodpa0023
+	}
+	11240.1.1={
+		holder = bodpa0024
+	}
+	11260.1.1={
+		holder = bodpa0025
+	}
+	11280.1.1={
+		holder = bodpa0026
+	}
+	11300.1.1={
+		holder = bodpa0027
+	}
+	11320.1.1={
+		holder = bodpa0028
+	}
+	11340.1.1={
+		holder = bodpa0029
+	}
+	11360.1.1={
+		holder = bodpa0030
+	}
+}
+
+
+c_sangqu = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_gainlho"
+	}
+	#Chone dynasty - fictional placeholders
+	10740.1.1={
+		holder = bodpa0001
+	}
+	10800.1.1={
+		holder = bodpa0002
+	}
+	10820.1.1={
+		holder = bodpa0003
+	}
+	10840.1.1={
+		holder = bodpa0004
+	}
+	10860.1.1={
+		holder = bodpa0005
+	}
+	10880.1.1={
+		holder = bodpa0006
+	}
+	10900.1.1={
+		holder = bodpa0007
+	}
+	10920.1.1={
+		holder = bodpa0008
+	}
+	10940.1.1={
+		holder = bodpa0009
+	}
+	10960.1.1={
+		holder = bodpa0010
+	}
+	10980.1.1={
+		holder = bodpa0011
+	}
+	11000.1.1={
+		holder = bodpa0012
+	}
+	11020.1.1={
+		holder = bodpa0013
+	}
+	11040.1.1={
+		holder = bodpa0014
+	}
+	11060.1.1={
+		holder = bodpa0015
+	}
+	11080.1.1={
+		holder = bodpa0016
+	}
+	11100.1.1={
+		holder = bodpa0017
+	}
+	11120.1.1={
+		holder = bodpa0018
+	}
+	11140.1.1={
+		holder = bodpa0019
+	}
+	11160.1.1={
+		holder = bodpa0020
+	}
+	11180.1.1={
+		holder = bodpa0021
+	}
+	11200.1.1={
+		holder = bodpa0022
+	}
+	11220.1.1={
+		holder = bodpa0023
+	}
+	11240.1.1={
+		holder = bodpa0024
+	}
+	11260.1.1={
+		holder = bodpa0025
+	}
+	11280.1.1={
+		holder = bodpa0026
+	}
+	11300.1.1={
+		holder = bodpa0027
+	}
+	11320.1.1={
+		holder = bodpa0028
+	}
+	11340.1.1={
+		holder = bodpa0029
+	}
+	11360.1.1={
+		holder = bodpa0030
+	}
+}
+
+
+c_tewo = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_gainlho"
+	}
+	#Chone dynasty - fictional placeholders
+	10740.1.1={
+		holder = bodpa0001
+	}
+	10800.1.1={
+		holder = bodpa0002
+	}
+	10820.1.1={
+		holder = bodpa0003
+	}
+	10840.1.1={
+		holder = bodpa0004
+	}
+	10860.1.1={
+		holder = bodpa0005
+	}
+	10880.1.1={
+		holder = bodpa0006
+	}
+	10900.1.1={
+		holder = bodpa0007
+	}
+	10920.1.1={
+		holder = bodpa0008
+	}
+	10940.1.1={
+		holder = bodpa0009
+	}
+	10960.1.1={
+		holder = bodpa0010
+	}
+	10980.1.1={
+		holder = bodpa0011
+	}
+	11000.1.1={
+		holder = bodpa0012
+	}
+	11020.1.1={
+		holder = bodpa0013
+	}
+	11040.1.1={
+		holder = bodpa0014
+	}
+	11060.1.1={
+		holder = bodpa0015
+	}
+	11080.1.1={
+		holder = bodpa0016
+	}
+	11100.1.1={
+		holder = bodpa0017
+	}
+	11120.1.1={
+		holder = bodpa0018
+	}
+	11140.1.1={
+		holder = bodpa0019
+	}
+	11160.1.1={
+		holder = bodpa0020
+	}
+	11180.1.1={
+		holder = bodpa0021
+	}
+	11200.1.1={
+		holder = bodpa0022
+	}
+	11220.1.1={
+		holder = bodpa0023
+	}
+	11240.1.1={
+		holder = bodpa0024
+	}
+	11260.1.1={
+		holder = bodpa0025
+	}
+	11280.1.1={
+		holder = bodpa0026
+	}
+	11300.1.1={
+		holder = bodpa0027
+	}
+	11320.1.1={
+		holder = bodpa0028
+	}
+	11340.1.1={
+		holder = bodpa0029
+	}
+	11360.1.1={
+		holder = bodpa0030
+	}
+}
+
+
+c_maqu = {
+	#Tuyuhun Kingdom (284 - 670)
+	10284.1.1={
+		liege = "d_malho"
+	}
+	#Sokwo Dynasty - fictional Placeholders
+	10740.1.1={
+		holder = bodpa0061
+	}
+	10800.1.1={
+		holder = bodpa0062
+	}
+	10820.1.1={
+		holder = bodpa0063
+	}
+	10840.1.1={
+		holder = bodpa0064
+	}
+	10860.1.1={
+		holder = bodpa0065
+	}
+	10880.1.1={
+		holder = bodpa0066
+	}
+	10900.1.1={
+		holder = bodpa0067
+	}
+	10920.1.1={
+		holder = bodpa0068
+	}
+	10940.1.1={
+		holder = bodpa0069
+	}
+	10960.1.1={
+		holder = bodpa0070
+	}
+	10980.1.1={
+		holder = bodpa0071
+	}
+	11000.1.1={
+		holder = bodpa0072
+	}
+	11020.1.1={
+		holder = bodpa0073
+	}
+	11040.1.1={
+		holder = bodpa0074
+	}
+	11060.1.1={
+		holder = bodpa0075
+	}
+	11080.1.1={
+		holder = bodpa0076
+	}
+	11100.1.1={
+		holder = bodpa0077
+	}
+	11120.1.1={
+		holder = bodpa0078
+	}
+	11140.1.1={
+		holder = bodpa0079
+	}
+	11160.1.1={
+		holder = bodpa0080
+	}
+	11180.1.1={
+		holder = bodpa0081
+	}
+	11200.1.1={
+		holder = bodpa0082
+	}
+	11220.1.1={
+		holder = bodpa0083
+	}
+	11240.1.1={
+		holder = bodpa0084
+	}
+	11260.1.1={
+		holder = bodpa0085
+	}
+	11280.1.1={
+		holder = bodpa0086
+	}
+	11300.1.1={
+		holder = bodpa0087
+	}
+	11320.1.1={
+		holder = bodpa0088
+	}
+	11340.1.1={
+		holder = bodpa0089
+	}
+	11360.1.1={
+		holder = bodpa0090
+	}
+}
+

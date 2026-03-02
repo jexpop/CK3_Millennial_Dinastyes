@@ -1,0 +1,1341 @@
+﻿###867 Polabian tribes (characters converted from Pommeranian culture)
+#Fictional characters, dyn names based on actual tribes
+#Hevellians
+168582 = {
+	name = "Mscislav"
+	dynasty = 9605
+	religion = "slavic_pagan"
+	culture = "polabian"
+	10848.1.1 = {
+		birth = yes
+	}
+	10898.1.1 = {
+		death = yes
+	}
+}
+168583 = {
+	name = "Radoslav"
+	dynasty = 9606
+	religion = "slavic_pagan"
+	culture = "polabian"
+	10847.1.1 = {
+		birth = yes
+	}
+	10898.1.1 = {
+		death = yes
+	}
+}
+#Sorbians
+168584 = {
+	name = "Bretislav"
+	dynasty = 9607
+	religion = "slavic_pagan"
+	culture = "polabian"
+	10846.1.1 = {
+		birth = yes
+	}
+	10898.1.1 = {
+		death = yes
+	}
+}
+#Obotrites
+194062 = {
+	name = "Boriwoj"
+	dynasty = 1042800
+	religion = slavic_pagan
+	culture = polabian
+	10733.1.1 = {
+		birth = yes
+	}
+	10799.1.1 = {
+		death = yes
+	}
+}
+194063 = {
+	name = "Bretislav"
+	dynasty = 1042800
+	religion = slavic_pagan
+	culture = polabian
+	father = 194062
+	10760.1.1 = {
+		birth = yes
+	}
+	10822.1.1 = {
+		death = yes
+	}
+}
+194064 = {
+	name = "Swietopelk"
+	dynasty = 1042800
+	religion = slavic_pagan
+	culture = polabian
+	father = 194063
+	10800.1.1 = {
+		birth = yes
+	}
+	10866.1.1 = {
+		death = yes
+	}
+}
+184001 = {
+	name = Msciwoj
+	dynasty = 1042800
+	religion = slavic_pagan
+	culture = polabian
+	father = 194064
+	10830.1.1 = {
+		birth = yes
+	}
+	10890.1.1 = {
+		death = yes
+	}
+}
+6894 = {
+	name = Smiechna
+	female = yes
+	dynasty = 1042800
+	religion = slavic_pagan
+	culture = polabian
+	father = 184001
+	10849.1.1 = {
+		birth = yes
+	}
+	10897.1.1 = {
+		death = yes
+	}
+}
+#Upper Lusatia
+168600 = {
+	name = "Milyduch"
+	dynasty = 1042804
+	religion = "slavic_pagan"
+	culture = "polabian"
+	10750.1.1 = {
+		birth = yes
+	}
+	10806.1.1 = {
+		death = yes
+	}
+}
+168601 = {
+	name = "Czimislav"
+	dynasty = 1042804
+	religion = "slavic_pagan"
+	culture = "polabian"
+	father = 168600
+	10790.1.1 = {
+		birth = yes
+	}
+	10850.1.1 = {
+		death = yes
+	}
+}
+184005 = {
+	name = "Zistisbor"
+	dynasty = 1042804
+	religion = "slavic_pagan"
+	culture = "polabian"
+	father = 168601
+	10830.1.1 = {
+		birth = "10830.1.1"
+	}
+	10885.1.1 = {
+		death = "10885.1.1"
+	}
+}
+168602 = {
+	name = "Bjarnat"
+	dynasty = 1042804
+	religion = "slavic_pagan"
+	culture = "polabian"
+	father = 184005
+	10855.1.1 = {
+		birth = yes
+	}
+	10920.1.1 = {
+		death = yes
+	}
+}
+#Lower Lusatia
+302074 = {
+	name = "Jaromir"
+	dynasty = 2001015		#Lusici
+	religion = slavic_pagan
+	culture = polabian
+	10839.1.1 = {
+		birth = 10839.1.1
+	}
+	10896.1.1 = {
+		death = 10896.1.1
+	}
+}
+#Berlin
+302075 = {
+	name = "Kruto"
+	dynasty = 2001016		#Sprevane
+	religion = slavic_pagan
+	culture = polabian
+	10840.1.1 = {
+		birth = 10840.1.1
+	}
+	10899.1.1 = {
+		death = 10899.1.1
+	}
+}
+#Prenzlau
+302076 = {
+	name = "Kruto"
+	dynasty = 2001017		#Ukrian
+	religion = slavic_pagan
+	culture = polabian
+	10832.1.1 = {
+		birth = 10832.1.1
+	}
+	10891.1.1 = {
+		death = 10891.1.1
+	}
+}
+#Meissen/Lusatia
+184007 = {
+	name = "Radomil"
+	dynasty = 1042806
+	religion = slavic_pagan
+	culture = polabian
+	10840.1.1 = {
+		birth = yes
+	}
+	10910.1.1 = {
+		death = yes
+	}
+}
+#Rani
+302073 = {
+	name = Oldrich
+	dynasty = 2001014		#Rani
+	religion = slavic_pagan
+	culture = polabian
+	10834.8.30 = {
+		birth = 10834.8.30
+	}
+	10890.8.20 = {
+		death = 10890.8.20
+	}
+}
+#Veleti
+302072 = {
+	name = Ludvik
+	dynasty = 2001013		#Veleti
+	religion = slavic_pagan
+	culture = polabian
+	10845.3.20 = {
+		birth = 10845.3.20
+	}
+	10901.7.6 = {
+		death = 10901.7.6
+	}
+}
+#Ruler of Rana/rugen in 1066
+8420 = {
+	name = "Przybyslaw"
+	dynasty = 100304
+	martial = 5
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "slavic_pagan"
+	culture = "polabian"
+	trait = zealous
+	trait = gluttonous
+	trait = education_martial_2
+	11030.1.15 = {
+		birth = "11030.1.15"
+	}
+	11080.1.15 = {
+		death = "11080.1.15"
+	}
+}
+#Redari, in c_prenzlau & c_berlin 866
+303435 = {
+	name = "Walenty"	#fictional placeholder
+	dynasty = 2001323	#Redari, fictional placeholder
+	religion = slavic_pagan
+	culture = polabian
+	10844.1.1 = {
+		birth = yes
+	}
+	10901.1.1 = {
+		death = yes
+	}
+}
+
+###1066 Polabians
+20584 = {
+	name = "Krutoj" #High chief of Mecklenburg
+	dna = "20584_krutoj_nordmark"
+	dynasty = 101890
+	martial = 8
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 10
+	learning = 4
+	religion = "slavic_pagan"
+	culture = "polabian"
+	trait = arrogant
+	trait = diligent
+	trait = greedy
+	trait = education_martial_4
+	father = 20586
+	11035.1.1 = {
+		birth = "11035.1.1"
+	}
+	11076.1.1 = {
+		add_spouse = 30480 #Slavia z Liubice
+	}
+	11093.1.1 = {
+		death = "11093.1.1"
+	}
+}
+221730 = {
+	name = "Testislaw"
+	dynasty = 101890
+	martial = 4
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 5
+	religion = "slavic_pagan"
+	culture = "polabian"
+	trait = deceitful
+	trait = education_martial_3
+	father = 221734
+	11138.1.2 = {
+		birth = "11138.1.2"
+	}
+	
+	11168.1.1 = {
+		religion = "catholic"
+	}
+	
+	11170.1.1 = {
+		death = "11170.1.1"
+	}
+}
+
+221732 = {
+	name = "Lucia"
+	female = yes
+	dynasty = 101890
+	martial = 6
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = "polabian"
+	father = 221735
+	mother = 201512
+	11187.1.1 = {
+		birth = "11187.1.1"
+	}
+	11210.1.1 = {
+		death = "11210.1.1"
+	}
+}
+
+221734 = {
+	name = "Wizlaw"
+	dynasty = 101890
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "slavic_pagan"
+	culture = "polabian"
+	trait = education_martial_2
+	father = 30482 #Rostislav
+	11122.1.1 = {
+		birth = "11122.1.1"
+	}
+	11163.1.1 = {
+		death = "11163.1.1"
+	}
+}
+
+221735 = {
+	name = "Jaromar"
+	dynasty = 101890
+	martial = 4
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 5
+	religion = "slavic_pagan"
+	culture = "polabian"
+	trait = honest
+	trait = calm
+	trait = education_martial_2
+	father = 221734 #Wizlaw
+	
+	11147.1.1 = {
+		birth = "11147.1.1"
+	}
+	
+	#Danes conquer and convert Rügen
+	
+	11168.1.1 = {
+		religion = "catholic"
+	}
+	
+	11178.1.1 = {
+		add_spouse = 201512
+	}
+	
+	11218.1.1 = {
+		death = "11218.1.1"
+	}
+}
+
+221736 = {
+	name = "Barnuta"
+	dynasty = 101890
+	martial = 4
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = "polabian"
+	father = 221735
+	mother = 201512
+	11185.1.1 = {
+		birth = "11185.1.1"
+	}
+	11236.1.1 = {
+		death = "11236.1.1"
+	}
+}
+
+221737 = {
+	name = "Wizlaw"
+	dynasty = 101890
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "polabian"
+	father = 221735
+	mother = 201512
+	11186.1.1 = {
+		birth = "11186.1.1"
+	}
+	11212.1.1 = {
+		add_spouse = 30488 #Margarete Hvide
+	}
+	
+	
+	11256.1.1 = {
+		death = "11256.1.1"
+	}
+}
+30481 = {
+	name = "Wartislaw" #ruler of Rugen
+	dynasty = 101890
+	religion = "slavic_pagan"
+	culture = "polabian"
+	father = 20584 #Krutoj
+	mother = 30480 #Slavina
+	11077.1.1 = {
+		birth = "11077.1.1"
+	}
+	11135.1.1 = {
+		death = "11135.1.1"
+	}
+}
+
+30482 = {
+	name = "Rostislav" #ruler of Rugen
+	dynasty = 101890
+	
+	religion = "slavic_pagan"
+	culture = "polabian"
+	
+	father = 30481 #Wartislaw
+	
+	
+	11104.1.1 = {
+		birth = "11104.1.1"
+	}
+	11141.1.1 = {
+		death = "11141.1.1"
+	}
+}
+
+30483 = {
+	name = "Wizlaw"
+	dynasty = 101890
+	
+	religion = "slavic_pagan"
+	culture = "polabian"
+	
+	
+	
+	10955.1.1 = {
+		birth = "10955.1.1"
+	}
+	11016.1.1 = {
+		death = "11016.1.1"
+	}
+}
+
+30484 = {
+	name = "Dubizlaw"
+	dynasty = 101890
+	religion = "slavic_pagan"
+	culture = "polabian"
+	
+	father = 221734 #Wizlaw
+	11148.1.1 = {
+		birth = "11148.1.1"
+	}
+	
+	#Danes conquer and convert Rügen
+	
+	11168.1.1 = {
+		religion = "catholic"
+	}
+	
+	11173.1.1 = {
+		death = "11173.1.1"
+	}
+}
+
+30485 = {
+	name = "Stoislaw"
+	dynasty = 101890
+	religion = "slavic_pagan"
+	culture = "polabian"
+	
+	father = 221734 #Wizlaw
+	11149.1.1 = {
+		birth = "11149.1.1"
+	}
+	
+	#Danes conquer and convert Rügen
+	
+	11168.1.1 = {
+		religion = "catholic"
+	}
+	
+	11193.1.1 = {
+		death = "11193.1.1"
+	}
+}
+
+30486 = {
+	name = "Pybygnew"
+	dynasty = 101890
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "polabian"
+	father = 221735
+	mother = 201512
+	11191.1.1 = {
+		birth = "11191.1.1"
+	}
+	11232.1.1 = {
+		death = "11232.1.1"
+	}
+}
+
+30487 = {
+	name = "Swietopelk"
+	dynasty = 101890
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "polabian"
+	father = 221735
+	mother = 201512
+	11192.1.1 = {
+		birth = "11192.1.1"
+	}
+	11208.1.1 = {
+		death = "11208.1.1"
+	}
+}
+
+30489 = {
+	name = "Jaroslaw"
+	dynasty = 101890
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "polabian"
+	father = 221737
+	mother = 30488
+	11215.1.1 = {
+		birth = "11215.1.1"
+	}
+	11243.1.1 = {
+		death = "11243.1.1"
+	}
+}
+
+30490 = {
+	name = "Petrus"
+	dynasty = 101890
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "polabian"
+	father = 221737
+	mother = 30488
+	11216.1.1 = {
+		birth = "11216.1.1"
+	}
+	11237.1.1 = {
+		death = "11237.1.1"
+	}
+}
+
+30491 = {
+	name = "Jaromar" #Jaromar II
+	dynasty = 101890
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "polabian"
+	father = 221737
+	mother = 30488
+	11218.1.1 = {
+		birth = "11218.1.1"
+	}
+	11241.1.1 = {
+		add_spouse = 30461 #Eufemia Subislawic
+	}
+	11260.8.20 = {
+		death = "11260.8.20"
+	}
+}
+
+30492 = {
+	name = "Wizlaw"
+	dynasty = 101890
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "polabian"
+	father = 221737
+	mother = 30488
+	11220.1.1 = {
+		birth = "11220.1.1"
+	}
+	11244.1.1 = {
+		death = "11244.1.1"
+	}
+}
+
+30493 = {
+	name = "Burislaw"
+	dynasty = 101890
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "polabian"
+	father = 221737
+	mother = 30488
+	11225.1.1 = {
+		birth = "11225.1.1"
+	}
+	11237.1.1 = {
+		death = "11237.1.1"
+	}
+}
+
+30494 = {
+	name = "MikolA_s"
+	# AKA: Mikolas
+	dynasty = 101890
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 6
+	religion = "catholic"
+	culture = "polabian"
+	father = 221737
+	mother = 30488
+	11227.1.1 = {
+		birth = "11227.1.1"
+	}
+	11237.1.1 = {
+		death = "11237.1.1"
+	}
+}
+
+30495 = {
+	name = "MarkE_ta"
+	# AKA: Marketa
+	female = yes
+	dynasty = 101890
+	religion = "catholic"
+	culture = "polabian"
+	father = 30491
+	mother = 30461
+	11247.1.1 = {
+		birth = "11247.1.1"
+	}
+	11272.1.1 = {
+		death = "11272.1.1"
+	}
+}
+
+30496 = {
+	name = "Jaromar" #Jaromar III
+	dynasty = 101890
+	religion = "catholic"
+	culture = "polabian"
+	father = 30491
+	mother = 30461
+	11249.1.1 = {
+		birth = "11249.1.1"
+	}
+	11285.1.1 = {
+		death = "11285.1.1"
+	}
+}
+
+30497 = {
+	name = "Wizlaw" #Wizlaw II
+	dynasty = 101890
+	religion = "catholic"
+	culture = "polabian"
+	father = 30491
+	mother = 30461
+	11242.1.1 = {
+		birth = "11242.1.1"
+	}
+	11257.1.1 = {
+		add_spouse = 30506 #Agnes Welf
+	}
+	11302.12.29 = {
+		death = "11302.12.29"
+	}
+}
+
+30498 = {
+	name = "Wizlaw" #Wizlaw III
+	dynasty = 101890
+	religion = "catholic"
+	culture = "polabian"
+	father = 30497
+	mother = 30506 #Agnes Welf
+	11265.1.1 = {
+		birth = "11265.1.1"
+	}
+	11305.1.1 = {
+		add_spouse = 33279
+	}
+	11325.1.1 = {
+		add_spouse = 462108
+	}
+	11325.11.8 = {
+		death = "11325.11.8"
+	}
+}
+
+30499 = {
+	name = "Jaromar"
+	dynasty = 101890
+	religion = "catholic"
+	culture = "polabian"
+	father = 30497
+	mother = 30506 #Agnes Welf
+	11267.1.1 = {
+		birth = "11267.1.1"
+	}
+	11294.1.1 = {
+		death = "11294.1.1"
+	}
+}
+
+30500 = {
+	name = "Sambor"
+	dynasty = 101890
+	religion = "catholic"
+	culture = "polabian"
+	trait = education_learning_2
+	father = 30497
+	mother = 30506 #Agnes Welf
+	11268.1.1 = {
+		birth = "11268.1.1"
+	}
+	11304.6.4 = {
+		death = "11304.6.4"
+	}
+}
+
+30501 = {
+	name = "Swietopelk"
+	dynasty = 101890
+	religion = "catholic"
+	culture = "polabian"
+	trait = education_learning_2
+	father = 30497
+	mother = 30506 #Agnes Welf
+	11273.1.1 = {
+		birth = "11273.1.1"
+	}
+	11285.1.1 = {
+		death = "11285.1.1"
+	}
+}
+
+30502 = {
+	name = "MarkE_ta"
+	# AKA: Marketa
+	female = yes
+	dynasty = 101890
+	religion = "catholic"
+	culture = "polabian"
+	trait = education_learning_2
+	father = 30497
+	mother = 30506 #Agnes Welf
+	11270.1.1 = {
+		birth = "11270.1.1"
+	}
+	11318.1.1 = {
+		death = "11318.1.1"
+	}
+}
+
+30503 = {
+	name = "Halina"
+	# AKA: Helena
+	female = yes
+	dynasty = 101890
+	religion = "catholic"
+	culture = "polabian"
+	trait = education_learning_2
+	father = 30497
+	mother = 30506 #Agnes Welf
+	11271.1.1 = {
+		birth = "11271.1.1"
+	}
+	11315.8.9 = {
+		death = "11315.8.9"
+	}
+}
+
+30504 = {
+	name = "Sophia"
+	female = yes
+	dynasty = 101890
+	religion = "catholic"
+	culture = "polabian"
+	trait = education_learning_2
+	father = 30497
+	mother = 30506 #Agnes Welf
+	11281.1.1 = {
+		birth = "11281.1.1"
+	}
+	11302.1.1 = {
+		death = "11302.1.1"
+	}
+}
+452511 = {
+	name = "Eufemia"
+	# AKA: Euphemia of Arnstein
+	female = yes
+	dynasty = 101890 #Wizlawid
+	martial = 8
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = "polabian"
+	trait = chaste
+	trait = lazy
+	trait = humble
+	trait = education_learning_2
+	father = 30497 #Wizlaw II
+	mother = 30506 #Agnes Welf
+	11282.1.1 = {
+		birth = "11282.1.1"
+	}
+	11312.1.2 = {
+		death = "11312.1.2"
+	}
+}
+33282 = {
+	name = "Eufemia"
+	female = yes
+	dynasty = 101890
+	religion = "catholic"
+	culture = "polabian"
+	trait = ill
+	father = 30498
+	mother = 33279
+	11306.1.1 = {
+		birth = "11306.1.1"
+	}
+	11313.1.1 = {
+		death = "11313.1.1"
+	}
+}
+
+33283 = {
+	name = "Agnes"
+	female = yes
+	dynasty = 101890
+	religion = "catholic"
+	culture = "polabian"
+	father = 30498
+	mother = 33279
+	11308.1.1 = {
+		birth = "11308.1.1"
+	}
+	11337.1.25 = {
+		death = "11337.1.25"
+	}
+}
+
+33284 = {
+	name = "Jaromar"
+	dynasty = 101890
+	religion = "catholic"
+	culture = "polabian"
+	father = 30498
+	mother = 33279
+	11310.1.1 = {
+		birth = "11310.1.1"
+	}
+	11325.5.24 = {
+		death = "11325.5.24"
+	}
+}
+20586 = {
+	name = "Gryn"
+	dynasty = 101890
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "slavic_pagan"
+	culture = "polabian"
+	trait = arrogant
+	trait = zealous
+	trait = education_martial_2
+	father = 30483
+	10999.1.1 = {
+		birth = "10999.1.1"
+	}
+	11043.1.1 = {
+		death = "11043.1.1"
+	}
+}
+#
+8400 = {
+	name = "Budivoj"
+	dynasty = 101906
+	martial = 4
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = "polabian"
+	trait = wrathful
+	trait = arrogant
+	trait = education_learning_2
+	father = 8410
+	11039.1.15 = {
+		birth = "11039.1.15"
+	}
+	11073.1.1 = {
+		death = "11073.1.1"
+	}
+}
+
+8402 = {
+	name = "Henrik"
+	dynasty = 101906
+	martial = 6
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = "polabian"
+	trait = wrathful
+	trait = education_martial_2
+	father = 8410
+	mother = 101527
+	11062.1.15 = {
+		birth = "11062.1.15"
+	}
+	
+	11093.2.1 = {
+		add_spouse = 30480 #Slavia z Liubice
+	}
+	11127.6.7 = {
+		death = "11127.6.7"
+	}
+}
+
+8410 = {
+	name = "Guthskalco"
+	# AKA: Gottschalk
+	dynasty = 101906 #Nakonid
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = "polabian"
+	trait = zealous
+	trait = generous
+	trait = diligent
+	trait = education_learning_2
+	father = 8411
+	11005.1.15 = {
+		birth = "11005.1.15"
+	}
+	11060.1.1 = {
+		add_spouse = 101527
+	}
+	11066.6.7 = {
+		death = "11066.6.7"
+	}
+}
+
+8411 = {
+	name = "Pribigniew"
+	dynasty = 101906
+	martial = 5
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "slavic_pagan"
+	culture = "polabian"
+	trait = education_martial_2
+	father = 161119
+	10970.1.1 = {
+		birth = "10970.1.1"
+	}
+	11000.1.1 = {
+		religion = "catholic"
+	}
+	11028.1.1 = {
+		death = "11028.1.1"
+	}
+}
+101552 = {
+	name = "Tove" #fra Venden
+	female = yes
+	dynasty = 101906 #Nakonid
+	martial = 6
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "slavic_pagan"
+	culture = "polabian"
+	trait = arrogant
+	trait = education_learning_2
+	father = 161119
+	10948.1.1 = {
+		birth = "10948.1.1"
+	}
+	10965.1.2 = {
+		religion = "catholic"
+	}	
+	10970.1.1 = {
+		death = "10970.1.1"
+	}
+}
+
+161118 = {
+	name = "Nakon"
+	dynasty = 101906
+	religion = "slavic_pagan"
+	culture = "polabian"
+	10910.1.1 = {
+		birth = "10910.1.1"
+	}
+	10966.1.1 = {
+		death = "10966.1.1"
+	}
+}
+
+161119 = {
+	name = "Msciwoj"
+	dynasty = 101906
+	religion = "slavic_pagan"
+	culture = "polabian"
+	father = 161118
+	10930.1.1 = {
+		birth = "10930.1.1"
+	}
+	10995.1.1 = {
+		death = "10995.1.1"
+	}
+}
+
+161120 = {
+	name = "Msctidrag"
+	dynasty = 101906
+	religion = "slavic_pagan"
+	culture = "polabian"
+	father = 161118
+	10930.1.1 = {
+		birth = "10930.1.1"
+	}
+	10980.1.1 = {
+		death = "10980.1.1"
+	}
+}
+
+161121 = {
+	name = Mscislaw
+	dynasty = 101906
+	religion = slavic_pagan
+	culture = polabian
+	father = 161119
+	10955.1.1 = {
+		birth = yes
+	}
+	11005.1.1 = {
+		death = yes
+	}
+}
+30507 = {
+	name = "Przybyslaw"
+	dynasty = 101906
+	religion = "catholic"
+	culture = "polabian"
+	father = 8400 #Budivoj
+	11070.1.1 = {
+		birth = "11070.1.1"
+	}
+	11156.1.1 = {
+		death = "11156.1.1"
+	}
+}
+
+30508 = {
+	name = "Swietopelk"
+	dynasty = 101906
+	religion = "catholic"
+	culture = "polabian"
+	father = 8402 #Henrik
+	mother = 30480 #Slavia
+	11089.1.1 = {
+		birth = "11089.1.1"
+	}
+	11129.1.1 = {
+		death = "11129.1.1"
+	}
+}
+
+30509 = {
+	name = "Kanut"
+	dynasty = 101906
+	religion = "catholic"
+	culture = "polabian"
+	father = 8402 #Henrik
+	mother = 30480 #Slavia
+	11095.1.1 = {
+		birth = "11095.1.1"
+	}
+	11128.1.1 = {
+		death = "11128.1.1"
+	}
+}
+
+30510 = {
+	name = "Msciwoj"
+	dynasty = 101906
+	religion = "catholic"
+	culture = "polabian"
+	father = 8402 #Henrik
+	11085.1.1 = {
+		birth = "11085.1.1"
+	}
+	11127.1.1 = {
+		death = "11127.1.1"
+	}
+}
+
+30511 = {
+	name = "Valdemar"
+	dynasty = 101906
+	religion = "catholic"
+	culture = "polabian"
+	father = 8402 #Henrik
+	11088.1.1 = {
+		birth = "11088.1.1"
+	}
+	11123.1.1 = {
+		death = "11123.1.1"
+	}
+}
+
+30512 = {
+	name = "Zvinike"
+	dynasty = 101906
+	religion = "catholic"
+	culture = "polabian"
+	father = 30508 #Swietopelk
+	11112.1.1 = {
+		birth = "11112.1.1"
+	}
+	11129.7.1 = {
+		death = "11129.7.1"
+	}
+}
+
+# Fictional Lutici leaders of d_ostmark (Luticia) from 983 to 1123
+303438 = {
+	name = "Kornel"
+	#female = yes
+	dynasty = 2001326	#Lutici
+	religion = slavic_pagan
+	culture = polabian
+	10951.6.28 = {
+		birth = yes
+	}
+	11012.11.4 = {
+		death = yes
+	}
+}
+303439 = {
+	name = "Marek"
+	#female = yes
+	dynasty = 2001326	#Lutici
+	religion = slavic_pagan
+	culture = polabian
+	father = 303438
+	10976.3.16 = {
+		birth = yes
+	}
+	11035.1.24 = {
+		death = yes
+	}
+}
+303440 = {
+	name = "Kornel"
+	#female = yes
+	dynasty = 2001326	#Lutici
+	religion = slavic_pagan
+	culture = polabian
+	father = 303439
+	11000.3.28 = {
+		birth = yes
+	}
+	11025.1.21 = {
+		add_spouse = 303441
+	}
+	11064.9.2 = {
+		death = yes
+	}
+}
+303441 = {
+	name = "Dagmar"
+	female = yes
+	dynasty = 2001326	#Lutici
+	religion = slavic_pagan
+	culture = polabian
+	11009.10.4 = {
+		birth = yes
+	}
+	11085.5.19 = {
+		death = yes
+	}
+}
+303442 = {
+	name = "Kasper"
+	#female = yes
+	dynasty = 2001326	#Lutici
+	religion = slavic_pagan
+	culture = polabian
+	father = 303440
+	mother = 303441
+	#Made a strong soldier to have a chance to fight off HRE & PLN
+	martial = 7
+	trait = education_martial_3
+	11028.4.13 = {
+		birth = yes
+	}
+	11091.12.4 = {
+		death = yes
+	}
+}
+303443 = {
+	name = "Kamil"
+	#female = yes
+	dynasty = 2001326	#Lutici
+	religion = slavic_pagan
+	culture = polabian
+	father = 303440
+	mother = 303441
+	11030.1.20 = {
+		birth = yes
+	}
+	11088.6.3 = {
+		death = yes
+	}
+}
+303444 = {
+	name = "Kornelia"
+	female = yes
+	dynasty = 2001326	#Lutici
+	religion = slavic_pagan
+	culture = polabian
+	father = 303440
+	mother = 303441
+	11031.8.14 = {
+		birth = yes
+	}
+	11107.3.22 = {
+		death = yes
+	}
+}
+303445 = {
+	name = "Kajetan"
+	#female = yes
+	dynasty = 2001326	#Lutici
+	religion = slavic_pagan
+	culture = polabian
+	father = 303440
+	mother = 303441
+	11036.11.29 = {
+		birth = yes
+	}
+	11120.7.8 = {
+		death = yes
+	}
+}
+303446 = {
+	name = "Kornel"
+	female = yes
+	dynasty = 2001326	#Lutici
+	religion = slavic_pagan
+	culture = polabian
+	father = 303442
+	11058.7.6 = {
+		birth = yes
+	}
+	11123.1.1 = {
+		death = yes
+	}
+}
+# End of ficitional Lutici leaders of d_ostmark

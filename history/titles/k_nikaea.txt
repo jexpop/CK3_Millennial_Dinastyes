@@ -1,0 +1,1290 @@
+﻿d_opsikion = {
+	11178.1.1 = { change_development_level = 24 }
+
+	10330.1.1 = {
+		liege = "e_byzantium"
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+	10758.1.1 = {
+		holder = 145826
+	}
+	10855.1.1 = {
+		holder = 145111
+	}
+	11060.1.1 = {
+		holder = 20527
+	}
+	11178.1.1 = {
+		holder = doukas_3 # John Doukas, the megas hetaireiarches
+	}
+	11190.1.2 = {
+		holder = 215674
+	}
+	11222.8.2 = {
+		holder = 125741
+	}
+	11254.11.3 = {
+		holder = 125742
+	}
+	11258.8.18 = {
+		holder = 125743
+	}
+	11261.7.25 = {
+		holder = 465527
+	}
+	11282.12.11 = {
+		holder = 465521
+	}
+	#The Ottomans arrive
+	11310.1.1 = {
+		liege = "k_ottoman"
+	}
+	11310.1.1 = {
+		holder = 71841
+	}
+	11332.1.1 = {
+		holder = 476500
+	}
+}
+
+c_nikaea = {
+	10867.1.1 = { change_development_level = 10 }
+	11066.1.1 = { change_development_level = 15 }
+	11178.1.1 = { change_development_level = 18 }
+	
+	10330.1.1 = {
+		liege = "d_opsikion"
+	}
+	10758.1.1 = {
+		holder = 145826
+	}
+	10855.1.1 = {
+		holder = 145111
+	}
+	11060.1.1 = {
+		holder = 20527
+	}
+	11178.1.1 = {
+		holder = doukas_3 # John Doukas, the megas hetaireiarches
+	}
+	11180.9.24 = {
+		holder = 215531
+	}
+	11183.9.24 = {
+		holder = 215529
+	}
+	11185.9.12 = {
+		holder = 215500
+	}
+	11195.6.1 = {
+		holder = 215503
+	}
+	11203.7.18 = {
+		holder = 215507
+	}
+	11204.1.28 = {
+		holder = 125710
+	}
+	11204.5.16 = {
+		holder = 215674
+	}
+	11222.8.2 = {
+		holder = 125741
+	}
+	11254.11.3 = {
+		holder = 125742
+	}
+	11258.8.18 = {
+		holder = 125743
+	}
+	11261.7.25 = {
+		holder = 465527
+	}
+	11282.12.11 = {
+		holder = 465521
+	}
+	#The Ottomans
+	11310.1.1 = {
+		holder = 71841
+	}
+	11332.1.1 = {
+		holder = 476500
+	}
+
+}
+
+
+c_mysia = {
+	10330.1.1 = {
+		liege = "d_opsikion"
+	}
+	10758.1.1 = {
+		holder = 145826
+	}
+	10855.1.1 = {
+		holder = 145111
+	}
+	11060.1.1 = {
+		holder = 20527
+	}
+	11178.1.1 = {
+		holder = doukas_3 # John Doukas, the megas hetaireiarches
+	}
+	11180.9.24 = {
+		holder = 215531
+	}
+	11183.9.24 = {
+		holder = 215529
+	}
+	11185.9.12 = {
+		holder = 215500
+	}
+	11195.6.1 = {
+		holder = 215503
+	}
+	11203.7.18 = {
+		holder = 215507
+	}
+	11204.1.28 = {
+		holder = 125710
+	}
+	11204.5.16 = {
+		holder = 215674
+	}
+	11222.8.2 = {
+		holder = 125741
+	}
+	11254.11.3 = {
+		holder = 125742
+	}
+	11258.8.18 = {
+		holder = 125743
+	}
+	11261.7.25 = {
+		holder = 465527
+	}
+	11282.12.11 = {
+		holder = 465521
+	}
+	#The Ottomans
+	11310.1.1 = {
+		holder = 71841
+	}
+	11332.1.1 = {
+		holder = 476500
+	}
+
+}
+
+
+c_prusa = {
+	10330.1.1 = {
+		liege = "d_opsikion"
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+	10754.1.1 = {
+		holder = 145828
+	}
+	10855.1.1 = {
+		holder = 145192
+	}
+	11060.1.1 = {
+		holder = 2052701
+	}
+	11178.1.1 = {
+		holder = doukas_3 # John Doukas, the megas hetaireiarches
+	}
+	11180.9.24 = {
+		holder = 215531
+	}
+	11183.9.24 = {
+		holder = 215529
+	}
+	11185.9.12 = {
+		holder = 215500
+	}
+	11195.6.1 = {
+		holder = 215503
+	}
+	11203.7.18 = {
+		holder = 215507
+	}
+	11204.1.28 = {
+		holder = 125710
+	}
+	11204.5.16 = {
+		holder = 215674
+	}
+	11222.8.2 = {
+		holder = 125741
+	}
+	11254.11.3 = {
+		holder = 125742
+	}
+	11258.8.18 = {
+		holder = 125743
+	}
+	11261.7.25 = {
+		holder = 465527
+	}
+	11282.12.11 = {
+		holder = 465521
+	}
+	#The Ottomans
+	11310.1.1 = {
+		holder = 71841
+	}
+	11332.1.1 = {
+		holder = 476500
+	}
+
+}
+
+
+c_phrygia = {
+	10330.1.1 = {
+		liege = "d_opsikion"
+	}
+	10754.1.1 = {
+		holder = 145828
+	}
+	10855.1.1 = {
+		holder = 145192
+	}
+	11060.1.1 = {
+		holder = 2052701
+	}
+	11178.1.1 = {
+		holder = doukas_3 # John Doukas, the megas hetaireiarches
+	}
+	11180.9.24 = {
+		holder = 215531
+	}
+	11183.9.24 = {
+		holder = 215529
+	}
+	11185.9.12 = {
+		holder = 215500
+	}
+	11195.6.1 = {
+		holder = 215503
+	}
+	11203.7.18 = {
+		holder = 215507
+	}
+	11204.1.28 = {
+		holder = 125710
+	}
+	11204.5.16 = {
+		holder = 215674
+	}
+	11222.8.2 = {
+		holder = 125741
+	}
+	11254.11.3 = {
+		holder = 125742
+	}
+	11258.8.18 = {
+		holder = 125743
+	}
+	11261.7.25 = {
+		holder = 465527
+	}
+	11282.12.11 = {
+		holder = 465521
+	}
+	#The Ottomans
+	11310.1.1 = {
+		holder = 71841
+	}
+	11332.1.1 = {
+		holder = 476500
+	}
+}
+
+d_ephese = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 11 }
+	11178.1.1 = { change_development_level = 16 }
+	
+	10330.1.1 = {
+		liege = "e_byzantium"
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+	10750.1.1 = {
+		holder = 145830
+	}
+	10793.1.1 = {
+		holder = 145831
+	}
+	10847.1.1 = {
+		holder = 145194
+	}
+	11060.1.1 = {
+		holder = 42003
+	}
+	11070.1.1 = {
+		holder = 20518
+	}
+	11081.1.1 = {
+		liege = "k_rum"
+		holder = 34262
+	}
+	11092.1.1 = {
+		holder = 34264
+	}
+	11095.1.1 = {
+		liege = "e_byzantium"
+		holder = 20518
+	}
+	11108.1.1 = {
+		holder = 215509
+	}
+	11166.1.16 = {
+		holder = 215526
+	}
+	11168.1.1 = {
+		holder = 125753 # Ioannes Batatzes
+	}
+	11180.1.2 = {
+		holder = 34276
+	}
+	11199.1.1 = {
+		holder = 34277
+	}
+	11202.1.1 = {
+		holder = 215000
+	}
+	11261.1.1 = {
+		holder = 34283
+	}
+	11279.1.1 = {
+		holder = 34286
+	}
+	11308.1.1 = {
+		liege = "k_saruhan"
+		holder = 71871
+	}
+	11310.1.1 = {
+		holder = 71870
+	}
+	
+
+}
+
+
+c_ionia = {
+	10330.1.1={
+		liege="d_ephese"
+	}
+	10750.1.1={
+		holder=145830
+	}
+	10792.1.1={
+		holder=145831
+	}
+	10847.1.1={
+		holder=145194
+	}
+	11060.1.1={
+		holder=42003
+	}
+	11168.1.1 = {
+		holder = 125753 # Ioannes Batatzes
+	}
+	11180.1.2={
+		holder=34276
+	}
+	11199.1.1={
+		holder=34277
+	}
+	11202.1.1={
+		holder=215000
+	}
+	11261.1.1={
+		holder=34283
+	}
+	11279.1.1={
+		holder=34286
+	}
+	11308.1.1={
+		liege="k_aydin"
+		holder=71889
+	}
+	11334.1.1={
+		holder=476200
+	}
+
+}
+
+
+c_aeolis = {
+	10330.1.1={
+		liege="d_ephese"
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+	10762.1.1={
+		holder=145832
+	}
+	10855.1.1={
+		holder=145195
+	}
+	11060.1.1={
+		holder=42003
+	}
+	11168.1.1 = {
+		holder = 125753 # Ioannes Batatzes
+	}
+	11180.1.2={
+		holder=34276
+	}
+	11199.1.1={
+		holder=34277
+	}
+	11202.1.1={
+		holder=215000
+	}
+	11261.1.1={
+		holder=34283
+	}
+	11279.1.1={
+		holder=34286
+	}
+	#To Saruhan
+	11308.1.1={
+		holder=71871
+	}
+	11310.1.1={
+		holder=71870
+	}
+
+}
+
+
+d_thracesia = {
+	10330.1.1 = {
+		liege = "e_byzantium"
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+	10755.1.1 = {
+		holder = 145841
+	}
+	10792.7.20 = {
+		holder = 145842
+	}
+	10847.1.1 = {
+		holder = 145116
+	}
+	11060.1.1 = {
+		holder = 20526
+	}
+	11077.1.1 = {
+		holder = 0
+	}
+	11168.1.1 = {
+		holder = 125753 # Ioannes Batatzes
+	}
+	11192.1.1 = {
+		holder = 225002
+	}
+	11196.1.1 = {
+		holder = 225004
+	}
+	11204.1.1 = {
+		holder = 34187
+	}
+	11205.1.1 = {
+		holder = 225002
+	}
+	11211.1.1 = {
+		holder = 34188
+	}
+	11220.1.1 = {
+		holder = 34189
+	}
+	11237.1.1 = {
+		holder = 34190
+	}
+	11246.1.1 = {
+		holder = 34191
+	}
+	11248.1.1 = {
+		holder = 34192
+	}
+	11249.1.1 = {
+		holder = 34193
+	}
+	11257.1.1 = {
+		holder = 34192
+	}
+	11265.1.1 = {
+		holder = 34194
+	}
+	11284.1.1 = {
+		holder = 34195
+	}
+	11296.1.1 = {
+		holder = 34196
+	}
+	11300.1.1 = {
+		liege = "k_germiyan"
+		holder = 71867
+	}
+	11327.1.1 = {
+		holder = 71868
+	}
+}
+
+c_lydia = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10330.1.1={
+		liege="d_thracesia"
+	}
+	10755.1.1={
+		holder=145841
+	}
+	10792.7.20={
+		holder=145842
+	}
+	10847.1.1={
+		holder=145116
+	}
+	11066.1.1={
+		holder=20526
+	}
+	11168.1.1 = {
+		holder = 125753 # Ioannes Batatzes
+	}
+	11177.1.1 = {
+		holder = 215001 # Basileios, serving under his father
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+		liege = d_ephese
+	}
+	11192.1.1={
+		holder=225002
+	}
+	11196.1.1={
+		holder=225004
+	}
+	11204.5.16={
+		liege="e_byzantium"
+		holder=215674
+	}
+	11220.1.1 = {
+		holder = 215672
+	}
+	11222.8.2={
+		holder=125741
+	}
+	11254.11.3={
+		holder=125742
+	}
+	11258.8.18={
+		holder=125743
+	}
+	11261.7.25={
+		holder=465527
+	}
+	11282.12.11={
+		holder=465521
+	}
+	11314.1.1={
+		liege=0
+		holder=93530
+	}
+	11334.1.1={
+		holder=93531
+	}
+	
+
+}
+
+
+c_thyatira = {
+	10330.1.1={
+		liege="d_thracesia"
+	}
+	10755.1.1={
+		holder=145841
+	}
+	10792.7.20={
+		holder=145842
+	}
+	10847.1.1={
+		holder=145116
+	}
+	11066.1.1={
+		holder=20526
+	}
+	11177.1.1 = {
+		holder = 215001 # Basileios, serving under his father
+	}
+	11192.1.1={
+		holder=225002
+	}
+	11196.1.1={
+		holder=225004
+	}
+	11204.5.16={
+		liege="e_byzantium"
+		holder=215674
+	}
+	11220.1.1 = {
+		holder = 215672
+	}
+	11222.8.2={
+		holder=125741
+	}
+	11254.11.3={
+		holder=125742
+	}
+	11258.8.18={
+		holder=125743
+	}
+	11261.7.25={
+		holder=465527
+	}
+	11282.12.11={
+		holder=465521
+	}
+	11314.1.1={
+		liege=0
+		holder=93530
+	}
+	11334.1.1={
+		holder=93531
+	}
+}
+
+c_hadrianeia = {
+	10330.1.1={
+		liege="d_thracesia"
+	}
+	10755.1.1={
+		holder=145841
+	}
+	10792.7.20={
+		holder=145842
+	}
+	10847.1.1={
+		holder=145116
+	}
+	11066.1.1={
+		holder=20526
+	}
+	11168.1.1 = {
+		holder = 125753 # Ioannes Batatzes
+	}
+	11177.1.1 = {
+		holder = 215001 # Basileios, serving under his father
+	}
+	11192.1.1={
+		holder=225002
+	}
+	11196.1.1={
+		holder=225004
+	}
+	11204.5.16={
+		liege="e_byzantium"
+		holder=215674
+	}
+	11220.1.1 = {
+		holder = 215672
+	}
+	11222.8.2={
+		holder=125741
+	}
+	11254.11.3={
+		holder=125742
+	}
+	11258.8.18={
+		holder=125743
+	}
+	11261.7.25={
+		holder=465527
+	}
+	11282.12.11={
+		holder=465521
+	}
+	11314.1.1={
+		liege=0
+		holder=93530
+	}
+	11334.1.1={
+		holder=93531
+	}
+}
+
+c_chonae = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10330.1.1 = {
+		liege = "d_thracesia"
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+	10755.1.1 = {
+		holder = 145841
+	}
+	10792.7.20 = {
+		holder = 145842
+	}
+	10847.1.1 = {
+		holder = 145116
+	}
+	11066.1.1 = {
+		holder = 20489
+	}
+	11177.1.1 = {
+		holder = 215001 # Basileios, serving under his father
+	}
+	11192.1.1 = {
+		holder = 225002
+	}
+	11196.1.1 = {
+		holder = 225004
+	}
+	11204.5.16 = {
+		liege = "e_byzantium"
+		holder = 215674
+	}
+	11220.1.1 = {
+		holder = 215672
+	}
+	11222.8.2 = {
+		holder = 125741
+	}
+	11254.11.3 = {
+		holder = 125742
+	}
+	11258.8.18 = {
+		holder = 125743
+	}
+	11261.7.25 = {
+		holder = 465527
+	}
+	11282.12.11 = {
+		holder = 465521
+	}
+	11314.1.1 = {
+		liege = 0
+		holder = 93530
+	}
+	11334.1.1 = {
+		holder = 93531
+	}
+}
+
+d_optimatoi = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 11 }
+	11178.1.1 = { change_development_level = 16 }
+	
+	10330.1.1={
+		liege="e_byzantium"
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+	10752.1.1={
+		holder=145827
+	}
+	10855.1.1={
+		holder=145191
+	}
+	11060.1.1= {
+		holder=1746
+	}
+	11178.1.1 = {
+		holder = 180997 # Konstantinos Macrodoukas
+	}
+	11190.1.2={
+		holder=215674
+	}
+	11204.5.16 = {
+		#liege = "e_nicaea"
+	}
+	11222.8.2={
+		holder=125741
+	}
+	11254.11.3={
+		holder=125742
+	}
+	11258.8.18={
+		holder=125743
+	}
+	11261.7.25={
+		liege = "e_byzantium"
+		holder=465527
+	}
+	11282.12.11={
+		holder=465521
+	}
+	#The Ottomans arrive
+	
+	11310.1.1={
+		holder=0
+	}
+}
+
+
+c_bithynia = {
+	10330.1.1 = {
+		liege = "d_optimatoi"
+	}
+	10752.1.1 = {
+		holder = 145827
+	}
+	10855.1.1 = {
+		holder = 145191
+	}
+	11060.1.1 = {
+		holder = 1746
+	}
+	11178.1.1 = {
+		holder = 180997 # Konstantinos Macrodoukas
+	}
+	11190.1.2 = {
+		holder = 215674
+	}
+	11222.8.2 = {
+		holder = 125741
+	}
+	11254.11.3 = {
+		holder = 125742
+	}
+	11258.8.18 = {
+		holder = 125743
+	}
+	11261.7.25 = {
+		holder = 465527
+	}
+	11282.12.11 = {
+		holder = 465521
+	}
+	#The Ottomans arrive
+	
+	11310.1.1 = {
+		holder = 71841
+	}
+	11332.1.1 = {
+		holder = 476500
+	}
+	
+
+}
+
+
+c_tarsos = {
+	10330.1.1 = {
+		liege = "d_optimatoi"
+	}
+	10752.1.1 = {
+		holder = 145827
+	}
+	10855.1.1 = {
+		holder = 145191
+	}
+	11060.1.1 = {
+		holder = 1746
+	}
+	11178.1.1 = {
+		holder = 180997 # Konstantinos Macrodoukas
+	}
+	11190.1.2 = {
+		holder = 215674
+	}
+	11222.8.2 = {
+		holder = 125741
+	}
+	11254.11.3 = {
+		holder = 125742
+	}
+	11258.8.18 = {
+		holder = 125743
+	}
+	11261.7.25 = {
+		holder = 465527
+	}
+	11282.12.11 = {
+		holder = 465521
+	}
+	#The Ottomans arrive
+	
+	11310.1.1 = {
+		holder = 71841
+	}
+	11332.1.1 = {
+		holder = 476500
+	}
+	
+
+}
+
+
+d_bucellaria = {
+	10753.1.1={
+		liege = "e_byzantium"
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+		holder=145839
+	}
+	10855.1.1={
+		holder=145115
+	}
+	11060.1.1= {
+		holder=1742
+	}
+	#Seljuks
+	11077.1.1= {
+		holder = 0
+	}
+}
+
+c_honorias = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10330.1.1={
+		liege="d_bucellaria"
+	}
+	10753.1.1={
+		holder=145839
+	}
+	10855.1.1={
+		holder=145115
+	}
+	11060.1.1= {
+		holder=1742
+	}
+	#Seljuks
+	11077.1.1 = {
+		holder = 3046
+	}
+	11178.1.1 = {
+		holder = 34182 # Masud
+		liege = k_rum
+	}
+	11192.1.1= {
+		holder = 225002
+	}
+	11196.1.1= {
+		holder = 225004
+	}
+	11204.1.1= {
+		holder = 34187
+	}
+	11205.1.1= {
+		holder=225002
+	}
+	11211.1.1= {
+		holder=34188
+	}
+	11220.1.1 = {
+		holder = 71861
+	}
+	11221.1.1= {
+		holder=34189
+	}
+	11237.1.1= {
+		holder=34190
+	}
+	11246.1.1= {
+		holder=34191
+	}
+	11248.1.1= {
+		holder=34192
+	}
+	11249.1.1= {
+		holder=34193
+	}
+	11257.1.1= {
+		holder=34192
+	}
+	11266.1.1= {
+		holder=71840
+	}
+	#Ottomans
+	11281.1.1= {
+		holder=476501
+	}
+	11299.1.1= {
+		liege="k_ottoman"
+	}
+	11321.1.1= {
+		liege="d_paphlagonia"
+	}
+	11324.1.1= {
+		holder=476500
+	}
+	11336.12.01={
+		holder=71846
+	}
+
+}
+
+
+c_galatia = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10330.1.1 = {
+		liege = "d_paphlagonia"
+	}
+	10753.1.1 = {
+		holder = 145839
+	}
+	10855.1.1 = {
+		holder = 145115
+	}
+	11060.1.1 = {
+		holder = 1742
+	}
+	#Seljuks
+	11077.1.1 = {
+		holder = 3046
+	}
+	11155.4.1 = {
+		holder = 34212 # Shahanshah
+		liege = k_rum
+	}
+	11174.1.1 = {
+		holder = 34182 # Masud
+	}
+	11192.1.1 = {
+		holder = 225002
+	}
+	11196.1.1 = {
+		holder = 225004
+	}
+	11204.1.1 = {
+		holder = 34187
+	}
+	11205.1.1 = {
+		holder = 225002
+	}
+	11211.1.1 = {
+		holder = 34188
+	}
+	11220.1.1 = {
+		holder = 71861
+	}
+	11221.1.1 = {
+		holder = 34189
+	}
+	11237.1.1 = {
+		holder = 34190
+	}
+	11246.1.1 = {
+		holder = 34191
+	}
+	11248.1.1 = {
+		holder = 34192
+	}
+	11249.1.1 = {
+		holder = 34193
+	}
+	11257.1.1 = {
+		holder = 34192
+	}
+	11266.1.1 = {
+		holder = 71840
+	}
+	#Ottomans
+	11281.1.1 = {
+		holder = 476501
+	}
+	11299.1.1 = {
+		liege = "k_ottoman"
+	}
+	11321.1.1 = {
+		liege = "d_paphlagonia"
+	}
+	11324.1.1 = {
+		holder = 476500
+	}
+
+}
+
+
+c_hadrianopolis = {
+	10330.1.1={
+		liege="d_bucellaria"
+	}
+	10753.1.1={
+		holder=145839
+	}
+	10855.1.1={
+		holder=145115
+	}
+	11060.1.1= {
+		holder=1742
+	}
+	#Seljuks
+	11077.1.1= {
+		holder = 3046
+	}
+	11178.1.1 = {
+		holder = 34182 # Masud
+		liege = k_rum
+	}
+	11192.1.1= {
+		holder=225002
+	}
+	11196.1.1= {
+		holder=225004
+	}
+	11204.1.1= {
+		holder=34187
+	}
+	11205.1.1= {
+		holder=225002
+	}
+	11211.1.1= {
+		holder=34188
+	}
+	11220.1.1 = {
+		holder = 71861
+	}
+	11221.1.1= {
+		holder=34189
+	}
+	11237.1.1= {
+		holder=34190
+	}
+	11246.1.1= {
+		holder=34191
+	}
+	11248.1.1= {
+		holder=34192
+	}
+	11249.1.1= {
+		holder=34193
+	}
+	11257.1.1= {
+		holder=34192
+	}
+	11266.1.1= {
+		holder=71840
+	}
+	#Ottomans
+	11281.1.1= {
+		holder=476501
+	}
+	11299.1.1= {
+		liege="k_ottoman"
+	}
+	11321.1.1= {
+		liege="d_paphlagonia"
+	}
+	11324.1.1= {
+		holder=476500
+	}
+	11336.12.01={
+		holder=71846
+	}
+
+}
+

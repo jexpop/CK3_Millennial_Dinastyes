@@ -1,0 +1,252 @@
+﻿6899 = {
+	name = "Bahram" # Fantasy
+	dynasty = 858
+	religion = ashari
+	culture = baloch
+	10835.1.1 = {
+		birth = yes
+	}
+	10890.1.1 = {
+		death = yes
+	}
+}
+6910 = {
+	name = "Ferux" # Fantasy
+	dynasty = 859
+	religion = ashari
+	culture = baloch
+	10830.1.1 = {
+		birth = yes
+	}
+	10880.1.1 = {
+		death = yes
+	}
+}
+
+178018 = {
+	name = "Zahak" # Fictional
+	dynasty = 1041118
+	religion = "ashari"
+	culture = "baloch"
+	10842.1.1 = {
+		birth = yes
+	}
+	10888.1.1 = {
+		death = yes
+	}
+}
+
+188544 = {
+	name = "Ma_dan"
+	dynasty = 1042102 # Ma'danid
+	religion = "ashari"
+	culture = "baloch"
+	10980.1.1 = {
+		birth = yes
+	}
+	11025.1.1 = {
+		death = yes
+	}
+}
+
+188545 = {
+	name = "Isa"
+	dynasty = 1042102 # Ma'danid
+	religion = "ashari"
+	culture = "baloch"
+	father = 188544
+	11000.1.1 = {
+		birth = yes
+	}
+	11031.1.1 = {
+		death = yes
+	}
+}
+
+188546 = {
+	name = "Husayn"
+	dynasty = 1042102 # Ma'danid
+	religion = "ashari"
+	culture = "baloch"
+	father = 188544
+	stewardship = 10
+	11005.1.1 = {
+		birth = yes
+	}
+	11068.1.1 = {
+		death = yes
+	}
+}
+
+188547 = {
+	name = "Feraz" # fictitious
+	dynasty = 1042102 # Ma'danid
+	religion = "ashari"
+	culture = "baloch"
+	father = 188546
+	11034.1.1 = {
+		birth = yes
+	}
+	11090.1.1 = {
+		death = yes
+	}
+}
+
+188548 = {
+	name = "Naveed" # fictitious
+	dynasty = 1042102 # Ma'danid
+	religion = "ashari"
+	culture = "baloch"
+	father = 188547
+	11060.1.1 = {
+		birth = yes
+	}
+	11105.1.1 = {
+		death = yes
+	}
+}
+
+188549 = {
+	name = "Ehmed" # fictitious
+	dynasty = 1042102 # Ma'danid
+	religion = "ashari"
+	culture = "baloch"
+	father = 188548
+	11082.1.1 = {
+		birth = yes
+	}
+	11130.1.1 = {
+		death = yes
+	}
+}
+
+188550 = {
+	name = "Mistefa" # fictitious
+	dynasty = 1042102 # Ma'danid
+	religion = "ashari"
+	culture = "baloch"
+	father = 188549
+	11109.1.1 = {
+		birth = yes
+	}
+	11150.1.1 = {
+		death = yes
+	}
+}
+188661 = {
+	name = "Xwedadad" # fictitious holder of Jask
+	dynasty = 1042134
+	religion = "mazdayasna"
+	culture = "baloch"
+	10725.1.1 = {
+		birth = yes
+	}
+	10790.1.1 = {
+		death = yes
+	}
+}
+
+188662 = {
+	name = "Keyxusrew" # fictitious holder of Tis
+	dynasty = 1042135
+	religion = "mazdayasna"
+	culture = "baloch"
+	10738.1.1 = {
+		birth = yes
+	}
+	10795.1.1 = {
+		death = yes
+	}
+}
+
+188663 = {
+	name = "Ferzad" # fictitious holder of Saravan
+	dynasty = 1042136
+	religion = "mazdayasna"
+	culture = "baloch"
+	10744.1.1 = {
+		birth = yes
+	}
+	10803.1.1 = {
+		death = yes
+	}
+}
+188679 = {
+	name = "Tahmasp" # fictitious holder of Shiraz
+	dynasty = 1042146
+	religion = "mazdayasna"
+	culture = "baloch"
+	10740.1.1 = {
+		birth = yes
+	}
+	10795.1.1 = {
+		death = yes
+	}
+}
+
+302700 = {		#Fictional/Placeholder in southern Makran 867
+	name = "Feraz"
+	religion = azariqa
+	culture = brahui #FP3 change 
+	10847.1.2 = {
+		birth = yes
+	}
+	10900.1.2 = {
+		death = yes
+	}
+}
+baloch0001 = {		#Fictional/Placeholder in south-eastern Makran 867
+	name = "Morteza"
+	religion = azariqa
+	culture = baloch
+	10840.1.3 = {
+		birth = yes
+	}
+	10890.1.1 = {
+		death = yes
+	}
+}
+
+makrani_1 = {
+	name = "Khusraushah"
+	dynasty = baloch_makrani
+	religion = "maturidi"
+	culture = "baloch"
+	father = makrani_2
+	11137.1.1 = {
+		birth = yes
+	}
+	11189.1.1 = {
+		death = yes
+	}
+}
+
+makrani_2 = {
+	name = "Hasan"
+	dynasty = baloch_makrani
+	religion = "maturidi"
+	culture = "baloch"
+	11112.1.1 = {
+		birth = yes
+	}
+	11166.1.1 = {
+		death = yes
+	}
+}
+
+makrani_3 = {
+	name = "Abu_al-Makarim"
+	dynasty = baloch_makrani
+	religion = "maturidi"
+	culture = "baloch"
+	father = makrani_1
+	11169.1.1 = {
+		birth = yes
+	}
+	11178.1.1 = {
+		give_nickname = nick_taj_al_din
+	}
+	11223.1.1 = {
+		death = yes
+	}
+}

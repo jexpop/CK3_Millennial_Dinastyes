@@ -1,0 +1,319 @@
+﻿k_krete = {
+	11178.1.1 = { change_development_level = 24 }
+
+	11066.1.1 = {
+		holder = 0
+	}
+}
+
+
+d_krete = {
+	10330.1.1 = {
+		liege = "e_byzantium"
+		government = administrative_government
+	}
+	10752.1.1 = {
+		holder = 145812
+	}
+	10827.1.1 = {
+		liege = 0
+		government = clan_government
+		holder = 159524 # Umar I
+	}
+	10855.1.1 = {
+		holder = 159525 # Shu'ayb I
+	}
+	10880.1.1 = {
+		holder = 159526 # Umar II
+	}
+	10895.1.1 = {
+		holder = 159527 # Muhammad I
+	}
+	10910.1.1 = {
+		holder = 159528 # Yusuf I
+	}
+	10915.1.1 = {
+		holder = 159530 # Ali I
+	}
+	10925.1.1 = {
+		holder = 159529 # Ahmad I
+	}
+	10940.1.1 = {
+		holder = 159531 # Shu'ayb II
+	}
+	10943.1.1 = {
+		holder = 159532 # Ali II
+	}
+	10949.1.1 = {
+		holder = 159533 # Abd-al-Aziz I
+	}
+	10964.1.1 = {
+		liege = "e_byzantium"
+		government = administrative_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+		holder = 1712 # Nikephoros Phokas
+	}
+	11057.1.1 = {
+		holder = 20516
+	}
+	11093.1.1 = {
+		holder = 1781
+	}
+	11137.1.1 = {
+		holder = 93453
+	}
+	11145.1.1 = {
+		holder = 93454
+	}
+	11167.1.1 = {
+		holder = kontostephanos_1 # Alexios Kontostephanos
+	}
+	
+	#4th crusade
+	11204.5.16 = {
+		liege = "k_venice"
+	}
+	11204.5.16 = {
+		holder = 31403 #Enrico de Candia
+	}
+	11211.1.1 = {
+		holder = 32120 #Pietro Ziani
+	}
+	11229.3.13 = {
+		holder = 32124 #Iacopo Tiepolo
+	}
+	11249.7.19 = {
+		holder = 32125 #Marino Morosini
+	}
+	11253.1.1 = {
+		holder = 32126 #Reniero Zeno
+	}
+	11268.7.7 = {
+		holder = 32127 #Lorenzo Tiepolo
+	}
+	11275.8.15 = {
+		holder = 32128 #Iacopo Contarini
+	}
+	11280.3.6 = {
+		holder = 32129 #Giovanni Dandalo
+	}
+	11289.11.2 = {
+		holder = 32130 #Pietro Gradenigo
+	}
+	11311.8.13 = {
+		holder = 32131 #Marino Zorzi
+	}
+	11312.7.3 = {
+		holder = 32132 #Giovannia Soranza
+	}
+	11328.12.31 = {
+		holder = 463600 #Francesco Dandalo
+	}
+
+}
+
+
+c_chandax = {
+	10330.1.1 = {
+		liege = "d_krete"
+	}
+	10752.1.1 = {
+		holder = 145812
+	}
+	10827.1.1 = {
+		holder = 159524 # Umar I
+	}
+	10855.1.1 = {
+		holder = 159525 # Shu'ayb I
+	}
+	10880.1.1 = {
+		holder = 159526 # Umar II
+	}
+	10895.1.1 = {
+		holder = 159527 # Muhammad I
+	}
+	10910.1.1 = {
+		holder = 159528 # Yusuf I
+	}
+	10915.1.1 = {
+		holder = 159530 # Ali I
+	}
+	10925.1.1 = {
+		holder = 159529 # Ahmad I
+	}
+	10940.1.1 = {
+		holder = 159531 # Shu'ayb II
+	}
+	10943.1.1 = {
+		holder = 159532 # Ali II
+	}
+	10949.1.1 = {
+		holder = 159533 # Abd-al-Aziz I
+	}
+	10964.1.1 = {
+		holder = 1712 # Nikephoros Phokas
+	}
+	11057.1.1 = {
+		holder = 20516
+	}
+	11093.1.1 = {
+		holder = 1781
+	}
+	11137.1.1 = {
+		holder = 93453
+	}
+	11145.1.1 = {
+		holder = 93454
+	}
+	11167.1.1 = {
+		holder = kontostephanos_1 # Alexios Kontostephanos
+	}
+	#4th crusade
+	11204.5.16 = {
+		holder = 31403 #Enrico de Candia
+	}
+	11211.1.1 = {
+		holder = 32120 #Pietro Ziani
+	}
+	11229.3.13 = {
+		holder = 32124 #Iacopo Tiepolo
+	}
+	11249.7.19 = {
+		holder = 32125 #Marino Morosini
+	}
+	11253.1.1 = {
+		holder = 32126 #Reniero Zeno
+	}
+	11268.7.7 = {
+		holder = 32127 #Lorenzo Tiepolo
+	}
+	11275.8.15 = {
+		holder = 32128 #Iacopo Contarini
+	}
+	11280.3.6 = {
+		holder = 32129 #Giovanni Dandalo
+	}
+	11289.11.2 = {
+		holder = 32130 #Pietro Gradenigo
+	}
+	11311.8.13 = {
+		holder = 32131 #Marino Zorzi
+	}
+	11312.7.3 = {
+		holder = 32132 #Giovannia Soranza
+	}
+	11328.12.31 = {
+		holder = 463600 #Francesco Dandalo
+	}
+	
+	
+
+}
+
+
+c_chania = {
+	10330.1.1 = {
+		liege = "d_krete"
+	}
+	10754.1.1 = {
+		holder = 145813
+	}
+	10827.1.1 = {
+		holder = 159524 # Umar I
+	}
+	10855.1.1 = {
+		holder = 159525 # Shu'ayb I
+	}
+	10880.1.1 = {
+		holder = 159526 # Umar II
+	}
+	10895.1.1 = {
+		holder = 159527 # Muhammad I
+	}
+	10910.1.1 = {
+		holder = 159528 # Yusuf I
+	}
+	10915.1.1 = {
+		holder = 159530 # Ali I
+	}
+	10925.1.1 = {
+		holder = 159529 # Ahmad I
+	}
+	10940.1.1 = {
+		holder = 159531 # Shu'ayb II
+	}
+	10943.1.1 = {
+		holder = 159532 # Ali II
+	}
+	10949.1.1 = {
+		holder = 159533 # Abd-al-Aziz I
+	}
+	10964.1.1 = {
+		holder = 1712 # Nikephoros Phokas
+	}
+	11057.1.1 = {
+		holder = 20516
+	}
+	11093.1.1 = {
+		holder = 1781
+	}
+	11137.1.1 = {
+		holder = 93453
+	}
+	11145.1.1 = {
+		holder = 93454
+	}
+	11167.1.1 = {
+		holder = kontostephanos_1 # Alexios Kontostephanos
+	}
+	
+	#4th crusade
+	11204.5.16 = {
+		holder = 31403 #Enrico de Candia
+	}
+	11211.1.1 = {
+		holder = 32120 #Pietro Ziani
+	}
+	11229.3.13 = {
+		holder = 32124 #Iacopo Tiepolo
+	}
+	11249.7.19 = {
+		holder = 32125 #Marino Morosini
+	}
+	11253.1.1 = {
+		holder = 32126 #Reniero Zeno
+	}
+	11268.7.7 = {
+		holder = 32127 #Lorenzo Tiepolo
+	}
+	11275.8.15 = {
+		holder = 32128 #Iacopo Contarini
+	}
+	11280.3.6 = {
+		holder = 32129 #Giovanni Dandalo
+	}
+	11289.11.2 = {
+		holder = 32130 #Pietro Gradenigo
+	}
+	11311.8.13 = {
+		holder = 32131 #Marino Zorzi
+	}
+	11312.7.3 = {
+		holder = 32132 #Giovannia Soranza
+	}
+	11328.12.31 = {
+		holder = 463600 #Francesco Dandalo
+	}
+
+}
+

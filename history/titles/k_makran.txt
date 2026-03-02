@@ -1,0 +1,1388 @@
+k_makran = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+
+	#Saffarid
+	10861.1.1 = {
+		holder = 163101
+	}
+	10977.1.1 = {
+		holder = 0
+	}
+
+}
+
+d_makran = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	11066.1.1 = {
+		liege = k_kabulistan
+		holder = 188546
+	}
+	11068.1.1 = {
+		holder = 0
+	}
+	11166.1.1 = {
+		holder = makrani_1 # Khusrau Shah
+		liege = k_kabulistan
+	}
+}
+
+
+c_panjgur = {
+	10765.1.1 = {
+		holder = 188605
+	}
+	10861.1.1 = {
+		liege = k_makran
+		holder = 163164 # Amr of Makran
+	}
+	
+	# Independence for most of the 900s under b Ahmad family and Azariqas
+	11010.1.1 = {
+		liege = k_kabulistan
+		holder = 188544 # Ma'dan Ma'danid
+	}
+	11025.1.1 = {
+		holder = 188545 # Isa
+	}
+	11029.1.1 = {
+		liege = 0 # Isa's rebellion
+	}
+	11031.1.1 = {
+		liege = k_kabulistan
+		holder = 188546 # Abu'l-'Askar Husayn
+	}
+	11068.1.1 = {
+		holder = 188547 # ? Ma'danid
+	}
+	11090.1.1 = {
+		holder = 188548 # ? Ma'danid
+	}
+	11105.1.1 = {
+		holder = 188549 # ? Ma'danid
+	}
+	11118.1.1 = {
+		liege = d_sistan
+	}
+	11130.1.1 = {
+		holder = 188550 # ? Ma'danid
+	}
+	11150.1.1 = {
+		holder = 144141 # Ghiyath Ghurid
+	}
+	11166.1.1 = {
+		holder = makrani_1 # Khusrau Shah
+	}
+	11186.1.1 = {
+		holder = 93147
+	}
+	11192.1.1 = {
+		holder = 93148
+	}
+	11206.1.1 = {
+		holder = 93149
+	}
+	11215.1.1 = {
+		liege = "d_sistan"
+		holder = 93277
+	}
+	11221.1.1 = {
+		#liege = d_merv
+		holder = 93053
+	}
+	11225.1.1 = {
+		liege = "d_sistan"
+		holder = 93278
+	}
+	11226.1.1 = {
+		holder = 93285
+	}
+	11255.1.1 = {
+	
+		holder = 93287
+	}
+	11318.1.1 = {
+		holder = 93288
+	}
+	11331.1.1 = {
+		holder = 93291
+	}
+}
+
+
+c_kiz = {
+	10867.1.1 = {
+		government = clan_government
+		holder = 302700	#Placeholder Feraz
+		liege = k_makran
+	}
+	
+	10977.1.1 = {
+		holder = 144123 # Sabuktigin
+	}
+	10997.1.1 = {
+		holder = 144124 # Ismail
+	}
+	10998.1.1 = {
+		holder = 144125 # Mahmud
+	}
+	11030.1.1 = {
+		holder = 144126 # Muhammad
+	}
+	11031.1.1 = {
+		holder = 144127 # Musud
+	}
+	11041.1.1 = {
+		holder = 144128 # Mawdud
+	}
+	11050.1.1 = {
+		holder = 144129 # Masud
+	}
+	11050.6.1 = {
+		holder = 144130 # Ali
+	}
+	11050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	11053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	11059.1.1 = {
+		holder = 144133 # Ibrahim
+	}
+	11066.1.1 = {
+		holder = 188546
+	}
+	11099.1.1 = {
+		holder = 144134 # Masud II
+	}
+	11115.1.1 = {
+		holder = 144135 # Shirzad
+	}
+	11115.6.1 = {
+		holder = 144136 # Arlsan Shah
+	}
+	#11118.1.1 = {
+	#	holder = 0 # Ghaznavid vassalage under Seljuks
+	#}
+	
+	11157.1.1 = {
+		holder = 144138 # Khusraw Shah
+	}
+	11160.1.1 = {
+		holder = 144139 # Khusraw Malik
+	}
+	11166.1.1 = {
+		holder = makrani_1 # Khusrau Shah
+	}
+	11186.1.1 = {
+		liege = e_rajastan
+	}
+	11203.1.1 = {
+		holder = 144142 # Mu'izz
+	}
+	11206.3.15 = {
+		holder = 170302
+		liege = 0
+	}
+	#11216.2.15 = {
+	#	holder = 0
+	#}
+}
+
+
+c_sanij = {
+	10867.1.1 = {
+		government = tribal_government
+		holder = 163164	#Amr Saffarid
+		liege = k_makran
+	}
+	
+	10977.1.1 = {
+		government = clan_government
+		holder = 144123 # Sabuktigin
+	}
+	10997.1.1 = {
+		holder = 144124 # Ismail
+	}
+	10998.1.1 = {
+		holder = 144125 # Mahmud
+	}
+	11030.1.1 = {
+		holder = 144126 # Muhammad
+	}
+	11031.1.1 = {
+		holder = 144127 # Musud
+	}
+	11041.1.1 = {
+		holder = 144128 # Mawdud
+	}
+	11050.1.1 = {
+		holder = 144129 # Masud
+	}
+	11050.6.1 = {
+		holder = 144130 # Ali
+	}
+	11050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	11053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	11059.1.1 = {
+		holder = 144133 # Ibrahim
+	}
+	11050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	11053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	11059.1.1 = {
+		holder = 144133 # Ibrahim
+	}
+	11066.1.1 = {
+		holder = 1000230512
+	}
+	11099.1.1 = {
+		holder = 144134 # Masud II
+	}
+	11115.1.1 = {
+		holder = 144135 # Shirzad
+	}
+	11115.6.1 = {
+		holder = 144136 # Arlsan Shah
+	}
+	#11118.1.1 = {
+	#	holder = 0 # Ghaznavid vassalage under Seljuks
+	#}
+	
+	11157.1.1 = {
+		holder = 144138 # Khusraw Shah
+	}
+	11160.1.1 = {
+		holder = 144139 # Khusraw Malik
+	}
+	11166.1.1 = {
+		holder = makrani_1 # Khusrau Shah
+	}
+	11186.1.1 = {
+		liege = e_rajastan
+	}
+	11203.1.1 = {
+		holder = 144142 # Mu'izz
+	}
+	11206.3.15 = {
+		holder = 170302
+		liege = 0
+	}
+	#11216.2.15 = {
+	#	holder = 0
+	#}
+}
+
+
+c_khawr = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10765.1.1 = {
+		holder = 188605
+	}
+	10861.1.1 = {
+		liege = k_sindh
+		holder = baloch0001 # fictional Baloch
+	}
+	
+	# Independence for most of the 900s under b Ahmad family and Azariqas
+	11010.1.1 = {
+		liege = k_kabulistan
+		holder = 188544 # Ma'dan Ma'danid
+	}
+	11025.1.1 = {
+		holder = 188545 # Isa
+	}
+	11029.1.1 = {
+		liege = 0 # Isa's rebellion
+	}
+	11031.1.1 = {
+		liege = k_kabulistan
+		holder = 188546 # Abu'l-'Askar Husayn
+	}
+	11068.1.1 = {
+		holder = 188547 # ? Ma'danid
+	}
+	11090.1.1 = {
+		holder = 188548 # ? Ma'danid
+	}
+	11105.1.1 = {
+		holder = 188549 # ? Ma'danid
+	}
+	11118.1.1 = {
+		liege = d_sistan
+	}
+	11130.1.1 = {
+		holder = 188550 # ? Ma'danid
+	}
+	11166.1.1 = {
+		holder = makrani_1 # Khusrau Shah
+	}
+	11186.1.1 = {
+		holder = 93147
+	}
+	11192.1.1 = {
+		holder = 93148
+	}
+	11206.1.1 = {
+		holder = 93149
+	}
+	11215.1.1 = {
+		liege = "d_sistan"
+		holder = 93277
+	}
+	11221.1.1 = {
+		liege = d_merv
+		holder = 93053
+	}
+	11225.1.1 = {
+		liege = "d_sistan"
+		holder = 93278
+	}
+	11226.1.1 = {
+		holder = 93285
+	}
+	11255.1.1 = {
+	
+		holder = 93287
+	}
+	11318.1.1 = {
+		holder = 93288
+	}
+	11331.1.1 = {
+		holder = 93291
+	}
+}
+
+
+c_turan = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10644.1.1 = {
+		liege = d_makran
+	}
+	10765.1.1 = {
+		holder = 188605
+	}
+	10861.1.1 = {
+		liege = k_sindh
+		holder = baloch0001 # fictional Baloch
+	}
+	
+	# Independence for most of the 900s under b Ahmad family and Azariqas
+	11010.1.1 = {
+		liege = k_kabulistan
+		holder = 188544 # Ma'dan Ma'danid
+	}
+	11025.1.1 = {
+		holder = 188545 # Isa
+	}
+	11029.1.1 = {
+		liege = 0 # Isa's rebellion
+	}
+	11031.1.1 = {
+		liege = k_kabulistan
+		holder = 188546 # Abu'l-'Askar Husayn
+	}
+	11068.1.1 = {
+		holder = 188547 # ? Ma'danid
+	}
+	11090.1.1 = {
+		holder = 188548 # ? Ma'danid
+	}
+	11105.1.1 = {
+		holder = 188549 # ? Ma'danid
+	}
+	11118.1.1 = {
+		liege = d_sistan
+	}
+	11130.1.1 = {
+		holder = 188550 # ? Ma'danid
+	}
+	11150.1.1 = {
+		holder = 144141 # Ghiyath Ghurid
+	}
+	11166.1.1 = {
+		holder = makrani_1 # Khusrau Shah
+	}
+	11186.1.1 = {
+		holder = 93147
+	}
+	11192.1.1 = {
+		holder = 93148
+	}
+	11206.1.1 = {
+		holder = 93149
+	}
+	11215.1.1 = {
+		liege = "d_sistan"
+		holder = 93277
+	}
+	11221.1.1 = {
+		liege = d_merv
+		holder = 93053
+	}
+	11225.1.1 = {
+		liege = "d_sistan"
+		holder = 93278
+	}
+	11226.1.1 = {
+		holder = 93285
+	}
+	11255.1.1 = {
+	
+		holder = 93287
+	}
+	11318.1.1 = {
+		holder = 93288
+	}
+	11331.1.1 = {
+		holder = 93291
+	}
+}
+
+
+d_jabal_kufs = {
+	11066.1.1 = {
+		liege = k_persia
+		holder = 1000230512
+	}
+	11073.1.1 = {
+		holder = 0
+	}
+	11166.1.1 = {
+		holder = makrani_1 # Khusrau Shah
+		liege = k_kabulistan
+	}
+}
+
+
+c_bampur = {
+	10867.1.1 = {
+		government = clan_government
+		holder = 302700	#Placeholder Feraz
+		liege = k_makran
+	}
+	
+	10977.1.1 = {
+		holder = 144123 # Sabuktigin
+	}
+	10997.1.1 = {
+		holder = 144124 # Ismail
+	}
+	10998.1.1 = {
+		holder = 144125 # Mahmud
+	}
+	11030.1.1 = {
+		holder = 144126 # Muhammad
+	}
+	11031.1.1 = {
+		holder = 144127 # Musud
+	}
+	11041.1.1 = {
+		holder = 144128 # Mawdud
+	}
+	11050.1.1 = {
+		holder = 144129 # Masud
+	}
+	11050.6.1 = {
+		holder = 144130 # Ali
+	}
+	11050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	11053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	11059.1.1 = {
+		holder = 144133 # Ibrahim
+	}
+	11066.1.1 = {
+		holder = 1000230512
+	}
+	11099.1.1 = {
+		holder = 144134 # Masud II
+	}
+	11115.1.1 = {
+		holder = 144135 # Shirzad
+	}
+	11115.6.1 = {
+		holder = 144136 # Arlsan Shah
+	}
+	#11118.1.1 = {
+	#	holder = 0 # Ghaznavid vassalage under Seljuks
+	#}
+	
+	11157.1.1 = {
+		holder = 144138 # Khusraw Shah
+	}
+	11160.1.1 = {
+		holder = 144139 # Khusraw Malik
+	}
+	11166.1.1 = {
+		holder = makrani_1 # Khusrau Shah
+	}
+	11173.1.1 = {
+		holder = 144141 # Ghiyath Ghurid
+	}
+	11178.1.1 = {
+		holder = makrani_3 # Abu al-Makarim
+		liege = d_makran
+	}
+	11186.1.1 = {
+		liege = e_rajastan
+	}
+	11203.1.1 = {
+		holder = 144142 # Mu'izz
+	}
+	11206.3.15 = {
+		holder = 170302
+		liege = 0
+	}
+	#11216.2.15 = {
+	#	holder = 0
+	#}
+}
+
+
+c_jabal_kufs = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10867.1.1 = {
+		government = clan_government
+		holder = 302700	#Placeholder Feraz
+		liege = k_makran
+	}
+	
+	10977.1.1 = {
+		holder = 144123 # Sabuktigin
+	}
+	10997.1.1 = {
+		holder = 144124 # Ismail
+	}
+	10998.1.1 = {
+		holder = 144125 # Mahmud
+	}
+	11030.1.1 = {
+		holder = 144126 # Muhammad
+	}
+	11031.1.1 = {
+		holder = 144127 # Musud
+	}
+	11041.1.1 = {
+		holder = 144128 # Mawdud
+	}
+	11050.1.1 = {
+		holder = 144129 # Masud
+	}
+	11050.6.1 = {
+		holder = 144130 # Ali
+	}
+	11050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	11053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	11059.1.1 = {
+		holder = 144133 # Ibrahim
+	}
+	11066.1.1 = {
+		holder = 1000230512
+	}
+	11099.1.1 = {
+		holder = 144134 # Masud II
+	}
+	11115.1.1 = {
+		holder = 144135 # Shirzad
+	}
+	11115.6.1 = {
+		holder = 144136 # Arlsan Shah
+	}
+	#11118.1.1 = {
+	#	holder = 0 # Ghaznavid vassalage under Seljuks
+	#}
+	
+	11157.1.1 = {
+		holder = 144138 # Khusraw Shah
+	}
+	11160.1.1 = {
+		holder = 144139 # Khusraw Malik
+	}
+	11166.1.1 = {
+		holder = makrani_1 # Khusrau Shah
+	}
+	11178.1.1 = {
+		holder = makrani_3 # Abu al-Makarim
+		liege = d_makran
+	}
+	11186.1.1 = {
+		liege = e_rajastan
+	}
+	11203.1.1 = {
+		holder = 144142 # Mu'izz
+	}
+	11206.3.15 = {
+		holder = 170302
+		liege = 0
+	}
+	#11216.2.15 = {
+	#	holder = 0
+	#}
+}
+
+
+c_riqan = {
+	10867.1.1 = {
+		government = clan_government
+		holder = 302700	#Placeholder Feraz
+		liege = k_makran
+	}
+	
+	10977.1.1 = {
+		holder = 144123 # Sabuktigin
+	}
+	10997.1.1 = {
+		holder = 144124 # Ismail
+	}
+	10998.1.1 = {
+		holder = 144125 # Mahmud
+	}
+	11030.1.1 = {
+		holder = 144126 # Muhammad
+	}
+	11031.1.1 = {
+		holder = 144127 # Musud
+	}
+	11041.1.1 = {
+		holder = 144128 # Mawdud
+	}
+	11050.1.1 = {
+		holder = 144129 # Masud
+	}
+	11050.6.1 = {
+		holder = 144130 # Ali
+	}
+	11050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	11053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	11059.1.1 = {
+		holder = 144133 # Ibrahim
+	}
+	11066.1.1 = {
+		holder = 1000230512
+	}
+	11099.1.1 = {
+		holder = 144134 # Masud II
+	}
+	11115.1.1 = {
+		holder = 144135 # Shirzad
+	}
+	11115.6.1 = {
+		holder = 144136 # Arlsan Shah
+	}
+	#11118.1.1 = {
+	#	holder = 0 # Ghaznavid vassalage under Seljuks
+	#}
+	
+	11157.1.1 = {
+		holder = 144138 # Khusraw Shah
+	}
+	11160.1.1 = {
+		holder = 144139 # Khusraw Malik
+	}
+	11166.1.1 = {
+		holder = makrani_1 # Khusrau Shah
+	}
+	11178.1.1 = {
+		holder = makrani_3 # Abu al-Makarim
+		liege = d_makran
+	}
+	11186.1.1 = {
+		liege = e_rajastan
+	}
+	11203.1.1 = {
+		holder = 144142 # Mu'izz
+	}
+	11206.3.15 = {
+		holder = 170302
+		liege = 0
+	}
+	#11216.2.15 = {
+	#	holder = 0
+	#}
+}
+
+d_sistan = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 14 }
+
+	10801.1.1 = {
+		change_development_level = 6
+	}
+	
+	11000.1.1 = {
+		change_development_level = 8
+	}
+	
+	11100.1.1 = {
+		change_development_level = 14
+	}
+
+	10680.1.1 = {
+		liege = 0
+		holder = 188701 # Zunbil founder
+	}
+	10687.1.1 = {
+		holder = 188702
+	}
+	10725.1.1 = {
+		holder = 188703
+	}
+	10738.1.1 = {
+		holder = 188628
+	}
+	10770.1.1 = {
+		holder = 188705
+	}
+	10780.1.1 = {
+		holder = 188707
+	}
+	10815.1.1 = {
+		holder = 188708
+	}
+	10850.1.1 = {
+		holder = 188711 # Kabak Zunbil
+	}
+	10865.1.1 = {
+		liege = k_makran
+		holder = 163101 #Saffarid
+	}
+	
+	10977.1.1 = {
+		liege = k_kabulistan
+		holder = 144123 # Sabuktigin Ghaznavid
+	}
+	10997.1.1 = {
+		holder = 144124 # Ismail
+	}
+	10998.1.1 = {
+		holder = 144125 # Mahmud
+	}
+	11030.1.1 = {
+		holder = 144126 # Muhammad
+	}
+	11031.1.1 = {
+		holder = 144127 # Musud
+	}
+	11041.1.1 = {
+		holder = 144128 # Mawdud
+	}
+	11050.1.1 = {
+		holder = 144129 # Masud
+	}
+	11050.6.1 = {
+		holder = 144130 # Ali
+	}
+	11050.9.1 = {
+		holder = 144131 # Abd al-Rashid
+	}
+	11053.1.1 = {
+		holder = 144132 # Farrukhzad
+	}
+	
+	#Seljuks take the duchy
+	11057.1.1 = {
+		liege = e_persia
+		holder = 1000229901 # Musa Yabghu
+	}
+	11058.1.1 = {
+		holder = turkish0001 #Qara-Arslan Bori
+	}
+	11089.1.2 = {
+		holder = 1000229901 # Musa Yabghu again
+	}
+	
+	#ahistorical - Ghaznavids again
+	11090.1.2 = {
+		holder = 144134 # Masud II
+	}
+	11115.1.1 = {
+		holder = 144135 # Shirzad
+	}
+	11115.6.1 = {
+		holder = 144136 # Arlsan Shah
+	}
+	11118.1.1 = {
+		liege = k_persia # Seljuk vassalage
+		holder = 144137 # Bahram Shah
+	}
+	11152.1.1 = {
+		holder = 144138 # Khusraw Shah
+	}
+	11157.5.8 = {
+		liege = 0 # end of the Seljuk Turks
+	}
+	11160.1.1 = {
+		holder = 144139 # Khusraw Malik
+	}
+	11168.1.1 = {
+		holder = 93276 # Taj al-Din Harb
+	}
+	11175.1.1 = {
+		liege = "k_kabulistan"
+	}
+	11186.1.1 = {
+		liege = k_sindh
+	}
+	11203.1.1 = {
+		holder = 144142
+		liege = e_rajastan
+	}
+	11206.3.15 = {
+		holder = 144143
+		liege = 0
+	}
+	#Khwazerim
+	#Kartids
+	11212.1.1 = {
+		liege = "k_persia"
+		holder = 93153
+	}
+	
+	
+	11221.1.1 = {
+		liege = e_mongol_empire
+	}
+	11227.12.2 = {
+		liege = "e_ilkhanate"
+	}
+	11245.1.1 = {
+		holder = 93154
+	
+	}
+	11277.1.1 = {
+		holder = 93155
+	}
+	11295.1.1 = {
+		holder = 93156
+	}
+	11308.1.1 = {
+		holder = 93157
+	}
+	11330.1.1 = {
+		holder = 93158
+	}
+	11332.1.1 = {
+		liege = 0
+		holder = 93159
+	}
+}
+
+
+c_zaranj = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10680.1.1 = {
+		liege = d_sistan
+	}
+	
+	10766.1.1 = {
+		holder = 188722
+	}
+	
+	10865.1.1 = {
+		holder = 163101
+	}
+	10977.1.1 = {
+		holder = 144123
+	}
+	10997.1.1 = {
+		holder = 144124
+	}
+	10998.1.1 = {
+		holder = 144125
+	}
+	11030.1.1 = {
+		holder = 144126
+	}
+	11031.1.1 = {
+		holder = 144127
+	}
+	11041.1.1 = {
+		holder = 144128
+	}
+	11050.1.1 = {
+		holder = 144129
+	}
+	11050.6.1 = {
+		holder = 144130
+	}
+	11050.9.1 = {
+		holder = 144131
+	}
+	11053.1.1 = {
+		holder = 144132
+	}
+	11059.1.1 = {
+		liege = k_persia
+		holder = 1000230512
+	}
+	11073.1.1 = {
+		holder = 1000230514
+	}
+	11088.1.1 = {
+		holder = 93138
+	}
+	11099.1.1 = {
+		holder = 144134
+	}
+	11115.1.1 = {
+		holder = 144135
+	}
+	11115.6.1 = {
+		holder = 144136
+	}
+	11118.1.1 = {
+		holder = 144137
+	}
+	11152.1.1 = {
+		holder = 144138
+	}
+	11160.1.1 = {
+		holder = 144139
+	}
+	11168.1.1 = {
+		holder = 93276 # Taj al-Din Harb
+	}
+	11203.1.1 = {
+		holder = 144142
+	}
+	11206.3.15 = {
+		holder = 144143
+	}
+	11212.1.1 = {
+		holder = 93153
+	}
+	11245.1.1 =
+	
+	{
+		holder = 93154
+	}
+	11277.1.1 = {
+		holder = 93155
+	}
+	11295.1.1 = {
+		holder = 93156
+	}
+	11308.1.1 = {
+		holder = 93157
+	}
+	11330.1.1 = {
+		holder = 93158
+	}
+	11332.1.1 = {
+	
+		holder = 93159
+	}
+	
+}
+
+
+c_nih = {
+	10661.2.28 = {
+		liege = d_sistan
+	}
+	
+	10764.1.1 = {
+		holder = 188604 # Ma'n bin Za'idah al-Shaybani
+	}
+	
+	10865.1.1 = {
+		holder = 163101
+	}
+	
+	11057.1.1 = {
+		liege = d_sistan
+		holder = 1000229901 # Musa Yabghu
+	}
+	11058.1.1 = {
+		holder = turkish0001 #Qara-Arslan Bori
+	}
+	11089.1.2 = {
+		holder = 1000229901 # Musa Yabghu again
+	}
+
+	11090.1.2 = {
+		holder = 93272
+	}
+	11103.1.1 = {
+		holder = 93273
+	}
+	11164.1.1 = {
+		holder = 93274
+	}
+	11167.1.1 = {
+		holder = 93275
+	}
+	11168.1.1 = {
+		holder = 93276
+	}
+	11215.1.1 = {
+		holder = 93277
+	}
+	11221.1.1 = {
+		holder = 93278
+	}
+	11222.1.1 = {
+		holder = 93279
+	}
+	11222.7.1 = {
+		holder = 93280
+	}
+	11223.1.1 = {
+		holder = 93281
+	}
+	11225.1.1 = {
+		holder = 93282
+	}
+	11226.1.1 = {
+		holder = 93285
+	}
+	11255.1.1 = {
+	
+		holder = 93154
+	}
+	11261.1.1 = {
+	
+		holder = 93287
+	}
+	11318.1.1 = {
+		holder = 93288
+	}
+	11331.1.1 = {
+		holder = 93290
+	}
+
+}
+
+
+c_farah = {
+	10680.1.1 = {
+		liege = d_sistan
+	}
+	
+	10766.1.1 = {
+		holder = 188722
+	}
+	
+	10865.1.1 = {
+		holder = 163101
+	}
+	10977.1.1 = {
+		holder = 144123
+	}
+	10997.1.1 = {
+		holder = 144124
+	}
+	10998.1.1 = {
+		holder = 144125
+	}
+	11030.1.1 = {
+		holder = 144126
+	}
+	11031.1.1 = {
+		holder = 144127
+	}
+	11041.1.1 = {
+		holder = 144128
+	}
+	11050.1.1 = {
+		holder = 144129
+	}
+	11050.6.1 = {
+		holder = 144130
+	}
+	11050.9.1 = {
+		holder = 144131
+	}
+	11053.1.1 = {
+		holder = 144132
+	}
+	11057.1.1 = {
+		liege = d_sistan
+		holder = 1000229901 # Musa Yabghu
+	}
+	11058.1.1 = {
+		holder = turkish0001 #Qara-Arslan Bori
+	}
+	11089.1.2 = {
+		holder = 1000229901 # Musa Yabghu again
+	}
+	11090.1.2 = {
+		holder = 93138
+	}
+	11099.1.1 = {
+		holder = 144134
+	}
+	11115.1.1 = {
+		holder = 144135
+	}
+	11115.6.1 = {
+		holder = 144136
+	}
+	11118.1.1 = {
+		holder = 144137
+	}
+	11152.1.1 = {
+		holder = 144138
+	}
+	11168.1.1 = {
+		holder = 93276 # Taj al-Din Harb
+	}
+	11203.1.1 = {
+		holder = 144142
+	}
+	11206.3.15 = {
+		holder = 144143
+	}
+	11212.1.1 = {
+		holder = 93153
+	}
+	11245.1.1 =
+	
+	{
+		holder = 93154
+	}
+	11277.1.1 = {
+		holder = 93155
+	}
+	11295.1.1 = {
+		holder = 93156
+	}
+	11308.1.1 = {
+		holder = 93157
+	}
+	11330.1.1 = {
+		holder = 93158
+	}
+	11332.1.1 = {
+	
+		holder = 93159
+	}
+}
+
+c_rudbar = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10680.1.1 = {
+		liege = d_sistan
+	}
+	
+	10766.1.1 = {
+		holder = 188722
+	}
+	
+	10865.1.1 = {
+		holder = 163101
+	}
+	10977.1.1 = {
+		holder = 144123
+	}
+	10997.1.1 = {
+		holder = 144124
+	}
+	10998.1.1 = {
+		holder = 144125
+	}
+	11030.1.1 = {
+		holder = 144126
+	}
+	11031.1.1 = {
+		holder = 144127
+	}
+	11041.1.1 = {
+		holder = 144128
+	}
+	11050.1.1 = {
+		holder = 144129
+	}
+	11050.6.1 = {
+		holder = 144130
+	}
+	11050.9.1 = {
+		holder = 144131
+	}
+	11053.1.1 = {
+		holder = 144132
+	}
+	11059.1.1 = {
+		liege = k_kabulistan
+		holder = 144133
+	}
+	11066.1.1 = {
+		holder = 93137
+	}
+	11099.1.1 = {
+		holder = 144134
+	}
+	11115.1.1 = {
+		holder = 144135
+	}
+	11115.6.1 = {
+		holder = 144136
+	}
+	11118.1.1 = {
+		holder = 144137
+	}
+	11152.1.1 = {
+		holder = 144138
+	}
+	11160.1.1 = {
+		holder = 144139
+	}
+	11168.1.1 = {
+		holder = 93276 # Taj al-Din Harb
+	}
+	11203.1.1 = {
+		holder = 144142
+	}
+	11206.3.15 = {
+		holder = 144143
+	}
+	11212.1.1 = {
+		holder = 93153
+	}
+	11245.1.1 =
+	
+	{
+		holder = 93154
+	}
+	11277.1.1 = {
+		holder = 93155
+	}
+	11295.1.1 = {
+		holder = 93156
+	}
+	11308.1.1 = {
+		holder = 93157
+	}
+	11330.1.1 = {
+		holder = 93158
+	}
+	11332.1.1 = {
+	
+		holder = 93159
+	}
+}
+
+
+c_bost = {
+	11178.1.1 = { change_development_level = 34 }
+
+	10680.1.1 = {
+		liege = d_sistan
+		holder = 188701 # Zunbil founder
+	}
+	10687.1.1 = {
+		holder = 188702
+	}
+	10725.1.1 = {
+		holder = 188703
+	}
+	10738.1.1 = {
+		holder = 188628
+	}
+	10770.1.1 = {
+		holder = 188705
+	}
+	10780.1.1 = {
+		holder = 188707
+	}
+	10815.1.1 = {
+		holder = 188708
+	}
+	10850.1.1 = {
+		holder = 188711 # Kabak Zunbil
+	}
+	10865.1.1 = {
+		holder = 188710 # Zunbil cousin
+	}
+	11020.1.1 = {
+		liege = d_ghur 
+		holder = extra_ghaznavids_2
+	}
+	11068.1.1 = {
+		liege = k_kabulistan
+		holder = 93137
+	}
+	11100.1.1 = {
+		liege = "d_merv"
+	}
+	11157.5.8 = {
+		liege = "d_sistan"
+	}
+	11168.1.1 = {
+		holder = 93276 # Taj al-Din Harb
+	}
+	11203.1.1 = {
+		holder = 144142
+	}
+	11206.3.15 = {
+		holder = 144143
+	}
+	11212.1.1 = {
+		holder = 93144
+	}
+	11213.1.1 = {
+		holder = 93145
+	}
+	11214.1.1 = {
+		holder = 93153
+	}
+	11245.1.1 = {
+		holder = 93154
+	}
+	11277.1.1 = {
+		holder = 93155
+	}
+	11295.1.1 = {
+		holder = 93156
+	}
+	11308.1.1 = {
+		holder = 93157
+	}
+	11330.1.1 = {
+		holder = 93158
+	}
+	11332.1.1 = {
+	
+		holder = 93159
+	}
+}

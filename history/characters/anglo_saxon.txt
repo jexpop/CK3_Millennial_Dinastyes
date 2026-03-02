@@ -1,0 +1,6958 @@
+﻿98 = {
+	name = "Eadgar"
+	# AKA: Eadgar 'the Peaceable'
+	dynasty_house = house_british_isles_wessex
+	martial = 2
+	diplomacy = 10
+	intrigue = 10
+	stewardship = 8
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = honest
+	trait = education_diplomacy_4
+	father = 102
+	10943.8.7 = {
+		birth = yes
+	}
+	10975.7.8 = {
+		death = yes
+	}
+}
+
+99 = {
+	name = "Eadward"
+	# AKA: Eadweard 'se Martyr'
+	dynasty_house = house_british_isles_wessex
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 5
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_2
+	father = 98
+	10962.1.1 = {
+		birth = yes
+	}
+	10978.1.1 = {
+		give_nickname = nick_the_martyr
+	}
+	10978.3.18 = {
+		death = yes
+	}
+}
+
+100 = {
+	name = "Eadward"
+	# AKA: Eadweard 'se Ieldra'
+	dynasty_house = house_british_isles_wessex
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = honest
+	trait = education_martial_2
+	father = 7627 #Alfred the Great
+	mother = 306020 #Eahlswith Mucel
+	10874.1.1 = {
+		birth = "10874.1.1"
+	}
+	10920.1.1 = {
+		give_nickname = nick_the_old
+	}
+	10924.7.17 = {
+		death = "10924.7.17"
+	}
+}
+
+101 = {
+	name = "Edithia"
+	female = yes
+	dynasty_house = house_british_isles_wessex
+	martial = 6
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 8
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = greedy
+	trait = education_stewardship_3
+	father = 100
+	10910.1.1 = {
+		birth = "10910.1.1"
+	}
+	10946.1.26 = {
+		death = "10946.1.26"
+	}
+}
+
+102 = {
+	name = "Eadmund"
+	# AKA: Eadmund 'the Magnificent'
+	dynasty_house = house_british_isles_wessex
+	martial = 9
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = honest
+	trait = education_martial_2
+	father = 100
+	10922.1.1 = {
+		birth = "10922.1.1"
+	}
+	10946.1.1 = {
+		give_nickname = nick_the_magnificent
+	}
+	10946.5.26 = {
+		death = "10946.5.26"
+	}
+}
+
+105 = {
+	name = "E_lfgifu"
+	# AKA: Aelflaed
+	female = yes
+	dynasty = 100052
+	martial = 8
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_intrigue_2
+	10963.1.1 = {
+		birth = yes
+	}
+	11002.1.9 = {
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+
+106 = {
+	name = "E_thelrE_d"
+	# AKA: Aethelraed 'Unraed'
+	dynasty_house = house_british_isles_wessex
+	martial = 7
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_martial_3
+	father = 98
+	10968.1.1 = {
+		birth = "10968.1.1"
+	}
+	10985.1.1 = {
+		add_spouse = 105
+	}
+	11002.3.1 = {
+		add_spouse = 259 #Emma de Normandie
+	}
+	11016.1.1 = {
+		give_nickname = nick_the_unready_anglo_saxon
+	}
+	11016.4.23 = {
+		death = "11016.4.23"
+	}
+}
+
+107 = {
+	name = "Ealdgyth"
+	female = yes
+	martial = 5
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_intrigue_1
+	10969.1.2 = {
+		birth = "10969.1.2"
+	}
+	11016.1.11 = {
+		death = "11016.1.11"
+	}
+}
+
+108 = {
+	name = "Eadmund"
+	# AKA: Eadmund 'Ironside'
+	dynasty_house = house_british_isles_wessex
+	martial = 4
+	diplomacy = 8
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_intrigue_1
+	father = 106
+	mother = 105
+	10988.1.1 = {
+		birth = "10988.1.1"
+	}
+	11016.1.1 = {
+		give_nickname = nick_the_ironside
+	}
+	11016.11.30 = {
+		death = "11016.11.30"
+	}
+}
+
+110 = {
+	name = "Eadward"
+	# AKA: Eadward 'the Exile'
+	dynasty_house = house_british_isles_wessex
+	martial = 8
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = content
+	trait = wrathful
+	trait = generous
+	trait = athletic
+	trait = adventurer
+	trait = education_martial_3
+	father = 108
+	11016.1.1 = {
+		birth = "11016.1.1"
+	}
+	11036.1.2 = {
+		add_spouse = 41101
+		give_nickname = nick_the_exile
+		effect = {
+			learn_language_of_culture = culture:russian
+			learn_language_of_culture = culture:hungarian
+		}
+	}
+	11057.8.30 = {
+		death = "11057.8.30"
+	}
+}
+
+111 = {
+	name = "Godwine"
+	dynasty = 756
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_stewardship_2
+	trait = legitimized_bastard
+	father = 122
+	mother = 131
+	11049.1.1 = {
+		birth = "11049.1.1"
+	}
+	11066.10.14 = {
+		employer = 922
+	}
+
+	11095.1.1 = {
+		death = "11095.1.1"
+	}
+}
+
+112 = {
+	name = "Eadgar" # the Aetheling
+	dna = "112_eadgar_warwickshire"
+	dynasty_house = house_british_isles_wessex
+	martial = 6
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_martial_2
+	trait = brave
+	trait = diligent
+	trait = gregarious
+	father = 110
+	mother = 41101
+	11050.1.1 = {
+		birth = "11050.1.1"
+	}
+	11057.8.30 = {
+		add_pressed_claim = title:k_england
+		trait = adventurer_follower
+		effect = {
+			learn_language_of_culture = culture:russian
+			learn_language_of_culture = culture:hungarian
+		}
+	}
+	11066.1.6 = {
+		trait = lifestyle_hunter
+	}
+	11066.10.14 = {
+		employer = 5644
+	}
+	11068.1.1 = {
+		employer = 984
+	}
+	11098.1.1 = {
+		employer = 1742 #Alexios Komnenos
+	}
+	11126.1.1 = {
+		death = "11126.1.1"
+	}
+}
+
+113 = {
+	name = "Margaret"
+	female = yes
+	dynasty_house = house_british_isles_wessex
+	martial = 4
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = cynical
+	trait = education_learning_2
+	father = 110
+	mother = 41101
+	11045.1.1 = {
+		birth = "11045.1.1"
+	}
+	11057.8.30 = {
+		add_pressed_claim = title:k_england
+		trait = adventurer_follower
+		effect = {
+			learn_language_of_culture = culture:russian
+			learn_language_of_culture = culture:hungarian
+		}
+	}
+
+	11093.11.16 = {
+		death = "11093.11.16"
+	}
+}
+
+114 = {
+	name = "Eadward"
+	# AKA: Eadweard 'se Andettere'
+	dynasty_house = house_british_isles_wessex
+	martial = 5
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = generous
+	trait = chaste
+	trait = education_diplomacy_3
+	trait = contrite
+	sexuality = asexual
+	father = 106
+	mother = 259
+	11003.1.1 = {
+		birth = "11003.1.1"
+	}
+	11016.1.1 = {
+		give_nickname = nick_the_confessor
+	}
+	11046.1.1 = {
+		add_spouse = 121
+	}
+	11066.1.5 = {
+		death = "11066.1.5"
+	}
+}
+
+115 = {
+	name = "Eadmund"
+	dynasty = 756
+	martial = 6
+	diplomacy = 3
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_martial_2
+	trait = legitimized_bastard
+	father = 122
+	mother = 131
+	11049.12.10 = {
+		birth = "11049.12.10"
+	}
+	11066.10.14 = {
+		employer = 922
+	}
+	11085.1.1 = {
+		death = "11085.1.1"
+	}
+}
+
+116 = {
+	name = "Magnus"
+	dynasty = 756
+	martial = 4
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_martial_2
+	trait = legitimized_bastard
+	father = 122
+	mother = 131
+	11051.6.10 = {
+		birth = "11051.6.10"
+	}
+	11066.10.14 = {
+		employer = 922
+	}
+	11091.1.1 = {
+		death = "11091.1.1"
+	}
+}
+
+117 = {
+	name = "Cristina"
+	female = yes
+	dynasty_house = house_british_isles_wessex
+	martial = 3
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = wrathful
+	trait = chaste
+	trait = education_learning_2
+	father = 110
+	mother = 41101
+	11047.5.8 = {
+		birth = "11047.5.8"
+	}
+	11057.8.30 = {
+		add_pressed_claim = title:k_england
+		trait = adventurer_follower
+		effect = {
+			learn_language_of_culture = culture:russian
+			learn_language_of_culture = culture:hungarian
+		}
+	}
+	11066.1.6 = {
+		employer = 122
+	}
+	11066.10.14 = {
+		employer = 5644
+	}
+	11068.1.1 = {
+		employer = 984
+	}
+
+	11099.11.19 = {
+		death = "11099.11.19"
+	}
+}
+
+120 = {
+	name = "Godwine"
+	dynasty = 756
+	martial = 6
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_stewardship_3
+	10993.1.1 = {
+		birth = "10993.1.1"
+	}
+	11015.1.2 = {
+		add_spouse = 101534
+	}
+	11053.4.15 = {
+		death = "11053.4.15"
+	}
+}
+
+121 = {
+	name = "Edith"
+	female = yes
+	dynasty = 756
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = wrathful
+	trait = education_learning_2
+	father = 120
+	mother = 101534
+	11026.1.1 = {
+		birth = "11026.1.1"
+	}
+	11075.12.18 = {
+		death = "11075.12.18"
+	}
+}
+
+122 = {
+	name = Harold # Godwineson, king of England
+	dna = 122_king_harold
+	dynasty = 756
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 6
+	religion = "catholic"
+	culture = anglo_saxon
+	disallow_random_traits = yes
+	sexuality = heterosexual
+	trait = education_martial_3
+
+	trait = arbitrary
+	trait = arrogant
+	trait = ambitious
+
+	trait = organizer	#For all the good his forced marches did him.
+	trait = physique_good_2	#Oft-noted for his size, weirdly.
+
+	father = 120
+	mother = 101534
+	11022.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}
+	}
+	11045.1.1 = {
+		add_spouse = 131 #Ealdgyth 'Swanneck'
+		effect = {
+			set_relation_lover = { reason = lover_history target = character:131 } 
+			add_hook = {
+				target = character:131
+				type = loyalty_hook
+			}
+			reverse_add_opinion = {
+				modifier = love_opinion
+				target = character:131
+				opinion = 40
+			}
+		}
+	}
+	11064.12.1 = {
+		remove_spouse = 131
+	}
+	11066.1.1 = {
+		add_spouse = 123 #Ealdgyth of Mercia
+		effect = {
+			reverse_add_opinion = {
+				modifier = divorced_me_opinion
+				target = character:131
+			}
+			reverse_add_opinion = {
+				modifier = divorced_close_kin
+				target = character:111
+			}
+			reverse_add_opinion = {
+				modifier = divorced_close_kin
+				target = character:115
+			}
+			reverse_add_opinion = {
+				modifier = divorced_close_kin
+				target = character:116
+			}
+			reverse_add_opinion = {
+				modifier = divorced_close_kin
+				target = character:127
+			}
+			reverse_add_opinion = {
+				modifier = divorced_close_kin
+				target = character:129
+			}
+		}
+	}
+	11066.10.14 = {
+		trait = one_eyed
+		death = {
+			death_reason = death_battle
+			killer = 140
+		}
+	}
+}
+
+123 = {
+	name = "E_ldgyth" # of Mercia
+	# AKA: Ealdgyth
+	dna = 123_queen_ealdgyth
+	female = yes
+	dynasty = 560
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = arrogant
+	trait = gluttonous
+	trait = education_intrigue_1
+	father = 5642
+	mother = 161280
+	11036.1.1 = {
+		birth = "11036.1.1"
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}	
+	}
+	11066.12.14 = {
+		death = "11066.12.14"
+	}
+}
+
+124 = {
+	name = "Tostig"
+	dna = 124_tostig
+	dynasty = 756
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = anglo_saxon
+	disallow_random_traits = yes
+	trait = lustful
+	trait = just
+	trait = education_intrigue_3
+	father = 120
+	mother = 101534
+	11025.1.1 = {
+		birth = "11025.1.1"
+	}
+	11050.1.1 = {
+		add_spouse = 363
+	}
+	
+	11066.1.1 = {
+		employer = 102531
+		give_council_position = councillor_marshal
+		
+		effect = {
+			set_relation_nemesis = {
+				target = character:122	#King Harold seized his titles!
+				reason = nemesis_tostig_harold
+			}
+		}
+		add_pressed_claim = title:k_england
+		add_pressed_claim = title:d_northumberland
+		add_pressed_claim = title:d_york
+	}
+	11066.9.25 = {
+		death = "11066.9.25"
+	}
+}
+
+125 = {
+	name = "Skuli"
+	dynasty = 756
+	martial = 8
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = calm
+	trait = education_stewardship_2
+	father = 124
+	mother = 363
+	11052.1.2 = {
+		birth = "11052.1.2"
+	}
+	11066.1.1 = {
+		employer = 102531
+	}
+	11102.1.2 = {
+		death = "11102.1.2"
+	}
+}
+
+126 = {
+	name = "Ketil"
+	dynasty = 756
+	martial = 6
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = hunchbacked
+	trait = education_stewardship_2
+	father = 124
+	mother = 363
+	11054.1.2 = {
+		birth = "11054.1.2"
+	}
+	11066.1.1 = {
+		employer = 102531
+	}
+	11104.1.2 = {
+		death = "11104.1.2"
+	}
+}
+
+127 = {
+	name = "Gytha"
+	female = yes
+	dynasty = 756
+	martial = 4
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_2
+	trait = legitimized_bastard
+	mother = 131
+	father = 122
+	11053.1.2 = {
+		birth = "11053.1.2"
+	}
+	11098.1.2 = {
+		death = "11098.1.2"
+	}
+}
+
+128 = {
+	name = "Sveyn"
+	dynasty = 756
+	martial = 8
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = arbitrary
+	trait = education_martial_2
+	father = 120
+	mother = 101534
+	11021.1.1 = {
+		birth = "11021.1.1"
+	}
+	11052.9.29 = {
+		death = "11052.9.29"
+	}
+}
+
+129 = {
+	name = "Gunhild"
+	female = yes
+	dynasty = 756
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_2
+	trait = legitimized_bastard
+	mother = 131
+	father = 122
+	11055.1.2 = {
+		birth = "11055.1.2"
+	}
+	11097.1.2 = {
+		death = "11097.1.2"
+	}
+}
+
+130 = {
+	name = "Leofwine"
+	dynasty = 756
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_stewardship_2
+	father = 120
+	mother = 101534
+	11038.1.1 = {
+		birth = "11038.1.1"
+	}
+	11066.10.14 = {
+		death = "11066.10.14"
+	}
+}
+
+131 = {
+	name = "Eadgifu" # 'the Fair', 'Swanneck', 'the Rich'
+	# AKA: Ealdgyth 'Swanneck'
+	dna = 131_eadgifu_the_fair
+	female = yes
+	dynasty = 363
+	martial = 4
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = beauty_good_2
+	trait = calm
+	trait = diligent
+	trait = education_stewardship_4
+	11025.6.6 = {
+		birth = "11025.6.6"
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}	
+	}
+	11045.1.1 = {
+		give_nickname = nick_the_fair
+		add_spouse = 122
+	}
+	11086.1.2 = {
+		death = "11086.1.2"
+	}
+}
+
+132 = {
+	name = "Gyrth"
+	dynasty = 756
+	martial = 9
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = anglo_saxon
+	disallow_random_traits = yes
+	trait = calm
+	trait = brave
+	trait = honest
+	trait = education_martial_3
+	father = 120
+	mother = 101534
+	11032.1.1 = {
+		birth = "11032.1.1"
+	}
+	11050.1.1 = {
+		trait = lifestyle_hunter
+	}
+	11066.10.14 = {
+		death = "11066.10.14"
+	}
+}
+
+135 = {
+	name = "E_ldgyth"
+	# AKA: Ealdgyth
+	female = yes
+	dynasty = 753
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = cynical
+	trait = education_stewardship_3
+	10996.1.2 = {
+		birth = "10996.1.2"
+	}
+	11015.1.7 = {
+		death = "11015.1.7"
+	}
+}
+
+186 = {
+	name = "Waltheof"
+	dynasty = 744
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 6
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = brave
+	trait = education_intrigue_2
+	10955.1.2 = {
+		birth = "10955.1.2"
+	}
+	11001.1.2 = {
+		death = "11001.1.2"
+	}
+}
+
+188 = {
+	name = "Uhtred"
+	# AKA: Uhtred 'the Bold'
+	dynasty = 744
+	martial = 7
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_intrigue_2
+	father = 186
+	10974.1.1 = {
+		birth = "10974.1.1"
+	}
+	10990.1.1 = {
+		add_spouse = 161263
+	}
+	11010.1.1 = {
+		add_spouse = 161261
+	}
+	11016.1.1 = {
+		death = "11016.1.1"
+	}
+}
+
+189 = {
+	name = "Ealdgyth"
+	female = yes
+	dynasty = 744
+	martial = 6
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 6
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_3
+	father = 188
+	mother = 161261
+	11015.1.1 = {
+		birth = "11015.1.1"
+	}
+	11065.1.1 = {
+		death = "11065.1.1"
+	}
+}
+
+190 = {
+	name = "Eadulf"
+	dynasty = 744
+	martial = 4
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 5
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = honest
+	trait = just
+	trait = zealous
+	trait = education_intrigue_1
+	father = 188
+	mother = 161263
+	10992.1.1 = {
+		birth = "10992.1.1"
+	}
+	11041.1.1 = {
+		death = "11041.1.1"
+	}
+}
+
+191 = {
+	name = "Osulf"
+	dynasty = 744
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = temperate
+	trait = wrathful
+	trait = education_intrigue_1
+	father = 190
+	11032.1.1 = {
+		birth = "11032.1.1"
+	}
+	11069.1.1 = {
+		death = "11069.1.1"
+	}
+}
+
+192 = {
+	name = "Ealdred"
+	dynasty = 744
+	martial = 5
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 8
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_diplomacy_2
+	father = 188
+	mother = 161263
+	10991.1.1 = {
+		birth = "10991.1.1"
+	}
+	11039.1.1 = {
+		death = "11039.1.1"
+	}
+}
+
+193 = {
+	name = "E_lflE_d"
+	# AKA: aelflaed
+	female = yes
+	dynasty = 744
+	martial = 6
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 8
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_diplomacy_3
+	father = 192
+	11012.1.1 = {
+		birth = "11023.1.1"
+	}
+	11055.1.1 = {
+		death = "11055.1.1"
+	}
+}
+
+196 = {
+	name = "Siward"
+	# AKA: Siward 'Grossus'
+	dynasty = 745
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = brave
+	trait = education_martial_2
+	11010.1.2 = {
+		birth = "11010.1.2"
+	}
+	11046.1.2 = {
+		add_spouse = 193
+	}
+	11055.1.2 = {
+		death = "11055.1.2"
+	}
+}
+
+198 = {
+	name = "Waltheof"
+	dynasty = 745
+	martial = 4
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = deceitful
+	trait = education_diplomacy_2
+	trait = wrathful
+	father = 196
+	mother = 193
+	11050.1.2 = {
+		birth = "11050.1.2"
+	}
+	11070.1.1 = {
+		add_spouse = 317
+	}
+	11076.1.1 = {
+		death = "11076.1.1"
+	}
+}
+
+199 = {
+	name = "Maud"
+	female = yes
+	dynasty = 745
+	martial = 6
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 5
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = zealous
+	trait = education_learning_2
+	father = 198
+	mother = 317
+	11074.1.1 = {
+		birth = "11074.1.1"
+	}
+	11130.4.23 = {
+		death = "11130.4.23"
+	}
+}
+
+131601 = {
+	name = "E_thelwine"
+	# AKA: aethelwine
+	dynasty = 100056
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = humble
+	trait = education_learning_3
+	11025.1.1 = {
+		birth = "11025.1.1"
+	}
+	11072.1.1 = {
+		death = "11072.1.1"
+	}
+}
+
+41002 = {
+	name = "Harold"
+	dynasty = 756
+	martial = 6
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = twin
+	father = 122
+	mother = 123
+	11066.11.8 = {
+		birth = "11066.11.8"
+		employer = 102532
+	}
+	11069.4.28 = {
+		employer = 102534
+	}
+	11093.1.1 = {
+		employer = 102577
+	}
+	11094.6.6 = {
+		employer = 202511
+	}
+
+	11112.4.16 = {
+		death = "11112.4.16"
+	}
+}
+
+41003 = {
+	name = "Ulf"
+	dynasty = 756
+	martial = 4
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = twin
+	father = 122
+	mother = 123
+	11066.11.8 = {
+		birth = "11066.11.8"
+		employer = 140
+	}
+	11087.9.9 = {
+		employer = 142
+	}
+
+	11103.6.3 = {
+		death = "11103.6.3"
+	}
+}
+
+511 = {
+	name = "Elgiva"
+	female = yes
+	dynasty_house = house_british_isles_wessex
+	martial = 3
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 9
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_3
+	father = 100
+	10922.1.2 = {
+		birth = "10922.1.2"
+	}
+	10976.1.2 = {
+		death = "10976.1.2"
+	}
+}
+
+5604 = {
+	name = "Stigand"
+	dynasty = 565
+	martial = 4
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 5
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10995.1.1 = {
+		birth = "10995.1.1"
+	}
+	11072.1.1 = {
+		death = "11072.1.1"
+	}
+}
+
+5624 = {
+	name = "E_thelwine"
+	# AKA: aethelwine
+	martial = 7
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = arbitrary
+	trait = hunchbacked
+	trait = education_learning_3
+	11016.1.1 = {
+		birth = "11016.1.1"
+	}
+	11066.1.1 = {
+		death = "11066.1.1"
+	}
+}
+
+5640 = {
+	name = "Leofric"
+	dynasty = 560
+	martial = 6
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = greedy
+	trait = humble
+	trait = cynical
+	trait = education_martial_3
+	10968.1.1 = {
+		birth = "10968.1.1"
+	}
+	11018.1.1 = {
+		add_spouse = 161279
+	}
+	
+	11057.10.30 = {
+		death = "11057.10.30"
+	}
+}
+
+5642 = {
+	name = "E_lfgar"
+	# AKA: aelfgar
+	dynasty = 560
+	martial = 7
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 4
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_martial_3
+	father = 5640
+	mother = 161279
+	11019.1.1 = {
+		birth = "11019.1.1"
+	}
+	11036.1.1 = {
+		add_spouse = 161280
+	}
+	11062.1.1 = {
+		death = "11062.1.1"
+	}
+}
+
+
+5644 = {
+	name = "Eadwin"
+	dynasty = 560
+	martial = 7
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 5
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = greedy
+	trait = brave
+	trait = lazy
+	trait = education_diplomacy_3
+	trait = ambitious
+	father = 5642
+	mother = 161280
+	11044.1.1 = {
+		birth = "11044.1.1"
+	}
+	11066.1.1 = {
+		trait = lifestyle_hunter
+	}
+	11071.1.1 = {
+		death = "11071.1.1"
+	}
+}
+
+#nothing can be found of him
+#5646 = {
+#	name = "Estmond"
+#	dynasty = 560
+#	martial = 8
+#	diplomacy = 5
+#	intrigue = 8
+#	stewardship = 4
+#	religion = "catholic"
+#	culture = anglo_saxon
+#	trait = craven
+#	trait = education_martial_2
+#	father = 5644
+#	11060.1.1 = {
+#		birth = "11060.1.1"
+#	}
+#	11100.1.1 = {
+#		death = "11100.1.1"
+#	}
+#}
+
+5660 = {
+	name = "Morcar"
+	dynasty = 560
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 5642
+	mother = 161280
+
+	#Skills
+	diplomacy = 8
+	martial = 7
+	stewardship = 5
+	intrigue = 2
+	learning = 6
+	prowess = 7
+	
+	#Education
+	trait = education_martial_3
+
+	#Personality Traits
+	trait = brave
+	trait = ambitious
+	trait = arbitrary
+	
+	sexuality = heterosexual
+	disallow_random_traits = yes
+	11046.1.1 = {
+		birth = "11046.1.1"
+		set_relation_friend = { reason = friend_generic_history target = character:5644 }	#Fast-friends with his elder brother for their entire lives.
+	}
+	11065.1.1 = {
+		effect = {
+			add_perk = popular_figurehead_perk	#Popularly elected to rule York.
+		}
+	}
+	11066.1.1 = {
+		trait = lifestyle_hunter
+	}
+	11078.1.1 = {
+		death = "11078.1.1"
+	}
+}
+
+5684 = {
+	name = "Ealdred"
+	dynasty = 100073
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = lustful
+	trait = temperate
+	trait = education_stewardship_3
+	11002.1.2 = {
+		birth = "11002.1.2"
+	}
+	11052.1.2 = {
+		death = "11052.1.2"
+	}
+}
+
+6890 = {
+	name = Ecgwyn # Fantasy
+	female = yes
+	religion = "catholic"
+	culture = anglo_saxon
+	10828.1.1 = {
+		birth = yes
+	}
+	10894.1.1 = {
+		death = yes
+	}
+}
+
+6891 = {
+	name = BurgflE_d # Fantasy
+	female = yes
+	religion = "catholic"
+	culture = anglo_saxon
+	10845.1.1 = {
+		birth = yes
+	}
+	10899.1.1 = {
+		death = yes
+	}
+}
+
+7387 = {
+	name = "Hextilda"
+	female = yes
+	dynasty = 745
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 7396
+	mother = 7388
+	11129.1.1 = {
+		birth = "11129.1.1"
+	}
+	11185.1.1 = {
+		death = "11185.1.1"
+	}
+}
+
+7396 = {
+	name = "Uhtred"
+	dynasty = 745
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 198
+	mother = 317
+	11073.1.1 = {
+		birth = "11073.1.1"
+	}
+	11085.1.1 = {
+		add_spouse = 7388
+	}
+	11130.1.1 = {
+		death = "11130.1.1"
+	}
+}
+
+7627 = {
+	name = Alfred #the Great
+	dna = 7627_earl_alfred
+	dynasty_house = house_british_isles_wessex
+	martial = 11
+	diplomacy = 13
+	intrigue = 8
+	stewardship = 13
+	learning = 13
+	prowess = 11
+	religion = catholic
+	culture = anglo_saxon
+	trait = honest
+	trait = just
+	trait = gregarious
+	trait = diligent
+	trait = intellect_good_2
+	trait = education_martial_4
+	sexuality = heterosexual
+	father = 33355 #(?helwulf, King of Wessex)
+	mother = 306023 #Osburh
+	10849.1.1 = {
+		birth = yes
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}	
+	}
+	10859.1.1 = {
+		effect = {
+			set_relation_friend = { reason = friend_generic_history target = character:33358 } # ?helred, brother and king of Wessex
+		}
+	}
+	10867.1.1 = {
+		add_spouse = 306020
+	}
+	10890.1.1 = {
+		give_nickname = nick_the_great
+	}
+	10899.10.26 = {
+		death = yes
+	}
+}
+
+
+7629 = {
+	name = "Elfthryth"
+	female = yes
+	dynasty_house = house_british_isles_wessex
+	martial = 3
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 9
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_3
+	father = 7627 #Alfred the Great
+	mother = 306020 #Eahlswith Mucel
+	10877.1.1 = {
+		birth = "10870.1.1"
+	}
+	10929.6.7 = {
+		death = "10929.6.7"
+	}
+}
+
+82001 = {
+	name = "Eadulf"
+	# AKA: Eadulf 'Rus'
+	dynasty = 744
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 82002
+	11040.1.2 = {
+		birth = "11040.1.2"
+	}
+	11087.1.2 = {
+		death = "11087.1.2"
+	}
+}
+
+82002 = {
+	name = "Gospatric"
+	dynasty = 744
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 188
+	mother = 161263
+	11000.1.1 = {
+		birth = "11000.1.1"
+	}
+	11050.1.1 = {
+		death = "11050.1.1"
+	}
+}
+
+82040 = {
+	name = "Wulfstan"
+	martial = 4
+	diplomacy = 9
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = generous
+	trait = education_learning_3
+	11008.1.2 = {
+		birth = "11008.1.2"
+	}
+	11095.1.20 = {
+		death = "11095.1.20"
+	}
+}
+
+82057 = {
+	name = "Thorold"
+	dynasty = 9112
+	martial = 6
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	11028.1.1 = {
+		birth = "11028.1.1"
+	}
+	11084.1.1 = {
+		death = "11084.1.1"
+	}
+}
+
+82058 = {
+	name = "Lucy"
+	# wife of Ranulf le Meschin earl of Chester
+	female = yes
+	dynasty = 9112
+	martial = 5
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 9
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 82057
+	11065.1.2 = {
+		birth = "11065.1.2"
+	}
+	11138.12.1 = {
+		death = "11138.12.1"
+	}
+}
+
+85013 = {
+	name = "Wulfnoth"
+	dynasty = 756
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_intrigue_1
+	father = 120
+	mother = 101534
+	11040.1.1 = {
+		birth = "11040.1.1"
+	}
+	11052.1.1 = {
+		# Imprisoned by Edward the Confessor in 1051, but then taken to Normandy and kept there (thus falling into William's hands for... literal decades) some time the following year. Probably.
+		effect = {
+			rightfully_imprison_character_effect = {
+				TARGET = character:85013
+				IMPRISONER = character:140
+			}
+		}
+	}
+	11094.2.1 = {
+		death = "11094.2.1"
+	}
+}
+
+90027 = {
+	name = "Eadric"
+	# AKA: Eadric Wilde
+	dynasty = 20022
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 7
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = wrathful
+	trait = brave
+	trait = education_martial_2
+	trait = ambitious
+	father = 161278
+	11038.1.1 = {
+		birth = "11038.1.1"
+		give_nickname = nick_the_wild
+	}
+	11088.1.1 = {
+		death = "11088.1.1"
+	}
+}
+
+90028 = { # Hereward the Wake
+	name = "Hereweard"
+	dna = 90028_hereweard_the_wake
+	dynasty = 2004006 #Probably not a descendant of Oslac, but we don't have any other leads
+	martial = 11 #A gifted military commander
+	diplomacy = 5 #...but not exactly a diplomat
+	prowess = 10 #Capable duelist
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 90031
+	
+	# Education
+	trait = education_martial_3
+
+	# Personality Traits
+	trait = ambitious
+	trait = vengeful #killed a bunch of Normans who killed his brother
+	trait = wrathful #see above
+
+	# Other Traits
+	trait = forder #defended the fenlands
+	trait = adventurer
+
+	11044.1.1 = {
+		birth = yes
+	}
+	11060.1.1 = {
+		add_spouse = 90160 #Turfida
+		add_pressed_claim = title:c_cambridgeshire
+		give_nickname = nick_the_wake
+		effect = {
+			set_landless_government_effect = yes
+			add_trait = lifestyle_blademaster # noted duelist
+			add_trait_xp = {
+				trait = lifestyle_blademaster
+				value = {
+					integer_range = {
+						min = medium_lifestyle_random_xp_low
+						max = medium_lifestyle_random_xp_high
+					}
+				}
+			}
+			add_trait = gallowsbait # exiled and outlawed
+			add_trait_xp = {
+				trait = gallowsbait
+				track = bandit
+				value = {
+					integer_range = {
+						min = medium_lifestyle_random_xp_low
+						max = medium_lifestyle_random_xp_high
+					}
+				}
+			}
+			add_trait = the_wake
+			add_character_flag = special_laamp_char
+			add_character_flag = do_not_generate_starting_family
+			# Set up his starting situation, if we've got the DLC so he's now a laamp.
+			if = {
+				limit = { is_ruler = yes }
+				# Give Hereward a few troops to get started.
+				create_maa_regiment = {
+					type = huscarl
+					size = 5
+				}
+				# Plus he's already working for Duke Boudewijn.
+				add_contact = character:364
+				add_opinion = {
+					target = character:364
+					modifier = respect_opinion
+					opinion = 50
+				}
+				reverse_add_opinion = {
+					target = character:364
+					modifier = respect_opinion
+					opinion = 50
+				}
+				domicile ?= {
+					# Unlock our third slot.
+					add_domicile_building = camp_main_02
+					# Buff our infantry.
+					add_domicile_building = supply_tent_01
+					add_domicile_building = supply_tent_02
+					add_domicile_building = supply_tent_smithy
+					add_domicile_building = supply_tent_arsenal
+					# Buff our crimes & set up our future insurgency size.
+					add_domicile_building = camp_fire_01
+					add_domicile_building = camp_fire_02
+					# Buff our infantry again.
+					add_domicile_building = proving_grounds_01
+					add_domicile_building = proving_grounds_02
+					add_domicile_building = proving_grounds_personal_bouts
+				}
+			}
+		}
+	}
+	11066.1.6 = {
+		effect = {
+			add_opinion = {
+				target = character:122
+				modifier = demanded_eviction_opinion
+			}
+		}
+	}
+	11094.1.1 = {
+		death = yes
+	}
+}
+
+90029 = { # Hereward's brother
+	name = "Ordgar" #We don't know his name, so he's Ordgar now
+	dynasty = 2004006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 90031
+
+	# Education
+	trait = education_stewardship_2
+
+	# Personality Traits
+	trait = content
+	trait = forgiving #Presumably?
+
+	11040.1.1 = {
+		birth = yes
+	}
+	11066.1.1 = {
+		employer = 132
+		effect = {
+			add_opinion = {
+				target = character:132
+				opinion = 100
+				modifier = respect_opinion
+			}
+		}
+	}
+	11068.1.1 = { #Ensure he dies at _some_ point
+		death = yes
+	}
+}
+
+90030 = { # Hereward's uncle
+	name = "Brand"
+	dynasty = 2004006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 90032
+
+	# Education
+	trait = education_learning_3
+
+	trait = devoted #All that we really know is that he was a priest
+
+	11020.1.1 = {
+		birth = yes
+	}
+	11066.1.1 = {
+		employer = 132
+	}
+	11095.1.1 = {
+		death = yes
+	}
+}
+
+90031 = { # Hereward's father
+	name = "Fredrik" #Apparently he was at least part Danish, so we choose a Danish/English name
+	dynasty = 2004006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 90032
+
+	# Education
+	trait = education_martial_3
+
+	11017.1.1 = {
+		birth = yes
+	}
+	11065.1.1 = {
+		death = yes #Supposedly killed by Normans, but the links are more tenuous
+	}
+}
+
+90032 = { # Hereward's grandfather
+	name = "Halfdan" #Let's say this fella was _actually_ Danish
+	dynasty = 2004006
+	religion = "catholic"
+	culture = danish
+
+	# Education
+	trait = education_diplomacy_2
+
+	10978.1.1 = { #Would make him a good sort of age for accompanying Sweyn and Cnut to England
+		birth = yes
+	}
+	11045.1.1 = {
+		death = yes
+	}
+}
+
+90124 = {
+	name = "Eadgifu"
+	female = yes
+	dynasty_house = house_british_isles_wessex
+	martial = 3
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 9
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 100
+	10902.1.2 = {
+		birth = "10902.1.2"
+	}
+	10956.1.2 = {
+		death = "10956.1.2"
+	}
+}
+
+33350 = {
+	name = "E_thelstan"
+	dynasty_house = house_british_isles_wessex
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 100
+	10893.1.1 = {
+		birth = "10893.1.1"
+	}
+	10939.10.27 = {
+		death = "10939.10.27"
+	}
+}
+
+33351 = {
+	name = "Eadred"
+	dynasty_house = house_british_isles_wessex
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 100
+	10923.1.1 = {
+		birth = "10923.1.1"
+	}
+	10955.11.23 = {
+		death = "10955.11.23"
+	}
+}
+
+33352 = {
+	name = "Eadwig"
+	dynasty_house = house_british_isles_wessex
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 102
+	10941.1.1 = {
+		birth = "10941.1.1"
+	}
+	10959.1.1 = {
+		give_nickname = nick_the_fair
+	}
+	10959.10.1 = {
+		death = "10959.10.1"
+	}
+}
+
+33354 = {
+	name = "Ecgberht"
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205189
+	10769.1.1 = {
+		birth = "10769.1.1"
+	}
+	10839.1.1 = {
+		death = "10839.1.1"
+		dynasty_house = house_british_isles_wessex	}
+}
+
+306022 = {
+	name = Oslac
+	dynasty = 2004006 #af Oslac
+	religion = "catholic"
+	culture = anglo_saxon
+	10780.1.1 = { birth = yes }
+	10840.1.1 = { death = yes }
+}
+
+306023 = {
+	name = Osburh
+	dynasty = 2004006  #af Oslac
+	female = yes
+	trait = zealous
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 306022
+	10809.1.1 = {
+		birth = yes
+	}
+	10855.6.1  = {
+		death = yes
+	}
+}
+
+
+#?helwulf, King of Wessex
+33355 = {
+	name = "E_thelwulf"
+	dynasty_house = house_british_isles_wessex
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 33354
+	10795.1.1 = {
+		birth = "10795.1.1"
+	}
+	10832.1.1 = {
+		add_spouse = 306023 #Osburh, mother of his children
+	}
+	10856.10.1 = {
+		add_spouse = 90110 #(Judith of Flanders)
+	}
+
+	10858.1.13 = {
+		death = "10858.1.13"
+	}
+}
+
+
+
+33356 = {
+	name = "E_thelbald"
+	dynasty_house = house_british_isles_wessex
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 33355 #(?helwulf, King of Wessex)
+	mother = 306023 #Osburh
+	10834.1.1 = {
+		birth = "10834.1.1"
+	}
+	10858.2.1 = {
+		add_spouse = 90110 #(Judith of Flanders)
+	}
+	10860.12.20 = {
+		death = "10860.12.20"
+	}
+}
+
+33357 = {
+	name = "E_thelbert"
+	dynasty_house = house_british_isles_wessex
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 33355 #(?helwulf, King of Wessex)
+	mother = 306023 #Osburh
+	10836.1.1 = {
+		birth = "10836.1.1"
+	}
+	10865.9.1 = {
+		death = "10865.9.1"
+	}
+}
+
+33358 = {
+	name = "E_thelred"
+	dna = 33358_aethelred
+	dynasty_house = house_british_isles_wessex
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 33355 #(?helwulf, King of Wessex)
+	mother = 306023 #Osburh
+	stewardship = 8
+	trait = education_stewardship_3
+	trait = diligent
+	trait = shy
+	trait = just
+	fertility = 0.3 #Reduce chance of children before death so Alfred is more likely to inherit
+	10840.1.1 = {
+		birth = "10840.1.1"
+	}
+	10866.1.1 = {
+		add_spouse = 306015 #Wulfthryth
+	}
+	10871.1.1 = {
+		death = "10871.1.1"
+	}
+}
+
+306015 = {
+	name = Wulfthryth
+	female = yes
+	religion = catholic
+	culture = anglo_saxon
+	trait = callous
+	trait = arrogant
+	trait = just
+	trait = education_stewardship_3
+	mother = 306017 #Fictional
+	father = 306016 #Fictional
+	fertility = 0.3 #Reduce chance of children before death so Alfred is more likely to inherit
+	10831.1.1 = {
+		birth = yes
+	}
+	10899.1.6 = {
+		death = yes
+	}
+}
+
+306016 = { #Fictional vassal of ?helred and fictional father of Wulfthryth
+	name = Uhtred
+	religion = catholic
+	culture = anglo_saxon
+	10803.1.1 = {
+		birth = yes
+	}
+	10870.1.6 = {
+		death = yes
+	}
+}
+
+306017 = { #Fictional wife of fictional Uhtred
+	name = E_lfgifu
+	female = yes
+	religion = catholic
+	culture = anglo_saxon
+	10805.1.1 = {
+		birth = yes
+	}
+	10870.1.6 = {
+		death = yes
+	}
+}
+
+
+129058 = {
+	name = "Samson"
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = lustful
+	11056.1.1 = {
+		birth = "11056.1.1"
+	}
+	11112.5.5 = {
+		death = "11112.5.5"
+	}
+}
+
+151014 = {
+	name = "Arnold"
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = trusting
+	trait = education_learning_1
+	11058.1.1 = {
+		birth = "11058.1.1"
+	}
+	11124.5.24 = {
+		death = "11124.5.24"
+	}
+}
+
+129059 = {
+	name = "Theulf"
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = greedy
+	11056.1.1 = {
+		birth = "11056.1.1"
+	}
+	11100.1.1 = {
+		effect = {
+			set_culture = culture:english
+		}
+	}
+	11123.10.20 = {
+		death = "11123.10.20"
+	}
+}
+
+32703  = {
+	name = "Edmund"
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_2
+	11060.1.1 = {
+		birth = "11060.1.1"
+	}
+	11100.1.1 = {
+
+		effect = {
+			set_culture = culture:english
+		}
+	}
+	11125.1.1 = {
+		death = "11125.1.1"
+	}
+}
+
+161260 = {
+	name = "E_lfwine"
+	dynasty_house = house_knytling
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = legitimized_bastard
+	trait = chaste
+	trait = education_learning_1
+	father = 101513
+	11036.12.6 = {
+		birth = "11036.12.6"
+	}
+	11040.3.17 = {
+		add_pressed_claim = title:k_england
+	}
+	11060.1.1 = {
+		employer = 336
+		effect = { add_character_flag = do_not_generate_starting_family }
+	}
+	11083.7.4 = {
+		death = "11083.7.4"
+	}
+}
+
+161261 = {
+	name = "E_lfgifu"
+	female = yes
+	dynasty_house = house_british_isles_wessex
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 106
+	mother = 105
+	10990.1.1 = {
+		birth = "10990.1.1"
+	}
+	11040.1.1 = {
+		death = "11040.1.1"
+	}
+}
+
+161262 = {
+	name = "Godgifu" # aka Goda
+	female = yes
+	dynasty_house = house_british_isles_wessex
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 106
+	mother = 259
+	11004.1.1 = {
+		birth = "11004.1.1"
+	}
+	11047.1.1 = {
+		death = "11047.1.1"
+	}
+}
+
+161263 = {
+	name = "Ecgfrida"
+	female = yes
+	religion = "catholic"
+	culture = anglo_saxon
+	10972.1.1 = {
+		birth = "10972.1.1"
+	}
+	11005.1.1 = {
+		death = "11005.1.1"
+	}
+}
+
+161264 = {
+	name = "E_lfgifu" #real name unknown
+	female = yes
+	dynasty = 744
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 188
+	mother = 161261
+	11016.1.1 = {
+		birth = "11016.1.1"
+	}
+	11065.1.1 = {
+		death = "11065.1.1"
+	}
+}
+
+161265 = {
+	name = "E_thelgar"
+	religion = "catholic"
+	culture = anglo_saxon
+	11010.1.1 = {
+		birth = "11010.1.1"
+	}
+	11035.1.1 = {
+		add_spouse = 161264
+	}
+	11060.1.1 = {
+		death = "11060.1.1"
+	}
+}
+
+161266 = {
+	name = "Siward"
+	dynasty = 744
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 161265
+	mother = 161264
+	trait = education_diplomacy_3
+	trait = ambitious
+	trait = brave
+	trait = diligent
+	11036.1.1 = {
+		birth = "11036.1.1"
+	}
+	11087.1.1 = {
+		death = "11087.1.1"
+	}
+}
+
+161267 = {
+	name = "Ealdred"
+	dynasty = 744
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 161265
+	mother = 161264
+	11038.1.1 = {
+		birth = "11038.1.1"
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+
+161268 = {
+	name = "Halden"
+	dynasty = 744
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 190
+	11035.1.1 = {
+		birth = "11035.1.1"
+	}
+	11085.1.1 = {
+		death = "11085.1.1"
+	}
+}
+
+161269 = {
+	name = "E_ldgyth"
+	female = yes
+	dynasty = 744
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 192
+	11025.1.1 = {
+		birth = "11025.1.1"
+	}
+	11075.1.1 = {
+		death = "11075.1.1"
+	}
+}
+
+161270 = {
+	name = "Ligulf"
+	dynasty = 562
+	religion = "catholic"
+	culture = anglo_saxon
+	11030.1.1 = {
+		birth = "11030.1.1"
+	}
+	11048.1.1 = {
+		add_spouse = 161269
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+
+161271 = {
+	name = "Uhtred"
+	dynasty = 562
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 161270
+	mother = 161269
+	11049.1.1 = {
+		birth = "11049.1.1"
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+
+161272 = {
+	name = "Morcar"
+	dynasty = 562
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 161270
+	mother = 161269
+	11050.1.1 = {
+		birth = "11050.1.1"
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+
+161273 = {
+	name = "Ligulf"
+	dynasty = 562
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 161271
+	11066.1.1 = {
+		birth = "11066.1.1"
+	}
+	11120.1.1 = {
+		death = "11120.1.1"
+	}
+}
+
+161274 = {
+	name = "Gytha"
+	female = yes
+	dynasty = 756
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 120
+	mother = 101534
+	11032.1.1 = {
+		birth = "11032.1.1"
+	}
+	11082.1.1 = {
+		death = "11082.1.1"
+	}
+}
+
+161275 = {
+	name = "E_thelric"
+	dynasty = 20022
+	religion = "catholic"
+	culture = anglo_saxon
+	10960.1.1 = {
+		birth = "10960.1.1"
+	}
+	11010.1.1 = {
+		death = "11010.1.1"
+	}
+}
+
+161276 = {
+	name = "Eadric"
+	#Eadric Streona
+	dynasty = 20022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 161275
+	10980.1.1 = {
+		birth = "10980.1.1"
+	}
+	11009.1.1 = {
+		add_spouse = 161277
+	}
+	11017.12.25 = {
+		death = "11017.12.25"
+	}
+}
+
+161277 = {
+	name = "Eadgyth"
+	female = yes
+	dynasty_house = house_british_isles_wessex
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 106
+	mother = 105
+	10992.1.1 = {
+		birth = "10992.1.1"
+	}
+	
+	11021.11.11 = {
+		death = "11021.11.11"
+	}
+}
+
+161278 = {
+	name = "E_lfric"
+	dynasty = 20022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 161275
+	10990.1.1 = {
+		birth = "10990.1.1"
+	}
+	11040.1.1 = {
+		death = "11040.1.1"
+	}
+}
+
+161279 = {
+	name = "Godgifu"
+	#AKA Lady Godiva
+	female = yes
+	religion = "catholic"
+	culture = anglo_saxon
+	11002.1.1 = {
+		birth = "11002.1.1"
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+
+161280 = {
+	name = "E_lgifu"
+	female = yes
+	religion = "catholic"
+	culture = anglo_saxon
+	11020.1.1 = {
+		birth = "11020.1.1"
+	}
+	11070.1.1 = {
+		death = "11070.1.1"
+	}
+}
+
+40420 = {
+	name = "Harold"
+	dynasty_house = house_vexin_amiens
+	martial = 8
+	diplomacy = 5
+	intrigue = 6
+	stewardship = 3
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 40418
+	mother = 161274
+	11052.1.1 = {
+		birth = "11052.1.1"
+	}
+	11120.1.1 = {
+		death = "11120.1.1"
+	}
+}
+
+161451 = {
+	name = "Adelisa"
+	female = yes
+	dynasty = 745
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 198
+	mother = 317
+	11076.1.1 = {
+		birth = "11076.1.1"
+	}
+	
+	11128.1.1 = {
+		death = "11128.1.1"
+	}
+}
+
+167002 = {
+	name = "Hacon"
+	dynasty = 756
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = legitimized_bastard
+	father = 128
+	11047.1.1 = {
+		birth = "11047.1.1"
+	}
+	11066.1.1 = {
+		add_pressed_claim = title:d_lancaster
+	}
+	11091.1.1 = {
+		death = "11091.1.1"
+	}
+}
+
+167003 = {
+	name = "E_lfgar"
+	dynasty = 756
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = chaste
+	trait = education_learning_1
+	father = 120
+	mother = 101534
+	11035.1.1 = {
+		birth = "11035.1.1"
+	}
+	11066.1.5 = {
+		employer = 91173 # Bishop of Rheims
+	}
+	11078.1.1 = {
+		death = "11078.1.1"
+	}
+}
+
+167004 = {
+	name = "E_lfgifu"
+	female = yes
+	dynasty = 756
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 120
+	mother = 101534
+	11043.1.1 = {
+		birth = "11043.1.1"
+	}
+	11065.11.1 = {
+		death = "11065.11.1"
+	}
+}
+
+163064 = {
+	name = "Eadmund" # of East Anglia
+	dynasty = 626
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205021
+	10840.1.1 = {
+		birth = "10840.1.1"
+	}
+	
+	10869.11.20 = {
+		death = "10869.11.20"
+	}
+}
+163102 = {
+	name = "Burghred"
+	dynasty = 813 #Mercia
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205100
+	10830.1.1 = {
+		birth = yes
+	}
+	10855.1.1 = {
+		add_spouse = 168594
+	}
+	10874.1.1 = {
+		death = yes
+	}
+}
+
+306019 = {
+	name = "Eadburh" #A member of the Mercian royal family, but not technically Burghred's sister
+	female = yes
+	dynasty = 813 #Mercia
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205100
+	10826.1.1 = {
+		birth = yes
+	}
+	10885.1.1 = {
+		death = yes
+	}
+}
+
+306018 = {
+	name = E_thelred
+	dynasty = 2004005 #Mucel
+	religion = "catholic"
+	culture = anglo_saxon
+	10819.1.1 = {
+		birth = yes
+	}
+	10842.1.1 = {
+		add_spouse = 306019
+	}
+
+	10879.1.1 = {
+		death = yes
+	}
+}
+
+306020 = {
+	name = "Ealhswith"
+	dna = 306020_ealswith
+	female = yes
+	dynasty = 2004005 #Mucel
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 306018 #Aethelred Mucel
+	mother = 306019 #Eadburh Mercia
+	trait = compassionate
+	trait = generous
+	trait = diligent
+	10849.1.1 = {
+		birth = yes
+	}
+	10902.12.5 = {
+		death = yes
+	}
+}
+
+306021 = {
+	name = "E_thelwulf"
+	dynasty = 2004005 #Mucel
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 306018 #Aethelred Mucel
+	mother = 306019 #Eadburh Mercia
+	10843.1.1 = {
+		birth = yes
+	}
+	10901.5.5 = {
+		death = yes
+	}
+}
+
+163103 = {
+	name = "E_lla"
+	dna = "163103_aella_northumberland"
+	dynasty = 814
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205252
+	martial = 5
+	diplomacy = 3
+	stewardship = 7
+	intrigue = 6
+	learning = 5
+	trait = deceitful
+	trait = callous
+	trait = arbitrary
+	trait = education_intrigue_3
+	10824.1.1 = {
+		birth = yes
+	}
+	
+	10840.1.1 = {
+		add_spouse = 6890
+	}
+	
+	10867.3.21 = {
+		death = yes
+	}
+}
+
+6861 = {
+	name = "BlE_ja" #Daughter of Aella, wife of Sigurdr Snake-in-the-eye
+	dna = 6861_blaeja
+	female = yes
+	dynasty = 814
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 163103
+	mother = 6890
+	trait = paranoid
+	trait = brave
+	trait = honest
+	10841.1.1 = {
+		birth = yes
+	}
+	10893.1.1 = {
+		death = yes
+	}
+}
+
+6875 = {
+	name = "E_lfgar"
+	dynasty = 814
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 163103
+	mother = 6890
+	10843.1.1 = {
+		birth = yes
+	}
+	10866.1.1 = {
+		add_spouse = 6891
+	}
+	10867.3.21 = {
+		death = yes
+	}
+}
+
+163120 = {
+	name = "Eardulf" # Bishop of Durham/Lindisfarne
+	religion = "catholic"
+	culture = anglo_saxon
+	learning = 5
+	trait = education_learning_3
+	
+	10829.1.1 = {
+		birth = "10829.1.1"
+	}
+	10900.1.1 = {
+		death = "10900.1.1"
+	}
+}
+
+163121 = {
+	name = "Oswine" # Earl of Lancaster (made up)
+	religion = "catholic"
+	culture = anglo_saxon
+	
+	10830.1.1 = {
+		birth = "10830.1.1"
+	}
+	10880.1.1 = {
+		death = "10880.1.1"
+	}
+}
+
+163122 = {
+	name = "E_lfwald" # Earl of Westmorland (made up)
+	religion = "catholic"
+	culture = anglo_saxon
+	
+	10833.1.1 = {
+		birth = "10833.1.1"
+	}
+	10880.1.1 = {
+		death = "10880.1.1"
+	}
+}
+
+163123 = {
+	name = "SE_xrE_d" # Earl of Cumberland (made up)
+	religion = "catholic"
+	culture = anglo_saxon
+	
+	10835.1.1 = {
+		birth = "10835.1.1"
+	}
+	10885.1.1 = {
+		death = "10885.1.1"
+	}
+}
+159465 = {
+	name = "E_lfrE_d" #Alured
+	religion = "catholic"
+	culture = anglo_saxon
+	dynasty_house = house_british_isles_cornwall #of Cornwall
+	father = 159464
+	10970.1.1 = {
+		birth = "10970.1.1"
+	}
+	11020.1.1 = {
+		death = "11020.1.1"
+	}
+}
+159470 = {
+	name = "Godwine"  #Godwyn
+	religion = "catholic"
+	culture = anglo_saxon
+	dynasty_house = house_british_isles_cornwall #of Cornwall
+	father = 159465
+	11014.1.1 = {
+		birth = "11014.1.1"
+	}
+	11066.1.1 = {
+		employer = 122
+	}
+	11070.1.1 = {
+		death = "11070.1.1"
+	}
+}
+159471 = {
+	name = "Hereberht"
+	religion = "catholic"
+	culture = anglo_saxon
+	dynasty_house = house_british_isles_cornwall
+	father = 159470
+	11050.1.1 = {
+		birth = "11050.1.1"
+	}
+	11100.1.1 = {
+		death = "11100.1.1"
+	}
+}
+
+168594 = {
+	name = "E_thelswith"
+	female = yes
+	dynasty_house = house_british_isles_wessex
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 33355 #(?helwulf, King of Wessex)
+	mother = 306023 #Osburh
+	10838.1.1 = {
+		birth = yes
+	}
+	10888.1.1 = {
+		death = yes
+	}
+}
+180665 = {
+	name = "Deusdedit"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10600.1.1 = {
+		birth = yes
+	}
+	10664.7.14 = {
+		death = yes
+	}
+}
+180667 = {
+	name = "Berhtwald"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10650.1.1 = {
+		birth = yes
+	}
+	10731.1.13 = {
+		death = yes
+	}
+}
+180668 = {
+	name = "Tatwine"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10670.1.1 = {
+		birth = yes
+	}
+	10734.7.30 = {
+		death = yes
+	}
+}
+180669 = {
+	name = "Nothhelm"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10675.1.1 = {
+		birth = yes
+	}
+	10739.10.17 = {
+		death = yes
+	}
+}
+180670 = {
+	name = "Cuthbert"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10690.1.1 = {
+		birth = yes
+	}
+	10760.10.26 = {
+		death = yes
+	}
+}
+180671 = {
+	name = "Bregowine"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10700.1.1 = {
+		birth = yes
+	}
+	10765.8.1 = {
+		death = yes
+	}
+}
+180672 = {
+	name = "Jaenbert"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10715.1.1 = {
+		birth = yes
+	}
+	10792.8.12 = {
+		death = yes
+	}
+}
+180673 = {
+	name = "E_thelhard"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10730.1.1 = {
+		birth = yes
+	}
+	10805.5.12 = {
+		death = yes
+	}
+}
+180674 = {
+	name = "Wulfred"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10760.1.1 = {
+		birth = yes
+	}
+	10832.3.24 = {
+		death = yes
+	}
+}
+180675 = {
+	name = "Ceolnoth"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10790.1.1 = {
+		birth = yes
+	}
+	10870.2.4 = {
+		death = yes
+	}
+}
+180676 = {
+	name = "Aethelred"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10820.1.1 = {
+		birth = yes
+	}
+	10888.6.30 = {
+		death = yes
+	}
+}
+180677 = {
+	name = "Plegmund"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10856.5.30 = {
+		birth = yes
+	}
+	10923.8.2 = {
+		death = yes
+	}
+}
+180678 = {
+	name = "E_thelm"
+	# Archbishop of Canterbury, Bishop of Wells
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10863.4.4 = {
+		birth = yes
+	}
+	10926.1.8 = {
+		death = yes
+	}
+}
+180679 = {
+	name = "Wulfhelm"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10870.1.1 = {
+		birth = yes
+	}
+	10941.2.12 = {
+		death = yes
+	}
+}
+180681 = {
+	name = "E_lfsige"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10895.1.1 = {
+		birth = yes
+	}
+	10959.1.1 = {
+		death = yes
+	}
+}
+180682 = {
+	name = "Byrhthelm"
+	# Archbishop of Canterbury, Bishop of Wells
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10910.1.1 = {
+		birth = yes
+	}
+	10973.5.15 = {
+		death = yes
+	}
+}
+180683 = {
+	name = "Dunstan"
+	# Archbishop of Canterbury, Bishop of London
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10909.1.1 = {
+		birth = yes
+	}
+	10988.5.19 = {
+		death = yes
+	}
+}
+180684 = {
+	name = "E_thelgar"
+	# Archbishop of Canterbury, Bishop of Selsey
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10915.1.1 = {
+		birth = yes
+	}
+	10990.2.13 = {
+		death = yes
+	}
+}
+180685 = {
+	name = "Sigeric"
+	# Archbishop of Canterbury, Bishop of Ramsbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10930.1.1 = {
+		birth = yes
+	}
+	10994.10.28 = {
+		death = yes
+	}
+}
+180686 = {
+	name = "E_lfric"
+	# Archbishop of Canterbury, Bishop of Winchester
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10940.1.1 = {
+		birth = yes
+	}
+	11005.11.16 = {
+		death = yes
+	}
+}
+180687 = {
+	name = "Aelfheath"
+	# Archbishop of Canterbury, Bishop of Winchester
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10954.1.1 = {
+		birth = yes
+	}
+	11012.4.19 = {
+		death = yes
+	}
+}
+180688 = {
+	name = "Lyfing"
+	# Archbishop of Canterbury, Bishop of Wells
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10949.1.1 = {
+		birth = yes
+	}
+	11020.6.12 = {
+		death = yes
+	}
+}
+168608 = {
+	name = "Aethelnoth"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10975.1.1 = {
+		birth = yes
+	}
+	11038.10.30 = {
+		death = yes
+	}
+}
+180690 = {
+	name = "Eadsige"
+	# Archbishop of Canterbury
+	religion = "catholic"
+	culture = anglo_saxon
+	trait = education_learning_4
+	10995.1.1 = {
+		birth = yes
+	}
+	11050.10.29 = {
+		death = yes
+	}
+}
+205025 = {
+	name = "Wihtgils"
+	dynasty = 1047001
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	10400.1.1 = {
+		birth = "10400.1.1"
+	}
+	10440.1.1 = {
+		death = "10440.1.1"
+	}
+}
+205026 = {
+	name = "Hengest"
+	dynasty = 1047001
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205025
+	10425.1.1 = {
+		birth = "10425.1.1"
+	}
+	10500.1.1 = {
+		death = "10500.1.1"
+	}
+}
+205027 = {
+	name = "Horsa"
+	dynasty = 1047001
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205025
+	10426.1.1 = {
+		birth = "10426.1.1"
+	}
+	10500.1.1 = {
+		death = "10500.1.1"
+	}
+}
+205028 = {
+	name = "Oisc"
+	dynasty = 1047001
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205026
+	10450.1.1 = {
+		birth = "10450.1.1"
+	}
+	10516.1.1 = {
+		death = "10516.1.1"
+	}
+}
+205029 = {
+	name = "Octa"
+	dynasty = 1047001
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205028
+	10480.1.1 = {
+		birth = "10480.1.1"
+	}
+	10540.1.1 = {
+		death = "10540.1.1"
+	}
+}
+205030 = {
+	name = "Eormenric"
+	dynasty = 1047001
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205029
+	10520.1.1 = {
+		birth = "10520.1.1"
+	}
+	10590.1.1 = {
+		death = "10590.1.1"
+	}
+}
+205031 = {
+	name = "E_thelberht"
+	dynasty = 1047001
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205030
+	10560.1.1 = {
+		birth = "10560.1.1"
+	}
+	10600.1.1 = {
+		religion = "catholic"
+	}
+	10616.2.24 = {
+		death = "10616.2.24"
+	}
+}
+205032 = {
+	name = "Eadbald"
+	dynasty = 1047001
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205031
+	#mother = Bertha Meroving
+	10590.1.1 = {
+		birth = "10590.1.1"
+	}
+	10620.1.1 = {
+		religion = "catholic"
+		#add_spouse = Emma Meroving
+	}
+	10640.1.1 = {
+		death = "10640.1.1"
+	}
+}
+205033 = {
+	name = "E_thelwald"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205031
+	#mother = Bertha Meroving
+	10591.1.1 = {
+		birth = "10591.1.1"
+	}
+	10640.1.28 = {
+		death = yes
+	}
+}
+205034 = {
+	name = "E_thelburh"
+	female = yes
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205031
+	#mother = Bertha Meroving
+	10592.1.1 = {
+		birth = "10592.1.1"
+	}
+	10620.1.1 = {
+		add_spouse = 205198
+	}
+	10640.1.1 = {
+		death = "10640.1.1"
+	}
+}
+205035 = {
+	name = "Eormenred"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205032
+	#mother = Emma Meroving
+	10610.1.1 = {
+		birth = "10610.1.1"
+	}
+	10665.1.1 = {
+		death = "10665.1.1"
+	}
+}
+205036 = {
+	name = "Eorcenberht"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205032
+	#mother = Emma Meroving
+	10612.1.1 = {
+		birth = "10612.1.1"
+	}
+	10664.6.14 = {
+		death = "10664.6.14"
+	}
+}
+205037 = {
+	name = "E_thelberht"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205035
+	10630.1.1 = {
+		birth = "10630.1.1"
+	}
+	10669.1.1 = {
+		death = "10669.1.1"
+	}
+}
+205038 = {
+	name = "E_thelred"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205035
+	10632.1.1 = {
+		birth = "10632.1.1"
+	}
+	10669.1.1 = {
+		death = "10669.1.1"
+	}
+}
+205039 = {
+	name = "Ecgberht"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205036
+	10630.1.1 = {
+		birth = "10630.1.1"
+	}
+	10673.1.1 = {
+		death = "10673.1.1"
+	}
+}
+205040 = {
+	name = "Hlothere"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205036
+	10635.1.1 = {
+		birth = "10635.1.1"
+	}
+	10685.1.1 = {
+		death = "10685.1.1"
+	}
+}
+205041 = {
+	name = "Eadric"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205039
+	10650.1.1 = {
+		birth = "10650.1.1"
+	}
+	10686.8.1 = {
+		death = "10686.8.1"
+	}
+}
+205042 = {
+	name = "Oswine"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205038
+	10661.1.1 = {
+		birth = "10661.1.1"
+	}
+	10690.1.1 = {
+		death = "10690.1.1"
+	}
+}
+205043 = {
+	name = "WihtrE_d"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205039
+	10655.1.1 = {
+		birth = "10655.1.1"
+	}
+	10725.4.23 = {
+		death = "10725.4.23"
+	}
+}
+205044 = {
+	name = "E_thelberht"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205043
+	10685.1.1 = {
+		birth = "10685.1.1"
+	}
+	10762.1.1 = {
+		death = "10762.1.1"
+	}
+}
+205045 = {
+	name = "Eadberht"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205043
+	10680.1.1 = {
+		birth = "10680.1.1"
+	}
+	10748.1.1 = {
+		death = "10748.1.1"
+	}
+}
+205046 = {
+	name = "E_lfric"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205043
+	10679.1.1 = {
+		birth = "10679.1.1"
+	}
+	10725.1.1 = {
+		death = "10725.1.1"
+	}
+}
+205047 = {
+	name = "Eardwulf"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205045
+	10700.1.1 = {
+		birth = "10700.1.1"
+	}
+	10762.1.1 = {
+		death = "10762.1.1"
+	}
+}
+205048 = {
+	name = "Eadberht"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205044
+	10710.1.1 = {
+		birth = "10710.1.1"
+	}
+	10765.1.1 = {
+		death = "10765.1.1"
+	}
+}
+205049 = {
+	name = "Ecgberht"
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205048
+	10735.1.1 = {
+		birth = "10735.1.1"
+	}
+	10779.1.1 = {
+		death = "10779.1.1"
+	}
+}
+205050 = {
+	name = "Eadberht" # III
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205049
+	10755.1.1 = {
+		birth = "10755.1.1"
+	}
+	10798.1.1 = {
+		death = "10798.1.1"
+	}
+}
+205000 = {
+	name = "Wehha"
+	dynasty = 1047000
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	10500.1.1 = {
+		birth = "10500.1.1"
+	}
+	10571.1.1 = {
+		death = "10571.1.1"
+	}
+}
+205001 = {
+	name = "Wuffa"
+	dynasty = 1047000
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205000
+	10520.1.1 = {
+		birth = "10520.1.1"
+	}
+	10578.1.1 = {
+		death = "10578.1.1"
+	}
+}
+205002 = {
+	name = "Tytila"
+	dynasty = 1047000
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205001
+	10550.1.1 = {
+		birth = "10550.1.1"
+	}
+	10616.1.1 = {
+		death = "10616.1.1"
+	}
+}
+205003 = {
+	name = "RE_dwald"
+	dynasty = 1047000
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205002
+	10570.1.1 = {
+		birth = "10570.1.1"
+	}
+	10627.1.1 = {
+		death = "10627.1.1"
+	}
+}
+205004 = {
+	name = "Eorpwald"
+	dynasty = 1047000
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205002
+	10590.1.1 = {
+		birth = "10590.1.1"
+	}
+	10630.1.1 = {
+		death = "10630.1.1"
+		religion = "catholic"
+	}
+}
+205005 = {
+	name = "Sigeberht"
+	dynasty = 1047000
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205002
+	10591.1.1 = {
+		birth = "10591.1.1"
+	}
+	10634.1.1 = {
+		death = "10634.1.1"
+	}
+}
+205006 = {
+	name = "Eni"
+	dynasty = 1047000
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205002
+	10571.1.1 = {
+		birth = "10571.1.1"
+	}
+	10627.1.1 = {
+		death = "10627.1.1"
+	}
+}
+205007 = {
+	name = "Anna"
+	dynasty = 1047000
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205006
+	10590.1.1 = {
+		birth = "10590.1.1"
+	}
+	10654.1.1 = {
+		death = "10654.1.1"
+	}
+}
+205008 = {
+	name = "E_thelhere"
+	dynasty = 1047000
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205006
+	10592.1.1 = {
+		birth = "10592.1.1"
+	}
+	10655.11.15 = {
+		death = "10655.11.15"
+	}
+}
+205009 = {
+	name = "E_thelwold"
+	dynasty = 1047000
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205006
+	10595.1.1 = {
+		birth = "10595.1.1"
+	}
+	10664.1.1 = {
+		death = "10664.1.1"
+	}
+}
+205010 = {
+	name = "E_thelric" #Ecgric
+	dynasty = 1047000
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205006
+	10600.1.1 = {
+		birth = "10600.1.1"
+	}
+	10636.1.1 = {
+		death = "10636.1.1"
+	}
+}
+205011 = {
+	name = "Ealdwulf"
+	dynasty = 1047000
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205010
+	10635.1.1 = {
+		birth = "10635.1.1"
+	}
+	10713.1.1 = {
+		death = "10713.1.1"
+	}
+}
+205012 = {
+	name = "Ealdwald"
+	dynasty = 1047000
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205011
+	10675.1.1 = {
+		birth = "10675.1.1"
+	}
+	10749.1.1 = {
+		death = "10749.1.1"
+	}
+}
+205013 = {
+	name = "Beonna"
+	dynasty = 1047000
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205012
+	10700.1.1 = {
+		birth = "10700.1.1"
+	}
+	10760.1.1 = {
+		death = "10760.1.1"
+	}
+}
+205014 = {
+	name = "E_thelberht"
+	dynasty = 1047000
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205012
+	10702.1.1 = {
+		birth = "10702.1.1"
+	}
+	10761.1.1 = {
+		death = "10761.1.1"
+	}
+}
+205015 = {
+	name = "E_thelred"
+	dynasty = 1047000
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205013
+	10725.1.1 = {
+		birth = "10725.1.1"
+	}
+	10779.1.1 = {
+		death = "10779.1.1"
+	}
+}
+205016 = {
+	name = "E_thelberht"
+	dynasty = 1047000
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205015
+	10750.1.1 = {
+		birth = "10750.1.1"
+	}
+	10794.1.1 = {
+		death = "10794.1.1"
+	}
+}
+205017 = {
+	name = "E_thelric"
+	dynasty = 1047000
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205014
+	10725.1.1 = {
+		birth = "10725.1.1"
+	}
+	10780.1.1 = {
+		death = "10780.1.1"
+	}
+}
+205018 = {
+	name = "Ealdwald"
+	dynasty = 1047000
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205017
+	10751.1.1 = {
+		birth = "10751.1.1"
+	}
+	10800.1.1 = {
+		death = "10800.1.1"
+	}
+}
+205019 = {
+	name = "E_thelred"
+	dynasty = 1047000
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205018
+	10769.1.1 = {
+		birth = "10769.1.1"
+	}
+	10820.1.1 = {
+		death = "10820.1.1"
+	}
+}
+205020 = {
+	name = "E_thelstan" # of East Anglia
+	dynasty = 626
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205019
+	10790.1.1 = {
+		birth = "10790.1.1"
+	}
+	10845.1.1 = {
+		death = "10845.1.1"
+	}
+}
+205021 = {
+	name = "E_thelweard" # of East Anglia
+	dynasty = 626
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205020
+	10810.1.1 = {
+		birth = "10810.1.1"
+	}
+	10854.1.1 = {
+		death = "10854.1.1"
+	}
+}
+205022 = {
+	name = "Beorhtric" # of East Anglia
+	dynasty = 626
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205020
+	10811.1.1 = {
+		birth = "10811.1.1"
+	}
+	10870.1.1 = {
+		death = "10870.1.1"
+	}
+}
+205023 = {
+	name = "Oswald" # of East Anglia
+	dynasty = 626
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205021
+	10841.1.1 = {
+		birth = "10841.1.1"
+	}
+	10875.1.1 = {
+		death = "10875.1.1"
+	}
+}
+205024 = {
+	name = "E_thelred" # of East Anglia
+	dynasty = 626
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205023
+	10860.1.1 = {
+		birth = "10860.1.1"
+	}
+	10879.1.1 = {
+		death = "10879.1.1"
+	}
+}
+205051 = {
+	name = "Eomer" #
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	10455.1.1 = {
+		birth = "10455.1.1"
+	}
+	10527.1.1 = {
+		death = "10527.1.1"
+	}
+}
+205052 = {
+	name = "Icel" #
+	dynasty = 1047002
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205051
+	10480.1.1 = {
+		birth = "10480.1.1"
+	}
+	10536.1.1 = {
+		death = "10536.1.1"
+	}
+}
+205053 = {
+	name = "Cnebba" #
+	dynasty = 1047002
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205052
+	10500.1.1 = {
+		birth = "10500.1.1"
+	}
+	10554.1.1 = {
+		death = "10554.1.1"
+	}
+}
+205054 = {
+	name = "Cynewald" #
+	dynasty = 1047002
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205053
+	10520.1.1 = {
+		birth = "10520.1.1"
+	}
+	10584.1.1 = {
+		death = "10584.1.1"
+	}
+}
+205055 = {
+	name = "Creoda" #
+	dynasty = 1047002
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205054
+	10540.1.1 = {
+		birth = "10540.1.1"
+	}
+	10593.1.1 = {
+		death = "10593.1.1"
+	}
+}
+205056 = {
+	name = "Pybba" #
+	dynasty = 1047002
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205055
+	10560.1.1 = {
+		birth = "10560.1.1"
+	}
+	10626.1.1 = {
+		death = "10626.1.1"
+	}
+}
+205057 = {
+	name = "Penda" #
+	dynasty = 1047002
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205056
+	trait = zealous
+	10600.1.1 = {
+		birth = "10600.1.1"
+	}
+	10655.11.15 = {
+		death = "10655.11.15"
+	}
+}
+205058 = {
+	name = "Eowa" #
+	dynasty = 1047002
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205056
+	10601.1.1 = {
+		birth = "10601.1.1"
+	}
+	10642.8.5 = {
+		death = "10642.8.5"
+	}
+}
+205059 = {
+	name = "Coenwalh" #
+	dynasty = 1047003
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205056
+	10602.1.1 = {
+		birth = "10602.1.1"
+	}
+	10644.1.1 = {
+		death = "10644.1.1"
+	}
+}
+205060 = {
+	name = "Peada" #
+	dynasty = 1047002
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205057
+	10630.1.1 = {
+		birth = "10630.1.1"
+	}
+	10655.11.15 = {
+		religion = "catholic"
+	}
+	10656.4.17 = {
+		death = "10656.4.17"
+	}
+}
+205061 = {
+	name = "Wulfhere" #
+	dynasty = 1047002
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205057
+	10640.1.1 = {
+		birth = "10640.1.1"
+	}
+	10655.11.15 = {
+		religion = "catholic"
+	}
+	10675.1.1 = {
+		death = "10675.1.1"
+	}
+}
+205062 = {
+	name = "E_thelred" #
+	dynasty = 1047002
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205057
+	10645.1.1 = {
+		birth = "10645.1.1"
+	}
+	10655.11.15 = {
+		religion = "catholic"
+	}
+	10704.1.1 = {
+		death = "10704.1.1"
+	}
+}
+205063 = {
+	name = "Coenred" #
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205061
+	10670.1.1 = {
+		birth = "10670.1.1"
+	}
+	10716.1.1 = {
+		death = "10716.1.1"
+	}
+}
+205064 = {
+	name = "Ceolred" #
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205062
+	10671.1.1 = {
+		birth = "10671.1.1"
+	}
+	10716.6.1 = {
+		death = "10716.6.1"
+	}
+}
+205065 = {
+	name = "Ceolwald" #
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205062
+	10671.1.1 = {
+		birth = "10671.1.1"
+	}
+	10716.12.1 = {
+		death = "10716.12.1"
+	}
+}
+205066 = {
+	name = "Alweo" #
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205058
+	10641.1.1 = {
+		birth = "10641.1.1"
+	}
+	10700.1.1 = {
+		death = "10700.1.1"
+	}
+}
+205067 = {
+	name = "E_thelbald" #
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205066
+	10680.1.1 = {
+		birth = "10680.1.1"
+	}
+	10757.1.1 = {
+		death = "10757.1.1"
+	}
+}
+205068 = {
+	name = "Heardberht" #
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205066
+	10685.1.1 = {
+		birth = "10685.1.1"
+	}
+	10760.1.1 = {
+		death = "10760.1.1"
+	}
+}
+205069 = {
+	name = "Osmod" #
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205058
+	10642.1.1 = {
+		birth = "10642.1.1"
+	}
+	10700.1.1 = {
+		death = "10700.1.1"
+	}
+}
+205070 = {
+	name = "Eanwulf" #
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205069
+	10670.1.1 = {
+		birth = "10670.1.1"
+	}
+	10735.1.1 = {
+		death = "10735.1.1"
+	}
+}
+205071 = {
+	name = "Thingfrith" #
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205070
+	10705.1.1 = {
+		birth = "10705.1.1"
+	}
+	10761.1.1 = {
+		death = "10761.1.1"
+	}
+}
+205072 = {
+	name = "Offa" #
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205071
+	#mother = Marcellina
+	10730.1.1 = {
+		birth = "10730.1.1"
+	}
+	10760.1.1 = {
+		add_spouse = 205074
+	}
+	10796.7.29 = {
+		death = "10796.7.29"
+	}
+}
+205073 = {
+	name = "Ecgfrith" #
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205072
+	mother = 205074
+	10760.1.1 = {
+		birth = "10760.1.1"
+	}
+	10796.12.17 = {
+		death = "10796.12.17"
+	}
+}
+205074 = {
+	name = "Cynethryth" #
+	dynasty = 1047003 #
+	female = yes
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205104
+	10744.1.1 = {
+		birth = "10744.1.1"
+	}
+	10760.1.1 = {
+		add_spouse = 205072
+	}
+	10799.1.1 = {
+		death = "10799.1.1"
+	}
+}
+205075 = {
+	name = "Eadburh" #
+	female = yes
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205072
+	mother = 205074
+	10761.1.1 = {
+		birth = "10761.1.1"
+	}
+	10802.1.1 = {
+		death = "10802.1.1"
+	}
+}
+205076 = {
+	name = "E_lfflE_d" #
+	female = yes
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205072
+	mother = 205074
+	10762.1.1 = {
+		birth = "10762.1.1"
+	}
+	10805.1.1 = {
+		death = "10805.1.1"
+	}
+}
+205077 = {
+	name = "E_thelburh" #
+	female = yes
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205072
+	mother = 205074
+	10763.1.1 = {
+		birth = "10763.1.1"
+	}
+	10805.1.1 = {
+		death = "10805.1.1"
+	}
+}
+205078 = {
+	name = "E_thelswith" #
+	female = yes
+	dynasty = 1047002
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205072
+	mother = 205074
+	10762.1.1 = {
+		birth = "10762.1.1"
+	}
+	10805.1.1 = {
+		death = "10805.1.1"
+	}
+}
+205079 = {
+	name = "Wiglaf" #
+	dynasty = 1047004
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205063
+	10700.1.1 = {
+		birth = "10700.1.1"
+	}
+	10755.1.1 = {
+		death = "10755.1.1"
+	}
+}
+205081 = {
+	name = "Wigheard" #
+	dynasty = 1047004
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205079
+	10722.1.1 = {
+		birth = "10722.1.1"
+	}
+	10790.1.1 = {
+		death = "10790.1.1"
+	}
+}
+205082 = {
+	name = "Wigferth" #
+	dynasty = 1047004
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205081
+	10740.1.1 = {
+		birth = "10740.1.1"
+	}
+	10795.1.1 = {
+		death = "10795.1.1"
+	}
+}
+205083 = {
+	name = "Wigberht" #
+	dynasty = 1047004
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205082
+	10760.1.1 = {
+		birth = "10760.1.1"
+	}
+	10820.1.1 = {
+		death = "10820.1.1"
+	}
+}
+205084 = {
+	name = "Wiglaf" # I of Mercia
+	dynasty = 1047004
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205083
+	10780.1.1 = {
+		birth = "10780.1.1"
+	}
+	10839.1.1 = {
+		death = "10839.1.1"
+	}
+}
+205085 = {
+	name = "Wigmund" # I of Mercia
+	dynasty = 1047004
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205084
+	10796.1.1 = {
+		birth = "10796.1.1"
+	}
+	10840.1.1 = {
+		death = "10840.1.1"
+	}
+}
+205086 = {
+	name = "Coelwulf" #
+	dynasty = 1047004
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205085
+	#mother = Aelfflaed of Mercia
+	10812.1.1 = {
+		birth = "10812.1.1"
+	}
+	10840.1.1 = {
+		death = "10840.1.1"
+	}
+}
+194041 = {
+	name = "Wigstan" #
+	dynasty = 1047004
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205085
+	#mother = Aelfflaed of Mercia
+	10813.1.1 = {
+		birth = "10813.1.1"
+	}
+	10840.6.1 = {
+		death = "10840.6.1"
+	}
+}
+205087 = {
+	name = "Leofric" #
+	dynasty = 1047004
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205085
+	#mother = Aelfflaed of Mercia
+	10815.1.1 = {
+		birth = "10815.1.1"
+	}
+	10870.1.1 = {
+		death = "10870.1.1"
+	}
+}
+205088 = {
+	name = "E_thelred" # II of Mercia
+	dynasty = 1047004
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205087
+	10850.1.1 = {
+		birth = "10850.1.1"
+	}
+	10911.1.1 = {
+		death = "10911.1.1"
+	}
+}
+205080 = {
+	name = "Beornwine" #
+	dynasty = 1047005
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205063
+	10701.1.1 = {
+		birth = "10701.1.1"
+	}
+	10760.1.1 = {
+		death = "10760.1.1"
+	}
+}
+205089 = {
+	name = "Beornred" # I of Mercia
+	dynasty = 1047005
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205080
+	10720.1.1 = {
+		birth = "10720.1.1"
+	}
+	10769.1.1 = {
+		death = "10769.1.1"
+	}
+}
+205090 = {
+	name = "Beornnoth" #
+	dynasty = 1047005
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205089
+	10740.1.1 = {
+		birth = "10740.1.1"
+	}
+	10787.1.1 = {
+		death = "10787.1.1"
+	}
+}
+205091 = {
+	name = "Beorhtweald" #
+	dynasty = 1047005
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205090
+	10760.1.1 = {
+		birth = "10760.1.1"
+	}
+	10799.1.1 = {
+		death = "10799.1.1"
+	}
+}
+205092 = {
+	name = "Beornwulf" #
+	dynasty = 1047005
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205091
+	10782.1.1 = {
+		birth = "10782.1.1"
+	}
+	10826.1.1 = {
+		death = "10826.1.1"
+	}
+}
+205093 = {
+	name = "Beorhtwine" #
+	dynasty = 1047005
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205092
+	10800.1.1 = {
+		birth = "10800.1.1"
+	}
+	10840.1.1 = {
+		death = "10840.1.1"
+	}
+}
+205094 = {
+	name = "Beorhtwulf" #
+	dynasty = 1047005
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205093
+	10820.1.1 = {
+		birth = "10820.1.1"
+	}
+	10852.1.1 = {
+		death = "10852.1.1"
+	}
+}
+205095 = {
+	name = "Beorhtfrith" #
+	dynasty = 1047005
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205094
+	#mother = Saethryth
+	10850.1.1 = {
+		birth = "10850.1.1"
+	}
+	10901.1.1 = {
+		death = "10901.1.1"
+	}
+}
+205096 = {
+	name = "Beorhtric" #
+	dynasty = 1047005
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205094
+	#mother = Saethryth
+	10851.1.1 = {
+		birth = "10851.1.1"
+	}
+	10905.1.1 = {
+		death = "10905.1.1"
+	}
+}
+205097 = {
+	name = "Beornmund" #
+	dynasty = 813 #Mercia
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205090
+	10762.1.1 = {
+		birth = "10762.1.1"
+	}
+	10805.1.1 = {
+		death = "10805.1.1"
+	}
+}
+205098 = {
+	name = "Beorhtwulf" #
+	dynasty = 813 #Mercia
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205097
+	10780.1.1 = {
+		birth = "10780.1.1"
+	}
+	10825.1.1 = {
+		death = "10825.1.1"
+	}
+}
+205099 = {
+	name = "Beornwine" #
+	dynasty = 813 #Mercia
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205098
+	10796.1.1 = {
+		birth = "10796.1.1"
+	}
+	10845.1.1 = {
+		death = "10845.1.1"
+	}
+}
+205100 = {
+	name = "Beornred" #
+	dynasty = 813 #Mercia
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205099
+	10809.1.1 = {
+		birth = "10812.1.1"
+	}
+	10860.1.1 = {
+		death = "10860.1.1"
+	}
+}
+205101 = {
+	name = "Cundwalh" #
+	dynasty = 1047003
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205059
+	10630.1.1 = {
+		birth = "10630.1.1"
+	}
+	10687.1.1 = {
+		death = "10687.1.1"
+	}
+}
+205102 = {
+	name = "Centwine" #
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205101
+	10659.1.1 = {
+		birth = "10659.1.1"
+	}
+	10693.1.1 = {
+		death = "10693.1.1"
+	}
+}
+205103 = {
+	name = "Cynreow" #
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205102
+	10680.1.1 = {
+		birth = "10680.1.1"
+	}
+	10745.1.1 = {
+		death = "10745.1.1"
+	}
+}
+205104 = {
+	name = "Bassa" #
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205103
+	10700.1.1 = {
+		birth = "10700.1.1"
+	}
+	10767.1.1 = {
+		death = "10767.1.1"
+	}
+}
+205105 = {
+	name = "Cuthberht" #
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205104
+	10720.1.1 = {
+		birth = "10720.1.1"
+	}
+	10790.1.1 = {
+		death = "10790.1.1"
+	}
+}
+205106 = {
+	name = "Cuthred" #
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205104
+	10722.1.1 = {
+		birth = "10722.1.1"
+	}
+	10795.1.1 = {
+		death = "10795.1.1"
+	}
+}
+205107 = {
+	name = "Coenwulf" #
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205105
+	10765.1.1 = {
+		birth = "10765.1.1"
+	}
+	10821.1.1 = {
+		death = "10821.1.1"
+	}
+}
+205108 = {
+	name = "Coelwulf" #
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205105
+	10769.1.1 = {
+		birth = "10769.1.1"
+	}
+	10823.1.1 = {
+		death = "10823.1.1"
+	}
+}
+205109 = {
+	name = "Cynehelm" #
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205107
+	10785.1.1 = {
+		birth = "10785.1.1"
+	}
+	10812.1.1 = {
+		death = "10812.1.1"
+	}
+}
+205110 = {
+	name = "Centwine" #
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205107
+	10805.1.1 = {
+		birth = "10805.1.1"
+	}
+	10869.1.1 = {
+		death = "10869.1.1"
+	}
+}
+205111 = {
+	name = "Cuthberht" #
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205108
+	10790.1.1 = {
+		birth = "10790.1.1"
+	}
+	10852.1.1 = {
+		death = "10852.1.1"
+	}
+}
+205112 = {
+	name = "Ceolwulf" #
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205111
+	10820.1.1 = {
+		birth = "10820.1.1"
+	}
+	10879.1.1 = {
+		death = "10879.1.1"
+	}
+}
+190565 = {
+	name = "Lullus" #archbishop of Mainz
+	religion = "catholic"
+	culture = anglo_saxon
+	10710.1.1 = {
+		birth = yes
+	}
+	10786.10.16 = {
+		death = yes
+	}
+}
+205141 = {
+	name = "Cerdic" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	10460.1.1 = {
+		birth = "10460.1.1"
+	}
+	10534.1.1 = {
+		death = "10534.1.1"
+	}
+}
+205142 = {
+	name = "Cynric" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205141
+	10480.1.1 = {
+		birth = "10480.1.1"
+	}
+	10560.1.1 = {
+		death = "10560.1.1"
+	}
+}
+205143 = {
+	name = "Ceawlin" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205142
+	10520.1.1 = {
+		birth = "10520.1.1"
+	}
+	10591.1.1 = {
+		death = "10591.1.1"
+	}
+}
+205144 = {
+	name = "Cutha" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205142
+	10525.1.1 = {
+		birth = "10525.1.1"
+	}
+	10590.1.1 = {
+		death = "10590.1.1"
+	}
+}
+205145 = {
+	name = "Ceol" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205144
+	10550.1.1 = {
+		birth = "10550.1.1"
+	}
+	10597.1.1 = {
+		death = "10597.1.1"
+	}
+}
+205146 = {
+	name = "Ceolwulf" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205145
+	10570.1.1 = {
+		birth = "10570.1.1"
+	}
+	10611.1.1 = {
+		death = "10611.1.1"
+	}
+}
+205147 = {
+	name = "Cynegils" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205145
+	10575.1.1 = {
+		birth = "10575.1.1"
+	}
+	10643.1.1 = {
+		death = "10643.1.1"
+	}
+}
+205148 = {
+	name = "Coenwalh" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205147
+	10595.1.1 = {
+		birth = "10595.1.1"
+	}
+	10648.1.1 = {
+		death = "10648.1.1"
+	}
+}
+205149 = {
+	name = "Cwichelm" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205147
+	10600.1.1 = {
+		birth = "10600.1.1"
+	}
+	10636.1.1 = {
+		death = "10636.1.1"
+	}
+}
+205150 = {
+	name = "Cuthred" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205149
+	10620.1.1 = {
+		birth = "10620.1.1"
+	}
+	10680.1.1 = {
+		death = "10680.1.1"
+	}
+}
+205151 = {
+	name = "Centwine" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205147
+	10610.1.1 = {
+		birth = "10610.1.1"
+	}
+	10686.1.1 = {
+		death = "10686.1.1"
+	}
+}
+205152 = {
+	name = "Cuthgils" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205146
+	10586.1.1 = {
+		birth = "10586.1.1"
+	}
+	10645.1.1 = {
+		death = "10645.1.1"
+	}
+}
+205153 = {
+	name = "Coenferth" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205152
+	10602.1.1 = {
+		birth = "10602.1.1"
+	}
+	10656.1.1 = {
+		death = "10656.1.1"
+	}
+}
+205154 = {
+	name = "Cenfus" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205153
+	10618.1.1 = {
+		birth = "10618.1.1"
+	}
+	10666.1.1 = {
+		death = "10666.1.1"
+	}
+}
+205155 = {
+	name = "E_scwine" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205154
+	10634.1.1 = {
+		birth = "10634.1.1"
+	}
+	10685.1.1 = {
+		death = "10685.1.1"
+	}
+}
+205156 = {
+	name = "Cuthwine" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205143
+	10550.1.1 = {
+		birth = "10550.1.1"
+	}
+	10592.1.1 = {
+		death = "10592.1.1"
+	}
+}
+205157 = {
+	name = "Cedda" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205156
+	10590.1.1 = {
+		birth = "10590.1.1"
+	}
+	10652.1.1 = {
+		death = "10652.1.1"
+	}
+}
+205158 = {
+	name = "Cutha" # Cathwulf
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205156
+	10592.1.1 = {
+		birth = "10592.1.1"
+	}
+	10655.1.1 = {
+		death = "10655.1.1"
+	}
+}
+205159 = {
+	name = "Coenberht" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205157
+	10610.1.1 = {
+		birth = "10610.1.1"
+	}
+	10661.1.1 = {
+		death = "10661.1.1"
+	}
+}
+205160 = {
+	name = "Mul" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205159
+	10626.1.1 = {
+		birth = "10626.1.1"
+	}
+	10687.1.1 = {
+		death = "10687.1.1"
+	}
+}
+205161 = {
+	name = "CE_dwalla" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205159
+	10630.1.1 = {
+		birth = "10630.1.1"
+	}
+	10688.1.1 = {
+		death = "10688.1.1"
+	}
+}
+205162 = {
+	name = "Ceolwald" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205156
+	10620.1.1 = {
+		birth = "10620.1.1"
+	}
+	10675.1.1 = {
+		death = "10675.1.1"
+	}
+}
+205163 = {
+	name = "Coenred" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205162
+	10637.1.1 = {
+		birth = "10637.1.1"
+	}
+	10685.1.1 = {
+		death = "10685.1.1"
+	}
+}
+205164 = {
+	name = "Ine" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205162
+	10655.1.1 = {
+		birth = "10655.1.1"
+	}
+	10726.1.1 = {
+		death = "10726.1.1"
+	}
+}
+205165 = {
+	name = "Ingild" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205162
+	10650.1.1 = {
+		birth = "10650.1.1"
+	}
+	10718.1.1 = {
+		death = "10718.1.1"
+	}
+}
+205166 = {
+	name = "Creoda" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205141
+	10485.1.1 = {
+		birth = "10485.1.1"
+	}
+	10532.1.1 = {
+		death = "10532.1.1"
+	}
+}
+205167 = {
+	name = "Cynric" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205166
+	10510.1.1 = {
+		birth = "10510.1.1"
+	}
+	10566.1.1 = {
+		death = "10566.1.1"
+	}
+}
+205168 = {
+	name = "Cuthred" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205167
+	10530.1.1 = {
+		birth = "10530.1.1"
+	}
+	10585.1.1 = {
+		death = "10585.1.1"
+	}
+}
+205169 = {
+	name = "Cynewulf" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205168
+	10550.1.1 = {
+		birth = "10550.1.1"
+	}
+	10600.1.1 = {
+		death = "10600.1.1"
+	}
+}
+205170 = {
+	name = "Cyneheard" #
+	dynasty = 1047006
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205169
+	10568.1.1 = {
+		birth = "10568.1.1"
+	}
+	10620.1.1 = {
+		death = "10620.1.1"
+	}
+}
+205171 = {
+	name = "E_thelheard" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205170
+	10590.1.1 = {
+		birth = "10590.1.1"
+	}
+	10650.1.1 = {
+		death = "10650.1.1"
+	}
+}
+205172 = {
+	name = "Sigeberht" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205171
+	10610.1.1 = {
+		birth = "10610.1.1"
+	}
+	10655.1.1 = {
+		death = "10655.1.1"
+	}
+}
+205173 = {
+	name = "Beorhtric" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205172
+	10650.1.1 = {
+		birth = "10650.1.1"
+	}
+	10700.1.1 = {
+		death = "10700.1.1"
+	}
+}
+205174 = {
+	name = "Cynewald" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205171
+	10610.1.1 = {
+		birth = "10610.1.1"
+	}
+	10655.1.1 = {
+		death = "10655.1.1"
+	}
+}
+205175 = {
+	name = "Coenheard" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205174
+	10640.1.1 = {
+		birth = "10640.1.1"
+	}
+	10685.1.1 = {
+		death = "10685.1.1"
+	}
+}
+205176 = {
+	name = "Sigeheard" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205175
+	10670.1.1 = {
+		birth = "10670.1.1"
+	}
+	10715.1.1 = {
+		death = "10715.1.1"
+	}
+}
+205177 = {
+	name = "Sigeberht" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205176
+	10700.1.1 = {
+		birth = "10700.1.1"
+	}
+	10757.1.1 = {
+		death = "10757.1.1"
+	}
+}
+205178 = {
+	name = "Cyneheard" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205176
+	10705.1.1 = {
+		birth = "10705.1.1"
+	}
+	10786.1.1 = {
+		death = "10786.1.1"
+	}
+}
+205179 = {
+	name = "Beorhtwulf" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205173
+	10685.1.1 = {
+		birth = "10685.1.1"
+	}
+	10730.1.1 = {
+		death = "10730.1.1"
+	}
+}
+205180 = {
+	name = "Cynewulf" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205179
+	10720.1.1 = {
+		birth = "10720.1.1"
+	}
+	10796.1.1 = {
+		death = "10796.1.1"
+	}
+}
+205181 = {
+	name = "Beorhtric" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205180
+	10750.1.1 = {
+		birth = "10750.1.1"
+	}
+	10802.1.1 = {
+		death = "10802.1.1"
+	}
+}
+205182 = {
+	name = "Cynric" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205171
+	10641.1.1 = {
+		birth = "10641.1.1"
+	}
+	10685.1.1 = {
+		death = "10685.1.1"
+	}
+}
+205183 = {
+	name = "E_thelred" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205182
+	10665.1.1 = {
+		birth = "10665.1.1"
+	}
+	10725.1.1 = {
+		death = "10725.1.1"
+	}
+}
+205184 = {
+	name = "E_thelheard" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205183
+	10686.1.1 = {
+		birth = "10686.1.1"
+	}
+	10740.1.1 = {
+		death = "10740.1.1"
+	}
+}
+205185 = {
+	name = "Cuthred" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205183
+	10690.1.1 = {
+		birth = "10690.1.1"
+	}
+	10740.1.1 = {
+		death = "10740.1.1"
+	}
+}
+205186 = {
+	name = "Cynric" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205185
+	10720.1.1 = {
+		birth = "10720.1.1"
+	}
+	10748.1.1 = {
+		death = "10748.1.1"
+	}
+}
+205187 = {
+	name = "Eoppa" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205165
+	10706.1.1 = {
+		birth = "10706.1.1"
+	}
+	10758.1.1 = {
+		death = "10758.1.1"
+	}
+}
+205188 = {
+	name = "Eafa" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205187
+	mother = 205191
+	10730.1.1 = {
+		birth = "10730.1.1"
+	}
+	10760.1.1 = {
+		death = "10760.1.1"
+	}
+}
+205189 = {
+	name = "Ealhmund" #
+	dynasty = 1047006
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205188
+	10750.1.1 = {
+		birth = "10750.1.1"
+	}
+	10784.1.1 = {
+		death = "10784.1.1"
+	}
+}
+
+205190 = {
+	name = "Eadburh"
+	female = yes
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205049
+	10753.1.1 = {
+		birth = yes
+	}
+	10779.1.1 = {
+		death = "10779.1.1"
+	}
+}
+
+205191 = {
+	name = "Seaxburh"
+	female = yes
+	dynasty = 1047001
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205045
+	10706.1.1 = {
+		birth = "10706.1.1"
+	}
+	10762.1.1 = {
+		death = "10762.1.1"
+	}
+}
+205113 = {
+	name = "Oshere" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205130
+	mother = 205137
+	10600.1.1 = {
+		birth = "10600.1.1"
+	}
+	10650.1.1 = {
+		death = "10650.1.1"
+	}
+}
+205114 = {
+	name = "Eanhere" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205113
+	mother = 205138
+	10628.1.1 = {
+		birth = "10628.1.1"
+	}
+	10675.1.1 = {
+		death = "10675.1.1"
+	}
+}
+205115 = {
+	name = "Eanfrith" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205113
+	mother = 205138
+	10627.1.1 = {
+		birth = "10627.1.1"
+	}
+	10674.1.1 = {
+		death = "10674.1.1"
+	}
+}
+205116 = {
+	name = "Eafe" #
+	female = yes
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205115
+	10650.1.1 = {
+		birth = "10650.1.1"
+	}
+	10700.1.1 = {
+		death = "10700.1.1"
+	}
+}
+205117 = {
+	name = "Osric" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205114
+	#mother = Osthryth of Northumbria
+	10645.1.1 = {
+		birth = "10645.1.1"
+	}
+	10679.1.1 = {
+		death = "10679.1.1"
+	}
+}
+205118 = {
+	name = "Oshere" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205114
+	#mother = Osthryth of Northumbria
+	10651.1.1 = {
+		birth = "10651.1.1"
+	}
+	10704.1.1 = {
+		death = "10704.1.1"
+	}
+}
+205119 = {
+	name = "Oswald" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205114
+	#mother = Osthryth of Northumbria
+	10652.1.1 = {
+		birth = "10652.1.1"
+	}
+	10690.1.1 = {
+		death = "10690.1.1"
+	}
+}
+205120 = {
+	name = "E_thelheard" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205118
+	mother = 205133
+	10680.1.1 = {
+		birth = "10680.1.1"
+	}
+	10710.1.1 = {
+		death = "10710.1.1"
+	}
+}
+205121 = {
+	name = "E_thelweard" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205118
+	mother = 205133
+	10681.1.1 = {
+		birth = "10681.1.1"
+	}
+	10710.1.1 = {
+		death = "10710.1.1"
+	}
+}
+205122 = {
+	name = "E_thelric" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205118
+	mother = 205133
+	10682.1.1 = {
+		birth = "10682.1.1"
+	}
+	10730.1.1 = {
+		death = "10730.1.1"
+	}
+}
+205123 = {
+	name = "Osred" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205118
+	mother = 205133
+	10685.1.1 = {
+		birth = "10685.1.1"
+	}
+	10740.1.1 = {
+		death = "10740.1.1"
+	}
+}
+205124 = {
+	name = "Ingeld" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205122
+	mother = 205134
+	10700.1.1 = {
+		birth = "10700.1.1"
+	}
+	10756.1.1 = {
+		death = "10756.1.1"
+	}
+}
+205125 = {
+	name = "E_thelmund" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205124
+	mother = 205131
+	10730.1.1 = {
+		birth = "10730.1.1"
+	}
+	10802.1.1 = {
+		death = "10802.1.1"
+	}
+}
+205126 = {
+	name = "E_thelric" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205125
+	10760.1.1 = {
+		birth = "10760.1.1"
+	}
+	10804.1.1 = {
+		death = "10804.1.1"
+	}
+}
+205127 = {
+	name = "Eanberht" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205123
+	mother = 205132
+	10715.1.1 = {
+		birth = "10715.1.1"
+	}
+	10759.1.1 = {
+		death = "10759.1.1"
+	}
+}
+205128 = {
+	name = "Uhtred" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205123
+	mother = 205132
+	10716.1.1 = {
+		birth = "10716.1.1"
+	}
+	10777.1.1 = {
+		death = "10777.1.1"
+	}
+}
+205129 = {
+	name = "Ealdred" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205123
+	mother = 205132
+	10717.1.1 = {
+		birth = "10717.1.1"
+	}
+	10780.1.1 = {
+		death = "10780.1.1"
+	}
+}
+205130 = {
+	name = "Osmod" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205139
+	mother = 159751
+	10560.1.1 = {
+		birth = "10560.1.1"
+	}
+	10630.1.1 = {
+		death = "10630.1.1"
+	}
+}
+205131 = {
+	name = "Cynetryth" #
+	female = yes
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205103
+	10700.1.1 = {
+		birth = "10700.1.1"
+	}
+	10767.1.1 = {
+		death = "10767.1.1"
+	}
+}
+205132 = {
+	name = "Wulfthryth" #
+	female = yes
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205102
+	10689.1.1 = {
+		birth = "10689.1.1"
+	}
+	10754.1.1 = {
+		death = "10754.1.1"
+	}
+}
+205133 = {
+	name = "SE_thryth" #
+	female = yes
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205101
+	10659.1.1 = {
+		birth = "10659.1.1"
+	}
+	10715.1.1 = {
+		death = "10715.1.1"
+	}
+}
+205134 = {
+	name = "SE_burh" #
+	female = yes
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205102
+	10684.1.1 = {
+		birth = "10684.1.1"
+	}
+	10745.1.1 = {
+		death = "10745.1.1"
+	}
+}
+205135 = {
+	name = "E_thelmod" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205117
+	mother = 205136
+	10667.1.1 = {
+		birth = "10667.1.1"
+	}
+	10733.1.1 = {
+		death = "10733.1.1"
+	}
+}
+205136 = {
+	name = "Cyneburh" #
+	female = yes
+	dynasty = 1047003
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205101
+	10650.1.1 = {
+		birth = "10650.1.1"
+	}
+	10715.1.1 = {
+		death = "10715.1.1"
+	}
+}
+205139 = {
+	name = "Oswald" #
+	dynasty = 1047011
+	religion = "catholic"
+	culture = anglo_saxon
+	10530.1.1 = {
+		birth = "10530.1.1"
+	}
+	10570.1.1 = {
+		death = "10570.1.1"
+	}
+}
+194094 = {
+	name = "Offa"
+	dynasty = 1047012
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	10460.1.1 = {
+		birth = "10460.1.1"
+	}
+	10527.1.1 = {
+		death = "10527.1.1"
+	}
+}
+194095 = {
+	name = "E_scwine"
+	dynasty = 1047012
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 194094
+	10490.1.1 = {
+		birth = "10490.1.1"
+	}
+	10587.1.1 = {
+		death = "10587.1.1"
+	}
+}
+194096 = {
+	name = "Sledda"
+	dynasty = 1047012
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 194095
+	10520.1.1 = {
+		birth = "10520.1.1"
+	}
+	10604.1.1 = {
+		death = "10604.1.1"
+	}
+}
+194097 = {
+	name = "SE_berht"
+	dynasty = 1047012
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 194096
+	10535.1.1 = {
+		birth = yes
+	}
+	10615.1.1 = {
+		death = "10615.1.1"
+	}
+}
+194098 = {
+	name = "SE_xred"
+	dynasty = 1047012
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 194097
+	10550.1.1 = {
+		birth = yes
+	}
+	10616.1.1 = {
+		death = "10616.1.1"
+	}
+}
+194099 = {
+	name = "SE_ward"
+	dynasty = 1047012
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 194098
+	10574.1.1 = {
+		birth = yes
+	}
+	10616.1.1 = {
+		death = "10616.1.1"
+	}
+}
+194100 = {
+	name = "Sigeberht"
+	dynasty = 1047012
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 194099
+	10590.1.1 = {
+		birth = yes
+	}
+	10653.1.1 = {
+		death = "10653.1.1"
+	}
+}
+194101 = {
+	name = "Sigeberht"
+	dynasty = 1047012
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 194100
+	10605.1.1 = {
+		birth = "10605.1.1"
+	}
+	10660.1.1 = {
+		death = "10660.1.1"
+	}
+}
+194102 = {
+	name = "Swithhelm"
+	dynasty = 1047012
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 194101
+	10620.1.1 = {
+		birth = "10620.1.1"
+	}
+	10664.1.1 = {
+		death = "10664.1.1"
+	}
+}
+194103 = {
+	name = "Sighere"
+	dynasty = 1047012
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 194102
+	10637.1.1 = {
+		birth = "10630.1.1"
+	}
+	10683.1.1 = {
+		death = "10683.1.1"
+	}
+}
+205256 = {
+	name = "Sebbi"
+	dynasty = 1047012
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 194102
+	10635.1.1 = {
+		birth = "10635.1.1"
+	}
+	10694.1.1 = {
+		death = "10694.1.1"
+	}
+}
+205257 = {
+	name = "Sigeheard"
+	dynasty = 1047012
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205256
+	10660.1.1 = {
+		birth = "10660.1.1"
+	}
+	10708.1.1 = {
+		death = "10708.1.1"
+	}
+}
+205258 = {
+	name = "SwE_fred"
+	dynasty = 1047012
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205256
+	10655.1.1 = {
+		birth = "10655.1.1"
+	}
+	10708.1.1 = {
+		death = "10708.1.1"
+	}
+}
+205259 = {
+	name = "Offa"
+	dynasty = 1047012
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205257
+	10676.1.1 = {
+		birth = "10676.1.1"
+	}
+	10709.1.1 = {
+		death = "10709.1.1"
+	}
+}
+205260 = {
+	name = "Sebbi"
+	dynasty = 1047012
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205257
+	10677.1.1 = {
+		birth = "10677.1.1"
+	}
+	10708.1.1 = {
+		death = "10708.1.1"
+	}
+}
+205261 = {
+	name = "Sigered"
+	dynasty = 1047012
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205258
+	10675.1.1 = {
+		birth = "10675.1.1"
+	}
+	10708.1.1 = {
+		death = "10708.1.1"
+	}
+}
+205262 = {
+	name = "SE_lred"
+	dynasty = 1047012
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205261
+	10691.1.1 = {
+		birth = "10691.1.1"
+	}
+	10746.1.1 = {
+		death = "10746.1.1"
+	}
+}
+205263 = {
+	name = "Swithred"
+	dynasty = 1047012
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205260
+	10700.1.1 = {
+		birth = "10700.1.1"
+	}
+	10758.1.1 = {
+		death = "10758.1.1"
+	}
+}
+205264 = {
+	name = "SE_lred"
+	dynasty = 1047012
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205262
+	10725.1.1 = {
+		birth = "10725.1.1"
+	}
+	10800.1.1 = {
+		death = "10800.1.1"
+	}
+}
+205265 = {
+	name = "Sigeric"
+	dynasty = 1047012
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205264
+	10745.1.1 = {
+		birth = "10745.1.1"
+	}
+	10830.1.1 = {
+		death = "10830.1.1"
+	}
+}
+205266 = {
+	name = "Sigered"
+	dynasty = 1047012
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205265
+	10765.1.1 = {
+		birth = "10765.1.1"
+	}
+	10835.1.1 = {
+		death = "10835.1.1"
+	}
+}
+205192 = {
+	name = "Yffe"
+	dynasty = 1047009
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	10500.1.1 = {
+		birth = "10500.1.1"
+	}
+	10559.1.1 = {
+		death = "10559.1.1"
+	}
+}
+205193 = {
+	name = "E_lla"
+	dynasty = 1047009
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205192
+	10540.1.1 = {
+		birth = "10540.1.1"
+	}
+	10588.1.1 = {
+		death = "10588.1.1"
+	}
+}
+205194 = {
+	name = "E_lfric"
+	dynasty = 1047009
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205192
+	10545.1.1 = {
+		birth = "10545.1.1"
+	}
+	10589.1.1 = {
+		death = "10589.1.1"
+	}
+}
+205195 = {
+	name = "Osric"
+	dynasty = 1047009
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205194
+	10565.1.1 = {
+		birth = "10565.1.1"
+	}
+	10634.1.1 = {
+		death = "10634.1.1"
+	}
+}
+205196 = {
+	name = "Oswine"
+	dynasty = 1047009
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205195
+	10585.1.1 = {
+		birth = "10585.1.1"
+	}
+	10651.1.1 = {
+		death = "10651.1.1"
+	}
+}
+205197 = {
+	name = "E_thelric"
+	dynasty = 1047009
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205193
+	10580.1.1 = {
+		birth = "10580.1.1"
+	}
+	10604.1.1 = {
+		death = "10604.1.1"
+	}
+}
+205198 = {
+	name = "Eadwine"
+	dynasty = 1047009
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205193
+	10585.1.1 = {
+		birth = "10585.1.1"
+	}
+	10620.1.1 = {
+		add_spouse = 205034
+	}
+	10633.10.12 = {
+		death = "10633.10.12"
+	}
+}
+205199 = {
+	name = "Ingvi"
+	dynasty = 1047008
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	10433.1.1 = {
+		birth = "10433.1.1"
+	}
+	10490.1.1 = {
+		death = "10490.1.1"
+	}
+}
+205200 = {
+	name = "Esa"
+	dynasty = 1047008
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205199
+	10456.1.1 = {
+		birth = "10456.1.1"
+	}
+	10510.1.1 = {
+		death = "10510.1.1"
+	}
+}
+205201 = {
+	name = "Eoppa"
+	dynasty = 1047008
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205200
+	10486.1.1 = {
+		birth = "10486.1.1"
+	}
+	10547.1.1 = {
+		death = "10547.1.1"
+	}
+}
+205202 = {
+	name = "Ida"
+	dynasty = 1047008
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205201
+	10505.1.1 = {
+		birth = "10505.1.1"
+	}
+	10559.1.1 = {
+		death = "10559.1.1"
+	}
+}
+205203 = {
+	name = "Glappa"
+	dynasty = 1047008
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205202
+	10521.1.1 = {
+		birth = "10521.1.1"
+	}
+	10560.1.1 = {
+		death = "10560.1.1"
+	}
+}
+205204 = {
+	name = "Adda"
+	dynasty = 1047008
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205202
+	10522.1.1 = {
+		birth = "10522.1.1"
+	}
+	10568.1.1 = {
+		death = "10568.1.1"
+	}
+}
+205205 = {
+	name = "E_thelric"
+	dynasty = 1047008
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205202
+	10527.1.1 = {
+		birth = "10527.1.1"
+	}
+	10572.1.1 = {
+		death = "10572.1.1"
+	}
+}
+205206 = {
+	name = "Theodric"
+	dynasty = 1047008
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205202
+	10528.1.1 = {
+		birth = "10528.1.1"
+	}
+	10579.1.1 = {
+		death = "10579.1.1"
+	}
+}
+205207 = {
+	name = "Frithuwald"
+	dynasty = 1047008
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205202
+	10532.1.1 = {
+		birth = "10532.1.1"
+	}
+	10585.1.1 = {
+		death = "10585.1.1"
+	}
+}
+205208 = {
+	name = "Hussa"
+	dynasty = 1047008
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205202
+	10535.1.1 = {
+		birth = "10535.1.1"
+	}
+	10592.1.1 = {
+		death = "10592.1.1"
+	}
+}
+205209 = {
+	name = "E_thelfrith"
+	dynasty = 1047010
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205205
+	10555.1.1 = {
+		birth = "10555.1.1"
+	}
+	10590.1.1 = {
+		add_spouse = 205210
+	}
+	10616.1.1 = {
+		death = "10616.1.1"
+	}
+}
+205210 = {
+	name = "Acha"
+	female = yes
+	dynasty = 1047009
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205193
+	10570.1.1 = {
+		birth = "10570.1.1"
+	}
+	10590.1.1 = {
+		add_spouse = 205209
+	}
+	10634.1.1 = {
+		death = "10634.1.1"
+	}
+}
+205211 = {
+	name = "Eanfrith"
+	dynasty = 1047010
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205209
+	mother = 205210
+	10590.1.1 = {
+		birth = "10590.1.1"
+	}
+	10617.1.1 = {
+		add_spouse = 166558
+	}
+	10634.1.1 = {
+		death = "10634.1.1"
+	}
+}
+205212 = {
+	name = "Oswald"
+	dynasty = 1047010
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205209
+	mother = 205210
+	10604.1.1 = {
+		birth = "10604.1.1"
+	}
+	10642.8.5 = {
+		death = "10642.8.5"
+	}
+}
+205213 = {
+	name = "Oswiu"
+	dynasty = 1047010
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205209
+	mother = 205210
+	10612.1.1 = {
+		birth = "10612.1.1"
+	}
+	10642.1.1 = {
+		add_spouse = 205214
+	}
+	10670.2.15 = {
+		death = "10670.2.15"
+	}
+}
+205214 = {
+	name = "EanflE_d"
+	female = yes
+	dynasty = 1047009
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205198
+	mother = 205034
+	10626.4.19 = {
+		birth = "10626.4.19"
+	}
+	10642.1.1 = {
+		add_spouse = 205213
+	}
+	10686.1.1 = {
+		death = "10686.1.1"
+	}
+}
+205215 = {
+	name = "Ocg"
+	dynasty = 1047008
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205202
+	10536.1.1 = {
+		birth = "10536.1.1"
+	}
+	10600.1.1 = {
+		death = "10600.1.1"
+	}
+}
+205216 = {
+	name = "Aldhelm"
+	dynasty = 1047008
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205215
+	10571.1.1 = {
+		birth = "10571.1.1"
+	}
+	10630.1.1 = {
+		death = "10630.1.1"
+	}
+}
+205217 = {
+	name = "Ecgwulf"
+	dynasty = 1047008
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205216
+	10595.1.1 = {
+		birth = "10595.1.1"
+	}
+	10660.1.1 = {
+		death = "10660.1.1"
+	}
+}
+205218 = {
+	name = "Leodwald"
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205217
+	10621.1.1 = {
+		birth = "10621.1.1"
+	}
+	10690.1.1 = {
+		death = "10690.1.1"
+	}
+}
+205219 = {
+	name = "Cuthwine"
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205218
+	10654.1.1 = {
+		birth = "10654.1.1"
+	}
+	10715.1.1 = {
+		death = "10715.1.1"
+	}
+}
+205220 = {
+	name = "Eata"
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205218
+	10655.1.1 = {
+		birth = "10655.1.1"
+	}
+	10713.1.1 = {
+		death = "10713.1.1"
+	}
+}
+205221 = {
+	name = "Coenred"
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205219
+	10690.1.1 = {
+		birth = "10690.1.1"
+	}
+	10718.1.1 = {
+		death = "10718.1.1"
+	}
+}
+205222 = {
+	name = "Ceolwulf"
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205219
+	10695.1.1 = {
+		birth = "10695.1.1"
+	}
+	10765.1.1 = {
+		death = "10765.1.1"
+	}
+}
+205223 = {
+	name = "Ecgberht"
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205220
+	10685.1.1 = {
+		birth = "10685.1.1"
+	}
+	10766.11.19 = {
+		death = "10766.11.19"
+	}
+}
+205224 = {
+	name = "Eadberht"
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205220
+	10690.1.1 = {
+		birth = "10690.1.1"
+	}
+	10768.8.20 = {
+		death = "10768.8.20"
+	}
+}
+205225 = {
+	name = "Oswulf"
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205224
+	10720.1.1 = {
+		birth = "10720.1.1"
+	}
+	10759.7.24 = {
+		death = "10759.7.24"
+	}
+}
+205226 = {
+	name = "Oswulf"
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205224
+	10725.1.1 = {
+		birth = "10725.1.1"
+	}
+	10761.8.1 = {
+		death = "10761.8.1"
+	}
+}
+205227 = {
+	name = "Osgifu"
+	female = yes
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205224
+	10730.1.1 = {
+		birth = "10730.1.1"
+	}
+	10750.1.1 = {
+		add_spouse = 205237
+	}
+	10790.1.1 = {
+		death = "10790.1.1"
+	}
+}
+194104 = {
+	name = "E_lfwald"
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205226
+	10745.1.1 = {
+		birth = "10745.1.1"
+	}
+	10788.9.23 = {
+		death = "10788.9.23"
+	}
+}
+205228 = {
+	name = "Osbald"
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205226
+	10750.1.1 = {
+		birth = "10750.1.1"
+	}
+	10799.1.1 = {
+		death = "10799.1.1"
+	}
+}
+205229 = {
+	name = "E_lf"
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205228
+	10766.1.1 = {
+		birth = "10766.1.1"
+	}
+	10791.1.1 = {
+		death = "10791.1.1"
+	}
+}
+205230 = {
+	name = "E_lfwine"
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205228
+	10767.1.1 = {
+		birth = "10767.1.1"
+	}
+	10791.1.1 = {
+		death = "10791.1.1"
+	}
+}
+205231 = {
+	name = "Bearn"
+	dynasty = 1047021
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205228
+	10765.1.1 = {
+		birth = "10765.1.1"
+	}
+	10780.1.1 = {
+		death = "10780.1.1"
+	}
+}
+205232 = {
+	name = "Eadric"
+	dynasty = 1047023
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205202
+	10537.1.1 = {
+		birth = "10537.1.1"
+	}
+	10600.1.1 = {
+		death = "10600.1.1"
+	}
+}
+205233 = {
+	name = "BlE_cman"
+	dynasty = 1047023
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205232
+	10570.1.1 = {
+		birth = "10570.1.1"
+	}
+	10640.1.1 = {
+		death = "10640.1.1"
+	}
+}
+205234 = {
+	name = "Bofa"
+	dynasty = 1047023
+	religion = "norse_pagan"
+	culture = anglo_saxon
+	father = 205233
+	10610.1.1 = {
+		birth = "10610.1.1"
+	}
+	10690.1.1 = {
+		death = "10690.1.1"
+	}
+}
+205235 = {
+	name = "Beornholm"
+	dynasty = 1047023
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205234
+	10650.1.1 = {
+		birth = "10650.1.1"
+	}
+	10733.1.1 = {
+		death = "10733.1.1"
+	}
+}
+205236 = {
+	name = "Eanwine"
+	dynasty = 1047023
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205235
+	10690.1.1 = {
+		birth = "10690.1.1"
+	}
+	10767.1.1 = {
+		death = "10767.1.1"
+	}
+}
+205237 = {
+	name = "Ealhred"
+	dynasty = 1047023
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205236
+	10725.1.1 = {
+		birth = "10725.1.1"
+	}
+	10750.1.1 = {
+		add_spouse = 205227
+	}
+	10774.1.1 = {
+		death = "10774.1.1"
+	}
+}
+205238 = {
+	name = "Osred"
+	dynasty = 1047023
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205237
+	mother = 205227
+	10750.1.1 = {
+		birth = "10750.1.1"
+	}
+	10792.1.1 = {
+		death = "10792.1.1"
+	}
+}
+205239 = {
+	name = "Ealhmund"
+	dynasty = 1047023
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205237
+	mother = 205227
+	10751.1.1 = {
+		birth = "10751.1.1"
+	}
+	10800.1.1 = {
+		death = "10800.1.1"
+	}
+}
+205240 = {
+	name = "Eadwulf"
+	dynasty = 1047022
+	religion = "catholic"
+	culture = anglo_saxon
+	10631.1.1 = {
+		birth = "10631.1.1"
+	}
+	10705.3.1 = {
+		death = "10705.3.1"
+	}
+}
+205241 = {
+	name = "Eanwine"
+	dynasty = 1047022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205240
+	10665.1.1 = {
+		birth = "10665.1.1"
+	}
+	10740.1.1 = {
+		death = "10740.1.1"
+	}
+}
+205242 = {
+	name = "Moll"
+	dynasty = 1047022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205240
+	10680.1.1 = {
+		birth = "10680.1.1"
+	}
+	10743.1.1 = {
+		death = "10743.1.1"
+	}
+}
+205243 = {
+	name = "E_thelwald"
+	dynasty = 1047022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205242
+	10730.1.1 = {
+		birth = "10730.1.1"
+	}
+	10765.10.30 = {
+		death = "10765.10.30"
+	}
+}
+205244 = {
+	name = "E_thelred"
+	dynasty = 1047022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205243
+	10762.1.1 = {
+		birth = "10762.1.1"
+	}
+	10796.4.18 = {
+		death = "10796.4.18"
+	}
+}
+205245 = {
+	name = "Eardwulf"
+	dynasty = 1047022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205241
+	10700.1.1 = {
+		birth = "10700.1.1"
+	}
+	10741.1.1 = {
+		death = "10741.1.1"
+	}
+}
+205246 = {
+	name = "Eardwulf"
+	dynasty = 1047022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205245
+	10730.1.1 = {
+		birth = "10730.1.1"
+	}
+	10806.1.1 = {
+		death = "10806.1.1"
+	}
+}
+205247 = {
+	name = "Eanred"
+	dynasty = 1047022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205246
+	10760.1.1 = {
+		birth = "10760.1.1"
+	}
+	10850.1.1 = {
+		death = "10850.1.1"
+	}
+}
+205248 = {
+	name = "Oswulf"
+	dynasty = 1047022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205246
+	10761.1.1 = {
+		birth = "10761.1.1"
+	}
+	10840.1.1 = {
+		death = "10840.1.1"
+	}
+}
+205249 = {
+	name = "Eanwine"
+	dynasty = 1047022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205245
+	10735.1.1 = {
+		birth = "10735.1.1"
+	}
+	10805.1.1 = {
+		death = "10805.1.1"
+	}
+}
+205250 = {
+	name = "Oswald"
+	dynasty = 1047022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205245
+	10740.1.1 = {
+		birth = "10740.1.1"
+	}
+	10805.1.1 = {
+		death = "10805.1.1"
+	}
+}
+205251 = {
+	name = "Eardwulf"
+	dynasty = 1047022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205249
+	10770.1.1 = {
+		birth = "10770.1.1"
+	}
+	10835.1.1 = {
+		death = "10835.1.1"
+	}
+}
+205252 = {
+	name = "Oswulf"
+	dynasty = 814
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205250
+	10775.1.1 = {
+		birth = "10775.1.1"
+	}
+	10836.1.1 = {
+		death = "10836.1.1"
+	}
+}
+205253 = {
+	name = "Osberht"
+	dynasty = 814
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205252
+	10805.1.1 = {
+		birth = "10805.1.1"
+	}
+	10866.1.1 = {
+		death = "10866.1.1"
+	}
+}
+205254 = {
+	name = "RE_dwulf"
+	dynasty = 1047022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205251
+	10800.1.1 = {
+		birth = "10800.1.1"
+	}
+	10844.1.1 = {
+		death = "10844.1.1"
+	}
+}
+205255 = {
+	name = "E_thelred"
+	dynasty = 1047022
+	religion = "catholic"
+	culture = anglo_saxon
+	father = 205247
+	10800.1.1 = {
+		birth = "10800.1.1"
+	}
+	10860.1.1 = {
+		death = "10860.1.1"
+	}
+}
+205267 = {
+	name = "Brorda"
+	dynasty = 1047013
+	religion = "catholic"
+	culture = anglo_saxon
+	10740.1.1 = {
+		birth = "10740.1.1"
+	}
+	10835.1.1 = {
+		death = "10835.1.1"
+	}
+}
+205268 = {
+	name = "Osmund"
+	dynasty = 1047017
+	religion = "catholic"
+	culture = anglo_saxon
+	10740.1.1 = {
+		birth = "10740.1.1"
+	}
+	10835.1.1 = {
+		death = "10835.1.1"
+	}
+}
+205269 = {
+	name = "Copsige"
+	dynasty = 746
+	religion = "catholic"
+	culture = anglo_saxon
+	11027.1.1 = {
+		birth = "11027.1.1"
+	}
+	11066.1.1 = {
+		employer = 140
+		add_pressed_claim = title:d_northumberland
+		add_pressed_claim = title:c_northumberland
+	}
+	11067.1.1 = {
+		death = "11067.1.1"
+	}
+}
+
+252377 = {
+	name = "E_thelflE_d" #Lady of the Mercians
+	female = yes
+	dynasty = 100072
+	martial = 5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 9
+	religion = "catholic"
+	culture = "saxon"
+	trait = "education_learning_3"
+	father = 7627
+	10870.1.1 = {
+		birth = yes
+	}
+	10918.6.12 = {
+		death = yes
+	}
+}
+252378 = {
+	name = "E_thelgifu" #Abbess of Shaftesbury
+	female = yes
+	dynasty = 100072
+	religion = "catholic"
+	culture = "saxon"
+	trait = "education_learning_3"
+	father = 7627
+	10875.1.1 = {
+		birth = yes
+	}
+	10921.1.1 = {
+		death = yes
+	}
+}
+252379 = {
+	name = "E_thelweard" #son of Alfred the Great
+	dynasty = 100072
+	religion = "catholic"
+	culture = "saxon"
+	trait = "education_learning_3"
+	father = 7627
+	10880.1.1 = {
+		birth = yes
+	}
+	10922.10.16 = {
+		death = yes
+	}
+}
+
+anglo_saxon_1001 = {	#Fictional holder to allow barony placement.
+	name = "Sigeberht"
+	religion = catholic
+	culture = anglo_saxon
+	11030.1.1 = {
+		birth = yes
+	}
+	11090.1.1 = {
+		death = yes
+	}
+}

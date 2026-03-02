@@ -1,0 +1,489 @@
+﻿# Igbo characters
+
+# kingdom of Nri
+igbo0001 = {
+	name = "Eri"
+	dynasty = igbodyn001 #kings of Nri
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0012
+	10948.1.1 = {
+		birth = yes
+	}
+	11041.1.1 = {
+		death = yes
+	}
+}
+igbo0002 = {
+	name = "O_bali_ke" #fantasy - to fill the gap between 2 historical characters
+	dynasty = igbodyn001
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0001
+	10980.1.1 = {
+		birth = yes
+	}
+	11043.1.1 = {
+		death = yes
+	}
+}
+igbo0003 = {
+	name = "I_fikua_nim" #historical
+	dynasty = igbodyn001
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0002
+	11020.1.1 = {
+		birth = yes
+	}
+	11089.1.1 = {
+		death = yes
+	}
+}
+igbo0004 = {
+	name = "E_nwelea_na" #fantasy - to fill the gap between 2 historical characters
+	dynasty = igbodyn001
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0003
+	11052.1.1 = {
+		birth = yes
+	}
+	11088.1.1 = {
+		death = yes
+	}
+}
+igbo0005 = {
+	name = "Namoke" #historical, his rule shortened
+	dynasty = igbodyn001
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0004
+	11085.1.1 = {
+		birth = yes
+	}
+	11149.1.1 = {
+		death = yes
+	}
+}
+igbo0006 = {
+	name = "Buife" #historical, his rule shortened (is said to rule 1159-1260)
+	dynasty = igbodyn001
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0005
+	11115.1.1 = {
+		birth = yes
+	}
+	11180.1.1 = {
+		death = yes
+	}
+}
+igbo0007 = {
+	name = "Omalo" #historical - but his rule moved
+	dynasty = igbodyn001
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0006
+	11140.1.1 = {
+		birth = yes
+	}
+	11199.1.1 = {
+		death = yes
+	}
+}
+igbo0008 = {
+	name = "Jiofo" #historical - but his rule moved
+	dynasty = igbodyn001
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0007
+	11166.1.1 = {
+		birth = yes
+	}
+	11220.1.1 = {
+		death = yes
+	}
+}
+igbo0009 = {
+	name = "Ọmalonyeso" #historical - but his rule moved
+	dynasty = igbodyn001
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0008
+	11190.1.1 = {
+		birth = yes
+	}
+	11243.1.1 = {
+		death = yes
+	}
+}
+igbo0010 = {
+	name = "Anyamata" #historical - but his rule moved
+	dynasty = igbodyn001
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0009
+	11210.1.1 = {
+		birth = yes
+	}
+	11260.1.1 = {
+		death = yes
+	}
+}
+igbo0011 = {
+	name = "Fenenu" #historical - but his rule moved
+	dynasty = igbodyn001
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0010
+	11233.1.1 = {
+		birth = yes
+	}
+	11299.1.1 = {
+		death = yes
+	}
+}
+# now moving later historical Nri rulers to older times
+igbo0012 = {
+	name = "Agu_" #historical - but his rule moved
+	dynasty = igbodyn001
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0013
+	10920.1.1 = {
+		birth = yes
+	}
+	10978.1.1 = {
+		death = yes
+	}
+}
+igbo0013 = {
+	name = "Apia" #historical - but his rule moved
+	dynasty = igbodyn001
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0014
+	10880.1.1 = {
+		birth = yes
+	}
+	10948.1.1 = {
+		death = yes
+	}
+}
+igbo0014 = {
+	name = "Nri-Alike" #historical - but his rule moved
+	dynasty = igbodyn001
+	religion = west_african_orisha_pagan
+	culture = igbo
+	10850.1.1 = {
+		birth = yes
+	}
+	10899.1.1 = {
+		death = yes
+	}
+}
+
+#Ibibo fictional rulers
+igbo0015 = {
+	name = "Ezimilo" #fictional
+	dynasty = igbodyn002
+	religion = west_african_orisha_pagan
+	culture = igbo
+	10843.1.1 = {
+		birth = yes
+	}
+	10893.1.1 = {
+		death = yes
+	}
+}
+igbo0016 = {
+	name = "E_wene_tem" #fictional
+	dynasty = igbodyn002
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0015
+	10865.1.1 = {
+		birth = yes
+	}
+	10948.1.1 = {
+		death = yes
+	}
+}
+igbo0017 = {
+	name = "O_bali_ke" #fictional
+	dynasty = igbodyn002
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0016
+	11039.1.1 = {
+		birth = yes
+	}
+	11092.1.1 = {
+		death = yes
+	}
+}
+igbo0018 = {
+	name = "Ezimilo" #fictional
+	dynasty = igbodyn002
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0017
+	11064.1.1 = {
+		birth = yes
+	}
+	11118.1.1 = {
+		death = yes
+	}
+}
+
+# fictional rulers of c_idoma
+igbo0019 = {
+	name = "Taabansi" #fictional
+	dynasty = igbodyn003
+	religion = west_african_orisha_pagan
+	culture = igbo
+	10840.1.1 = {
+		birth = yes
+	}
+	10893.1.1 = {
+		death = yes
+	}
+}
+igbo0020 = {
+	name = "Udene" #fictional
+	dynasty = igbodyn003
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0019
+	10859.1.1 = {
+		birth = yes
+	}
+	10919.1.1 = {
+		death = yes
+	}
+}
+igbo0021 = {
+	name = "Obidiegwu" #fictional
+	dynasty = igbodyn003
+	religion = west_african_orisha_pagan
+	culture = igbo
+	11023.1.1 = {
+		birth = yes
+	}
+	11079.1.1 = {
+		death = yes
+	}
+}
+igbo0022 = {
+	name = "Onyeso" #fictional
+	dynasty = igbodyn003
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0021
+	11048.1.1 = {
+		birth = yes
+	}
+	11109.1.1 = {
+		death = yes
+	}
+}
+igbo0023 = {
+	name = "Taabansi" #fictional
+	dynasty = igbodyn003
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0022
+	11076.1.1 = {
+		birth = yes
+	}
+	11131.1.1 = {
+		death = yes
+	}
+}
+igbo0024 = {
+	name = "Ezeudo" #fictional
+	dynasty = igbodyn003
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0023
+	11109.1.1 = {
+		birth = yes
+	}
+	11166.1.1 = {
+		death = yes
+	}
+}
+igbo0025 = {
+	name = "Golibe" #fictional
+	dynasty = igbodyn003
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0024
+	11146.1.1 = {
+		birth = yes
+	}
+	11209.1.1 = {
+		death = yes
+	}
+}
+
+# fictional rulers of c_igala
+igbo0026 = {
+	name = "Afamefuna" #fictional
+	dynasty = igbodyn004
+	religion = west_african_orisha_pagan
+	culture = igbo
+	10835.1.1 = {
+		birth = yes
+	}
+	10888.1.1 = {
+		death = yes
+	}
+}
+igbo0027 = {
+	name = "Akuabata" #fictional
+	dynasty = igbodyn004
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0026
+	10853.1.1 = {
+		birth = yes
+	}
+	10907.1.1 = {
+		death = yes
+	}
+}
+igbo0028 = {
+	name = "Amadi" #fictional
+	dynasty = igbodyn004
+	religion = west_african_orisha_pagan
+	culture = igbo
+	11033.1.1 = {
+		birth = yes
+	}
+	11075.1.1 = {
+		death = yes
+	}
+}
+igbo0029 = {
+	name = "Ifediaso" #fictional
+	dynasty = igbodyn004
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0028
+	11051.1.1 = {
+		birth = yes
+	}
+	11107.1.1 = {
+		death = yes
+	}
+}
+igbo0030 = {
+	name = "Chikwado" #fictional
+	dynasty = igbodyn004
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0029
+	11073.1.1 = {
+		birth = yes
+	}
+	11122.1.1 = {
+		death = yes
+	}
+}
+igbo0031 = {
+	name = "Chukwuka" #fictional
+	dynasty = igbodyn004
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0030
+	11100.1.1 = {
+		birth = yes
+	}
+	11159.1.1 = {
+		death = yes
+	}
+}
+igbo0032 = {
+	name = "Azubuike" #fictional
+	dynasty = igbodyn004
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0031
+	11132.1.1 = {
+		birth = yes
+	}
+	11190.1.1 = {
+		death = yes
+	}
+}
+igbo0033 = {
+	name = "Azubuike" #fictional
+	dynasty = igbodyn004
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0032
+	11151.1.1 = {
+		birth = yes
+	}
+	11208.1.1 = {
+		death = yes
+	}
+}
+
+igbo0034 = {
+	name = "Obinna" # fictional
+	dynasty = igbodyn002
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0018
+	11084.1.1 = {
+		birth = yes
+	}
+	11137.1.1 = {
+		death = yes
+	}
+}
+
+igbo0035 = {
+	name = "Nnamdi" # fictional
+	dynasty = igbodyn002
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0034
+	11109.1.1 = {
+		birth = yes
+	}
+	11162.1.1 = {
+		death = yes
+	}
+}
+
+igbo0036 = {
+	name = "Chike" # fictional
+	dynasty = igbodyn002
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0035
+	11137.1.1 = {
+		birth = yes
+	}
+	11190.1.1 = {
+		death = yes
+	}
+}
+
+igbo0037 = {
+	name = "Azuka" # fictional
+	dynasty = igbodyn002
+	religion = west_african_orisha_pagan
+	culture = igbo
+	father = igbo0036
+	11165.1.1 = {
+		birth = yes
+	}
+	11220.1.1 = {
+		death = yes
+	}
+}

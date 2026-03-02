@@ -1,0 +1,561 @@
+﻿## Start of Amaling Goths
+168760 = {
+	name = "Achiulf"
+	dynasty = 9617
+	religion = "norse_pagan"
+	culture = "german"
+	10240.1.1 = {
+		birth = yes
+	}	
+	10290.1.1 = {
+		death = yes
+	}
+}
+
+168761 = {
+	name = "Ermanarich"
+	dynasty = 9617
+	religion = "norse_pagan"
+	culture = "german"
+	father = 168760
+	10266.1.1 = {
+		birth = yes
+	}	
+	10376.1.1 = {
+		death = yes
+	}
+}
+168762 = {
+	name = "Hunimund"
+	dynasty = 9617
+	religion = "norse_pagan"
+	culture = "german"
+	father = 168761
+	10300.1.1 = {
+		birth = yes
+	}	
+	10350.1.1 = {
+		death = yes
+	}
+}
+168763 = {
+	name = "Thorismund"
+	dynasty = 9617
+	religion = "norse_pagan"
+	culture = "german"
+	father = 168762
+	10340.1.1 = {
+		birth = yes
+	}	
+	10400.1.1 = {
+		death = yes
+	}
+}
+168764 = {
+	name = "Berimund"
+	dynasty = 9617
+	religion = "norse_pagan"
+	culture = "german"
+	father = 168763
+	10390.1.1 = {
+		birth = yes
+	}	
+	10450.1.1 = {
+		death = yes
+	}
+}
+168765 = {
+	name = "Widerich"
+	dynasty = 9617
+	religion = "norse_pagan"
+	culture = "german"
+	father = 168764
+	10440.1.1 = {
+		birth = yes
+	}	
+	10490.1.1 = {
+		death = yes
+	}
+}
+168766 = {
+	name = "Eutharich"
+	dynasty = 9617
+	religion = "catholic"
+	culture = "german"
+	father = 168765
+	10480.1.1 = {
+		birth = yes
+	}
+	10515.1.1 = {
+		add_spouse = 168784
+	}
+	10522.1.1 = {
+		death = yes
+	}
+}
+168767 = {
+	name = "Wultulf"
+	dynasty = 9617
+	religion = "norse_pagan"
+	culture = "german"
+	father = 168760
+	10280.1.1 = {
+		birth = yes
+	}	
+	10350.1.1 = {
+		death = yes
+	}
+}
+168768 = {
+	name = "Winithar"
+	dynasty = 9617
+	religion = "norse_pagan"
+	culture = "german"
+	father = 168767
+	10320.1.1 = {
+		birth = yes
+	}	
+	10376.1.1 = {
+		death = yes
+	}
+}
+168769 = {
+	name = "Wandalar"
+	dynasty = 9617
+	religion = "norse_pagan"
+	culture = "german"
+	father = 168768
+	10370.1.1 = {
+		birth = yes
+	}	
+	10440.1.1 = {
+		death = yes
+	}
+}
+168770 = {
+	name = "Walamir"
+	dynasty = 9617
+	religion = "norse_pagan"
+	culture = "german"
+	father = 168769
+	10425.1.1 = {
+		birth = yes
+	}	
+	10470.1.1 = {
+		death = yes
+	}
+}
+168771 = {
+	name = "Widimir"
+	dynasty = 9617
+	religion = "norse_pagan"
+	culture = "german"
+	father = 168769
+	10427.1.1 = {
+		birth = yes
+	}	
+	10473.1.1 = {
+		death = yes
+	}
+}
+168772 = {
+	name = "Widimir"
+	dynasty = 9617
+	religion = "catholic"
+	culture = "german"
+	father = 168771
+	10450.1.1 = {
+		birth = yes
+	}	
+	10500.1.1 = {
+		death = yes
+	}
+}
+168773 = {
+	name = "Thiudimir"
+	dynasty = 9617
+	religion = "norse_pagan"
+	culture = "german"
+	father = 168769
+	10429.1.1 = {
+		birth = yes
+	}	
+	10475.1.1 = {
+		death = yes
+	}
+}
+168774 = {
+	name = "Theodis"
+	dynasty = 9617
+	religion = "catholic"
+	culture = "german"
+	father = 168773
+	10450.1.1 = {
+		birth = yes
+	}	
+	10481.1.1 = {
+		death = yes
+	}
+}
+168775 = {
+	name = "Theoderich"
+	dynasty = 9617
+	religion = "catholic"
+	culture = "german"
+	father = 168773
+	10454.1.1 = {
+		birth = yes
+	}
+	10493.1.1 = {
+		add_spouse = 168783
+	}
+	10520.1.1 = {
+		give_nickname = nick_the_great
+	}
+	10526.8.30 = {
+		death = yes
+	}
+}
+168776 = {
+	name = "Theodimund"
+	dynasty = 9617
+	religion = "catholic"
+	culture = "german"
+	father = 168773
+	10451.1.1 = {
+		birth = yes
+	}	
+	10479.1.1 = {
+		death = yes
+	}
+}
+168777 = {
+	name = "Amalfrida"
+	female = yes
+	dynasty = 9617
+	religion = "catholic"
+	culture = "german"
+	father = 168773
+	10455.1.1 = {
+		birth = yes
+	}
+	10500.1.1 = {
+		add_spouse = 168803
+	}
+	10525.1.1 = {
+		death = yes
+	}
+}
+168809 = {
+	name="Theudigotha"
+	dynasty=9617
+	female=yes
+	religion="catholic"
+	culture="german"
+	trait="bastard"
+	father=168775
+	10475.1.1 = {
+		birth=yes
+	}
+	10505.1.1 = {
+		death=yes
+	}
+}
+168778 = {
+	name = "Theodahad"
+	dynasty = 9617
+	religion = "catholic"
+	culture = "german"
+	mother = 168777
+	10480.1.1 = {
+		birth = yes
+	}	
+	10536.12.1 = {
+		death = yes
+	}
+}
+168779 = {
+	name = "Amalaberga"
+	female = yes
+	dynasty = 9617
+	religion = "catholic"
+	culture = "german"
+	mother = 168777
+	10495.1.1 = {
+		birth = yes
+	}	
+	10540.1.1 = {
+		death = yes
+	}
+}
+168780 = {
+	name = "Theudigisel"
+	dynasty = 9617
+	religion = "catholic"
+	culture = "german"
+	father = 168778
+	10510.1.1 = {
+		birth = yes
+	}	
+	10549.1.1 = {
+		death = yes
+	}
+}
+168781 = {
+	name="Theodenantha"
+	female=yes
+	dynasty=9617
+	religion="catholic"
+	culture="german"
+	father=168778
+	10512.1.1 = {
+		birth=yes
+	}	
+	10550.1.1 = {
+		death=yes
+	}
+}
+168782 = {
+	name="Amalafrid"
+	dynasty=9617
+	religion="catholic"
+	culture="german"
+	mother=168779
+	10511.1.1 = {
+		birth=yes
+	}	
+	10540.1.1 = {
+		death=yes
+	}
+}
+## End of Amaling goths
+## Start of various goths
+7761 = {
+	name = "Athalaric"
+	religion = "catholic"
+	culture = "german"
+	trait = diligent
+	trait = calm
+	trait = zealous
+	trait = education_diplomacy_3
+	10470.1.1 = {
+		birth = "10470.1.1"
+	}
+	10530.1.1 = {
+		name = "Bonifatius"
+	# AKA: Athalaric
+	}
+	10532.1.1 = {
+		death = "10532.1.1"
+	}
+}
+
+214107={
+	name="Vitiges"
+	religion="catholic"
+	culture="german"
+	10500.1.1={
+		birth=yes
+	}
+	10536.1.1={
+		add_spouse = 168789
+	}
+	10540.1.1={
+		death=yes
+	}
+}
+## End of various goths
+## Start of Hasding vandals
+168793 = {
+	name="Godegisel"
+	dynasty=9618
+	religion="norse_pagan"
+	culture="german"
+	10350.1.1 = {
+		birth=yes
+	}	
+	10406.1.1 = {
+		death=yes
+	}
+}
+168794 = {
+	name="Gunderich"
+	dynasty=9618
+	religion="norse_pagan"
+	culture="german"
+	father=168793
+	10370.1.1 = {
+		birth=yes
+	}
+	10410.1.1 = {
+		religion=catholic
+	}
+	10428.1.1 = {
+		death=yes
+	}
+}
+168795 = {
+	name="Gelimer"
+	dynasty=9618
+	religion="catholic"
+	culture="german"
+	father=168794
+	10425.1.1 = {
+		birth=yes
+	}	
+	10435.1.1 = {
+		death=yes
+	}
+}
+168796 = {
+	name="Geiserich"
+	dynasty=9618
+	religion="norse_pagan"
+	culture="german"
+	trait= legitimized_bastard
+	father=168793
+	10389.1.1 = {
+		birth=yes
+	}
+	10410.1.1 = {
+		religion=catholic
+	}
+	10477.1.25 = {
+		death=yes
+	}
+}
+168797 = {
+	name="Hunerich"
+	dynasty=9618
+	religion="catholic"
+	culture="german"
+	father=168796
+	10420.1.1 = {
+		birth=yes
+	}
+	10455.1.1 = {
+		add_spouse=168799
+	}
+	10484.1.1 = {
+		death=yes
+	}
+}
+168798 = {
+	name="Hilderich"
+	dynasty=9618
+	religion="catholic"
+	culture="german"
+	father=168797
+	mother=168799
+	10480.1.1 = {
+		birth=yes
+	}	
+	10534.1.1 = {
+		death=yes
+	}
+}
+168800 = {
+	name="Theoderich"
+	dynasty=9618
+	religion="catholic"
+	culture="german"
+	father=168796
+	10421.1.1 = {
+		birth=yes
+	}	
+	10451.1.1 = {
+		death=yes
+	}
+}
+168801 = {
+	name="Geiso"
+	dynasty=9618
+	religion="catholic"
+	culture="german"
+	father=168796
+	10422.1.1 = {
+		birth=yes
+	}	
+	10484.1.1 = {
+		death=yes
+	}
+}
+168803 = {
+	name="Thrasamund"
+	dynasty=9618
+	religion="catholic"
+	culture="german"
+	father=168801
+	10462.1.1 = {
+		birth=yes
+	}	
+	10523.1.1 = {
+		death=yes
+	}
+}
+168804 = {
+	name="Gelaris"
+	dynasty=9618
+	religion="catholic"
+	culture="german"
+	father=168801
+	10463.1.1 = {
+		birth=yes
+	}	
+	10520.1.1 = {
+		death=yes
+	}
+}
+168805 = {
+	name="Gelimer"
+	dynasty=9618
+	religion="catholic"
+	culture="german"
+	father=168804
+	10490.1.1 = {
+		birth=yes
+	}	
+	10533.1.1 = {
+		death=yes
+	}
+}
+168806 = {
+	name="Tzazo"
+	dynasty=9618
+	religion="catholic"
+	culture="german"
+	father=168804
+	10492.1.1 = {
+		birth=yes
+	}	
+	10535.1.1 = {
+		death=yes
+	}
+}
+168807 = {
+	name="Gunthimer"
+	dynasty=9618
+	religion="catholic"
+	culture="german"
+	father=168804
+	10493.1.1 = {
+		birth=yes
+	}	
+	10530.1.1 = {
+		death=yes
+	}
+}
+168808 = {
+	name="Gibamund"
+	dynasty=9618
+	religion="catholic"
+	culture="german"
+	father=168807
+	10510.1.1 = {
+		birth=yes
+	}	
+	10540.1.1 = {
+		death=yes
+	}
+}
+## End of Hasding vandals

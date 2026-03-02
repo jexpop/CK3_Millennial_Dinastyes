@@ -1,0 +1,482 @@
+k_yugra = {
+	10867.1.1 = { change_development_level = 0 }
+	11066.1.1 = { change_development_level = 0 }
+	11178.1.1 = { change_development_level = 0 }
+}
+
+c_tyumen = {
+	#867
+	10838.4.16 = {
+		liege = 0
+		holder = 302521	#ficitonal Arnaz Tyumeni
+		government = tribal_government
+	}
+	10858.11.15 = {
+		holder = 302522	#ficitonal Osh Tyumeni
+	}
+	10908.8.12 = {
+		holder = 302523	#ficitonal Oshmar Tyumeni
+	}
+	
+	#1066
+	11065.9.1 = {
+		holder = 302524	#ficitonal Onika Tyumeni
+	}
+	11084.11.23 = {
+		holder = 302525	#ficitonal Aymort Tyumeni
+	}
+	11131.10.2 = {
+		holder = 302526	#ficitonal Malyy Tyumeni
+	}
+	11145.12.29 = {
+		holder = 302527	#ficitonal Virdyan Tyumeni
+	}
+	11174.8.16 = {
+		holder = 302528	#ficitonal Vokan Tyumeni
+	}
+	11204.5.4 = {
+		holder = 302529	#ficitonal Uchva Tyumeni
+	}
+}
+
+
+c_laia = {
+	#867
+	10838.4.16 = {
+		liege = 0
+		holder = 302521	#ficitonal Arnaz Tyumeni
+		government = tribal_government
+	}
+	10858.11.15 = {
+		holder = 302522	#ficitonal Osh Tyumeni
+	}
+	10908.8.12 = {
+		holder = 302523	#ficitonal Oshmar Tyumeni
+	}
+	
+	#1066
+	11065.9.1 = {
+		holder = 302524	#ficitonal Onika Tyumeni
+	}
+	11084.11.23 = {
+		holder = 302525	#ficitonal Aymort Tyumeni
+	}
+	11131.10.2 = {
+		holder = 302526	#ficitonal Malyy Tyumeni
+	}
+	11145.12.29 = {
+		holder = 302527	#ficitonal Virdyan Tyumeni
+	}
+	11174.8.16 = {
+		holder = 302528	#ficitonal Vokan Tyumeni
+	}
+	11204.5.4 = {
+		holder = 302529	#ficitonal Uchva Tyumeni
+	}
+}
+
+
+c_tabary = {
+	#867
+	10840.6.11 = {
+		liege = 0
+		holder = 302509	#fictional Arti Tabaryan
+		government = tribal_government
+	}
+	10845.9.13 = {
+		holder = 302510	#fictional Yalgava Tabaryan
+	}
+	10869.6.16 = {
+		holder = 302511	#fictional Vergava Tabaryan
+	}
+	
+	#1066
+	11065.5.21 = {
+		holder = 302514	#fictional Sarin Tabaryan
+	}
+	11101.8.15 = {
+		holder = 302516	#fictional Nalka Tabaryan
+	}
+	11123.9.5 = {
+		holder = 302517	#fictional Sarin Tabaryan
+	}
+	11131.12.18 = {
+		holder = 302518	#fictional Nalka Tabaryan
+	}
+	11163.6.30 = {
+		holder = 302519	#fictional Chuga Tabaryan
+	}
+	11196.7.19 = {
+		holder = 302520	#fictional Nalka Tabaryan
+	}
+}
+
+
+c_neramkary = {
+	#867
+	10840.6.11 = {
+		liege = 0
+		holder = 302509	#fictional Arti Tabaryan
+		government = tribal_government
+	}
+	10845.9.13 = {
+		holder = 302510	#fictional Yalgava Tabaryan
+	}
+	10869.6.16 = {
+		holder = 302511	#fictional Vergava Tabaryan
+	}
+	
+	#1066
+	11065.5.21 = {
+		holder = 302514	#fictional Sarin Tabaryan
+	}
+	11101.8.15 = {
+		holder = 302516	#fictional Nalka Tabaryan
+	}
+	11123.9.5 = {
+		holder = 302517	#fictional Sarin Tabaryan
+	}
+	11131.12.18 = {
+		holder = 302518	#fictional Nalka Tabaryan
+	}
+	11163.6.30 = {
+		holder = 302519	#fictional Chuga Tabaryan
+	}
+	11196.7.19 = {
+		holder = 302520	#fictional Nalka Tabaryan
+	}
+}
+
+
+d_konda = {
+	#867
+	10839.7.15 = {
+		liege = 0
+		holder = 302483	#fictional Syrka Kondair
+		government = tribal_government
+	}
+	10869.8.20 = {
+		holder = 302486	#fictional Viryay Kondair
+	}
+	
+	#1066
+	11041.10.20 = {
+		holder = 302488	#fictional Uchva Kondair
+	}
+	11064.4.21 = {
+		holder = 302491	#fictional Koksha Kondair
+	}
+	11095.5.10 = {
+		holder = 302494	#fictional Spira Kondair
+	}
+	11122.8.11 = {
+		holder = 302495	#fictional Koksha Kondair
+	}
+	11155.7.21 = {
+		holder = 302496	#fictional Spira Kondair
+	}
+	11165.5.13 = {
+		holder = 302497	#fictional Oshypel Kondair
+	}
+}
+
+
+c_tselym_dalyn = {
+	#867
+	10839.7.15 = {
+		liege = d_konda
+		holder = 302483	#fictional Syrka Kondair
+		government = tribal_government
+	}
+	10869.8.20 = {
+		holder = 302486	#fictional Viryay Kondair
+	}
+	
+	#1066
+	11041.10.20 = {
+		holder = 302488	#fictional Uchva Kondair
+	}
+	11064.4.21 = {
+		holder = 302491	#fictional Koksha Kondair
+	}
+	11095.5.10 = {
+		holder = 302494	#fictional Spira Kondair
+	}
+	11122.8.11 = {
+		holder = 302495	#fictional Koksha Kondair
+	}
+	11155.7.21 = {
+		holder = 302496	#fictional Spira Kondair
+	}
+	11165.5.13 = {
+		holder = 302497	#fictional Oshypel Kondair
+	}
+}
+
+
+c_kharam-vosh = {
+	#867
+	10839.7.15 = {
+		liege = d_konda
+		holder = 302483	#fictional Syrka Kondair
+		government = tribal_government
+	}
+	10869.8.20 = {
+		holder = 302486	#fictional Viryay Kondair
+	}
+	
+	#1066
+	11041.10.20 = {
+		holder = 302488	#fictional Uchva Kondair
+	}
+	11064.4.21 = {
+		holder = 302491	#fictional Koksha Kondair
+	}
+	11095.5.10 = {
+		holder = 302494	#fictional Spira Kondair
+	}
+	11122.8.11 = {
+		holder = 302495	#fictional Koksha Kondair
+	}
+	11155.7.21 = {
+		holder = 302496	#fictional Spira Kondair
+	}
+	11165.5.13 = {
+		holder = 302497	#fictional Oshypel Kondair
+	}
+}
+
+
+c_kartauzh = {
+	#867
+	10839.7.15 = {
+		liege = d_konda
+		holder = 302483	#fictional Syrka Kondair
+		government = tribal_government
+	}
+	10869.8.20 = {
+		holder = 302486	#fictional Viryay Kondair
+	}
+	
+	#1066
+	11041.10.20 = {
+		holder = 302488	#fictional Uchva Kondair
+	}
+	11064.4.21 = {
+		holder = 302491	#fictional Koksha Kondair
+	}
+	11095.5.10 = {
+		holder = 302494	#fictional Spira Kondair
+	}
+	11122.8.11 = {
+		holder = 302495	#fictional Koksha Kondair
+	}
+	11155.7.21 = {
+		holder = 302496	#fictional Spira Kondair
+	}
+	11165.5.13 = {
+		holder = 302497	#fictional Oshypel Kondair
+	}
+}
+
+
+c_pelym = {
+	#867
+	10850.3.16 = {
+		liege = 0
+		holder = 302498	#fictional Odeg Pelymis
+		government = tribal_government
+	}
+	10870.8.14 = {
+		holder = 302499	#fictional Kezhapa Pelymis
+	}
+	10882.4.30 = {
+		holder = 302500	#fictional Shypicha Pelymis
+	}
+	
+	#1066
+	11047.5.25 = {
+		holder = 302501	#fictional Kuoz Pelymis
+	}
+	11064.7.18 = {
+		holder = 302502	#fictional Zyryan Pelymis
+	}
+	11069.4.4 = {
+		holder = 302503	#fictional Zhebeg Pelymis
+	}
+	11079.5.19 = {
+		holder = 302502	#fictional Zyryan Pelymis
+	}
+	11083.9.24 = {
+		holder = 302503	#fictional Zhebeg Pelymis
+	}
+	11086.2.15 = {
+		holder = 302504	#fictional Rateg Pelymis
+	}
+	11086.7.23 = {
+		holder = 302503	#fictional Zhebeg Pelymis
+	}
+	11090.8.17 = {
+		holder = 302504	#fictional Rateg Pelymis
+	}
+	11127.4.9 = {
+		holder = 302505	#fictional Vokan Pelymis
+	}
+	11146.10.15 = {
+		holder = 302506	#fictional Meltsayka Pelymis
+	}
+	11166.11.3 = {
+		holder = 302507	#fictional Chuga Pelymis
+	}
+}
+
+
+c_koshuki = {
+	#867
+	10850.3.16 = {
+		liege = 0
+		holder = 302498	#fictional Odeg Pelymis
+		government = tribal_government
+	}
+	10870.8.14 = {
+		holder = 302499	#fictional Kezhapa Pelymis
+	}
+	10882.4.30 = {
+		holder = 302500	#fictional Shypicha Pelymis
+	}
+	
+	#1066
+	11047.5.25 = {
+		holder = 302501	#fictional Kuoz Pelymis
+	}
+	11064.7.18 = {
+		holder = 302502	#fictional Zyryan Pelymis
+	}
+	11069.4.4 = {
+		holder = 302503	#fictional Zhebeg Pelymis
+	}
+	11079.5.19 = {
+		holder = 302502	#fictional Zyryan Pelymis
+	}
+	11083.9.24 = {
+		holder = 302503	#fictional Zhebeg Pelymis
+	}
+	11086.2.15 = {
+		holder = 302504	#fictional Rateg Pelymis
+	}
+	11086.7.23 = {
+		holder = 302503	#fictional Zhebeg Pelymis
+	}
+	11090.8.17 = {
+		holder = 302504	#fictional Rateg Pelymis
+	}
+	11127.4.9 = {
+		holder = 302505	#fictional Vokan Pelymis
+	}
+	11146.10.15 = {
+		holder = 302506	#fictional Meltsayka Pelymis
+	}
+	11166.11.3 = {
+		holder = 302507	#fictional Chuga Pelymis
+	}
+}
+
+
+c_kazym = {
+	#867
+	10848.1.2 = {
+		liege = 0
+		holder = 302451	#fictional Azeg Kazymid
+		government = tribal_government
+	}
+	10880.1.1 = {
+		holder = 302452	#fictional Sektev Kazymid
+	}
+	
+	#1066
+	11055.1.2 = {
+		holder = 302453	#fictional Virdyan Kazymid
+	}
+	11082.7.16 = {
+		holder = 302454	#fictional Pyera Kazymid
+	}
+	11114.1.18 = {
+		holder = 302455	#fictional Rayda Kazymid
+	}
+	11131.1.14 = {
+		holder = 302456	#fictional Vechkas Kazymid
+	}
+	11168.5.24 = {
+		holder = 302457	#fictional Pyera Kazymid
+	}
+	11189.3.22 = {
+		holder = 302458	#fictional Kezhay Kazymid
+	}
+}
+
+
+c_sosva = {
+	#867
+	10863.1.2 = {
+		liege = 0
+		holder = 302443	#fictional Hulyen Sosva
+		government = tribal_government
+	}
+	10895.5.15 = {
+		holder = 302444	#fictional Rateg Sosva
+	}
+	
+	#1066
+	11062.1.2 = {
+		holder = 302445	#fictional Mosheg Sosva
+	}
+	11090.4.7 = {
+		holder = 302446	#fictional Viryas Sosva
+	}
+	11119.11.20 = {
+		holder = 302447	#fictional Mosheg Sosva
+	}
+	11142.5.7 = {
+		holder = 302448	#fictional Ozhmeg Sosva
+	}
+	11175.4.9 = {
+		holder = 302449	#fictional Malyy Sosva
+	}
+	11207.7.29 = {
+		holder = 302450	#fictional Ozhmeg Sosva
+	}
+}
+
+
+c_koda = {
+	#867
+	10866.1.2 = {
+		liege = 0
+		holder = 302459	#fictional Deryab Kodaar
+		government = tribal_government
+	}
+	10885.11.28 = {
+		holder = 302460	#fictional Biur Kodaar
+	}
+	
+	#1066
+	11065.1.2 = {
+		holder = 302461	#fictional Ylvan Kodaar
+	}
+	11104.8.25 = {
+		holder = 302462	#fictional Lysko Kodaar
+	}
+	11122.9.15 = {
+		holder = 302463	#fictional Nuyat Kodaar
+	}
+	11159.4.30 = {
+		holder = 302464	#fictional Onika Kodaar
+	}
+	11175.1.11 = {
+		holder = 302465	#fictional Nuyanza Kodaar
+	}
+	11207.2.22 = {
+		holder = 302466	#fictional Irter Kodaar
+	}
+}
+

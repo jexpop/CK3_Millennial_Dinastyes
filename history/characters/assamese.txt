@@ -1,0 +1,1095 @@
+﻿190054 = {
+	name = "Pushyavarman"
+	dynasty = 1044003
+	religion = "advaitism"
+	culture = "assamese"
+	10324.1.1 = {
+		birth = yes
+	}
+	10374.1.1 = {
+		death = yes
+	}
+}
+190055 = {
+	name = "Samudravarman"
+	dynasty = 1044003
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190054
+	10346.1.1 = {
+		birth = yes
+	}
+	10398.1.1 = {
+		death = yes
+	}
+}
+190056 = {
+	name = "Balavarman"
+	dynasty = 1044003
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190055
+	10380.1.1 = {
+		birth = yes
+	}
+	10422.1.1 = {
+		death = yes
+	}
+}
+190057 = {
+	name = "Kalyanavarman"
+	dynasty = 1044003
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190056
+	10402.1.1 = {
+		birth = yes
+	}
+	10446.1.1 = {
+		death = yes
+	}
+}
+190058 = {
+	name = "Ganapativarman"
+	dynasty = 1044003
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190057
+	10422.1.1 = {
+		birth = yes
+	}
+	10470.1.1 = {
+		death = yes
+	}
+}
+190059 = {
+	name = "Mahendravarman"
+	dynasty = 1044003
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190058
+	10444.1.1 = {
+		birth = yes
+	}
+	10494.1.1 = {
+		death = yes
+	}
+}
+190060 = {
+	name = "Narayanavarman"
+	dynasty = 1044003
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190059
+	10467.1.1 = {
+		birth = yes
+	}
+	10518.1.1 = {
+		death = yes
+	}
+}
+190061 = {
+	name = "Bhutivarman"
+	dynasty = 1044003
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190060
+	10489.1.1 = {
+		birth = yes
+	}
+	10542.1.1 = {
+		death = yes
+	}
+}
+190062 = {
+	name = "Chandramukhavarman"
+	dynasty = 1044003
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190061
+	10520.1.1 = {
+		birth = yes
+	}
+	10566.1.1 = {
+		death = yes
+	}
+}
+190063 = {
+	name = "Sthitavarman"
+	dynasty = 1044003
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190062
+	10543.1.1 = {
+		birth = yes
+	}
+	10590.1.1 = {
+		death = yes
+	}
+}
+190064 = {
+	name = "Susthitavarman"
+	dynasty = 1044003
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190063
+	10562.1.1 = {
+		birth = yes
+	}
+	10595.1.1 = {
+		death = yes
+	}
+}
+190065 = {
+	name = "Supratisthitavarman"
+	dynasty = 1044003
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190064
+	10586.1.1 = {
+		birth = yes
+	}
+	10600.1.1 = {
+		death = yes
+	}
+}
+190066 = {
+	name = "Bhaskaravarman"
+	dynasty = 1044003
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190064
+	10586.1.1 = {
+		birth = yes
+	}
+	10650.1.1 = {
+		death = yes
+	}
+}
+
+#Mlecchas (same deal with culture and naming conventions, also linking in missing characters that I've added)
+190039 = {
+	name = "Salasthamba"
+	dynasty = 1043002
+	religion = "advaitism"
+	culture = "assamese"
+	10600.1.1 = {
+		birth = yes
+	}
+	10672.1.1 = {
+		death = yes
+	}
+}
+190040 = {
+	name = "Vijayasthamba"
+	dynasty = 1043002
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190039
+	10620.1.1 = {
+		birth = yes
+	}
+	10685.1.1 = {
+		death = yes
+	}
+}
+
+190041 = {
+	name = "Harshadeva"
+	dynasty = 1043002
+	religion = "advaitism"
+	culture = "assamese"
+	father = 191559
+	10700.1.1 = {
+		birth = yes
+	}
+	10750.1.1 = {
+		death = yes
+	}
+}
+190042 = {
+	name = "Balavarman"
+	dynasty = 1043002
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190041
+	10725.1.1 = {
+		birth = yes
+	}
+	10787.1.1 = {
+		death = yes
+	}
+}
+190043 = {
+	name = "Salambha"
+	dynasty = 1043002
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190042
+	10747.1.1 = {
+		birth = yes
+	}
+	10790.1.1 = {
+		death = yes
+	}
+}
+190044 = {
+	name = "Harjjaravarman"
+	dynasty = 1043002
+	religion = "advaitism"
+	culture = "assamese"
+	father = 191560
+	10790.1.1 = {
+		birth = yes
+	}
+	10832.1.1 = {
+		death = yes
+	}
+}
+190045 = {
+	name = "Vanamalavarmadeva"
+	dynasty = 1043002
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190044
+	10810.1.1 = {
+		birth = yes
+	}
+	10855.1.1 = {
+		death = yes
+	}
+}
+190046 = {
+	name = "Jayamala"	#Also known as Virabahu
+	dynasty = 1043002
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190045
+	10828.1.1 = {
+		birth = yes
+	}
+	10860.1.1 = {
+		death = yes
+	}
+}
+190047 = {
+	name = "Balavarman"
+	dynasty = 1043002
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190046
+	10844.1.1 = {
+		birth = yes
+	}
+	10890.1.1 = {
+		death = yes
+	}
+}
+190048 = {
+	name = "Tyagasimha"
+	dynasty = 1043002
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190047
+	10870.1.1 = {
+		birth = yes
+	}
+	10900.1.1 = {
+		death = yes
+	}
+}
+
+190075 = {
+	name = "Brahmapala"
+	dynasty = 1044000
+	religion = "advaitism"
+	culture = "assamese"
+	father = 190114
+	10866.1.1 = {
+		birth = yes
+	}
+	10902.1.1 = {
+		add_spouse = 190035 #Kula Devi
+	}
+	10920.1.1 = {
+		death = yes
+	}
+}
+190076 = {
+	name = "Ratnapala"
+	dynasty = 1044000
+	religion = "shaivism"
+	culture = "assamese"
+	father = 190075
+	mother = 190035 #Kula Devi
+	10904.1.1 = {
+		birth = yes
+	}
+	10921.1.1 = {
+		add_spouse = 190036 #Durlabha
+	}
+	10960.1.1 = {
+		death = yes
+	}
+}
+190077 = {
+	name = "Puranderapala"
+	dynasty = 1044000
+	religion = "shaivism"
+	culture = "assamese"
+	father = 190076
+	mother = 190036 #Durlabha
+	10925.1.1 = {
+		birth = yes
+	}
+	10957.1.1 = {
+		death = yes
+	}
+}
+190078 = {
+	name = "Indrapala"
+	dynasty = 1044000
+	religion = "shaivism"
+	culture = "assamese"
+	father = 190077
+	10947.1.1 = {
+		birth = yes
+	}
+	10967.1.1 = {
+		add_spouse = 190037 #Rajya Devi
+	}
+	10990.1.1 = {
+		death = yes
+	}
+}
+190079 = {
+	name = "Gopala"
+	dynasty = 1044000
+	religion = "shaivism"
+	culture = "assamese"
+	father = 190078
+	mother = 190037
+	10969.1.1 = {
+		birth = yes
+	}
+	10990.1.1 = {
+		add_spouse = 190038 #Nayana
+	}
+	11015.1.1 = {
+		death = yes
+	}
+}
+190080 = {
+	name = "Harshapala"
+	dynasty = 1044000
+	religion = "shaivism"
+	culture = "assamese"
+	father = 190079
+	mother = 190038
+	10994.1.1 = {
+		birth = yes
+	}
+	11035.1.1 = {
+		death = yes
+	}
+}
+190081 = {
+	name = "Dharmapala"
+	dynasty = 1044000
+	religion = "shaivism"
+	culture = "assamese"
+	father = 190080
+	11016.1.1 = {
+		birth = yes
+	}
+	11060.1.1 = {
+		death = yes
+	}
+}
+190082 = {
+	name = "Jayapala"
+	dynasty = 1044000
+	religion = "shaivism"
+	culture = "assamese"
+	father = 190081
+	11052.1.1 = {
+		birth = yes
+	}
+	11100.1.1 = {
+		death = yes
+	}
+}
+191557 = {
+	name = "Palakastambha"
+	dynasty = 1043002
+	religion = "shaivism"
+	culture = "assamese"
+	father = 190040
+	10640.1.1 = {
+		birth = yes
+	}
+	10690.1.1 = {
+		death = yes
+	}
+}
+
+191558 = {
+	name = "Kumarastambha"
+	dynasty = 1043002
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191557
+	10668.1.1 = {
+		birth = yes
+	}
+	10700.1.1 = {
+		death = yes
+	}
+}
+
+191559 = {
+	name = "Vajradeva"
+	dynasty = 1043002
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191558
+	10684.1.1 = {
+		birth = yes
+	}
+	10710.1.1 = {
+		death = yes
+	}
+}
+
+191560 = {
+	name = "Arathi"
+	dynasty = 1043002
+	religion = "shaivism"
+	culture = "assamese"
+	father = 190043
+	10770.1.1 = {
+		birth = yes
+	}
+	10820.1.1 = {
+		death = yes
+	}
+}
+
+191561 = {
+	name = "Timgyadeva"
+	dynasty = 1044004	#Timgyadeva
+	religion = "vajrayana"
+	culture = "assamese"
+	11050.1.1 = {
+		birth = yes
+	}
+	11126.1.1 = {
+		death = yes
+	}
+}
+
+191562 = {
+	name = "Vaidyadeva"
+	dynasty = 1044005	#Vaidyadeva
+	religion = "vajrayana"
+	culture = "assamese"
+	11070.1.1 = {
+		birth = yes
+	}
+	11145.1.1 = {
+		death = yes
+	}
+}
+
+191563 = {
+	name = "Rayarideva"
+	dynasty = 1044005	#Vaidyadeva
+	religion = "vajrayana"
+	culture = "assamese"
+	father = 191562
+	11110.1.1 = {
+		birth = yes
+	}
+	11160.1.1 = {
+		death = yes
+	}
+}
+
+191564 = {
+	name = "Udayakarana"
+	dynasty = 1044005	#Vaidyadeva
+	religion = "vajrayana"
+	culture = "assamese"
+	father = 191563
+	11140.1.1 = {
+		birth = yes
+	}
+	11175.1.1 = {
+		death = yes
+	}
+}
+
+191565 = {
+	name = "Vallabhadeva"
+	dynasty = 1044005	#Vaidyadeva
+	religion = "vajrayana"
+	culture = "assamese"
+	stewardship = 8
+	father = 191564
+	11158.1.1 = {
+		birth = yes
+	}
+	11195.1.1 = {
+		death = yes
+	}
+}
+
+191566 = {
+	name = "Vishvasundaradeva"
+	dynasty = 1044005	#Vaidyadeva
+	religion = "vajrayana"
+	culture = "assamese"
+	father = 191565
+	11178.1.1 = {
+		birth = yes
+	}
+	11228.1.1 = {
+		death = yes
+	}
+}
+
+191567 = {
+	name = "Sukhapa"
+	dynasty = 1044361	#Ahom
+	religion = "shaivism"
+	culture = "assamese"
+	11190.1.1 = {
+		birth = yes
+	}
+	11268.1.1 = {
+		death = yes
+	}
+}
+
+191568 = {
+	name = "Sutepha"
+	dynasty = 1044361	#Ahom
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191567
+	11210.1.1 = {
+		birth = yes
+	}
+	11281.1.1 = {
+		death = yes
+	}
+}
+
+191569 = {
+	name = "Subinpha"
+	dynasty = 1044361	#Ahom
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191568
+	11230.1.1 = {
+		birth = yes
+	}
+	11293.1.1 = {
+		death = yes
+	}
+}
+
+191570 = {
+	name = "Sukhangpha"
+	dynasty = 1044361	#Ahom
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191569
+	11250.1.1 = {
+		birth = yes
+	}
+	11332.1.1 = {
+		death = yes
+	}
+}
+
+191571 = {
+	name = "Suharampha"
+	dynasty = 1044361	#Ahom
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191570
+	11270.1.1 = {
+		birth = yes
+	}
+	11369.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+
+191572 = {
+	name = "Sutupha"
+	dynasty = 1044361	#Ahom
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191571
+	11357.1.1 = {
+		birth = yes
+	}
+	11376.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+
+191573 = {
+	name = "Tyaao_Khamti"
+	dynasty = 1044361	#Ahom
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191572
+	11373.1.1 = {
+		birth = yes
+	}
+	11389.1.1 = {
+		death = {
+			death_reason = death_murder
+		}
+	}
+}
+
+
+191574 = {
+	name = "Prithu"
+	dynasty = 1044362 #Khen
+	religion = "shaivism"
+	culture = "assamese"
+	11150.1.1 = {
+		birth = yes
+	}
+	11228.1.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+
+191575 = {
+	name = "Sandhya"
+	dynasty = 1044362 #Khen
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191574
+	11200.1.1 = {
+		birth = yes
+	}
+	11250.1.1 = {
+		death = yes
+	}
+}
+
+191576 = {
+	name = "Sindhurai"
+	dynasty = 1044362 #Khen
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191575
+	11220.1.1 = {
+		birth = yes
+	}
+	11285.1.1 = {
+		death = yes
+	}
+}
+
+191577 = {
+	name = "Rupnarayan"
+	dynasty = 1044362 #Khen
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191576
+	11240.1.1 = {
+		birth = yes
+	}
+	11300.1.1 = {
+		death = yes
+	}
+}
+
+191578 = {
+	name = "Singhdhwaj"
+	dynasty = 1044362 #Khen
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191577
+	11260.1.1 = {
+		birth = yes
+	}
+	11305.1.1 = {
+		death = yes
+	}
+}
+
+191579 = {
+	name = "Pratapdhwaj"
+	dynasty = 1044362 #Khen
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191578
+	11280.1.1 = {
+		birth = yes
+	}
+	11325.1.1 = {
+		death = yes
+	}
+}
+
+191580 = {
+	name = "Dharmanarayan"
+	dynasty = 1044362 #Khen
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191579
+	11296.1.1 = {
+		birth = yes
+	}
+	11330.1.1 = {
+		death = yes
+	}
+}
+
+191581 = {
+	name = "Durlabhnarayan"
+	dynasty = 1044362 #Khen
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191580
+	11312.1.1 = {
+		birth = yes
+	}
+	11350.1.1 = {
+		death = yes
+	}
+}
+
+191582 = {
+	name = "Indranarayan"
+	dynasty = 1044362 #Khen
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191580
+	11330.1.1 = {
+		birth = yes
+	}
+	11365.1.1 = {
+		death = yes
+	}
+}
+
+191583 = {
+	name = "Birpal"
+	dynasty = 1044363#Sutiya
+	religion = "shaivism"
+	culture = "assamese"
+	11150.1.1 = {
+		birth = yes
+	}
+	11220.1.1 = {
+		death = yes
+	}
+}
+
+191584 = {
+	name = "Gaurinarayan"
+	dynasty = 1044363#Sutiya
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191583
+	11190.1.1 = {
+		birth = yes
+	}
+	11280.1.1 = {
+		death = yes
+	}
+}
+
+191585 = {
+	name = "Nityapal"	#Fictional, name borrowed from the last king of this dynasty in 1522
+	dynasty = 1044363#Sutiya
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191584
+	11220.1.1 = {
+		birth = yes
+	}
+	11310.1.1 = {
+		death = yes
+	}
+}
+
+191586 = {
+	name = "Dharmadhwajpal"	#This is supposed to be the name of the 8th king, not the third, of this line
+	dynasty = 1044363#Sutiya
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191585
+	11250.1.1 = {
+		birth = yes
+	}
+	11340.1.1 = {
+		death = yes
+	}
+}
+
+191587 = {
+	name = "Virochana"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	10800.1.1 = {
+		birth = yes
+	}
+	10885.1.1 = {
+		death = yes
+	}
+}
+
+191588 = {
+	name = "Vorahi"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191587
+	10840.1.1 = {
+		birth = yes
+	}
+	10925.1.1 = {
+		death = yes
+	}
+}
+
+191589 = {
+	name = "Prasanto"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191588
+	10909.1.1 = {
+		birth = yes
+	}
+	11008.1.1 = {
+		death = yes
+	}
+}
+
+191590 = {
+	name = "Uditya"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191589
+	10960.1.1 = {
+		birth = yes
+	}
+	11040.1.1 = {
+		death = yes
+	}
+}
+
+191591 = {
+	name = "Prabakhar"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191590
+	11020.1.1 = {
+		birth = yes
+	}
+	11070.1.1 = {
+		death = yes
+	}
+}
+
+191592 = {
+	name = "Korpoordhwaj"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191591
+	11050.1.1 = {
+		birth = yes
+	}
+	11100.1.1 = {
+		death = yes
+	}
+}
+
+191593 = {
+	name = "Giridhar"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191592
+	11070.1.1 = {
+		birth = yes
+	}
+	11125.1.1 = {
+		death = yes
+	}
+}
+
+191594 = {
+	name = "Beeradhwaj"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191593
+	11090.1.1 = {
+		birth = yes
+	}
+	11155.1.1 = {
+		death = yes
+	}
+}
+
+191595 = {
+	name = "Surajit"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191594
+	11110.1.1 = {
+		birth = yes
+	}
+	11180.1.1 = {
+		death = yes
+	}
+}
+
+191596 = {
+	name = "Ohak"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191595
+	11130.1.1 = {
+		birth = yes
+	}
+	11210.1.1 = {
+		death = yes
+	}
+}
+
+191597 = {
+	name = "Makardhwaj_Narayan"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191596
+	11190.1.1 = {
+		birth = yes
+	}
+	11286.1.1 = {
+		death = yes
+	}
+}
+
+191598 = {
+	name = "Bhopal"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191597
+	11240.1.1 = {
+		birth = yes
+	}
+	11316.1.1 = {
+		death = yes
+	}
+}
+
+191599 = {
+	name = "Purandar"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191598
+	11260.1.1 = {
+		birth = yes
+	}
+	11336.1.1 = {
+		death = yes
+	}
+}
+
+191600 = {
+	name = "Bicharpatiha"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191599
+	11290.1.1 = {
+		birth = yes
+	}
+	11386.1.1 = {
+		death = yes
+	}
+}
+
+191601 = {
+	name = "Vikramadityapha"
+	dynasty = 1044364#Kachari
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191600
+	11320.1.1 = {
+		birth = yes
+	}
+	11411.1.1 = {
+		death = yes
+	}
+}
+
+191602 = {
+	name = "Bhadrasena" #Fictional
+	dynasty = 1044365#Barobhuyan
+	religion = "shaivism"
+	culture = "assamese"
+	11150.1.1 = {
+		birth = yes
+	}
+	11240.1.1 = {
+		death = yes
+	}
+}
+
+191603 = {
+	name = "Nityapal" #Fictional
+	dynasty = 1044365#Barobhuyan
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191602
+	11220.1.1 = {
+		birth = yes
+	}
+	11310.1.1 = {
+		death = yes
+	}
+}
+
+191604 = {
+	name = "Bhadrasena" #Fictional
+	dynasty = 1044365#Barobhuyan
+	religion = "shaivism"
+	culture = "assamese"
+	father = 191603
+	11280.1.1 = {
+		birth = yes
+	}
+	11350.1.1 = {
+		death = yes
+	}
+}

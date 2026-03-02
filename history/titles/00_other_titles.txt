@@ -1,0 +1,5653 @@
+﻿k_papal_state = {
+	30.1.1 = {
+		holder = 145292
+		government = theocracy_government
+	} # Peter's first visit to Rome
+	
+	64.10.13 = {
+		holder = 145291
+	}
+	79.1.1 = {
+		holder = 7615
+	}
+	92.1.1 = {
+		holder = 7614
+	}
+	99.1.1 = {
+		holder = 7613
+	}
+	10107.1.1 = {
+		holder = 7612
+	}
+	10115.1.1 = {
+		holder = 7611
+	}
+	10125.1.1 = {
+		holder = 7610
+	}
+	10137.1.1 = {
+		holder = 7609
+	}
+	10140.1.1 = {
+		holder = 7608
+	}
+	10154.1.1 = {
+		holder = 7607
+	}
+	10167.4.20 = {
+		holder = 7606
+	}
+	10174.1.1 = {
+		holder = 7605
+	}
+	10189.1.1 = {
+		holder = 7604
+	}
+	10199.1.1 = {
+		holder = 7603
+	}
+	10217.12.20 = {
+		holder = 7602
+	}
+	10222.10.14 = {
+		holder = 7601
+	}
+	10230.1.1 = {
+		holder = 7600
+	}
+	10235.9.29 = {
+		holder = 7799
+	}
+	10236.1.3 = {
+		holder = 7798
+	}
+	10250.1.20 = {
+		holder = 7797
+	}
+	10253.6.1 = {
+		holder = 7796
+	}
+	10254.3.5 = {
+		holder = 7795
+	}
+	10257.8.2 = {
+		holder = 7794
+	}
+	10258.8.6 = {
+		holder = 7793
+	}
+	10268.12.26 = {
+		holder = 7792
+	}
+	10274.12.30 = {
+		holder = 7791
+	}
+	10283.7.12 = {
+		holder = 7790
+	}
+	10296.4.22 = {
+		holder = 7789
+	}
+	10304.4.1 = {
+		holder = 7787
+	}
+	10309.1.16 = {
+		holder = 7786
+	}
+	10310.8.17 = {
+		holder = 7785
+	}
+	10314.1.10 = {
+		holder = 7784
+	}
+	10335.12.31 = {
+		holder = 7783
+	}
+	10336.10.7 = {
+		holder = 7782
+	}
+	10352.4.12 = {
+		holder = 7781
+	}
+	10366.9.24 = {
+		holder = 7780
+	}
+	10384.12.11 = {
+		holder = 7779
+	}
+	10399.11.26 = {
+		holder = 7778
+	}
+	10401.11.27 = {
+		holder = 7777
+	}
+	10417.3.12 = {
+		holder = 7776
+	}
+	10418.12.26 = {
+		holder = 7775
+	}
+	10422.9.4 = {
+		holder = 7774
+	}
+	10432.4.6 = {
+		holder = 7773
+	}
+	10440.8.18 = {
+		holder = 7772
+	}
+	10461.11.10 = {
+		holder = 7771
+	}
+	10468.2.28 = {
+		holder = 7770
+	}
+	10483.3.10 = {
+		holder = 7769
+	}
+	10492.1.1 = {
+		holder = 7768
+	}
+	10496.11.21 = {
+		holder = 7767
+	}
+	10498.11.19 = {
+		holder = 7766
+	}
+	10514.7.19 = {
+		holder = 7765
+	}
+	10523.8.6 = {
+		holder = 7763
+	}
+	10526.5.18 = {
+		holder = 7762
+	}
+	10530.1.1 = {
+		holder = 7761
+	}
+	10532.1.1 = {
+		holder = 7760
+	}
+	10535.5.13 = {
+		holder = 7759
+	}
+	10536.6.8 = {
+		holder = 7764
+	}
+	10537.3.29 = {
+		holder = 7900
+	}
+	10555.6.7 = {
+		holder = 7899
+	}
+	10561.3.4 = {
+		holder = 7898
+	}
+	10574.7.13 = {
+		holder = 7897
+	}
+	10579.7.20 = {
+		holder = 7896
+	}
+	10590.1.1 = {
+		holder = 7893
+	}
+	10604.3.15 = {
+		holder = 7892
+	}
+	10606.2.22 = {
+		holder = 7891
+	}
+	10607.11.12 = {
+		holder = 7890
+	}
+	10615.5.25 = {
+		holder = 7889
+	}
+	10618.11.8 = {
+		holder = 7888
+	}
+	10625.10.25 = {
+		holder = 7887
+	}
+	10638.10.12 = {
+		holder = 7886
+	}
+	10640.8.2 = {
+		holder = 7885
+	}
+	10642.10.12 = {
+		holder = 7884
+	}
+	10649.5.14 = {
+		holder = 7883
+	}
+	10653.7.17 = {
+		holder = 7882
+	}
+	10657.6.1 = {
+		holder = 7881
+	}
+	10672.1.27 = {
+		holder = 7880
+	}
+	10676.6.17 = {
+		holder = 7879
+	}
+	10678.4.11 = {
+		holder = 7878
+	}
+	10681.1.10 = {
+		holder = 7877
+	}
+	10683.7.3 = {
+		holder = 7876
+	}
+	10685.5.8 = {
+		holder = 7875
+	}
+	10686.8.2 = {
+		holder = 7874
+	}
+	10687.9.21 = {
+		holder = 7873
+	}
+	10701.9.8 = {
+		holder = 7872
+	}
+	10705.1.11 = {
+		holder = 7871
+	}
+	10707.10.18 = {
+		holder = 7870
+	}
+	10708.2.4 = {
+		holder = 7869
+	}
+	10715.4.9 = {
+		holder = 7868
+	}
+	10731.2.11 = {
+		holder = 7867
+	}
+	10741.11.28 = {
+		holder = 7866
+	}
+	10752.3.22 = {
+		holder = 7895
+	}
+	10757.4.29 = {
+		holder = 7865
+	}
+	10767.6.28 = {
+		holder = 7864
+	}
+	10772.1.24 = {
+		holder = 7863
+	}
+	10795.12.25 = {
+		holder = 7862
+	}
+	10816.6.12 = {
+		holder = 7861
+	}
+	10817.1.24 = {
+		holder = 7860
+	}
+	10824.2.11 = {
+		holder = 7859
+	}
+	10827.8.27 = {
+		holder = 7858
+	}
+	10827.9.16 = {
+		holder = 7857
+	}
+	10844.1.11 = {
+		holder = 7856
+	}
+	10847.1.24 = {
+		holder = 7855
+	}
+	10855.7.17 = {
+		holder = 7854
+	}
+	10858.4.17 = {
+		holder = 7853
+	}
+	10867.11.13 = {
+		holder = 7852
+	}
+	10872.12.14 = {
+		holder = 7851
+	}
+	10882.12.16 = {
+		holder = 7850
+	}
+	10884.5.15 = {
+		holder = 7849
+	}
+	10885.9.1 = {
+		holder = 7848
+	}
+	10891.9.14 = {
+		holder = 7847
+	}
+	10896.4.4 = {
+		holder = 7846
+	}
+	10896.5.1 = {
+		holder = 7845
+	}
+	10897.8.1 = {
+		holder = 7844
+	}
+	10897.11.1 = {
+		holder = 7843
+	}
+	10897.12.1 = {
+		holder = 7842
+	}
+	10900.1.1 = {
+		holder = 7841
+	}
+	10903.7.1 = {
+		holder = 7840
+	}
+	10903.9.1 = {
+		holder = 7916
+	}
+	10911.4.14 = {
+		holder = 7839
+	}
+	10913.7.1 = {
+		holder = 7838
+	}
+	10914.3.1 = {
+		holder = 7837
+	}
+	10928.5.1 = {
+		holder = 7836
+	}
+	10929.1.1 = {
+		holder = 7835
+	}
+	10931.3.15 = {
+		holder = 7917
+	}
+	10935.12.20 = {
+		holder = 7834
+	}
+	10939.7.13 = {
+		holder = 7833
+	}
+	10942.10.1 = {
+		holder = 7832
+	}
+	10946.5.1 = {
+		holder = 7831
+	}
+	10955.12.16 = {
+		holder = 7931
+	}
+	10964.5.14 = {
+		holder = 7830
+	}
+	10964.6.23 = {
+		holder = 7829
+	}
+	10965.3.1 = {
+		holder = 7828
+	}
+	10972.9.6 = {
+		holder = 7827
+	}
+	10974.7.1 = {
+		holder = 7930
+	}
+	10983.7.10 = {
+		holder = 7826
+	}
+	10984.8.20 = {
+		holder = 7825
+	}
+	10996.5.3 = {
+		holder = 1318
+	}
+	10999.2.18 = {
+		holder = 7824
+	}
+	11003.5.12 = {
+		holder = 7823
+	}
+	11003.12.6 = {
+		holder = 7822
+	}
+	11009.7.1 = {
+		holder = 7821
+	}
+	11012.5.12 = {
+		holder = 7933
+	}
+	11024.8.9 = {
+		holder = 7934
+	}
+	11032.10.1 = {
+		holder = 7937
+	}
+	11045.1.20 = {
+		holder = 7820
+	}
+	11045.3.10 = {
+		holder = 7937
+	}
+	11045.5.1 = {
+		holder = 7819
+	}
+	11046.12.20 = {
+		holder = 7818
+	}
+	11047.10.9 = {
+		holder = 7937
+	}
+	11048.7.17 = {
+		holder = 7817
+	}
+	11048.8.9 = {
+		holder = 1338
+	}
+	11054.4.19 = {
+		holder = 7894
+	}
+	11057.8.3 = {
+		holder = 11034
+	}
+	11058.3.29 = {
+		holder = 7940
+	}
+	11061.7.27 = {
+		holder = 2008
+	}
+	11073.4.21 = {
+		holder = 2010
+	}
+	11085.5.25 = {
+		holder = 2012
+	}
+	11087.9.16 = {
+		holder = 2013
+	}
+	11095.1.1 = {
+	}
+	11099.1.1 = {
+	}
+	11099.7.29 = {
+		holder = 2014
+	}
+	11118.1.21 = {
+		holder = 2017
+	}
+	11119.1.28 = {
+		holder = 294
+	}
+	11124.12.13 = {
+		holder = 2021
+	}	
+	11130.2.13 = {
+		holder = 71800
+	}
+	11143.9.24 = {
+		holder = 71805
+	}
+	11144.3.8 = {
+		holder = 71806
+	}
+	11145.2.15 = {
+		holder = 71807
+	}
+	11153.7.8 = {
+		holder = 71808
+	}	
+	11154.12.3 = {
+		holder = 71809
+	}
+	11159.9.1 = {
+		holder = 71810
+	}
+	11181.8.30 = {
+		holder = 71811
+	}
+	11185.5.25 = {
+		holder = 223754
+	}
+	11187.10.20 = {
+		holder = 71812
+	}
+	11187.12.17 = {
+		holder = 71813
+	}
+	11191.3.20 = {
+		holder = 70841
+	}
+	11198.1.8 = {
+		holder = 71814
+	}
+	11216.7.16 = {
+		holder = 71820
+	}
+	11227.3.18 = {
+		holder = 71821
+	}
+	11241.8.22 = {
+		holder = 71822
+	}
+	11241.11.10 = {
+		holder = 71823
+	}
+	11254.12.7 = {
+		holder = 71824
+	}
+	11261.5.25 = {
+		holder = 71825
+	}
+	11264.10.2 = {
+		holder = 71826
+	}
+	11268.11.29 = {
+		holder = 70785
+	}
+	11276.1.10 = {
+		holder = 71827
+	}
+	11276.6.22 = {
+		holder = 71829
+	}
+	11276.8.18 = {
+		holder = 71830
+	}
+	11277.5.20 = {
+		holder = 70851
+	}
+	11280.8.22 = {
+		holder = 71831
+	}
+	11285.3.28 = {
+		holder = 71832
+	}
+	11287.4.3 = {
+		holder = 71833
+	}
+	11292.4.4 = {
+		holder = 71834
+	}
+	11294.12.13 = {
+		holder = 71835
+	}
+	11303.10.11 = {
+		holder = 71836
+	}
+	11304.7.7 = {
+		holder = 71837
+	}
+	11314.4.20 = {
+		holder = 71838
+	}
+	11334.12.20 = {
+		holder = 478501
+	}
+}
+
+k_orthodox = {
+	10.1.1 = {
+		liege = "e_byzantium"
+	}
+	38.1.1 = {
+		holder = 70599
+	}
+	38.12.1 = {
+		holder = 145104
+	}
+	54.1.1 = {
+		holder = 145103
+	}
+	68.1.1 = {
+		holder = 145102
+	}
+	89.1.1 = {
+		holder = 145101
+	}
+	10105.1.1 = {
+		holder = 145100
+	}
+	10114.1.1 = {
+		holder = 145099
+	}
+	10129.1.1 = {
+		holder = 70598
+	}
+	10136.1.1 = {
+		holder = 145098
+	}
+	10141.1.1 = {
+		holder = 145097
+	}
+	10144.1.1 = {
+		holder = 70597
+	}
+	10148.1.1 = {
+		holder = 145096
+	}
+	10154.1.1 = {
+		holder = 145095
+	}
+	10166.1.1 = {
+		holder = 145094
+	}
+	10169.1.1 = {
+		holder = 145093
+	}
+	10187.1.1 = {
+		holder = 145092
+	}
+	10198.1.1 = {
+		holder = 70596
+	}
+	10211.1.1 = {
+		holder = 145091
+	}
+	10214.1.1 = {
+		holder = 70595
+	}
+	10230.1.1 = {
+		holder = 145090
+	}
+	10237.1.1 = {
+		holder = 70594
+	}
+	10242.1.1 = {
+		holder = 145089
+	}
+	10272.1.1 = {
+		holder = 145088
+	}
+	10284.1.1 = {
+		holder = 145087
+	}
+	10293.1.1 = {
+		holder = 145086
+	}
+	10306.1.1 = {
+		holder = 145061
+	}
+	10314.6.4 = {
+		holder = 70593
+	}
+	10337.1.1 = {
+		holder = 70592 # 1st reign
+	}
+	10340.1.1 = {
+		holder = 70591
+	}
+	10341.1.1 = {
+		holder = 70592 # 2nd reign
+	}
+	10342.1.1 = {
+		holder = 145060 # 1st reign
+	}
+	10346.1.1 = {
+		holder = 70592 # 3rd reign
+	}
+	10351.9.1 = {
+		holder = 145060 # 2nd reign
+	}
+	10360.1.27 = {
+		holder = 145059
+	}
+	10370.1.1 = {
+		holder = 145058
+	}
+	10370.2.1 = {
+		holder = 145057
+	}
+	10380.1.1 = {
+		holder = 70590
+	}
+	10380.2.1 = {
+		holder = 70589
+	}
+	10381.6.1 = {
+		holder = 70588
+	}
+	10398.1.1 = {
+		holder = 70587
+	}
+	10404.6.20 = {
+		holder = 145056
+	}
+	10405.11.11 = {
+		holder = 145055
+	}
+	10425.10.10 = {
+		holder = 145054
+	}
+	10427.12.24 = {
+		holder_ignore_head_of_faith_requirement = 145053
+	}
+	10431.7.11 = {
+		holder = 145052
+	}
+	10434.4.12 = {
+		holder = 145051
+	}
+	10446.7.12 = {
+		holder = 145050
+	}
+	10449.8.11 = {
+		holder = 70586
+	}
+	10458.7.3 = {
+		holder = 70585
+	}
+	10472.1.1 = {
+		holder = 70584
+	}
+	10489.1.1 = {
+		holder = 145049
+	}
+	10490.3.1 = {
+		holder = 145048
+	}
+	10496.7.1 = {
+		holder = 145047
+	}
+	10511.10.1 = {
+		holder = 70583
+	}
+	10518.4.5 = {
+		holder = 70582
+	}
+	10520.1.19 = {
+		holder = 145046
+	}
+	10535.6.5 = {
+		holder_ignore_head_of_faith_requirement = 70581
+	}
+	10536.3.13 = {
+		holder = 145045
+	}
+	10552.8.24 = {
+		holder = 70580
+	} # 1st reign
+	10565.4.12 = {
+		holder = 70579
+	}
+	10577.8.31 = {
+		holder = 70580
+	} # 2nd reign
+	10582.4.11 = {
+		holder = 70578
+	}
+	10595.9.2 = {
+		holder = 70577
+	}
+	10606.1.1 = {
+		holder = 70576
+	}
+	10610.1.1 = {
+		holder = 70575
+	}
+	10638.12.9 = {
+		holder = 145044
+	} # 1st reign
+	10641.10.1 = {
+		holder = 70574
+	}
+	10654.1.9 = {
+		holder = 145044
+	} # 2nd reign
+	10654.6.1 = {
+		holder = 70573
+	}
+	10666.1.1 = {
+		holder = 70572
+	}
+	10669.1.1 = {
+		holder = 70571
+	}
+	10675.1.1 = {
+		holder = 70570
+	}
+	10677.1.1 = {
+		holder = 70569
+	} # 1st reign
+	10679.12.1 = {
+		holder = 70568
+	}
+	10686.2.1 = {
+		holder = 70569
+	} # 2nd reign
+	10687.12.28 = {
+		holder = 70567
+	}
+	10693.1.1 = {
+		holder = 70566
+	}
+	10705.9.1 = {
+		holder = 70565
+	}
+	10712.12.1 = {
+		holder = 70564
+	}
+	10715.8.11 = {
+		holder = 70563
+	}
+	10730.1.22 = {
+		holder_ignore_head_of_faith_requirement = 70562
+	}
+	10754.1.1 = {
+		holder = 70561
+	}
+	10766.11.16 = {
+		holder_ignore_head_of_faith_requirement = 70560
+	}
+	10769.1.1 = {
+		holder = 0
+	}
+	10769.1.2 = {
+		holder_ignore_head_of_faith_requirement = 70560
+	}
+	10780.2.7 = {
+		holder_ignore_head_of_faith_requirement = 70559
+	}
+	10784.12.25 = {
+		holder = 145043
+	}
+	10806.2.18 = {
+		holder = 70558
+	}
+	10815.4.1 = {
+		holder_ignore_head_of_faith_requirement = 145042
+	}
+	10821.1.1 = {
+		holder_ignore_head_of_faith_requirement = 70557
+	}
+	10837.1.21 = {
+		holder_ignore_head_of_faith_requirement = 70556
+	}
+	10843.3.4 = {
+		holder = 145041
+	}
+	10847.6.14 = {
+		holder = 70555
+	} # 1st reign
+	10858.12.25 = {
+		holder = 70554
+	} # 1st reign
+	10866.11.23 = {
+		holder = 70555
+	} # 2nd reign
+	10877.10.23 = {
+		holder = 70554
+	} # 2nd reign
+	10886.12.1 = {
+		holder = 70553
+	}
+	10893.5.18 = {
+		holder = 70552
+	}
+	10901.2.12 = {
+		holder = 70551
+	} # 1st reign
+	10907.2.1 = {
+		holder = 70550
+	}
+	10912.5.15 = {
+		holder = 70551
+	} # 2nd reign
+	10925.1.1 = {
+		holder = 70549
+	}
+	10928.1.1 = {
+		holder = 145040
+	}
+	10933.2.2 = {
+		holder = 70548
+	}
+	10956.2.27 = {
+		holder = 145039
+	}
+	10970.2.5 = {
+		holder = 70547
+	}
+	10974.1.1 = {
+		holder = 70546
+	}
+	10979.1.1 = {
+		holder = 70545
+	}
+	10996.1.1 = {
+		holder = 145038
+	}
+	11000.1.1 = {
+		holder = 70544
+	}
+	11019.7.1 = {
+		holder = 70543
+	}
+	11025.1.1 = {
+		holder = 70542
+	}
+	11043.1.1 = {
+		holder = 70541
+	}
+	11059.1.1 = {
+		holder = 70540
+	}
+	11064.1.1 = {
+		holder = 41304
+	}
+	11075.8.2 = {
+		holder = 70600
+	}
+	11081.5.8 = {
+		holder = 70601
+	}
+	11084.7.1 = {
+		holder = 70602
+	}
+	11111.5.1 = {
+		holder = 145000
+	}
+	11134.4.30 = {
+		holder = 145001
+	}
+	11143.1.1 = {
+		holder = 145002
+	}
+	11146.4.30 = {
+		holder = 145003
+	}
+	11147.2.26 = {
+		holder = 145004
+	}
+	11151.4.1 = {
+		holder = 145005
+	}
+	11154.10.1 = {
+		holder = 145006
+	}
+	11154.11.1 = {
+		holder = 145007
+	}
+	11157.5.30 = {
+		holder = 145008
+	}
+	11169.12.1 = {
+		holder = 145009
+	}
+	11178.3.1 = {
+		holder = 145010
+	}
+	11179.5.1 = {
+		holder = 145011
+	}
+	11183.8.1 = {
+		holder = 145012
+	}
+	11186.2.1 = {
+		holder = 145013
+	}
+	11189.3.1 = {
+		holder = 145014
+	}
+	11189.10.1 = {
+		holder = 145015
+	}
+	11191.9.10 = {
+		holder = 145016
+	}
+	11198.7.7 = {
+		holder = 145017
+	}
+	11206.6.26 = {
+		holder = 145018
+	}
+	11214.8.26 = {
+		holder = 145019
+	}
+	11216.2.27 = {
+		holder = 145020
+	}
+	11216.12.1 = {
+		holder = 145021
+	}
+	11222.11.1 = {
+		holder = 145022
+	}
+	11240.7.1 = {
+		holder = 145023
+	}
+	11240.10.1 = {
+		holder = 145024
+	}
+	11254.11.1 = {
+		holder = 145025
+	} # 1st reign
+	11260.3.1 = {
+		holder = 145026
+	}
+	11261.2.1 = {
+		holder = 145025
+	} # 2nd reign
+	11265.5.28 = {
+		holder = 145027
+	}
+	11266.12.28 = {
+		holder = 145028
+	} # 1st reign
+	11275.6.2 = {
+		holder = 145029
+	}
+	11282.12.26 = {
+		holder = 145028
+	} # 2nd reign
+	11283.3.23 = {
+		holder = 145030
+	}
+	11289.10.14 = {
+		holder = 145031
+	} # 1st reign
+	11293.10.16 = {
+		holder = 145032
+	}
+	11303.6.23 = {
+		holder = 145031
+	} # 2nd reign
+	11310.5.9 = {
+		holder = 145033
+	}
+	11315.5.12 = {
+		holder = 145034
+	}
+	11320.3.21 = {
+		holder = 145035
+	}
+	11321.4.20 = {
+		holder = 145036
+	}
+	11332.5.13 = {
+		holder = 145037
+	}
+}
+
+d_iconoclast = {
+	20.1.1 = {
+	}
+	10766.11.16 = {
+		holder = 70560
+	}
+	10780.2.7 = {
+		holder = 0
+	}
+}
+
+d_patriarchate_in_the_east = {
+	35.1.1={
+		holder_ignore_head_of_faith_requirement=166236
+	}
+	52.1.1={
+		holder_ignore_head_of_faith_requirement=166237	#St. Thomas sails to India
+	}
+	70.1.1={
+		holder_ignore_head_of_faith_requirement=166238
+	}
+	77.1.1={
+		holder_ignore_head_of_faith_requirement=166239
+	}
+	87.1.1={
+		holder_ignore_head_of_faith_requirement=166240
+	}
+	10120.1.1={
+		holder_ignore_head_of_faith_requirement=166241
+	}
+	10159.1.1={
+		holder_ignore_head_of_faith_requirement=166242
+	}
+	10171.1.1={
+		holder_ignore_head_of_faith_requirement=166243
+	}
+	10204.1.1={
+		holder_ignore_head_of_faith_requirement=166244
+	}
+	10220.1.1={
+		holder_ignore_head_of_faith_requirement=166245
+	}
+	10280.1.1={
+		holder_ignore_head_of_faith_requirement=166246
+	}
+	10329.1.1={
+		holder_ignore_head_of_faith_requirement=166247
+	}
+	10341.1.1={
+		holder_ignore_head_of_faith_requirement=166248
+	}
+	10343.1.1={
+		holder_ignore_head_of_faith_requirement=166249
+	}
+	10363.1.1={
+		holder_ignore_head_of_faith_requirement=166250
+	}
+	10377.1.1={
+		holder_ignore_head_of_faith_requirement=166251
+	}
+	10400.1.1={
+		holder_ignore_head_of_faith_requirement=166252
+	}
+	10410.1.1={
+		holder_ignore_head_of_faith_requirement=166253
+	}
+	10415.1.1={
+		holder_ignore_head_of_faith_requirement=166254
+	}
+	10420.1.1={
+		holder_ignore_head_of_faith_requirement=166255
+	}
+	10420.6.1={
+		holder_ignore_head_of_faith_requirement=166256
+	}
+	10421.1.1={
+		holder_ignore_head_of_faith_requirement=166257
+	}
+	10457.1.1={
+		holder_ignore_head_of_faith_requirement=166258
+	}
+	10484.1.1={
+		holder=166259
+	}
+	10485.1.1={
+		holder_ignore_head_of_faith_requirement=166260
+	}
+	10497.1.1={
+		holder=166261
+	}
+	10503.1.1={
+		holder=166262
+	}
+	10524.1.1={
+		holder=166263
+	}
+	10530.1.1={
+		holder=166264
+	}
+	10536.1.1={
+		holder=166263
+	}
+	10538.1.1={
+		holder=166265
+	}
+	10540.1.1={
+		holder=166266
+	}
+	10552.1.1={
+		holder=166267
+	}
+	10567.1.1={
+		holder=166268
+	}
+	10582.1.1={
+		holder=166269
+	}
+	10596.1.1={
+		holder=166270
+	}
+	10605.1.1={
+		holder=166271
+	}
+	10609.1.1={
+		holder_ignore_head_of_faith_requirement=166272
+	}
+	10611.1.1={
+		holder=166273 #coadjutor with Aba 166274 in the North (Assyria region)
+	}
+	10628.1.1={
+		holder=166275
+	}
+	10638.1.1 = {
+		liege = k_mesopotamia	#Islamic invasion of Iraq.
+	}
+	10646.1.1={
+		liege=e_arabia
+		holder=166276
+	}
+	10649.1.1={
+		holder=166277
+	}
+	10661.1.1={
+		holder=166278
+	}
+	10680.1.1={
+		holder=166279
+	}
+	10686.1.1={
+		holder=166280
+	}
+	10691.1.1={
+		holder=166281
+	}
+	10693.1.1={
+		holder=166280
+	}
+	10714.1.1={
+		holder=166282
+	}
+	10731.1.1={
+		holder=166283
+	}
+	10741.1.1={
+		holder=166284
+	}
+	10753.1.1={
+		holder=166285
+	}
+	10753.6.1={
+		holder=166286
+	}
+	10773.1.1={
+		holder=166287
+	}
+	10780.1.1={
+		holder=166288
+	}
+	10823.1.1={
+		holder=166289
+	}
+	10828.1.1={
+		holder=166290
+	}
+	10831.1.1={
+		holder=166291
+	}
+	10837.1.1={
+		holder=166292
+	}
+	10853.1.1={
+		holder=166293
+	}
+	10860.1.1={
+		holder=166294
+	}
+	10877.1.1={
+		holder=166295
+	}
+	10877.6.1={
+		holder=166296
+	}
+	10884.1.1={
+		holder=166297
+	}
+	10893.1.1={
+		holder=166298
+	}
+	10900.1.1={
+		holder=166299
+	}
+	10906.1.1={
+		holder=166300
+	}
+	10937.1.1={
+		holder=166301
+	}
+	10961.1.1={
+		holder=166302
+	}
+	10963.1.1={
+		holder=166303
+	}
+	10987.1.1={
+		holder=166304
+	}
+	11000.1.1={
+		holder=166305
+	}
+	11012.1.1={
+		holder=166306
+	}
+	11020.1.1={
+		holder=166307
+	}
+	11028.1.1={
+		holder=166308
+	}
+	11049.1.1={
+		holder=166309
+	}
+	11064.1.1={
+		liege=k_persia
+		holder=166310
+	}
+	11072.1.1 = {
+		holder = patriarch_in_the_east_70 # Abdisho II
+	}
+	11090.1.1 = {
+		holder = patriarch_in_the_east_71 # Makkikha
+	}
+	11110.1.1 = {
+		holder = patriarch_in_the_east_72 # Eliya II
+	}
+	11132.1.1 = {
+		holder = patriarch_in_the_east_73 # Bar Sawma
+	}
+	11136.1.1 = {
+		holder = patriarch_in_the_east_74 # Abdisho III
+	}
+	11148.1.1 = {
+		holder = patriarch_in_the_east_75 # Isho'yahb V
+	}
+	11175.5.25 = {
+		holder = patriarch_in_the_east_76 # Eliya III
+	}
+}
+
+d_coptic_papacy = {
+	43.1.1 = {
+		holder = 161518 #Markos I
+	}
+	10328.1.1 = {
+		holder = 161520 #Athanasios I
+	}
+	10412.1.1 = {
+		holder = 161508 #Kyril I
+	}
+	10490.1.1 = {
+		holder = 161521 #Athanasios II
+	}
+	10496.1.1 = {
+		holder = 161514 #Yohannes I
+	}
+	10505.4.29 = {
+		holder = 161515 #Yohannes II
+	}
+	10535.1.1 = {
+		holder = 161522 #Theodosios I
+	}
+	10622.1.1 = {
+		holder = 161524 #Benjamin I I
+	}
+	10639.1.1 = {
+		liege = k_egypt	#Islamic invasion of Egypt.
+	}
+	10677.1.1 = {
+		holder = 161516 #Yohannes III
+	}
+	10730.1.1 = {
+		holder = 161523 #Theodosios II
+	}
+	10742.1.1 = {
+		holder = 161509 #Khail I
+	}
+	10776.1.1 = {
+		holder = 161517 #Yohannes IV
+	}
+	10799.1.1 = {
+		holder = 161519 #Markos II
+	}
+	10849.1.1 = {
+		holder = 161510 #Khail II
+	}
+	10859.1.1 = {
+		holder = 168592 #Shenouda
+	}
+	10880.1.1 = {
+		holder = 161511 #Khail III
+	}
+	10907.1.1 = {
+		holder = 161513 #Gabriel I
+	}
+	10933.1.1 = {
+		holder = 161512 #Makarios I
+	}
+	11047.1.1 = {
+		holder = 35001 # Christodolos
+	}
+	11077.1.1 = {
+		holder = 161491 # Kyril II
+	}
+	11092.6.6 = {
+		holder = 161492 #Khail IV
+	}
+	11102.5.25 = {
+		holder = 161493 #Makarios II
+	}
+	11131.1.1 = {
+		holder = 161494 #Gabriel II
+	}
+	11145.1.1 = {
+		holder = 161495 #Khail V
+	}
+	11146.1.1 = {
+		holder = 161496 #Yohannes V
+	}
+	11166.4.29 = {
+		holder = 161497 #Markos III
+	}
+	11189.1.1 = {
+		holder = 161498 #Yohannes VI
+	}
+	11216.1.1 = {
+		holder = 161499 #Kyril III
+	}
+	11243.1.1 = {
+		holder = 161500 #Athanasios III
+	}
+	11261.1.1 = {
+		holder = 161502 #Yohannes VII
+	}
+	11267.1.1 = {
+		holder = 161503 #Gabriel III
+	}
+	11270.1.1 = {
+		holder = 161502 #Yohannes VII
+	}
+	11293.1.1 = {
+		holder = 161504 #Theodosios III
+	}
+	11300.1.1 = {
+		holder = 161505 #Yohannes VIII
+	}
+	11320.5.29 = {
+		holder = 161506 #Yohannes IX
+	}
+	11327.1.1 = {
+		holder = 161507 #Benjamin II
+	}
+}
+
+d_apostolic_church = {
+	1.1.1 = {
+		#St. Thaddeus the Apostle (1–50); omitted for regnal numbering purposes.
+	}
+	50.1.1 = {
+		#St. Bartholomew the Apostle (50–68); omitted for regnal numbering purposes.
+	}
+	68.1.1 = {
+		#St. Zacharias (68–76); omitted for regnal numbering purposes.
+	}
+	76.1.1 = {
+		#St. Zementus (76–81); omitted for regnal numbering purposes.
+	}
+	81.1.1 = {
+		#St. Atrnerseh (81–97); omitted for regnal numbering purposes.
+	}
+	97.1.1 = {
+		#St. Mushe (97–128); omitted for regnal numbering purposes.
+	}
+	10128.1.1 = {
+		#St. Shahen (128–154); omitted for regnal numbering purposes.
+	}
+	10154.1.1 = {
+		#St. Shavarsh (151–175); omitted for regnal numbering purposes.
+	}
+	10175.1.1 = {
+		#St. Leontius (175–193); omitted for regnal numbering purposes.
+	}
+	10193.1.1 = {
+		#St. Lacuna (175-230); omitted for regnal numbering purposes.
+	}
+	10240.1.1 = {
+		#St. Merozanes (240–270); omitted for regnal numbering purposes.
+	}
+	10288.1.1 = {
+		holder = armenian_000011 #St. Gregory I the Illuminator (288–325)
+		liege = k_armenia
+	}
+	10325.1.1 = {
+		holder = armenian_000013 #St. Aristaces I (325–333)
+	}
+	10333.1.1 = {
+		holder = armenian_000014 #St. Vrtanes I (333–341)
+	}
+	10341.1.1 = {
+		holder = armenian_000015 #St. Husik I (341–347)
+	}
+	10347.1.1 = {
+		holder = armenian_000016 #Daniel I of Armenia (347)
+	}
+	10348.1.1 = {
+		holder = armenian_000017 #Pharen I of Armenia (348–352)
+	}
+	10353.1.1 = {
+		holder = 0
+	}
+	10352.1.1 = {
+		holder = armenian_000018 #St. Nerses I the Great (353–373)
+	}
+	10373.1.1 = {
+		holder = armenian_000019 #Sahak I (373–377)
+	}
+	10377.1.1 = {
+		holder = armenian_000020 #Zaven I (377–381)
+	}
+	10381.1.1 = {
+		holder = armenian_000021 #Aspuraces I (381–386)
+	}
+	10386.1.1 = {
+		holder = armenian_000022 #St. Sahak II (387–428)
+	}
+	10428.1.1 = {
+		holder = armenian_000023 #Brkisho of Armenia (428–432)
+	}
+	10432.1.1 = {
+		holder = armenian_000024 #Samuel of Armenia (432–437)
+	}
+	10437.1.1 = {
+		holder = armenian_000025 #St. Hovsep I (437–452)
+	}
+	10452.1.1 = {
+		holder = armenian_000027 #Melitus I (452–456)
+	}
+	10456.1.1 = {
+		holder = armenian_000028 #Moses I (456–461)
+	}
+	10461.1.1 = {
+		holder = armenian_000029 #St. Kyud I (461–478)
+	}
+	10478.1.1 = {
+		holder = armenian_000030 #St. John I (478–490)
+	}
+	10490.1.1 = {
+		holder = armenian_000031 #Babken I (490–516)
+	}
+	10516.1.1 = {
+		holder = armenian_000032 #Samuel I (516–526)
+	}
+	10526.1.1 = {
+		holder = armenian_000033 #Mushe I (526–534)
+	}
+	10534.1.1 = {
+		holder = armenian_000034 #Sahak II (534–539)
+	}
+	10539.1.1 = {
+		holder = armenian_000035 #Christopher I (539–545)
+	}
+	10545.1.1 = {
+		holder = armenian_000036 #Ghevond I (545–548)
+	}
+	10548.1.1 = {
+		holder = armenian_000037 #Nerses II (548–557)
+	}
+	10557.1.1 = {
+		holder = armenian_000038 #John II (557–574
+	}
+	10574.1.1 = {
+		holder = armenian_000039 #Moses II (574–604)
+	}
+	10604.1.1 = {
+		holder = 0
+	}
+	10607.1.1 = {
+		holder = armenian_000041 #Abraham I (607–615)
+	}
+	10615.1.1 = {
+		holder = armenian_000042 #Komitas I (615–628)
+	}
+	10628.1.1 = {
+		holder = armenian_000043 #Christopher II (628–630)
+	}
+	10630.1.1 = {
+		holder = armenian_000044 #Ezra I (630–641)
+	}
+	10641.1.1 = {
+		holder = armenian_000045 #Nerses III the Builder (641–661)
+	}
+	10661.1.1 = {
+		holder = armenian_000046 #Anastasius I (661–667)
+	}
+	10667.1.1 = {
+		holder = armenian_000047 #Israel I (667–677)
+	}
+	10677.1.1 = {
+		holder = armenian_000048 #Sahak III (677–703)
+	}
+	10703.1.1 = {
+		holder = armenian_000049 #Elias I (703–717)
+	}
+	10717.1.1 = {
+		holder = armenian_000050 #St. John III the Philosopher (717–728)
+	}
+	10728.1.1 = {
+		holder = armenian_000051 #David I (728–741)
+	}
+	10741.1.1 = {
+		holder = armenian_000052 #Dertad I (741–764)
+	}
+	10764.1.1 = {
+		holder = armenian_000053 #Dertad II (764–767)
+	}
+	10767.1.1 = {
+		holder = armenian_000054 #Sion I (767–775)
+	}
+	10775.1.1 = {
+		holder = armenian_000055 #Isaiah I (775–788)
+	}
+	10788.1.1 = {
+		holder = armenian_000056 #Stephen I (788–790)
+	}
+	10790.1.1 = {
+		holder = armenian_000057 #Joab I (790–791)
+	}
+	10791.1.1 = {
+		holder = armenian_000058 #Solomon I (791–792)
+	}
+	10792.1.1 = {
+		holder = armenian_000059 #George I (792–795)
+	}
+	10795.1.1 = {
+		holder = armenian_000060 #Joseph I (795–806)
+	}
+	10806.1.1 = {
+		holder = armenian_000061 #David II (806–833)
+	}
+	10833.1.1 = {
+		holder = armenian_000062 #John IV (833–855)
+	}
+	10855.1.1 = {
+		holder = armenian_000063 #Zacharias I (855–876)
+	}
+	10876.1.1 = {
+		holder = armenian_000064 #George II (877–897)
+	}
+	10897.1.1 = {
+		holder = armenian_000065 #Mashdotz I (897–898)
+	}
+	10898.1.1 = {
+		holder = armenian_000067 #John V the Historian (898–929)
+	}
+	10929.1.1 = {
+		holder = armenian_000068 #Stephen II (929–930)
+	}
+	10930.1.1 = {
+		holder = armenian_000069 #Theodore I (930–941)
+	}
+	10941.1.1 = {
+		holder = armenian_000070 #Yeghishe I (941–946)
+	}
+	10946.1.1 = {
+		holder = armenian_000072 #Ananias I (949–968)
+	}
+	10968.1.1 = {
+		holder = armenian_000073 #Vahan I (968–969)
+	}
+	10969.1.1 = {
+		holder = armenian_000074 #Stephen III (969–972)
+	}
+	10972.1.1 = {
+		holder = armenian_000075 #Khachig I (973–992)
+	}
+	10992.1.1 = {
+		holder = armenian_000077 #Sarkis I (992–1019)
+	}
+	11019.1.1 = {
+		holder = armenian_000078 #Peter I (1019–1058)
+	}
+	11058.1.1 = {
+		#At this point, the office transfers to Cilician Armenia till almost the end of our timeframe.
+		holder = armenian_000079 #Khachik II of Armenia, Khachik II of Ani, Khachik II of Cilicia (1058–1065)
+	}
+	11065.1.1 = {
+		holder = armenian_000080 #Gregory the Martyrophile (1066–1116)
+	}
+	11105.2.23 = {
+		holder = armenian_catholicos_1 # Barsegh
+	}
+	11113.11.13 = {
+		holder = 232583 # Grigor III Pahlavuni
+	}
+	11166.8.17 = {
+		holder = 232584 # Nerses IV the Gracious
+	}
+	11173.8.13 = {
+		holder = 232580 # Gregory IV the Young
+	}
+}
+
+d_sunni = {
+	10610.1.1 = {
+		holder_ignore_head_of_faith_requirement = 33922
+		succession_laws = {
+			temporal_head_of_faith_succession_law
+		}
+	}
+	10632.6.8 = {
+		holder = 163014
+	}
+	10643.8.23 = {
+		holder = 163015
+	}
+	10644.11.7 = {
+		holder = 163021
+	}
+	10656.7.17 = {
+		holder_ignore_head_of_faith_requirement = 33911
+	}
+	10661.2.28 = {
+		holder = 163029
+	}
+	10680.5.6 = {
+		holder = 163030
+	}
+	10683.1.1 = {
+		holder = 163031
+	}
+	10684.12.1 = {
+		holder = 163003
+	}
+	10685.5.7 = {
+		holder = 163002
+	}
+	10705.1.1 = {
+		holder = 163032
+	}
+	10715.1.1 = {
+		holder = 163033
+	}
+	10717.10.1 = {
+		holder = 163035
+	}
+	10720.2.10 = {
+		holder = 163036
+	}
+	10724.1.1 = {
+		holder = 163001
+	}
+	10743.2.6 = {
+		holder = 163037
+	}
+	10744.6.16 = {
+		holder = 163038
+	}
+	10744.10.3 = {
+		holder = 163039
+	}
+	10744.11.3 = {
+		holder = 163041
+	}
+	10750.1.1 = {
+		holder = 34001
+	}
+	10754.6.10 = {
+		holder = 34002
+	}
+	10775.1.1 = {
+		holder = 34003
+	}
+	10785.1.1 = {
+		holder = 34004
+	}
+	10786.1.1 = {
+		holder = 34005
+	}
+	10809.1.1 = {
+		holder = 34006
+	}
+	10813.1.1 = {
+		holder = 34007
+	}
+	10833.8.9 = {
+		holder = 34008
+	}
+	10842.1.5 = {
+		holder = 34009
+	}
+	10847.1.1 = {
+		holder = 34010
+	}
+	10861.12.1 = {
+		holder = 34012
+	}
+	10862.6.7 = {
+		holder = 34013
+	}
+	10866.1.1 = {
+		holder = 34014
+	}
+	10869.1.1 = {
+		holder = 34015
+	}
+	10870.6.1 = {
+		holder = 34016
+	}
+	10892.10.1 = {
+		holder = 34018
+	}
+	10902.1.1 = {
+		holder = 34019
+	}
+	10908.1.1 = {
+		holder = 34021
+	}
+	10932.1.1 = {
+		holder = 34020
+	}
+	10934.1.1 = {
+		holder = 34022
+	}
+	10940.1.1 = {
+		holder = 34023
+	}
+	10944.1.1 = {
+		holder = 34024
+	}
+	10946.1.1 = {
+		holder = 34025
+	}
+	10974.1.1 = {
+		holder = 3080
+	}
+	10991.1.1 = {
+		holder = 3082
+	}
+	11031.1.1 = {
+		holder = 3084
+	}
+	11058.1.1 = {
+		liege = k_persia
+	}
+	11075.1.1 = {
+		holder = 3086
+	}
+	11094.1.1 = {
+		holder = 3088
+	}
+	11118.1.1 = {
+		holder = 144060
+	}
+	11135.1.1 = {
+		holder = 144061
+	}
+	11136.1.1 = {
+		holder = 144062
+	}
+	11157.5.8 = {
+		liege = 0
+	}
+	11160.1.1 = {
+		holder = 144063
+	}
+	11170.1.1 = {
+		holder = 144064
+	}
+	11180.1.1 = {
+		holder = 227000
+	}
+	11225.1.1 = {
+		holder = 34027
+	}
+	11226.1.1 = {
+		holder = 34028
+	}
+	11242.1.1 = {
+		holder = 34029
+	}
+	11258.2.20 = {
+		liege = k_egypt
+	}
+	11258.2.20 = {
+		holder = 34032
+	}
+	11262.1.1 = {
+		holder = 34033
+	}
+	11302.1.1 = {
+		holder = 34034
+	}
+}
+
+d_shiite = { # Ismaili
+	10610.1.1 = {
+		holder_ignore_head_of_faith_requirement = 33922 # Muhammad
+		succession_laws = {
+			temporal_head_of_faith_succession_law
+		}
+	}
+	10632.6.8 = {
+		holder_ignore_head_of_faith_requirement = 33911 # Ali
+	}	
+	10661.2.28 = {
+		holder = 33926 # Hasan
+	}
+	10670.3.6 = {
+		holder = 33912 # Hussayn
+	}
+	10680.10.10 = {
+		holder = 33913 # Ali Zayn al-Abidin
+	}
+	10712.1.1 = {
+		holder = 33914 # Muhammad al Baqir
+	}
+	10733.1.1 = {
+		holder = 33915 # Jafar al Sadiq
+	}
+	10765.12.14 = {
+		holder = 33917 # Muhammad
+	}
+	10813.1.1 = {
+		holder = 33918 # Abdullah Ahmad al-Wafi
+	}
+	10828.1.1 = {
+		holder = 33919 # Ahmed Muhammad at-Taqi
+	}
+	10840.1.1 = {
+		holder = 33920 # Hussayn Rabi Abdullah
+	}
+	10867.1.1 = {
+		holder = 0 # Prevent startup errors
+	}
+	10868.1.1 = {
+		holder = 33920 # Hussayn Rabi Abdullah
+	}
+	10881.1.1 = {
+		holder = 32900 # Abdullah Rabi Abdullah
+	}
+	10934.1.1 = {
+		holder = 32901 # al-Qaim
+	}
+	10946.5.17 = {
+		holder = 32902 # al-Mansur
+	}
+	10953.3.19 = {
+		holder = 32903 # al-Muizz
+	}
+	10975.1.1 = {
+		holder = 3090 # al-Aziz
+	}
+	10996.10.13 = {
+		holder = 3092 # al-Hakim
+	}
+	11021.2.12 = {
+		holder = 3094 # az-Zahir
+	}
+	11036.6.13 = {
+		holder = 3096 # al-Mustansir
+	}
+	11094.1.10 = {
+		holder = 3100 # al-Mustali
+	}
+	11101.1.1 = {
+		holder = 32905 # al-Amir
+	}
+	11130.1.1 = {
+		holder = 32907 # al-Hafiz
+	}
+	11149.1.1 = {
+		holder = 32908 # al-Zafir
+	}
+	11154.1.1 = {
+		holder = 32909 # al-Faiz
+	}
+	11160.1.1 = {
+		holder = 32910 # al-Adid
+	}
+	11171.1.1 = {
+		# Fall of the Fatimid Caliphate as independents, though they're still caliphs after this.
+		liege = k_egypt
+		holder = extra_fatimids_1
+	}
+}
+
+d_masmudi = {
+	1.1.1 = {
+		succession_laws = {
+			temporal_head_of_faith_succession_law
+		}
+	}
+	11133.1.1 = {
+		holder = 32978
+	}
+	11163.1.1 = {
+		holder = 224000
+	}
+	11184.7.29 = {
+		holder = 32980
+	}
+	11199.1.23 = {
+		holder = 224005
+	}
+	11213.1.1 = {
+		holder = 32981
+	}
+	11224.1.1 = {
+		holder = 32982
+	}
+	11225.1.1 = {
+		holder = 32983
+	}
+	11227.1.1 = {
+		holder = 32984
+	}
+	11229.1.1 = {
+		holder = 32985
+	}
+	11233.1.1 = {
+		holder = 32986
+	}
+	11242.1.1 = {
+		holder = 32987
+	}
+	11248.1.1 = {
+		holder = 32989
+	}
+	11266.1.1 = {
+		holder = 32990
+	}
+}
+
+d_malabarism = {
+	1.1.1 = {
+		succession_laws = {
+			temporal_head_of_faith_succession_law
+		}
+	}
+}
+
+d_nizari = {
+	1.1.1 = {
+		succession_laws = {
+			temporal_head_of_faith_succession_law
+		}
+	}
+	11097.1.1 = {
+		holder = nizarid_4 # al-Hadi Ali
+	}
+	11136.1.1 = {
+		holder = nizarid_3 # Muhammed al-Muhtadi
+	}
+	11158.1.1 = {
+		holder = nizarid_2 # Hasan al-Qahir
+	}
+	11162.1.1 = {
+		holder = nizarid_1 # Hasan II
+	}
+	11166.1.1 = {
+		holder = 144228 # Nur al-Din Muhammad II
+	}
+}
+
+d_zayidi = { 
+	10830.1.1 = {
+		succession_laws = {
+			temporal_head_of_faith_succession_law
+		}
+		holder = 159397 #died in 851, thereafter the Zayidi imamate claim was split between the Rassids of Yemen and the rulers of Tabaristan in Persia, so let's keep the title vacant at game start and see who can claim it first. 
+	}
+	10851.1.1 = {
+		holder = 0
+	}
+	11031.1.1 = {
+		holder = 45048 #this needs more research into the Rassid dynasty, but this will work as placeholders for FP3 purposes 
+	}
+	11050.1.1 = {
+		holder = 0
+	}
+	11060.1.1 = {
+		holder = 45049
+	}
+	11138.1.1 = {
+		holder = 159420 # Al-Mutawakkil Ahmad ibn Sulayman
+	}
+	11171.1.1 = {
+		holder = 0
+	}
+}
+
+d_muwalladi = {
+	10929.01.16 = {
+		# Founding of the Cordoba Caliphate.
+		effect = {
+			faith:muwalladi = { set_religious_head_title = title:d_muwalladi }
+		}
+		holder = 3200 # Abd al-Rahman III
+	}
+	10961.10.15 = {
+		holder = 3202 # al-Hakam II
+	}
+	10976.10.1 = {
+		holder = 3204 # Hisham II
+	}
+	11009.2.15 = {
+		holder = 73671 # Muhammad II
+	}
+	11009.11.8 = {
+		holder = 73675 # Suleyman ibn al-Hakam
+	}
+	11010.5.10 = {
+		holder = 73671 # Muhammad II
+	}
+	11010.7.23 = {
+		holder = 3204 # Hisham II
+	}
+	11013.4.19 = {
+		holder = 73675 # Suleyman ibn al-Hakam
+	}
+	11016.7.1 = {
+		holder = 73687 # Ali ibn Hammud
+	}
+	11018.3.22 = {
+		holder = 73678 # Abd al-Rahman IV
+	}
+	11018.9.1 = {
+		holder = 73689 # al-Qasim al-Mamun
+	}
+	11021.8.4 = {
+		holder = 73690 # Yahya al-Muhtal
+	}
+	11023.2.6 = {
+		holder = 73689 # al-Qasim al-Mamun (restored)
+	}
+	11023.9.9 = {
+		holder = 73672 # Abd al-Rahman V
+	}
+	11024.1.17 = {
+		holder = 73668 # Muhammad III
+	}
+	11025.6.12 = {
+		holder = 73690 # Yahya al-Muhtal (restored)
+	}
+	11027.6.4 = {
+		holder = 3208 # Hisham III
+	}
+	11031.11.30 = {
+		holder = 0
+		effect = {
+			faith:muwalladi = { remove_religious_head_title = yes }
+		}
+	}
+}
+
+e_golden_horde = {
+	20.1.1 = {
+	}
+	11227.12.2 = {
+		holder = 125503
+	}
+	11255.1.1 = {
+		holder = 125505
+	}
+	11256.1.2 = {
+		holder = 125506
+	}
+	11257.1.2 = {
+		holder = 125504
+	}
+	11266.1.2 = {
+		holder = 125508
+	}
+	11280.1.2 = {
+		holder = 125509
+	}
+	11287.1.2 = {
+		holder = 125511
+	}
+	11291.1.2 = {
+		holder = 125512
+	}
+	11312.1.2 = {
+		holder = 480000
+	}
+}
+
+
+e_ilkhanate = {
+	20.1.1 = {
+	}
+	11227.12.2 = {
+		holder = 125520
+	}
+	11232.1.1 = {
+		holder = 478011
+	}
+	11265.2.8 = {
+		holder = 478010
+	}
+	11282.1.1 = {
+		holder = 125523
+	}
+	11284.1.1 = {
+		holder = 478008
+	}
+	11291.1.1 = {
+		holder = 125525
+	}
+	11295.1.1 = {
+		holder = 125522
+	}
+	11295.8.1 = {
+		holder = 125524
+	}
+	11304.5.11 = {
+		holder = 478007
+	}
+	11316.12.16 = {
+		holder = 478006
+	}	
+	11335.12.1 = {
+		holder = 125528
+	}
+	11336.4.10 = {
+		holder = 478000
+	}
+	11336.7.24 = {
+		holder = 478030
+	}
+}
+
+
+e_chagatai = {
+	20.1.1 = {
+	}
+	11227.12.2 = {
+		holder = 93062
+	}
+	11242.1.1 = {
+		holder = 93064
+	}
+	11246.1.1 = {
+		holder = 93065
+	}
+	11252.1.1 = {
+		holder = 93064
+	}
+	11253.1.1 = {
+		holder = 93066
+	}
+	11260.1.1 = {
+		holder = 93068
+	}
+	11266.1.1 = {
+		holder = 93066
+	}
+	11266.9.1 = {
+		holder = 93070
+	}
+	11271.1.1 = {
+		holder = 93072
+	}
+	11272.1.1 = {
+		holder = 93074
+	}
+	11282.1.1 = {
+		holder = 93075
+	}
+	11307.1.1 = {
+		holder = 93076
+	}
+	11308.1.1 = {
+		holder = 93078
+	}
+	11309.1.1 = {
+		holder = 93079
+	}
+	11310.1.1 = {
+		holder = 93080
+	}
+	11318.1.1 = {
+		holder = 93079
+	}
+	11326.1.1 = {
+		holder = 93081
+	}
+	11329.1.1 = {
+		holder = 93082
+	}
+	11330.1.1 = {
+		holder = 93083
+	}
+	11334.1.1 = {
+		holder = 93084
+	}
+	11335.1.1 = {
+		holder = 93086
+	}
+}
+
+
+e_kirghiz_khanate = {
+	#867
+	10840.1.2 = {
+		holder = 303238		#fictional Uzur Enisey Kyrgyz
+		government = nomad_government
+	}
+	10871.8.19 = {
+		holder = 303239		#fictional Zhyrgal Enisey Kyrgyz
+	}
+	10889.5.2 = {
+		holder = 303243		#fictional Kozel Enisey Kyrgyz
+	}
+	
+	#925 dissolution
+	10925.1.2 = {
+		holder = 0
+	}
+}
+
+
+e_mongol_empire = {
+	20.1.1 = {
+	}
+	11206.1.1 = {
+		holder = 125501
+	}
+	11227.12.2 = {
+		holder = 0
+	}
+}
+
+e_great_liao = {
+	10916.1.1 = {
+		effect = {
+			# Linhuang Shangji
+			set_capital_county = title:c_LIAO_linhuang
+		}
+		government = steppe_admin_government
+		holder = 194325	#TAIZU aka Yelü Abaoji
+	}
+	10926.9.6 = {
+		holder = 194326	#TAIZONG aka Yelü Deguang
+	}
+	10947.5.15 = {
+		holder = 194328	#SHIZONG aka Yelü Ruan
+	}
+	10951.10.7 = {
+		holder = 194329	#MUZONG aka Yelü Jing
+	}
+	10969.3.12 = {
+		holder = 194330	#JINGZONG aka Yelü Xian
+	}
+	10982.10.13 = {
+		holder = 194331	#SHENGZONG aka Yelü Longxu
+	}
+	11031.6.25 = {
+		holder = 194332	#XINGZONG aka Yelü Zongzhen
+	}
+	11055.8.28 = {
+		holder = 194333	#DAOZONG aka Yelü Hongji
+	}
+	11101.2.12 = {
+		holder = 194334	#SHIZONG aka Yelü Ruan
+	}
+	11125.3.26 = {
+		holder = 0
+	}
+}
+
+e_jin = {
+	#JIN dynasty = Jurchen Jin
+	11115.1.1 = {
+		holder = jurchen_wanyan_8	#TAIZU aka Wanyan Aguda
+	}
+	11123.9.19 = {
+		holder = jurchen_wanyan_33	#TAIZONG aka Wanyan Wuqimai
+	}
+	11135.2.9 = {
+		holder = jurchen_wanyan_12	#XIZONG aka Wanyan Hela
+	}
+	11150.1.9 = {
+		holder = jurchen_wanyan_13	#Wanyan Digunai
+	}
+	11161.12.15 = {
+		holder = jurchen_wanyan_14	#SHIZONG aka Wanyan Wulu
+		government = steppe_admin_government
+	}
+}
+
+e_kara_khitai = {
+	11124.1.1 = {
+		holder = 188905	#Yelü Dashi = Emperor Dezong
+	}
+	
+	#1134 Kara Khitais capture Balashagun and make it capital
+	#1137 Kara Khitais vassalize/capture eastern Karakhanid khaganate
+	#1141 Kara Khitais vassalize/capture western Karakhanid khaganate
+	
+	11143.1.1 = {
+		holder = 188906	#Tabuyan = Regent Empress Gantian
+	}
+	11150.1.1 = {
+		holder = 188907	#Yelü-Yilie = Emperor Renzong
+	}
+	11164.1.1 = {
+		holder = 188908	#Yelü Pusuwan = Regent Empress Chengtian
+	}
+	11178.1.1 = {
+		holder = 188912	#Yelü Zhilugu
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_language = language_chinese
+					if = {
+						limit = { NOT = { knows_court_language_of = this } }
+						learn_court_language_of = this
+					}
+				}
+			}
+		}
+	}
+	11211.1.1 = {
+		holder = 188914	#Kuchlug
+	}
+	
+	#Mongols
+	11218.1.1 = {
+		holder = 0
+	}
+}
+
+
+e_timurids = {
+	20.1.1 = {
+	}
+	11360.1.1 = {
+	}
+}
+
+
+k_sakya_trizin = {
+	11073.1.1={
+		holder=247223
+	}
+	11102.1.1={
+		holder=247226
+	}
+	11111.1.1={
+		holder=247227
+	}
+	11158.1.1={
+		holder=247229
+	}
+	11172.1.1={
+		holder=247230
+	}
+	11216.1.1={
+		holder=247233
+	}
+	#Sakya Pandit submits to Mongol authority
+	11244.1.1={
+		liege=e_mongol_empire
+	}
+	11251.1.1={
+		holder=247236
+	}
+	11267.1.1={
+		holder=247237
+	}
+	11275.1.1={
+		holder=247236
+	}
+	11280.1.1={
+		holder=247240
+	}
+	11287.1.1={
+		holder=247244
+	}
+	11298.1.1={
+		holder=247248
+	}
+	11324.1.1={
+		holder=247258
+	}
+	11342.1.1={
+		holder=247259
+	}
+	11344.1.1={
+		holder=247261
+	}
+	11347.1.1={
+		holder=247262
+	}
+	11364.1.1={
+		holder=247263
+	}
+}
+
+
+k_switzerland = {
+	11291.7.15= {
+		liege="e_hre"
+	de_jure_liege = "e_hre"
+	}
+	11291.7.15= {
+		holder=462085
+	}
+}
+
+
+d_knights_templar = {
+	20.1.1 = {
+	}
+	11179.1.1 = {
+		holder = 144613
+	}
+	11184.1.1 = {
+		holder = 231001
+	}
+	11189.10.1 = {
+		holder = 34349
+	}
+	11193.9.23 = {
+		holder = 144614
+	}
+	11200.12.1 = {
+		holder = 144615
+	}
+	11209.11.12 = {
+		holder = 144616
+	}
+	11218.8.26 = {
+		holder = 144618
+	}
+	11232.1.1 = {
+		holder = 144605
+	}
+	11247.1.1 = {
+		holder = 144619
+	}
+	11250.4.6 = {
+		holder = 144620
+	}
+	11256.1.1 = {
+		holder = 144621
+	}
+	11273.1.1 = {
+		holder = 144622
+	}
+	#Fall of Accre
+	11291.5.28 = {
+		liege = 0
+	}
+	11291.5.28 = {
+		holder = 144623
+	}
+	11292.4.16 = {
+		holder = 144624
+	}
+	11312.3.22 = {
+		holder = 0
+	}
+}
+
+
+d_teutonic_order = {
+	20.1.1 = {
+	}
+	11192.1.1 = {
+	}
+	11198.1.1 = {
+		holder = 30400 #Heinrich von Bassenheim
+	}
+	
+	11200.1.1 = {
+		holder = 30401 #Otto von Kerpen
+	}
+	
+	11208.1.1 = {
+		holder = 30402 #Heinrich von Tunna
+	}
+	11209.6.2 = {
+		holder = 30403 #Hermann von Salza
+	}
+	11239.3.20 = {
+		holder = 30404 #Konrad von Thüringen
+	}
+	11240.7.24 = {
+		holder = 30405 #Gerhard von Malberg
+	}
+	
+	11244.1.1 = {
+		holder = 30406 #Heinrich von Hohenlohe
+	}
+	11249.7.15 = {
+		holder = 30407 #Gunther von Wüllersleben
+	}
+	11252.5.4 = {
+		holder = 30408 #Poppo von Osterna
+	}
+	11256.1.1 = {
+		holder = 30409 #Anno von Sangershausen
+	}
+	11273.7.8 = {
+		holder = 30410 #Hartmann von Heldrungen
+	}
+	11282.8.19 = {
+		holder = 30411 #Burchard von Schwanden
+	}
+	11290.1.1 = {
+		holder = 30412 #Konrad von Feuchtwangen
+	}
+	11296.7.4 = {
+		holder = 30413 #Gottfried von Hohenlohe
+	}
+	11303.1.1 = {
+		holder = 30414 #Siegfried von Feuchtwangen
+	}
+	11311.5.3 = {
+		holder = 30415 #Karl von Trier
+	}
+	11324.2.11 = {
+		holder = 30416 #Werner von Orseln
+	}
+	11330.11.18 = {
+		holder = 30417 #Luther Welf
+	}
+	11335.4.18 = {
+		holder = 474000 #Dietrich von Altenburg
+	}
+}
+
+
+d_knights_hospitaler = {
+	20.1.1 = {
+	}
+	11187.5.1 = {
+		holder = 147007
+	}
+	11187.7.1 = {
+		holder = 147008
+	}
+	11190.1.1 = {
+		holder = 147009
+	}
+	11192.4.25 = {
+		holder = 147010
+	}
+	11202.3.23 = {
+		holder = 142132
+	}
+	11206.5.25 = {
+		holder = 147012
+	}
+	11207.4.27 = {
+		holder = 147013
+	}
+	11230.2.27 = {
+		holder = 147014
+	}
+	11231.9.12 = {
+		holder = 147015
+	}
+	11236.11.1 = {
+		holder = 147017
+	}
+	11240.3.17 = {
+		holder = 147018
+	}
+	11242.4.30 = {
+		holder = 147019
+	}
+	11258.6.6 = {
+		holder = 147020
+	}
+	11277.3.4 = {
+		holder = 147021
+	}
+	11284.5.5 = {
+		holder = 147021
+	}
+	#Fall of Accre
+	11291.5.28 = {
+		liege = 0
+	}
+	11294.9.9 = {
+		holder = 147022
+	}
+	11296.3.17 = {
+		holder = 147023
+	}
+	11305.2.13 = {
+		holder = 147024
+	}
+	11319.6.18 = {
+		holder = 478502
+	}
+}
+
+
+d_hashshashin = {
+	20.1.1 = {
+	}
+	11090.1.1 = {
+		holder = 144225
+	}
+	#11100.1.1 = {
+	#	holder = 144225
+	#}
+	11124.1.1 = {
+		holder = 144226
+	}
+	11138.1.1 = {
+		holder = 144227
+	}
+	11162.1.1 = {
+		holder = 227012
+	}
+	11192.1.1 = {
+		holder = 144228
+	}
+	11210.1.1 = {
+		holder = 144229
+	}
+	11221.1.1 = {
+		holder = 144230
+	}
+	11255.1.1 = {
+		holder = 144231
+	}
+	11256.1.1 = {
+		holder = 0
+	}
+}
+
+
+d_bektashi = {
+	20.1.1 = {
+	}
+	11230.1.1 = {
+	}
+}
+
+
+d_haruriyyah = {
+	20.1.1 = {
+	}
+}
+
+
+d_jomsvikings = {
+	20.1.1 = {
+	}
+}
+
+
+d_immortals = {
+	20.1.1 = {
+	}
+}
+
+
+d_zealots = {
+	20.1.1 = {
+	}
+}
+
+
+d_holy_sepulchre = {
+	20.1.1 = {
+	}
+}
+
+
+d_saint_anthony = {
+	20.1.1 = {
+	}
+}
+
+
+d_saint_addai = {
+	20.1.1 = {
+	}
+}
+
+
+d_sky_lords = {
+	20.1.1 = {
+	}
+}
+
+
+d_spirit_guardians = {
+	20.1.1 = {
+	}
+}
+
+
+d_warriors_perun = {
+	20.1.1 = {
+	}
+}
+
+
+d_chosen_perkunas = {
+	20.1.1 = {
+	}
+}
+
+
+d_sons_kaleva = {
+	20.1.1 = {
+	}
+}
+
+
+d_huitzilopochtli = {
+	20.1.1 = {
+	}
+}
+
+d_zun_warriors = {
+	# Knights of the Sun
+	
+	20.1.1 = {
+	}
+}
+
+e_latin_empire = {
+	11204.5.16 = {
+		holder = 205523 #Baudouin I van Vlaanderen
+	}
+	11205.6.1 = {
+		holder = 205525 #Henry I van Vlaanderen
+	}
+	11216.6.11 = {
+		holder = 205725 #Pierre I de Courtenay
+	}
+	11219.1.1 = {
+		holder = 205526 #Yolande van Vlaanderen (regent)
+	}
+	11219.8.1 = {
+		holder = 91062 #Robert de Courtenay
+	}
+	11228.1.30 = {
+		holder = 461742 #Jean de Brienne (regent)
+	}
+	11237.1.11 = {
+		holder = 91068 #Baudouin II de Courtenay
+	}
+	11261.7.25 = {
+		holder = 0
+	}
+}
+
+
+k_pechenegs = {
+	#Pechenegs in the Pontic Steppe
+	10901.1.1 = {
+		government = nomad_government	#Migration to Hungary.
+		liege = 0
+	}
+	10948.1.1 = {
+		holder = pecheneg000001
+	}
+	10988.1.1 = {
+		holder = pecheneg000002
+	}
+	10991.1.1 = {
+		holder = pecheneg000003
+	}
+	10999.1.1 = {
+		holder = pecheneg000004
+	}
+	11015.1.1 = {
+		holder = pecheneg000005
+	}
+	11034.1.1 = {
+		holder = pecheneg000006
+	}
+	11066.1.1 = {
+		holder = 20641
+		effect = {
+			set_de_jure_liege_title = title:e_caspian-pontic_steppe
+		}
+	}
+	11091.1.1 = {
+		holder = 0
+	}
+}
+
+
+#d_zaragoza = {
+	# Ye olde pre-Aragon merge-down history.
+	#10771.1.1 = {
+		#holder = 200046 # Husayn ibn Yahya al-Ansari
+		#liege = k_andalusia
+	#}
+	#10788.6.10 = {
+		#holder = 73810 # Musa ibn Furtun
+	#}
+	#10789.1.1 = {
+		#holder = 200051 # Walih Matruh ibn Suleyman of Barcelona
+	#}
+	#10792.1.1 = {
+		#holder = levantine0005 # Abd al-Malik ibn Abd al-Wahhad
+	#}
+	#10798.1.1 = {
+		#holder = basque0127 # Bahlul ibn Marzuq
+	#}
+	#10802.12.1 = {
+		#holder = 73799 # Walih Amrus ibn Yusuf of Toledo
+	#}
+	#10814.1.1 = {
+		#holder = 0
+	#}
+	#10848.1.1 = {
+		#holder = 73683 # Sultan Muhammad I of Andalusia
+	#}
+	#10852.10.14 = {
+		#holder = 73812 # Sultan Musa ibn Musa of Valencia
+		#liege = k_valencia
+	#}
+	#10860.1.1 = {
+		#holder = levantine0008 # Muhammad ibn Wuhayd
+		#liege = k_andalusia
+	#}
+	#10872.1.22 = {
+		#holder = 73818 # Isma'il ibn Lubb
+	#}
+	#10882.12.1 = {
+		#holder = 73815 # Muhammad ibn Lubb
+	#}
+	#10884.1.1 = {
+		#holder = 0
+	#}
+	#10890.1.1 = {
+		#holder = 73841 # Muhammad al-Anqar
+	#}
+	#10925.1.1 = {
+		#holder = 73842 # Hashim ibn Muhammad
+	#}
+	#10930.1.1 = {
+		#holder = 73843 # Muhammad ibn Hashim
+	#}
+	#10939.1.1 = {
+		#holder = 73845 # Yahya ibn Muhammad
+	#}
+	#10975.1.1 = {
+		#holder = 73847 # Abd al-Rahman ibn Yahya
+	#}
+	#10975.7.1 = {
+		#holder = 73845 # Yahya ibn Muhammad (restored)
+	#}
+	#10976.1.1 = {
+		#holder = 73846 # Abd al-Rahman ibn Muhammad
+	#}
+	#10989.1.1 = {
+		#holder = 73847 # Abd al-Rahman ibn Yahya (restored)
+	#}
+	#11013.1.1 = {
+		#holder = 73184 # Mundir I
+		#liege = 0
+	#}
+	#11022.1.1 = {
+		#holder = 73185 # al-Muzaffar
+	#}
+	#11036.1.1 = {
+		#holder = 73186 # Mundir II
+	#}
+	#11038.8.23 = {
+		#holder = 73187 # Abdallah ibn Hakam
+	#}
+	#11038.9.20 = {
+		#holder = 3933 # al-Musta'in I
+	#}
+	#11047.1.1 = {
+		#holder = 3934 # al-Muqtadir
+	#}
+	#11082.1.1 = {
+		#holder = 3935 # al-Mu'taman
+	#}
+	#11085.1.1 = {
+		#holder = 45005 # al-Musta'in II
+	#}
+	#11110.1.24 = {
+		#holder = 73180 # Imad al-Dawla
+	#}
+	#11110.5.31 = {
+		#holder = 73182 # Muhammad Hayyid
+		#liege = k_maghreb
+	#}
+	#11115.1.1 = {
+		#holder = 73183 # Abu Bakr ibn Ibrahim
+	#}
+#}
+
+
+
+d_erzerum = {
+	11071.8.26 = {
+		holder = 144044
+		liege = "k_persia"
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+				}
+				holder = {
+					change_government = clan_government
+				}
+			}
+		}
+	}
+	11077.1.1 = {
+		liege = 0
+	}
+	11102.1.1 = {
+		holder = 144045
+	}
+	11124.1.1 = {
+		holder = 144046
+	}
+	11132.1.1 = {
+		holder = 144047
+	}
+	11168.1.1 = {
+		holder = 225025
+	}
+	11191.1.1 = {
+		holder = 34395
+	}
+	11200.1.1 = {
+		holder = 34396
+	}
+	11202.1.1 = {
+		holder = 34397
+	}
+	11202.7.1 = {
+	
+		holder = 34180
+	}
+	11225.1.1 = {
+		holder = 34233
+	}
+	#placeholders
+	11230.1.1 = {
+		holder = 34398
+	}
+	11243.1.1 = {
+		liege = "e_ilkhanate"
+	}
+	11250.1.1 = {
+		holder = 34399
+	}
+	11280.1.1 = {
+		holder = 34400
+	}
+	11300.1.1 = {
+		holder = 34401
+	}
+	11335.1.1 = {
+		liege = "k_eretnid"
+		holder = 71864
+	}
+}
+
+
+d_amalfi = {
+	#Associated patrician titles:
+	#b_amalfinos
+	#b_kanakares
+	#b_konstantios
+	#b_manginos
+	#b_mauro
+	#b_musco
+	#b_polkarios
+	#b_ravelli
+	#b_sorrenti
+	#b_urso
+	10751.1.1 = {
+		liege = "e_byzantium"
+		holder = 145889 #Leon Amalfinos
+	}
+	10793.1.1 = {
+		holder = 145894 #Menas Manginos
+	}
+	10800.1.1 = {
+		holder = 145898 #Aristeides Kanakares
+	}
+	10806.1.1 = {
+		holder = 145896 #Tryphon Manginos
+	}
+	10807.1.1 = {
+		holder = 145890 #Timoleon Amalfinos
+	}
+	10812.1.1 = {
+		holder = 145900 #Timotheos Kanakares
+	}
+	10814.1.1 = {
+		holder = 145891 #Kaisarios Amalfinos
+	}
+	10818.1.1 = {
+		holder = 145904 #Gregorio Sorrenti
+	}
+	10830.1.1 = {
+		holder = 145907 #Marco Ravelli
+	}
+	10839.1.1 = {
+		liege = 0
+		holder = 0
+	#	holder = 6881 #Marinos I
+	}
+	#10860.1.1 =
+	#{
+	#	holder = 168373 #Sergios I
+	#}
+	#10862.1.1 =
+	#{
+	#	holder = 168480 #Mauro I
+	#}
+	#10866.1.1 =
+	#{
+	#	holder = 6881 #Marinos I (again)
+	#}
+	10870.1.1 = {
+		holder = 168399 #Polkarios I
+	}
+	10879.9.1 = {
+		holder = 168415 #Stefanos I
+	}
+	10898.1.1 = {
+		holder = 168418 #Mansone I
+	}
+	10914.1.1 = {
+		holder = 168419 #Mastalo I
+	}
+	10930.1.1 = {
+		holder = 168421 #Leone I
+	}
+	10931.6.25 = {
+		holder = 168422 #Giovanni I
+	}
+	10947.7.26 = {
+		holder = 168419 #Mastalo I (again)
+	}
+	10954.6.29 = {
+		holder = 168423 #Mastalo II
+	}
+	10958.1.1 = {
+		holder = 168439 #Sergio II
+	}
+	10966.11.20 = {
+		holder = 168440 #Mansone I
+	}
+	10984.1.1 = {
+		holder = 168442 #Adelferio I
+	}
+	10985.1.1 = {
+		holder = 168440 #Mansone I (again)
+	}
+	11004.1.1 = {
+		holder = 168448 #Giovanni II
+	}
+	11006.6.1 = {
+		holder = 168454 #Sergio III
+	}
+	11028.1.1 = {
+		holder = 168467 #Mansone II
+	}
+	11029.1.1 = {
+		holder = 168466 #Giovanni III
+	}
+	11034.1.1 = {
+		holder = 168467 #Mansone II (again)
+	}
+	11038.1.1 = {
+		holder = 168466 #Giovanni III (again)
+	}
+	11039.1.1 = {
+		holder = 1116 #Guaimario I
+	}
+	11051.1.1 = {
+		holder = 168474 #Guamario II
+	}
+	11052.1.1 = {
+		holder = 168466 #Giovanni III (again)
+	}
+	11060.1.1 = {
+		holder = 0
+	}
+	#11069.1.1 =
+	#{
+	#	holder = 168475 #Sergio IV
+	#}
+	#11072.1.1 =
+	#{
+	#	holder = 168476 #Giovanni IV
+	#}
+	#11076.12.13 = {
+	#	holder = 0
+	#}
+}
+
+
+d_belgrade = {
+	11248.1.1 = {
+		liege = "k_hungary"
+	}
+	11248.1.1 = {
+		holder = 98015
+	}
+	11262.1.2 = {
+		holder = 125058
+	}
+	11270.1.2 = {
+		holder = 125057
+	}
+	11272.11.15 = {
+		holder = 0
+	}
+}
+
+
+d_pronsk = {
+	11153.1.2 = {
+		holder = 222742
+	}
+	11177.6.30 = {
+		holder = 222745
+	}
+	11178.1.1 = {
+		succession_laws = { male_only_law }
+	}
+	11180.1.2 = {
+		holder = 222748
+	}
+	11207.1.2 = {
+		holder = 222754
+	}
+	11217.7.20 = {
+		holder = 222753
+	}
+	11237.12.27 = {
+		holder = 125085
+	}
+	11237.12.27 = {
+		liege = e_golden_horde
+	}
+	11252.1.2 = {
+		holder = 125086
+	}
+	11258.1.2 = {
+		holder = 125087
+	}
+	11270.7.19 = {
+		holder = 472524
+	}
+	11294.1.2 = {
+		holder = 125089
+	}
+	11299.1.2 = {
+		holder = 472522
+	}
+	11308.1.2 = {
+		holder = 472632
+	}
+	11326.1.2 = {
+		holder = 472630
+	}
+}
+
+
+d_sandomiersk = {
+	11138.10.28 = {
+		liege = "k_poland"
+	}
+	11138.10.28 = {
+		holder = 221510
+	}
+	11166.10.18 = {
+		holder = 125973
+	}
+	11173.4.3 = {
+		holder = 221520
+	}
+	11194.5.5 = {
+		holder = 221524
+	}
+	11227.11.23 = {
+		holder = 221525
+	}
+	11229.1.1 = {
+		holder = 125983 #Boleslaw I
+	}
+	11232.1.1 = {
+		holder = 125982 #Boleslaw V the Chaste
+	}
+	11279.12.7 = {
+		holder = 125984
+	}
+	11288.9.30 = {
+		holder = 471510
+	}
+	11306.8.4 = {
+		holder = 0
+	}
+}
+
+
+d_swiss = {
+	11291.7.15 = {
+		liege = "e_hre"
+	}
+	11291.7.15 = {
+		holder = 462085
+	}
+}
+
+
+d_socotra = {
+	10757.1.1 = {
+		liege = 0
+	holder = 145965
+	government = feudal_government
+	}
+	10789.1.1 = {
+		holder = 145966
+	}
+	10822.1.1 = {
+		holder = 145967
+	}
+	10853.4.1 = {
+		holder = 145618
+	}
+	10872.3.20 = {
+		holder = 145617
+	}
+	10897.6.3 = {
+		holder = 145616
+	}
+	11055.6.17 = {
+		holder = 145615
+	}
+	11076.7.6 = {
+		holder = 145614
+	}
+	11103.10.18 = {
+		holder = 145613
+	}
+	11141.1.4 = {
+		holder = 145612
+	}
+	11164.1.12 = {
+		holder = 145611
+	}
+	11181.11.4 = {
+		holder = 145610
+	}
+	11199.10.3 = {
+		holder = 145609
+	}
+	11228.3.1 = {
+		holder = 145608
+	}
+	11233.11.21 = {
+		holder = 145607
+	}
+	11261.12.29 = {
+		holder = 145606
+	}
+	11273.7.15 = {
+		holder = 145605
+	}
+	11289.1.30 = {
+		holder = 145604
+	}
+	11296.1.18 = {
+		holder = 145603
+	}
+	11302.7.4 = {
+		holder = 145598
+	}
+	11318.2.28 = {
+		holder = 145597
+	}
+	11320.11.16 = {
+		holder = 145598
+	}
+	11323.3.8 = {
+		holder = 145596
+	}
+}
+
+e_germany = {
+	20.1.1 = {
+		change_development_level = 4
+	}
+	11000.1.1 = {
+		change_development_level = 8
+	}
+	
+	11100.1.1 = {
+		change_development_level = 16
+	}
+}
+
+e_hre = {
+	20.1.1 = {
+		change_development_level = 4
+	}
+	10800.12.25 = {
+		holder = 6392 #Charlemagne
+		succession_laws = {
+			princely_elective_succession_law
+			male_only_law
+		}
+	}
+	10814.1.28 = {
+		holder = 0
+	}
+	10918.12.23 = {
+		holder = 1280 #Heinrich I  #King of Germany
+	}
+	10962.2.2 = {
+		holder = 1282 #Otto I
+		#The Ottonian Restoration
+		succession_laws = {
+			princely_elective_succession_law
+			male_only_law
+		}
+	}
+	10973.5.7 = {
+		holder = 1286 #Otto II
+	}
+	10983.12.7 = {
+		holder = 1288 #Otto III
+	}
+	11000.1.1 = {
+		change_development_level = 8
+	}
+	
+	11100.1.1 = {
+		change_development_level = 16
+	}
+	11002.1.12 = {
+		holder = 1296 #Heinrich II
+	}
+	11024.7.13 = {
+		holder = 1312 #Konrad II
+	}
+	11039.6.4 = {
+		holder = 1314 #Heinrich III
+	}
+	11056.5.10 = {
+		holder = 1316 #Heinrich IV
+	}
+	11106.7.8 = {
+		holder = 7901 #Heinrich V
+	}
+	
+	11122.1.1 = {
+		# Concordat of Worms
+	}
+	
+	11125.8.24 = {
+		holder = 30219 #Lothar III von Supplingburg
+	}
+	
+	11137.12.4 = {
+		holder = 7903 #Konrad III von Hohenstaufen
+	}
+	11152.2.15 = {
+		holder = 212501 #Friedrich I von Hohenstaufen
+	}
+	11190.6.10 = {
+		holder = 212507 #Heinrich VI von Hohenstaufen
+	}
+	11197.9.28 = {
+		holder = 212506 #Philip I von Hohenstaufen
+	}
+	
+	11208.6.21 = {
+		holder = 212607 #Otto IV Welf
+	}
+	11212.7.5 = {
+		holder = 212513 #Friedrich II von Hohenstaufen
+	}
+	11250.12.13 = {
+		holder = 30760 #Konrad IV von Hohenstaufen
+	}
+	11254.5.21 = {
+		holder = 94003 #Willem Gerulfing (van Holland)
+	}
+	11256.1.28 = {
+		holder = 232682 #Richard of Cornwall (Plantagenet)
+	}
+	11272.4.2 = {
+		holder = 462021 #Rudolf I von Habsburg
+	}
+	11291.7.15 = {
+		holder = 462360 #Adolf von Nassau
+	}
+	11298.6.23 = {
+		holder = 462023 #Albrecht I von Habsburg
+	}
+	11308.5.1 = {
+		holder = 462611 #Heinrich VII von Luxemburg
+	}
+	11313.8.24 = {
+		holder = 462740 #Ludwig III von Wittelsbach
+	}
+}
+
+
+e_britannia = {
+	20.1.1 = {
+		change_development_level = 2
+	}
+	
+	11000.1.1 = {
+		change_development_level = 5
+	}
+	
+	11100.1.1 = {
+		change_development_level = 12
+	}
+}
+
+h_roman_empire = {
+	3.1.27 = {
+		holder = 145290
+	} # this way Jan 27 BC is displayed in his date, only backwards!
+	24.8.19 = {
+		holder = 145075
+	} # moved date 10 years later so Augustus is not portrayed as child
+	37.3.16 = {
+		holder = 145289
+	}
+	41.1.24 = {
+		holder = 145288
+	}
+	54.10.13 = {
+		holder = 145287
+	}
+	68.6.9 = {
+		holder = 145286
+	}
+	69.1.15 = {
+		holder = 145285
+	}
+	69.4.16 = {
+		holder = 145284
+	}
+	69.12.20 = {
+		holder = 145281
+	}
+	79.6.23 = {
+		holder = 145282
+	}
+	81.9.13 = {
+		holder = 145283
+	}
+	96.9.18 = {
+		holder = 145280
+	}
+	98.1.27 = {
+		holder = 145279
+	}
+	10117.8.9 = {
+		holder = 145278
+	}
+	10138.7.10 = {
+		holder = 145277
+	}
+	10161.3.7 = {
+		holder = 145276
+	}
+	10169.2.1 = {
+		holder = 145274
+	}
+	10180.3.17 = {
+		holder = 145275
+	}
+	10193.1.1 = {
+		holder = 145273
+	}
+	10193.3.29 = {
+		holder = 145272
+	}
+	10193.6.1 = {
+		holder = 145269
+	}
+	10211.2.4 = {
+		holder = 145271
+	}
+	10211.12.19 = {
+		holder = 145270
+	}
+	10217.4.8 = {
+		holder = 145268
+	}
+	10218.6.8 = {
+		holder = 145267
+	}
+	10222.3.11 = {
+		holder = 145266
+	}
+	10235.3.19 = {
+		holder = 145265
+	}
+	10238.3.22 = {
+		holder = 145259
+	}
+	10238.4.1 = {
+		holder = 145260
+	}
+	10238.4.12 = {
+		holder = 145264
+	}
+	10238.6.1 = {
+		holder = 145263
+	}
+	10238.7.29 = {
+		holder = 145262
+	}
+	10244.2.11 = {
+		holder = 70526
+	}
+	10249.9.1 = {
+		holder = 145258
+	}
+	10251.6.1 = {
+		holder = 145257
+	}
+	10253.7.1 = {
+		holder = 145256
+	}
+	10253.8.1 = {
+		holder = 145254
+	}
+	10260.6.1 = {
+		holder = 145255
+	}
+	10268.8.1 = {
+		holder = 145252
+	}
+	10270.1.15 = {
+		holder = 145253
+	}
+	10270.5.1 = {
+		holder = 145250
+	}
+	10275.7.1 = {
+		holder = 145249
+	}
+	10275.9.25 = {
+		holder = 145247
+	}
+	10276.6.1 = {
+		holder = 145248
+	}
+	10276.9.1 = {
+		holder = 145245
+	}
+	10282.10.1 = {
+		holder = 145242
+	}
+	10283.8.1 = {
+		holder = 145243
+	}
+	10284.11.1 = {
+		holder = 145244
+	}
+	10285.7.1 = {
+		holder = 145241
+	}
+	10311.12.3 = {
+		holder = 0
+	}
+}
+
+e_byzantium = {
+	20.1.1 = {
+		change_development_level = 6
+	}
+	
+	10866.1.1 = {
+		government = administrative_government
+		succession_laws = {
+			acclamation_succession_law
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					holder = { has_government = administrative_government }
+				}
+				set_state_faith = faith:orthodox
+			}
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_type = court_intrigue
+				}
+			}
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+					add_realm_law_skip_effects = single_heir_succession_law
+				}
+			}
+		}
+	}
+	
+	11000.1.1 = {
+		change_development_level = 10
+	}
+	
+	11100.1.1 = {
+		change_development_level = 18
+	}
+	3.1.27 = {
+		holder = 145290
+	} # this way Jan 27 BC is displayed in his date, only backwards!
+	24.8.19 = {
+		holder = 145075
+	} # moved date 10 years later so Augustus is not portrayed as child
+	37.3.16 = {
+		holder = 145289
+	}
+	41.1.24 = {
+		holder = 145288
+	}
+	54.10.13 = {
+		holder = 145287
+	}
+	68.6.9 = {
+		holder = 145286
+	}
+	69.1.15 = {
+		holder = 145285
+	}
+	69.4.16 = {
+		holder = 145284
+	}
+	69.12.20 = {
+		holder = 145281
+	}
+	79.6.23 = {
+		holder = 145282
+	}
+	81.9.13 = {
+		holder = 145283
+	}
+	96.9.18 = {
+		holder = 145280
+	}
+	98.1.27 = {
+		holder = 145279
+	}
+	10117.8.9 = {
+		holder = 145278
+	}
+	10138.7.10 = {
+		holder = 145277
+	}
+	10161.3.7 = {
+		holder = 145276
+	}
+	10169.2.1 = {
+		holder = 145274
+	}
+	10180.3.17 = {
+		holder = 145275
+	}
+	10193.1.1 = {
+		holder = 145273
+	}
+	10193.3.29 = {
+		holder = 145272
+	}
+	10193.6.1 = {
+		holder = 145269
+	}
+	10211.2.4 = {
+		holder = 145271
+	}
+	10211.12.19 = {
+		holder = 145270
+	}
+	10217.4.8 = {
+		holder = 145268
+	}
+	10218.6.8 = {
+		holder = 145267
+	}
+	10222.3.11 = {
+		holder = 145266
+	}
+	10235.3.19 = {
+		holder = 145265
+	}
+	10238.3.22 = {
+		holder = 145259
+	}
+	10238.4.1 = {
+		holder = 145260
+	}
+	10238.4.12 = {
+		holder = 145264
+	}
+	10238.6.1 = {
+		holder = 145263
+	}
+	10238.7.29 = {
+		holder = 145262
+	}
+	10244.2.11 = {
+		holder = 70526
+	}
+	10249.9.1 = {
+		holder = 145258
+	}
+	10251.6.1 = {
+		holder = 145257
+	}
+	10253.7.1 = {
+		holder = 145256
+	}
+	10253.8.1 = {
+		holder = 145254
+	}
+	10260.6.1 = {
+		holder = 145255
+	}
+	10268.8.1 = {
+		holder = 145252
+	}
+	10270.1.15 = {
+		holder = 145253
+	}
+	10270.5.1 = {
+		holder = 145250
+	}
+	10275.7.1 = {
+		holder = 145249
+	}
+	10275.9.25 = {
+		holder = 145247
+	}
+	10276.6.1 = {
+		holder = 145248
+	}
+	10276.9.1 = {
+		holder = 145245
+	}
+	10282.10.1 = {
+		holder = 145242
+	}
+	10283.8.1 = {
+		holder = 145243
+	}
+	10284.11.1 = {
+		holder = 145244
+	}
+	10285.7.1 = {
+		holder = 145241
+	}
+	10305.4.1 = {
+		holder = 145293
+	} # Maximian
+	10305.5.1 = {
+		holder = 70524
+	}
+	10306.7.25 = {
+		holder = 145240
+	}
+	10311.5.5 = {
+		holder = 145294
+	} # Maxentius
+	10311.6.5 = {
+		holder = 145239
+	} # Maximinus II
+	10313.8.1 = {
+		holder = 145238
+	}
+	10324.9.19 = {
+		holder = 70523
+	}
+	10337.5.22 = {
+		holder = 70520
+	}
+	10340.4.1 = {
+		holder = 70522
+	}
+	10350.2.1 = {
+		holder = 70521
+	}
+	10361.11.3 = {
+		holder = 145237
+	}
+	10363.6.26 = {
+		holder = 145235
+	}
+	10364.2.17 = {
+		holder = 145231
+	}
+	10364.3.28 = {
+		holder = 145232
+	}
+	10378.8.9 = {
+		holder = 145233
+	}
+	10378.12.19 = {
+		holder = 145234
+	} # Valentinian II
+	10379.1.19 = {
+		holder = 70534
+	}
+	10395.1.17 = {
+		holder = 70519
+	}
+	10408.5.1 = {
+		holder = 145227
+	}
+	10421.2.8 = {
+		holder = 145228
+	}
+	10421.9.2 = {
+		holder = 70533
+	}
+	10450.7.28 = {
+		holder = 145229
+	} # Valentinian III
+	10450.8.25 = {
+		holder = 70518
+	}
+	10457.1.27 = {
+		holder = 70517
+	}
+	10474.1.18 = {
+		holder = 70516
+	}
+	10474.11.17 = {
+		holder = 70515
+	}
+	10475.1.9 = {
+		holder = 145226
+	}
+	10476.8.15 = {
+		holder = 70515
+	}
+	10491.4.9 = {
+		holder = 70514
+	}
+	10518.7.9 = {
+		holder = 70513
+	}
+	10527.8.1 = {
+		holder = 70512
+	}
+	10565.11.14 = {
+		holder = 70511
+	}
+	10578.10.5 = {
+			holder = 145073
+	}
+	10582.8.14 = {
+		holder = 70510
+	}
+	10602.11.27 = {
+			holder = 145072
+	}
+	10610.10.5 = {
+			holder = 145071
+	}
+	10641.2.11 = {
+		holder = 70509
+	}
+	10641.4.20 = {
+			holder = 145070
+	}
+	10641.10.1 = {
+		holder = 70508
+	}
+	10668.7.15 = {
+		holder = 70507
+	}
+	10685.9.14 = {
+		holder = 70506
+	}
+	10695.11.1 = {
+		holder = 70505
+	}
+	10698.11.1 = {
+		holder = 145069
+	}
+	10705.8.21 = {
+		holder = 70506
+	}
+	10711.11.24 = {
+			holder = 145068
+	}
+	10713.6.3 = {
+		holder = 70504
+	}
+	10715.11.1 = {
+		holder = 70532
+	}
+	10717.3.25 = {
+		holder = 70502
+	}
+	10741.6.18 = {
+		holder = 70501
+	}
+	10742.7.1 = {
+		holder = 145225
+	}
+	10743.11.2 = {
+		holder = 70501
+	}
+	10775.9.14 = {
+		holder = 70500
+	}
+	10780.9.8 = {
+		holder = 70499
+	}
+	10797.8.15 = {
+		holder = 70498
+	}
+	10802.10.31 = {
+		holder = 70497
+	}
+	10811.7.26 = {
+		holder = 70496
+	}
+	10811.10.2 = {
+		holder = 70494
+	}
+	10813.7.11 = {
+		holder = 70493
+	}
+	10820.12.27 = {
+		holder = 70492
+	}
+	10829.10.2 = {
+		holder = 70491
+	}
+	10842.1.20 = {
+		holder = 70490
+	}
+	10866.9.24 = {
+		holder = 1700
+	}
+	#10867.9.24 = { # The historical date, but we want the Macedonian dynasty in place at the bookmark start
+	#	holder = 1700
+	#}
+	10886.8.29 = {
+		holder = 1702
+	}
+	10912.5.11 = {
+		holder = 1704
+	}
+	10913.6.6 = {
+		holder = 1708
+	}
+	10920.12.17 = {
+		holder = 1706
+	}
+	10944.12.16 = {
+		holder = 145223
+	}
+	10945.1.27 = {
+		holder = 1708
+	}
+	10959.11.9 = {
+		holder = 1710
+	}
+	10963.3.15 = {
+		holder = 1712
+	}
+	10969.12.10 = {
+		holder = 1714
+	}
+	10976.1.10 = {
+		holder = 1716
+	}
+	11025.12.15 = {
+		holder = 1718
+	}
+	11028.11.15 = {
+		holder = 1720
+	}
+	11034.4.11 = {
+		holder = 1722
+	}
+	11041.12.10 = {
+		holder = 1724
+	}
+	11042.4.20 = {
+		holder = 1717
+	}
+	11042.6.11 = {
+		holder = 1726
+	}
+	11055.1.11 = {
+		holder = 1719
+	}
+	11056.8.31 = {
+		holder = 70432
+	}
+	11057.8.31 = {
+		holder = 1730
+	}
+	11059.11.22 = {
+		holder = 1732
+		effect = {
+			holder = {
+				create_maa_regiment = {
+					type = varangian_guards
+					check_can_recruit = no 
+					title = title:e_byzantium
+					size = 4
+				}
+			}
+		}
+	}
+	11067.5.22 = {
+		holder = 1733
+	} # Eudokia Makrembolites
+	11068.1.1 = {
+		holder = 1734
+	} # Romanos IV Diogenes
+	11071.8.26 = {
+		holder = 1736
+	}
+	11078.3.31 = {
+		holder = 1740
+	}
+	11081.4.1 = {
+		holder = 1742
+	}
+	11118.8.15 = {
+		holder = 223023
+	}
+	11143.4.8 = {
+		holder = 215530
+		effect = {
+			holder = {
+				random_maa_regiment = {
+					limit = { is_maa_type = varangian_guards }
+					change_maa_regiment_size = {
+						size = 5
+						reinforce = yes
+					}
+				}
+			}
+		}
+	}
+	11180.9.24 = {
+		holder = 215531
+	}
+	11183.9.24 = {
+		holder = 215529
+	}
+	11185.9.12 = {
+		holder = 215500
+	}
+	11195.6.1 = {
+		holder = 215503
+	}
+	11203.7.18 = {
+		holder = 215507
+	}
+	11204.1.28 = {
+		holder = 125710
+	}
+	11204.5.16 = {
+		holder = 215674
+	}
+	11222.8.2 = {
+		holder = 125741
+	}
+	11254.11.3 = {
+		holder = 125742
+	}
+	11258.8.18 = {
+		holder = 125743
+	}
+	11261.7.25 = {
+		holder = 465527
+	}
+	11282.12.11 = {
+		holder = 465521
+	}
+	11328.5.24 = {
+		holder = 465500
+	}
+}
+
+
+e_italy = {
+	20.1.1 = {
+		change_development_level = 6
+	}
+	
+	11000.1.1 = {
+		change_development_level = 9
+	}
+	
+	11100.1.1 = {
+		change_development_level = 17
+	}
+}
+
+
+#e_scandinavia = {
+#	20.1.1 = {
+#		change_development_level = 2
+#	}
+#	
+#	11000.1.1 = {
+#		change_development_level = 4
+#	}
+#	
+#	11100.1.1 = {
+#		change_development_level = 12
+#	}
+#}
+
+
+e_wendish_empire = {
+	20.1.1 = {
+		change_development_level = 2
+	}
+	
+	11000.1.1 = {
+		change_development_level = 5
+	}
+	
+	11100.1.1 = {
+		change_development_level = 12
+	}
+}
+
+
+e_russia = {
+	20.1.1 = {
+		change_development_level = 0
+	}
+	
+	11000.1.1 = {
+		change_development_level = 4
+	}
+	
+	11100.1.1 = {
+		change_development_level = 8
+	}
+}
+
+
+e_caspian-pontic_steppe = {
+	10691.1.1 = {
+		holder = 74007
+		government = tribal_government
+	}
+	10715.1.1 = {
+		holder = 74008
+	}
+	10731.1.1 = {
+		holder = 74009
+	}
+	10749.1.1 = {
+		holder = 74012
+	}
+	10763.1.1 = {
+		holder = 146203
+	}
+	10796.1.1 = {
+		holder = 74018
+	}
+	10802.1.1 = {
+		holder = 74019
+	}
+	10818.1.1 = {
+		holder = 74020
+	}
+	10829.1.1 = {
+		holder = 74021
+	}
+	10831.1.1 = {
+		holder = 74022
+	}
+	10847.1.1 = {
+		holder = 74023
+	}
+	10852.1.1 = {
+		holder = 74024
+	}
+	10864.1.1 = {
+		holder = 74025
+	}
+	10888.1.1 = {
+		holder = 74026
+	}
+	10899.1.1 = {
+		holder = 146187
+	}
+	10916.1.1 = {
+		holder = 146188
+	}
+	10920.1.1 = {
+		holder = 146189
+	}
+	10928.1.1 = {
+		holder = 146190
+	}
+	10945.1.1 = {
+		holder = 146191
+	}
+	10969.1.1 = {
+		holder = 146193
+	}
+	10993.1.1 = {
+		holder = 146194
+	}
+	11016.1.1 = {
+		holder = 0
+	}
+	11066.1.1 = {
+		holder = 806
+	}
+	11178.1.1 = {
+		holder = 228030
+	}
+}
+
+
+e_persia = {
+	10226.1.1 = {
+		holder = 159601 # Ardashir I
+	}
+	10241.1.1 = {
+		holder = 180605 # Shapur I
+	}
+	10272.1.1 = {
+		holder = 180606 # Hormizd I
+	}
+	10273.1.1 = {
+		holder = 180607 # Bahram I
+	}
+	10276.1.1 = {
+		holder = 180608 # Bahram II
+	}
+	10293.1.1 = {
+		holder = 180609 # Bahram III
+	}
+	10293.4.1 = {
+		holder = 180610 # Narseh
+	}
+	10302.1.1 = {
+		holder = 180611 # Hormizd II
+	}
+	10309.1.1 = {
+		holder = 180617 # Shapur II
+	}
+	10379.1.1 = {
+		holder = 180614 # Ardashir II
+	}
+	10383.1.1 = {
+		holder = 180616 # Shapur III
+	}
+	10388.1.1 = {
+		holder = 180618 # Bahram IV
+	}
+	10399.1.1 = {
+		holder = 180619 # Yazdegerd I
+	}
+	10421.1.1 = {
+		holder = 180620 # Bahram V
+	}
+	10438.1.1 = {
+		holder = 180621 # Yazdegerd II
+	}
+	10457.1.1 = {
+		holder = 180622 # Hormizd III
+	}
+	10459.1.1 = {
+		holder = 180624 # Peroz I
+	}
+	10484.6.1 = {
+		holder = 180623 # Balash
+	}
+	10488.1.1 = {
+		holder = 180627 # Kavadh I
+	}
+	10496.1.1 = {
+		holder = 180625 # Djamasp
+	}
+	10498.1.1 = {
+		holder = 180627 # Kavadh I
+	}
+	10531.9.1 = {
+		holder = 180628 # Khosrau I
+	}
+	10579.1.1 = {
+		holder = 180630 # Hormizd IV
+	}
+	10590.1.1 = {
+		holder = 180645 # Bahram VI
+	}
+	10592.1.1 = {
+		holder = 180631 # Khosrau II
+	}
+	10628.2.28 = {
+		holder = 180632 # Kavadh II
+	}
+	10628.6.1 = {
+		holder = 180633 # Ardashir III
+	}
+	10630.4.27 = {
+		holder = 180634 # Borandukht
+	}
+	10631.5.1 = {
+		holder = 180635 # Azarmidokht
+	}
+	10631.9.1 = {
+		holder = 180637 # Yazdegerd III
+	}
+	10651.1.1 = {
+		holder = 0
+	}
+	#10750.1.1 = {
+	#	holder = 34001
+	#}
+	#10754.1.1 = {
+	#	holder = 34002
+	#}
+	#10775.1.1 = {
+	#	holder = 34003
+	#}
+	#10785.1.1 = {
+	#	holder = 34004
+	#}
+	#10786.1.1 = {
+	#	holder = 34005
+	#}
+	#10809.1.1 = {
+	#	holder = 34006
+	#}
+	#10813.1.1 = {
+	#	holder = 34007
+	#}
+	#10833.8.9 = {
+	#	holder = 34008
+	#}
+	#10842.1.5 = {
+	#	holder = 34009
+	#}
+	#10847.1.1 = {
+	#	holder = 34010
+	#}
+	#10861.12.1 = {
+	#	holder = 34012
+	#}
+	#10862.6.7 = {
+	#	holder = 34013
+	#}
+	#10866.1.1 = {
+	#	holder = 34014
+	#}
+	#10869.1.1 = {
+	#	holder = 34015
+	#}
+	#10870.6.1 = {
+	#	holder = 34016
+	#}
+	#10892.10.1 = {
+	#	holder = 34018
+	#}
+	#10902.1.1 = {
+	#	holder = 34019
+	#}
+	#10908.1.1 = {
+	#	holder = 34021
+	#}
+	#10932.1.1 = {
+	#	holder = 34020
+	#}
+	#10934.1.1 = {
+	#	holder = 34022
+	#}
+	#10940.1.1 = {
+	#	holder = 34023
+	#}
+	#10944.1.1 = {
+	#	holder = 34024
+	#}
+	#10946.1.1 = {
+	#	holder = 34025
+	#}
+	#10974.1.1 = {
+	#	holder = 3080
+	#}
+	#10978.1.1 = {
+	#	holder = 0
+	#}
+	
+	#Seljuk Turks
+	11063.9.4 = {
+		holder = 3040
+	}
+	11072.11.1 = {
+		holder = 3042
+	}
+	11092.11.1 = {
+		holder = 144012
+	}
+	11094.1.1 = {
+		holder = 144013
+	}
+	11105.3.1 = {
+		holder = 144014
+	}
+	11118.4.18 = {
+		holder = 144015
+	}
+	11157.5.8 = {
+		holder = 0 # End of the Seljuk Turks
+	}
+}
+
+
+e_carpathia = {
+	20.1.1 = {
+		change_development_level = 2
+	}
+	
+	11000.1.1 = {
+		change_development_level = 5
+	}
+	
+	11100.1.1 = {
+		change_development_level = 12
+	}
+}
+
+
+e_france = {
+	20.1.1 = {
+		change_development_level = 4
+	}
+	
+	11000.1.1 = {
+		change_development_level = 8
+	}
+	
+	11100.1.1 = {
+		change_development_level = 16
+	}
+	
+	10751.11.1 = {
+		holder = 131722 #PÃ©pin le Bref
+	}
+	10768.9.24 = {
+		holder = 0
+	}
+}
+
+
+e_spain = {
+	20.1.1 = {
+		change_development_level = 3
+	}
+	
+	11000.1.1 = {
+		change_development_level = 7
+	}
+	
+	11100.1.1 = {
+		change_development_level = 14
+	}
+}
+
+
+k_asturias = {
+	10718.1.1 = {
+		holder = 70000 # Pelayo
+		succession_laws = { feudal_elective_succession_law }
+	}
+	10737.1.1 = {
+		holder = 70115 # Favila
+	}
+	10739.6.15 = {
+		holder = 70003 # Alfonso I Pérez
+	}
+	10757.1.1 = {
+		holder = 70004 # Fruela I Adefónsiz
+	}
+	10768.1.1 = {
+		holder = 70012 # Aurelio Froilaz de Cantabria
+	}
+	10773.1.1 = {
+		holder = 70118 # Silo, King of Asturias
+	}
+	10783.1.1 = {
+		holder = 70006 # Alfonso II Froilaz
+	}
+	10783.2.1 = {
+		holder = 70116 # Mauregato Adefónsiz
+	}
+	10788.1.1 = {
+		holder = 70013 # Bermudo I Froilaz
+	}
+	10791.1.1 = {
+		holder = 70006 # Alfonso II de Asturias (restored)
+	}
+	10842.3.20 = {
+		holder = basque0007 # Conde Nepociano
+	}
+	10843.1.1 = {
+		holder = 70015 # Ramiro I Bermúdez
+		# Ramiro I defeats the elected usurper Nepotian & mostly-establishes hereditary monarchy.
+		succession_laws = {}
+	}
+	10850.2.1 = {
+		holder = 70017 # Ordoño I Ramírez
+	}
+	10866.5.27 = {
+		holder = 70019 # Alfonso III Ordóñez
+	}
+	10910.12.20 = {
+		holder = 0
+		de_jure_liege = 0
+	}
+}
+
+k_visigoths = {
+	10395.1.1 = {
+		holder = 200291 # Alarico I
+	}
+	10410.1.1 = {
+		holder = 200290 # Ataúlfo
+	}
+	10415.8.14 = {
+		holder = 200289 # Sigerico
+	}
+	10415.8.21 = {
+		holder = 200288 # Walia
+	}
+	10418.1.1 = {
+		holder = 200287 # Teodorico I, settled in Southern Gallia & Northen Spain, capital in Toulouse
+	}
+	10451.9.20 = {
+		holder = 200286 # Turismundo
+	}
+	10453.1.1 = {
+		holder = 200285 # Teodorico II
+	}
+	10466.1.1 = {
+		holder = 200284 # Eurico
+	}
+	10484.1.1 = {
+		holder = 200283 # Alarico II
+	}
+	10507.4.1 = {
+		holder = 200282 # Gesaleico, moved capital to Toledo
+	}
+	10511.1.1 = {
+		holder = 200281 # Amalarico
+	}
+	10531.1.1 = {
+		holder = 200280 # Teudis, an ostrogoth
+	}
+	10548.1.1 = {
+		holder = 200279 # Teudiselo, an ostrogoth
+	}
+	10549.12.1 = {
+		holder = 200277 # Agila I
+	}
+	10555.3.1 = {
+		holder = 200276 # Atanagildo
+	}
+	10567.1.1 = {
+		holder = 200275 # Liuva I
+	}
+	10572.1.1 = {
+		holder = 200273 # Leovigildo
+	}
+	10586.4.1 = {
+		holder = 200272 # Recaredo I, adopted catholicism
+	}
+	10601.12.21 = {
+		holder = 200271 # Liuva II
+	}
+	10603.3.1 = {
+		holder = 200270 # Witerico
+	}
+	10610.4.1 = {
+		holder = 200269 # Gundemaro
+	}
+	10612.3.1 = {
+		holder = 200259 # Sisebuto
+	}
+	10621.2.1 = {
+		holder = 200258 # Recaredo II
+	}
+	10621.3.1 = {
+		holder = 200256 # Suintila
+	}
+	10631.3.23 = {
+		holder = 200278 # Sisenando
+	}
+	10636.3.12 = {
+		holder = 200254 # Chintila
+	}
+	10639.12.20 = {
+		holder = 200255 # Tulga
+	}
+	10642.4.16 = {
+		holder = 200240 # Chindasvinto
+	}
+	10653.9.30 = {
+		holder = 200249 # Recesvinto
+	}
+	10672.9.1 = {
+		holder = 200248 # Wamba
+	}
+	10680.1.1 = {
+		holder = 200237 # Ervigio
+	}
+	10687.11.15 = {
+		holder = 200243 # Egica
+	}
+	10703.1.1 = {
+		holder = 200244 # Witiza
+	}
+	10710.1.1 = {
+		holder = 200251 # Rodrigo
+	}
+	10711.7.20 = {
+		holder = 200245 # Agila II, King in northeastern Spain
+	}
+	10713.1.1 = {
+		holder = 200253 # Ardo, King in Septimania
+	}
+	10720.1.1 = {
+		holder = 0
+	}
+}
+
+
+e_maghreb = {
+	20.1.1 = {
+		change_development_level = 2
+	}
+	
+	11000.1.1 = {
+		change_development_level = 5
+	}
+	
+	11100.1.1 = {
+		change_development_level = 12
+	}
+}
+
+
+e_arabia = {
+	20.1.1 = {
+		change_development_level = 2
+	}
+	
+	11000.1.1 = {
+		change_development_level = 6
+	}
+	
+	11100.1.1 = {
+		change_development_level = 13
+	}
+	
+	10661.2.28 = {
+		holder = 163029
+	}
+	10680.5.6 = {
+		holder = 163030
+	}
+	10683.1.1 = {
+		holder = 163031
+	}
+	10684.12.1 = {
+		holder = 163003
+	}
+	10685.5.7 = {
+		holder = 163002
+	}
+	10705.1.1 = {
+		holder = 163032
+	}
+	10715.1.1 = {
+		holder = 163033
+	}
+	10717.10.1 = {
+		holder = 163035
+	}
+	10720.2.10 = {
+		holder = 163036
+	}
+	10724.1.1 = {
+		holder = 163001
+	}
+	10743.2.6 = {
+		holder = 163037
+	}
+	10744.6.16 = {
+		holder = 163038
+	}
+	10744.10.3 = {
+		holder = 163039
+	}
+	10744.11.3 = {
+		holder = 163041
+	}
+	10750.1.1 = {
+		holder = 34001
+	}
+	10754.6.10 = {
+		holder = 34002
+	}
+	10775.1.1 = {
+		holder = 34003
+	}
+	10785.1.1 = {
+		holder = 34004
+	}
+	10786.1.1 = {
+		holder = 34005
+	}
+	10809.1.1 = {
+		holder = 34006
+	}
+	10813.1.1 = {
+		holder = 34007
+	}
+	10833.8.9 = {
+		holder = 34008
+	}
+	10842.1.5 = {
+		holder = 34009
+	}
+	10847.1.1 = {
+		holder = 34010
+	}
+	10861.12.1 = {
+		holder = 34012
+	}
+	10862.6.7 = {
+		holder = 34013
+	}
+	10866.1.1 = {
+		holder = 34014
+	}
+	10869.1.1 = {
+		holder = 34015
+	}
+	10870.6.1 = {
+		holder = 34016
+	}
+	10892.10.1 = {
+		holder = 34018
+	}
+	10902.1.1 = {
+		holder = 34019
+	}
+	10908.1.1 = {
+		holder = 34021
+	}
+	10932.1.1 = {
+		holder = 34020
+	}
+	10934.1.1 = {
+		holder = 34022
+	}
+	10940.1.1 = {
+		holder = 34023
+	}
+	10944.1.1 = {
+		holder = 34024
+	}
+	10946.1.1 = {
+		holder = 34025
+	}
+	10974.1.1 = {
+		holder = 3080
+	}
+	10978.1.1 = {
+		holder = 0
+	}
+}
+
+
+e_abyssinia = {
+	20.1.1 = {
+		change_development_level = 2
+	}
+	
+	11000.1.1 = {
+		change_development_level = 6
+	}
+	
+	11100.1.1 = {
+		change_development_level = 13
+	}
+}
+
+
+e_mali = {
+	20.1.1 = {
+		change_development_level = 0
+	}
+	
+	11000.1.1 = {
+		change_development_level = 3
+	}
+	
+	11100.1.1 = {
+		change_development_level = 6
+	}
+}
+
+
+h_india = {
+	20.1.1 = {
+	}
+}
+
+
+e_rajastan = {
+	20.1.1 = {
+		change_development_level = 3
+	}
+	
+	11000.1.1 = {
+		change_development_level = 7
+	}
+	
+	11100.1.1 = {
+		change_development_level = 14
+	}
+	
+	10733.8.14 = {
+		holder = 188377 # Lalitaditya Muktapida
+	}
+	10736.1.1 = {
+		holder = 188378 # Kuvalayapida
+	}
+	10737.1.1 = {
+		holder = 188379 # Vajraditya
+	}
+	10744.1.1 = {
+		holder = 0
+	}
+	11186.1.1 = {
+		holder = 144141
+	}
+	11203.1.1 = {
+		holder = 144142
+	}
+	11206.3.15 = {
+		holder = 170190 #Qutb-ud-din Aibak
+	}
+	11210.1.1 = {
+		holder = 170191 #Aram
+	}
+	11211.1.1 = {
+		holder = 170193 #Iltutmish
+	}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+e_deccan = {
+	20.1.1 = {
+		change_development_level = 4
+	}
+	
+	11000.1.1 = {
+		change_development_level = 8
+	}
+	
+	11100.1.1 = {
+		change_development_level = 16
+	}
+	11337.1.1 = {
+		holder = 74401
+	}
+}
+
+
+e_tibet = {
+	21.1.1 = {
+		change_development_level = 1
+	}
+	
+	11001.1.1 = {
+		change_development_level = 3
+	}
+	
+	11101.1.1 = {
+		change_development_level = 6
+	}
+	10619.1.1={
+		holder = 247075
+	} #Songtsen Gampo
+	10646.1.1={
+		holder = 247088
+	} #Gungsrong Gungtsen (regent for his father)
+	10649.1.1={
+		holder = 247075
+	} #Songtsen Gampo takes authority again
+	10656.1.1={
+		holder = 247089
+	} #Mangsong Mangtsen
+	10686.1.1={
+		holder = 247091
+	} #Tridu Songtsen
+	10704.6.1={
+		holder = 247096
+	} #Lha Balpo (Deposed)
+	10705.1.1={
+		holder = 247090
+	} #ThrimalÃ¶ (Regent)
+	10712.1.1={
+		holder = 247097
+	} #Me Agtsom
+	10755.1.1={
+		holder = 247105
+	} #Trisong Detsen
+	10797.1.1={
+		holder = 247116
+	} #MunÃ©
+	10799.1.1={
+		holder = 247118
+	} #Mutik
+	10799.6.1={
+		holder = 247119
+	} #Sadnalegs
+	10815.1.1={
+		holder = 247125
+	} #Ralpacan
+	10838.11.1={
+		holder = 247126
+	} #Langdarma
+	10842.1.1={
+		holder = 0
+	}
+}
+
+k_genoa = {
+	11099.1.1 = {
+		government = republic_government
+	}
+	11134.1.1 = {
+		holder = 91413 # Ansaldo Doria
+	}
+	11147.1.1 = {
+		holder = 91413 # Ansaldo Doria (2nd time)
+	}
+	11154.1.1 = {
+		holder = 91413 # Ansaldo Doria (3rd time)
+	}
+	11156.1.1 = {
+		holder = 91414 # Enrico Doria
+	}
+	11160.1.1 = {
+		holder = 91413 # Ansaldo Doria (4th time)
+	}
+	11165.1.1 = {
+		holder = 91416 # Simone Doria (2 year mandate)
+	}
+	11172.6.1 = {
+		holder = 91416 # Simone Doria (2nd time)
+	}
+	11174.1.1 = {
+		holder = cisalpine0244 # Guglielmo Doria
+	}
+	11176.1.1 = {
+		holder = 91416 # Simone Doria (3rd time)
+	}
+	11179.1.1 = {
+		holder = cisalpine0244 # Guglielmo Doria (2nd time)
+	}
+	11180.1.1 = {
+		holder = 91416 # Simone Doria (4th time)
+	}
+	11181.1.1 = {
+		holder = cisalpine0244 # Guglielmo Doria (3rd time)
+	}
+	11182.1.1 = {
+		holder = 235033 # Andrea Doria
+	}
+	11183.1.1 = {
+		holder = cisalpine0244 # Guglielmo Doria (4th time)
+	}
+	11185.1.1 = {
+		holder = 91416 # Simone Doria (5th time)
+	}
+	11186.1.1 = {
+		holder = cisalpine0244 # Guglielmo Doria (5th time)
+	}
+	11188.1.1 = {
+		holder = 91416 # Simone Doria (6th time)
+	}
+	11194.6.1 = {
+		holder = 71073 # Ottone del Carretto
+	}
+	11203.1.1 = {
+		holder = 91417 # NiccolÃ² Doria (2 year mandate)
+	}
+	11207.1.1 = {
+		holder = 91417 # NiccolÃ² Doria (2nd time)
+	}
+	11208.4.1 = {
+		holder = cisalpine0245 # Montanaro Doria
+	}
+	11290.6.1 = {
+		holder = cisalpine0246 # Daniele Doria
+	}
+	11212.4.1 = {
+		holder = 91417 # NiccolÃ² Doria (3rd time)
+	}
+	11213.6.1 = {
+		holder = cisalpine0245 # Montanaro Doria (2nd time)
+	}
+	11215.6.1 = {
+		holder = 71150 # Manuele Doria
+	}
+	11216.4.1 = {
+		holder = cisalpine0247 # Percivalle Doria
+	}
+	11231.1.1 = {
+		holder = cisalpine0784 # Ugolino Rossi
+	}
+	11243.1.1 = {
+		holder = cisalpine0706 # Emanuele Maggi
+	}
+	11250.1.1 = {
+		holder = cisalpine0734 # Gherardo da Correggio of Parma
+	}
+	11256.1.1 = {
+		holder = 70766 # Filippo of Lombardia
+	}
+	11265.10.2 = {
+		holder = 91432 # Oberto Doria
+	}
+	11271.1.1 = {
+		holder = 91432 # Oberto Doria (2nd time)
+	}
+	11273.1.1 = {
+		holder = 91432 # Oberto Doria (3rd time)
+	}
+	11275.1.1 = {
+		holder = 91432 # Oberto Doria (4th time)
+	}
+	11277.1.1 = {
+		holder = 91432 # Oberto Doria (5th time)
+	}
+	11279.1.1 = {
+		holder = 91432 # Oberto Doria (6th time)
+	}
+	11281.1.1 = {
+		holder = 91432 # Oberto Doria (7th time)
+	}
+	11283.1.1 = {
+		holder = 91432 # Oberto Doria (8th time)
+	}
+	11285.1.1 = {
+		holder = 91432 # Oberto Doria (9th time)
+	}
+	11287.1.1 = {
+		holder = 71158 # Corrado Doria
+	}
+	11289.1.1 = {
+		holder = 71158 # Corrado Doria (2nd time)
+	}
+	11291.1.1 = {
+		holder = 71158 # Corrado Doria (3rd time)
+	}
+	11299.1.1 = {
+		holder = 91434 # Lamba Doria
+	}
+	11307.1.1 = {
+		holder = 71155 # BernabÃ² Doria
+	}
+	11309.1.1 = {
+		holder = 71155 # BernabÃ² Doria (2nd time)
+	}
+	11318.7.27 = {
+		holder = 0
+	}
+	11335.1.1 = {
+		holder = cisalpine0259 # Raffaello Doria
+	}
+	11337.1.1 = {
+		holder = cisalpine0259 # Raffaello Doria (2nd time)
+	}
+}
+
+k_pisa = {
+	11060.1.1 = {
+		government = republic_government
+		holder = 180023 #Tedice III della Gheradesca
+	}
+	11078.1.1 = {
+		holder = 180203 #Gerardo Visconti
+	}
+	11084.1.1 = {
+		holder = 167486 #Ugo Caetani
+	}
+	11100.1.1 = {
+		holder = 167508 #Antonio Alliata
+	}
+	11115.1.1 = {
+		holder = 167407 #Leonardo I d'Appiano
+	}
+	11140.1.1 = {
+		holder = 180025 #Tedice V della Gheradesca
+	}
+	11157.1.1 = {
+		holder = 71168 #Alberto Visconti
+	}
+	11174.1.1 = {
+		holder = 167443 #Gregorio Caetani
+	}
+	11190.1.1 = {
+		holder = 167512 #Dazio Alliata
+	}
+	11215.1.1 = {
+		holder = 167410 #Jacopo II d'Appiano
+	}
+	11220.1.1 = {
+		holder = 180026 #Tedice VI della Gherardesca
+	}
+	11222.1.1 = {
+		holder = 71166 #Ubaldo Visconti
+	}
+	11230.1.1 = {
+		holder = 167453 #Mattia Caetani
+	}
+	11260.1.1 = {
+		holder = 167514 #Fillipo Alliata
+	}
+	11270.1.1 = {
+		holder = 167401 #Jacopo III d'Appiano
+	}
+	11285.1.1 = { # The Battle of Meloria
+		holder = 0
+		liege = 0
+	}
+}
+
+k_magyar = {
+	20.1.1 = {
+		government = nomad_government
+	}
+	10764.1.1 = {
+		holder = 146214
+	}
+	10803.1.1 = {
+		holder = 146229
+	}
+	10826.1.1 = {
+		holder = 146230
+	}
+	10845.1.1 = {
+		holder = 159137 #Almos Arpad
+	}
+	10895.1.1 = {
+		holder = 159136
+	}
+	10907.1.1 = {
+		holder = 159135
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10955.1.2 = {
+		holder = 460
+	}
+	10972.1.1 = {
+		holder = 464
+	}
+	10997.2.1 = {
+		holder = 482
+	}
+	11000.12.25 = {
+		holder = 0
+	}
+}
+
+k_moravia = {
+	10830.1.1 = {
+		holder = 187001
+	}
+	10846.8.15 = {
+		holder = 187002
+	}
+	10869.1.1 = {
+		holder = 187003
+	}
+	10871.1.1 = {
+		holder = 187004
+	}
+	10871.12.1 = {
+		holder = 187003
+	}
+	10894.1.1 = {
+		holder = 187006
+	}
+	10907.7.4 = {
+		holder = 0
+	}
+}
+
+#Shen clan leaders of Eternal B?n
+d_yungdrung_bon = {
+	11025.1.1={
+		holder = 252012
+	}
+	11035.1.1={
+		holder = 304212
+	}
+	11110.1.1={
+		holder = 304218
+	}
+	11170.1.1={
+		holder = 304219
+	}
+	11223.1.1={
+		holder = 304223
+	}
+	11260.1.1={
+		holder = 304224
+	}
+	11271.1.1={
+		holder = 304228
+	}
+	11315.1.1={
+		holder = 304230
+	}
+	11348.1.1={
+		holder = 304235
+	}
+}
+
+d_imami = { # Twelver Imams
+	10765.12.14 = {
+		succession_laws = {
+			temporal_head_of_faith_succession_law
+		}
+		holder_ignore_head_of_faith_requirement = 163022 # Musa al-Kadhim
+	}
+	10799.9.1 = {
+		holder_ignore_head_of_faith_requirement = 163023 # Ali al-Ridha
+	}
+	10818.8.23 = {
+		holder_ignore_head_of_faith_requirement = 163024 # Muhammad al-Taqi
+	}
+	10835.11.24 = {
+		holder_ignore_head_of_faith_requirement = 163025 # Ali al-Hadi
+	}
+	10866.12.30 = {
+		holder_ignore_head_of_faith_requirement = 0
+	}
+	10868.1.1 = {
+		holder_ignore_head_of_faith_requirement = 163026 # Hasan al-Askari
+	}
+	10874.1.1 = {
+		holder_ignore_head_of_faith_requirement = 163027 # Muhammad al-Mahdi
+	}
+	10909.1.1 = {
+		holder = 0
+	}
+}
+
+d_samaritan = { # Samaritan High Priesthood, worth noting a lot of these dates are guesses, the pre-17th century High Priests are not very well-documented
+	10620.1.1 = {
+		holder = samaritan_priesthood_eleazar_viii
+	}
+	10660.1.1 = {
+		holder = samaritan_priesthood_netaniel_vi
+	}
+	10725.1.1 = {
+		holder = samaritan_priesthood_eleazar_ix
+	}
+	10782.1.1 = {
+		holder = samaritan_priesthood_akabon_vii
+	}
+	10843.1.1 = {
+		liege = "e_arabia"
+		holder = samaritan_priesthood_eleazar_x # Eleazar X
+	}
+	10901.1.1 = {
+		holder = samaritan_priesthood_akabon_viii
+	}
+	10943.1.1 = {
+		holder = samaritan_priesthood_eleazar_xi
+	}
+	10973.1.1 = {
+		holder = samaritan_priesthood_akabon_ix
+	}
+	11012.1.1 = {
+		holder = samaritan_priesthood_eleazar_xii
+	}
+	11066.1.1 = {
+		liege = "k_egypt"
+		holder = samaritan_priesthood_simeon_i # Simeon I
+	}
+	11088.1.1 = {
+		holder = samaritan_priesthood_1 # Amram V
+	}
+	11116.1.1 = {
+		holder = samaritan_priesthood_2 # Aaron III
+	}
+	11137.1.1 = {
+		holder = samaritan_priesthood_3 # Amram VI
+	}
+	11164.1.1 = {
+		holder = samaritan_priesthood_4 # Aaron IV
+	}
+}
+
+k_portugal = {
+	11139.7.26 = {
+		holder = 209503 # Afonso I de Bourgogne, "He was proclaimed king by his soldiers, probably after the victory over the Moors at Ourique, July 26, 1139"
+	}
+}
+
+k_rum = {
+	11077.1.1 = {
+		holder = 3046
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+				}
+				holder = {
+					change_government = clan_government
+				}
+			}
+		}
+	}
+	11086.1.1= {
+		holder = 41701
+	}
+	11097.1.1 = {
+		effect = {
+			set_capital_county = title:c_lycaonia
+		}
+	}
+	11107.1.1= {
+		holder = 144011
+	}
+	11116.1.1= {
+		holder = 7299
+	}
+	11155.4.1= {
+		holder = 225000
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_language = language_iranian
+					if = {
+						limit = { NOT = { knows_court_language_of = this } }
+						learn_court_language_of = this
+					}
+				}
+			}
+		}
+	}
+	11192.1.1= {
+		holder = 225002
+	}
+}
+
+e_bengal = {
+	20.1.1 = {
+		change_development_level = 2
+	}
+	11000.1.1 = {
+		change_development_level = 5
+	}
+	11100.1.1 = {
+		change_development_level = 12
+	}
+
+	10320.1.1 = {
+		holder = gupta_3 # Chandragupta I
+		government = feudal_government
+	}
+	10350.1.1 = {
+		holder = gupta_2 # Samudragupta
+	}
+	10375.1.1 = {
+		holder = gupta_1 # Chandragupta II
+	}
+	10415.1.1 = {
+		holder = gupta_6 # 	Kumaragupta I
+	}
+	10455.1.1 = {
+		holder = gupta_9 # Skandagupta
+	}
+	10468.1.1 = {
+		holder = gupta_10 # Purugupta
+	}
+	10473.1.1 = {
+		holder = gupta_11 # Kumaragupta II
+	}
+	10476.1.1 = {
+		holder = gupta_12 # Budhagupta
+	}
+	10495.1.1 = {
+		holder = gupta_13 # Narasimhagupta
+	}
+	10530.1.1 = {
+		holder = gupta_14 # Kumaragupta III
+	}
+	10540.1.1 = {
+		holder = gupta_15 # Vishnugupta
+	}
+	10550.1.1 = {
+		holder = 0
+	}
+}
+
+e_uyghur_khanate = {
+	10795.1.1 = {
+		holder = yaglakar_7 # Huaixin Qaghan
+	}
+	10808.1.1 = {
+		holder = yaglakar_5 # Baoyi Qaghan
+	}
+	10821.1.1 = {
+		holder = yaglakar_4 # Chongde Qaghan
+	}
+	10824.1.1 = {
+		holder = yaglakar_3 # Zhaoli Qaghan
+	}
+	10833.1.1 = {
+		holder = yaglakar_8 # Zhangxin Qaghan
+	}
+	10839.1.1 = {
+		holder = yaglakar_2 # Wujie Qaghan
+	}
+	10846.1.1 = {
+		holder = yaglakar_1 # Enian Qaghan
+	}
+	10848.1.1 = {
+		holder = 0
+	}
+}
+
+k_naiman = {
+	11130.1.1 = {
+		holder = naiman_guchugud_5
+		de_jure_liege = e_kara_khitai
+		government = nomad_government
+	}
+	11138.1.1 = {
+		holder = naiman_guchugud_1
+	}
+	11143.1.1 = {
+		liege = 0
+		de_jure_liege = e_mongolia
+	}
+}

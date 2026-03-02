@@ -1,0 +1,1837 @@
+k_abyssinia = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	# Solomonid
+	
+	10656.1.1 = {
+		holder = 145983
+	}
+	10677.1.1 = {
+		holder = 145984
+	}
+	10696.1.1 = {
+		holder = 145985
+	}
+	10720.1.1 = {
+		holder = 145986
+	}
+	10725.1.1 = {
+		holder = 145987
+	}
+	10741.1.1 = {
+		holder = 145988
+	}
+	10762.1.1 = {
+		holder = 145989
+	}
+	10775.1.1 = {
+		holder = 145990
+	}
+	10775.1.2 = {
+		holder = 145991
+	}
+	10780.1.1 = {
+		holder = 145992
+	}
+	10790.1.1 = {
+		holder = 145993
+	}
+	10820.1.1 = {
+		holder = 145994
+	}
+	10825.1.1 = {
+		holder = 167707
+	}
+	10860.1.1 = {
+		holder = 167708
+	}
+	10900.1.1 = {
+		holder = 32225
+	}
+	
+	#Zagwe
+	
+	10916.1.1 = {
+		holder = 32227
+	}
+	10919.1.1 = {
+		holder = 32228
+	}
+	10959.1.1 = {
+		holder = 32229
+	}
+	10999.1.1 = {
+		holder = 32230
+	}
+	11039.1.1 = {
+		holder = 32231
+	}
+	11079.1.1 = {
+		holder = 32232
+	}
+	11119.1.1 = {
+		holder = 32233
+	}
+	11159.1.1 = {
+		holder = 32234
+	}
+	11207.1.1 = {
+		holder = 32235
+	}
+	11247.1.1 = {
+		holder = 32236
+	}
+	11262.1.1 = {
+		holder = 32237
+	}
+	
+	#Solomonid
+	
+	11268.1.1 = {
+		holder = 32247
+	}
+	11285.1.1 = {
+		holder = 32248
+	}
+	11294.1.1 = {
+		holder = 32252
+	}
+	11295.1.1 = {
+		holder = 32253
+	}
+	11296.1.1 = {
+		holder = 32254
+	}
+	11297.1.1 = {
+		holder = 32263
+	}
+	11298.1.1 = {
+		holder = 32255
+	}
+	11299.1.1 = {
+		holder = 32249
+	}
+	11314.1.1 = {
+		holder = 32251
+	}
+
+}
+
+
+d_aksum = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10656.1.1 = {
+		liege = "k_abyssinia"
+	}
+	
+	# Solomonid
+	
+	10656.1.1 = {
+		holder = 145983
+	}
+	10677.1.1 = {
+		holder = 145984
+	}
+	10696.1.1 = {
+		holder = 145985
+	}
+	10720.1.1 = {
+		holder = 145986
+	}
+	10725.1.1 = {
+		holder = 145987
+	}
+	10741.1.1 = {
+		holder = 145988
+	}
+	10762.1.1 = {
+		holder = 145989
+	}
+	10775.1.1 = {
+		holder = 145990
+	}
+	10775.1.2 = {
+		holder = 145991
+	}
+	10780.1.1 = {
+		holder = 145992
+	}
+	10790.1.1 = {
+		holder = 145993
+	}
+	10820.1.1 = {
+		holder = 145994
+	}
+	10825.1.1 = {
+		holder = 167707
+	}
+	10860.1.1 = {
+		holder = 167708
+	}
+	10867.1.1 = {
+		holder = 32225
+	}
+	10916.1.1 = {
+		liege = 0
+		holder = 32238
+	}
+	10960.1.1 = {
+		holder = 145650
+	}
+	10999.1.1 = {
+		holder = 32230
+	}
+	11039.1.1 = {
+		holder = 32231
+	}
+	11102.1.1 = {
+		holder = 145656
+	}
+	11125.1.1 = {
+		holder = 145657
+	}
+	
+	# Solomonid
+	
+	11137.1.1 = {
+		liege = "k_abyssinia"
+	holder = 32244
+	}
+	11160.1.1 = {
+		holder = 32245
+	}
+	11200.1.1 = {
+		holder = 32246
+	}
+	11240.1.1 = {
+		holder = 32247
+	}
+	11285.1.1 = {
+		holder = 32248
+	}
+	11294.1.1 = {
+		holder = 32252
+	}
+	11295.1.1 = {
+		holder = 32253
+	}
+	11296.1.1 = {
+		holder = 32254
+	}
+	11297.1.1 = {
+		holder = 32263
+	}
+	11298.1.1 = {
+		holder = 32255
+	}
+	11299.1.1 = {
+		holder = 32249
+	}
+	11314.1.1 = {
+		holder = 32251
+	}
+}
+
+
+c_tigre = {
+	10656.1.1 = {
+		liege = "d_aksum"
+	}
+	
+	# Solomonid
+	
+	10656.1.1 = {
+		holder = 145983
+	}
+	10677.1.1 = {
+		holder = 145984
+	}
+	10696.1.1 = {
+		holder = 145985
+	}
+	10720.1.1 = {
+		holder = 145986
+	}
+	10725.1.1 = {
+		holder = 145987
+	}
+	10741.1.1 = {
+		holder = 145988
+	}
+	10762.1.1 = {
+		holder = 145989
+	}
+	10775.1.1 = {
+		holder = 145990
+	}
+	10775.1.2 = {
+		holder = 145991
+	}
+	10780.1.1 = {
+		holder = 145992
+	}
+	10790.1.1 = {
+		holder = 145993
+	}
+	10820.1.1 = {
+		holder = 145994
+	}
+	10825.1.1 = {
+		holder = 167707
+	}
+	10860.1.1 = {
+		holder = 167708
+	}
+	10867.1.1 = {
+		holder = 32225
+	}
+	10916.1.1 = {
+		holder = 32238
+	}
+	
+	# Solomonid
+	
+	10960.1.1 = {
+		liege = "k_abyssinia"
+		holder = 32239
+	}
+	11000.1.1 = {
+		holder = 32240
+	}
+	11040.1.1 = {
+		holder = 32241
+	}
+	11070.1.1 = {
+		holder = 32242
+	}
+	11100.1.1 = {
+		holder = 32243
+	}
+	11130.1.1 = {
+		holder = 32244
+	}
+	11137.1.1 = {
+		liege = "d_aksum"
+	}
+	11160.1.1 = {
+		holder = 32245
+	}
+	11200.1.1 = {
+		holder = 32246
+	}
+	11240.1.1 = {
+		holder = 32247
+	}
+	11285.1.1 = {
+		holder = 32248
+	}
+	11294.1.1 = {
+		holder = 32252
+	}
+	11295.1.1 = {
+		holder = 32253
+	}
+	11296.1.1 = {
+		holder = 32254
+	}
+	11297.1.1 = {
+		holder = 32263
+	}
+	11298.1.1 = {
+		holder = 32255
+	}
+	11299.1.1 = {
+		holder = 32249
+	}
+	11314.1.1 = {
+		holder = 32251
+	}
+}
+
+
+c_serae = {
+	10656.1.1 = {
+		liege = "d_aksum"
+	}
+	
+	# Solomonid
+	
+	10656.1.1 = {
+		holder = 145983
+	}
+	10677.1.1 = {
+		holder = 145984
+	}
+	10696.1.1 = {
+		holder = 145985
+	}
+	10720.1.1 = {
+		holder = 145986
+	}
+	10725.1.1 = {
+		holder = 145987
+	}
+	10741.1.1 = {
+		holder = 145988
+	}
+	10762.1.1 = {
+		holder = 145989
+	}
+	10775.1.1 = {
+		holder = 145990
+	}
+	10775.1.2 = {
+		holder = 145991
+	}
+	10780.1.1 = {
+		holder = 145992
+	}
+	10790.1.1 = {
+		holder = 145993
+	}
+	10820.1.1 = {
+		holder = 145994
+	}
+	10825.1.1 = {
+		holder = 167707
+	}
+	10860.1.1 = {
+		holder = 167708
+	}
+	10867.1.1 = {
+		holder = 32225
+	}
+	10916.1.1 = {
+		holder = 32238
+	}
+	10960.1.1 = {
+		liege = "k_abyssinia"
+		holder = 32239
+	}
+	11000.1.1 = {
+		holder = 32240
+	}
+	11040.1.1 = {
+		holder = 32241
+	}
+	11070.1.1 = {
+		holder = 32242
+	}
+	11100.1.1 = {
+		holder = 32243
+	}
+	11130.1.1 = {
+		holder = 32244
+	}
+	11137.1.1 = {
+		liege = "d_aksum"
+	}
+	11160.1.1 = {
+		holder = 32245
+	}
+	11200.1.1 = {
+		holder = 32246
+	}
+	11240.1.1 = {
+		holder = 32247
+	}
+	11285.1.1 = {
+		holder = 32248
+	}
+	11294.1.1 = {
+		holder = 32252
+	}
+	11295.1.1 = {
+		holder = 32253
+	}
+	11296.1.1 = {
+		holder = 32254
+	}
+	11297.1.1 = {
+		holder = 32263
+	}
+	11298.1.1 = {
+		holder = 32255
+	}
+	11299.1.1 = {
+		holder = 32249
+	}
+	11314.1.1 = {
+		holder = 32251
+	}
+}
+
+
+c_intarta = {
+	10867.1.1 = {	change_development_level = 10 }
+	11066.1.1 = { change_development_level = 16 }
+	11178.1.1 = { change_development_level = 19 }
+	
+	10748.1.1 = {
+		liege = "d_gondar"
+	}
+	
+	#Zagwe
+	
+	10748.1.1 = {
+		holder = 145979
+	}
+	10783.1.1 = {
+		holder = 145980
+	}
+	10801.1.1 = {
+		holder = 145995
+	}
+	
+	# Solomonid
+	
+	10808.1.1 = {
+		liege = "k_abyssinia"
+		holder = 145993
+	}
+	10820.1.1 = {
+		holder = 145994
+	}
+	10825.1.1 = {
+		holder = 167707
+	}
+	10860.1.1 = {
+		holder = 167708
+	}
+	10900.1.1 = {
+		holder = 32225
+	}
+	
+	#Zagwe
+	
+	10916.1.1 = {
+		liege = "d_gondar"
+		holder = 32227
+	}
+	10919.1.1 = {
+		holder = 32228
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10959.1.1 = {
+		holder = 32229
+	}
+	
+	# Judith/Gudit
+	
+	10960.1.1 = {
+		holder = 145650
+	}
+	
+	#Zagwe
+	
+	11001.1.1 = {
+		holder = 32230
+	}
+	11039.1.1 = {
+		holder = 32231
+	}
+	11079.1.1 = {
+		holder = 32232
+	}
+	11119.1.1 = {
+		holder = 32233
+	}
+	11159.1.1 = {
+		holder = 32234
+	}
+	11207.1.1 = {
+		holder = 32235
+	}
+	11247.1.1 = {
+		holder = 32236
+	}
+	11262.1.1 = {
+		holder = 32237
+	}
+	
+	#Solomonid
+	
+	11268.1.1 = {
+		holder = 32247
+	}
+	11285.1.1 = {
+		holder = 32248
+	}
+	11294.1.1 = {
+		holder = 32252
+	}
+	11295.1.1 = {
+		holder = 32253
+	}
+	11296.1.1 = {
+		holder = 32254
+	}
+	11297.1.1 = {
+		holder = 32255
+	}
+	11298.1.1 = {
+		holder = 32256
+	}
+	11299.1.1 = {
+		holder = 32249
+	}
+	11314.1.1 = {
+		holder = 32251
+	}
+}
+
+d_dahlaks = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 14 }
+}
+
+c_dahlak = {
+	#PLACEHOLDER
+	10867.1.1 = {
+		holder = 32225
+	}
+	
+	11062.1.1 = {
+		liege = 0
+		holder = bedouin0001
+	}
+	11093.1.1 = {
+		holder = bedouin0002
+	}
+	11120.1.1 = {
+		holder = bedouin0003
+	}
+	11147.1.1 = {
+		holder = bedouin0004
+	}
+	11163.1.1 = {
+		holder = bedouin0006
+	}
+	11172.1.1 = {
+		holder = bedouin0007
+	}
+	11193.1.1 = {
+		holder = bedouin0009
+	}
+	11209.1.1 = {
+		holder = bedouin0010
+	}
+	11230.1.1 = {
+		holder = bedouin0013
+	}
+	11233.1.1 = {
+		holder = bedouin0014 #usurped
+	}
+	11240.1.1 = {
+		holder = bedouin0013 #again
+	}
+	11247.1.1 = {
+		holder = bedouin0015
+	}
+}
+
+
+c_massawa = {
+	10656.1.1 = {
+		liege = "d_aksum"
+	}
+	
+	10865.1.1 = {
+		government = tribal_government
+		liege = d_bazin
+		holder = beja0002
+	}
+	10886.1.1 = {
+		holder = beja0014
+	}
+	10913.1.1 = {
+		holder = beja0015
+	}
+	10958.1.1 = {
+		holder = beja0016
+	}
+	10980.1.1 = {
+		holder = beja0017
+	}
+	11015.1.1 = {
+		holder = beja0018
+	}
+	11058.1.1 = {
+		holder = beja0019
+	}
+	11089.1.1 = {
+		holder = beja0020
+	}
+	11135.1.1 = {
+		holder = beja0021
+	}
+	11164.1.1 = {
+		holder = beja0022
+	}
+	11198.1.1 = {
+		holder = beja0023
+	}
+}
+
+
+c_bur = {
+	10866.1.1 = {
+		government = tribal_government
+		liege = 0
+		holder = afar0001
+	}
+	11050.1.1 = {
+		holder = afar0002
+	}
+	11086.1.1 = {
+		holder = afar0003
+	}
+	11112.1.1 = {
+		holder = afar0004
+	}
+	11148.1.1 = {
+		holder = afar0005
+	}
+	11166.1.1 = {
+		holder = afar0006
+	}
+	11198.1.1 = {
+		holder = afar0007
+	}
+	11239.1.1 = {
+		holder = afar0008
+	}
+}
+
+c_lasta = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10748.1.1 = {
+		liege = "d_gondar"
+	}
+	
+	#Zagwe
+	
+	10748.1.1 = {
+		holder = 145979
+	}
+	10783.1.1 = {
+		holder = 145980
+	}
+	10801.1.1 = {
+		holder = 145995
+	}
+	
+	# Solomonid
+	
+	10808.1.1 = {
+		liege = "k_abyssinia"
+		holder = 145993
+	}
+	10820.1.1 = {
+		holder = 145994
+	}
+	10825.1.1 = {
+		holder = 167707
+	}
+	10860.1.1 = {
+		holder = 167708
+	}
+	10900.1.1 = {
+		holder = 32225
+	}
+	
+	#Zagwe
+	
+	10916.1.1 = {
+		liege = "d_gondar"
+		holder = 32227
+	}
+	10919.1.1 = {
+		holder = 32228
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10959.1.1 = {
+		holder = 32229
+	}
+	
+	# Judith/Gudit
+	
+	10960.1.1 = {
+		holder = 145650
+	}
+	
+	#Zagwe
+	
+	11001.1.1 = {
+		holder = 32230
+	}
+	11039.1.1 = {
+		holder = 32231
+	}
+	11079.1.1 = {
+		holder = 32232
+	}
+	11119.1.1 = {
+		holder = 32233
+	}
+	11159.1.1 = {
+		holder = 32234
+	}
+	11207.1.1 = {
+		holder = 32235
+	}
+	11247.1.1 = {
+		holder = 32236
+	}
+	11262.1.1 = {
+		holder = 32237
+	}
+	
+	#Solomonid
+	
+	11268.1.1 = {
+		holder = 32247
+	}
+	11285.1.1 = {
+		holder = 32248
+	}
+	11294.1.1 = {
+		holder = 32252
+	}
+	11295.1.1 = {
+		holder = 32253
+	}
+	11296.1.1 = {
+		holder = 32254
+	}
+	11297.1.1 = {
+		holder = 32255
+	}
+	11298.1.1 = {
+		holder = 32256
+	}
+	11299.1.1 = {
+		holder = 32249
+	}
+	11314.1.1 = {
+		holder = 32251
+	}
+}
+
+
+c_hayq = {
+	10866.1.1 = {
+		government = tribal_government
+		liege = 0
+		holder = 145665
+	}
+	11065.1.1 = {
+		holder = 145666
+	}
+	11085.1.1 = {
+		holder = 145667
+	}
+	11101.1.1 = {
+		holder = 145668
+	}
+	11153.1.1 = {
+		holder = 145669
+	}
+	11177.1.1 = {
+		holder = 145670
+	}
+	11212.1.1 = {
+		holder = 145671
+	}
+	11247.1.1 = {
+		holder = 145672
+	}
+	11254.1.1 = {
+		holder = 145673
+	}
+	11276.1.1 = {
+		holder = 145674
+	}
+	11287.1.1 = {
+		holder = 145675
+	}
+	11298.1.1 = {
+		holder = 145676
+	}
+}
+
+
+c_angot = {
+	10656.1.1 = {
+		liege = "d_lasta"
+	}
+	10762.1.1 = {
+		holder = 145990
+	}
+	10775.1.1 = {
+		holder = 145994
+	}
+	10820.1.1 = {
+		holder = 167707
+	}
+	10845.1.1 = {
+		holder = 167708
+	}
+	10860.1.1 = {
+		holder = 183508
+	}
+	
+	#Zagwe
+	
+	10916.1.1 = {
+		liege = "d_gondar"
+		holder = 32227
+	}
+	10919.1.1 = {
+		holder = 32228
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10959.1.1 = {
+		holder = 32229
+	}
+	
+	# Judith/Gudit
+	
+	10960.1.1 = {
+		holder = 145650
+	}
+	
+	#Zagwe
+	
+	11001.1.1 = {
+		holder = 32230
+	}
+	11039.1.1 = {
+		holder = 32231
+	}
+	11079.1.1 = {
+		holder = 32232
+	}
+	11119.1.1 = {
+		holder = 32233
+	}
+	11159.1.1 = {
+		holder = 32234
+	}
+	11207.1.1 = {
+		holder = 32235
+	}
+	11247.1.1 = {
+		holder = 32236
+	}
+	11262.1.1 = {
+		holder = 32237
+	}
+	
+	#Zagwe
+	
+	11270.1.1 = {
+		holder = 145764
+	}
+	11308.1.1 = {
+		holder = 145765
+	}
+}
+
+
+c_amhara = {
+	10656.1.1 = {
+		liege = "d_lasta"
+	}
+	10762.1.1 = {
+		holder = 145990
+	}
+	10775.1.1 = {
+		holder = 145994
+	}
+	10820.1.1 = {
+		holder = 167707
+	}
+	10845.1.1 = {
+		holder = 167708
+	}
+	10860.1.1 = {
+		holder = 183508
+	}
+	
+	#Zagwe
+	
+	10916.1.1 = {
+		liege = "d_gondar"
+		holder = 32227
+	}
+	10919.1.1 = {
+		holder = 32228
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10959.1.1 = {
+		holder = 32229
+	}
+	
+	# Judith/Gudit
+	
+	10960.1.1 = {
+		holder = 145650
+	}
+	
+	#Zagwe
+	
+	11001.1.1 = {
+		holder = 32230
+	}
+	11039.1.1 = {
+		holder = 32231
+	}
+	11079.1.1 = {
+		holder = 32232
+	}
+	11119.1.1 = {
+		holder = 32233
+	}
+	11159.1.1 = {
+		holder = 32234
+	}
+	11207.1.1 = {
+		holder = 32235
+	}
+	11247.1.1 = {
+		holder = 32236
+	}
+	11262.1.1 = {
+		holder = 32237
+	}
+	
+	#Zagwe
+	
+	11270.1.1 = {
+		holder = 145764
+	}
+	11308.1.1 = {
+		holder = 145765
+	}
+}
+
+
+d_gondar = {
+	10748.1.1 = {
+		liege = 0
+	}
+	
+	#Zagwe
+	
+	10748.1.1 = {
+		holder = 145979
+	}
+	10783.1.1 = {
+		holder = 145980
+	}
+	10801.1.1 = {
+		holder = 145995
+	}
+	10808.1.1 = {
+		liege = "k_abyssinia"
+		holder = 145981
+	}
+	10853.1.1 = {
+		holder = 145982
+	}
+	10895.1.1 = {
+		holder = 32227
+	}
+	10919.1.1 = {
+		holder = 32228
+	}
+	10959.1.1 = {
+		holder = 32229
+	}
+	
+	# Judith/Gudit
+	
+	10960.1.1 = {
+		holder = 145650
+		liege = 0
+	}
+	11001.1.1 = {
+		holder = 145651
+	}
+	11008.1.1 = {
+		holder = 145652
+	}
+	11019.1.1 = {
+		holder = 145653
+	}
+	11046.1.1 = {
+		holder = 145654
+	}
+	11053.1.1 = {
+		holder = 145655
+	}
+	11079.1.1 = {
+		holder = 32232
+	}
+	11119.1.1 = {
+		holder = 32233
+	}
+	11159.1.1 = {
+		holder = 32234
+	}
+	11207.1.1 = {
+		holder = 32235
+	}
+	11247.1.1 = {
+		holder = 32236
+	}
+	11262.1.1 = {
+		holder = 32237
+	}
+	
+	#Solomonid
+	
+	11268.1.1 = {
+		holder = 32247
+	}
+	11285.1.1 = {
+		holder = 32248
+	}
+	11294.1.1 = {
+		holder = 32252
+	}
+	11295.1.1 = {
+		holder = 32253
+	}
+	11296.1.1 = {
+		holder = 32254
+	}
+	11297.1.1 = {
+		holder = 32255
+	}
+	11298.1.1 = {
+		holder = 32256
+	}
+	11299.1.1 = {
+		holder = 32249
+	}
+	11314.1.1 = {
+		holder = 32251
+	}
+}
+
+
+c_dembiya = {
+	10745.1.1 = {
+		liege = "d_aksum"
+	holder = 145642
+	}
+	10774.1.1 = {
+		holder = 145643
+	}
+	10817.1.1 = {
+		holder = 145644
+	}
+	10831.1.1 = {
+		holder = 145645
+	}
+	10857.1.1 = {
+		holder = 145646
+	}
+	10889.1.1 = {
+		holder = 145647
+	}
+	10918.1.1 = {
+		holder = 145648
+	}
+	10949.1.1 = {
+		holder = 145649
+	}
+	10953.1.1 = {
+		holder = 145650
+	}
+	11001.1.1 = {
+		holder = 145651
+	}
+	11008.1.1 = {
+		holder = 145652
+	}
+	11019.1.1 = {
+		holder = 145653
+	}
+	11046.1.1 = {
+		holder = 145654
+	}
+	11053.1.1 = {
+		holder = 145655
+	}
+	11102.1.1 = {
+		holder = 145656
+	}
+	11125.1.1 = {
+		holder = 145657
+	}
+	11166.1.1 = {
+		holder = 145658
+	}
+	11201.1.1 = {
+		holder = 145659
+	}
+	11237.1.1 = {
+		holder = 145660
+	}
+	11268.1.1 = {
+		holder = 145661
+	}
+	11299.1.1 = {
+		holder = 145662
+	}
+	11321.1.1 = {
+		holder = 145663
+	}
+}
+
+
+c_begemder = {
+	10748.1.1 = {
+		liege = "d_gondar"
+	}
+	
+	#Zagwe
+	
+	10748.1.1 = {
+		holder = 145979
+	}
+	10783.1.1 = {
+		holder = 145980
+	}
+	10801.1.1 = {
+		holder = 145995
+	}
+	10808.1.1 = {
+		holder = 145981
+	}
+	10853.1.1 = {
+		holder = 145982
+	}
+	10895.1.1 = {
+		holder = 32227
+	}
+	10919.1.1 = {
+		holder = 32228
+	}
+	10959.1.1 = {
+		holder = 32229
+	}
+	
+	# Gideon
+	
+	10960.1.1 = {
+		holder = 145650
+	}
+	11001.1.1 = {
+		liege = "d_aksum"
+	holder = 145651
+	}
+	11008.1.1 = {
+		holder = 145652
+	}
+	11019.1.1 = {
+		holder = 145653
+	}
+	11046.1.1 = {
+		holder = 145654
+	}
+	11053.1.1 = {
+		holder = 145655
+	}
+	11102.1.1 = {
+		holder = 145656
+	}
+	11125.1.1 = {
+		holder = 145657
+	}
+	11166.1.1 = {
+		holder = 145658
+	}
+	11201.1.1 = {
+		holder = 145659
+	}
+	11237.1.1 = {
+		holder = 145660
+	}
+	11268.1.1 = {
+		holder = 145661
+	}
+	
+	#Solomonid
+	
+	11270.1.1 = {
+		liege = "d_gondar"
+	holder = 32247
+	}
+	11285.1.1 = {
+		holder = 32248
+	}
+	11294.1.1 = {
+		holder = 32252
+	}
+	11295.1.1 = {
+		holder = 32253
+	}
+	11296.1.1 = {
+		holder = 32254
+	}
+	11297.1.1 = {
+		holder = 32255
+	}
+	11298.1.1 = {
+		holder = 32256
+	}
+	11299.1.1 = {
+		holder = 32249
+	}
+	11314.1.1 = {
+		holder = 32251
+	}
+}
+
+
+c_semien = {
+	10745.1.1 = {
+		liege = "d_aksum"
+		holder = 145642
+	}
+	10774.1.1 = {
+		holder = 145643
+	}
+	10817.1.1 = {
+		holder = 145644
+	}
+	10831.1.1 = {
+		holder = 145645
+	}
+	10857.1.1 = {
+		holder = 145646
+	}
+	10889.1.1 = {
+		holder = 145647
+	}
+	10918.1.1 = {
+		holder = 145648
+	}
+	10949.1.1 = {
+		holder = 145649
+	}
+	10953.1.1 = {
+		holder = 145650
+	}
+	11001.1.1 = {
+		holder = 145651
+	}
+	11008.1.1 = {
+		holder = 145652
+	}
+	11019.1.1 = {
+		holder = 145653
+	}
+	11046.1.1 = {
+		holder = 145654
+	}
+	11053.1.1 = {
+		holder = 145655
+	}
+	11102.1.1 = {
+		holder = 145656
+	}
+	11125.1.1 = {
+		holder = 145657
+	}
+	11166.1.1 = {
+		holder = 145658
+	}
+	11201.1.1 = {
+		holder = 145659
+	}
+	11237.1.1 = {
+		holder = 145660
+	}
+	11268.1.1 = {
+		holder = 145661
+	}
+	11299.1.1 = {
+		holder = 145662
+	}
+	11321.1.1 = {
+		holder = 145663
+	}
+}
+
+
+d_gojjam = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 6 }
+	
+	10753.1.1 = {
+		liege = 0
+		holder = 145976
+		government = tribal_government
+	}
+	10788.1.1 = {
+		holder = 145977
+	}
+	10813.1.1 = {
+		holder = 145978
+	}
+	10858.1.1 = {
+		holder = 183510
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11043.1.1 = {
+		holder = 145746
+	}
+	11074.1.1 = {
+		liege = "k_abyssinia"
+		holder = 145747
+	}
+	11096.1.1 = {
+		holder = 145748
+	}
+	11116.1.1 = {
+		holder = 145749
+	}
+	11159.1.1 = {
+		holder = 145750
+	}
+	11177.1.1 = {
+		holder = 145751
+	}
+	11223.1.1 = {
+		holder = 145752
+	}
+	11244.1.1 = {
+		holder = 145753
+	}
+	11276.1.1 = {
+		holder = 145754
+	}
+	11335.1.1 = {
+		holder = 145755
+	}
+}
+
+
+c_gojjam = {
+	10753.1.1 = {
+		liege = "d_gojjam"
+		holder = 145976
+		government = tribal_government
+	}
+	10788.1.1 = {
+		holder = 145977
+	}
+	10813.1.1 = {
+		holder = 145978
+	}
+	10858.1.1 = {
+		holder = 183510
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11043.1.1 = {
+		holder = 145746
+	}
+	11074.1.1 = {
+		holder = 145747
+	}
+	11096.1.1 = {
+		holder = 145748
+	}
+	11116.1.1 = {
+		holder = 145749
+	}
+	11159.1.1 = {
+		holder = 145750
+	}
+	11177.1.1 = {
+		holder = 145751
+	}
+	11223.1.1 = {
+		holder = 145752
+	}
+	11244.1.1 = {
+		holder = 145753
+	}
+	11276.1.1 = {
+		holder = 145754
+	}
+	11335.1.1 = {
+		holder = 145755
+	}
+}
+
+
+c_gafat = {
+	10753.1.1 = {
+		liege = "d_gojjam"
+		holder = 145976
+		government = tribal_government
+	}
+	10788.1.1 = {
+		holder = 145977
+	}
+	10813.1.1 = {
+		holder = 145978
+	}
+	10858.1.1 = {
+		holder = 183510
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11043.1.1 = {
+		holder = 145746
+	}
+	11074.1.1 = {
+		holder = 145747
+	}
+	11096.1.1 = {
+		holder = 145748
+	}
+	11116.1.1 = {
+		holder = 145749
+	}
+	11159.1.1 = {
+		holder = 145750
+	}
+	11177.1.1 = {
+		holder = 145751
+	}
+	11223.1.1 = {
+		holder = 145752
+	}
+	11244.1.1 = {
+		holder = 145753
+	}
+	11276.1.1 = {
+		holder = 145754
+	}
+	11335.1.1 = {
+		holder = 145755
+	}
+}
+
+
+c_agaw_meder = {
+	10753.1.1 = {
+		liege = "d_gojjam"
+		holder = 145976
+		government = tribal_government
+	}
+	10788.1.1 = {
+		holder = 145977
+	}
+	10813.1.1 = {
+		holder = 145978
+	}
+	10858.1.1 = {
+		holder = 183510
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11043.1.1 = {
+		holder = 145746
+	}
+	11074.1.1 = {
+		holder = 145747
+	}
+	11096.1.1 = {
+		holder = 145748
+	}
+	11116.1.1 = {
+		holder = 145749
+	}
+	11159.1.1 = {
+		holder = 145750
+	}
+	11177.1.1 = {
+		holder = 145751
+	}
+	11223.1.1 = {
+		holder = 145752
+	}
+	11244.1.1 = {
+		holder = 145753
+	}
+	11276.1.1 = {
+		holder = 145754
+	}
+	11335.1.1 = {
+		holder = 145755
+	}
+}
+
+d_showa = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 20 }
+}
+
+c_showa = {
+	10656.1.1 = {
+		liege = "d_lasta"
+	}
+	10762.1.1 = {
+		holder = 145990
+	}
+	10775.1.1 = {
+		holder = 145994
+	}
+	10820.1.1 = {
+		holder = 167707
+	}
+	10845.1.1 = {
+		holder = 167708
+	}
+	10860.1.1 = {
+		holder = 183507
+	}
+	11065.1.1 = {
+		holder = 145756
+	}
+	11116.1.1 = {
+		liege = "k_abyssinia"
+		holder = 145757
+	}
+	11137.1.1 = {
+		liege = "d_lasta"
+	}
+	11149.1.1 = {
+		holder = 145758
+	}
+	11201.1.1 = {
+		holder = 145759
+	}
+	11212.1.1 = {
+		holder = 145760
+	}
+	11224.1.1 = {
+		holder = 145761
+	}
+	11229.1.1 = {
+		holder = 145762
+	}
+	11245.1.1 = {
+		holder = 145763
+	}
+	
+	#Zagwe
+	
+	11289.1.1 = {
+		holder = 145764
+	}
+	11308.1.1 = {
+		holder = 145765
+	}
+}
+
+
+c_fetegar = {
+	10656.1.1 = {
+		liege = d_lasta
+	}
+	10762.1.1 = {
+		holder = 145990
+	}
+	10775.1.1 = {
+		holder = 145994
+	}
+	10820.1.1 = {
+		holder = 167707
+	}
+	10845.1.1 = {
+		holder = 167708
+	}
+	10860.1.1 = {
+		holder = 183507
+	}
+	11065.1.1 = {
+		holder = 145756
+	}
+	11116.1.1 = {
+		liege = "k_abyssinia"
+		holder = 145757
+	}
+	11137.1.1 = {
+		liege = d_lasta
+	}
+	11149.1.1 = {
+		holder = 145758
+	}
+	11201.1.1 = {
+		holder = 145759
+	}
+	11212.1.1 = {
+		holder = 145760
+	}
+	11224.1.1 = {
+		holder = 145761
+	}
+	11229.1.1 = {
+		holder = 145762
+	}
+	11245.1.1 = {
+		holder = 145763
+	}
+	
+	#Zagwe
+	
+	11289.1.1 = {
+		holder = 145764
+	}
+	11308.1.1 = {
+		holder = 145765
+	}
+}
+
+
+c_waj = {
+	10656.1.1 = {
+		liege = d_lasta
+	}
+	10762.1.1 = {
+		holder = 145990
+	}
+	10775.1.1 = {
+		holder = 145994
+	}
+	10820.1.1 = {
+		holder = 167707
+	}
+	10845.1.1 = {
+		holder = 167708
+	}
+	10860.1.1 = {
+		holder = 183507
+	}
+	11065.1.1 = {
+		holder = 145756
+	}
+	11116.1.1 = {
+		liege = "k_abyssinia"
+		holder = 145757
+	}
+	11137.1.1 = {
+		liege = d_lasta
+	}
+	11149.1.1 = {
+		holder = 145758
+	}
+	11201.1.1 = {
+		holder = 145759
+	}
+	11212.1.1 = {
+		holder = 145760
+	}
+	11224.1.1 = {
+		holder = 145761
+	}
+	11229.1.1 = {
+		holder = 145762
+	}
+	11245.1.1 = {
+		holder = 145763
+	}
+	
+	#Zagwe
+	
+	11289.1.1 = {
+		holder = 145764
+	}
+	11308.1.1 = {
+		holder = 145765
+	}
+}
+
+
+c_ifat = {
+	10656.1.1 = {
+		liege = d_lasta
+	}
+	10762.1.1 = {
+		holder = 145990
+	}
+	10775.1.1 = {
+		holder = 145994
+	}
+	10820.1.1 = {
+		holder = 167707
+	}
+	10845.1.1 = {
+		holder = 167708
+	}
+	10860.1.1 = {
+		holder = 183507
+	}
+	11065.1.1 = {
+		holder = 145756
+	}
+	11116.1.1 = {
+		liege = "k_abyssinia"
+		holder = 145757
+	}
+	11137.1.1 = {
+		liege = d_lasta
+	}
+	11149.1.1 = {
+		holder = 145758
+	}
+	11201.1.1 = {
+		holder = 145759
+	}
+	11212.1.1 = {
+		holder = 145760
+	}
+	11224.1.1 = {
+		holder = 145761
+	}
+	11229.1.1 = {
+		holder = 145762
+	}
+	11245.1.1 = {
+		holder = 145763
+	}
+	
+	#Zagwe
+	
+	11289.1.1 = {
+		holder = 145764
+	}
+	11308.1.1 = {
+		holder = 145765
+	}
+}
+

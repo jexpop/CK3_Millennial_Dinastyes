@@ -1,0 +1,1438 @@
+k_sapmi = {
+	21.1.1 = {
+		change_development_level = 0
+	}
+	
+	11001.1.1 = {
+		change_development_level = 0
+	}
+	
+	11101.1.1 = {
+		change_development_level = 0
+	}
+	11178.1.1 = { change_development_level = 0 }
+}
+
+d_aarjetje = {
+	10867.1.1 = {
+		holder = 167728
+		government = tribal_government
+	}
+	11066.1.1 = {
+		holder = 0
+	}
+
+}
+
+
+c_jahkamakke = {	#(=Lule)
+	10760.1.1 = {
+		holder = 194025
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		liege = d_aarjetje
+		holder = 167725
+	}
+	11066.1.1 = {
+		holder = sami_000007
+	}
+	11070.1.1 = {
+		holder = 143142
+	}
+	11140.1.1 = {
+		holder = 143143
+	}
+	11187.1.1 = {
+		holder = 200001
+	}
+	11220.1.1 = {
+		holder = 143144
+	}
+	11270.1.1 = {
+		holder = 143145
+	}
+	11310.1.1 = {
+		liege = "k_sweden"
+	}
+	11310.1.1 = {
+		holder = 487070
+	}
+
+}
+
+
+c_sjeltie = {
+	10760.1.1 = {
+		holder = 194025
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		holder = 167728
+	}
+	11066.1.1 = {
+		holder = 20015
+	}
+	11070.1.1 = {
+		holder = 143142
+	}
+	11140.1.1 = {
+		holder = 143143
+	}
+	11187.1.1 = {
+		holder = 200001
+	}
+	11220.1.1 = {
+		holder = 143144
+	}
+	11270.1.1 = {
+		holder = 143145
+	}
+	11310.1.1 = {
+		liege = "k_sweden"
+	}
+	11310.1.1 = {
+		holder = 487070
+	}
+
+}
+
+
+c_ubmejeiednuo = {
+	10760.1.1 = {
+		holder = 194025
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		liege = d_aarjetje
+		holder = 167725
+	}
+	11066.1.1 = {
+		holder = 20015
+	}
+	11070.1.1 = {
+		holder = 143142
+	}
+	11140.1.1 = {
+		holder = 143143
+	}
+	11187.1.1 = {
+		holder = 200001
+	}
+	11220.1.1 = {
+		holder = 143144
+	}
+	11270.1.1 = {
+		holder = 143145
+	}
+	11310.1.1 = {
+		liege = "k_sweden"
+	}
+	11310.1.1 = {
+		holder = 487070
+	}
+
+}
+
+c_pite = {
+	10760.1.1 = {
+		holder = 194025
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		liege = d_aarjetje
+		holder = 167725
+	}
+	11066.1.1 = {
+		holder = sami_000007
+	}
+	11070.1.1 = {
+		holder = 143142
+	}
+	11140.1.1 = {
+		holder = 143143
+	}
+	11187.1.1 = {
+		holder = 200001
+	}
+	11220.1.1 = {
+		holder = 143144
+	}
+	11270.1.1 = {
+		holder = 143145
+	}
+	11310.1.1 = {
+		liege = "k_sweden"
+	}
+	11310.1.1 = {
+		holder = 487070
+	}
+
+}
+
+
+c_biton = {
+	10760.1.1 = {
+		holder = 194025
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		liege = d_aarjetje
+		holder = 167725
+	}
+	11066.1.1 = {
+		holder = sami_000008
+	}
+	11070.1.1 = {
+		holder = 143142
+	}
+	11140.1.1 = {
+		holder = 143143
+	}
+	11187.1.1 = {
+		holder = 200001
+	}
+	11220.1.1 = {
+		holder = 143144
+	}
+	11270.1.1 = {
+		holder = 143145
+	}
+	11310.1.1 = {
+		liege = "k_sweden"
+	}
+	11310.1.1 = {
+		holder = 487070
+	}
+
+}
+
+
+c_julevadno = {
+	10867.1.1 = {
+		liege = 0
+		holder = sami_000013
+		government = tribal_government
+	}
+	11066.1.1 = {
+		holder = sami_000014
+	}
+	11099.10.3 = {
+		holder = vuovi_1 # Fictional placeholder
+	}
+	11115.1.1 = {
+		holder = vuovi_2 # Fictional placeholder
+	}
+	11145.1.1 = {
+		holder = vuovi_3 # Fictional placeholder
+	}
+	11172.1.1 = {
+		holder = vuovi_4 # Fictional placeholder
+	}
+}
+
+c_torne = {
+	10867.1.1 = {
+		liege = 0
+		holder = sami_000013
+		government = tribal_government
+	}
+	11066.1.1 = {
+		holder = sami_000014
+	}
+	11178.1.1 = {
+		holder = kittali_5 # Fictional placeholder
+	}
+}
+
+c_kittila = {
+	10867.1.1 = {
+		liege = 0
+		holder = sami_000015
+		government = tribal_government
+	}
+	11066.1.1 = {
+		holder = sami_000016
+	}
+	11178.1.1 = {
+		holder = kittali_5 # Fictional placeholder
+	}
+}
+
+
+c_siggevara = {
+	10867.1.1 = {
+		holder = sami_000003
+		government = tribal_government
+	}
+	11066.1.1 = {
+		holder = sami_000005
+	}
+	11080.1.1 = {
+		holder = suadigil_1 # A_ggi # Fictional placeholder
+	}
+	11115.1.1 = {
+		holder = suadigil_2 # Biejan # Fictional placeholder
+	}
+	11143.1.1 = {
+		holder = suadigil_3 # Mihka # Fictional placeholder
+	}
+	11167.1.1 = {
+		holder = suadigil_4 # Ruigi # Fictional placeholder
+	}
+}
+
+c_suondavara = {
+	10867.1.1 = {
+		holder = sami_000003
+		government = tribal_government
+	}
+	11066.1.1 = {
+		holder = sami_000005
+	}
+	11080.1.1 = {
+		holder = suadigil_1 # A_ggi # Fictional placeholder
+	}
+	11115.1.1 = {
+		holder = suadigil_2 # Biejan # Fictional placeholder
+	}
+	11143.1.1 = {
+		holder = suadigil_3 # Mihka # Fictional placeholder
+	}
+	11167.1.1 = {
+		holder = suadigil_4 # Ruigi # Fictional placeholder
+	}
+}
+
+c_rounala = {
+	10760.1.1 = {
+		holder = 194026
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		holder = 186001
+	}
+	11066.1.1 = {
+		#holder = 102532
+		holder = sami_000001
+	}
+	11069.4.2 = {
+		holder = 102577
+	}
+	11094.6.6 = {
+		holder = 202511 # Magnus Barfot
+	}
+	11103.1.25 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.5 = {
+		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+	}
+	11162.7.7 = {
+		holder = 202051 # Magnus Erlingsson
+	}
+	11178.1.1 = {
+		holder = nidaros_bishop_1 # Oystein
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11187.1.1 = {
+		holder = 202010
+	}
+	11200.1.1 = {
+		holder = 202034
+	}
+	11220.1.1 = {
+		holder = 194316
+	}
+	11240.5.24 = {
+		holder = 202035
+	}
+	11270.1.1 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450780
+	}
+
+}
+
+c_aviovara = {
+	10760.1.1 = {
+		holder = 194026
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		holder = 186001
+	}
+	11066.1.1 = {
+		#holder = 102532
+		holder = sami_000001
+	}
+	11069.4.2 = {
+		holder = 102577
+	}
+	11094.6.6 = {
+		holder = 202511 # Magnus Barfot
+	}
+	11103.1.25 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.5 = {
+		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+	}
+	11162.7.7 = {
+		holder = 202051 # Magnus Erlingsson
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11187.1.1 = {
+		holder = 202010
+	}
+	11200.1.1 = {
+		holder = 202034
+	}
+	11220.1.1 = {
+		holder = 194316
+	}
+	11240.5.24 = {
+		holder = 202035
+	}
+	11270.1.1 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450780
+	}
+
+}
+
+
+c_karasjohka = {
+	10760.1.1 = {
+		holder = 194018
+		government = tribal_government
+	}
+	#10770.1.1 = {
+	#	holder = 0
+	#}
+	10867.1.1 = {
+		#holder = 168365
+		holder = 186001
+	}
+	11066.1.1 = {
+		#holder = 102532
+		holder = sami_000002
+	}
+	11069.4.2 = {
+		holder = 102577
+	}
+	11094.6.6 = {
+		holder = 202511 # Magnus Barfot
+	}
+	11103.1.25 = {
+		holder = 222598 # Olaf Magnusson
+	}
+	11115.12.22 = {
+		holder = 222597 # Øystein Magnusson
+	}
+	11123.8.29 = {
+		holder = 222595 # Sigurd Magnusson
+	}
+	11130.3.26 = {
+		holder = 222599 # Magnus Sigurdsson - The Blind
+	}
+	11135.1.7 = {
+		holder = 202510 # Harald Gille
+	}
+	11136.12.14 = {
+		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
+	}
+	11155.6.10 = {
+		holder = 202514 # Øystein, son of Harald Gille
+	}
+	11157.8.21 = {
+		holder = 202512 # Inge Krokrygg, son of Harald Gille
+	}
+	11161.1.5 = {
+		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+	}
+	11162.7.7 = {
+		holder = 202051 # Magnus Erlingsson
+	}
+	11184.6.15 = {
+		holder = 202500 # Sverre Sigurdsson
+	}
+	11187.1.1 = {
+		holder = 202010
+	}
+	11200.1.1 = {
+		holder = 202034
+	}
+	11220.1.1 = {
+		holder = 194317
+	}
+	11240.5.24 = {
+		holder = 202035
+	}
+	11270.1.1 = {
+		holder = 6905
+	}
+	11280.5.9 = {
+		holder = 6906
+	}
+	11299.7.15 = {
+		holder = 452510 # Håkon Magnusson
+	}
+	11319.5.8 = {
+		holder = 450500 # Magnus Eriksson (Bjälbo)
+	}
+	11337.1.1 = {
+		holder = 450780
+	}
+
+}
+
+c_kitka = {
+	10867.1.1 = {
+		holder = sami_000004
+		government = tribal_government
+	}
+	11066.1.1 = {
+		holder = sami_000006
+	}
+	11085.1.1 = {
+		holder = mohkku_1 # Fictional placeholder
+	}
+	11115.1.1 = {
+		holder = mohkku_2 # Fictional placeholder
+	}
+	11144.1.1 = {
+		holder = mohkku_3 # Fictional placeholder
+	}
+	11169.1.1 = {
+		holder = mohkku_4 # Fictional placeholder
+	}
+}
+
+c_peaccam = {	#= Kemi
+	10867.1.1 = {
+		holder = sami_000004
+		government = tribal_government
+	}
+	11066.1.1 = {
+		holder = sami_000006
+	}
+	11085.1.1 = {
+		holder = mohkku_1 # Fictional placeholder
+	}
+	11115.1.1 = {
+		holder = mohkku_2 # Fictional placeholder
+	}
+	11144.1.1 = {
+		holder = mohkku_3 # Fictional placeholder
+	}
+	11169.1.1 = {
+		holder = mohkku_4 # Fictional placeholder
+	}
+}
+
+c_inari = {
+	10867.1.1 = {
+		liege = 0
+		holder = sami_000009
+		government = tribal_government
+	}
+	11066.1.1 = {
+		holder = sami_000010
+	}
+	11103.11.4 = {
+		holder = skolti_1 # Fictional placeholder
+	}
+	11124.1.1 = {
+		holder = skolti_2 # Fictional placeholder
+	}
+	11152.1.1 = {
+		holder = skolti_3 # Fictional placeholder
+	}
+	11174.1.1 = {
+		holder = skolti_4 # Fictional placeholder
+	}
+}
+
+
+c_skolt = {
+	10867.1.1 = {
+		liege = 0
+		holder = sami_000009
+		government = tribal_government
+	}
+	11066.1.1 = {
+		holder = sami_000010
+	}
+	11103.11.4 = {
+		holder = skolti_1 # Fictional placeholder
+	}
+	11124.1.1 = {
+		holder = skolti_2 # Fictional placeholder
+	}
+	11152.1.1 = {
+		holder = skolti_3 # Fictional placeholder
+	}
+	11174.1.1 = {
+		holder = skolti_4 # Fictional placeholder
+	}
+}
+
+
+c_sombio = {
+	10867.1.1 = {
+		liege = 0
+		holder = sami_000011
+		government = tribal_government
+	}
+	11066.1.1 = {
+		holder = sami_000012
+	}
+	11167.1.1 = {
+		holder = suontile_12 # Fictional placeholder
+	}
+}
+
+c_akkel = {
+	10867.1.1 = {
+		liege = 0
+		holder = sami_000011
+		government = tribal_government
+	}
+	11066.1.1 = {
+		holder = sami_000012
+	}
+	11167.1.1 = {
+		holder = suontile_12 # Fictional placeholder
+	}
+}
+
+c_east_kiilt = {
+	10755.1.1 = {
+		liege = "d_guoldat"
+		holder = 170333
+		government = tribal_government
+	}
+	10776.1.1 = {
+		holder = 170334
+	}
+	10803.1.1 = {
+		holder = 170335
+	}
+	10818.1.1 = {
+		holder = 170336
+	}
+	10836.1.1 = {
+		holder = 170337
+	}
+	10866.1.1 = {
+		holder = 170146
+	}
+	10902.1.1 = {
+		holder = 170147
+	}
+	10948.1.1 = {
+		holder = 170148
+	}
+	10987.1.1 = {
+		holder = 170149
+	}
+	11016.1.1 = {
+		holder = 170150
+	}
+	11066.1.1 = {
+		holder = 20617
+	}
+	11120.1.1 = {
+		holder = 144625
+	}
+	11170.1.1 = {
+		holder = 228009
+	}
+	11227.1.1 = {
+		liege = "d_karelia"
+		holder = 125240
+	}
+	11229.1.2 = {
+		holder = 125243
+	}
+	11230.1.2 = {
+		holder = 194177
+		liege = d_novgorod
+	}
+	11243.1.2 = {
+		holder = 125245
+	}
+	11250.1.2 = {
+		holder = 125246
+	}
+	11255.1.2 = {
+		holder = 125247
+	}
+	11258.1.2 = {
+		holder = 125248
+	}
+	11268.1.2 = {
+		holder = 125249
+	}
+	11274.1.2 = {
+		holder = 125250
+	}
+	11280.1.2 = {
+		holder = 125251
+	}
+	11286.1.2 = {
+		holder = 125252
+	}
+	11290.1.2 = {
+		holder = 125253
+	}
+	11292.1.2 = {
+		holder = 125254
+	}
+	11294.1.2 = {
+		holder = 125252
+	}
+	11297.1.2 = {
+		holder = 125253
+	}
+	11298.1.2 = {
+		holder = 125254
+	}
+	11299.1.2 = {
+		holder = 125252
+	}
+	11301.1.2 = {
+		holder = 125254
+	}
+	11302.1.2 = {
+		holder = 125252
+	}
+	11303.1.2 = {
+		holder = 125254
+	}
+	11305.1.2 = {
+		holder = 125253
+	}
+	11306.1.2 = {
+		holder = 125255
+	}
+	11312.1.2 = {
+		holder = 125254
+	}
+	11317.1.2 = {
+		holder = 125256
+	}
+	11324.1.2 = {
+		holder = 125257
+	}
+	11328.1.2 = {
+		holder = 125258
+	}
+	11330.1.1 = {
+		holder = 472301
+	}
+
+}
+
+
+c_jovvkuj = {
+	10755.1.1 = {
+		liege = "d_guoldat"
+		holder = 170333
+		government = tribal_government
+	}
+	10776.1.1 = {
+		holder = 170334
+	}
+	10803.1.1 = {
+		holder = 170335
+	}
+	10818.1.1 = {
+		holder = 170336
+	}
+	10836.1.1 = {
+		holder = 170337
+	}
+	10866.1.1 = {
+		holder = 170146
+	}
+	10902.1.1 = {
+		holder = 170147
+	}
+	10948.1.1 = {
+		holder = 170148
+	}
+	10987.1.1 = {
+		holder = 170149
+	}
+	11016.1.1 = {
+		holder = 170150
+	}
+	11066.1.1 = {
+		holder = 20617
+	}
+	11120.1.1 = {
+		holder = 144625
+	}
+	11170.1.1 = {
+		holder = 228009
+	}
+	11227.1.1 = {
+		liege = "d_karelia"
+		holder = 125240
+	}
+	11229.1.2 = {
+		holder = 125243
+	}
+	11230.1.2 = {
+		holder = 194177
+		liege = d_novgorod
+	}
+	11243.1.2 = {
+		holder = 125245
+	}
+	11250.1.2 = {
+		holder = 125246
+	}
+	11255.1.2 = {
+		holder = 125247
+	}
+	11258.1.2 = {
+		holder = 125248
+	}
+	11268.1.2 = {
+		holder = 125249
+	}
+	11274.1.2 = {
+		holder = 125250
+	}
+	11280.1.2 = {
+		holder = 125251
+	}
+	11286.1.2 = {
+		holder = 125252
+	}
+	11290.1.2 = {
+		holder = 125253
+	}
+	11292.1.2 = {
+		holder = 125254
+	}
+	11294.1.2 = {
+		holder = 125252
+	}
+	11297.1.2 = {
+		holder = 125253
+	}
+	11298.1.2 = {
+		holder = 125254
+	}
+	11299.1.2 = {
+		holder = 125252
+	}
+	11301.1.2 = {
+		holder = 125254
+	}
+	11302.1.2 = {
+		holder = 125252
+	}
+	11303.1.2 = {
+		holder = 125254
+	}
+	11305.1.2 = {
+		holder = 125253
+	}
+	11306.1.2 = {
+		holder = 125255
+	}
+	11312.1.2 = {
+		holder = 125254
+	}
+	11317.1.2 = {
+		holder = 125256
+	}
+	11324.1.2 = {
+		holder = 125257
+	}
+	11328.1.2 = {
+		holder = 125258
+	}
+	11330.1.1 = {
+		holder = 472301
+	}
+
+}
+
+c_kintus = {
+	10755.1.1 = {
+		liege = "d_guoldat"
+		holder = 170333
+		government = tribal_government
+	}
+	10776.1.1 = {
+		holder = 170334
+	}
+	10803.1.1 = {
+		holder = 170335
+	}
+	10818.1.1 = {
+		holder = 170336
+	}
+	10836.1.1 = {
+		holder = 170337
+	}
+	10866.1.1 = {
+		holder = 170146
+	}
+	10902.1.1 = {
+		holder = 170147
+	}
+	10948.1.1 = {
+		holder = 170148
+	}
+	10987.1.1 = {
+		holder = 170149
+	}
+	11016.1.1 = {
+		holder = 170150
+	}
+	11066.1.1 = {
+		holder = 28009
+	}
+	11120.1.1 = {
+		holder = 144625
+	}
+	11170.1.1 = {
+		holder = 228009
+	}
+	11227.1.1 = {
+		liege = "d_karelia"
+		holder = 125240
+	}
+	11229.1.2 = {
+		holder = 125243
+	}
+	11230.1.2 = {
+		holder = 194177
+		liege = d_novgorod
+	}
+	11243.1.2 = {
+		holder = 125245
+	}
+	11250.1.2 = {
+		holder = 125246
+	}
+	11255.1.2 = {
+		holder = 125247
+	}
+	11258.1.2 = {
+		holder = 125248
+	}
+	11268.1.2 = {
+		holder = 125249
+	}
+	11274.1.2 = {
+		holder = 125250
+	}
+	11280.1.2 = {
+		holder = 125251
+	}
+	11286.1.2 = {
+		holder = 125252
+	}
+	11290.1.2 = {
+		holder = 125253
+	}
+	11292.1.2 = {
+		holder = 125254
+	}
+	11294.1.2 = {
+		holder = 125252
+	}
+	11297.1.2 = {
+		holder = 125253
+	}
+	11298.1.2 = {
+		holder = 125254
+	}
+	11299.1.2 = {
+		holder = 125252
+	}
+	11301.1.2 = {
+		holder = 125254
+	}
+	11302.1.2 = {
+		holder = 125252
+	}
+	11303.1.2 = {
+		holder = 125254
+	}
+	11305.1.2 = {
+		holder = 125253
+	}
+	11306.1.2 = {
+		holder = 125255
+	}
+	11312.1.2 = {
+		holder = 125254
+	}
+	11317.1.2 = {
+		holder = 125256
+	}
+	11324.1.2 = {
+		holder = 125257
+	}
+	11328.1.2 = {
+		holder = 125258
+	}
+	11330.1.1 = {
+		holder = 472301
+	}
+}
+
+c_ter = {
+	10755.1.1 = {
+		liege = "d_guoldat"
+		holder = 170333
+		government = tribal_government
+	}
+	10776.1.1 = {
+		holder = 170334
+	}
+	10803.1.1 = {
+		holder = 170335
+	}
+	10818.1.1 = {
+		holder = 170336
+	}
+	10836.1.1 = {
+		holder = 170337
+	}
+	10866.1.1 = {
+		holder = 170146
+	}
+	10902.1.1 = {
+		holder = 170147
+	}
+	10948.1.1 = {
+		holder = 170148
+	}
+	10987.1.1 = {
+		holder = 170149
+	}
+	11016.1.1 = {
+		holder = 170150
+	}
+	11066.1.1 = {
+		holder = 28009
+	}
+	11120.1.1 = {
+		holder = 144625
+	}
+	11170.1.1 = {
+		holder = 228009
+	}
+	11227.1.1 = {
+		liege = "d_karelia"
+		holder = 125240
+	}
+	11229.1.2 = {
+		holder = 125243
+	}
+	11230.1.2 = {
+		holder = 194177
+		liege = d_novgorod
+	}
+	11243.1.2 = {
+		holder = 125245
+	}
+	11250.1.2 = {
+		holder = 125246
+	}
+	11255.1.2 = {
+		holder = 125247
+	}
+	11258.1.2 = {
+		holder = 125248
+	}
+	11268.1.2 = {
+		holder = 125249
+	}
+	11274.1.2 = {
+		holder = 125250
+	}
+	11280.1.2 = {
+		holder = 125251
+	}
+	11286.1.2 = {
+		holder = 125252
+	}
+	11290.1.2 = {
+		holder = 125253
+	}
+	11292.1.2 = {
+		holder = 125254
+	}
+	11294.1.2 = {
+		holder = 125252
+	}
+	11297.1.2 = {
+		holder = 125253
+	}
+	11298.1.2 = {
+		holder = 125254
+	}
+	11299.1.2 = {
+		holder = 125252
+	}
+	11301.1.2 = {
+		holder = 125254
+	}
+	11302.1.2 = {
+		holder = 125252
+	}
+	11303.1.2 = {
+		holder = 125254
+	}
+	11305.1.2 = {
+		holder = 125253
+	}
+	11306.1.2 = {
+		holder = 125255
+	}
+	11312.1.2 = {
+		holder = 125254
+	}
+	11317.1.2 = {
+		holder = 125256
+	}
+	11324.1.2 = {
+		holder = 125257
+	}
+	11328.1.2 = {
+		holder = 125258
+	}
+	11330.1.1 = {
+		holder = 472301
+	}
+	
+}
+
+
+c_koutajoki = {
+	10747.1.1 = {
+		holder = 170324
+		liege = "d_karelia"
+		government = tribal_government
+	}
+	10780.1.1 = {
+		holder = 170325
+	}
+	10795.1.1 = {
+		holder = 170326
+	}
+	10820.1.1 = {
+		holder = 170327
+	}
+	10846.1.1 = {
+		holder = 170328
+	}
+	10864.1.1 = {
+		holder = 170111
+	}
+	10907.1.1 = {
+		holder = 170112
+	}
+	10944.1.1 = {
+		holder = 170113
+	}
+	10976.1.1 = {
+		holder = 170114
+	}
+	11031.1.1 = {
+		holder = 170115
+	}
+	11066.1.1 = {
+		holder = 28004
+	}
+	11100.1.1 = {
+		holder = 144634
+	}
+	11150.1.1 = {
+		holder = 125226
+	}
+	11157.1.2 = {
+		holder = 125225
+	}
+	11160.1.2 = {
+		holder = 125227
+	}
+	11161.1.2 = {
+		holder = 125228
+	}
+	11167.1.2 = {
+		holder = 125229
+	}
+	11168.1.2 = {
+		holder = 125225
+	}
+	11170.1.2 = {
+		holder = 125230
+	}
+	11171.1.2 = {
+		holder = 125231
+	}
+	11171.7.2 = {
+		holder = 125230
+	}
+	11172.1.2 = {
+		holder = 125231
+	}
+	11175.1.2 = {
+		holder = 125230
+	}
+	11175.7.2 = {
+		holder = 125232
+	}
+	11176.1.2 = {
+		holder = 125233
+	}
+	11177.1.2 = {
+		holder = 125232
+	}
+	11180.1.2 = {
+		holder = 125233
+	}
+	11184.1.2 = {
+		holder = 125231
+	}
+	11186.1.2 = {
+		holder = 125233
+	}
+	11189.1.2 = {
+		holder = 125234
+	}
+	11204.1.2 = {
+		holder = 125233
+	}
+	11205.1.2 = {
+		holder = 125235
+	}
+	11208.1.2 = {
+		holder = 125236
+	}
+	11210.1.2 = {
+		holder = 125237
+	}
+	11212.1.2 = {
+		holder = 125236
+	}
+	11215.1.2 = {
+		holder = 125238
+	}
+	11216.1.2 = {
+		holder = 125236
+	}
+	11219.1.2 = {
+		holder = 125239
+	}
+	11219.7.2 = {
+		liege = d_novgorod
+	holder = 194186
+	}
+	11220.1.2 = {
+		holder = 125240
+	}
+	11221.1.2 = {
+		holder = 125241
+	}
+	11225.1.2 = {
+		holder = 125242
+	}
+	11226.1.2 = {
+		holder = 125240
+	}
+	11229.1.2 = {
+		holder = 125243
+	}
+	11230.1.2 = {
+		holder = 194177
+		liege = d_novgorod
+	}
+	11243.1.2 = {
+		holder = 125245
+	}
+	11250.1.2 = {
+		holder = 125246
+	}
+	11255.1.2 = {
+		holder = 125247
+	}
+	11258.1.2 = {
+		holder = 125248
+	}
+	11268.1.2 = {
+		holder = 125249
+	}
+	11274.1.2 = {
+		holder = 125250
+	}
+	11280.1.2 = {
+		holder = 125251
+	}
+	11286.1.2 = {
+		holder = 125252
+	}
+	11290.1.2 = {
+		holder = 125253
+	}
+	11292.1.2 = {
+		holder = 125254
+	}
+	11294.1.2 = {
+		holder = 125252
+	}
+	11297.1.2 = {
+		holder = 125253
+	}
+	11298.1.2 = {
+		holder = 125254
+	}
+	11299.1.2 = {
+		holder = 125252
+	}
+	11301.1.2 = {
+		holder = 125254
+	}
+	11302.1.2 = {
+		holder = 125252
+	}
+	11303.1.2 = {
+		holder = 125254
+	}
+	11305.1.2 = {
+		holder = 125253
+	}
+	11306.1.2 = {
+		holder = 125255
+	}
+	11312.1.2 = {
+		holder = 125254
+	}
+	11317.1.2 = {
+		holder = 125256
+	}
+	11324.1.2 = {
+		holder = 125257
+	}
+	11328.1.2 = {
+		holder = 125258
+	}
+	11330.1.2 = {
+		holder = 125256
+	}
+	11332.1.2 = {
+		holder = 125258
+	}
+	11333.1.2 = {
+		holder = 125259
+	}
+	11334.1.2 = {
+		holder = 125258
+	}
+	11335.1.2 = {
+		holder = 125260
+	}
+
+}
+

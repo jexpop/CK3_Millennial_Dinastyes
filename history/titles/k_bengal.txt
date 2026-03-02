@@ -1,0 +1,2830 @@
+k_bengal = {
+	10867.1.1 = { change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10755.1.1 = {
+		holder = 190027 #Gopala Pala
+	}
+	10769.1.1 = {
+		holder = 190028 #Dharamapala Pala
+	}
+	10810.1.1 = {
+		holder = 190004 #Devapala Pala
+	}
+	10850.1.1 = {
+		holder = 190005 #Mahendrapala Pala
+	}
+	10854.1.1 = {
+		holder = 190008 #Vigrahapala Pala
+	}
+	10855.1.1 = {
+		holder = 190009 #Narayanapala Pala
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				holder = {
+					set_court_type = court_scholarly
+				}
+			}
+		}
+	}
+	10908.1.1 = {
+		holder = 190010 #Rajyapala Pala
+	}
+	10940.1.1 = {
+		holder = 190011 #Gopala II Pala
+	}
+	10960.1.1 = {
+		holder = 190012 #Vigrahapala II Pala
+	}
+	10988.1.1 = {
+		holder = 190013 #Mahipala Pala
+	}
+	11038.1.1 = {
+		holder = 190016 #Nayapala Pala
+	}
+	11055.1.1 = {
+		holder = 190017 #Vigrahapala III Pala
+
+	}
+	11070.1.1 = {
+		holder = 190018 #Mahipala II Pala
+	}
+	11075.1.1 = {
+		holder = 190019 #Surapala Pala
+	}
+	11077.1.1 = {
+		holder = 190020 #Ramapala Pala
+	}
+	11120.1.1 = {
+		holder = 190021 #Kumarapala Pala
+	}
+	11125.1.1 = {
+		holder = 190022 #Gopala III Pala
+	}
+	11140.1.1 = {
+		holder = 154002 #Vijay Sena
+	}
+	11159.1.1 = {
+		holder = 154004 #Valla Sena
+	}
+	11179.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11204.1.1 = {
+		holder = 170252 #Muhammad Bakhtiyar
+		liege = e_rajastan
+	}
+	11206.1.1 = {
+		holder = 170253 #Muhammad Shiran
+	}
+	11208.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11210.1.1 = {
+		holder = 170254 #Ali Mardan (Muhammad Bakhtiyars murderer)
+	}
+	11211.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+		liege = 0
+	}
+	11227.1.1 = {
+		holder = 170200 #Nasiruddin Mahmud	(Also Governor of Oudh)
+		liege = e_rajastan
+	}
+	11229.1.1 = {
+		holder = 170263 #Alauddin Daulat
+	}
+	11229.6.1 = {
+		holder = 170262 #Malik Balkha
+		liege = 0
+	}
+	11232.1.1 = {
+		holder = 170264 #Alauddin Jani
+		liege = e_rajastan
+	}
+	11233.1.1 = {
+		holder = 170265 #Saifuddin Aibak
+	}
+	11236.1.1 = {
+		holder = 170266 #Awar Khan Aibak
+	}
+	11236.12.1 = {
+		holder = 170267 #Tughral Tughan Khan (also governor of Bihar)
+	}
+	11246.1.1 = {
+		holder = 170268 #Tughlaq Tamar Khan (governor of Oudh, Tughral Tughan Khan gets that instead from Sultan)
+	}
+	11247.1.1 = {
+		holder = 170269 #Jalaluddin Masud Jani
+	}
+	11251.1.1 = {
+		holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+		liege = 0
+	}
+	11257.1.1 = {
+		holder = 170271 #Ijjauddin Balban Iuzbaki
+		liege = e_rajastan
+	}
+	11259.1.1 = {
+		holder = 170272 #Tatar Khan
+		liege = 0
+	}
+	11266.2.19 = {
+		liege = e_rajastan
+	}
+	11268.1.1 = {
+		holder = 170273 #Sher Khan
+	}
+	11272.1.1 = {
+		holder = 170274 #Amin Khan
+	}
+	11272.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+		liege = 0
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+		liege = e_rajastan
+	}
+	11286.1.1 = {	#Death of Ghiyasuddin Balban
+		liege = 0
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170275 #Shamsuddin Firoz Shah
+	}
+	11322.1.1 = {
+		holder = 170278 #Ghiyasuddin Bahadur
+	}
+	11325.1.1 = {
+		liege = e_rajastan	#Ghiyasuddin Bahadur continues as governor
+	}
+	11328.6.1 = {
+		holder = 170282 #Bahram Khan
+	}
+	#Lasting independence from 1338
+}
+
+
+d_gauda = {
+	10867.1.1 = { change_development_level = 12 }
+	11066.1.1 = { change_development_level = 18 }
+	11178.1.1 = { change_development_level = 22 }
+	
+	10755.1.1 = {
+		holder = 190027 #Gopala Pala
+	}
+	10769.1.1 = {
+		holder = 190028 #Dharamapala Pala
+	}
+	10810.1.1 = {
+		holder = 190004 #Devapala Pala
+	}
+	10850.1.1 = {
+		holder = 190005 #Mahendrapala Pala
+	}
+	10854.1.1 = {
+		holder = 190008 #Vigrahapala Pala
+	}
+	10855.1.1 = {
+		holder = 190009 #Narayanapala Pala
+	}
+	10908.1.1 = {
+		holder = 190010 #Rajyapala Pala
+	}
+	10940.1.1 = {
+		holder = 190011 #Gopala II Pala
+	}
+	10956.1.1 = {
+		holder = 190089 #Rajyapala Kamboja Pala
+	}
+	10990.1.1 = {
+		holder = 190090 #Narayanapala Kamboja Pala
+	}
+	11002.1.1 = {
+		holder = 190091 #Nayapala Kamboja Pala
+	}
+	11026.1.1 = {
+		liege = k_bengal
+	}
+	11054.1.1 = {
+		holder = 190017 #Vigrahapala III Pala
+	}
+	11090.1.1 = {
+		holder = 190020 #Ramapala Pala
+	}
+	11120.1.1 = {
+		holder = 190021 #Kumarapala Pala
+	}
+	11125.1.1 = {
+		holder = 190022 #Gopala III Pala
+		liege = k_bihar
+	}
+	11144.1.1 = {
+		holder = 190023 #Madanapala Pala
+	}
+	11155.1.1 = {
+		holder = 154002 #Vijay Sena
+		liege = k_bengal
+	}
+	11159.1.1 = {
+		holder = 154004 #Valla Sena
+	}
+	11179.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11204.1.1 = {
+		holder = 170252 #Muhammad Bakhtiyar
+	}
+	11206.1.1 = {
+		holder = 170253 #Muhammad Shiran
+	}
+	11208.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11210.1.1 = {
+		holder = 170254 #Ali Mardan (Muhammad Bakhtiyars murderer)
+	}
+	11211.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11227.1.1 = {
+		holder = 170200 #Nasiruddin Mahmud	(Also Governor of Oudh)
+	}
+	11229.1.1 = {
+		holder = 170263 #Alauddin Daulat
+	}
+	11229.6.1 = {
+		holder = 170262 #Malik Balkha
+	}
+	11232.1.1 = {
+		holder = 170264 #Alauddin Jani
+	}
+	11233.1.1 = {
+		holder = 170265 #Saifuddin Aibak
+	}
+	11236.1.1 = {
+		holder = 170266 #Awar Khan Aibak
+	}
+	11236.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11246.1.1 = {
+		holder = 170268 #Tughlaq Tamar Khan
+	}
+	11247.1.1 = {
+		holder = 170269 #Jalaluddin Masud Jani
+	}
+	11251.1.1 = {
+		holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+	}
+	11257.1.1 = {
+		holder = 170271 #Ijjauddin Balban Iuzbaki
+	}
+	11259.1.1 = {
+		holder = 170272 #Tatar Khan
+	}
+	11268.1.1 = {
+		holder = 170273 #Sher Khan
+	}
+	11272.1.1 = {
+		holder = 170274 #Amin Khan
+	}
+	11272.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170277 #Jallaludin Mahmud
+	}
+	11328.6.1 = {
+		holder = 170282 #Bahram Khan
+	}
+
+}
+
+
+c_laksmanavati = {
+	11178.1.1 = { change_development_level = 30 }
+
+	10755.1.1 = {
+		holder = 190027 #Gopala Pala
+	}
+	10769.1.1 = {
+		holder = 190028 #Dharamapala Pala
+	}
+	10810.1.1 = {
+		holder = 190004 #Devapala Pala
+	}
+	10850.1.1 = {
+		holder = 190005 #Mahendrapala Pala
+	}
+	10854.1.1 = {
+		holder = 190008 #Vigrahapala Pala
+	}
+	10855.1.1 = {
+		holder = 190009 #Narayanapala Pala
+	}
+	10908.1.1 = {
+		holder = 190010 #Rajyapala Pala
+	}
+	10940.1.1 = {
+		holder = 190011 #Gopala II Pala
+	}
+	10960.1.1 = {
+		holder = 190012 #Vigrahapala II Pala
+	}
+	10988.1.1 = {
+		holder = 190013 #Mahipala Pala
+	}
+	11038.1.1 = {
+		holder = 190016 #Nayapala Pala
+	}
+	11055.1.1 = {
+		holder = 190017 #Vigrahapala III Pala
+	}
+	11144.1.1 = {
+		liege = k_bihar
+	}
+	11155.1.1 = {
+		liege = k_bengal
+	}
+	11178.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11204.1.1 = {
+		holder = 170252 #Muhammad Bakhtiyar
+	}
+	11206.1.1 = {
+		holder = 170253 #Muhammad Shiran
+	}
+	11208.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11210.1.1 = {
+		holder = 170254 #Ali Mardan
+	}
+	11211.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11227.1.1 = {
+		holder = 170200 #Nasiruddin Mahmud
+	}
+	11229.1.1 = {
+		holder = 170263 #Alauddin Daulat
+	}
+	11229.6.1 = {
+		holder = 170262 #Malik Balkha
+	}
+	11232.1.1 = {
+		holder = 170264 #Alauddin Jani
+	}
+	11233.1.1 = {
+		holder = 170265 #Saifuddin Aibak
+	}
+	11236.1.1 = {
+		holder = 170266 #Awar Khan Aibak
+	}
+	11236.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11246.1.1 = {
+		holder = 170268 #Tughlaq Tamar Khan
+	}
+	11247.1.1 = {
+		holder = 170269 #Jalaluddin Masud Jani
+	}
+	11251.1.1 = {
+		holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+	}
+	11257.1.1 = {
+		holder = 170271 #Ijjauddin Balban Iuzbaki
+	}
+	11259.1.1 = {
+		holder = 170272 #Tatar Khan
+	}
+	11268.1.1 = {
+		holder = 170273 #Sher Khan
+	}
+	11272.1.1 = {
+		holder = 170274 #Amin Khan
+	}
+	11272.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170275 #Shamsuddin Firoz Shah
+	}
+	11322.1.1 = {
+		holder = 170278 #Ghiyasuddin Bahadur
+	}
+	11328.6.1 = {
+		holder = 170282 #Bahram Khan
+	}
+}
+
+
+c_kotivarsa = {
+	11178.1.1 = { change_development_level = 30 }
+
+	10755.1.1 = {
+		holder = 190027 #Gopala Pala
+		liege = d_varendra
+	}
+	10769.1.1 = {
+		holder = 190028 #Dharamapala Pala
+	}
+	10810.1.1 = {
+		holder = 190004 #Devapala Pala
+	}
+	10846.1.1 = {
+		holder = 190103 #Ajatashatru
+		liege = k_bengal
+	}
+	10866.1.1 = {
+		holder = 190104 #Udayin
+		liege = d_tirabhukti
+	}
+	10870.1.1 = {
+		liege = k_bengal
+	}
+	10882.1.1 = {
+		holder = 190105 #Bimbisara
+	}
+	10908.1.1 = {
+		holder = 190010 #Rajyapala Pala
+	}
+	10940.1.1 = {
+		holder = 190011 #Gopala II Pala
+	}
+	10960.1.1 = {
+		holder = 190012 #Vigrahapala II Pala
+	}
+	10988.1.1 = {
+		holder = 190013 #Mahipala Pala
+	}
+	11038.1.1 = {
+		holder = 190016 #Nayapala Pala
+	}
+	11055.1.1 = {
+		holder = 190017 #Vigrahapala III Pala
+	}
+	11060.1.1 = {
+		holder = 190051 #Divya Kaivarta
+		liege = d_varendra
+	}
+	11076.1.1 = {
+		holder = 190052 #Rudoka Kaivarta
+	}
+	11078.1.1 = {
+		holder = 190053 #Bhima Kaivarta
+	}
+	11080.1.1 = {
+		holder = 190020 #Ramapala Pala
+	}
+	11120.1.1 = {
+		holder = 190021 #Kumarapala Pala
+	}
+	11125.1.1 = {
+		holder = 190022 #Gopala III Pala
+	}
+	11144.1.1 = {
+		holder = 190023 #Madanapala Pala
+		liege = k_bihar
+	}
+	11155.1.1 = {
+		holder = 154002 #Vijay Sena
+		liege = k_bengal
+	}
+	11159.1.1 = {
+		holder = 154004 #Valla Sena
+	}
+	11179.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11204.1.1 = {
+		holder = 170252 #Muhammad Bakhtiyar
+	}
+	11206.1.1 = {
+		holder = 170253 #Muhammad Shiran
+	}
+	11208.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11210.1.1 = {
+		holder = 170254 #Ali Mardan
+	}
+	11211.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11227.1.1 = {
+		holder = 170200 #Nasiruddin Mahmud
+	}
+	11229.1.1 = {
+		holder = 170263 #Alauddin Daulat
+	}
+	11229.6.1 = {
+		holder = 170262 #Malik Balkha
+	}
+	11232.1.1 = {
+		holder = 170264 #Alauddin Jani
+	}
+	11233.1.1 = {
+		holder = 170265 #Saifuddin Aibak
+	}
+	11236.1.1 = {
+		holder = 170266 #Awar Khan Aibak
+	}
+	11236.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11246.1.1 = {
+		holder = 170268 #Tughlaq Tamar Khan
+	}
+	11247.1.1 = {
+		holder = 170269 #Jalaluddin Masud Jani
+	}
+	11251.1.1 = {
+		holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+	}
+	11257.1.1 = {
+		holder = 170271 #Ijjauddin Balban Iuzbaki
+	}
+	11259.1.1 = {
+		holder = 170272 #Tatar Khan
+	}
+	11268.1.1 = {
+		holder = 170273 #Sher Khan
+	}
+	11272.1.1 = {
+		holder = 170274 #Amin Khan
+	}
+	11272.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170275 #Shamsuddin Firoz Shah
+	}
+	11322.1.1 = {
+		holder = 170278 #Ghiyasuddin Bahadur
+	}
+	11328.6.1 = {
+		holder = 170282 #Bahram Khan
+	}
+}
+
+
+c_gauda = {
+	10755.1.1 = {
+		holder = 190027 #Gopala Pala
+	}
+	10769.1.1 = {
+		holder = 190028 #Dharamapala Pala
+	}
+	10810.1.1 = {
+		holder = 190004 #Devapala Pala
+	}
+	10850.1.1 = {
+		holder = 190005 #Mahendrapala Pala
+	}
+	10854.1.1 = {
+		holder = 190008 #Vigrahapala Pala
+	}
+	10855.1.1 = {
+		holder = 190009 #Narayanapala Pala
+	}
+	10908.1.1 = {
+		holder = 190010 #Rajyapala Pala
+	}
+	10940.1.1 = {
+		holder = 190011 #Gopala II Pala
+	}
+	10956.1.1 = {
+		holder = 190089 #Rajyapala Kamboja Pala
+	}
+	10990.1.1 = {
+		holder = 190090 #Narayanapala Kamboja Pala
+	}
+	11002.1.1 = {
+		holder = 190091 #Nayapala Kamboja Pala
+	}
+	11026.1.1 = {
+		liege = k_bengal
+	}
+	11040.1.1 = {
+		holder = 191078 #Narasimharjjuna
+	}
+	11178.1.1 = {
+		holder = 154006 # Visvarupa
+		liege = d_nadia
+	}
+	11179.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11203.10.1 = {
+		holder = 170252 #Muhammad Bakhtiyar
+		liege = k_bengal
+	}
+	11206.1.1 = {
+		holder = 170253 #Muhammad Shiran
+	}
+	11208.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11210.1.1 = {
+		holder = 170254 #Ali Mardan
+	}
+	11212.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11227.1.1 = {
+		holder = 170200 #Nasiruddin Mahmud
+	}
+	11229.1.1 = {
+		holder = 170263 #Alauddin Daulat
+	}
+	11230.1.1 = {
+		holder = 170262 #Malik Balkha
+	}
+	11232.1.1 = {
+		holder = 170264 #Alauddin Jani
+	}
+	11233.1.1 = {
+		holder = 170265 #Saifuddin Aibak
+	}
+	11236.1.1 = {
+		holder = 170266 #Awar Khan Aibak
+	}
+	11236.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11246.1.1 = {
+		holder = 170268 #Tughlaq Tamar Khan
+	}
+	11247.1.1 = {
+		holder = 170269 #Jalaluddin Masud Jani
+	}
+	11251.1.1 = {
+		holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+	}
+	11257.1.1 = {
+		holder = 170271 #Ijjauddin Balban Iuzbaki
+	}
+	11259.1.1 = {
+		holder = 170272 #Tatar Khan
+	}
+	11268.1.1 = {
+		holder = 170273 #Sher Khan
+	}
+	11272.1.1 = {
+		holder = 170274 #Amin Khan
+	}
+	11272.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170277 #Jallaludin Mahmud
+		liege = d_gauda
+	}
+	11322.1.1 = {
+		holder = 170278 #Ghiyasuddin Bahadur
+		liege = k_bengal
+	}
+
+}
+
+
+c_radha = {
+	10755.1.1 = {
+		holder = 190027 #Gopala Pala
+		liege = k_bengal
+	}
+	10769.1.1 = {
+		holder = 190028 #Dharamapala Pala
+	}
+	10810.1.1 = {
+		holder = 190004 #Devapala Pala
+	}
+	10850.1.1 = {
+		holder = 190005 #Mahendrapala Pala
+	}
+	10854.1.1 = {
+		holder = 190008 #Vigrahapala Pala
+	}
+	10855.1.1 = {
+		holder = 190009 #Narayanapala Pala
+	}
+	10908.1.1 = {
+		holder = 190010 #Rajyapala Pala
+	}
+	10940.1.1 = {
+		holder = 190011 #Gopala II Pala
+	}
+	10960.1.1 = {
+		holder = 190012 #Vigrahapala II Pala
+	}
+	10988.1.1 = {
+		holder = 190013 #Mahipala Pala
+	}
+	11038.1.1 = {
+		holder = 190016 #Nayapala Pala
+	}
+	11055.1.1 = {
+		holder = 190017 #Vigrahapala III Pala
+	}
+	11167.1.1 = {
+		holder = 191137 #Jiban
+	}
+	11179.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11204.1.1 = {
+		holder = 170252 #Muhammad Bakhtiyar
+	}
+	11206.1.1 = {
+		holder = 170253 #Muhammad Shiran
+	}
+	11208.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11210.1.1 = {
+		holder = 170254 #Ali Mardan
+	}
+	11211.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11227.1.1 = {
+		holder = 170200 #Nasiruddin Mahmud
+	}
+	11229.1.1 = {
+		holder = 170263 #Alauddin Daulat
+	}
+	11229.6.1 = {
+		holder = 170262 #Malik Balkha
+	}
+	11232.1.1 = {
+		holder = 170264 #Alauddin Jani
+	}
+	11233.1.1 = {
+		holder = 170265 #Saifuddin Aibak
+	}
+	11236.1.1 = {
+		holder = 170266 #Awar Khan Aibak
+	}
+	11236.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11246.1.1 = {
+		holder = 170268 #Tughlaq Tamar Khan
+	}
+	11247.1.1 = {
+		holder = 170269 #Jalaluddin Masud Jani
+	}
+	11251.1.1 = {
+		holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+	}
+	11257.1.1 = {
+		holder = 170271 #Ijjauddin Balban Iuzbaki
+	}
+	11259.1.1 = {
+		holder = 170272 #Tatar Khan
+	}
+	11268.1.1 = {
+		holder = 170273 #Sher Khan
+	}
+	11272.1.1 = {
+		holder = 170274 #Amin Khan
+	}
+	11272.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170277 #Jallaludin Mahmud
+		liege = d_gauda
+	}
+	11322.1.1 = {
+		holder = 170278 #Ghiyasuddin Bahadur
+		liege = k_bengal
+	}
+}
+
+
+d_varendra = {
+	10867.1.1 = { change_development_level = 12 }
+	11066.1.1 = { change_development_level = 18 }
+	11178.1.1 = { change_development_level = 22 }
+	
+	10755.1.1 = {
+		holder = 190027 #Gopala Pala
+	}
+	10769.1.1 = {
+		holder = 190028 #Dharamapala Pala
+	}
+	10810.1.1 = {
+		holder = 190004 #Devapala Pala
+	}
+	10850.1.1 = {
+		holder = 190005 #Mahendrapala Pala
+	}
+	10854.1.1 = {
+		holder = 190008 #Vigrahapala Pala
+	}
+	10855.1.1 = {
+		holder = 190009 #Narayanapala Pala
+	}
+	#10856.1.1 = {
+	#	holder = 190095 #Jarasandha
+	#}
+	#10856.1.1 = {
+	#	liege = k_bengal
+	#}
+	#10891.1.1 = {
+	#	holder = 190096 #Sahadeva
+	#}#907 return to Pala
+	
+	10908.1.1 = {
+		holder = 190010 #Rajyapala Pala
+	}
+	10940.1.1 = {
+		holder = 190011 #Gopala II Pala
+	}
+	10960.1.1 = {
+		holder = 190012 #Vigrahapala II Pala
+	}
+	10988.1.1 = {
+		holder = 190013 #Mahipala Pala
+	}
+	11038.1.1 = {
+		holder = 190016 #Nayapala Pala
+	}
+	11055.1.1 = {
+		holder = 190017 #Vigrahapala III Pala
+	}
+	11057.1.1 = {
+		holder = 190050 #Rudoka Kaivarta
+	}
+	11057.1.1 = {
+		liege = k_bengal
+	}
+	11060.1.1 = {
+		holder = 190051 #Divya Kaivarta
+	}
+	11071.1.1 = {
+		liege = 0
+	}
+	11076.1.1 = {
+		holder = 190052 #Rudoka Kaivarta
+	}
+	11077.1.1 = {
+		holder = 190053 #Bhima Kaivarta
+	}
+	11080.1.1 = {
+		liege = k_bengal
+	}
+	11115.1.1 = {
+		holder = 190020 #Ramapala Pala
+	}
+	11120.1.1 = {
+		holder = 190021 #Kumarapala Pala
+	}
+	11125.1.1 = {
+		holder = 190022 #Gopala III Pala
+		liege = k_bihar
+	}
+	11144.1.1 = {
+		holder = 190023 #Madanapala Pala
+	}
+	11155.1.1 = {
+		holder = 0
+	}
+
+}
+
+
+c_pundravardhana = {
+	10755.1.1 = {
+		holder = 190027 #Gopala Pala
+		liege = d_varendra
+	}
+	10769.1.1 = {
+		holder = 190028 #Dharamapala Pala
+	}
+	10810.1.1 = {
+		holder = 190004 #Devapala Pala
+	}
+	10850.1.1 = {
+		holder = 190005 #Mahendrapala Pala
+	}
+	10854.1.1 = {
+		holder = 190008 #Vigrahapala Pala
+	}
+	10855.1.1 = {
+		holder = 190009 #Narayanapala Pala
+	}
+	10908.1.1 = {
+		holder = 190010 #Rajyapala Pala
+	}
+	10940.1.1 = {
+		holder = 190011 #Gopala II Pala
+	}
+	10960.1.1 = {
+		holder = 190012 #Vigrahapala II Pala
+	}
+	10988.1.1 = {
+		holder = 190013 #Mahipala Pala
+	}
+	11038.1.1 = {
+		holder = 190016 #Nayapala Pala
+	}
+	11055.1.1 = {
+		holder = 190017 #Vigrahapala III Pala
+	}
+	#10856.1.1 = {
+	#	holder = 190095 #Jarasandha
+	#}
+	#10856.1.1 = {
+	#	liege = k_bengal
+	#}
+	#10891.1.1 = {
+	#	holder = 190096 #Sahadeva
+	#}#907 return to Pala
+	11060.1.1 = {
+		holder = 190051 #Divya Kaivarta
+		liege = d_varendra
+	}
+	11076.1.1 = {
+		holder = 190052 #Rudoka Kaivarta
+	}
+	11078.1.1 = {
+		holder = 190053 #Bhima Kaivarta
+	}
+	11080.1.1 = {
+		holder = 190020 #Ramapala Pala
+	}
+	11120.1.1 = {
+		holder = 190021 #Kumarapala Pala
+	}
+	11125.1.1 = {
+		holder = 190022 #Gopala III Pala
+	}
+	11144.1.1 = {
+		holder = 190023 #Madanapala Pala
+		liege = k_bihar
+	}
+	11155.1.1 = {
+		holder = 154002 #Vijay Sena
+		liege = k_bengal
+	}
+	11159.1.1 = {
+		holder = 154004 #Valla Sena
+	}
+	11179.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11204.1.1 = {
+		holder = 170252 #Muhammad Bakhtiyar
+	}
+	11206.1.1 = {
+		holder = 170253 #Muhammad Shiran
+	}
+	11208.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11210.1.1 = {
+		holder = 170254 #Ali Mardan
+	}
+	11211.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11220.1.1 = {
+		holder = 170242
+	}
+	11227.1.1 = {
+		holder = 170200 #Nasiruddin Mahmud
+	}
+	11229.1.1 = {
+		holder = 170263 #Alauddin Daulat
+	}
+	11229.6.1 = {
+		holder = 170262 #Malik Balkha
+	}
+	11232.1.1 = {
+		holder = 170264 #Alauddin Jani
+	}
+	11233.1.1 = {
+		holder = 170265 #Saifuddin Aibak
+	}
+	11236.1.1 = {
+		holder = 170266 #Awar Khan Aibak
+	}
+	11236.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11246.1.1 = {
+		holder = 170268 #Tughlaq Tamar Khan
+	}
+	11247.1.1 = {
+		holder = 170269 #Jalaluddin Masud Jani
+	}
+	11251.1.1 = {
+		holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+	}
+	11257.1.1 = {
+		holder = 170271 #Ijjauddin Balban Iuzbaki
+	}
+	11259.1.1 = {
+		holder = 170272 #Tatar Khan
+	}
+	11268.1.1 = {
+		holder = 170273 #Sher Khan
+	}
+	11272.1.1 = {
+		holder = 170274 #Amin Khan
+	}
+	11272.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170275 #Shamsuddin Firoz Shah
+	}
+	11322.1.1 = {
+		holder = 170278 #Ghiyasuddin Bahadur
+	}
+	11328.6.1 = {
+		holder = 170282 #Bahram Khan
+	}
+}
+
+
+c_suvarnagram = {
+	10645.1.1 = {
+		holder = 191100 #Khadgodyama
+		liege = d_vanga
+	}
+	10675.1.1 = {
+		holder = 191101 #Jatakhadga
+	}
+	10700.1.1 = {
+		holder = 191102 #Devakhadga
+	}
+	10725.1.1 = {
+		holder = 190084 #Shantideva Shantideva
+	}
+	10750.1.1 = {
+		holder = 190085 #Viradeva Shantideva
+	}
+	10802.1.1 = {
+		holder = 190086 #Ananadeva Shantideva
+	}
+	10841.1.1 = {
+		holder = 190087 #Bhavadeva Shantideva
+	}
+	10850.1.1 = {
+		holder = 190005 #Mahendrapala Pala
+	}
+	10854.1.1 = {
+		holder = 190008 #Vigrahapala Pala
+	}
+	10855.1.1 = {
+		holder = 190009 #Narayanapala Pala
+	}
+	10856.1.1 = {
+		holder = 190095 #Jarasandha
+		liege = k_bengal
+	}
+	10891.1.1 = {
+		holder = 190096 #Sahadeva
+	}
+	10908.1.1 = {
+		holder = 190010 #Rajyapala Pala
+	}
+	10940.1.1 = {
+		holder = 190011 #Gopala II Pala
+	}
+	10960.1.1 = {
+		holder = 190012 #Vigrahapala II Pala
+	}
+	10988.1.1 = {
+		holder = 190013 #Mahipala Pala
+	}
+	11038.1.1 = {
+		holder = 190016 #Nayapala Pala
+	}
+	11055.1.1 = {
+		holder = 190017 #Vigrahapala III Pala
+	}
+	11060.1.1 = {
+		holder = 190051 #Divya Kaivarta
+		liege = d_varendra
+	}
+	11076.1.1 = {
+		holder = 190052 #Rudoka Kaivarta
+	}
+	11078.1.1 = {
+		holder = 190053 #Bhima Kaivarta
+	}
+	11115.1.1 = {
+		holder = 190020 #Ramapala Pala
+	}
+	11120.1.1 = {
+		holder = 190021 #Kumarapala Pala
+	}
+	11125.1.1 = {
+		holder = 190022 #Gopala III Pala
+	}
+	11140.1.1 = {
+		holder = 154002 #Vijay Sena
+		liege = k_bengal
+	}
+	11159.1.1 = {
+		holder = 154004 #Valla Sena
+	}
+	11179.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11210.1.1 = {
+		holder = 191547 #Kharavana
+		liege = d_vanga
+	}
+	11250.1.1 = {
+		holder = 191548 #Gokuladeva
+	}
+	11270.1.1 = {
+		holder = 191549 #Narayanadeva
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+		liege = k_bengal
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170278 #Ghiyasuddin Bahadur
+		liege = d_vanga
+	}
+	11328.6.1 = {
+		holder = 170282 #Bahram Khan
+		liege = k_bengal
+	}
+	#Lasting independence from 1338
+}
+
+
+c_madhupur = {
+	10755.1.1 = {
+		holder = 190027 #Gopala Pala
+		liege = d_varendra
+	}
+	10769.1.1 = {
+		holder = 190028 #Dharamapala Pala
+	}
+	10810.1.1 = {
+		holder = 190004 #Devapala Pala
+	}
+	10850.1.1 = {
+		holder = 190005 #Mahendrapala Pala
+	}
+	10854.1.1 = {
+		holder = 190008 #Vigrahapala Pala
+	}
+	10855.1.1 = {
+		holder = 190009 #Narayanapala Pala
+	}
+	10908.1.1 = {
+		holder = 190010 #Rajyapala Pala
+	}
+	10940.1.1 = {
+		holder = 190011 #Gopala II Pala
+	}
+	10960.1.1 = {
+		holder = 190012 #Vigrahapala II Pala
+	}
+	10988.1.1 = {
+		holder = 190013 #Mahipala Pala
+	}
+	11038.1.1 = {
+		holder = 190016 #Nayapala Pala
+	}
+	11055.1.1 = {
+		holder = 190017 #Vigrahapala III Pala
+	}
+	#10856.1.1 = {
+	#	holder = 190095 #Jarasandha
+	#}
+	#10856.1.1 = {
+	#	liege = k_bengal
+	#}
+	#10891.1.1 = {
+	#	holder = 190096 #Sahadeva
+	#}#907 return to Pala
+	11060.1.1 = {
+		holder = 190051 #Divya Kaivarta
+		liege = d_varendra
+	}
+	11076.1.1 = {
+		holder = 190052 #Rudoka Kaivarta
+	}
+	11078.1.1 = {
+		holder = 190053 #Bhima Kaivarta
+	}
+	11115.1.1 = {
+		holder = 190020 #Ramapala Pala
+	}
+	11120.1.1 = {
+		holder = 190021 #Kumarapala Pala
+	}
+	11125.1.1 = {
+		holder = 190022 #Gopala III Pala
+	}
+	11144.1.1 = {
+		holder = 190023 #Madanapala Pala
+		liege = k_bihar
+	}
+	11155.1.1 = {
+		holder = 154002 #Vijay Sena
+		liege = k_bengal
+	}
+	11159.1.1 = {
+		holder = 154004 #Valla Sena
+	}
+	11179.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11204.1.1 = {
+		holder = 170252 #Muhammad Bakhtiyar
+	}
+	11206.1.1 = {
+		holder = 170253 #Muhammad Shiran
+	}
+	11208.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11210.1.1 = {
+		holder = 170254 #Ali Mardan
+	}
+	11211.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11220.1.1 = {
+		holder = 170242
+	}
+	11227.1.1 = {
+		holder = 170200 #Nasiruddin Mahmud
+	}
+	11229.1.1 = {
+		holder = 170263 #Alauddin Daulat
+	}
+	11229.6.1 = {
+		holder = 170262 #Malik Balkha
+	}
+	11232.1.1 = {
+		holder = 170264 #Alauddin Jani
+	}
+	11233.1.1 = {
+		holder = 170265 #Saifuddin Aibak
+	}
+	11236.1.1 = {
+		holder = 170266 #Awar Khan Aibak
+	}
+	11236.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11246.1.1 = {
+		holder = 170268 #Tughlaq Tamar Khan
+	}
+	11247.1.1 = {
+		holder = 170269 #Jalaluddin Masud Jani
+	}
+	11251.1.1 = {
+		holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+	}
+	11257.1.1 = {
+		holder = 170271 #Ijjauddin Balban Iuzbaki
+	}
+	11259.1.1 = {
+		holder = 170272 #Tatar Khan
+	}
+	11268.1.1 = {
+		holder = 170273 #Sher Khan
+	}
+	11272.1.1 = {
+		holder = 170274 #Amin Khan
+	}
+	11272.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170275 #Shamsuddin Firoz Shah
+	}
+	11322.1.1 = {
+		holder = 170278 #Ghiyasuddin Bahadur
+	}
+	11328.6.1 = {
+		holder = 170282 #Bahram Khan
+	}
+}
+
+
+d_vanga = {
+	10867.1.1 = { change_development_level = 12 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10645.1.1 = {
+		holder = 191100 #Khadgodyama
+	}
+	10675.1.1 = {
+		holder = 191101 #Jatakhadga
+	}
+	10700.1.1 = {
+		holder = 191102 #Devakhadga
+	}
+	10730.1.1 = {
+		holder = 191103 #Rajarabhata
+	}
+	10755.1.1 = {
+		holder = 190085 #Viradeva Shantideva
+	}
+	10802.1.1 = {
+		holder = 190086 #Ananadeva Shantideva
+	}
+	10841.1.1 = {
+		holder = 190087 #Bhavadeva Shantideva
+	}
+	10866.1.1 = {
+		holder = 190088 #Kantideva Harikela
+	}
+	10900.1.1 = {
+		holder = 190068 #Traillokyachandra Chandra
+	}
+	10931.1.1 = {
+		holder = 190069 #Srichandra Chandra
+	}
+	10975.1.1 = {
+		holder = 190070 #Kalyanachandra Chandra
+	}
+	10998.1.1 = {
+		holder = 190071 #Ladachandra Chandra
+	}
+	11020.1.1 = {
+		holder = 190072 #Govindachandra Chandra
+	}
+	#The Cedis crush the Palas and Chandras
+	11052.1.1 = {
+		holder = 190073 #Jatavarman Bangala Varman
+	} #Nominally tributary to the Palas of Bengal, but stops paying tribute in 1080.
+	11067.1.1 = {
+		holder = 190074 #Harivarman Bangala Varman
+	}
+	11097.1.1 = {
+		holder = 190049 #Samalavarman Bangala Varman
+	}
+	11124.1.1 = {
+		holder = 190083 #Bhojavarman Bangala Varman
+	}
+	11140.1.1 = {
+		holder = 0
+	}
+	11204.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11206.1.1 = {
+		holder = 154006 #Visvarupa Sena
+	}
+	11221.1.1 = {
+		holder = 191540 #Madhumathanadeva
+	}
+	11231.1.1 = {
+		holder = 191541 #Vasudeva
+	}
+	11250.1.1 = {
+		holder = 191542 #Damodaradeva
+	}
+	11270.1.1 = {
+		holder = 191543 #Unkown Deva
+	}
+	11285.1.1 = {
+		holder = 191544 #Dasarathadeva
+	}
+	11300.1.1 = {
+		holder = 170278 #Ghiyasuddin Bahadur
+		liege = k_bengal
+	}
+	11328.6.1 = {
+		holder = 0
+	}
+}
+
+
+c_bikrampur = {
+	10645.1.1 = {
+		holder = 191100 #Khadgodyama
+		liege = d_vanga
+	}
+	10675.1.1 = {
+		holder = 191101 #Jatakhadga
+	}
+	10700.1.1 = {
+		holder = 191102 #Devakhadga
+	}
+	10725.1.1 = {
+		holder = 190084 #Shantideva Shantideva
+	}
+	10750.1.1 = {
+		holder = 190085 #Viradeva Shantideva
+	}
+	10802.1.1 = {
+		holder = 190086 #Ananadeva Shantideva
+	}
+	10841.1.1 = {
+		holder = 190087 #Bhavadeva Shantideva
+	}
+	10866.1.1 = {
+		holder = 190088 #Kantideva Harikela
+	}
+	10900.1.1 = {
+		holder = 190068 #Traillokyachandra Chandra
+	}
+	10931.1.1 = {
+		holder = 190069 #Srichandra Chandra
+	}
+	10975.1.1 = {
+		holder = 190070 #Kalyanachandra Chandra
+	}
+	10998.1.1 = {
+		holder = 190071 #Ladachandra Chandra
+	}
+	11020.1.1 = {
+		holder = 190072 #Govindachandra Chandra
+	}
+	11052.1.1 = {
+		holder = 190073 #Jatavarman Bangala Varman
+		liege = d_vanga
+	}
+	11067.1.1 = {
+		holder = 190074 #Harivarman Bangala Varman
+	}
+	11097.1.1 = {
+		holder = 190049 #Samalavarman Bangala Varman
+	}
+	11124.1.1 = {
+		holder = 190083 #Bhojavarman Bangala Varman
+	}
+	11140.1.1 = {
+		holder = 154002 #Vijay Sena
+		liege = k_bengal
+	}
+	11150.1.1 = {
+		holder = 191539 #Purushottama
+	}
+	11200.1.1 = {
+		holder = 191540 #Madhumathanadeva
+	}
+	11204.1.1 = {
+		liege = d_vanga
+	}
+	11231.1.1 = {
+		holder = 191541 #Vasudeva
+	}
+	11250.1.1 = {
+		holder = 191542 #Damodaradeva
+	}
+	11270.1.1 = {
+		holder = 191543 #Unkown Deva
+	}
+	11285.1.1 = {
+		holder = 191544 #Dasarathadeva
+	}
+	11300.1.1 = {
+		liege = 0
+	}
+
+}
+
+
+c_candradvipa = {
+	10645.1.1 = {
+		holder = 191100 #Khadgodyama
+		liege = d_vanga
+	}
+	10675.1.1 = {
+		holder = 191101 #Jatakhadga
+	}
+	10700.1.1 = {
+		holder = 191102 #Devakhadga
+	}
+	10725.1.1 = {
+		holder = 190084 #Shantideva Shantideva
+		liege = 0
+	}
+	10750.1.1 = {
+		holder = 190085 #Viradeva Shantideva
+	}
+	10802.1.1 = {
+		holder = 190086 #Ananadeva Shantideva
+	}
+	10841.1.1 = {
+		holder = 190087 #Bhavadeva Shantideva
+	}
+	10866.1.1 = {
+		holder = 190067 #Subarnachandra Chandra
+	}
+	10866.1.1 = {
+		liege = d_vanga
+	}
+	10900.1.1 = {
+		holder = 190068 #Traillokyachandra Chandra
+	}
+	10900.1.1 = {
+		liege = 0
+	}
+	10931.1.1 = {
+		holder = 190069 #Srichandra Chandra
+	}
+	10975.1.1 = {
+		holder = 190070 #Kalyanachandra Chandra
+	}
+	10998.1.1 = {
+		holder = 190071 #Ladachandra Chandra
+	}
+	11020.1.1 = {
+		holder = 190072 #Govindachandra Chandra
+	}
+	11052.1.1 = {
+		holder = 190073 #Jatavarman Bangala Varman
+		liege = d_vanga
+	}
+	11067.1.1 = {
+		holder = 190074 #Harivarman Bangala Varman
+	}
+	11097.1.1 = {
+		holder = 190049 #Samalavarman Bangala Varman
+	}
+	11124.1.1 = {
+		holder = 190083 #Bhojavarman Bangala Varman
+	}
+	11140.1.1 = {
+		holder = 154002 #Vijay Sena
+		liege = k_bengal
+	}
+	11150.1.1 = {
+		holder = 191539 #Purushottama
+	}
+	11179.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11197.1.1 = {
+		holder = 191551 #Dommanapala
+		liege = 0
+	}
+	11204.1.1 = {
+		holder = 170252 #Muhammad Bakhtiyar
+		liege = k_bengal
+	}
+	11206.1.1 = {
+		holder = 170253 #Muhammad Shiran
+	}
+	11208.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11210.1.1 = {
+		holder = 170254 #Ali Mardan
+	}
+	11211.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11220.1.1 = {
+		holder = 170262
+	}
+	11227.1.1 = {
+		holder = 170200 #Nasiruddin Mahmud
+	}
+	11229.1.1 = {
+		holder = 170263 #Alauddin Daulat
+	}
+	11229.6.1 = {
+		holder = 170262 #Malik Balkha
+	}
+	11232.1.1 = {
+		holder = 170264 #Alauddin Jani
+	}
+	11233.1.1 = {
+		holder = 170265 #Saifuddin Aibak
+	}
+	11236.1.1 = {
+		holder = 170266 #Awar Khan Aibak
+	}
+	11236.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11246.1.1 = {
+		holder = 170268 #Tughlaq Tamar Khan
+	}
+	11247.1.1 = {
+		holder = 170269 #Jalaluddin Masud Jani
+	}
+	11251.1.1 = {
+		holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+	}
+	11257.1.1 = {
+		holder = 170271 #Ijjauddin Balban Iuzbaki
+	}
+	11259.1.1 = {
+		holder = 170272 #Tatar Khan
+	}
+	11268.1.1 = {
+		holder = 170273 #Sher Khan
+	}
+	11272.1.1 = {
+		holder = 170274 #Amin Khan
+	}
+	11272.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170275 #Shamsuddin Firoz Shah
+	}
+	11322.1.1 = {
+		holder = 170278 #Ghiyasuddin Bahadur
+	}
+	11328.6.1 = {
+		holder = 170282 #Bahram Khan
+	}
+}
+
+
+c_karmanta = {
+	10645.1.1 = {
+		holder = 191100 #Khadgodyama
+		liege = d_vanga
+	}
+	10675.1.1 = {
+		holder = 191101 #Jatakhadga
+	}
+	10700.1.1 = {
+		holder = 191102 #Devakhadga
+	}
+	10730.1.1 = {
+		holder = 191103 #Rajarabhata
+	}
+	10755.1.1 = {
+		holder = 191105 #Lokhanata
+	}
+	10802.1.1 = {
+		holder = 190086 #Ananadeva Shantideva
+	}
+	10841.1.1 = {
+		holder = 190087 #Bhavadeva Shantideva
+	}
+	10866.1.1 = {
+		holder = 190088 #Kantideva Harikela
+		liege = 0
+	}
+	10900.1.1 = {
+		holder = 190068 #Traillokyachandra Chandra
+	}
+	10931.1.1 = {
+		holder = 190069 #Srichandra Chandra
+	}
+	10975.1.1 = {
+		holder = 190070 #Kalyanachandra Chandra
+	}
+	10998.1.1 = {
+		holder = 190071 #Ladachandra Chandra
+	}
+	11020.1.1 = {
+		holder = 190072 #Govindachandra Chandra
+	}
+	11052.1.1 = {
+		holder = 190073 #Jatavarman Bangala Varman
+		liege = d_vanga
+	}
+	11067.1.1 = {
+		holder = 190074 #Harivarman Bangala Varman
+	}
+	11097.1.1 = {
+		holder = 190049 #Samalavarman Bangala Varman
+	}
+	11124.1.1 = {
+		holder = 190083 #Bhojavarman Bangala Varman
+	}
+	11140.1.1 = {
+		holder = 154002 #Vijay Sena
+		liege = k_bengal
+	}
+	11150.1.1 = {
+		holder = 191539 #Purushottama
+	}
+	11204.1.1 = {
+		holder = 191546 #Harikaladeva Ranavankamalla
+		liege = d_vanga
+	}
+	11221.1.1 = {
+		liege = 0
+	}
+	11231.1.1 = {
+		holder = 191541 #Vasudeva
+		liege = d_vanga
+	}
+	11250.1.1 = {
+		holder = 191542 #Damodaradeva
+	}
+	11270.1.1 = {
+		holder = 191543 #Unkown Deva
+	}
+	11285.1.1 = {
+		holder = 191544 #Dasarathadeva
+	}
+	11300.1.1 = {
+		liege = 0
+	}
+}
+
+
+c_samatata = {
+	10645.1.1 = {
+		holder = 191100 #Khadgodyama
+		liege = d_vanga
+	}
+	10675.1.1 = {
+		holder = 191101 #Jatakhadga
+	}
+	10700.1.1 = {
+		holder = 191102 #Devakhadga
+	}
+	10725.1.1 = {
+		holder = 190084 #Shantideva Shantideva
+	}
+	10750.1.1 = {
+		holder = 190085 #Viradeva Shantideva
+	}
+	10802.1.1 = {
+		holder = 190086 #Ananadeva Shantideva
+	}
+	10841.1.1 = {
+		holder = 190087 #Bhavadeva Shantideva
+	}
+	10870.1.1 = {
+		holder = 190088 #Kantideva Harikela
+		liege = 0
+	}
+	10900.1.1 = {
+		holder = 190068 #Traillokyachandra Chandra
+	}
+	10931.1.1 = {
+		holder = 190069 #Srichandra Chandra
+	}
+	10975.1.1 = {
+		holder = 190070 #Kalyanachandra Chandra
+	}
+	10998.1.1 = {
+		holder = 190071 #Ladachandra Chandra
+	}
+	11020.1.1 = {
+		holder = 190072 #Govindachandra Chandra
+	}
+	11052.1.1 = {
+		holder = 190073 #Jatavarman Bangala Varman
+		liege = d_vanga
+	}
+	11067.1.1 = {
+		holder = 190074 #Harivarman Bangala Varman
+	}
+	11097.1.1 = {
+		holder = 190049 #Samalavarman Bangala Varman
+	}
+	11124.1.1 = {
+		holder = 190083 #Bhojavarman Bangala Varman
+	}
+	11140.1.1 = {
+		holder = 154002 #Vijay Sena
+		liege = k_bengal
+	}
+	11150.1.1 = {
+		holder = 191539 #Purushottama
+	}
+	11200.1.1 = {
+		holder = 191540 #Madhumathanadeva
+	}
+	11204.1.1 = {
+		liege = d_vanga
+	}
+	11206.1.1 = {
+		holder = 154006 #Visvarupa Sena
+	}
+	11231.1.1 = {
+		holder = 191541 #Vasudeva
+	}
+	11250.1.1 = {
+		holder = 191542 #Damodaradeva
+	}
+	11270.1.1 = {
+		holder = 191543 #Unkown Deva
+	}
+	11285.1.1 = {
+		holder = 191544 #Dasarathadeva
+	}
+	11300.1.1 = {
+		liege = 0
+	}
+}
+
+
+c_harikela = {
+	10645.1.1 = {
+		holder = 191100 #Khadgodyama
+		liege = d_vanga
+	}
+	10675.1.1 = {
+		holder = 191101 #Jatakhadga
+	}
+	10700.1.1 = {
+		holder = 191102 #Devakhadga
+	}
+	10730.1.1 = {
+		holder = 191103 #Rajarabhata
+	}
+	10755.1.1 = {
+		holder = 191105 #Lokhanata
+	}
+	10802.1.1 = {
+		holder = 190086 #Ananadeva Shantideva
+	}
+	10841.1.1 = {
+		holder = 190087 #Bhavadeva Shantideva
+	}
+	10866.1.1 = {
+		holder = 190088 #Kantideva Harikela
+		liege = 0
+	}
+	10900.1.1 = {
+		holder = 190068 #Traillokyachandra Chandra
+	}
+	10931.1.1 = {
+		holder = 190069 #Srichandra Chandra
+	}
+	10975.1.1 = {
+		holder = 190070 #Kalyanachandra Chandra
+	}
+	10998.1.1 = {
+		holder = 190071 #Ladachandra Chandra
+	}
+	11020.1.1 = {
+		holder = 190072 #Govindachandra Chandra
+	}
+	11052.1.1 = {
+		holder = 190073 #Jatavarman Bangala Varman
+		liege = d_vanga
+	}
+	11067.1.1 = {
+		holder = 190074 #Harivarman Bangala Varman
+	}
+	11097.1.1 = {
+		holder = 190049 #Samalavarman Bangala Varman
+	}
+	11124.1.1 = {
+		holder = 190083 #Bhojavarman Bangala Varman
+	}
+	11140.1.1 = {
+		holder = 154002 #Vijay Sena
+		liege = k_bengal
+	}
+	11150.1.1 = {
+		holder = 191539 #Purushottama
+	}
+	11179.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11204.1.1 = {
+		holder = 191546 #Harikaladeva Ranavankamalla
+		liege = d_vanga
+	}
+	11221.1.1 = {
+		liege = 0
+	}
+	11231.1.1 = {
+		holder = 191541 #Vasudeva
+		liege = d_vanga
+	}
+	11250.1.1 = {
+		holder = 191542 #Damodaradeva
+	}
+	11270.1.1 = {
+		holder = 191543 #Unkown Deva
+	}
+	11285.1.1 = {
+		holder = 191544 #Dasarathadeva
+	}
+	11300.1.1 = {
+		liege = 0
+	}
+}
+
+
+d_nadia = {
+	10867.1.1 = { change_development_level = 12 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10823.1.1 = {
+		holder = 190097 #Biswajit
+	}
+	10823.1.1 = {
+		liege = k_bengal
+	}
+	10852.1.1 = {
+		holder = 190098 #Satyajit
+	}
+	10879.1.1 = {
+		holder = 190099 #Dharma
+	}#882 return to Pala
+	11020.1.1 = {
+		holder = 154000 #Samanta Sena
+	}
+	11020.1.1 = {
+		liege = k_bengal
+	}
+	11132.1.1 = {
+		liege = 0
+	}
+	11178.1.1 = {
+		holder = 154005 #Laksmana Sena
+		liege = k_bengal
+	}
+	11206.1.1 = {
+		holder = 154006 #Visvarupa Sena
+	}
+	11225.1.1 = {
+		holder = 154007 #Keseva Sena dies 1230
+	}
+}
+
+
+c_nabadwipa = {
+	11178.1.1 = { change_development_level = 30 }
+
+	10645.1.1 = {
+		holder = 191100 #Khadgodyama
+		liege = d_vanga
+	}
+	10675.1.1 = {
+		holder = 191101 #Jatakhadga
+	}
+	10700.1.1 = {
+		holder = 191102 #Devakhadga
+	}
+	10725.1.1 = {
+		holder = 190084 #Shantideva Shantideva
+	}
+	10750.1.1 = {
+		holder = 190085 #Viradeva Shantideva
+	}
+	10802.1.1 = {
+		holder = 190086 #Ananadeva Shantideva
+	}
+	10841.1.1 = {
+		holder = 190087 #Bhavadeva Shantideva
+	}
+	10879.1.1 = {
+		holder = 190099 #Dharma
+	}
+	11020.1.1 = {
+		holder = 154000 #Samanta Sena
+	}
+	11020.1.1 = {
+		liege = k_bengal
+	}
+	11132.1.1 = {
+		liege = 0
+	}
+	11140.1.1 = {
+		liege = k_bengal
+	}
+	11178.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11204.1.1 = {
+		holder = 170252 #Muhammad Bakhtiyar
+	}
+	11206.1.1 = {
+		holder = 170253 #Muhammad Shiran
+	}
+	11208.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11210.1.1 = {
+		holder = 170254 #Ali Mardan
+	}
+	11211.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11220.1.1 = {
+		holder = 170263
+	}
+	11227.1.1 = {
+		holder = 170200 #Nasiruddin Mahmud
+	}
+	11229.1.1 = {
+		holder = 170263 #Alauddin Daulat
+	}
+	11229.6.1 = {
+		holder = 170262 #Malik Balkha
+	}
+	11232.1.1 = {
+		holder = 170264 #Alauddin Jani
+	}
+	11233.1.1 = {
+		holder = 170265 #Saifuddin Aibak
+	}
+	11236.1.1 = {
+		holder = 170266 #Awar Khan Aibak
+	}
+	11236.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11246.1.1 = {
+		holder = 170268 #Tughlaq Tamar Khan
+	}
+	11247.1.1 = {
+		holder = 170269 #Jalaluddin Masud Jani
+	}
+	11251.1.1 = {
+		holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+	}
+	11257.1.1 = {
+		holder = 170271 #Ijjauddin Balban Iuzbaki
+	}
+	11259.1.1 = {
+		holder = 170272 #Tatar Khan
+	}
+	11268.1.1 = {
+		holder = 170273 #Sher Khan
+	}
+	11272.1.1 = {
+		holder = 170274 #Amin Khan
+	}
+	11272.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170275 #Shamsuddin Firoz Shah
+	}
+	11322.1.1 = {
+		holder = 170278 #Ghiyasuddin Bahadur
+	}
+	11328.6.1 = {
+		holder = 170282 #Bahram Khan
+	}
+}
+
+
+c_saptagrama = {
+	10755.1.1 = {
+		holder = 191152 #Adnata
+		liege = d_suhma
+	}
+	10800.1.1 = {
+		holder = 191153 #Bhusura
+	}
+	10850.1.1 = {
+		holder = 191154 #Madhavasura
+	}
+	10880.1.1 = {
+		holder = 191155 #Adityasura
+	}
+	10900.1.1 = {
+		holder = 191156 #Yaminisura
+	}
+	10940.1.1 = {
+		holder = 191157 #Varendrasura
+	}
+	10980.1.1 = {
+		holder = 191158 #Anusura
+	}
+	11020.1.1 = {
+		holder = 191159 #Bhanusura
+	}
+	11040.1.1 = {
+		holder = 191160 #Ranasura
+	}
+	11060.1.1 = {
+		holder = 191073	#Jayasimha
+	}
+	11065.1.1 = {
+		holder = 191076	#Rudrasikhara
+		liege = k_bengal
+	}
+	11178.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11204.1.1 = {
+		holder = 170252 #Muhammad Bakhtiyar
+	}
+	11206.1.1 = {
+		holder = 170253 #Muhammad Shiran
+	}
+	11208.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11210.1.1 = {
+		holder = 170254 #Ali Mardan
+	}
+	11211.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11220.1.1 = {
+		holder = 170263
+	}
+	11227.1.1 = {
+		holder = 170200 #Nasiruddin Mahmud
+	}
+	11229.1.1 = {
+		holder = 170263 #Alauddin Daulat
+	}
+	11229.6.1 = {
+		holder = 170262 #Malik Balkha
+	}
+	11232.1.1 = {
+		holder = 170264 #Alauddin Jani
+	}
+	11233.1.1 = {
+		holder = 170265 #Saifuddin Aibak
+	}
+	11236.1.1 = {
+		holder = 170266 #Awar Khan Aibak
+	}
+	11236.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11244.1.1 = {
+		holder = 191212 #Narasimha 	#Gangas Conquer Southern Radha
+		liege = k_orissa
+	}
+	11255.1.1 = {	#Retaken
+		holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+		liege = k_bengal
+	}
+	11257.1.1 = {
+		holder = 170271 #Ijjauddin Balban Iuzbaki
+	}
+	11259.1.1 = {
+		holder = 170272 #Tatar Khan
+	}
+	11268.1.1 = {
+		holder = 170273 #Sher Khan
+	}
+	11272.1.1 = {
+		holder = 170274 #Amin Khan
+	}
+	11272.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170276 #Shihabudin Bughda
+		liege = d_suhma
+	}
+	11328.6.1 = {
+		holder = 170282 #Bahram Khan
+		liege = k_bengal
+	}
+}
+
+
+c_vijayapura = {
+	10755.1.1 = {
+		holder = 190027 #Gopala Pala
+	}
+	10769.1.1 = {
+		holder = 190028 #Dharamapala Pala
+	}
+	10810.1.1 = {
+		holder = 190004 #Devapala Pala
+	}
+	10823.1.1 = {
+		holder = 190097 #Biswajit
+	}
+	10852.1.1 = {
+		holder = 190098 #Satyajit
+	}
+	10956.1.1 = {
+		holder = 190089 #Rajyapala Kamboja Pala
+		liege = d_suhma
+	}
+	10990.1.1 = {
+		holder = 190090 #Narayanapala Kamboja Pala
+	}
+	11002.1.1 = {
+		holder = 190091 #Gaudapati Kamboja Pala
+	}
+	11020.1.1 = {
+		holder = 154000 #Samanta Sena
+		liege = k_bengal
+	}
+	11132.1.1 = {
+		liege = 0
+	}
+	11167.1.1 = {
+		holder = 191137 #Jiban
+		liege = k_bengal
+	}
+	11179.1.1 = {
+		holder = 154005 #Laksmana Sena
+	}
+	11204.1.1 = {
+		holder = 170252 #Muhammad Bakhtiyar
+		liege = k_bengal
+	}
+	11206.1.1 = {
+		holder = 170253 #Muhammad Shiran
+	}
+	11208.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11210.1.1 = {
+		holder = 170254 #Ali Mardan
+	}
+	11211.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11220.1.1 = {
+		holder = 170263
+	}
+	11227.1.1 = {
+		holder = 170200 #Nasiruddin Mahmud
+	}
+	11229.1.1 = {
+		holder = 170263 #Alauddin Daulat
+	}
+	11229.6.1 = {
+		holder = 170262 #Malik Balkha
+	}
+	11232.1.1 = {
+		holder = 170264 #Alauddin Jani
+	}
+	11233.1.1 = {
+		holder = 170265 #Saifuddin Aibak
+	}
+	11236.1.1 = {
+		holder = 170266 #Awar Khan Aibak
+	}
+	11236.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11246.1.1 = {
+		holder = 170268 #Tughlaq Tamar Khan
+	}
+	11247.1.1 = {
+		holder = 170269 #Jalaluddin Masud Jani
+	}
+	11251.1.1 = {
+		holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+	}
+	11257.1.1 = {
+		holder = 170271 #Ijjauddin Balban Iuzbaki
+	}
+	11259.1.1 = {
+		holder = 170272 #Tatar Khan
+	}
+	11268.1.1 = {
+		holder = 170273 #Sher Khan
+	}
+	11272.1.1 = {
+		holder = 170274 #Amin Khan
+	}
+	11272.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170275 #Shamsuddin Firoz Shah
+	}
+	11322.1.1 = {
+		holder = 170278 #Ghiyasuddin Bahadur
+	}
+	11328.6.1 = {
+		holder = 170282 #Bahram Khan
+	}
+}
+
+
+d_suhma = {
+	10867.1.1 = { change_development_level = 12 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	#Suhmabhukti or Daksina Radha
+	10755.1.1 = {
+		holder = 191152 #Adnata
+	}
+	10760.1.1 = {
+		liege = k_bengal
+	}
+	10800.1.1 = {
+		holder = 191153 #Bhusura
+	}
+	10850.1.1 = {
+		holder = 191154 #Madhavasura
+	}
+	10880.1.1 = {
+		holder = 191155 #Adityasura
+	}
+	10900.1.1 = {
+		holder = 191156 #Yaminisura
+	}
+	10940.1.1 = {
+		holder = 191157 #Varendrasura
+	}
+	10956.1.1 = {
+		liege = k_bihar
+	}
+	10980.1.1 = {
+		holder = 191158 #Anusura
+	}
+	11020.1.1 = {
+		holder = 191159 #Bhanusura
+		liege = k_bengal
+	}
+	11040.1.1 = {
+		holder = 191160 #Ranasura
+	}
+	11060.1.1 = {
+		holder = 191073	#Jayasimha
+	}
+	11110.1.1 = {
+		holder = 0
+	}
+	11300.1.1 = {
+		holder = 170276 #Shihabudin Bughda
+	}
+	11328.6.1 = {
+		holder = 0
+	}
+
+}
+
+
+c_mallabhum = {
+	10695.1.1 = {
+		holder = 191106	#Adi Malla
+	}
+	10710.1.1 = {
+		holder = 191107	#Jai
+	}
+	10720.1.1 = {
+		holder = 191108 #Benu
+	}
+	10733.1.1 = {
+		holder = 191109 #Kinu
+	}
+	10742.1.1 = {
+		holder = 191110 #Indra
+	}
+	10755.1.1 = {
+		liege = k_bengal
+	}
+	10757.1.1 = {
+		holder = 191111 #Kau
+	}
+	10764.1.1 = {
+		holder = 191112 #Jhau
+	}
+	10775.1.1 = {
+		holder = 191113 #Shur
+	}
+	10795.1.1 = {
+		holder = 191114 #Kanak
+	}
+	10807.1.1 = {
+		holder = 191115 #Kandarpa
+	}
+	10828.1.1 = {
+		holder = 191116 #Sanatan
+	}
+	10841.1.1 = {
+		holder = 191117 #Kharga
+	}
+	10862.1.1 = {
+		holder = 191118 #Durjay
+	}
+	10906.1.1 = {
+		holder = 191119 #Yadav
+	}
+	10919.1.1 = {
+		holder = 191120 #Jagat
+	}
+	10931.1.1 = {
+		holder = 191121 #Birat
+	}
+	10946.1.1 = {
+		holder = 191122 #Mahadev
+	}
+	10956.1.1 = {
+		liege = d_suhma
+	}
+	10977.1.1 = {
+		holder = 191123 #Durgadas
+	}
+	10994.1.1 = {
+		holder = 191124 #Jagat
+	}
+	11007.1.1 = {
+		holder = 191125 #Ananta
+	}
+	11015.1.1 = {
+		holder = 191126 #Rup
+	}
+	11029.1.1 = {
+		holder = 191127 #Sundar
+	}
+	11053.1.1 = {
+		holder = 191128 #Kumud
+	}
+	11074.1.1 = {
+		holder = 191129 #Krishna
+	}
+	11084.1.1 = {
+		holder = 191130 #Rup
+	}
+	11097.1.1 = {
+		holder = 191131 #Prakash
+	}
+	11102.1.1 = {
+		holder = 191132 #Pratap
+	}
+	11110.1.1 = { liege = k_bengal }
+	11113.1.1 = {
+		holder = 191133 #Sindur
+	}
+	11129.1.1 = {
+		holder = 191134 #Sukhomoy
+	}
+	11142.1.1 = {
+		holder = 191135 #Banamali
+	}
+	11156.1.1 = {
+		holder = 191136 #Jadu
+	}
+	11167.1.1 = {
+		holder = 191137 #Jiban
+	}
+	11185.1.1 = {
+		holder = 191138 #Ram
+	}
+	11209.1.1 = {
+		holder = 191139 #Gobinda
+	}
+	11240.1.1 = {
+		holder = 191140 #Bhim
+	}
+	11244.1.1 = {
+		liege = k_orissa #Gangas Conquer Southern Radha
+	}
+	11255.1.1 = {	
+		liege = k_bengal #Retaken
+	}
+	11263.1.1 = {
+		holder = 191141 #Katar
+	}
+	11295.1.1 = {
+		holder = 191142 #Prithvi
+	}
+	11319.1.1 = {
+		holder = 191143 #Tapa
+	}
+	11334.1.1 = {
+		holder = 191144 #Dinabandhu
+	}
+	11345.1.1 = {
+		holder = 191145 #Kinu
+	}
+	11358.1.1 = {
+		holder = 191146 #Shur
+	}
+	11370.1.1 = {
+		holder = 191147 #Shiv Singh
+	}
+	11407.1.1 = {
+		holder = 191148 #Madan
+	}
+	11420.1.1 = {
+		holder = 191149 #Durjay
+	}
+	11437.1.1 = {
+		holder = 191150 #Uday
+	}
+
+}
+
+
+c_tamralipti = {
+	10755.1.1 = {
+		holder = 191152 #Adnata
+		liege = d_suhma
+	}
+	10800.1.1 = {
+		holder = 191153 #Bhusura
+	}
+	10850.1.1 = {
+		holder = 191154 #Madhavasura
+	}
+	10880.1.1 = {
+		holder = 191155 #Adityasura
+	}
+	10900.1.1 = {
+		holder = 191156 #Yaminisura
+	}
+	10940.1.1 = {
+		holder = 191157 #Varendrasura
+	}
+	10980.1.1 = {
+		holder = 191158 #Anusura
+	}
+	11020.1.1 = {
+		holder = 191159 #Bhanusura
+	}
+	11040.1.1 = {
+		holder = 191160 #Ranasura
+	}
+	11060.1.1 = {
+		holder = 191073	#Jayasimha
+	}
+	11065.1.1 = {
+		holder = 191076	#Rudrasikhara
+		liege = k_bengal
+	}
+	11120.1.1 = {
+		holder = 190021 #Kumarapala Pala
+	}
+	11125.1.1 = {
+		holder = 190022 #Gopala III Pala
+	}
+	11178.1.1 = {
+		holder = 191551 # Dommanapala (attested as having declared independence here in 1196)
+	}
+	11204.1.1 = {
+		holder = 170252 #Muhammad Bakhtiyar
+	}
+	11206.1.1 = {
+		holder = 170253 #Muhammad Shiran
+	}
+	11208.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11210.1.1 = {
+		holder = 170254 #Ali Mardan
+	}
+	11211.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11220.1.1 = {
+		holder = 191139 #Gobinda
+	}
+	11227.1.1 = {
+		holder = 170200 #Nasiruddin Mahmud
+	}
+	11229.1.1 = {
+		holder = 170263 #Alauddin Daulat
+	}
+	11229.6.1 = {
+		holder = 170262 #Malik Balkha
+	}
+	11232.1.1 = {
+		holder = 170264 #Alauddin Jani
+	}
+	11233.1.1 = {
+		holder = 170265 #Saifuddin Aibak
+	}
+	11236.1.1 = {
+		holder = 170266 #Awar Khan Aibak
+	}
+	11236.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11244.1.1 = {
+		holder = 191212 #Narasimha 	#Gangas Conquer Southern Radha
+		liege = k_orissa
+	}
+	11255.1.1 = {
+		holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+		liege = k_bengal
+	}
+	11257.1.1 = {
+		holder = 170271 #Ijjauddin Balban Iuzbaki
+	}
+	11259.1.1 = {
+		holder = 170272 #Tatar Khan
+	}
+	11268.1.1 = {
+		holder = 170273 #Sher Khan
+	}
+	11272.1.1 = {
+		holder = 170274 #Amin Khan
+	}
+	11272.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170276 #Shihabudin Bughda
+		liege = d_suhma
+	}
+	11328.6.1 = {
+		holder = 170282 #Bahram Khan
+		liege = k_bengal
+	}
+}
+
+
+c_midnapore = {
+	10755.1.1 = {
+		holder = 191152 #Adnata
+		liege = d_suhma
+	}
+	10800.1.1 = {
+		holder = 191153 #Bhusura
+	}
+	10850.1.1 = {
+		holder = 191154 #Madhavasura
+	}
+	10880.1.1 = {
+		holder = 191155 #Adityasura
+	}
+	10900.1.1 = {
+		holder = 191156 #Yaminisura
+	}
+	10940.1.1 = {
+		holder = 191157 #Varendrasura
+	}
+	10980.1.1 = {
+		holder = 191158 #Anusura
+	}
+	11020.1.1 = {
+		holder = 191159 #Bhanusura
+	}
+	11040.1.1 = {
+		holder = 191160 #Ranasura
+	}
+	11060.1.1 = {
+		holder = 191073	#Jayasimha
+	}
+	11110.1.1 = {
+		liege = k_bengal
+	}
+	11178.1.1 = {
+		holder = 191551 # Dommanapala
+	}
+	11204.1.1 = {
+		holder = 170252 #Muhammad Bakhtiyar
+	}
+	11206.1.1 = {
+		holder = 170253 #Muhammad Shiran
+	}
+	11208.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11210.1.1 = {
+		holder = 170254 #Ali Mardan
+	}
+	11211.1.1 = {
+		holder = 170255 #Ghiyasuddin Iwaj
+	}
+	11220.1.1 = {
+		holder = 191139 #Gobinda
+	}
+	11227.1.1 = {
+		holder = 170200 #Nasiruddin Mahmud
+	}
+	11229.1.1 = {
+		holder = 170263 #Alauddin Daulat
+	}
+	11229.6.1 = {
+		holder = 170262 #Malik Balkha
+	}
+	11232.1.1 = {
+		holder = 170264 #Alauddin Jani
+	}
+	11233.1.1 = {
+		holder = 170265 #Saifuddin Aibak
+	}
+	11236.1.1 = {
+		holder = 170266 #Awar Khan Aibak
+	}
+	11236.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11244.1.1 = {
+		holder = 191212 #Narasimha 	#Gangas Conquer Southern Radha
+		liege = k_orissa
+	}
+	11255.1.1 = {	#Retaken
+		holder = 170270 #Malik Ikhtiyaruddin Iuzbak
+		liege = k_bengal
+	}
+	11257.1.1 = {
+		holder = 170271 #Ijjauddin Balban Iuzbaki
+	}
+	11259.1.1 = {
+		holder = 170272 #Tatar Khan
+	}
+	11268.1.1 = {
+		holder = 170273 #Sher Khan
+	}
+	11272.1.1 = {
+		holder = 170274 #Amin Khan
+	}
+	11272.12.1 = {
+		holder = 170267 #Tughral Tughan Khan
+	}
+	11281.1.1 = {
+		holder = 170211 #Bughra Khan
+	}
+	11291.1.1 = {
+		holder = 170215 #Rukunuddin Kaikaus
+	}
+	11300.1.1 = {
+		holder = 170276 #Shihabudin Bughda
+		liege = d_suhma
+	}
+	11328.6.1 = {
+		holder = 170282 #Bahram Khan
+		liege = k_bengal
+	}
+}
+

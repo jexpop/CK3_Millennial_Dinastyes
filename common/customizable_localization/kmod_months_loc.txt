@@ -1,0 +1,93 @@
+﻿cl_custom_month = {
+    type = character
+    
+    text = {
+        trigger = {
+            has_variable = month_var    # Check if month_var exists
+            var:month_var = 1           # check the value used with 'var'
+        }
+        localization_key = mes01
+    }
+    text = {
+        trigger = {
+            has_variable = month_var
+            var:month_var = 2
+        }
+        localization_key = mes02
+    }
+    text = {
+        trigger = {
+            has_variable = month_var
+            var:month_var = 3
+        }
+        localization_key = mes03
+    }
+    text = {
+        trigger = {
+            has_variable = month_var
+            var:month_var = 4
+        }
+        localization_key = mes04
+    }
+    text = {
+        trigger = {
+            has_variable = month_var
+            var:month_var = 5
+        }
+        localization_key = mes05
+    }
+    text = {
+        trigger = {
+            has_variable = month_var
+            var:month_var = 6
+        }
+        localization_key = mes06
+    }
+    text = {
+        trigger = {
+            has_variable = month_var
+            var:month_var = 7
+        }
+        localization_key = mes07
+    }
+    text = {
+        trigger = {
+            has_variable = month_var
+            var:month_var = 8
+        }
+        localization_key = mes08
+    }
+    text = {
+        trigger = {
+            has_variable = month_var
+            var:month_var = 9
+        }
+        localization_key = mes09
+    }
+    text = {
+        trigger = {
+            has_variable = month_var
+            var:month_var = 10
+        }
+        localization_key = mes10
+    }
+    text = {
+        trigger = {
+            has_variable = month_var
+            var:month_var = 11
+        }
+        localization_key = mes11
+    }
+    text = {
+        trigger = {
+            has_variable = month_var
+            var:month_var = 12
+        }
+        localization_key = mes12
+    }
+    
+    text = {
+        fallback = yes 
+        localization_key = mes01
+    }
+}

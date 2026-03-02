@@ -1,0 +1,3568 @@
+﻿k_ruthenia = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 7 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	###Kievan Rus'
+	10882.1.2 = {
+		holder = 40606	#Oleg/Helgi the Seer
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	11015.7.15 = {
+		holder = 610	#Sviatopolk the Accursed
+	}
+	11016.1.2 = {
+		holder = 612	#Yaroslav the Wise
+	}
+	11018.1.2 = {
+		holder = 610	#Sviatopolk the Accursed
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslav the Wise
+	}
+	11054.2.20 = {
+		holder = 626	#Iziaslav I Yaroslavich of Kiev
+	}
+	11068.9.14 = {
+		holder = 650	#Vseslav of Polotsk
+	}
+	
+	###Fragmentation of Kievan Rus'
+	11069.4.15 = {
+		holder = 0
+	}
+}
+
+
+d_kiev = {
+	###Pre-Kievan Rus'
+	10579.1.2 = {
+		holder = 302187		#semi-legendary Kyi
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 6811 # Dyre
+	}
+	
+	###Kievan Rus'
+	10882.1.2 = {
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	11015.7.15 = {
+		holder = 610	#Sviatopolk the Accursed
+	}
+	11016.1.2 = {
+		holder = 612	#Yaroslav the Wise
+	}
+	11018.1.2 = {
+		holder = 610	#Sviatopolk the Accursed
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslav the Wise
+	}
+	11054.2.20 = {
+		holder = 626	#Iziaslav I Yaroslavich of Kiev
+	}
+	11068.9.14 = {
+		holder = 650	#Vseslav of Polotsk
+	}
+	
+	###Fragmentation of Kievan Rus'
+	11069.4.15 = {
+		holder = 626
+		liege = 0
+	}
+	11073.1.2 = {
+		holder = 628
+	}
+	11076.12.27 = {
+		holder = 630
+	}
+	11077.1.2 = {
+		holder = 626
+	}
+	11078.10.4 = {
+		holder = 630
+	}
+	11093.4.13 = {
+		holder = 652
+	}
+	11113.4.16 = {
+		holder = 666
+	}
+	11125.5.19 = {
+		holder = 222574
+	}
+	11132.4.14 = {
+		holder = 125101
+	}
+	11139.2.8 = {
+		holder = 125102
+	}
+	11139.3.4 = {
+		holder = 222602
+	}
+	11146.8.1 = {
+		holder = 125069
+	}
+	11147.1.2 = {
+		holder = 222525
+	}
+	11149.1.2 = {
+		holder = 222672
+	}
+	11151.1.2 = {
+		holder = 125102
+	}
+	11154.2.6 = {
+		holder = 222525
+	}
+	11154.11.13 = {
+		holder = 222672
+	}
+	11157.5.15 = {
+		holder = 125047
+	}
+	11158.1.2 = {
+		holder = 222522
+	}
+	11159.1.2 = {
+		holder = 222572
+	}
+	11161.2.12 = {
+		holder = 125047
+	}
+	11161.3.6 = {
+		holder = 222572
+	}
+	11167.3.14 = {
+		holder = 222522
+	}
+	11169.1.2 = {
+		holder = 222702
+	}
+	11170.1.2 = {
+		holder = 222522
+	}
+	11170.8.19 = {
+		holder = 222702
+	}
+	11171.1.20 = {
+		holder = 222592
+	}
+	11171.5.30 = {
+		holder = 222577
+	}
+	11174.1.2 = {
+		holder = 222622
+	}
+	11175.1.2 = {
+		holder = 222577
+	}
+	11176.8.1 = {
+		holder = 222650 # Sviatoslav
+	}
+	11178.1.1 = {
+		succession_laws = { male_only_law }
+	}
+	11194.7.27 = {
+		holder = 222579
+	}
+	11202.1.2 = {
+		holder = 125132
+	}
+	11204.1.2 = {
+		holder = 222587
+	}
+	11205.1.2 = {
+		holder = 222579
+	}
+	11206.1.2 = {
+		holder = 222652
+	}
+	11207.1.2 = {
+		holder = 222579
+	}
+	11210.1.2 = {
+		holder = 222652
+	}
+	11214.1.2 = {
+		holder = 222610
+	}
+	11223.6.2 = {
+		holder = 222588
+	}
+	11239.3.3 = {
+		holder = 125154
+	}
+	11239.3.3 = {
+		liege = e_golden_horde
+	}
+	11240.1.2 = {
+		holder = 125114
+	}
+	11241.1.2 = {
+		holder = 222654
+	}
+	11243.1.2 = {
+		holder = 472885
+	}
+	11246.9.30 = {
+		holder = 472844
+	}
+	11263.11.14 = {
+		holder = 125074
+	}
+	11265.1.2 = {
+		holder = 125075
+	}
+	11285.1.2 = {
+		holder = 125076
+	}
+	11303.1.2 = {
+		holder = 125077
+	}
+	11325.1.2 = {
+		holder = 472100
+	}
+}
+
+c_kiev = {
+	10867.1.1 = { change_development_level = 4 }
+	11066.1.1 = { change_development_level = 15 }
+	11178.1.1 = { change_development_level = 36 }
+	
+	###Pre-Kievan Rus'
+	10579.1.2 = {
+		holder = 302187		#semi-legendary Kyi
+		liege = d_kiev
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 6811 # Dyre
+	}
+	
+	###Kievan Rus'
+	10882.1.2 = {
+		holder = 40606	#Oleg/Helgi the Seer
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	11015.7.15 = {
+		holder = 610	#Sviatopolk the Accursed
+	}
+	11016.1.2 = {
+		holder = 612	#Yaroslav the Wise
+	}
+	11018.1.2 = {
+		holder = 610	#Sviatopolk the Accursed
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslav the Wise
+	}
+	11054.2.20 = {
+		holder = 626	#Iziaslav I Yaroslavich of Kiev
+	}
+	11068.9.14 = {
+		holder = 650	#Vseslav of Polotsk
+	}
+	
+	###Fragmentation of Kievan Rus'
+	11069.4.15 = {
+		holder = 626		#Iziaslav I Yaroslavich of Kiev
+	}
+	11073.1.2 = {
+		holder = 628		#Sviatoslav II Yaroslavich
+	}
+	11076.12.27 = {
+		holder = 626		#Iziaslav I Yaroslavich of Kiev
+	}
+	11078.10.4 = {
+		holder = 630		#Vsevolod I of Kiev
+	}
+	11093.4.13 = {
+		holder = 652		#Sviatopolk II Iziaslavichi
+	}
+	11113.4.16 = {
+		holder = 666		#Vladimir II Monomakh
+	}
+	11125.5.19 = {
+		holder = 222574		#Mstislav I Monomakhovychi the Great
+	}
+	11132.4.14 = {
+		holder = 125101
+	}
+	11139.2.8 = {
+		holder = 125102
+	}
+	11139.3.4 = {
+		holder = 222602
+	}
+	11146.8.1 = {
+		holder = 125069
+	}
+	11147.1.2 = {
+		holder = 222525
+	}
+	11149.1.2 = {
+		holder = 222672
+	}
+	11151.1.2 = {
+		holder = 125102
+	}
+	11154.2.6 = {
+		holder = 222525
+	}
+	11154.11.13 = {
+		holder = 222672
+	}
+	11157.5.15 = {
+		holder = 125047
+	}
+	11158.1.2 = {
+		holder = 222522
+	}
+	11159.1.2 = {
+		holder = 222572
+	}
+	11161.2.12 = {
+		holder = 125047
+	}
+	11161.3.6 = {
+		holder = 222572
+	}
+	11167.3.14 = {
+		holder = 222522
+	}
+	11169.1.2 = {
+		holder = 222702
+	}
+	11170.1.2 = {
+		holder = 222522
+	}
+	11170.8.19 = {
+		holder = 222702
+	}
+	11171.1.20 = {
+		holder = 222592
+	}
+	11171.5.30 = {
+		holder = 222577
+	}
+	11174.1.2 = {
+		holder = 222622
+	}
+	11175.1.2 = {
+		holder = 222577
+	}
+	11177.1.2 = {
+		holder = 222650
+	}
+	11194.7.27 = {
+		holder = 222579
+	}
+	11202.1.2 = {
+		holder = 125132
+	}
+	11204.1.2 = {
+		holder = 222587
+	}
+	11205.1.2 = {
+		holder = 222579
+	}
+	11206.1.2 = {
+		holder = 222652
+	}
+	11207.1.2 = {
+		holder = 222579
+	}
+	11210.1.2 = {
+		holder = 222652
+	}
+	11214.1.2 = {
+		holder = 222610
+	}
+	11223.6.2 = {
+		holder = 222588
+	}
+	11239.3.3 = {
+		holder = 125154
+	}
+	11240.1.2 = {
+		holder = 125114
+	}
+	11241.1.2 = {
+		holder = 222654
+	}
+	11243.1.2 = {
+		holder = 472885
+	}
+	11246.9.30 = {
+		holder = 472844
+	}
+	11263.11.14 = {
+		holder = 125074
+	}
+	11265.1.2 = {
+		holder = 125075
+	}
+	11285.1.2 = {
+		holder = 125076
+	}
+	11303.1.2 = {
+		holder = 125077
+	}
+	11325.1.2 = {
+		holder = 472100
+	}
+
+}
+
+
+c_zhytomyr = {
+	###Pre-Kievan Rus'
+	10750.1.1 = {
+		holder = 194139
+		liege = d_kiev
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 6811 # Dyre
+	}
+	
+	###Kievan Rus'
+	10882.1.2 = {
+		holder = 40606
+	}
+	10912.1.2 = {
+		holder = 600
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10945.1.2 = {
+		holder = 602
+	}
+	10972.1.2 = {
+		holder = 604
+	}
+	10978.1.2 = {
+		holder = 608
+	}
+	11015.7.15 = {
+		holder = 610
+	}
+	11016.1.2 = {
+		holder = 612
+	}
+	11018.1.2 = {
+		holder = 610
+	}
+	11019.1.2 = {
+		holder = 612
+	}
+	11054.2.20 = {
+		holder = 626
+	}
+	11068.9.14 = {
+		holder = 650
+	}
+	
+	###Fragmentation of Kievan Rus'
+	11069.4.15 = {
+		holder = 626
+	}
+	11073.1.2 = {
+		holder = 628
+	}
+	11076.12.27 = {
+		holder = 630
+	}
+	11077.1.2 = {
+		holder = 626
+	}
+	11078.10.4 = {
+		holder = 630
+	}
+	11093.4.13 = {
+		holder = 652
+	}
+	11113.4.16 = {
+		holder = 666
+	}
+	11125.5.19 = {
+		holder = 222574
+	}
+	11132.4.14 = {
+		holder = 125101
+	}
+	11139.2.8 = {
+		holder = 125102
+	}
+	11139.3.4 = {
+		holder = 222602
+	}
+	11146.8.1 = {
+		holder = 125069
+	}
+	11147.1.2 = {
+		holder = 222525
+	}
+	11149.1.2 = {
+		holder = 222672
+	}
+	11151.1.2 = {
+		holder = 125102
+	}
+	11154.2.6 = {
+		holder = 222525
+	}
+	11154.11.13 = {
+		holder = 222672
+	}
+	11157.5.15 = {
+		holder = 125047
+	}
+	11158.1.2 = {
+		holder = 222522
+	}
+	11159.1.2 = {
+		holder = 222572
+	}
+	11161.2.12 = {
+		holder = 125047
+	}
+	11161.3.6 = {
+		holder = 222572
+	}
+	11167.3.14 = {
+		holder = 222522
+	}
+	11169.1.2 = {
+		holder = 222702
+	}
+	11170.1.2 = {
+		holder = 222522
+	}
+	11170.8.19 = {
+		holder = 222702
+	}
+	11171.1.20 = {
+		holder = 222592
+	}
+	11171.5.30 = {
+		holder = 222577
+	}
+	11174.1.2 = {
+		holder = 222622
+	}
+	11175.1.2 = {
+		holder = 222577
+	}
+	11177.1.2 = {
+		holder = 222650
+	}
+	11194.7.27 = {
+		holder = 222579
+	}
+	11202.1.2 = {
+		holder = 125132
+	}
+	11204.1.2 = {
+		holder = 222587
+	}
+	11205.1.2 = {
+		holder = 222579
+	}
+	11206.1.2 = {
+		holder = 222652
+	}
+	11207.1.2 = {
+		holder = 222579
+	}
+	11210.1.2 = {
+		holder = 222652
+	}
+	11214.1.2 = {
+		holder = 222610
+	}
+	11223.6.2 = {
+		holder = 222588
+	}
+	11239.3.3 = {
+		holder = 125154
+	}
+	11240.1.2 = {
+		holder = 125114
+	}
+	11241.1.2 = {
+		holder = 222654
+	}
+	11243.1.2 = {
+		holder = 472885
+	}
+	11246.9.30 = {
+		holder = 472844
+	}
+	11263.11.14 = {
+		holder = 125074
+	}
+	11265.1.2 = {
+		holder = 125075
+	}
+	11285.1.2 = {
+		holder = 125076
+	}
+	11303.1.2 = {
+		holder = 125077
+	}
+	11325.1.2 = {
+		holder = 472100
+	}
+
+}
+
+
+c_zvyahel = {
+	###Pre-Kievan Rus'
+	10750.1.1 = {
+		holder = 194139
+		liege = d_kiev
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 6811 # Dyre
+	}
+	
+	###Kievan Rus'
+	10882.1.2 = {
+		holder = 40606
+	}
+	10912.1.2 = {
+		holder = 600
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10945.1.2 = {
+		holder = 602
+	}
+	10972.1.2 = {
+		holder = 604
+	}
+	10978.1.2 = {
+		holder = 608
+	}
+	11015.7.15 = {
+		holder = 610
+	}
+	11016.1.2 = {
+		holder = 612
+	}
+	11018.1.2 = {
+		holder = 610
+	}
+	11019.1.2 = {
+		holder = 612
+	}
+	11054.2.20 = {
+		holder = 626
+	}
+	11068.9.14 = {
+		holder = 650
+	}
+	
+	###Fragmentation of Kievan Rus'
+	11069.4.15 = {
+		holder = 626
+	}
+	11073.1.2 = {
+		holder = 628
+	}
+	11076.12.27 = {
+		holder = 630
+	}
+	11077.1.2 = {
+		holder = 626
+	}
+	11078.10.4 = {
+		holder = 630
+	}
+	11093.4.13 = {
+		holder = 652
+	}
+	11113.4.16 = {
+		holder = 666
+	}
+	11125.5.19 = {
+		holder = 222574
+	}
+	11132.4.14 = {
+		holder = 125101
+	}
+	11139.2.8 = {
+		holder = 125102
+	}
+	11139.3.4 = {
+		holder = 222602
+	}
+	11146.8.1 = {
+		holder = 125069
+	}
+	11147.1.2 = {
+		holder = 222525
+	}
+	11149.1.2 = {
+		holder = 222672
+	}
+	11151.1.2 = {
+		holder = 125102
+	}
+	11154.2.6 = {
+		holder = 222525
+	}
+	11154.11.13 = {
+		holder = 222672
+	}
+	11157.5.15 = {
+		holder = 125047
+	}
+	11158.1.2 = {
+		holder = 222522
+	}
+	11159.1.2 = {
+		holder = 222572
+	}
+	11161.2.12 = {
+		holder = 125047
+	}
+	11161.3.6 = {
+		holder = 222572
+	}
+	11167.3.14 = {
+		holder = 222522
+	}
+	11169.1.2 = {
+		holder = 222702
+	}
+	11170.1.2 = {
+		holder = 222522
+	}
+	11170.8.19 = {
+		holder = 222702
+	}
+	11171.1.20 = {
+		holder = 222592
+	}
+	11171.5.30 = {
+		holder = 222577
+	}
+	11173.1.1 = {
+		holder = 222579 # Rurik Rostislavich
+	}
+	11194.7.27 = {
+		holder = 222579
+	}
+	11202.1.2 = {
+		holder = 125132
+	}
+	11204.1.2 = {
+		holder = 222587
+	}
+	11205.1.2 = {
+		holder = 222579
+	}
+	11206.1.2 = {
+		holder = 222652
+	}
+	11207.1.2 = {
+		holder = 222579
+	}
+	11210.1.2 = {
+		holder = 222652
+	}
+	11214.1.2 = {
+		holder = 222610
+	}
+	11223.6.2 = {
+		holder = 222588
+	}
+	11239.3.3 = {
+		holder = 125154
+	}
+	11240.1.2 = {
+		holder = 125114
+	}
+	11241.1.2 = {
+		holder = 222654
+	}
+	11243.1.2 = {
+		holder = 472885
+	}
+	11246.9.30 = {
+		holder = 472844
+	}
+	11263.11.14 = {
+		holder = 125074
+	}
+	11265.1.2 = {
+		holder = 125075
+	}
+	11285.1.2 = {
+		holder = 125076
+	}
+	11303.1.2 = {
+		holder = 125077
+	}
+	11325.1.2 = {
+		holder = 472100
+	}
+
+}
+
+
+c_chornobyl = {
+	###Pre-Kievan Rus'
+	10750.1.1 = {
+		holder = 194139
+		liege = d_kiev
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 6811 # Dyre
+	}
+	
+	###Kievan Rus'
+	10882.1.2 = {
+		holder = 40606
+	}
+	10912.1.2 = {
+		holder = 600
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10945.1.2 = {
+		holder = 602
+	}
+	10972.1.2 = {
+		holder = 604
+	}
+	10978.1.2 = {
+		holder = 608
+	}
+	11015.7.15 = {
+		holder = 610
+	}
+	11016.1.2 = {
+		holder = 612
+	}
+	11018.1.2 = {
+		holder = 610
+	}
+	11019.1.2 = {
+		holder = 612
+	}
+	11054.2.20 = {
+		holder = 626
+	}
+	11068.9.14 = {
+		holder = 650
+	}
+	
+	###Fragmentation of Kievan Rus'
+	11069.4.15 = {
+		holder = 626
+	}
+	11073.1.2 = {
+		holder = 628
+	}
+	11076.12.27 = {
+		holder = 630
+	}
+	11077.1.2 = {
+		holder = 626
+	}
+	11078.10.4 = {
+		holder = 630
+	}
+	11093.4.13 = {
+		holder = 652
+	}
+	11113.4.16 = {
+		holder = 666
+	}
+	11125.5.19 = {
+		holder = 222574
+	}
+	11132.4.14 = {
+		holder = 125101
+	}
+	11139.2.8 = {
+		holder = 125102
+	}
+	11139.3.4 = {
+		holder = 222602
+	}
+	11146.8.1 = {
+		holder = 125069
+	}
+	11147.1.2 = {
+		holder = 222525
+	}
+	11149.1.2 = {
+		holder = 222672
+	}
+	11151.1.2 = {
+		holder = 125102
+	}
+	11154.2.6 = {
+		holder = 222525
+	}
+	11154.11.13 = {
+		holder = 222672
+	}
+	11157.5.15 = {
+		holder = 125047
+	}
+	11158.1.2 = {
+		holder = 222522
+	}
+	11159.1.2 = {
+		holder = 222572
+	}
+	11161.2.12 = {
+		holder = 125047
+	}
+	11161.3.6 = {
+		holder = 222572
+	}
+	11167.3.14 = {
+		holder = 222522
+	}
+	11169.1.2 = {
+		holder = 222702
+	}
+	11170.1.2 = {
+		holder = 222522
+	}
+	11170.8.19 = {
+		holder = 222702
+	}
+	11171.1.20 = {
+		holder = 222592
+	}
+	11171.5.30 = {
+		holder = 222577
+	}
+	11174.1.2 = {
+		holder = 222622
+	}
+	11175.1.1 = {
+		holder = 222570 # Davyd Rostislavich, technically Vyshgorod and Bilhorod
+	}
+	11194.7.27 = {
+		holder = 222579
+	}
+	11202.1.2 = {
+		holder = 125132
+	}
+	11204.1.2 = {
+		holder = 222587
+	}
+	11205.1.2 = {
+		holder = 222579
+	}
+	11206.1.2 = {
+		holder = 222652
+	}
+	11207.1.2 = {
+		holder = 222579
+	}
+	11210.1.2 = {
+		holder = 222652
+	}
+	11214.1.2 = {
+		holder = 222610
+	}
+	11223.6.2 = {
+		holder = 222588
+	}
+	11239.3.3 = {
+		holder = 125154
+	}
+	11240.1.2 = {
+		holder = 125114
+	}
+	11241.1.2 = {
+		holder = 222654
+	}
+	11243.1.2 = {
+		holder = 472885
+	}
+	11246.9.30 = {
+		holder = 472844
+	}
+	11263.11.14 = {
+		holder = 125074
+	}
+	11265.1.2 = {
+		holder = 125075
+	}
+	11285.1.2 = {
+		holder = 125076
+	}
+	11303.1.2 = {
+		holder = 125077
+	}
+	11325.1.2 = {
+		holder = 472100
+	}
+
+}
+
+
+c_ushytsia = {
+	###Pre-Kievan Rus'
+	10500.1.1 = {
+		liege = 0
+		government = tribal_government
+	}
+	10865.8.4 = {
+		holder = 302151		#Fictional
+	}
+	
+	###Kievan Rus'
+	10882.1.2 = {
+		holder = 40606
+		liege = d_kiev
+	}
+	10912.1.2 = {
+		holder = 600
+	}
+	10945.1.2 = {
+		holder = 602
+	}
+	10972.1.2 = {
+		holder = 604
+	}
+	10978.1.2 = {
+		holder = 608
+	}
+	11015.7.15 = {
+		holder = 610
+	}
+	11016.1.2 = {
+		holder = 612
+	}
+	11018.1.2 = {
+		holder = 610
+	}
+	11019.1.2 = {
+		holder = 612
+	}
+	11054.2.20 = {
+		holder = 626
+	}
+	11060.6.10 = {
+		holder = 302195
+	}
+	11068.9.14 = {
+		holder = 650
+	}
+	
+	###Fragmentation of Kievan Rus'
+	11069.4.15 = {
+		holder = 626
+	}
+	11073.1.2 = {
+		holder = 628
+	}
+	11076.12.27 = {
+		holder = 630
+	}
+	11077.1.2 = {
+		holder = 626
+	}
+	11078.10.4 = {
+		holder = 630
+	}
+	11093.4.13 = {
+		holder = 652
+	}
+	11113.4.16 = {
+		holder = 666
+	}
+	11125.5.19 = {
+		holder = 222574
+	}
+	11132.4.14 = {
+		holder = 125101
+	}
+	11139.2.8 = {
+		holder = 125102
+	}
+	11139.3.4 = {
+		holder = 222602
+	}
+	11146.8.1 = {
+		holder = 125069
+	}
+	11147.1.2 = {
+		holder = 222525
+	}
+	11149.1.2 = {
+		holder = 222672
+	}
+	11151.1.2 = {
+		holder = 125102
+	}
+	11154.2.6 = {
+		holder = 222525
+	}
+	11154.11.13 = {
+		holder = 222672
+	}
+	11157.5.15 = {
+		holder = 125047
+	}
+	11158.1.2 = {
+		holder = 222522
+	}
+	11159.1.2 = {
+		holder = 222572
+	}
+	11161.2.12 = {
+		holder = 125047
+	}
+	11161.3.6 = {
+		holder = 222572
+	}
+	11167.3.14 = {
+		holder = 222522
+	}
+	11169.1.2 = {
+		holder = 222702
+	}
+	11170.1.2 = {
+		holder = 222522
+	}
+	11170.8.19 = {
+		holder = 222702
+	}
+	11171.1.20 = {
+		holder = 222592
+	}
+	11171.5.30 = {
+		holder = 222577
+	}
+	11174.1.2 = {
+		holder = 222622
+	}
+	11175.1.2 = {
+		holder = 222577
+	}
+	11177.1.2 = {
+		holder = 222650
+	}
+	11194.7.27 = {
+		holder = 222579
+	}
+	11202.1.2 = {
+		holder = 125132
+	}
+	11204.1.2 = {
+		holder = 222587
+	}
+	11205.1.2 = {
+		holder = 222579
+	}
+	11206.1.2 = {
+		holder = 222652
+	}
+	11207.1.2 = {
+		holder = 222579
+	}
+	11210.1.2 = {
+		holder = 222652
+	}
+	11214.1.2 = {
+		holder = 222610
+	}
+	11223.6.2 = {
+		holder = 222588
+	}
+	11239.3.3 = {
+		holder = 125154
+	}
+	11240.1.2 = {
+		holder = 125114
+	}
+	11241.1.2 = {
+		holder = 222654
+	}
+	11243.1.2 = {
+		holder = 472885
+	}
+	11246.9.30 = {
+		holder = 472844
+	}
+	11263.11.14 = {
+		holder = 125074
+	}
+	11265.1.2 = {
+		holder = 125075
+	}
+	11285.1.2 = {
+		holder = 125076
+	}
+	11303.1.2 = {
+		holder = 125077
+	}
+	11325.1.2 = {
+		holder = 472100
+	}
+
+}
+
+
+c_korsun = {
+	###Pre-Kievan Rus'
+	10750.1.1 = {
+		holder = 194139
+		liege = d_kiev
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 6811 # Dyre
+	}
+	
+	###Kievan Rus'
+	10882.1.2 = {
+		holder = 40606
+	}
+	10912.1.2 = {
+		holder = 600
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10945.1.2 = {
+		holder = 602
+	}
+	10972.1.2 = {
+		holder = 604
+	}
+	10978.1.2 = {
+		holder = 608
+	}
+	11015.7.15 = {
+		holder = 610
+	}
+	11016.1.2 = {
+		holder = 612
+	}
+	11018.1.2 = {
+		holder = 610
+	}
+	11019.1.2 = {
+		holder = 612
+	}
+	11054.2.20 = {
+		holder = 626
+	}
+	11062.4.3 = {
+		holder = 684
+	}
+	11068.9.14 = {
+		holder = 650
+	}
+	
+	###Fragmentation of Kievan Rus'
+	11069.4.15 = {
+		holder = 626
+	}
+	11073.1.2 = {
+		holder = 628
+	}
+	11076.12.27 = {
+		holder = 630
+	}
+	11077.1.2 = {
+		holder = 626
+	}
+	11078.10.4 = {
+		holder = 630
+	}
+	11093.4.13 = {
+		holder = 652
+	}
+	11113.4.16 = {
+		holder = 666
+	}
+	11125.5.19 = {
+		holder = 222574
+	}
+	11132.4.14 = {
+		holder = 125101
+	}
+	11139.2.8 = {
+		holder = 125102
+	}
+	11139.3.4 = {
+		holder = 222602
+	}
+	11146.8.1 = {
+		holder = 125069
+	}
+	11147.1.2 = {
+		holder = 222525
+	}
+	11149.1.2 = {
+		holder = 222672
+	}
+	11151.1.2 = {
+		holder = 125102
+	}
+	11154.2.6 = {
+		holder = 222525
+	}
+	11154.11.13 = {
+		holder = 222672
+	}
+	11157.5.15 = {
+		holder = 125047
+	}
+	11158.1.2 = {
+		holder = 222522
+	}
+	11159.1.2 = {
+		holder = 222572
+	}
+	11161.2.12 = {
+		holder = 125047
+	}
+	11161.3.6 = {
+		holder = 222572
+	}
+	11167.3.14 = {
+		holder = 222522
+	}
+	11169.1.2 = {
+		holder = 222702
+	}
+	11170.1.2 = {
+		holder = 222522
+	}
+	11170.8.19 = {
+		holder = 222702
+	}
+	11171.1.20 = {
+		holder = 222592
+	}
+	11171.5.30 = {
+		holder = 222577
+	}
+	11174.1.2 = {
+		holder = 222622
+	}
+	11175.1.2 = {
+		holder = 222577
+	}
+	11177.1.2 = {
+		holder = 222650
+	}
+	11194.7.27 = {
+		holder = 222579
+	}
+	11202.1.2 = {
+		holder = 125132
+	}
+	11204.1.2 = {
+		holder = 222587
+	}
+	11205.1.2 = {
+		holder = 222579
+	}
+	11206.1.2 = {
+		holder = 222652
+	}
+	11207.1.2 = {
+		holder = 222579
+	}
+	11210.1.2 = {
+		holder = 222652
+	}
+	11214.1.2 = {
+		holder = 222610
+	}
+	11223.6.2 = {
+		holder = 222588
+	}
+	11239.3.3 = {
+		holder = 125154
+	}
+	11240.1.2 = {
+		holder = 125114
+	}
+	11241.1.2 = {
+		holder = 222654
+	}
+	11243.1.2 = {
+		holder = 472885
+	}
+	11246.9.30 = {
+		holder = 472844
+	}
+	11263.11.14 = {
+		holder = 125074
+	}
+	11265.1.2 = {
+		holder = 125075
+	}
+	11285.1.2 = {
+		holder = 125076
+	}
+	11303.1.2 = {
+		holder = 125077
+	}
+	11325.1.2 = {
+		holder = 472100
+	}
+
+}
+
+
+d_turov = {
+	#Pre-creation
+	10867.1.1 = {
+		holder = 256045 #Dobroslav, fictional
+		liege = 0
+		government = tribal_government
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	#Creation within Kievan Rus
+	10988.1.2 = {
+		holder = 610	#Sviatopolk the Accursed
+		liege = k_ruthenia
+	}
+	#11010.1.2 = {
+	#	holder = ?
+	#}
+	11045.1.2 = {
+		holder = 626	#Iziaslav I Yaroslavich of Kiev
+	}
+	
+	###Fragmentation of Kievan Rus'
+	11069.4.15 = {
+		liege = 0
+	}
+	11105.1.2 = {
+		holder = 652
+	}
+	11113.4.16 = {
+		holder = 125098
+	}
+	11119.1.2 = {
+		holder = 125030
+	}
+	11123.1.2 = {
+		holder = 125031
+	}
+	11127.1.2 = {
+		holder = 125102
+	}
+	11132.4.14 = {
+		holder = 222525
+	}
+	11134.1.2 = {
+		holder = 125102
+	}
+	11142.1.2 = {
+		holder = 222650
+	}
+	11143.1.2 = {
+		holder = 125102
+	}
+	11146.1.2 = {
+		holder = 222622
+	}
+	11154.1.2 = {
+		holder = 222650
+	}
+	11155.1.2 = {
+		holder = 222678
+	}
+	11157.1.2 = {
+		holder = 222542
+	}
+	11168.1.2 = {
+		holder = 222540
+	}
+	11178.1.1 = {
+		succession_laws = { male_only_law }
+	}
+	11190.1.2 = {
+		holder = 125036
+	}
+	11195.1.2 = {
+		holder = 222540
+	}
+	11207.1.2 = {
+		holder = 125039
+	}
+	11242.1.2 = {
+		holder = 125040
+	}
+	11262.1.2 = {
+		holder = 125041
+	}
+	11292.1.2 = {
+		holder = 125042
+	}
+	11305.1.2 = {
+		holder = 125043
+	}
+	11333.1.2 = {
+		liege = "k_lithuania"
+	}
+	11333.1.2 = {
+		holder = 473504
+	}
+
+}
+
+
+c_turov = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10800.1.2 = {
+	#	holder = 0
+		liege = 0
+		government = tribal_government
+	}
+	10867.1.1 = {
+		holder = 256045 #Dobroslav, fictional
+		liege = d_turov
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	
+	#Creation within Kievan Rus
+	10988.1.2 = {
+		holder = 610	#Sviatopolk the Accursed
+		liege = k_ruthenia
+	}
+	#11010.1.2 = {
+	#	holder = ?
+	#}
+	11045.1.2 = {
+		holder = 626	#Iziaslav I Yaroslavich of Kiev
+	}
+	11105.1.2 = {
+		holder = 652
+	}
+	11113.4.16 = {
+		holder = 125098
+	}
+	11119.1.2 = {
+		holder = 125030
+	}
+	11123.1.2 = {
+		holder = 125031
+	}
+	11127.1.2 = {
+		holder = 125102
+	}
+	11132.4.14 = {
+		holder = 222525
+	}
+	11134.1.2 = {
+		holder = 125102
+	}
+	11142.1.2 = {
+		holder = 222650
+	}
+	11143.1.2 = {
+		holder = 125102
+	}
+	11146.1.2 = {
+		holder = 222622
+	}
+	11154.1.2 = {
+		holder = 222650
+	}
+	11155.1.2 = {
+		holder = 222678
+	}
+	11157.1.2 = {
+		holder = 222542
+	}
+	11168.1.2 = {
+		holder = 222540
+	}
+	11190.1.2 = {
+		holder = 125036
+	}
+	11195.1.2 = {
+		holder = 222540
+	}
+	11207.1.2 = {
+		holder = 125039
+	}
+	11242.1.2 = {
+		holder = 125040
+	}
+	11262.1.2 = {
+		holder = 125041
+	}
+	11292.1.2 = {
+		holder = 125042
+	}
+	11305.1.2 = {
+		holder = 125043
+	}
+	11333.1.2 = {
+		liege = "k_lithuania"
+	}
+	11333.1.2 = {
+		holder = 473504
+	}
+
+}
+
+
+c_korosten = {
+	###Independent Drevlians / pre-Kievan Rus'
+	10850.1.1 = {
+		holder = 302154
+		government = tribal_government
+	}
+	10867.1.1 = {
+		liege = d_turov
+	}
+	
+	###Kievan Rus'
+	#Oleg of Novgorod makes Drevlians tributaries
+	10883.1.1 = {
+		holder = 302155
+		liege = d_kiev
+	}
+	10909.7.15 = {
+		holder = 302157
+	}
+	
+	#Drevlians stop paying tribute after Oleg's death
+	10912.1.1 = {
+		liege = 0
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	#Olga of Kiev M-m-m-m-m-monster frags Drevlians and makes them tributaries again
+	10946.1.1 = {
+		liege = d_kiev
+	}
+	11045.6.20 = {
+		holder = 302160
+	}
+	
+	###Fragmentation of Kievan Rus'
+	11107.4.16 = {
+		holder = 302161
+	}
+	11129.8.26 = {
+		holder = 302163
+	}
+	
+	#Year 1136 = last mention of Drevlians
+	11136.1.1 = {
+		holder = 125101
+	}
+	11139.2.8 = {
+		holder = 125102
+	}
+	11139.3.4 = {
+		holder = 222602
+	}
+	11146.8.1 = {
+		holder = 125069
+	}
+	11147.1.2 = {
+		holder = 222525
+	}
+	11149.1.2 = {
+		holder = 222672
+	}
+	11151.1.2 = {
+		holder = 125102
+	}
+	11154.2.6 = {
+		holder = 222525
+	}
+	11154.11.13 = {
+		holder = 222672
+	}
+	11157.5.15 = {
+		holder = 125047
+	}
+	11158.1.2 = {
+		holder = 222522
+	}
+	11159.1.2 = {
+		holder = 222572
+	}
+	11161.2.12 = {
+		holder = 125047
+	}
+	11161.3.6 = {
+		holder = 222572
+	}
+	11167.3.14 = {
+		holder = 222522
+	}
+	11169.1.2 = {
+		holder = 222702
+	}
+	11170.1.2 = {
+		holder = 222522
+	}
+	11170.8.19 = {
+		holder = 222702
+	}
+	11171.1.20 = {
+		holder = 222592
+	}
+	11171.5.30 = {
+		holder = 222577
+	}
+	11173.1.1 = {
+		holder = 222579 # Rurik Rostislavich, as prince of Ovruch
+	}
+	11194.7.27 = {
+		holder = 222579
+	}
+	11202.1.2 = {
+		holder = 125132
+	}
+	11204.1.2 = {
+		holder = 222587
+	}
+	11205.1.2 = {
+		holder = 222579
+	}
+	11206.1.2 = {
+		holder = 222652
+	}
+	11207.1.2 = {
+		holder = 222579
+	}
+	11210.1.2 = {
+		holder = 222652
+	}
+	11214.1.2 = {
+		holder = 222610
+	}
+	11223.6.2 = {
+		holder = 222588
+	}
+	11239.3.3 = {
+		holder = 125154
+	}
+	11240.1.2 = {
+		holder = 125114
+	}
+	11241.1.2 = {
+		holder = 222654
+	}
+	11243.1.2 = {
+		holder = 472885
+	}
+	11246.9.30 = {
+		holder = 472844
+	}
+	11263.11.14 = {
+		holder = 125074
+	}
+	11265.1.2 = {
+		holder = 125075
+	}
+	11285.1.2 = {
+		holder = 125076
+	}
+	11303.1.2 = {
+		holder = 125077
+	}
+	11325.1.2 = {
+		holder = 472100
+	}
+
+}
+
+
+c_dubrovytsia = {
+	###Independent Drevlians / pre-Kievan Rus'
+	10850.1.1 = {
+		holder = 302154
+		government = tribal_government
+	}
+	10867.1.1 = {
+		liege = d_turov
+	}
+	
+	###Kievan Rus'
+	#Oleg of Novgorod makes Drevlians tributaries
+	10883.1.1 = {
+		holder = 302155
+		liege = d_kiev
+	}
+	10909.7.15 = {
+		holder = 302157
+	}
+	
+	#Drevlians stop paying tribute after Oleg's death
+	10912.1.1 = {
+		liege = 0
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	#Olga of Kiev M-m-m-m-m-monster frags Drevlians and makes them tributaries again
+	10946.1.1 = {
+		liege = d_kiev
+	}
+	11045.6.20 = {
+		holder = 302160
+	}
+	
+	###Fragmentation of Kievan Rus'
+	11107.4.16 = {
+		holder = 302161
+	}
+	11129.8.26 = {
+		holder = 302163
+	}
+	
+	#Year 1136 = last mention of Drevlians
+	11136.1.1 = {
+		holder = 125101
+	}
+	11139.2.8 = {
+		holder = 125102
+	}
+	11139.3.4 = {
+		holder = 222602
+	}
+	11146.8.1 = {
+		holder = 125069
+	}
+	11147.1.2 = {
+		holder = 222525
+	}
+	11149.1.2 = {
+		holder = 222672
+	}
+	11151.1.2 = {
+		holder = 125102
+	}
+	11154.2.6 = {
+		holder = 222525
+	}
+	11154.11.13 = {
+		holder = 222672
+	}
+	11157.5.15 = {
+		holder = 125047
+	}
+	11158.1.2 = {
+		holder = 222522
+	}
+	11159.1.2 = {
+		holder = 222572
+	}
+	11161.2.12 = {
+		holder = 125047
+	}
+	11161.3.6 = {
+		holder = 222572
+	}
+	11167.3.14 = {
+		holder = 222522
+	}
+	11168.1.2 = {
+		holder = 125036 # Gleb Yurievich
+		liege = "d_turov"
+	}
+	11194.7.27 = {
+		holder = 222579
+	}
+	11202.1.2 = {
+		holder = 125132
+	}
+	11204.1.2 = {
+		holder = 222587
+	}
+	11205.1.2 = {
+		holder = 222579
+	}
+	11206.1.2 = {
+		holder = 222652
+	}
+	11207.1.2 = {
+		holder = 222579
+	}
+	11210.1.2 = {
+		holder = 222652
+	}
+	11214.1.2 = {
+		holder = 222610
+	}
+	11223.6.2 = {
+		holder = 222588
+	}
+	11239.3.3 = {
+		holder = 125154
+	}
+	11240.1.2 = {
+		holder = 125114
+	}
+	11241.1.2 = {
+		holder = 222654
+	}
+	11243.1.2 = {
+		holder = 472885
+	}
+	11246.9.30 = {
+		holder = 472844
+	}
+	11263.11.14 = {
+		holder = 125074
+	}
+	11265.1.2 = {
+		holder = 125075
+	}
+	11285.1.2 = {
+		holder = 125076
+	}
+	11303.1.2 = {
+		holder = 125077
+	}
+	11325.1.2 = {
+		holder = 472100
+	}
+
+}
+
+
+d_pereyaslavl = {
+	#Pre-creation
+	10867.1.1 = {
+		holder = 0
+		liege = 0
+		government = tribal_government
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	#Principality of Pereyaslavl in 988
+	10988.1.2 = {
+		holder = 612	#Yaroslavl the wise
+		liege = k_ruthenia
+	}
+	11010.1.2 = {
+		holder = 624	#Boris Vladimirovich
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11024.1.2 = {
+		holder = 618	#Mstislav of Chernigov
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11054.1.2 = {
+		holder = 630	#Vsevolod I
+	}
+	11066.1.1 = {	#Ahistorical, should still be under Kievan Rus', but split for balancing
+		liege = 0
+	}
+	
+	#Fragmentation of Kievan Rus
+	11069.4.15 = {
+		liege = 0
+	}
+	11076.1.2 = {
+		holder = 125093	#Rostislavl I Vsevolodich
+	}
+	11076.7.2 = {
+		holder = 666	#Vladimir II Monomakh
+	}
+	11078.1.2 = {
+		holder = 125093	#Rostislavl I Vsevolodich
+	}
+	11094.1.2 = {
+		holder = 666	#Vladimir II Monomakh
+	}
+	11113.1.2 = {
+		holder = 125097	#Svyatoslav I Vladimirovich
+	}
+	11114.1.2 = {
+		holder = 125101	#Yaropolk I
+	}
+	11132.1.2 = {
+		holder = 125102	#Vyacheslav I Vladimirovich
+	}
+	11135.1.2 = {
+		holder = 125106	#Andrey Vladimirovich
+	}
+	11142.1.2 = {
+		holder = 125102	#Vyacheslav I Vladimirovich
+	}
+	11143.1.2 = {
+		holder = 222525	#Iziaslav II Mstislavich
+	}
+	11146.1.2 = {
+		holder = 222522	#Mstislav Izyaslavich
+	}
+	11149.1.2 = {
+		holder = 222675	#Rostislav II Yurevich
+	}
+	11151.1.2 = {
+		holder = 222522	#Mstislav Izyaslavich
+	}
+	11155.1.2 = {
+		holder = 222702	#Gleb Yurevich
+	}
+	11169.1.2 = {
+		holder = 222700	#Vladimir III Glebovich
+	}
+	11178.1.1 = {
+		succession_laws = { male_only_law }
+	}
+}
+
+
+c_pereyaslavl = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	###Pre Kievan Rus
+	10800.1.1 = {
+		liege = 0
+		holder = 194143		#Volodar Seversky, fictional
+		government = tribal_government
+	}
+	10822.8.23 = {
+		holder = 194144		#Svetozar Seversky, fictional
+	}
+	10852.9.13 = {
+		holder = 159721		#Tatimir Seversky, fictional
+	}
+	10859.1.1 = {		#tributaries of Khazaria
+		liege = e_caspian-pontic_steppe
+	}
+	10865.4.16 = {
+		holder = 160111		#Mechislav Seversky, fictional
+	}
+	
+	###Kievan Rus in 882
+	#Defaults to rulers of d_kiev, since principality of Pereyaslavl didn't exist then
+	10884.1.1 = {		#Severians annexed by Oleg
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	
+	#Principality of Pereyaslavl in 988
+	10988.1.2 = {
+		holder = 612	#Yaroslavl the wise
+		liege = d_pereyaslavl
+	}
+	11010.1.2 = {
+		holder = 624	#Boris Vladimirovich
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11024.1.2 = {
+		holder = 618	#Mstislav of Chernigov
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11054.1.2 = {
+		holder = 630	#Vsevolod I
+	}
+	11076.1.2 = {
+		holder = 125093	#Rostislavl I Vsevolodich
+	}
+	11076.7.2 = {
+		holder = 666	#Vladimir II Monomakh
+	}
+	11078.1.2 = {
+		holder = 125093	#Rostislavl I Vsevolodich
+	}
+	11094.1.2 = {
+		holder = 666	#Vladimir II Monomakh
+	}
+	11113.1.2 = {
+		holder = 125097	#Svyatoslav I Vladimirovich
+	}
+	11114.1.2 = {
+		holder = 125101	#Yaropolk I
+	}
+	11132.1.2 = {
+		holder = 125102	#Vyacheslav I Vladimirovich
+	}
+	11135.1.2 = {
+		holder = 125106	#Andrey Vladimirovich
+	}
+	11142.1.2 = {
+		holder = 125102	#Vyacheslav I Vladimirovich
+	}
+	11143.1.2 = {
+		holder = 222525	#Iziaslav II Mstislavich
+	}
+	11146.1.2 = {
+		holder = 222522	#Mstislav Izyaslavich
+	}
+	11149.1.2 = {
+		holder = 222675	#Rostislav II Yurevich
+	}
+	11151.1.2 = {
+		holder = 222522	#Mstislav Izyaslavich
+	}
+	11155.1.2 = {
+		holder = 222702	#Gleb Yurevich
+	}
+	11169.1.2 = {
+		holder = 222700	#Vladimir III Glebovich
+	}
+}
+
+
+c_hradyzk = {
+	###Pre Kievan Rus
+	10800.1.1 = {
+		liege = 0
+		holder = 194143		#Volodar Seversky, fictional
+		government = tribal_government
+	}
+	10822.8.23 = {
+		holder = 194144		#Svetozar Seversky, fictional
+	}
+	10852.9.13 = {
+		holder = 159721		#Tatimir Seversky, fictional
+	}
+	10859.1.1 = {		#tributaries of Khazaria
+		liege = e_caspian-pontic_steppe
+	}
+	10865.4.16 = {
+		holder = 160111		#Mechislav Seversky, fictional
+	}
+	
+	###Kievan Rus in 882
+	#Defaults to rulers of d_kiev, since principality of Pereyaslavl didn't exist then
+	10884.1.1 = {		#Severians annexed by Oleg
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	
+	#Principality of Pereyaslavl in 988
+	10988.1.2 = {
+		holder = 612	#Yaroslavl the wise
+		liege = d_pereyaslavl
+	}
+	11010.1.2 = {
+		holder = 624	#Boris Vladimirovich
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11024.1.2 = {
+		holder = 618	#Mstislav of Chernigov
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11054.1.2 = {
+		holder = 630	#Vsevolod I
+	}
+	11076.1.2 = {
+		holder = 125093	#Rostislavl I Vsevolodich
+	}
+	11076.7.2 = {
+		holder = 666	#Vladimir II Monomakh
+	}
+	11078.1.2 = {
+		holder = 125093	#Rostislavl I Vsevolodich
+	}
+	11094.1.2 = {
+		holder = 666	#Vladimir II Monomakh
+	}
+	11113.1.2 = {
+		holder = 125097	#Svyatoslav I Vladimirovich
+	}
+	11114.1.2 = {
+		holder = 125101	#Yaropolk I
+	}
+	11132.1.2 = {
+		holder = 125102	#Vyacheslav I Vladimirovich
+	}
+	11135.1.2 = {
+		holder = 125106	#Andrey Vladimirovich
+	}
+	11142.1.2 = {
+		holder = 125102	#Vyacheslav I Vladimirovich
+	}
+	11143.1.2 = {
+		holder = 222525	#Iziaslav II Mstislavich
+	}
+	11146.1.2 = {
+		holder = 222522	#Mstislav Izyaslavich
+	}
+	11149.1.2 = {
+		holder = 222675	#Rostislav II Yurevich
+	}
+	11151.1.2 = {
+		holder = 222522	#Mstislav Izyaslavich
+	}
+	11155.1.2 = {
+		holder = 222702	#Gleb Yurevich
+	}
+	11169.1.2 = {
+		holder = 222700	#Vladimir III Glebovich
+	}
+}
+
+
+c_romen = {
+	###Pre Kievan Rus
+	10800.1.1 = {
+		liege = 0
+		holder = 194143		#Volodar Seversky, fictional
+		government = tribal_government
+	}
+	10822.8.23 = {
+		holder = 194144		#Svetozar Seversky, fictional
+	}
+	10852.9.13 = {
+		holder = 159721		#Tatimir Seversky, fictional
+	}
+	10859.1.1 = {		#tributaries of Khazaria
+		liege = e_caspian-pontic_steppe
+	}
+	10865.4.16 = {
+		holder = 160112		#Kreslav Seversky, fictional
+	}
+	
+	###Kievan Rus in 882
+	#Defaults to rulers of d_kiev, since principality of Pereyaslavl didn't exist then
+	10884.1.1 = {		#Severians annexed by Oleg
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	
+	#Principality of Pereyaslavl in 988
+	10988.1.2 = {
+		holder = 612	#Yaroslavl the wise
+		liege = d_pereyaslavl
+	}
+	11010.1.2 = {
+		holder = 624	#Boris Vladimirovich
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11024.1.2 = {
+		holder = 618	#Mstislav of Chernigov
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11054.1.2 = {
+		holder = 630	#Vsevolod I
+	}
+	11076.1.2 = {
+		holder = 125093	#Rostislavl I Vsevolodich
+	}
+	11076.7.2 = {
+		holder = 666	#Vladimir II Monomakh
+	}
+	11078.1.2 = {
+		holder = 125093	#Rostislavl I Vsevolodich
+	}
+	11094.1.2 = {
+		holder = 666	#Vladimir II Monomakh
+	}
+	11113.1.2 = {
+		holder = 125097	#Svyatoslav I Vladimirovich
+	}
+	11114.1.2 = {
+		holder = 125101	#Yaropolk I
+	}
+	11132.1.2 = {
+		holder = 125102	#Vyacheslav I Vladimirovich
+	}
+	11135.1.2 = {
+		holder = 125106	#Andrey Vladimirovich
+	}
+	11142.1.2 = {
+		holder = 125102	#Vyacheslav I Vladimirovich
+	}
+	11143.1.2 = {
+		holder = 222525	#Iziaslav II Mstislavich
+	}
+	11146.1.2 = {
+		holder = 222522	#Mstislav Izyaslavich
+	}
+	11149.1.2 = {
+		holder = 222675	#Rostislav II Yurevich
+	}
+	11151.1.2 = {
+		holder = 222522	#Mstislav Izyaslavich
+	}
+	11155.1.2 = {
+		holder = 222702	#Gleb Yurevich
+	}
+	11169.1.2 = {
+		holder = 222700	#Vladimir III Glebovich
+	}
+}
+
+
+c_voin = {
+	###Pre Kievan Rus
+	10800.1.1 = {
+		liege = 0
+		holder = 194143		#Volodar Seversky, fictional
+		government = tribal_government
+	}
+	10822.8.23 = {
+		holder = 194144		#Svetozar Seversky, fictional
+	}
+	10852.9.13 = {
+		holder = 159721		#Tatimir Seversky, fictional
+	}
+	10859.1.1 = {		#tributaries of Khazaria
+		liege = e_caspian-pontic_steppe
+	}
+	10865.4.16 = {
+		holder = 160111		#Mechislav Seversky, fictional
+	}
+	
+	###Kievan Rus in 882
+	#Defaults to rulers of d_kiev, since principality of Pereyaslavl didn't exist then
+	10884.1.1 = {		#Severians annexed by Oleg
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	
+	#Principality of Pereyaslavl in 988
+	10988.1.2 = {
+		holder = 612	#Yaroslavl the wise
+		liege = d_pereyaslavl
+	}
+	11010.1.2 = {
+		holder = 624	#Boris Vladimirovich
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11024.1.2 = {
+		holder = 618	#Mstislav of Chernigov
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslavl the wise
+	}
+	11054.1.2 = {
+		holder = 630	#Vsevolod I
+	}
+	11076.1.2 = {
+		holder = 125093	#Rostislavl I Vsevolodich
+	}
+	11076.7.2 = {
+		holder = 666	#Vladimir II Monomakh
+	}
+	11078.1.2 = {
+		holder = 125093	#Rostislavl I Vsevolodich
+	}
+	11094.1.2 = {
+		holder = 666	#Vladimir II Monomakh
+	}
+	11113.1.2 = {
+		holder = 125097	#Svyatoslav I Vladimirovich
+	}
+	11114.1.2 = {
+		holder = 125101	#Yaropolk I
+	}
+	11132.1.2 = {
+		holder = 125102	#Vyacheslav I Vladimirovich
+	}
+	11135.1.2 = {
+		holder = 125106	#Andrey Vladimirovich
+	}
+	11142.1.2 = {
+		holder = 125102	#Vyacheslav I Vladimirovich
+	}
+	11143.1.2 = {
+		holder = 222525	#Iziaslav II Mstislavich
+	}
+	11146.1.2 = {
+		holder = 222522	#Mstislav Izyaslavich
+	}
+	11149.1.2 = {
+		holder = 222675	#Rostislav II Yurevich
+	}
+	11151.1.2 = {
+		holder = 222522	#Mstislav Izyaslavich
+	}
+	11155.1.2 = {
+		holder = 222702	#Gleb Yurevich
+	}
+	11169.1.2 = {
+		holder = 222700	#Vladimir III Glebovich
+	}
+}
+
+
+d_chernigov = {
+	#988 Chernigov principality's startdate
+	10988.1.2 = {
+		holder = 608		#Vladimir the Great
+		liege = k_ruthenia
+		government = feudal_government
+	}
+	11015.7.15 = {
+		holder = 612		#Yaroslav the Wise
+	}
+	11024.1.2 = {
+		holder = 618		#Mstislav I the bold
+	}
+	11036.1.2 = {
+		holder = 612		#Kievan rule
+	}
+	11054.1.2 = {
+		holder = 628		#Sviatoslav II Yaroslavich of Kiev
+	}
+	11066.1.1 = {	#Ahistorical, should still be under Kievan Rus', but split for balancing
+		liege = 0
+	}
+	
+	#Fragmentation of Kievan Rus
+	11069.4.15 = {
+		liege = 0
+	}
+	11073.1.2 = {
+		holder =  630		#Vsevolod I of Kiev
+	}
+	11076.1.2 = {
+		holder = 666		#Vladimir Monomakh
+	}
+	11077.1.2 = {
+		holder = 630		#Vsevolod I of Kiev
+	}
+	11078.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11078.7.2 = {
+		holder = 666		#Vladimir Monomakh
+	}
+	11094.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11097.1.2 = {
+		holder = 656		#Davyd Sviatoslavich
+	}
+	11123.1.2 = {
+		holder = 662		#Konstantin / Yaroslav Sviatoslavich of Kiev
+	}
+	11126.1.2 = {
+		holder = 222602		#Vsevolod II Olgovich of Kiev
+	}
+	11139.1.2 = {
+		holder = 125045		#Vladimir II Davydovich
+	}
+	11151.5.12 = {
+		holder = 125047		#Iziaslav III Davidovich of Kiev
+	}
+	11157.1.2 = {
+		holder = 125046		#Sviatoslav II Olgovich
+	}
+	11164.1.2 = {
+		holder = 222650		#Sviatoslav III Vsevolodovich of Kiev
+	}
+	11176.1.2 = {
+		holder = 222600		#Yaroslav II Vsevolodovich
+	}
+	11178.1.1 = {
+		succession_laws = { male_only_law }
+	}
+}
+
+
+c_chernigov = {
+	11178.1.1 = { change_development_level = 13 }
+
+	###Pre Kievan Rus
+	10800.1.1 = {
+		liege = 0
+		holder = 194143		#Volodar Seversky, fictional
+		government = tribal_government
+	}
+	10822.8.23 = {
+		holder = 194144		#Svetozar Seversky, fictional
+	}
+	10852.9.13 = {
+		holder = 159721		#Tatimir Seversky, fictional
+	}
+	10859.1.1 = {		#tributaries of Khazaria
+		liege = e_caspian-pontic_steppe
+	}
+	10865.4.16 = {
+		holder = 6860		#Berimir Seversky, fictional
+	}
+	
+	###Kievan Rus in 882
+	10884.1.1 = {		#Severians annexed by Oleg
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	
+	#988 Chernigov principality's startdate
+	10988.1.2 = {
+		holder = 608		#Vladimir the Great
+		liege = d_chernigov
+		government = feudal_government
+	}
+	11015.7.15 = {
+		holder = 612		#Yaroslav the Wise
+	}
+	11024.1.2 = {
+		holder = 618		#Mstislav I the bold
+	}
+	11036.1.2 = {
+		holder = 612		#Kievan rule
+	}
+	11054.1.2 = {
+		holder = 628		#Sviatoslav II Yaroslavich of Kiev
+	}
+	11073.1.2 = {
+		holder =  630		#Vsevolod I of Kiev
+	}
+	11076.1.2 = {
+		holder = 666		#Vladimir Monomakh
+	}
+	11077.1.2 = {
+		holder = 630		#Vsevolod I of Kiev
+	}
+	11078.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11078.1.2 = {
+		holder = 666		#Vladimir Monomakh
+	}
+	11094.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11097.1.2 = {
+		holder = 656		#Davyd Sviatoslavich
+	}
+	11123.1.2 = {
+		holder = 662		#Konstantin / Yaroslav Sviatoslavich of Kiev
+	}
+	11126.1.2 = {
+		holder = 222602		#Vsevolod II Olgovich of Kiev
+	}
+	11139.1.2 = {
+		holder = 125045		#Vladimir II Davydovich
+	}
+	11151.5.12 = {
+		holder = 125047		#Iziaslav III Davidovich of Kiev
+	}
+	11157.1.2 = {
+		holder = 125046		#Sviatoslav II Olgovich
+	}
+	11164.1.2 = {
+		holder = 222650		#Sviatoslav III Vsevolodovich of Kiev
+	}
+	11176.1.2 = {
+		holder = 222600		#Yaroslav II Vsevolodovich
+	}
+}
+
+
+c_starodub = {
+	###Pre Kievan Rus
+	10800.1.1 = {
+		liege = 0
+		holder = 194143		#Volodar Seversky, fictional
+		government = tribal_government
+	}
+	10822.8.23 = {
+		holder = 194144		#Svetozar Seversky, fictional
+	}
+	10852.9.13 = {
+		holder = 159721		#Tatimir Seversky, fictional
+	}
+	10859.1.1 = {		#tributaries of Khazaria
+		liege = e_caspian-pontic_steppe
+	}
+	10865.4.16 = {
+		holder = 6860		#Berimir Seversky, fictional
+	}
+	
+	###Kievan Rus in 882
+	10884.1.1 = {		#Severians annexed by Oleg
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	
+	#988 Chernigov principality's startdate
+	10988.1.2 = {
+		holder = 608		#Vladimir the Great
+		liege = d_chernigov
+		government = feudal_government
+	}
+	11015.7.15 = {
+		holder = 612		#Yaroslav the Wise
+	}
+	11024.1.2 = {
+		holder = 618		#Mstislav I the bold
+	}
+	11036.1.2 = {
+		holder = 612		#Kievan rule
+	}
+	11054.1.2 = {
+		holder = 628		#Sviatoslav II Yaroslavich of Kiev
+	}
+	11073.1.2 = {
+		holder =  630		#Vsevolod I of Kiev
+	}
+	11076.1.2 = {
+		holder = 666		#Vladimir Monomakh
+	}
+	11077.1.2 = {
+		holder = 630		#Vsevolod I of Kiev
+	}
+	11078.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11078.1.2 = {
+		holder = 666		#Vladimir Monomakh
+	}
+	11094.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11097.1.2 = {
+		holder = 656		#Davyd Sviatoslavich
+	}
+	11123.1.2 = {
+		holder = 662		#Konstantin / Yaroslav Sviatoslavich of Kiev
+	}
+	11126.1.2 = {
+		holder = 222602		#Vsevolod II Olgovich of Kiev
+	}
+	11139.1.2 = {
+		holder = 125045		#Vladimir II Davydovich
+	}
+	11151.5.12 = {
+		holder = 125047		#Iziaslav III Davidovich of Kiev
+	}
+	11157.1.2 = {
+		holder = 125046		#Sviatoslav II Olgovich
+	}
+	11164.1.2 = {
+		holder = 222650		#Sviatoslav III Vsevolodovich of Kiev
+	}
+	11176.1.2 = {
+		holder = 222600		#Yaroslav II Vsevolodovich
+	}
+}
+
+
+c_novgorod_seversky = {
+	###Pre Kievan Rus
+	10800.1.1 = {
+		liege = 0
+		holder = 194143		#Volodar Seversky, fictional
+		government = tribal_government
+	}
+	10822.8.23 = {
+		holder = 194144		#Svetozar Seversky, fictional
+	}
+	10852.9.13 = {
+		holder = 159721		#Tatimir Seversky, fictional
+	}
+	10859.1.1 = {		#tributaries of Khazaria
+		liege = e_caspian-pontic_steppe
+	}
+	10865.4.16 = {
+		holder = 6860		#Berimir Seversky, fictional
+	}
+	
+	###Kievan Rus in 882
+	10884.1.1 = {		#Severians annexed by Oleg
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	
+	#988 Chernigov principality's startdate
+	10988.1.2 = {
+		holder = 608		#Vladimir the Great
+		liege = d_chernigov
+		government = feudal_government
+	}
+	11015.7.15 = {
+		holder = 612		#Yaroslav the Wise
+	}
+	11024.1.2 = {
+		holder = 618		#Mstislav I the bold
+	}
+	11036.1.2 = {
+		holder = 612		#Kievan rule
+	}
+	11054.1.2 = {
+		holder = 628		#Sviatoslav II Yaroslavich of Kiev
+	}
+	11073.1.2 = {
+		holder =  630		#Vsevolod I of Kiev
+	}
+	11076.1.2 = {
+		holder = 666		#Vladimir Monomakh
+	}
+	11077.1.2 = {
+		holder = 630		#Vsevolod I of Kiev
+	}
+	11078.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11078.1.2 = {
+		holder = 666		#Vladimir Monomakh
+	}
+	11094.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	
+	#Novgorod-Seversky principality
+	11097.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+		liege = 0
+	}
+	11115.1.2 = {
+		holder = 222602		#Vsevolod II Olgovich of Kiev
+	}
+	11139.1.2 = {
+		holder = 125069		#Igor II Olgovych of Kiev
+	}
+	11146.1.2 = {
+		holder = 125046		#Sviatoslav Olgovich
+	}
+	11158.1.2 = {
+		holder = 222650		#Sviatoslav III Vsevolodich
+	}
+	11164.1.2 = {
+		holder = 125052		#Oleg II Sviatoslavich
+	}
+	11180.1.2 = {
+		holder = 222630		# Igor Svyatoslavich (baptism name Yury)
+	}
+}
+
+
+c_putyvl = {
+	###Pre Kievan Rus
+	10800.1.1 = {
+		liege = 0
+		holder = 194143		#Volodar Seversky, fictional
+		government = tribal_government
+	}
+	10822.8.23 = {
+		holder = 194144		#Svetozar Seversky, fictional
+	}
+	10852.9.13 = {
+		holder = 159721		#Tatimir Seversky, fictional
+	}
+	10859.1.1 = {		#tributaries of Khazaria
+		liege = e_caspian-pontic_steppe
+	}
+	10865.4.16 = {
+		holder = 160112		#Kreslav Seversky, fictional
+	}
+	
+	###Kievan Rus in 882
+	10884.1.1 = {		#Severians annexed by Oleg
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	
+	#988 Chernigov principality's startdate
+	10988.1.2 = {
+		holder = 608		#Vladimir the Great
+		liege = d_chernigov
+	}
+	11015.7.15 = {
+		holder = 612		#Yaroslav the Wise
+	}
+	11024.1.2 = {
+		holder = 618		#Mstislav I the bold
+	}
+	11036.1.2 = {
+		holder = 612		#Kievan rule
+	}
+	11054.1.2 = {
+		holder = 628		#Sviatoslav II Yaroslavich of Kiev
+	}
+	11060.1.2 = {
+		holder = 658	
+	}
+	11073.1.2 = {
+		holder =  630		#Vsevolod I of Kiev
+	}
+	11076.1.2 = {
+		holder = 666		#Vladimir Monomakh
+	}
+	11077.1.2 = {
+		holder = 630		#Vsevolod I of Kiev
+	}
+	11078.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11078.1.2 = {
+		holder = 666		#Vladimir Monomakh
+	}
+	11094.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	
+	#Novgorod-Seversky principality
+	11097.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+		liege = 0
+	}
+	11115.1.2 = {
+		holder = 222602		#Vsevolod II Olgovich of Kiev
+	}
+	11139.1.2 = {
+		holder = 125069		#Igor II Olgovych of Kiev
+	}
+	11146.1.2 = {
+		holder = 125046		#Sviatoslav Olgovich
+	}
+	11158.1.2 = {
+		holder = 222650		#Sviatoslav III Vsevolodich
+	}
+	11164.1.2 = {
+		holder = 125052		#Oleg II Sviatoslavich
+	}
+	11180.1.2 = {
+		holder = 222630		# Igor Svyatoslavich (baptism name Yury)
+	}
+}
+
+
+c_kursk = {
+	###Pre Kievan Rus
+	10799.1.1 = {
+		liege = 0
+		holder = 194146		#Iliya Vyatich
+		government = tribal_government
+	}
+	10822.1.1 = {
+		holder = 160063		#Bojan Vyatich
+		liege = e_caspian-pontic_steppe
+	}
+	10860.1.1 = {
+		holder = 6834		#Zhavoronok Vyatich
+	}
+	
+	###Kievan Rus in 882
+	10890.1.1 = {
+		holder = 160059		#Vladislav Vyatich
+	}
+	10900.1.1 = {
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	
+	#988 Chernigov principality's startdate
+	10988.1.2 = {
+		holder = 608		#Vladimir the Great
+		liege = d_chernigov
+	}
+	11015.7.15 = {
+		holder = 612		#Yaroslav the Wise
+	}
+	11024.1.2 = {
+		holder = 618		#Mstislav I the bold
+	}
+	11036.1.2 = {
+		holder = 612		#Kievan rule
+	}
+	11054.1.2 = {
+		holder = 628		#Sviatoslav II Yaroslavich of Kiev
+	}
+	11060.1.2 = {
+		holder = 658	
+	}
+	11073.1.2 = {
+		holder =  630		#Vsevolod I of Kiev
+	}
+	11076.1.2 = {
+		holder = 666		#Vladimir Monomakh
+	}
+	11077.1.2 = {
+		holder = 630		#Vsevolod I of Kiev
+	}
+	11078.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11078.1.2 = {
+		holder = 666		#Vladimir Monomakh
+	}
+	11094.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	
+	#Novgorod-Seversky principality
+	11097.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+		liege = 0
+	}
+	11115.1.2 = {
+		holder = 222602		#Vsevolod II Olgovich of Kiev
+	}
+	11139.1.2 = {
+		holder = 125069		#Igor II Olgovych of Kiev
+	}
+	11146.1.2 = {
+		holder = 125046		#Sviatoslav Olgovich
+	}
+	11158.1.2 = {
+		holder = 222650		#Sviatoslav III Vsevolodich
+	}
+	11164.1.2 = {
+		holder = 125052		#Oleg II Sviatoslavich
+	}
+	11180.1.2 = {
+		holder = 222630		# Igor Svyatoslavich (baptism name Yury)
+	}
+}
+
+d_karachev = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 9 }
+}
+
+c_karachev = {
+	###Pre Kievan Rus
+	10799.1.1 = {
+		liege = 0
+		holder = 194146		#Iliya Vyatich
+		government = tribal_government
+	}
+	10822.1.1 = {
+		holder = 160063		#Bojan Vyatich
+		liege = e_caspian-pontic_steppe
+	}
+	10860.1.1 = {
+		holder = 6834		#Zhavoronok Vyatich
+	}
+	
+	###Kievan Rus in 882
+	10882.1.2 = {
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	11015.7.15 = {
+		holder = 610	#Sviatopolk the Accursed
+	}
+	11016.1.2 = {
+		holder = 612	#Yaroslav the Wise
+	}
+	11018.1.2 = {
+		holder = 610	#Sviatopolk the Accursed
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslav the Wise
+	}
+	
+	#Put under d_chernigov
+	11054.2.20 = {
+		holder = 302257		#Voislav Okansky, fictional
+		liege = d_chernigov
+	}
+	###Fragmentation of Kievan Rus' 11069.4.15
+	11080.11.29 = {
+		holder = 302258		#Nikita Okansky, fictional
+	}
+	11094.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11097.1.2 = {
+		holder = 656		#Davyd Sviatoslavich
+	}
+	11123.1.2 = {
+		holder = 662		#Konstantin / Yaroslav Sviatoslavich of Kiev
+	}
+	11126.1.2 = {
+		holder = 222602		#Vsevolod II Olgovich of Kiev
+	}
+	11139.1.2 = {
+		holder = 125045		#Vladimir II Davydovich
+	}
+	11151.5.12 = {
+		holder = 302259		#Ivan Kromsky, fictional
+	}
+	11178.1.1 = {
+		holder = 222606 # Rostislav, historical figure, fictional placeholder
+	}
+}
+
+
+c_kozelsk = {
+	###Pre Kievan Rus
+	10799.1.1 = {
+		liege = 0
+		holder = 194146		#Iliya Vyatich
+		government = tribal_government
+	}
+	10822.1.1 = {
+		holder = 302242		#Dobromir Vyatich
+	}
+	10861.1.1 = {
+		holder = 302243		#Volodar Vyatich
+	}
+	
+	###Kievan Rus in 882
+	10882.1.2 = {
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	11015.7.15 = {
+		holder = 610	#Sviatopolk the Accursed
+	}
+	11016.1.2 = {
+		holder = 612	#Yaroslav the Wise
+	}
+	11018.1.2 = {
+		holder = 610	#Sviatopolk the Accursed
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslav the Wise
+	}
+	
+	#Put under d_chernigov
+	11054.2.20 = {
+		holder = 302257		#Voislav Okansky, fictional
+		liege = d_chernigov
+	}
+	###Fragmentation of Kievan Rus' 11069.4.15
+	11080.11.29 = {
+		holder = 302258		#Nikita Okansky, fictional
+	}
+	11094.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11097.1.2 = {
+		holder = 656		#Davyd Sviatoslavich
+	}
+	11123.1.2 = {
+		holder = 662		#Konstantin / Yaroslav Sviatoslavich of Kiev
+	}
+	11126.1.2 = {
+		holder = 222602		#Vsevolod II Olgovich of Kiev
+	}
+	11139.1.2 = {
+		holder = 125045		#Vladimir II Davydovich
+	}
+	11151.5.12 = {
+		holder = 302259		#Ivan Kromsky, fictional
+	}
+	11178.1.1 = {
+		holder = 222606 # Rostislav, historical figure, fictional placeholder
+	}
+}
+
+c_sevsk = {
+	###Pre Kievan Rus
+	10799.1.1 = {
+		liege = 0
+		holder = 194146		#Iliya Vyatich
+		government = tribal_government
+	}
+	10822.1.1 = {
+		holder = 160063		#Bojan Vyatich
+		liege = e_caspian-pontic_steppe
+	}
+	10860.1.1 = {
+		holder = 6834		#Zhavoronok Vyatich
+	}
+	
+	###Kievan Rus in 882
+	10890.1.1 = {
+		holder = 160059		#Vladislav Vyatich
+	}
+	10900.1.1 = {
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	
+	#988 Chernigov principality's startdate
+	10988.1.2 = {
+		holder = 608		#Vladimir the Great
+		liege = d_chernigov
+	}
+	11015.7.15 = {
+		holder = 612		#Yaroslav the Wise
+	}
+	11024.1.2 = {
+		holder = 618		#Mstislav I the bold
+	}
+	11036.1.2 = {
+		holder = 612		#Kievan rule
+	}
+	11054.1.2 = {
+		holder = 628		#Sviatoslav II Yaroslavich of Kiev
+	}
+	11060.1.2 = {
+		holder = 658	
+	}
+	11073.1.2 = {
+		holder =  630		#Vsevolod I of Kiev
+	}
+	11076.1.2 = {
+		holder = 666		#Vladimir Monomakh
+	}
+	11077.1.2 = {
+		holder = 630		#Vsevolod I of Kiev
+	}
+	11078.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11078.1.2 = {
+		holder = 666		#Vladimir Monomakh
+	}
+	11094.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11097.1.2 = {
+		holder = 656		#Davyd Sviatoslavich
+	}
+	11123.1.2 = {
+		holder = 662		#Konstantin / Yaroslav Sviatoslavich of Kiev
+	}
+	11126.1.2 = {
+		holder = 222602		#Vsevolod II Olgovich of Kiev
+	}
+	11139.1.2 = {
+		holder = 125045		#Vladimir II Davydovich
+	}
+	11151.5.12 = {
+		holder = 125047		#Iziaslav III Davidovich of Kiev
+	}
+	11157.1.2 = {
+		holder = 125046		#Sviatoslav II Olgovich
+	}
+	11164.1.2 = {
+		holder = 222650		#Sviatoslav III Vsevolodovich of Kiev
+	}
+	11176.1.2 = {
+		holder = 222600		#Yaroslav II Vsevolodovich
+	}
+	11178.1.1 = {
+		holder = 222606 # Rostislav, historical figure, fictional placeholder
+	}
+}
+
+d_novosil = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 9 }
+}
+
+c_novosil = {
+	###Pre Kievan Rus
+	10809.3.16 = {
+		liege = 0
+		holder = 302227	#fictional Artyo Meshchersky
+		government = tribal_government
+	}
+	10841.12.20 = {
+		holder = 302229	#fictional Inzhay Meshchersky
+		liege = e_caspian-pontic_steppe	#tributary
+	}
+	10853.9.15 = {
+		holder = 302238	#fictional Mikikor Meshchersky
+	}
+	
+	###Kievan Rus in 882
+	10882.1.2 = {
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	11015.7.15 = {
+		holder = 610	#Sviatopolk the Accursed
+	}
+	11016.1.2 = {
+		holder = 612	#Yaroslav the Wise
+	}
+	11018.1.2 = {
+		holder = 610	#Sviatopolk the Accursed
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslav the Wise
+	}
+	
+	#Put under d_chernigov
+	11054.2.20 = {
+		holder = 302257		#Voislav Okansky, fictional
+		liege = d_chernigov
+	}
+	###Fragmentation of Kievan Rus' 11069.4.15
+	11080.11.29 = {
+		holder = 302258		#Nikita Okansky, fictional
+	}
+	11094.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11097.1.2 = {
+		holder = 656		#Davyd Sviatoslavich
+	}
+	11123.1.2 = {
+		holder = 662		#Konstantin / Yaroslav Sviatoslavich of Kiev
+	}
+	11126.1.2 = {
+		holder = 222602		#Vsevolod II Olgovich of Kiev
+	}
+	11139.1.2 = {
+		holder = 125045		#Vladimir II Davydovich
+	}
+	11151.5.12 = {
+		holder = 302259		#Ivan Kromsky, fictional
+	}
+	11178.1.1 = {
+		holder = 222600 # Yaroslav
+	}
+}
+
+
+c_odoyev = {
+	###Pre Kievan Rus
+	10809.3.16 = {
+		liege = 0
+		holder = 302227	#fictional Artyo Meshchersky
+		government = tribal_government
+	}
+	10841.12.20 = {
+		holder = 302229	#fictional Inzhay Meshchersky
+		liege = e_caspian-pontic_steppe	#tributary
+	}
+	10853.9.15 = {
+		holder = 302238	#fictional Mikikor Meshchersky
+	}
+	
+	###Kievan Rus in 882
+	10882.1.2 = {
+		holder = 40606	#Oleg/Helgi the Seer
+		liege = k_ruthenia
+	}
+	10912.1.2 = {
+		holder = 600	#Igor/Helgi, son of Rurik
+	}
+	10945.1.2 = {
+		holder = 602	#Sviatoslav I, w/ some regency by St Olga
+	}
+	10972.1.2 = {
+		holder = 604	#Yaropolk I
+	}
+	10980.1.2 = {
+		holder = 608	#Vladimir the Great
+	}
+	11015.7.15 = {
+		holder = 610	#Sviatopolk the Accursed
+	}
+	11016.1.2 = {
+		holder = 612	#Yaroslav the Wise
+	}
+	11018.1.2 = {
+		holder = 610	#Sviatopolk the Accursed
+	}
+	11019.1.2 = {
+		holder = 612	#Yaroslav the Wise
+	}
+	
+	#Put under d_chernigov
+	11054.2.20 = {
+		holder = 302257		#Voislav Okansky, fictional
+		liege = d_chernigov
+	}
+	11066.1.1 = {
+		holder = 302258		#Voislav Okansky's son, fictional
+		liege = d_chernigov
+	}
+	###Fragmentation of Kievan Rus' 11069.4.15
+	11080.11.29 = {
+		holder = 302258		#Nikita Okansky, fictional
+	}
+	11094.1.2 = {
+		holder = 660		#Oleg I Sviatoslavich
+	}
+	11097.1.2 = {
+		holder = 656		#Davyd Sviatoslavich
+	}
+	11123.1.2 = {
+		holder = 662		#Konstantin / Yaroslav Sviatoslavich of Kiev
+	}
+	11126.1.2 = {
+		holder = 222602		#Vsevolod II Olgovich of Kiev
+	}
+	11139.1.2 = {
+		holder = 125045		#Vladimir II Davydovich
+	}
+	11151.5.12 = {
+		holder = 302259		#Ivan Kromsky, fictional
+	}
+	11178.1.1 = {
+		holder = 222600 # Yaroslav
+	}
+}
+

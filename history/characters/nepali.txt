@@ -1,0 +1,5512 @@
+﻿#Licchavi Dynasty
+
+12300 = {
+	name="Sankaradeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	10400.1.1={
+		birth=yes
+	}
+	10420.1.1={
+		add_spouse=12301
+	}
+	10450.1.1={
+		death=yes
+	}
+}
+
+12301 = {
+	name="Ahilyabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10400.1.1={
+		birth=yes
+	}
+	10450.1.1={
+		death=yes
+	}
+}
+
+12302 = {
+	name="Dharmadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12300
+	mother=12301
+	10420.1.1={
+		birth=yes
+	}
+	10440.1.1={
+		add_spouse=12303
+	}
+	10464.1.1={
+		death=yes
+	}
+}
+
+12303 = {
+	name="Ambikabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10420.1.1={
+		birth=yes
+	}
+	10464.1.1={
+		death=yes
+	}
+}
+
+12304 = {
+	name="Manadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12302
+	mother=12303
+	10440.1.1={
+		birth=yes
+	}
+	10460.1.1={
+		add_spouse=12305
+	}
+	10505.1.1={
+		death=yes
+	}
+}
+
+12305 = {
+	name="Anandibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10440.1.1={
+		birth=yes
+	}
+	10505.1.1={
+		death=yes
+	}
+}
+
+12306 = {
+	name="Mahideva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12304
+	mother=12305
+	10460.1.1={
+		birth=yes
+	}
+	10480.1.1={
+		add_spouse=12307
+	}
+	10506.1.1={
+		death=yes
+	}
+}
+
+12307 = {
+	name="Anubai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10460.1.1={
+		birth=yes
+	}
+	10506.1.1={
+		death=yes
+	}
+}
+
+12308 = {
+	name="Vasantadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12306
+	mother=12307
+	10480.1.1={
+		birth=yes
+	}
+	10496.1.1={
+		add_spouse=12309
+	}
+	10532.1.1={
+		death=yes
+	}
+}
+
+12309 = {
+	name="Bhiubai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10480.1.1={
+		birth=yes
+	}
+	10532.1.1={
+		death=yes
+	}
+}
+
+12310 = {
+	name="Manudeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12308
+	mother=12309
+	10496.1.1={
+		birth=yes
+	}
+	10512.1.1={
+		add_spouse=12311
+	}
+	10538.1.1={
+		death=yes
+	}
+}
+
+12311 = {
+	name="Deepabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10496.1.1={
+		birth=yes
+	}
+	10538.1.1={
+		death=yes
+	}
+}
+
+12312 = {
+	name="Vamanadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12310
+	mother=12311
+	10512.1.1={
+		birth=yes
+	}
+	10528.1.1={
+		add_spouse=12313
+	}
+	10545.1.1={
+		death=yes
+	}
+}
+
+12313 = {
+	name="Durgabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10512.1.1={
+		birth=yes
+	}
+	10545.1.1={
+		death=yes
+	}
+}
+
+12314 = {
+	name="Ramadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12312
+	mother=12313
+	10528.1.1={
+		birth=yes
+	}
+	10544.1.1={
+		add_spouse=12315
+	}
+	10550.1.1={
+		death=yes
+	}
+}
+
+12315 = {
+	name="Gangabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10528.1.1={
+		birth=yes
+	}
+	10550.1.1={
+		death=yes
+	}
+}
+
+12316 = {
+	name="Amaradeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12312
+	mother=12313
+	10529.1.1={
+		birth=yes
+	}
+	10545.1.1={
+		add_spouse=12317
+	}
+	10555.1.1={
+		death=yes
+	}
+}
+
+12317 = {
+	name="Gunvantibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10529.1.1={
+		birth=yes
+	}
+	10555.1.1={
+		death=yes
+	}
+}
+
+12318 = {
+	name="Gunakamadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12312
+	mother=12313
+	10530.1.1={
+		birth=yes
+	}
+	10546.1.1={
+		add_spouse=12319
+	}
+	10560.1.1={
+		death=yes
+	}
+}
+
+12319 = {
+	name="Jankibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10530.1.1={
+		birth=yes
+	}
+	10560.1.1={
+		death=yes
+	}
+}
+
+12320 = {
+	name="Ganadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12312
+	mother=12313
+	10531.1.1={
+		birth=yes
+	}
+	10547.1.1={
+		add_spouse=12321
+	}
+	10567.1.1={
+		death=yes
+	}
+}
+
+12321 = {
+	name="Jijibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10531.1.1={
+		birth=yes
+	}
+	10567.1.1={
+		death=yes
+	}
+}
+
+12322 = {
+	name="Gangadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12312
+	mother=12313
+	10532.1.1={
+		birth=yes
+	}
+	10548.1.1={
+		add_spouse=12323
+	}
+	10573.1.1={
+		death=yes
+	}
+}
+
+12323 = {
+	name="Kamlabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10532.1.1={
+		birth=yes
+	}
+	10573.1.1={
+		death=yes
+	}
+}
+
+12324 = {
+	name="Manadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12312
+	mother=12313
+	10533.1.1={
+		birth=yes
+	}
+	10549.1.1={
+		add_spouse=12325
+	}
+	10590.1.1={
+		death=yes
+	}
+}
+
+12325 = {
+	name="Kashibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10533.1.1={
+		birth=yes
+	}
+	10590.1.1={
+		death=yes
+	}
+}
+
+12326 = {
+	name="Shivadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12324
+	mother=12325
+	10549.1.1={
+		birth=yes
+	}
+	10565.1.1={
+		add_spouse=12327
+	}
+	10604.1.1={
+		death=yes
+	}
+}
+
+12327 = {
+	name="Laxmibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10549.1.1={
+		birth=yes
+	}
+	10604.1.1={
+		death=yes
+	}
+}
+
+12328 = {
+	name="Amshuvarman"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12326
+	mother=12327
+	10565.1.1={
+		birth=yes
+	}
+	10581.1.1={
+		add_spouse=12329
+	}
+	10621.1.1={
+		death=yes
+	}
+}
+
+12329 = {
+	name="Mahadik"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10565.1.1={
+		birth=yes
+	}
+	10621.1.1={
+		death=yes
+	}
+}
+
+12330 = {
+	name="Udayadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12328
+	mother=12329
+	10581.1.1={
+		birth=yes
+	}
+	10597.1.1={
+		add_spouse=12331
+	}
+	10624.1.1={
+		death=yes
+	}
+}
+
+12331 = {
+	name="Mastani"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10581.1.1={
+		birth=yes
+	}
+	10624.1.1={
+		death=yes
+	}
+}
+
+12332 = {
+	name="Dhruvadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12328
+	mother=12329
+	10582.1.1={
+		birth=yes
+	}
+	10598.1.1={
+		add_spouse=12333
+	}
+	10625.1.1={
+		death=yes
+	}
+}
+
+12333 = {
+	name="Putalabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10582.1.1={
+		birth=yes
+	}
+	10625.1.1={
+		death=yes
+	}
+}
+
+12334 = {
+	name="Bhimarjunadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12332
+	mother=12333
+	10598.1.1={
+		birth=yes
+	}
+	10614.1.1={
+		add_spouse=12335
+	}
+	10643.1.1={
+		death=yes
+	}
+}
+
+12335 = {
+	name="Rajasbai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10598.1.1={
+		birth=yes
+	}
+	10643.1.1={
+		death=yes
+	}
+}
+
+12336 = {
+	name="Narendradeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12334
+	mother=12335
+	10614.1.1={
+		birth=yes
+	}
+	10630.1.1={
+		add_spouse=12337
+	}
+	10679.1.1={
+		death=yes
+	}
+}
+
+12337 = {
+	name="Rajkunvarbai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10614.1.1={
+		birth=yes
+	}
+	10679.1.1={
+		death=yes
+	}
+}
+
+12338 = {
+	name="Shivadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12336
+	mother=12337
+	10630.1.1={
+		birth=yes
+	}
+	10650.1.1={
+		add_spouse=12339
+	}
+	10705.1.1={
+		death=yes
+	}
+}
+
+12339 = {
+	name="Ramabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10630.1.1={
+		birth=yes
+	}
+	10705.1.1={
+		death=yes
+	}
+}
+
+12340 = {
+	name="Jayadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12338
+	mother=12339
+	10660.1.1={
+		birth=yes
+	}
+	10680.1.1={
+		add_spouse=12341
+	}
+	10733.1.1={
+		death=yes
+	}
+}
+
+12341 = {
+	name="Ranubai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10660.1.1={
+		birth=yes
+	}
+	10733.1.1={
+		death=yes
+	}
+}
+
+12342 = {
+	name="Sankaradeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12340
+	mother=12341
+	10680.1.1={
+		birth=yes
+	}
+	10700.1.1={
+		add_spouse=12343
+	}
+	10749.1.1={
+		death=yes
+	}
+}
+
+12343 = {
+	name="Saibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10680.1.1={
+		birth=yes
+	}
+	10749.1.1={
+		death=yes
+	}
+}
+
+12344 = {
+	name="Manadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12342
+	mother=12343
+	10700.1.1={
+		birth=yes
+	}
+	10720.1.1={
+		add_spouse=12345
+	}
+	10756.1.1={
+		death=yes
+	}
+}
+
+12345 = {
+	name="Sagunabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10700.1.1={
+		birth=yes
+	}
+	10756.1.1={
+		death=yes
+	}
+}
+
+12346 = {
+	name="Baliraja"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12344
+	mother=12345
+	10746.1.1={
+		birth=yes
+	}
+	10766.1.1={
+		add_spouse=12347
+	}
+	10826.1.1={
+		death=yes
+	}
+}
+
+12347 = {
+	name="Sakavaarbai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10746.1.1={
+		birth=yes
+	}
+	10826.1.1={
+		death=yes
+	}
+}
+
+12348 = {
+	name="Baladeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12346
+	mother=12347
+	10766.1.1={
+		birth=yes
+	}
+	10786.1.1={
+		add_spouse=12349
+	}
+	10847.1.1={
+		death=yes
+	}
+}
+
+12349 = {
+	name="Sayeebai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10766.1.1={
+		birth=yes
+	}
+	10847.1.1={
+		death=yes
+	}
+}
+
+12350 = {
+	name="Manadeva"
+	dynasty=19116 #Licchavi
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12348
+	mother=12349
+	10810.1.1={
+		birth=yes
+	}
+	10836.1.1={
+		add_spouse=12351
+	}
+	10879.1.1={
+		death=yes
+	}
+}
+
+12351 = {
+	name="Soyarabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10810.1.1={
+		birth=yes
+	}
+	10879.1.1={
+		death=yes
+	}
+}
+
+#Thakuri Dynasty
+
+12352 = {
+	name="Raghadeva"
+	dynasty=19117 #Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	10840.1.1={
+		birth=yes
+	}
+	10860.1.1={
+		add_spouse=12353
+	}
+	10900.1.1={
+		death=yes
+	}
+}
+
+12353 = {
+	name="Sujanbai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10840.1.1={
+		birth=yes
+	}
+	10900.1.1={
+		death=yes
+	}
+}
+
+12354 = {
+	name="Sankaradeva"
+	dynasty=19117 #Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12352
+	mother=12353
+	10870.1.1={
+		birth=yes
+	}
+	10890.1.1={
+		add_spouse=12355
+	}
+	10930.1.1={
+		death=yes
+	}
+}
+
+12355 = {
+	name="Tarabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10870.1.1={
+		birth=yes
+	}
+	10930.1.1={
+		death="10930.1.1"
+	}
+}
+
+12356 = {
+	name="Sahadeva"
+	dynasty=19117 #Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12354
+	mother=12355
+	10900.1.1={
+		birth=yes
+	}
+	10930.1.1={
+		add_spouse=12357
+	}
+	10960.1.1={
+		death=yes
+	}
+}
+
+12357 = {
+	name="Yesubai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10900.1.1={
+		birth=yes
+	}
+	10960.1.1={
+		death=yes
+	}
+}
+
+12358 = {
+	name="Vikramadeva"
+	dynasty=19117 #Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12356
+	mother=12357
+	10930.1.1={
+		birth=yes
+	}
+	10950.1.1={
+		add_spouse=12359
+	}
+	10980.1.1={
+		death=yes
+	}
+}
+
+12359 = {
+	name="Ahilyabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10930.1.1={
+		birth=yes
+	}
+	10980.1.1={
+		death=yes
+	}
+}
+
+12360 = {
+	name="Gunakamadeva"
+	dynasty=19117 #Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12358
+	mother=12359
+	10950.1.1={
+		birth=yes
+	}
+	10966.1.1={
+		add_spouse=12361
+	}
+	10998.1.1={
+		death=yes
+	}
+}
+
+12361 = {
+	name="Ambikabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10950.1.1={
+		birth=yes
+	}
+	10998.1.1={
+		death=yes
+	}
+}
+
+12362 = {
+	name="Narendradeva"
+	dynasty=19117 #Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12360
+	mother=12361
+	10966.1.1={
+		birth=yes
+	}
+	10982.1.1={
+		add_spouse=12363
+	}
+	10999.1.1={
+		death=yes
+	}
+}
+
+12363 = {
+	name="Anandibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10966.1.1={
+		birth=yes
+	}
+	10999.1.1={
+		death=yes
+	}
+}
+
+12364 = {
+	name="Udayadeva"
+	dynasty=19117 #Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12360
+	mother=12361
+	10967.1.1={
+		birth=yes
+	}
+	10983.1.1={
+		add_spouse=12365
+	}
+	11004.1.1={
+		death=yes
+	}
+}
+
+12365 = {
+	name="Anubai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10967.1.1={
+		birth=yes
+	}
+	11004.1.1={
+		death=yes
+	}
+}
+
+12366 = {
+	name="Nirbhayadeva"
+	dynasty=19117 #Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12364
+	mother=12365
+	10983.1.1={
+		birth=yes
+	}
+	10999.1.1={
+		add_spouse=12367
+	}
+	11007.1.1={
+		death=yes
+	}
+}
+
+12367 = {
+	name="Bhiubai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10983.1.1={
+		birth=yes
+	}
+	11007.1.1={
+		death=yes
+	}
+}
+
+12368 = {
+	name="Rudradeva"
+	dynasty=19117 #Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12366
+	mother=12367
+	10999.1.1={
+		birth=yes
+	}
+	11009.1.1={
+		death=yes
+	}
+}
+
+12370 = {
+	name="Bhojadeva"
+	dynasty=19117 #Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12366
+	mother=12367
+	11000.1.1={
+		birth=yes
+	}
+	11010.1.1={
+		death=yes
+	}
+}
+
+12372 = {
+	name="Laksmikadeva"
+	dynasty=19117 #Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12366
+	mother=12367
+	11001.1.1={
+		birth=yes
+	}
+	11017.1.1={
+		add_spouse=12373
+	}
+	11041.1.1={
+		death=yes
+	}
+}
+
+12373 = {
+	name="Gangabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11001.1.1={
+		birth=yes
+	}
+	11041.1.1={
+		death=yes
+	}
+}
+
+12374 = {
+	name="Vijayakamadeva"
+	dynasty=19117 #Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12366
+	mother=12367
+	11017.1.1={
+		birth=yes
+	}
+	11033.1.1={
+		add_spouse=12375
+	}
+	11037.1.1={
+		death=yes
+	}
+}
+
+12375 = {
+	name="Gunvantibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11017.1.1={
+		birth=yes
+	}
+	11037.1.1={
+		death=yes
+	}
+}
+
+#Nuwakot Thakuri Dynasty
+
+12376 = {
+	name="Bhaskaradeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	10990.1.1={
+		birth=yes
+	}
+	11006.1.1={
+		add_spouse=12377
+	}
+	11048.1.1={
+		death=yes
+	}
+}
+
+12377 = {
+	name="Jankibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	10990.1.1={
+		birth=yes
+	}
+	11048.1.1={
+		death=yes
+	}
+}
+
+12378 = {
+	name="Baladeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12376
+	mother=12377
+	11007.1.1={
+		birth=yes
+	}
+	11023.1.1={
+		add_spouse=12379
+	}
+	11060.1.1={
+		death=yes
+	}
+}
+
+12380 = {
+	name="Yisadeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12376
+	mother=12377
+	11006.1.1={
+		birth=yes
+	}
+	11022.1.1={
+		add_spouse=12381
+	}
+	11049.1.1={
+		death=yes
+	}
+}
+
+12381 = {
+	name="Kamlabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11006.1.1={
+		birth=yes
+	}
+	11049.1.1={
+		death="11049.1.1"
+	}
+}
+
+
+12379 = {
+	name="Kamlabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11007.1.1={
+		birth=yes
+	}
+	11060.1.1={
+		death=yes
+	}
+}
+
+12382 = {
+	name="Pradymnakamadeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12378
+	mother=12379
+	11023.1.1={
+		birth=yes
+	}
+	11039.1.1={
+		add_spouse=12383
+	}
+	11066.1.1={
+		death=yes
+	}
+}
+
+12383 = {
+	name="Kashibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11023.1.1={
+		birth=yes
+	}
+	11066.1.1={
+		death=yes
+	}
+}
+
+12439 = {
+	name="Nagarjunadeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12382
+	mother=12383
+	11039.1.1={
+		birth=yes
+	}
+	11055.1.1={
+		add_spouse=12384
+	}
+	11069.1.1={
+		death=yes
+	}
+}
+
+12384 = {
+	name="Laxmibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11023.1.1={
+		birth=yes
+	}
+	11066.1.1={
+		death=yes
+	}
+}
+
+12385 = {
+	name="Sankaradeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12439
+	mother=12384
+	11055.1.1={
+		birth=yes
+	}
+	11071.1.1={
+		add_spouse=12386
+	}
+	11082.1.1={
+		death=yes
+	}
+}
+
+12386 = {
+	name="Mahadik"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11055.1.1={
+		birth=yes
+	}
+	11082.1.1={
+		death=yes
+	}
+}
+
+12387 = {
+	name="Shivadeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12385
+	mother=12386
+	11071.1.1={
+		birth=yes
+	}
+	11087.1.1={
+		add_spouse=12388
+	}
+	11126.1.1={
+		death=yes
+	}
+}
+
+12388 = {
+	name="Mastani"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11071.1.1={
+		birth=yes
+	}
+	11126.1.1={
+		death=yes
+	}
+}
+
+12389 = {
+	name="Indradeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12387
+	mother=12388
+	11087.1.1={
+		birth=yes
+	}
+	11103.1.1={
+		add_spouse=12390
+	}
+	11136.1.1={
+		death=yes
+	}
+}
+
+12390 = {
+	name="Putalabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11087.1.1={
+		birth=yes
+	}
+	11136.1.1={
+		death=yes
+	}
+}
+
+12391 = {
+	name="Manadeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12389
+	mother=12390
+	11103.1.1={
+		birth=yes
+	}
+	11119.1.1={
+		add_spouse=12392
+	}
+	11140.1.1={
+		death=yes
+	}
+}
+
+12392 = {
+	name="Rajasbai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11103.1.1={
+		birth=yes
+	}
+	11140.1.1={
+		death=yes
+	}
+}
+
+12393 = {
+	name="Narendradeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12391
+	mother=12392
+	11119.1.1={
+		birth=yes
+	}
+	11135.1.1={
+		add_spouse=12394
+	}
+	11147.1.1={
+		death=yes
+	}
+}
+
+12394 = {
+	name="Rajkunvarbai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11119.1.1={
+		birth=yes
+	}
+	11147.1.1={
+		death=yes
+	}
+}
+
+12395 = {
+	name="Anandadeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12393
+	mother=12394
+	11135.1.1={
+		birth=yes
+	}
+	11151.1.1={
+		add_spouse=12396
+	}
+	11167.1.1={
+		death=yes
+	}
+}
+
+12396 = {
+	name="Ramabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11135.1.1={
+		birth=yes
+	}
+	11167.1.1={
+		death=yes
+	}
+}
+
+12397 = {
+	name="Mahendradeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12387
+	mother=12388
+	11088.1.1={
+		birth=yes
+	}
+	11104.1.1={
+		add_spouse=12398
+	}
+	11140.1.1={
+		death=yes
+	}
+}
+
+12398 = {
+	name="Ranubai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11088.1.1={
+		birth=yes
+	}
+	11140.1.1={
+		death=yes
+	}
+}
+
+12399 = {
+	name="Rudradeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12397
+	mother=12398
+	11114.1.1={
+		birth=yes
+	}
+	11134.1.1={
+		add_spouse=12400
+	}
+	11175.1.1={
+		death=yes
+	}
+}
+
+12400 = {
+	name="Saibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11114.1.1={
+		birth=yes
+	}
+	11175.1.1={
+		death=yes
+	}
+}
+
+12401 = {
+	name="Amritadeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12399
+	mother=12400
+	11140.1.1={
+		birth=yes
+	}
+	11160.1.1={
+		add_spouse=12402
+	}
+	11178.1.1={
+		death=yes
+	}
+}
+
+12402 = {
+	name="Sagunabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11140.1.1={
+		birth=yes
+	}
+	11178.1.1={
+		death=yes
+	}
+}
+
+12403 = {
+	name="Somesvaradeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12397
+	mother=12398
+	11115.1.1={
+		birth=yes
+	}
+	11135.1.1={
+		add_spouse=12404
+	}
+	11184.1.1={
+		death=yes
+	}
+}
+
+12404 = {
+	name="Sakavaarbai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11115.1.1={
+		birth=yes
+	}
+	11184.1.1={
+		death=yes
+	}
+}
+
+12405 = {
+	name="Gunakamadeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12403
+	mother=12404
+	11135.1.1={
+		birth=yes
+	}
+	11155.1.1={
+		add_spouse=12406
+	}
+	11192.1.1={
+		death=yes
+	}
+}
+
+12406 = {
+	name="Sayeebai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11135.1.1={
+		birth=yes
+	}
+	11192.1.1={
+		death=yes
+	}
+}
+
+12407 = {
+	name="Laksmikadeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12405
+	mother=12406
+	11155.1.1={
+		birth=yes
+	}
+	11175.1.1={
+		add_spouse=12408
+	}
+	11197.1.1={
+		death=yes
+	}
+}
+
+12408 = {
+	name="Soyarabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11155.1.1={
+		birth=yes
+	}
+	11197.1.1={
+		death=yes
+	}
+}
+
+12409 = {
+	name="Vijayakamadeva"
+	dynasty=19118 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12405
+	mother=12406
+	11156.1.1={
+		birth=yes
+	}
+	11176.1.1={
+		add_spouse=12410
+	}
+	11200.1.1={
+		death=yes
+	}
+}
+
+12410 = {
+	name="Sujanbai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11156.1.1={
+		birth=yes
+	}
+	11200.1.1={
+		death=yes
+	}
+}
+
+#Suryavamsa Dynasty
+
+12411 = {
+	name="Vamadeva"
+	dynasty=19119 #Suryavamsa
+	religion="shaivism"
+	culture="nepali"
+	
+	11045.1.1={
+		birth=yes
+	}
+	11065.1.1={
+		add_spouse=12412
+	}
+	11085.1.1={
+		death=yes
+	}
+}
+
+12412 = {
+	name="Tarabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11045.1.1={
+		birth=yes
+	}
+	11085.1.1={
+		death=yes
+	}
+}
+
+12413 = {
+	name="Harshadeva"
+	dynasty=19119 #Suryavamsa
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12411
+	mother=12412
+	11065.1.1={
+		birth=yes
+	}
+	11085.1.1={
+		add_spouse=12414
+	}
+	11098.1.1={
+		death=yes
+	}
+}
+
+12414 = {
+	name="Yesubai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11065.1.1={
+		birth=yes
+	}
+	11098.1.1={
+		death=yes
+	}
+}
+
+#Malla Dynasty
+
+12415 = {
+	name="Arideva"
+	dynasty=19120 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	11170.1.1={
+		birth=yes
+	}
+	11190.1.1={
+		add_spouse=12416
+	}
+	11215.1.1={
+		death=yes
+	}
+}
+
+12416 = {
+	name="Ahilyabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11170.1.1={
+		birth=yes
+	}
+	11215.1.1={
+		death=yes
+	}
+}
+
+12417 = {
+	name="Ranasura"
+	dynasty=19120 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12415
+	mother=12416
+	11190.1.1={
+		birth=yes
+	}
+	11210.1.1={
+		add_spouse=12418
+	}
+	11216.1.1={
+		death=yes
+	}
+}
+
+12418 = {
+	name="Ambikabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11190.1.1={
+		birth=yes
+	}
+	11216.1.1={
+		death=yes
+	}
+}
+
+12419 = {
+	name="Abhaya"
+	dynasty=19120 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12415
+	mother=12416
+	11191.1.1={
+		birth=yes
+	}
+	11211.1.1={
+		add_spouse=12420
+	}
+	11255.1.1={
+		death=yes
+	}
+}
+
+12420 = {
+	name="Anandibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11191.1.1={
+		birth=yes
+	}
+	11255.1.1={
+		death=yes
+	}
+}
+
+12421 = {
+	name="Jayadeva"
+	dynasty=19120 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12419
+	mother=12420
+	11211.1.1={
+		birth=yes
+	}
+	11231.1.1={
+		add_spouse=12422
+	}
+	11260.1.1={
+		death=yes
+	}
+}
+
+12422 = {
+	name="Anubai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11211.1.1={
+		birth=yes
+	}
+	11260.1.1={
+		death=yes
+	}
+}
+
+12423 = {
+	name="Jayabhimadeva"
+	dynasty=19120 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12421
+	mother=12422
+	11231.1.1={
+		birth=yes
+	}
+	11247.1.1={
+		add_spouse=12424
+	}
+	11271.1.1={
+		death=yes
+	}
+}
+
+12424 = {
+	name="Bhiubai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11231.1.1={
+		birth=yes
+	}
+	11271.1.1={
+		death=yes
+	}
+}
+
+12425 = {
+	name="Jayasimha"
+	dynasty=19120 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12423
+	mother=12424
+	11247.1.1={
+		birth=yes
+	}
+	11263.1.1={
+		add_spouse=12426
+	}
+	11274.1.1={
+		death=yes
+	}
+}
+
+12426 = {
+	name="Deepabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11247.1.1={
+		birth=yes
+	}
+	11274.1.1={
+		death=yes
+	}
+}
+
+12427 = {
+	name="Ananta"
+	dynasty=19120 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12425
+	mother=12426
+	11263.1.1={
+		birth=yes
+	}
+	11279.1.1={
+		add_spouse=12428
+	}
+	11310.1.1={
+		death=yes
+	}
+}
+
+12428 = {
+	name="Durgabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11263.1.1={
+		birth=yes
+	}
+	11310.1.1={
+		death=yes
+	}
+}
+
+12429 = {
+	name="Jayananadadeva"
+	dynasty=19120 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12427
+	mother=12428
+	11279.1.1={
+		birth=yes
+	}
+	11295.1.1={
+		add_spouse=12430
+	}
+	11320.1.1={
+		death=yes
+	}
+}
+
+12430 = {
+	name="Gangabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11279.1.1={
+		birth=yes
+	}
+	11320.1.1={
+		death=yes
+	}
+}
+
+12433 = {
+	name="Jayarudra"
+	dynasty=19120 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12429
+	mother=12430
+	11295.1.1={
+		birth=yes
+	}
+	11311.1.1={
+		add_spouse=12434
+	}
+	11326.1.1={
+		death=yes
+	}
+}
+
+12434 = {
+	name="Jankibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11295.1.1={
+		birth=yes
+	}
+	11326.1.1={
+		death=yes
+	}
+}
+
+12431 = {
+	name="Jayari"
+	dynasty=19120 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12429
+	mother=12430
+	11296.1.1={
+		birth=yes
+	}
+	11312.1.1={
+		add_spouse=12432
+	}
+	11344.1.1={
+		death=yes
+	}
+}
+
+12432 = {
+	name="Gunvantibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11296.1.1={
+		birth=yes
+	}
+	11344.1.1={
+		death=yes
+	}
+}
+
+12435 = {
+	name="Jayari"
+	dynasty=19120 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12431
+	mother=12432
+	11312.1.1={
+		birth=yes
+	}
+	11328.1.1={
+		add_spouse=12436
+	}
+	11361.1.1={
+		death=yes
+	}
+}
+
+12436 = {
+	name="Jijibai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11312.1.1={
+		birth=yes
+	}
+	11361.1.1={
+		death=yes
+	}
+}
+
+12437 = {
+	name="Jayarjuna"
+	dynasty=19120 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12435
+	mother=12436
+	11328.1.1={
+		birth=yes
+	}
+	11344.1.1={
+		add_spouse=12438
+	}
+	11382.1.1={
+		death=yes
+	}
+}
+
+12438 = {
+	name="Kamlabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11328.1.1={
+		birth=yes
+	}
+	11382.1.1={
+		death=yes
+	}
+}
+
+12369 = {
+	name="Anandadeva"
+	dynasty=19120 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=12419
+	mother=12420
+	11212.1.1={
+		birth=yes
+	}
+	11232.1.1={
+		add_spouse=12371
+	}
+	11260.1.1={
+		death=yes
+	}
+}
+
+12371 = {
+	name="Gangabai"
+	female=yes
+	religion="shaivism"
+	culture="nepali"
+	
+	11212.1.1={
+		birth=yes
+	}
+	11260.1.1={
+		death=yes
+	}
+}
+
+
+12440 = {
+	name="Tiray" # Fictional
+	dynasty=19136
+	
+	culture = nepali
+	religion = vajrayana
+	
+	10840.1.1={
+		birth=yes
+	}
+	10910.1.1={
+		death=yes
+	}
+}
+
+12441 = {
+	name="Vishal" # Fictional
+	dynasty=19137
+	
+	culture = nepali
+	religion = vajrayana
+	
+	11045.1.1={
+		birth=yes
+	}
+	11110.1.1={
+		death=yes
+	}
+}
+
+247080 = {
+	name="Bhrikuti_Devi"
+	female=yes
+	dynasty=105817 #Licchavi
+	religion="mahayana"
+	culture="nepali"
+	trait=beauty_good_2
+	father=247423
+	10606.1.1={
+		birth=yes
+	}
+	10651.1.1={
+		death=yes
+	}
+}
+
+247113 = {
+	name="Sakya_Devi" #Tantric consort of Padmasambhava
+	female=yes
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247430
+	10740.1.1={
+		birth=yes
+	}
+	10815.1.1={
+		death=yes
+	}
+}
+
+#Licchavi Dynasty
+
+247408 = {
+	name="Sankaradeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	10400.1.1={
+		birth=yes
+	}
+	10450.1.1={
+		death=yes
+	}
+}
+
+247409 = {
+	name="Dharmadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247408
+	10420.1.1={
+		birth=yes
+	}
+	10464.1.1={
+		death=yes
+	}
+}
+
+247410 = {
+	name="Manadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247409
+	10440.1.1={
+		birth=yes
+	}
+	10505.1.1={
+		death=yes
+	}
+}
+
+247411 = {
+	name="Mahideva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247410
+	10460.1.1={
+		birth=yes
+	}
+	10506.1.1={
+		death=yes
+	}
+}
+
+247412 = {
+	name="Vasantadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247411
+	10480.1.1={
+		birth=yes
+	}
+	10532.1.1={
+		death=yes
+	}
+}
+
+247413 = {
+	name="Manudeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247412
+	10496.1.1={
+		birth=yes
+	}
+	10538.1.1={
+		death=yes
+	}
+}
+
+247414 = {
+	name="Vamanadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247413
+	10512.1.1={
+		birth=yes
+	}
+	10545.1.1={
+		death=yes
+	}
+}
+
+247415 = {
+	name="Ramadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247414
+	10528.1.1={
+		birth=yes
+	}
+	10550.1.1={
+		death=yes
+	}
+}
+
+247416 = {
+	name="Amaradeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247414
+	10529.1.1={
+		birth=yes
+	}
+	10555.1.1={
+		death=yes
+	}
+}
+
+247417 = {
+	name="Gunakamadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247414
+	10530.1.1={
+		birth=yes
+	}
+	10560.1.1={
+		death=yes
+	}
+}
+
+247418 = {
+	name="Ganadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247414
+	10531.1.1={
+		birth=yes
+	}
+	10567.1.1={
+		death=yes
+	}
+}
+
+247419 = {
+	name="Gangadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247414
+	10532.1.1={
+		birth=yes
+	}
+	10573.1.1={
+		death=yes
+	}
+}
+
+247420 = {
+	name="Manadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247414
+	10533.1.1={
+		birth=yes
+	}
+	10590.1.1={
+		death=yes
+	}
+}
+
+247421 = {
+	name="Shivadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247420
+	10549.1.1={
+		birth=yes
+	}
+	10604.1.1={
+		death=yes
+	}
+}
+
+247422 = {
+	name="Amshuvarman"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247421
+	10565.1.1={
+		birth=yes
+	}
+	10621.1.1={
+		death=yes
+	}
+}
+
+247423 = {
+	name="Udayadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247422
+	10581.1.1={
+		birth=yes
+	}
+	10624.1.1={
+		death=yes
+	}
+}
+
+247424 = {
+	name="Dhruvadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247422
+	10582.1.1={
+		birth=yes
+	}
+	10625.1.1={
+		death=yes
+	}
+}
+
+247425 = {
+	name="Bhimarjunadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247424
+	10598.1.1={
+		birth=yes
+	}
+	10643.1.1={
+		death=yes
+	}
+}
+
+247426 = {
+	name="Narendradeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247423
+	10614.1.1={
+		birth=yes
+	}
+	10679.1.1={
+		death=yes
+	}
+}
+
+247427 = {
+	name="Shivadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247426
+	10630.1.1={
+		birth=yes
+	}
+	10705.1.1={
+		death=yes
+	}
+}
+
+247428 = {
+	name="Jayadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247427
+	10660.1.1={
+		birth=yes
+	}
+	10733.1.1={
+		death=yes
+	}
+}
+
+247429 = {
+	name="Sankaradeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247428
+	10680.1.1={
+		birth=yes
+	}
+	10749.1.1={
+		death=yes
+	}
+}
+
+247430 = {
+	name="Manadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247429
+	10700.1.1={
+		birth=yes
+	}
+	10756.1.1={
+		death=yes
+	}
+}
+
+247431 = {
+	name="Baliraja"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247430
+	10746.1.1={
+		birth=yes
+	}
+	10826.1.1={
+		death=yes
+	}
+}
+
+247432 = {
+	name="Baladeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247431
+	10766.1.1={
+		birth=yes
+	}
+	10847.1.1={
+		death=yes
+	}
+}
+
+247433 = {
+	name="Manadeva"
+	dynasty=105817 #Licchavi
+	religion="vajrayana"
+	culture="nepali"
+	father=247432
+	10810.1.1={
+		birth=yes
+	}
+	10879.1.1={
+		death=yes
+	}
+}
+
+#Thakuri Dynasty
+
+247434 = {
+	name="Raghadeva"
+	dynasty=105839 #Thakuri
+	religion="vajrayana"
+	culture="nepali"
+	10840.1.1={
+		birth=yes
+	}
+	10900.1.1={
+		death=yes
+	}
+}
+
+247435 = {
+	name="Sankaradeva"
+	dynasty=105839 #Thakuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247434
+	10870.1.1={
+		birth=yes
+	}
+	10930.1.1={
+		death=yes
+	}
+}
+
+247436 = {
+	name="Sahadeva"
+	dynasty=105839 #Thakuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247435
+	10900.1.1={
+		birth=yes
+	}
+	10960.1.1={
+		death=yes
+	}
+}
+
+247437 = {
+	name="Vikramadeva"
+	dynasty=105839 #Thakuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247436
+	10930.1.1={
+		birth=yes
+	}
+	10980.1.1={
+		death=yes
+	}
+}
+
+247438 = {
+	name="Gunakamadeva"
+	dynasty=105839 #Thakuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247437
+	10950.1.1={
+		birth=yes
+	}
+	10998.1.1={
+		death=yes
+	}
+}
+
+247439 = {
+	name="Narendradeva"
+	dynasty=105839 #Thakuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247438
+	10966.1.1={
+		birth=yes
+	}
+	10999.1.1={
+		death=yes
+	}
+}
+
+247440 = {
+	name="Udayadeva"
+	dynasty=105839 #Thakuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247438
+	10967.1.1={
+		birth=yes
+	}
+	11004.1.1={
+		death=yes
+	}
+}
+
+247441 = {
+	name="Nirbhayadeva"
+	dynasty=105839 #Thakuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247440
+	10983.1.1={
+		birth=yes
+	}
+	11007.1.1={
+		death=yes
+	}
+}
+
+247442 = {
+	name="Rudradeva"
+	dynasty=105839 #Thakuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247441
+	10999.1.1={
+		birth=yes
+	}
+	11009.1.1={
+		death=yes
+	}
+}
+
+247443 = {
+	name="Bhojadeva"
+	dynasty=105839 #Thakuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247441
+	11000.1.1={
+		birth=yes
+	}
+	11010.1.1={
+		death=yes
+	}
+}
+
+247444 = {
+	name="Laksmikadeva"
+	dynasty=105839 #Thakuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247441
+	11001.1.1={
+		birth=yes
+	}
+	11041.1.1={
+		death=yes
+	}
+}
+
+247445 = {
+	name="Vijayakamadeva"
+	dynasty=105839 #Thakuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247444
+	11017.1.1={
+		birth=yes
+	}
+	11037.1.1={
+		death=yes
+	}
+}
+
+#Nuwakot Thakuri Dynasty
+
+247446 = {
+	name="Bhaskaradeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	10990.1.1={
+		birth=yes
+	}
+	11048.1.1={
+		death=yes
+	}
+}
+
+247447 = {
+	name="Yisadeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247446
+	11006.1.1={
+		birth=yes
+	}
+	11049.1.1={
+		death=yes
+	}
+}
+
+247448 = {
+	name="Baladeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247446
+	11007.1.1={
+		birth=yes
+	}
+	11060.1.1={
+		death=yes
+	}
+}
+
+247449 = {
+	name="Pradymnakamadeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247448
+	11023.1.1={
+		birth=yes
+	}
+	11066.1.1={
+		death=yes
+	}
+}
+
+247450 = {
+	name="Nagarjunadeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247449
+	11039.1.1={
+		birth=yes
+	}
+	11069.1.1={
+		death=yes
+	}
+}
+
+247451 = {
+	name="Sankaradeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247450
+	11055.1.1={
+		birth=yes
+	}
+	11082.1.1={
+		death=yes
+	}
+}
+
+247452 = {
+	name="Shivadeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247451
+	11071.1.1={
+		birth=yes
+	}
+	11126.1.1={
+		death=yes
+	}
+}
+
+247453 = {
+	name="Indradeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247452
+	11087.1.1={
+		birth=yes
+	}
+	11136.1.1={
+		death=yes
+	}
+}
+
+247454 = {
+	name="Manadeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247453
+	11103.1.1={
+		birth=yes
+	}
+	11140.1.1={
+		death=yes
+	}
+}
+
+247455 = {
+	name="Narendradeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247454
+	11119.1.1={
+		birth=yes
+	}
+	11147.1.1={
+		death=yes
+	}
+}
+
+247456 = {
+	name="Anandadeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247455
+	11135.1.1={
+		birth=yes
+	}
+	11167.1.1={
+		death=yes
+	}
+}
+
+247457 = {
+	name="Mahendradeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247452
+	11088.1.1={
+		birth=yes
+	}
+	11140.1.1={
+		death=yes
+	}
+}
+
+247458 = {
+	name="Rudradeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247457
+	11114.1.1={
+		birth=yes
+	}
+	11175.1.1={
+		death=yes
+	}
+}
+
+247720 = {
+	name="Amritadeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247458
+	11140.1.1={
+		birth=yes
+	}
+	11178.1.1={
+		death=yes
+	}
+}
+
+247459 = {
+	name="Somesvaradeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247457
+	11115.1.1={
+		birth=yes
+	}
+	11184.1.1={
+		death=yes
+	}
+}
+
+247460 = {
+	name="Gunakamadeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247459
+	11135.1.1={
+		birth=yes
+	}
+	11192.1.1={
+		death=yes
+	}
+}
+
+247461 = {
+	name="Laksmikadeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247460
+	11155.1.1={
+		birth=yes
+	}
+	11197.1.1={
+		death=yes
+	}
+}
+
+247462 = {
+	name="Vijayakamadeva"
+	dynasty=105840 #Nuwakot Thakuri
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247460
+	11156.1.1={
+		birth=yes
+	}
+	11200.1.1={
+		death=yes
+	}
+}
+
+#Suryavamsa Dynasty
+
+247463 = {
+	name="Vamadeva"
+	dynasty=105841 #Suryavamsa
+	religion="shaivism"
+	culture="nepali"
+	
+	11045.1.1={
+		birth=yes
+	}
+	11085.1.1={
+		death=yes
+	}
+}
+
+247464 = {
+	name="Harshadeva"
+	dynasty=105841 #Suryavamsa
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247463
+	11065.1.1={
+		birth=yes
+	}
+	11098.1.1={
+		death=yes
+	}
+}
+
+#Malla Dynasty
+
+247465 = {
+	name="Arideva"
+	dynasty=105842 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	11170.1.1={
+		birth=yes
+	}
+	11215.1.1={
+		death=yes
+	}
+}
+
+247466 = {
+	name="Ranasura"
+	dynasty=105842 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247465
+	11190.1.1={
+		birth=yes
+	}
+	11216.1.1={
+		death=yes
+	}
+}
+
+247467 = {
+	name="Abhaya"
+	dynasty=105842 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247465
+	11191.1.1={
+		birth=yes
+	}
+	11255.1.1={
+		death=yes
+	}
+}
+
+247468 = {
+	name="Jayadeva"
+	dynasty=105842 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247467
+	11211.1.1={
+		birth=yes
+	}
+	11260.1.1={
+		death=yes
+	}
+}
+
+247469 = {
+	name="Jayabhimadeva"
+	dynasty=105842 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247468
+	11231.1.1={
+		birth=yes
+	}
+	11271.1.1={
+		death=yes
+	}
+}
+
+247470 = {
+	name="Jayasimha"
+	dynasty=105842 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247469
+	11247.1.1={
+		birth=yes
+	}
+	11274.1.1={
+		death=yes
+	}
+}
+
+247471 = {
+	name="Ananta"
+	dynasty=105842 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247470
+	11263.1.1={
+		birth=yes
+	}
+	11310.1.1={
+		death=yes
+	}
+}
+
+247472 = {
+	name="Jayananadadeva"
+	dynasty=105842 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247471
+	11279.1.1={
+		birth=yes
+	}
+	11320.1.1={
+		death=yes
+	}
+}
+
+247473 = {
+	name="Jayarudra"
+	dynasty=105842 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247472
+	11295.1.1={
+		birth=yes
+	}
+	11326.1.1={
+		death=yes
+	}
+}
+
+247474 = {
+	name="Jayari"
+	dynasty=105842 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247472
+	11296.1.1={
+		birth=yes
+	}
+	11344.1.1={
+		death=yes
+	}
+}
+
+247475 = {
+	name="Jayari"
+	dynasty=105842 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247474
+	11312.1.1={
+		birth=yes
+	}
+	11361.1.1={
+		death=yes
+	}
+}
+
+247476 = {
+	name="Jayarjuna"
+	dynasty=105842 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247475
+	11328.1.1={
+		birth=yes
+	}
+	11382.1.1={
+		death=yes
+	}
+}
+
+247477 = {
+	name="Anandadeva"
+	dynasty=105842 #Malla
+	religion="shaivism"
+	culture="nepali"
+	
+	father=247467
+	11212.1.1={
+		birth=yes
+	}
+	11260.1.1={
+		death=yes
+	}
+}
+
+#Katyuri dynasty
+
+247112 = {
+	name="Kalasiddhi" #Tantric consort of Padmasambhava
+	female=yes
+	dynasty=105826 #Katyuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247481
+	10735.1.1={
+		birth=yes
+	}
+	10803.1.1={
+		death=yes
+	}
+}
+
+247478 = {
+	name="Vashudeva"
+	dynasty=105826 #Katyuri
+	religion="vajrayana"
+	culture="nepali"
+	10586.1.1={
+		birth=yes
+	}
+	10658.1.1={
+		death=yes
+	}
+}
+247479 = {
+	name="Ashokdeva"
+	dynasty=105826 #Katyuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247478
+	10612.1.1={
+		birth=yes
+	}
+	10684.1.1={
+		death=yes
+	}
+}
+247480 = {
+	name="Rawatdeva"
+	dynasty=105826 #Katyuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247479
+	10640.1.1={
+		birth=yes
+	}
+	10716.1.1={
+		death=yes
+	}
+}
+247481 = {
+	name="Basudeva"
+	dynasty=105826 #Katyuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247480
+	10700.1.1={
+		birth=yes
+	}
+	10776.1.1={
+		death=yes
+	}
+}
+247482 = {
+	name="Brahmadeva"
+	dynasty=105826 #Katyuri
+	religion="vajrayana"
+	culture="nepali"
+	father=247481
+	10765.1.1={
+		birth=yes
+	}
+	10810.1.1={
+		religion="shaivism"
+	
+	}
+	10850.1.1={
+		death=yes
+	}
+}
+
+247483 = {
+	name="Basantadeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247482
+	10810.1.1={
+		birth=yes
+	}
+	10870.1.1={
+		death=yes
+	}
+}
+
+247484 = {
+	name="Kharparadeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247483
+	10830.1.1={
+		birth=yes
+	}
+	10880.1.1={
+		death=yes
+	}
+}
+
+247485 = {
+	name="Abhirajadeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247484
+	10850.1.1={
+		birth=yes
+	}
+	10890.1.1={
+		death=yes
+	}
+}
+
+247486 = {
+	name="Tribhuvanarajadeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247485
+	10870.1.1={
+		birth=yes
+	}
+	10900.1.1={
+		death=yes
+	}
+}
+
+247487 = {
+	name="Nimbartadeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247484
+	10860.1.1={
+		birth=yes
+	}
+	10915.1.1={
+		death=yes
+	}
+}
+
+247488 = {
+	name="Ishtaganadeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247487
+	10880.1.1={
+		birth=yes
+	}
+	10930.1.1={
+		death=yes
+	}
+}
+
+247489 = {
+	name="Lalitansuradeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247488
+	10900.1.1={
+		birth=yes
+	}
+	10955.1.1={
+		death=yes
+	}
+}
+
+247490 = {
+	name="Bhudeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247489
+	10920.1.1={
+		birth=yes
+	}
+	10970.1.1={
+		death=yes
+	}
+}
+247491 = {
+	name="Salonaditya"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	10910.1.1={
+		birth=yes
+	}
+	10985.1.1={
+		death=yes
+	}
+}
+
+247492 = {
+	name="Ichchhatadeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247491
+	10930.1.1={
+		birth=yes
+	}
+	11000.1.1={
+		death=yes
+	}
+}
+
+247493 = {
+	name="Deshtadeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247492
+	10950.1.1={
+		birth=yes
+	}
+	11015.1.1={
+		death=yes
+	}
+}
+
+247494 = {
+	name="Padmatadeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247493
+	10966.1.1={
+		birth=yes
+	}
+	11045.1.1={
+		death=yes
+	}
+}
+
+247495 = {
+	name="Subhikshrajyadeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247494
+	10982.1.1={
+		birth=yes
+	}
+	11060.1.1={
+		death=yes
+	}
+}
+
+247496 = {
+	name="Narsinghdeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247495
+	10998.1.1={
+		birth=yes
+	}
+	11061.1.1={
+		death=yes
+	}
+}
+
+247497 = {
+	name="Pritamdeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247496
+	11014.1.1={
+		birth=yes
+	}
+	11062.1.1={
+		death=yes
+	}
+}
+
+247498 = {
+	name="Dhamdeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247497
+	11030.1.1={
+		birth=yes
+	}
+	11064.1.1={
+		death=yes
+	}
+}
+
+247499 = {
+	name="Biradeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247497
+	11032.1.1={
+		birth=yes
+	}
+	11065.1.1={
+		death=yes
+	}
+}
+
+247500 = {
+	name="Tribhuvanpal"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247499
+	11048.1.1={
+		birth=yes
+	}
+	11070.1.1={
+		death=yes
+	}
+}
+
+247501 = {
+	name="Indrapal"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247500
+	11068.1.1={
+		birth=yes
+	}
+	11090.1.1={
+		death=yes
+	}
+}
+
+247502 = {
+	name="Lakhanpal"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247501
+	11084.1.1={
+		birth=yes
+	}
+	11152.1.1={
+		death=yes
+	}
+}
+
+247503 = {
+	name="Udayapaldeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247502
+	11104.1.1={
+		birth=yes
+	}
+	11181.1.1={
+		death=yes
+	}
+}
+
+247504 = {
+	name="Ananatpaldeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247503
+	11124.1.1={
+		birth=yes
+	}
+	11202.1.1={
+		death=yes
+	}
+}
+
+247505 = {
+	name="Indrapaldeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247504
+	11144.1.1={
+		birth=yes
+	}
+	11214.1.1={
+		death=yes
+	}
+}
+
+247506 = {
+	name="Vijayapaldeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247505
+	11164.1.1={
+		birth=yes
+	}
+	11220.1.1={
+		death=yes
+	}
+}
+
+247507 = {
+	name="Lakshamanpaldeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247506
+	11184.1.1={
+		birth=yes
+	}
+	11223.1.1={
+		death=yes
+	}
+}
+
+247508 = {
+	name="Vallaldeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247507
+	11204.1.1={
+		birth=yes
+	}
+	11250.1.1={
+		death=yes
+	}
+}
+
+247509 = {
+	name="Trilokpal"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247499
+	11063.1.1={
+		birth=yes
+	}
+	11150.1.1={
+		death=yes
+	}
+}
+
+247510 = {
+	name="Abhayapala"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247509
+	11140.1.1={
+		birth=yes
+	}
+	11230.1.1={
+		death=yes
+	}
+}
+
+247511 = {
+	name="Nirbhaypal"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247510
+	11200.1.1={
+		birth=yes
+	}
+	11280.1.1={
+		death=yes
+	}
+}
+
+247512 = {
+	name="Bharatpal"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247511
+	11260.1.1={
+		birth=yes
+	}
+	11340.1.1={
+		death=yes
+	}
+}
+
+247513 = {
+	name="Bhaironpal"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247512
+	11290.1.1={
+		birth=yes
+	}
+	11360.1.1={
+		death=yes
+	}
+}
+
+247514 = {
+	name="Bhupal"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247513
+	11310.1.1={
+		birth=yes
+	}
+	11380.1.1={
+		death=yes
+	}
+}
+
+247515 = {
+	name="Ratanpal"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247514
+	11330.1.1={
+		birth=yes
+	}
+	11400.1.1={
+		death=yes
+	}
+}
+
+247516 = {
+	name="Niranjanmalladeva"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247509
+	11141.1.1={
+		birth=yes
+	}
+	11231.1.1={
+		death=yes
+	}
+}
+
+247517 = {
+	name="Nagimalla"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247516
+	11200.1.1={
+		birth=yes
+	}
+	11279.1.1={
+		death=yes
+	}
+}
+
+247518 = {
+	name="Ripumalla"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247517
+	11260.1.1={
+		birth=yes
+	}
+	11353.1.1={
+		death=yes
+	}
+}
+
+247519 = {
+	name="Niraipal"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247518
+	11310.1.1={
+		birth=yes
+	}
+	11384.1.1={
+		death=yes
+	}
+}
+
+247520 = {
+	name="Nagmalla"
+	dynasty=105826 #Katyuri
+	religion="shaivism"
+	culture="nepali"
+
+	father=247519
+	11330.1.1={
+		birth=yes
+	}
+	11400.1.1={
+		death=yes
+	}
+}
+
+#Chand Dynasty
+
+247521 = {
+	name="Soma"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	10913.1.1={
+		birth=yes
+	}
+	10975.1.1={
+		death=yes
+	}
+}
+
+247522 = {
+	name="Atma"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247521
+	10929.1.1={
+		birth=yes
+	}
+	10982.1.1={
+		death=yes
+	}
+}
+
+247523 = {
+	name="Purana"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247522
+	10945.1.1={
+		birth=yes
+	}
+	11000.1.1={
+		death=yes
+	}
+}
+
+247524 = {
+	name="Indra"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247523
+	10961.1.1={
+		birth=yes
+	}
+	11010.1.1={
+		death=yes
+	}
+}
+
+247525 = {
+	name="Sonsar"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247524
+	10977.1.1={
+		birth=yes
+	}
+	11028.1.1={
+		death=yes
+	}
+}
+
+247526 = {
+	name="Sudha"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247525
+	10993.1.1={
+		birth=yes
+	}
+	11038.1.1={
+		death=yes
+	}
+}
+
+247527 = {
+	name="Hammira"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247526
+	11009.1.1={
+		birth=yes
+	}
+	11055.1.1={
+		death=yes
+	}
+}
+
+247528 = {
+	name="Bina"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247527
+	11025.1.1={
+		birth=yes
+	}
+	11067.1.1={
+		death=yes
+	}
+}
+
+247529 = {
+	name="Soma"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247525
+	10994.1.1={
+		birth=yes
+	}
+	11030.1.1={
+		death=yes
+	}
+}
+
+247530 = {
+	name="Bira"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247529
+	11010.1.1={
+		birth=yes
+	}
+	11080.1.1={
+		death=yes
+	}
+}
+
+247531 = {
+	name="Rupa"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247530
+	11030.1.1={
+		birth=yes
+	}
+	11100.1.1={
+		death=yes
+	}
+}
+
+247532 = {
+	name="Lachchhmi"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247531
+	11050.1.1={
+		birth=yes
+	}
+	11108.1.1={
+		death=yes
+	}
+}
+
+247533 = {
+	name="Dharma"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247532
+	11070.1.1={
+		birth=yes
+	}
+	11127.1.1={
+		death=yes
+	}
+}
+
+247534 = {
+	name="Karma"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247533
+	11090.1.1={
+		birth=yes
+	}
+	11136.1.1={
+		death=yes
+	}
+}
+
+247535 = {
+	name="Kalyan"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247534
+	11110.1.1={
+		birth=yes
+	}
+	11157.1.1={
+		death=yes
+	}
+}
+
+247536 = {
+	name="Nirbhaya"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247535
+	11126.1.1={
+		birth=yes
+	}
+	11164.1.1={
+		death=yes
+	}
+}
+
+247537 = {
+	name="Nara"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247536
+	11142.1.1={
+		birth=yes
+	}
+	11182.1.1={
+		death=yes
+	}
+}
+
+247538 = {
+	name="Nanaki"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247537
+	11158.1.1={
+		birth=yes
+	}
+	11213.1.1={
+		death=yes
+	}
+}
+
+247539 = {
+	name="Rama"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247538
+	11174.1.1={
+		birth=yes
+	}
+	11220.1.1={
+		death=yes
+	}
+}
+
+247540 = {
+	name="Bhikma"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247539
+	11190.1.1={
+		birth=yes
+	}
+	11239.1.1={
+		death=yes
+	}
+}
+
+247541 = {
+	name="Megha"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247540
+	11206.1.1={
+		birth=yes
+	}
+	11248.1.1={
+		death=yes
+	}
+}
+
+247542 = {
+	name="Dhyana"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247541
+	11222.1.1={
+		birth=yes
+	}
+	11262.1.1={
+		death=yes
+	}
+}
+
+247543 = {
+	name="Parbata"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247542
+	11238.1.1={
+		birth=yes
+	}
+	11283.1.1={
+		death=yes
+	}
+}
+
+247544 = {
+	name="Thohar"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247543
+	11254.1.1={
+		birth=yes
+	}
+	11290.1.1={
+		death=yes
+	}
+}
+
+247545 = {
+	name="Kalyan"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247544
+	11270.1.1={
+		birth=yes
+	}
+	11308.1.1={
+		death=yes
+	}
+}
+
+247546 = {
+	name="Guru-Gyan"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247545
+	11286.1.1={
+		birth=yes
+	}
+	11318.1.1={
+		death=yes
+	}
+}
+
+247547 = {
+	name="Udhyan"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247546
+	11302.1.1={
+		birth=yes
+	}
+	11335.1.1={
+		death=yes
+	}
+}
+
+247548 = {
+	name="Atma"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247547
+	11318.1.1={
+		birth=yes
+	}
+	11343.1.1={
+		death=yes
+	}
+}
+
+247549 = {
+	name="Triloki"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247547
+	11319.1.1={
+		birth=yes
+	}
+	11350.1.1={
+		death=yes
+	}
+}
+
+247550 = {
+	name="Damara"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247547
+	11320.1.1={
+		birth=yes
+	}
+	11363.1.1={
+		death=yes
+	}
+}
+
+247551 = {
+	name="Dharma"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247547
+	11321.1.1={
+		birth=yes
+	}
+	11380.1.1={
+		death=yes
+	}
+}
+
+247552 = {
+	name="Abhaya"
+	dynasty=105843 #Chand
+	religion="shaivism"
+	culture="nepali"
+
+	father=247551
+	11337.1.1={
+		birth=yes
+	}
+	11391.1.1={
+		death=yes
+	}
+}
+
+#Parmar Dynasty
+247582 = {
+	name="Kanakpal"
+	dynasty=105845 #Parmar
+	religion="vajrayana"
+	culture="nepali"
+	10640.1.1={
+		birth=yes
+	}
+	10699.1.1={
+		death=yes
+	}
+}
+
+247583 = {
+	name="Shyampal"
+	dynasty=105845 #Parmar
+	religion="vajrayana"
+	culture="nepali"
+	father=247582
+	10674.1.1={
+		birth=yes
+	}
+	10725.1.1={
+		death=yes
+	}
+}
+
+247584 = {
+	name="Padupal"
+	dynasty=105845 #Parmar
+	religion="vajrayana"
+	culture="nepali"
+	father=247583
+	10701.1.1={
+		birth=yes
+	}
+	10756.1.1={
+		death=yes
+	}
+}
+
+247585 = {
+	name="Abhigatpal"
+	dynasty=105845 #Parmar
+	religion="vajrayana"
+	culture="nepali"
+	father=247584
+	10728.1.1={
+		birth=yes
+	}
+	10781.1.1={
+		death=yes
+	}
+}
+
+247586 = {
+	name="Saugatpal"
+	dynasty=105845 #Parmar
+	religion="vajrayana"
+	culture="nepali"
+	father=247585
+	10753.1.1={
+		birth=yes
+	}
+	10800.1.1={
+		death=yes
+	}
+}
+
+247587 = {
+	name="Ratanpal"
+	dynasty=105845 #Parmar
+	religion="vajrayana"
+	culture="nepali"
+	father=247585
+	10780.1.1={
+		birth=yes
+	}
+	10810.1.1={
+		religion="shaivism"
+	
+	}
+	10850.1.1={
+		death=yes
+	}
+}
+
+247588 = {
+	name="Saalipal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247587
+	10841.1.1={
+		birth=yes
+	}
+	10858.1.1={
+		death=yes
+	}
+}
+
+247589 = {
+	name="Vidhipal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247588
+	10857.1.1={
+		birth=yes
+	}
+	10878.1.1={
+		death=yes
+	}
+}
+
+247590 = {
+	name="Madanpal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247589
+	10875.1.1={
+		birth=yes
+	}
+	10895.1.1={
+		death=yes
+	}
+}
+
+247591 = {
+	name="Bhaktipal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247590
+	10891.1.1={
+		birth=yes
+	}
+	10920.1.1={
+		death=yes
+	}
+}
+
+247592 = {
+	name="Jaychandpal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247591
+	10907.1.1={
+		birth=yes
+	}
+	10949.1.1={
+		death=yes
+	}
+}
+
+247593 = {
+	name="Prithveepal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247592
+	10927.1.1={
+		birth=yes
+	}
+	10973.1.1={
+		death=yes
+	}
+}
+
+247594 = {
+	name="Mednisenpal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247593
+	10965.1.1={
+		birth=yes
+	}
+	10995.1.1={
+		death=yes
+	}
+}
+
+247595 = {
+	name="Agastipal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247594
+	10982.1.1={
+		birth=yes
+	}
+	11015.1.1={
+		death=yes
+	}
+}
+
+247596 = {
+	name="Suratipal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247595
+	11001.1.1={
+		birth=yes
+	}
+	11037.1.1={
+		death=yes
+	}
+}
+
+247597 = {
+	name="Jaypal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247596
+	11037.1.1={
+		birth=yes
+	}
+	11056.1.1={
+		death=yes
+	}
+}
+
+247598 = {
+	name="Anantpal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247597
+	11058.1.1={
+		birth=yes
+	}
+	11072.1.1={
+		death=yes
+	}
+}
+
+247599 = {
+	name="Anandpal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247597
+	11064.1.1={
+		birth=yes
+	}
+	11084.1.1={
+		death=yes
+	}
+}
+
+247600 = {
+	name="Vibhogpal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247599
+	11080.1.1={
+		birth=yes
+	}
+	11102.1.1={
+		death=yes
+	}
+}
+
+247601 = {
+	name="Suvayaanupal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247600
+	11096.1.1={
+		birth=yes
+	}
+	11116.1.1={
+		death=yes
+	}
+}
+
+247602 = {
+	name="Vikrampal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247600
+	11100.1.1={
+		birth=yes
+	}
+	11131.1.1={
+		death=yes
+	}
+}
+
+247603 = {
+	name="Vichitrpal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247602
+	11116.1.1={
+		birth=yes
+	}
+	11141.1.1={
+		death=yes
+	}
+}
+
+247604 = {
+	name="Hanspal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247603
+	11132.1.1={
+		birth=yes
+	}
+	11152.1.1={
+		death=yes
+	}
+}
+
+247605 = {
+	name="Sonpal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247602
+	11126.1.1={
+		birth=yes
+	}
+	11159.1.1={
+		death=yes
+	}
+}
+
+247606 = {
+	name="Kaadilpal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247605
+	11143.1.1={
+		birth=yes
+	}
+	11172.1.1={
+		death=yes
+	}
+}
+
+247607 = {
+	name="Kamdevpal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247605
+	11155.1.1={
+		birth=yes
+	}
+	11179.1.1={
+		death=yes
+	}
+}
+
+247608 = {
+	name="Sulakshandev"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247607
+	11171.1.1={
+		birth=yes
+	}
+	11197.1.1={
+		death=yes
+	}
+}
+
+247609 = {
+	name="Lakhandev"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247608
+	11188.1.1={
+		birth=yes
+	}
+	11220.1.1={
+		death=yes
+	}
+}
+
+247610 = {
+	name="Anandpal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247609
+	11212.1.1={
+		birth=yes
+	}
+	11241.1.1={
+		death=yes
+	}
+}
+
+247611 = {
+	name="Purvdev"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247610
+	11229.1.1={
+		birth=yes
+	}
+	11260.1.1={
+		death=yes
+	}
+}
+
+247612 = {
+	name="Abhaydev"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247611
+	11245.1.1={
+		birth=yes
+	}
+	11267.1.1={
+		death=yes
+	}
+}
+
+247613 = {
+	name="Jayramdev"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247612
+	11261.1.1={
+		birth=yes
+	}
+	11290.1.1={
+		death=yes
+	}
+}
+
+247614 = {
+	name="Aasaldev"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247613
+	11277.1.1={
+		birth=yes
+	}
+	11299.1.1={
+		death=yes
+	}
+}
+
+247615 = {
+	name="Jagatpal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247614
+	11293.1.1={
+		birth=yes
+	}
+	11311.1.1={
+		death=yes
+	}
+}
+
+247616 = {
+	name="Jeetpal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247615
+	11309.1.1={
+		birth=yes
+	}
+	11330.1.1={
+		death=yes
+	}
+}
+
+247617 = {
+	name="Anantpal"
+	dynasty=105845 #Parmar
+	religion="shaivism"
+	culture="nepali"
+
+	father=247616
+	11325.1.1={
+		birth=yes
+	}
+	11358.1.1={
+		death=yes
+	}
+}
+
+#Khasiya Dynasty
+
+247553 = {
+	name="Bijor"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	10842.1.1={
+		birth=yes
+	}
+	10902.1.1={
+		death=yes
+	}
+}
+
+247554 = {
+	name="Jijar"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247553
+	10858.1.1={
+		birth=yes
+	}
+	10909.1.1={
+		death=yes
+	}
+}
+
+247555 = {
+	name="Jajar"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247554
+	10874.1.1={
+		birth=yes
+	}
+	10928.1.1={
+		death=yes
+	}
+}
+
+247556 = {
+	name="Jar"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247555
+	10890.1.1={
+		birth=yes
+	}
+	10937.1.1={
+		death=yes
+	}
+}
+
+247557 = {
+	name="Kalu"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247556
+	10906.1.1={
+		birth=yes
+	}
+	10942.1.1={
+		death=yes
+	}
+}
+
+247558 = {
+	name="Kalau"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247556
+	10907.1.1={
+		birth=yes
+	}
+	10953.1.1={
+		death=yes
+	}
+}
+
+247559 = {
+	name="Jahal"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247558
+	10923.1.1={
+		birth=yes
+	}
+	10973.1.1={
+		death=yes
+	}
+}
+
+247560 = {
+	name="Mul"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247559
+	10939.1.1={
+		birth=yes
+	}
+	10981.1.1={
+		death=yes
+	}
+}
+
+247561 = {
+	name="Guna"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247560
+	10955.1.1={
+		birth=yes
+	}
+	11000.1.1={
+		death=yes
+	}
+}
+
+247562 = {
+	name="Pida"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247561
+	10971.1.1={
+		birth=yes
+	}
+	11009.1.1={
+		death=yes
+	}
+}
+
+247563 = {
+	name="Nagu"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247562
+	10987.1.1={
+		birth=yes
+	}
+	11028.1.1={
+		death=yes
+	}
+}
+
+247564 = {
+	name="Bhagu"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247563
+	11003.1.1={
+		birth=yes
+	}
+	11039.1.1={
+		death=yes
+	}
+}
+
+247565 = {
+	name="Jayapal"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247564
+	11019.1.1={
+		birth=yes
+	}
+	11055.1.1={
+		death=yes
+	}
+}
+
+247566 = {
+	name="Sonpal"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247565
+	11035.1.1={
+		birth=yes
+	}
+	11067.1.1={
+		death=yes
+	}
+}
+
+247567 = {
+	name="Indrapal"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247566
+	11051.1.1={
+		birth=yes
+	}
+	11088.1.1={
+		death=yes
+	}
+}
+
+247568 = {
+	name="Naagraj"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247567
+	11068.1.1={
+		birth=yes
+	}
+	11096.1.1={
+		death=yes
+	}
+}
+
+247569 = {
+	name="Chaap"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247568
+	11085.1.1={
+		birth=yes
+	}
+	11115.1.1={
+		death=yes
+	}
+}
+
+247570 = {
+	name="Chapilla"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247569
+	11103.1.1={
+		birth=yes
+	}
+	11142.1.1={
+		death=yes
+	}
+}
+
+247571 = {
+	name="Krashichalla"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247570
+	11124.1.1={
+		birth=yes
+	}
+	11168.1.1={
+		death=yes
+	}
+}
+
+247572 = {
+	name="Kradhichalla"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+	stewardship = 6
+	father=247571
+	11142.1.1={
+		birth=yes
+	}
+	11189.1.1={
+		death=yes
+	}
+}
+
+247573 = {
+	name="Krachalla"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247572
+	11160.1.1={
+		birth=yes
+	}
+	11223.1.1={
+		death=yes
+	}
+}
+
+247574 = {
+	name="Jitarimalla"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247573
+	11182.1.1={
+		birth=yes
+	}
+	11258.1.1={
+		death=yes
+	}
+}
+
+247575 = {
+	name="Ashokmalla"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247574
+	11209.1.1={
+		birth=yes
+	}
+	11287.1.1={
+		death=yes
+	}
+}
+
+247576 = {
+	name="Ashokchalla"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247575
+	11245.1.1={
+		birth=yes
+	}
+	11312.1.1={
+		death=yes
+	}
+}
+
+247577 = {
+	name="Ripumalla"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247576
+	11264.1.1={
+		birth=yes
+	}
+	11314.1.1={
+		death=yes
+	}
+}
+
+247578 = {
+	name="Adityamalla"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247576
+	11266.1.1={
+		birth=yes
+	}
+	11318.1.1={
+		death=yes
+	}
+}
+
+247579 = {
+	name="Punyamalla"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247578
+	11282.1.1={
+		birth=yes
+	}
+	11326.1.1={
+		death=yes
+	}
+}
+
+247580 = {
+	name="Prithvimalla"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247579
+	11298.1.1={
+		birth=yes
+	}
+	11330.1.1={
+		death=yes
+	}
+}
+
+247581 = {
+	name="Suryamalla"
+	dynasty=105844 #Khasiya
+	religion="shaivism"
+	culture="nepali"
+
+	father=247577
+	11314.1.1={
+		birth=yes
+	}
+	11373.1.1={
+		death=yes
+	}
+}

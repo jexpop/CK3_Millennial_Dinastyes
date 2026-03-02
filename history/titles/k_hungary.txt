@@ -1,0 +1,5185 @@
+﻿k_hungary = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10685.1.1 = {
+		holder = 146154
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10767.1.1 = {
+		holder = 194006
+	}
+	10776.1.1 = {
+		holder = 146166
+	}
+	10780.1.1 = {
+		holder = 146167
+	}
+	10785.1.1 = {
+		holder = 146168
+	}
+	10791.1.1 = {
+		holder = 146169
+	}
+	10795.1.1 = {
+		holder = 146140
+	}
+	10797.1.1 = {
+		name = KINGDOM_PANNONIA
+	}
+	10814.1.1 = {
+		holder = 146141
+	}
+	10829.1.1 = {
+		holder = 146142
+	}
+	10835.1.1 = {
+		holder = 0
+	}
+	10895.1.1 = {
+		reset_name = yes
+	}
+	11000.12.24 = {
+		insert_title_history = k_magyar
+	}
+	11038.8.15 = {
+		holder = 497
+	}
+	11041.1.1 = {
+		holder = 20371
+	}
+	11044.7.1 = {
+		holder = 497
+	}
+	11046.1.1 = {
+		holder = 468
+	}
+	11060.10.1 = {
+		holder = 470
+	}
+	11063.12.1 = {
+		holder = 476
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					has_dlc_feature = royal_court
+				}
+				# Commented out for the mo due to issues with the Learn Language scheme & secondary languages.
+				#holder = {
+					#set_court_language = language_latin # Ceremonial, Liturgic, and Administrative language
+					#if = {
+						#limit = { NOT = { knows_court_language_of = this } }
+						#learn_court_language_of = this
+					#}
+				#}
+			}
+		}
+	}
+	11074.1.1 = {
+		holder = 472
+	}
+	11077.4.25 = {
+		holder = 474
+	}
+	11095.7.29 = {
+		holder = 480
+	}
+	11116.2.3 = {
+		holder = 231065
+	}
+	11131.4.2 = {
+		holder = 219530
+	}
+	11141.2.13 = {
+		holder = 219510
+	}
+	11162.5.31 = {
+		holder = 219511
+	}
+	11172.3.4 = {
+		holder = 219500
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11301.1.14 = {
+		holder = 96003
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+d_visegrad = {
+	10805.1.1 = {
+		liege = "k_bulgaria"
+		holder = 146172
+		government = tribal_government
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	10895.1.1 = {
+		liege = "k_magyar"
+		holder = 0
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11000.12.25 = {
+		liege = "k_hungary"
+	}
+	11299.1.1 = {
+		holder = 93794
+	}
+	11301.1.1 = {
+		holder = 93796
+	}
+	11325.1.1 = {
+		holder = 469500
+	}
+}
+
+c_visegrad = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146154
+		government = tribal_government
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10757.1.1 = {
+		holder = 146171
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}	
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 20356
+	}
+	11087.1.1 = {
+		holder = 4440
+	}
+	11115.1.1 = {
+		holder = 231065
+	}
+	11131.4.2 = {
+		holder = 219530
+	}
+	11141.2.13 = {
+		holder = 219510
+	}
+	11162.5.31 = {
+		holder = 219511
+	}
+	11162.7.15 = {
+		holder = 98000
+	}
+	11163.1.14 = {
+		holder = 98001
+	}
+	11163.6.19 = {
+		holder = 219511
+	}
+	
+	
+	11172.3.4 = {
+		holder = 219500
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+c_komarom = {
+	10801.1.1 = {
+		change_development_level = 4
+	}
+	
+	11001.1.1 = {
+		change_development_level = 7
+	}
+	
+	11101.1.1 = {
+		change_development_level = 11
+	}
+	11178.1.1 = { change_development_level = 24 }
+
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146154
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10757.1.1 = {
+		holder = 146171
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10867.1.1 = {
+		holder = 187012 #Kocel
+		liege = d_gyor
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	#10895.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 4438
+	}
+	11087.1.1 = {
+		holder = 4440
+	}
+	11115.1.1 = {
+		holder = 231065
+	}
+	11131.4.2 = {
+		holder = 219530
+	}
+	11141.2.13 = {
+		holder = 219510
+	}
+	11162.5.31 = {
+		holder = 219511
+	}
+	11162.7.15 = {
+		holder = 98000
+	}
+	11163.1.14 = {
+		holder = 98001
+	}
+	11163.6.19 = {
+		holder = 219511
+	}
+	
+	
+	11172.3.4 = {
+		holder = 219500
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+c_esztergom = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 26 }
+
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146154
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10757.1.1 = {
+		holder = 146171
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10867.1.1 = {
+		holder = 187012 #Kocel
+		liege = d_gyor
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	#10895.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 20356
+	}
+	11158.1.1 = {
+		holder = esztergom_archbishop_1 # Lucas, archbishop of Esztergom
+		government = theocracy_government
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+c_szekesfehervar = {
+	10801.1.1 = {
+		change_development_level = 4
+	}
+	
+	11001.1.1 = {
+		change_development_level = 7
+	}
+	
+	11101.1.1 = {
+		change_development_level = 11
+	}
+	11178.1.1 = { change_development_level = 24 }
+
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146154
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10757.1.1 = {
+		holder = 146171
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10867.1.1 = {
+		holder = 187012 #Kocel
+		liege = d_gyor
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	#10895.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 4438
+	}
+	11087.1.1 = {
+		holder = 4440
+	}
+	11115.1.1 = {
+		holder = 231065
+	}
+	11131.4.2 = {
+		holder = 219530
+	}
+	11141.2.13 = {
+		holder = 219510
+	}
+	11162.5.31 = {
+		holder = 219511
+	}
+	11162.7.15 = {
+		holder = 98000
+	}
+	11163.1.14 = {
+		holder = 98001
+	}
+	11163.6.19 = {
+		holder = 219511
+	}
+	
+	
+	11172.3.4 = {
+		holder = 219500
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+c_hewes = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146156
+		government = tribal_government
+	}
+	10707.1.1 = {
+		holder = 146160
+	}
+	10731.1.1 = {
+		holder = 146165
+	}
+	10756.1.1 = {
+		holder = 146170
+	}
+	10804.1.1 = {
+		holder = 194000
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+	}
+	10826.1.1 = {
+		holder = 168071
+	}
+	10846.1.1 = {
+		holder = 168072
+	}
+	10866.1.1 = {
+		holder = 168073
+	}
+	10884.1.1 = {
+		holder = 168074
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 476
+	}
+	11172.3.4 = {
+		holder = 219500
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11210.1.1 = {
+		holder = 93789
+	}
+	11240.1.1 = {
+		holder = 93790
+	}
+	11279.1.1 = {
+		holder = 93792
+	}
+	11295.1.1 = {
+		holder = 93794
+	}
+	11299.1.1 = {
+		liege = "d_visegrad"
+	}
+	11301.1.1 = {
+		holder = 93796
+	}
+	11325.1.1 = {
+		holder = 470212
+	}
+}
+
+d_somogy = {
+	10805.1.1 = {
+		liege = "k_bulgaria"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10867.1.1 = {
+		holder = 187012 #Kocel
+		liege = 0
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	10895.1.1 = {
+		liege = "k_magyar"
+		holder = 0
+	}
+	11000.12.25 = {
+		liege = "k_hungary"
+	}
+	11299.1.1 = {
+		holder = 93794
+	}
+	11301.1.1 = {
+		holder = 93796
+	}
+	11325.1.1 = {
+		holder = 469500
+	}
+}
+
+c_somogy = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146154
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10757.1.1 = {
+		holder = 146171
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10867.1.1 = {
+		holder = 187012 #Kocel
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	#10895.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 4435
+	}
+	11087.1.1 = {
+		holder = 4440
+	}
+	11141.2.13 = {
+		holder = somogy_ispan_1 # Pal
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+c_kolon = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146154
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10757.1.1 = {
+		holder = 146171
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10867.1.1 = {
+		holder = 187012 #Kocel
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	#10895.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 4410
+	}
+	11087.1.1 = {
+		holder = 4440
+	}
+	11172.3.4 = {
+		holder = vas_ispan_1 # Egyed
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+c_tolna = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146154
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10757.1.1 = {
+		holder = 146171
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10867.1.1 = {
+		holder = 187012 #Kocel
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	#10895.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 4435
+	}
+	11178.1.1 = {
+		holder = 93552 # Martin
+		liege = k_hungary
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+c_baranya = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146154
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10757.1.1 = {
+		holder = 146171
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10867.1.1 = {
+		holder = 187012 #Kocel
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	#10895.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 4435
+	}
+	11087.1.1 = {
+		holder = 4440
+	}
+	11172.3.4 = {
+		holder = bodrog_ispan_1 # Istvan
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+d_nyitra = {
+	10867.1.1 = { change_development_level = 4 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 13 }
+	
+	10830.1.1 = {
+		de_jure_liege = "k_moravia"
+		liege = "k_moravia"
+		holder = 187010
+	}
+	10850.1.1 = {
+		holder = 187003 #Svatopluk
+	}
+	10871.12.1 = {
+		holder = 187006
+	}
+	10894.1.1 = {
+		holder = 187008
+	}
+	10902.1.1 = {
+		liege = "k_magyar"
+		holder = 159136
+	}
+	10907.1.1 = {
+		holder = 159135
+	}
+	10955.1.1 = {
+		holder = 460
+	}
+	10972.1.1 = {
+		holder = 462
+	}
+	10978.1.1 = {
+		holder = 487
+	}
+	11000.12.25 = {
+		de_jure_liege = "k_hungary"
+		liege = "k_hungary"
+	}
+	11029.1.1 = {
+		holder = 466
+	}
+	11037.1.1 = {
+		holder = 470
+	}
+	11063.12.1 = {
+		holder = 472
+	}
+	11077.4.25 = {
+		holder = 474
+	}
+	11095.7.29 = {
+		holder = 480
+	}
+	11116.2.3 = {
+		holder = 93678
+	}
+	11150.1.1 = {
+		holder = 93679
+	}
+	11180.1.1 = {
+		holder = 93680
+	}
+	11200.1.1 = {
+		holder = 93682
+	}
+	11239.1.1 = {
+		holder = 93683
+	}
+	11249.1.1 = {
+		holder = 93685
+	}
+	11278.1.1 = {
+		holder = 93686
+	}
+	11290.1.1 = {
+		holder = 93711
+	}
+	11321.3.18 = {
+		holder = 93687
+	}
+	11335.1.1 = {
+		holder = 93713
+	}
+}
+
+c_nyitra = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10741.1.1 = {
+		liege = "d_moravia"
+		holder = 187000
+	}
+	10764.1.1 = {
+		holder = 146176
+	}
+	10801.1.1 = {
+		holder = 146177
+	}
+	10809.1.1 = {
+		holder = 187001
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10850.1.1 = {
+		liege = "d_nyitra"
+		holder = 187003 #Svatopluk
+	}
+	10871.12.1 = {
+		holder = 187006
+	}
+	10894.1.1 = {
+		holder = 187008
+	}
+	10902.1.1 = {
+		liege = "d_nyitra"
+	#	holder = 0
+	}
+	11066.1.1 = {
+		holder = 472
+	}
+	11100.1.1 = {
+		holder = 480
+	}
+	11170.1.1 = {
+		holder = nyitra_ispan_1 # Samodyn
+	}
+	11210.1.1 = {
+		holder = 93716
+	}
+	11236.1.1 = {
+		holder = 93720
+	}
+	11297.1.1 = {
+		holder = 93721
+	}
+	11300.1.1 = {
+		holder = 93723
+	}
+	11335.1.1 = {
+		holder = 93726
+	}
+}
+
+c_gemer = {
+	10741.1.1 = {
+		liege = "d_moravia"
+		holder = 187000
+	}
+	10764.1.1 = {
+		holder = 146176
+	}
+	10801.1.1 = {
+		holder = 146177
+	}
+	10809.1.1 = {
+		holder = 187001
+	}
+	10830.1.1 = {
+		liege = k_moravia
+	}
+	10846.8.15 = {
+		holder = 187002
+	}
+	10850.1.1 = {
+		liege = "d_nyitra"
+		holder = 187003 #Svatopluk
+	}
+	10866.1.1 = {
+		holder = 273063
+	}
+	10900.1.1 = {
+		holder = 273064
+	}
+	10920.1.1 = {
+		liege = "d_nyitra"
+		holder = 273065
+	}
+	11066.1.1 = {
+		holder = 20367
+	}
+	11100.1.1 = {
+		holder = 480
+	}
+	11116.2.3 = {
+		holder = 93678
+	}
+	11150.1.1 = {
+		holder = 93679
+	}
+	11170.1.1 = {
+		holder = 93715
+	}
+	11210.1.1 = {
+		holder = 93716
+	}
+	11236.1.1 = {
+		holder = 93720
+	}
+	11297.1.1 = {
+		holder = 93721
+	}
+	11300.1.1 = {
+		holder = 93723
+	}
+	11335.1.1 = {
+		holder = 93726
+	}
+}
+
+c_orava = {
+	10741.1.1 = {
+		liege = "d_moravia"
+		holder = 187000
+	}
+	10768.1.1 = {
+		holder = 146178
+	}
+	10814.1.1 = {
+		holder = 187009
+	}
+	10819.1.1 = {
+		holder = 187001
+	}
+	10830.1.1 = {
+		liege = "d_nyitra"
+		holder = 273011
+	}
+	10865.1.1 = {
+		holder = 273012
+	}
+	10902.12.1 = {
+		holder = 273013
+	}
+	10906.1.1 = {
+		holder = 273014
+	}
+	#10902.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		holder = 472
+	}
+	11077.4.25 = {
+		holder = 219531
+	}
+	11095.1.1 = {
+		liege = "d_ungvar"
+	}
+	11129.1.3 = {
+		liege = "d_nyitra"
+	}
+	11129.1.3 = {
+		holder = 93678
+	}
+	11150.1.1 = {
+		holder = 93679
+	}
+	11180.1.1 = {
+		holder = 93680
+	}
+	11200.1.1 = {
+		holder = 93682
+	}
+	11239.1.1 = {
+		holder = 93688
+	}
+	11278.1.1 = {
+		holder = 93702
+	}
+	11307.1.1 = {
+		holder = 93704
+	}
+	11337.1.1 = {
+		holder = 93707
+	}
+}
+
+c_trenscen = {
+	10741.1.1 = {
+		liege = "d_moravia"
+		holder = 187000
+		government = tribal_government
+	}
+	10764.1.1 = {
+		holder = 146176
+	}
+	10801.1.1 = {
+		holder = 146177
+	}
+	10809.1.1 = {
+		holder = 187001
+	}
+	10830.1.1 = {
+		liege = "k_moravia"
+	}
+	10846.8.15 = {
+		holder = 187002
+	}
+	10869.1.1 = {
+		holder = 187003
+	}
+	10871.1.1 = {
+		holder = 187004
+	}
+	10871.12.1 = {
+		holder = 187003
+	}
+	10894.1.1 = {
+		holder = 187006
+	}
+	10902.1.1 = {
+		liege = "d_nyitra"
+	#	holder = 0
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 472
+	}
+	11100.1.1 = {
+		holder = 480
+	}
+	11116.2.3 = {
+		holder = 93678
+	}
+	11150.1.1 = {
+		holder = 93679
+	}
+	11170.1.1 = {
+		holder = 93715
+	}
+	11210.1.1 = {
+		holder = 93716
+	}
+	11236.1.1 = {
+		holder = 93720
+	}
+	11297.1.1 = {
+		holder = 93721
+	}
+	11300.1.1 = {
+		holder = 93723
+	}
+	11335.1.1 = {
+		holder = 93726
+	}
+}
+
+c_lipto = {
+	10741.1.1 = {
+		liege = "d_moravia"
+		holder = 187000
+		government = tribal_government
+	}
+	10764.1.1 = {
+		holder = 146176
+	}
+	10801.1.1 = {
+		holder = 146177
+	}
+	10809.1.1 = {
+		holder = 187001
+	}
+	10830.1.1 = {
+		liege = "d_nyitra"
+		holder = 273011
+	}
+	10865.1.1 = {
+		holder = 273012
+	}
+	10902.12.1 = {
+		holder = 273013
+	}
+	10906.1.1 = {
+		holder = 273014
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 472
+	}
+	11100.1.1 = {
+		holder = 480
+	}
+	11116.2.3 = {
+		holder = 93678
+	}
+	11150.1.1 = {
+		holder = 93679
+	}
+	11170.1.1 = {
+		holder = 93715
+	}
+	11210.1.1 = {
+		holder = 93716
+	}
+	11236.1.1 = {
+		holder = 93720
+	}
+	11297.1.1 = {
+		holder = 93721
+	}
+	11300.1.1 = {
+		holder = 93723
+	}
+	11335.1.1 = {
+		holder = 93726
+	}
+}
+
+c_zolyom = {
+	10741.1.1 = {
+		liege = "d_moravia"
+		holder = 187000
+	}
+	10764.1.1 = {
+		holder = 146176
+	}
+	10801.1.1 = {
+		holder = 146177
+	}
+	10809.1.1 = {
+		holder = 187001
+	}
+	10830.1.1 = {
+		liege = "d_nyitra"
+		holder = 187010
+	}
+	10850.1.1 = {
+		holder = 187003
+	}
+	10871.12.1 = {
+		holder = 187006
+	}
+	10894.1.1 = {
+		holder = 187008
+	}
+	10902.1.1 = {
+		liege = "d_nyitra"
+	#	holder = 0
+	}
+	11066.1.1 = {
+		holder = 4400
+	}
+	11100.1.1 = {
+		holder = 480
+	}
+	11116.2.3 = {
+		holder = 93678
+	}
+	11150.1.1 = {
+		holder = 93679
+	}
+	11170.1.1 = {
+		holder = 93715
+	}
+	11210.1.1 = {
+		holder = 93716
+	}
+	11236.1.1 = {
+		holder = 93720
+	}
+	11297.1.1 = {
+		holder = 93721
+	}
+	11300.1.1 = {
+		holder = 93723
+	}
+	11335.1.1 = {
+		holder = 93726
+	}
+}
+
+c_bars = {
+	10741.1.1 = {
+		liege = "d_moravia"
+		holder = 187000
+	}
+	10764.1.1 = {
+		holder = 146176
+	}
+	10801.1.1 = {
+		holder = 146177
+	}
+	10809.1.1 = {
+		holder = 187001
+	}
+	10830.1.1 = {
+		liege = "d_nyitra"
+		holder = 187010
+	}
+	10850.1.1 = {
+		holder = 187003
+	}
+	10871.12.1 = {
+		holder = 187006
+	}
+	10894.1.1 = {
+		holder = 187008
+	}
+	10902.1.1 = {
+		liege = "d_nyitra"
+	#	holder = 0
+	}
+	11066.1.1 = {
+		holder = 4400
+	}
+	11100.1.1 = {
+		holder = 480
+	}
+	11164.1.1 = {
+		holder = bars_ispan_1 # Gyorgy
+	}
+	11210.1.1 = {
+		holder = 93716
+	}
+	11236.1.1 = {
+		holder = 93720
+	}
+	11297.1.1 = {
+		holder = 93721
+	}
+	11300.1.1 = {
+		holder = 93723
+	}
+	11335.1.1 = {
+		holder = 93726
+	}
+}
+
+c_hont = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146154
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10757.1.1 = {
+		holder = 146171
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10850.1.1 = {
+		holder = 187003 #Svatopluk
+	}
+	#10858.1.1 = {
+	#	holder = 168072
+	#}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	#10895.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 20356
+	}
+	11087.1.1 = {
+		holder = 4440
+	}
+	11156.1.1 = {
+		holder = hont_ispan_1 # German
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+c_poszony = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146154
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10757.1.1 = {
+		holder = 146171
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		liege = "k_moravia"
+	}
+	10846.8.15 = {
+		holder = 187002
+	}
+	10869.1.1 = {
+		holder = 187003
+	}
+	10871.1.1 = {
+		holder = 187004
+	}
+	10871.12.1 = {
+		holder = 187003
+	}
+	10894.1.1 = {
+		holder = 187006
+	}
+	#10895.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 4411
+	}
+	11178.1.1 = {
+		holder = 219013 # Janos
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+d_ungvar = {
+	10739.1.1 = {
+		liege = 0
+		holder = 146184
+		government = tribal_government
+	}
+	10781.1.1 = {
+		holder = 146182
+	}
+	10804.1.1 = {
+		holder = 146183
+	}
+	10807.1.1 = {
+		holder = 146181
+	}
+	10818.1.1 = {
+		holder = 146180
+	}
+	10833.1.1 = {
+		holder = 146179
+	}
+	10859.1.1 = {
+		holder = 74045
+	}
+	10890.1.1 = {
+		holder = 74046
+	}
+	10900.1.1 = {
+		liege = "k_magyar"
+	}
+	10918.1.1 = {
+		holder = 159135
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10955.1.1 = {
+		holder = 460
+	}
+	10972.1.1 = {
+		holder = 464
+	}
+	10997.1.1 = {
+		holder = 482
+	}
+	11000.12.25 = {
+		liege = "k_hungary"
+	}
+	11038.8.15 = {
+		holder = 497
+	}
+	11046.1.1 = {
+		holder = 470
+	}
+	11063.12.1 = {
+		holder = 20368
+	}
+	11095.1.1 = {
+		holder = 219531
+	}
+	11129.1.3 = {
+		holder = 231065
+	}
+	11131.4.2 = {
+		holder = 219530
+	}
+	11141.2.13 = {
+		holder = 219510
+	}
+	11162.5.31 = {
+		holder = 219511
+	}
+	11162.7.15 = {
+		holder = 98000
+	}
+	11163.1.14 = {
+		holder = 98001
+	}
+	11163.6.19 = {
+		holder = 219511
+	}
+	11172.3.4 = {
+		holder = 219500
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11240.1.1 = {
+		holder = 93761
+	}
+	11260.1.1 = {
+		holder = 93762
+	}
+	11311.9.5 = {
+		holder = 93741
+	}
+	11327.1.1 = {
+		holder = 93742
+	}
+	11334.1.1 = {
+		holder = 93744
+	}	
+}
+
+c_ungvar = {
+	10739.1.1 = {
+		liege = d_ungvar
+		holder = 146184
+		government = tribal_government
+	}
+	10759.1.1 = {
+		holder = 146183
+	}
+	10807.1.1 = {
+		holder = 146181
+	}
+	10818.1.1 = {
+		holder = 146179
+	}
+	10842.1.1 = {
+		holder = 74045
+	}
+	10867.1.1 = {
+		holder = 74046
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11063.12.1 = {
+		holder = 20368
+	}
+	11095.1.1 = {
+		holder = 219531
+	}
+	11129.1.3 = {
+		holder = 93638
+	}
+	11170.1.1 = {
+		holder = 219022
+	}
+	11200.1.1 = {
+		holder = 93634
+	}
+	11239.1.1 = {
+		holder = 93635
+	}
+	11255.1.1 = {
+		holder = 93636
+	}
+	11287.1.1 = {
+		holder = 470190
+	}
+	11307.1.1 = {
+		holder = 93637
+	}
+	11316.1.1 = {
+		holder = 470191
+	}
+}
+
+c_zemplen = {
+	10739.1.1 = {
+		liege = d_ungvar
+		holder = 146184
+		government = tribal_government
+	}
+	10781.1.1 = {
+		holder = 146182
+	}
+	10804.1.1 = {
+		holder = 146183
+	}
+	10807.1.1 = {
+		holder = 146181
+	}
+	10818.1.1 = {
+		holder = 146180
+	}
+	10833.1.1 = {
+		holder = 146179
+	}
+	10859.1.1 = {
+		holder = 74045
+	}
+	10890.1.1 = {
+		holder = 74046
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 20366
+	}
+	11080.1.1 = {
+		holder = 20376
+	}
+	11102.1.1 = {
+		holder = 93757
+	}
+	11145.1.1 = {
+		holder = 93758
+	}
+	11180.1.1 = {
+		holder = 93759
+	}
+	11210.1.1 = {
+		holder = 93760
+	}
+	11240.1.1 = {
+		holder = 93761
+	}
+	11260.1.1 = {
+		holder = 93762
+	}
+	11311.9.5 = {
+		holder = 93741
+	}
+	11327.1.1 = {
+		holder = 93742
+	}
+	11334.1.1 = {
+		holder = 93744
+	}
+}
+
+c_borsod = {
+	10741.1.1 = {
+		liege = "d_moravia"
+		holder = 187000
+	}
+	10764.1.1 = {
+		holder = 146176
+	}
+	10801.1.1 = {
+		holder = 146177
+	}
+	10809.1.1 = {
+		holder = 187001
+	}
+	10830.1.1 = {
+		liege = "d_nyitra"
+		holder = 187010
+	}
+	10850.1.1 = {
+		holder = 187003
+	}
+	10866.1.1 = {
+		holder = 273063
+	}
+	10900.1.1 = {
+		holder = 273064
+	}
+	10920.1.1 = {
+		liege = "d_nyitra"
+		holder = 273065
+	}
+	11066.1.1 = {
+		holder = 4431
+	}
+	11100.1.1 = {
+		holder = 480
+	}
+	11116.2.3 = {
+		holder = 93678
+	}
+	11150.1.1 = {
+		holder = 93679
+	}
+	11170.1.1 = {
+		holder = 93715
+	}
+	11210.1.1 = {
+		holder = 93716
+	}
+	11236.1.1 = {
+		holder = 93720
+	}
+	11297.1.1 = {
+		holder = 93721
+	}
+	11300.1.1 = {
+		holder = 93723
+	}
+	11335.1.1 = {
+		holder = 93726
+	}
+}
+
+c_saris = {
+	10739.1.1 = {
+		liege = d_ungvar
+		holder = 146184
+	}
+	10757.1.1 = {
+		holder = 146182
+	}
+	10781.1.1 = {
+		holder = 146181
+	}
+	10797.1.1 = {
+		holder = 146180
+	}
+	10830.1.1 = {
+		liege = "d_nyitra"
+		holder = 273011
+	}
+	10865.1.1 = {
+		holder = 273012
+	}
+	10902.12.1 = {
+		holder = 273013
+	}
+	10906.1.1 = {
+		holder = 273014
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 20366
+	}
+	11080.1.1 = {
+		holder = 20376
+	}
+	11102.1.1 = {
+		holder = 93757
+	}
+	11145.1.1 = {
+		holder = 93758
+	}
+	11180.1.1 = {
+		holder = 93759
+	}
+	11210.1.1 = {
+		holder = 93760
+	}
+	11240.1.1 = {
+		holder = 93761
+	}
+	11260.1.1 = {
+		holder = 93763
+	}
+	
+	11311.9.5 = {
+		holder = 93741
+	}
+	11327.1.1 = {
+		holder = 93742
+	}
+	11334.1.1 = {
+		holder = 93744
+	}
+}
+
+c_spis = {
+	10867.1.1 = { change_development_level = 4 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10739.1.1 = {
+		liege = d_ungvar
+		holder = 146184
+		government = tribal_government
+	}
+	10757.1.1 = {
+		holder = 146182
+	}
+	10781.1.1 = {
+		holder = 146181
+	}
+	10797.1.1 = {
+		holder = 146180
+	}
+	10830.1.1 = {
+		liege = "d_nyitra"
+		holder = 273011
+	}
+	10865.1.1 = {
+		holder = 273012
+	}
+	10902.12.1 = {
+		holder = 273013
+	}
+	10906.1.1 = {
+		holder = 273014
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 20366
+	}
+	11080.1.1 = {
+		holder = 20376
+	}
+	11102.1.1 = {
+		holder = 93757
+	}
+	11145.1.1 = {
+		holder = 93758
+	}
+	11180.1.1 = {
+		holder = 93759
+	}
+	11210.1.1 = {
+		holder = 93760
+	}
+	11240.1.1 = {
+		holder = 93761
+	}
+	11260.1.1 = {
+		holder = 93763
+	}
+	
+	11311.9.5 = {
+		holder = 93741
+	}
+	11327.1.1 = {
+		holder = 93742
+	}
+	11334.1.1 = {
+		holder = 93744
+	}
+}
+
+c_abauj = {
+	10739.1.1 = {
+		liege = d_ungvar
+		holder = 146184
+		government = tribal_government
+	}
+	10781.1.1 = {
+		holder = 146182
+	}
+	10804.1.1 = {
+		holder = 146183
+	}
+	10807.1.1 = {
+		holder = 146181
+	}
+	10818.1.1 = {
+		holder = 146180
+	}
+	10833.1.1 = {
+		holder = 146179
+	}
+	10850.1.1 = {
+		liege = "d_nyitra"
+		holder = 187003 #Svatopluk
+	}
+	10866.1.1 = {
+		holder = 273063
+	}
+	10900.1.1 = {
+		holder = 273064
+	}
+	10920.1.1 = {
+		liege = "d_nyitra"
+		holder = 273065
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 20366
+	}
+	11080.1.1 = {
+		holder = 20376
+	}
+	11102.1.1 = {
+		holder = 93757
+	}
+	11145.1.1 = {
+		holder = 93758
+	}
+	11180.1.1 = {
+		holder = 93759
+	}
+	11210.1.1 = {
+		holder = 93760
+	}
+	11240.1.1 = {
+		holder = 93761
+	}
+	11260.1.1 = {
+		holder = 93762
+	}
+	11311.9.5 = {
+		holder = 93741
+	}
+	11327.1.1 = {
+		holder = 93742
+	}
+	11334.1.1 = {
+		holder = 93744
+	}
+}
+
+d_transcarpathia = {
+	10739.1.1 = {
+		liege = 0
+		holder = 146184
+		government = tribal_government
+	}
+	10781.1.1 = {
+		holder = 146182
+	}
+	10804.1.1 = {
+		holder = 146183
+	}
+	10807.1.1 = {
+		holder = 146181
+	}
+	10818.1.1 = {
+		holder = 146180
+	}
+	10833.1.1 = {
+		holder = 146179
+	}
+	10859.1.1 = {
+		holder = 74045
+	}
+	10890.1.1 = {
+		holder = 74046
+	}
+	10900.1.1 = {
+		liege = "k_magyar"		}
+	10918.1.1 = {
+		holder = 159135
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10955.1.1 = {
+		holder = 460
+	}
+	10972.1.1 = {
+		holder = 464
+	}
+	10997.1.1 = {
+		holder = 482
+	}
+	11000.12.25 = {
+		liege = "k_hungary"
+	}
+	11038.8.15 = {
+		holder = 497
+	}
+	11046.1.1 = {
+		holder = 470
+	}
+	11063.12.1 = {
+		holder = 20368
+	}
+	11095.1.1 = {
+		holder = 219531
+	}
+	11129.1.3 = {
+		holder = 231065
+	}
+	11131.4.2 = {
+		holder = 219530
+	}
+	11141.2.13 = {
+		holder = 219510
+	}
+	11162.5.31 = {
+		holder = 219511
+	}
+	11162.7.15 = {
+		holder = 98000
+	}
+	11163.1.14 = {
+		holder = 98001
+	}
+	11163.6.19 = {
+		holder = 219511
+	}
+	11172.3.4 = {
+		holder = 219500
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11240.1.1 = {
+		holder = 93761
+	}
+	11260.1.1 = {
+		holder = 93762
+	}
+	11311.9.5 = {
+		holder = 93741
+	}
+	11327.1.1 = {
+		holder = 93742
+	}
+	11334.1.1 = {
+		holder = 93744
+	}	
+}
+
+c_marmaros = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10708.1.1 = {
+		holder = 146144
+	}
+	10725.1.1 = {
+		holder = 146145
+	}
+	10750.1.1 = {
+		holder = 146149
+	}
+	10812.1.1 = {
+		holder = 146152
+	}
+	10852.1.1 = {
+		holder = 168069
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11063.12.1 = {
+		liege = "d_ungvar"
+	}
+	11066.1.1 = {
+		holder = 20372
+	}
+	11081.1.1 = {
+		holder = 4358
+	}
+	11114.1.1 = {
+		holder = 93645
+	}
+	11130.1.1 = {
+		holder = 93646
+	}
+	11170.1.1 = {
+		holder = 93647
+	}
+	11210.1.1 = {
+		holder = 93648
+	}
+	11250.1.1 = {
+		holder = 93755
+	}
+	11250.1.1 = {
+		liege = "d_transylvania"
+	}
+	11269.1.1 = {
+		holder = 470071
+	}
+	11320.1.1 = {
+		holder = 470070
+	}
+}
+
+c_bereg = {
+	10739.1.1 = {
+		liege = d_ungvar
+		holder = 146184
+		government = tribal_government
+	}
+	10759.1.1 = {
+		holder = 146183
+	}
+	10807.1.1 = {
+		holder = 146181
+	}
+	10818.1.1 = {
+		holder = 146179
+	}
+	10842.1.1 = {
+		holder = 74045
+	}
+	10867.1.1 = {
+		holder = 74046
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11063.12.1 = {
+		holder = 20368
+	}
+	11095.1.1 = {
+		holder = 219531
+	}
+	11129.1.3 = {
+		holder = 93638
+	}
+	11170.1.1 = {
+		holder = 219022
+	}
+	11200.1.1 = {
+		holder = 93634
+	}
+	11239.1.1 = {
+		holder = 93635
+	}
+	11255.1.1 = {
+		holder = 93636
+	}
+	11287.1.1 = {
+		holder = 470190
+	}
+	11307.1.1 = {
+		holder = 93637
+	}
+	11316.1.1 = {
+		holder = 470191
+	}
+}
+
+d_transylvania = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146143
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 146144
+	}
+	10736.1.1 = {
+		holder = 146145
+	}
+	10750.1.1 = {
+		holder = 146146
+	}
+	10762.1.1 = {
+		holder = 146147
+	}
+	10771.1.1 = {
+		holder = 146148
+	}
+	10795.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146151
+	}
+	10804.1.1 = {
+		liege = "k_bulgaria"
+	}
+	10812.1.1 = {
+		holder = 146152
+	}
+	10852.1.1 = {
+		holder = 168069
+	}
+	10895.1.1 = {
+		liege = "k_magyar"
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10940.1.1 = {
+		holder = 70370
+	}
+	10958.1.1 = {
+		holder = 70371
+	}
+	10986.1.1 = {
+		holder = 70373
+	}
+	11000.12.25 = {
+		liege = "k_hungary"
+	}
+	11003.1.1 = {
+		holder = 482
+	}
+	11038.8.15 = {
+		holder = 20371
+	}
+	11046.1.1 = {
+		holder = 485
+	}
+	11047.1.1 = {
+		holder = 470
+	}
+	11063.12.1 = {
+		holder = 474
+	}
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11095.7.29 = {
+		holder = 480
+	}
+	11172.3.4 = {
+		holder = ratot_1 # Leustach Ratot, voivode of Transylvania
+	}
+	11196.4.23 = {
+		holder = 93751
+	}
+	11226.1.1 = {
+		holder = 93753
+	}
+	11233.1.1 = {
+		holder = 93752
+	}
+	11241.1.1 = {
+		liege = e_golden_horde
+	}
+	11276.1.1 = {
+		holder = 93754
+	}
+	11288.1.1 = {
+		liege = 0
+	}
+	11315.1.1 = {
+		liege = "k_hungary"
+	holder = 470040
+	}
+}
+
+c_feher = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 146144
+	}
+	10736.1.1 = {
+		holder = 146145
+	}
+	10750.1.1 = {
+		holder = 146146
+	}
+	10762.1.1 = {
+		holder = 146147
+	}
+	10771.1.1 = {
+		holder = 146148
+	}
+	10795.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146151
+	}
+	10812.1.1 = {
+		holder = 146152
+	}
+	10852.1.1 = {
+		holder = 168069
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 20365
+	}
+	11078.1.1 = {
+		holder = 4441
+	}
+	11099.1.1 = {
+		holder = 480
+	}
+	11163.6.19 = {
+		holder = feher_ispan_1 # Seza
+		liege = d_transylvania
+	}
+	11196.4.23 = {
+		holder = 93751
+	}
+	11226.1.1 = {
+		holder = 93753
+	}
+	11233.1.1 = {
+		holder = 93752
+	}
+	11276.1.1 = {
+		holder = 93754
+	}
+	11315.1.1 = {
+		holder = 470040
+	}
+}
+
+c_szekelyfold = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10708.1.1 = {
+		holder = 146144
+	}
+	10725.1.1 = {
+		holder = 146146
+	}
+	10750.1.1 = {
+		holder = 146148
+	}
+	10795.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146151
+	}
+	10804.1.1 = {
+		holder = 146152
+	}
+	10863.1.1 = {
+		holder = 168283
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11063.12.1 = {
+		holder = 474
+	}
+	11066.1.1 = {
+		holder = 20373
+	}
+	11095.7.29 = {
+		holder = 480
+	}
+	11172.3.4 = {
+		holder = ratot_1 # Leustach Ratot, voivode of Transylvania
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11211.1.1 = {
+		liege = "d_teutonic_order"
+	}
+	11211.1.1 = {
+		holder = 30403 #Herman von Salza
+	}
+	11224.12.31 = {
+		liege = "d_transylvania"
+	}
+	11224.12.31 = {
+		holder = 93639
+	}
+	11250.1.1 = {
+		holder = 93640
+	}
+	11291.1.1 = {
+		holder = 93641
+	}
+	11310.1.1 = {
+		holder = 470200
+	}
+	11320.1.1 = {
+		holder = 470202
+	}
+}
+
+c_barcasag = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10708.1.1 = {
+		holder = 146144
+	}
+	10725.1.1 = {
+		holder = 146146
+	}
+	10750.1.1 = {
+		holder = 146148
+	}
+	10795.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146151
+	}
+	10804.1.1 = {
+		holder = 146152
+	}
+	10863.1.1 = {
+		holder = 168283
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11063.12.1 = {
+		holder = 474
+	}
+	11066.1.1 = {
+		holder = 4441
+	}
+	11095.7.29 = {
+		holder = 480
+	}
+	11172.3.4 = {
+		holder = ratot_1 # Leustach Ratot, voivode of Transylvania
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	
+	11211.1.1 = {
+		liege = "d_teutonic_order"
+	}
+	11211.1.1 = {
+		holder = 30403 #Herman von Salza
+	}
+	11224.12.31 = {
+		liege = "d_transylvania"
+	}
+	11224.12.31 = {
+		holder = 93639
+	}
+	11250.1.1 = {
+		holder = 93640
+	}
+	11291.1.1 = {
+		holder = 93641
+	}
+	11310.1.1 = {
+		holder = 470200
+	}
+	11320.1.1 = {
+		holder = 470202
+	}
+}
+
+c_fogaras = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 146144
+	}
+	10736.1.1 = {
+		holder = 146145
+	}
+	10750.1.1 = {
+		holder = 146146
+	}
+	10762.1.1 = {
+		holder = 146147
+	}
+	10771.1.1 = {
+		holder = 146148
+	}
+	10795.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146151
+	}
+	10812.1.1 = {
+		holder = 146152
+	}
+	10852.1.1 = {
+		holder = 168069
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 4441
+	}
+	11099.1.1 = {
+		holder = 480
+	}
+	11172.3.4 = {
+		holder = ratot_1 # Leustach Ratot, voivode of Transylvania
+	}
+	11196.4.23 = {
+		holder = 93751
+	}
+	11226.1.1 = {
+		holder = 93753
+	}
+	11233.1.1 = {
+		holder = 93752
+	}
+	11276.1.1 = {
+		holder = 93754
+	}
+	11315.1.1 = {
+		holder = 470040
+	}
+}
+
+c_torda = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 146144
+	}
+	10736.1.1 = {
+		holder = 146145
+	}
+	10750.1.1 = {
+		holder = 146146
+	}
+	10762.1.1 = {
+		holder = 146147
+	}
+	10771.1.1 = {
+		holder = 146148
+	}
+	10795.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146151
+	}
+	10812.1.1 = {
+		holder = 146152
+	}
+	10852.1.1 = {
+		holder = 168069
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 20365
+	}
+	11177.1.1 = {
+		holder = 219003 # Tamas
+		liege = d_transylvania
+	}
+	11196.4.23 = {
+		holder = 93751
+	}
+	11226.1.1 = {
+		holder = 93753
+	}
+	11233.1.1 = {
+		holder = 93752
+	}
+	11276.1.1 = {
+		holder = 93754
+	}
+	11315.1.1 = {
+		holder = 470040
+	}
+}
+
+c_beszterce = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10708.1.1 = {
+		holder = 146144
+	}
+	10725.1.1 = {
+		holder = 146146
+	}
+	10750.1.1 = {
+		holder = 146148
+	}
+	10795.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146151
+	}
+	10804.1.1 = {
+		holder = 146152
+	}
+	10863.1.1 = {
+		holder = 168283
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11063.12.1 = {
+		holder = 474
+	}
+	11066.1.1 = {
+		holder = 20360
+	}
+	11095.7.29 = {
+		holder = 480
+	}
+	11172.3.4 = {
+		holder = ratot_1 # Leustach Ratot, voivode of Transylvania
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	
+	11211.1.1 = {
+		liege = "d_teutonic_order"
+	}
+	11211.1.1 = {
+		holder = 30403 #Herman von Salza
+	}
+	11224.12.31 = {
+		liege = "d_transylvania"
+	}
+	11224.12.31 = {
+		holder = 93639
+	}
+	11250.1.1 = {
+		holder = 93640
+	}
+	11291.1.1 = {
+		holder = 93641
+	}
+	11310.1.1 = {
+		holder = 470200
+	}
+	11320.1.1 = {
+		holder = 470202
+	}
+}
+
+c_hunyad = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 146144
+	}
+	10736.1.1 = {
+		holder = 146145
+	}
+	10750.1.1 = {
+		holder = 146146
+	}
+	10762.1.1 = {
+		holder = 146147
+	}
+	10771.1.1 = {
+		holder = 146148
+	}
+	10795.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146151
+	}
+	10812.1.1 = {
+		holder = 146152
+	}
+	10852.1.1 = {
+		holder = 168069
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 20365
+	}
+	11078.1.1 = {
+		holder = 4441
+	}
+	11099.1.1 = {
+		holder = 480
+	}
+	11172.3.4 = {
+		holder = ratot_1 # Leustach Ratot, voivode of Transylvania
+	}
+	11196.4.23 = {
+		holder = 93751
+	}
+	11226.1.1 = {
+		holder = 93753
+	}
+	11233.1.1 = {
+		holder = 93752
+	}
+	11276.1.1 = {
+		holder = 93754
+	}
+	11315.1.1 = {
+		holder = 470040
+	}
+}
+
+d_bihar = {
+	10804.1.1 = {
+		liege = "k_bulgaria"
+		holder = 146153
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 70382
+	}
+	10895.1.1 = {
+		liege = "k_magyar"
+		holder = 0
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11000.12.25 = {
+		liege = "k_hungary"
+	}
+}
+
+c_bihar = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 146144
+	}
+	10736.1.1 = {
+		holder = 146145
+	}
+	10750.1.1 = {
+		holder = 146146
+	}
+	10762.1.1 = {
+		holder = 146147
+	}
+	10771.1.1 = {
+		holder = 146148
+	}
+	10795.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146151
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10865.1.1 = {
+		holder = 168285
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11063.12.1 = {
+		liege = "d_transylvania"
+	}
+	11063.12.1 = {
+		holder = 474
+	}
+	11172.3.4 = {
+		holder = bihar_ispan_1 # Ezsau
+		liege = k_hungary
+	}
+	11196.4.23 = {
+		holder = 93751
+	}
+	11226.1.1 = {
+		holder = 93753
+	}
+	11233.1.1 = {
+		holder = 93752
+	}
+	11276.1.1 = {
+		holder = 470060
+	}
+	11320.1.2 = {
+		holder = 470062
+	}
+}
+
+c_zarand = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 146144
+	}
+	10736.1.1 = {
+		holder = 146145
+	}
+	10750.1.1 = {
+		holder = 146146
+	}
+	10762.1.1 = {
+		holder = 146147
+	}
+	10771.1.1 = {
+		holder = 146148
+	}
+	10795.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146151
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10865.1.1 = {
+		holder = 168285
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11063.12.1 = {
+		liege = "d_transylvania"
+	}
+	11063.12.1 = {
+		holder = 474
+	}
+	11172.3.4 = {
+		holder = bihar_ispan_1 # Ezsau
+	}
+	11196.4.23 = {
+		holder = 93751
+	}
+	11226.1.1 = {
+		holder = 93753
+	}
+	11233.1.1 = {
+		holder = 93752
+	}
+	11276.1.1 = {
+		holder = 470060
+	}
+	11320.1.2 = {
+		holder = 470062
+	}
+}
+
+c_bekes = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 146144
+	}
+	10736.1.1 = {
+		holder = 146145
+	}
+	10750.1.1 = {
+		holder = 146146
+	}
+	10762.1.1 = {
+		holder = 146147
+	}
+	10771.1.1 = {
+		holder = 146148
+	}
+	10795.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146151
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10865.1.1 = {
+		holder = 168285
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11063.12.1 = {
+		liege = "d_transylvania"
+	}
+	11063.12.1 = {
+		holder = 474
+	}
+	11172.3.4 = {
+		holder = 219500
+	}
+	11196.4.23 = {
+		holder = 93751
+	}
+	11226.1.1 = {
+		holder = 93753
+	}
+	11233.1.1 = {
+		holder = 93752
+	}
+	11276.1.1 = {
+		holder = 470060
+	}
+	11320.1.2 = {
+		holder = 470062
+	}
+}
+
+c_szabolcs = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146156
+		government = tribal_government
+	}
+	10707.1.1 = {
+		holder = 146160
+	}
+	10731.1.1 = {
+		holder = 146165
+	}
+	10756.1.1 = {
+		holder = 146170
+	}
+	10804.1.1 = {
+		holder = 194000
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+	}
+	10826.1.1 = {
+		holder = 168071
+	}
+	10846.1.1 = {
+		holder = 168072
+	}
+	10866.1.1 = {
+		holder = 168073
+	}
+	10884.1.1 = {
+		holder = 168074
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 476
+	}
+	11172.3.4 = {
+		holder = 219500
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11210.1.1 = {
+		holder = 93789
+	}
+	11240.1.1 = {
+		holder = 93790
+	}
+	11279.1.1 = {
+		holder = 93792
+	}
+	11295.1.1 = {
+		holder = 93794
+	}
+	11299.1.1 = {
+		liege = "d_visegrad"
+	}
+	11301.1.1 = {
+		holder = 93796
+	}
+	11325.1.1 = {
+		holder = 470212
+	}
+}
+
+c_szatmar = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 146144
+	}
+	10736.1.1 = {
+		holder = 146145
+	}
+	10750.1.1 = {
+		holder = 146146
+	}
+	10762.1.1 = {
+		holder = 146147
+	}
+	10771.1.1 = {
+		holder = 146148
+	}
+	10795.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146151
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10865.1.1 = {
+		holder = 168285
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11063.12.1 = {
+		liege = "d_transylvania"
+	}
+	11063.12.1 = {
+		holder = 474
+	}
+	11066.1.1 = {
+		holder = 20360
+	}
+	
+	11095.7.29 = {
+		holder = 480
+	}
+	11163.6.19 = {
+		holder = szatmar_ispan_1 # Miklos
+		liege = k_hungary
+	}
+	11196.4.23 = {
+		holder = 93751
+	}
+	11226.1.1 = {
+		holder = 93753
+	}
+	11233.1.1 = {
+		holder = 93752
+	}
+	11276.1.1 = {
+		holder = 470060
+	}
+	11320.1.2 = {
+		holder = 470062
+	}
+}
+
+d_temes = {
+	10804.1.1 = {
+		liege = "k_bulgaria"
+		holder = 146153
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 168290
+	}
+	10895.1.1 = {
+		liege = "k_magyar"
+		holder = 0
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11000.12.25 = {
+		liege = "k_hungary"
+	}
+}
+
+c_temes = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 146144
+	}
+	10736.1.1 = {
+		holder = 146145
+	}
+	10750.1.1 = {
+		holder = 146146
+	}
+	10762.1.1 = {
+		holder = 146147
+	}
+	10763.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146152
+	}
+	10804.1.1 = {
+		liege = "d_temes"
+		holder = 146153
+	}
+	10867.1.1 = {
+		holder = 168284
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 4406
+	}
+	11083.1.1 = {
+		holder = 4386
+	}
+	11098.1.1 = {
+		holder = 4387
+	}
+	11172.3.4 = {
+		holder = temes_ispan_1 # Pongrac
+	}
+	11190.1.1 = {
+		holder = 93658
+	}
+	11195.1.1 = {
+		holder = 93660
+	}
+	11218.1.1 = {
+		holder = 93662
+	}
+	11256.1.1 = {
+		liege = "d_transylvania"
+	}
+	11256.1.1 = {
+		holder = 470130
+	}
+	11299.1.1 = {
+		holder = 470131
+	}
+	11315.1.10 = {
+		liege = "k_hungary"
+	holder = 470132
+	}
+	11330.1.10 = {
+		holder = 470135
+	}
+}
+
+c_arad = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 146144
+	}
+	10736.1.1 = {
+		holder = 146145
+	}
+	10750.1.1 = {
+		holder = 146146
+	}
+	10762.1.1 = {
+		holder = 146147
+	}
+	10771.1.1 = {
+		holder = 146148
+	}
+	10795.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146151
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10865.1.1 = {
+		holder = 168285
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11063.12.1 = {
+		liege = "d_transylvania"
+	}
+	11063.12.1 = {
+		holder = 474
+	}
+	11172.3.4 = {
+		holder = 219500
+	}
+	11196.4.23 = {
+		holder = 93751
+	}
+	11226.1.1 = {
+		holder = 93753
+	}
+	11233.1.1 = {
+		holder = 93752
+	}
+	11276.1.1 = {
+		holder = 470060
+	}
+	11320.1.2 = {
+		holder = 470062
+	}
+}
+
+c_krasso = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 146144
+	}
+	10736.1.1 = {
+		holder = 146145
+	}
+	10750.1.1 = {
+		holder = 146146
+	}
+	10762.1.1 = {
+		holder = 146147
+	}
+	10763.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146152
+	}
+	10804.1.1 = {
+		liege = "d_temes"
+		holder = 146153
+	}
+	10867.1.1 = {
+		holder = 168284
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 4362
+	}
+	11083.1.1 = {
+		holder = 4386
+	}
+	11098.1.1 = {
+		holder = 4387
+	}
+	11117.1.1 = {
+		holder = 93655
+	}
+	11130.1.1 = {
+		holder = 93656
+	}
+	11160.1.1 = {
+		holder = 93657
+	}
+	11190.1.1 = {
+		holder = 93658
+	}
+	11195.1.1 = {
+		holder = 93660
+	}
+	11218.1.1 = {
+		holder = 93662
+	}
+	11256.1.1 = {
+		liege = "d_transylvania"
+	}
+	11256.1.1 = {
+		holder = 470130
+	}
+	11299.1.1 = {
+		holder = 470131
+	}
+	11315.1.10 = {
+		liege = "k_hungary"
+	holder = 470132
+	}
+	11330.1.10 = {
+		holder = 470135
+	}
+}
+
+c_keve = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 146144
+	}
+	10736.1.1 = {
+		holder = 146145
+	}
+	10750.1.1 = {
+		holder = 146146
+	}
+	10762.1.1 = {
+		holder = 146147
+	}
+	10763.1.1 = {
+		holder = 146150
+	}
+	10800.1.1 = {
+		holder = 146152
+	}
+	10804.1.1 = {
+		liege = "d_temes"
+		holder = 146153
+	}
+	10867.1.1 = {
+		holder = 168284
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 4362
+	}
+	11083.1.1 = {
+		holder = 4386
+	}
+	11098.1.1 = {
+		holder = 4387
+	}
+	11117.1.1 = {
+		holder = 93655
+	}
+	11130.1.1 = {
+		holder = 93656
+	}
+	11160.1.1 = {
+		holder = 93657
+	}
+	11190.1.1 = {
+		holder = 93658
+	}
+	11195.1.1 = {
+		holder = 93660
+	}
+	11218.1.1 = {
+		holder = 93662
+	}
+	11256.1.1 = {
+		liege = "d_transylvania"
+	}
+	11256.1.1 = {
+		holder = 470130
+	}
+	11299.1.1 = {
+		holder = 470131
+	}
+	11315.1.10 = {
+		liege = "k_hungary"
+	holder = 470132
+	}
+	11330.1.10 = {
+		holder = 470135
+	}
+}
+
+c_csanad = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146155
+		government = tribal_government
+	}
+	10701.1.1 = {
+		holder = 146159
+	}
+	10721.1.1 = {
+		holder = 146163
+	}
+	10748.1.1 = {
+		holder = 146168
+	}
+	10785.1.1 = {
+		holder = 146173
+	}
+	
+	10805.1.1 = {
+		liege = "d_visegrad"
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 20364
+	}
+	11083.1.1 = {
+		holder = 4386
+	}
+	11098.1.1 = {
+		holder = 4387
+	}
+	11117.1.1 = {
+		holder = 93655
+	}
+	11130.1.1 = {
+		holder = 93656
+	}
+	11160.1.1 = {
+		holder = 93657
+	}
+	11171.1.1 = {
+		holder = 93544 # Ampud
+	}
+	11190.1.1 = {
+		holder = 93658
+	}
+	11195.1.1 = {
+		holder = 93660
+	}
+	11218.1.1 = {
+		holder = 93662
+	}
+	11256.1.1 = {
+		holder = 93666
+	}
+	11282.1.1 = {
+		holder = 93667
+	}
+	11285.1.1 = {
+		holder = 93669
+	}
+	11290.1.1 = {
+		holder = 93672
+	}
+	11332.1.1 = {
+		holder = 93673
+	}
+}
+
+d_bacs = {
+	10805.1.1 = {
+		liege = "k_bulgaria"
+		holder = 146172
+		government = tribal_government
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	10895.1.1 = {
+		liege = "k_magyar"
+		holder = 0
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11000.12.25 = {
+		liege = "k_hungary"
+	}
+	11299.1.1 = {
+		holder = 93794
+	}
+	11301.1.1 = {
+		holder = 93796
+	}
+	11325.1.1 = {
+		holder = 469500
+	}
+}
+
+c_bacs = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10708.1.1 = {
+		holder = 146144
+	}
+	10725.1.1 = {
+		holder = 146146
+	}
+	10750.1.1 = {
+		holder = 146148
+	}
+	10765.1.1 = {
+		holder = 146151
+	}
+	10780.1.1 = {
+		holder = 146153
+	}
+	10804.1.1 = {
+		liege = "d_temes"
+	}
+	10867.1.1 = {
+		holder = 168290
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 20363
+	}
+	11172.3.4 = {
+		holder = bacs_ispan_1 # Denes
+	}
+	11196.1.1 = {
+		holder = 93767
+	}
+	11237.1.1 = {
+		holder = 93768
+	}
+	11274.1.1 = {
+		holder = 470150
+	}
+	11299.1.1 = {
+		liege = "d_somogy"
+	}
+	11309.1.1 = {
+		holder = 470151
+	}
+}
+
+c_bodrog = {
+	10685.1.1 = {
+		liege = "d_transylvania"
+		holder = 146143
+		government = tribal_government
+	}
+	10708.1.1 = {
+		holder = 146144
+	}
+	10725.1.1 = {
+		holder = 146146
+	}
+	10750.1.1 = {
+		holder = 146148
+	}
+	10765.1.1 = {
+		holder = 146151
+	}
+	10780.1.1 = {
+		holder = 146153
+	}
+	10804.1.1 = {
+		liege = "d_temes"
+	}
+	10867.1.1 = {
+		holder = 168290
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 20363
+	}
+	11172.3.4 = {
+		holder = bodrog_ispan_1 # Istvan
+	}
+	11196.1.1 = {
+		holder = 93767
+	}
+	11237.1.1 = {
+		holder = 93768
+	}
+	11274.1.1 = {
+		holder = 470150
+	}
+	11299.1.1 = {
+		liege = "d_somogy"
+	}
+	11309.1.1 = {
+		holder = 470151
+	}
+}
+
+c_csongrad = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146155
+		government = tribal_government
+	}
+	10701.1.1 = {
+		holder = 146159
+	}
+	10721.1.1 = {
+		holder = 146163
+	}
+	10748.1.1 = {
+		holder = 146168
+	}
+	10785.1.1 = {
+		holder = 146173
+	}
+	
+	10805.1.1 = {
+		liege = "d_visegrad"
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 20364
+	}
+	11083.1.1 = {
+		holder = 4386
+	}
+	11098.1.1 = {
+		holder = 4387
+	}
+	11117.1.1 = {
+		holder = 93655
+	}
+	11130.1.1 = {
+		holder = 93656
+	}
+	11160.1.1 = {
+		holder = 93657
+	}
+	11190.1.1 = {
+		holder = 93658
+	}
+	11195.1.1 = {
+		holder = 93660
+	}
+	11218.1.1 = {
+		holder = 93662
+	}
+	11256.1.1 = {
+		holder = 93666
+	}
+	11282.1.1 = {
+		holder = 93667
+	}
+	11285.1.1 = {
+		holder = 93669
+	}
+	11290.1.1 = {
+		holder = 93672
+	}
+	11332.1.1 = {
+		holder = 93673
+	}
+}
+
+d_gyor = {
+	10801.1.1 = {
+		change_development_level = 4
+	}
+	
+	11001.1.1 = {
+		change_development_level = 7
+	}
+	
+	11101.1.1 = {
+		change_development_level = 11
+	}
+	11178.1.1 = { change_development_level = 15 }
+
+	10805.1.1 = {
+		liege = "k_bulgaria"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10867.1.1 = {
+		holder = 187012 #Kocel
+		liege = 0
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	10895.1.1 = {
+		liege = "k_magyar"
+		holder = 0
+	}
+	11000.12.25 = {
+		liege = "k_hungary"
+	}
+	11299.1.1 = {
+		holder = 93794
+	}
+	11301.1.1 = {
+		holder = 93796
+	}
+	11325.1.1 = {
+		holder = 469500
+	}
+}
+
+c_gyor = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146154
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10757.1.1 = {
+		holder = 146171
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10867.1.1 = {
+		holder = 187012 #Kocel
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	#10895.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 4411
+	}
+	11177.1.1 = {
+		holder = 219006 # Kornel
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+c_sopron = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146154
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10757.1.1 = {
+		holder = 146171
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10867.1.1 = {
+		holder = 187012 #Kocel
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	#10895.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 4410
+	}
+	11172.3.4 = {
+		holder = sopron_ispan_1 # Lorinc
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+c_vas = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146154
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10757.1.1 = {
+		holder = 146171
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10867.1.1 = {
+		holder = 187012 #Kocel
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	#10895.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 4410
+	}
+	11087.1.1 = {
+		holder = 4440
+	}
+	11172.3.4 = {
+		holder = vas_ispan_1 # Egyed
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+c_veszprem = {
+	10685.1.1 = {
+		liege = "k_hungary"
+		holder = 146154
+	}
+	10701.1.1 = {
+		holder = 146155
+	}
+	10707.1.1 = {
+		holder = 146156
+	}
+	10714.1.1 = {
+		holder = 146157
+	}
+	10718.1.1 = {
+		holder = 146158
+	}
+	10721.1.1 = {
+		holder = 146159
+	}
+	10731.1.1 = {
+		holder = 146160
+	}
+	10733.1.1 = {
+		holder = 146161
+	}
+	10743.1.1 = {
+		holder = 146162
+	}
+	10748.1.1 = {
+		holder = 146163
+	}
+	10756.1.1 = {
+		holder = 146165
+	}
+	10757.1.1 = {
+		holder = 146171
+	}
+	10805.1.1 = {
+		liege = "d_visegrad"
+		holder = 146172
+	}
+	10808.1.1 = {
+		holder = 146173
+	}
+	10813.1.1 = {
+		holder = 194000
+	}
+	10830.1.1 = {
+		holder = 168071
+	}
+	10858.1.1 = {
+		holder = 168072
+	}
+	10867.1.1 = {
+		holder = 187012 #Kocel
+	}
+	10884.1.1 = {
+		holder = 168073
+	}
+	10891.1.1 = {
+		holder = 168074
+	}
+	#10895.1.1 = {
+	#	holder = 0
+	#}
+	
+	11066.1.1 = {
+		liege = "k_hungary"
+	}
+	11066.1.1 = {
+		holder = 4435
+	}
+	11171.1.1 = {
+		holder = 93658 # Benedek
+	}
+	11196.4.23 = {
+		holder = 219501
+	}
+	11204.11.30 = {
+		holder = 98002
+	}
+	11205.5.7 = {
+		holder = 219502
+	}
+	11235.9.21 = {
+		holder = 98003
+	}
+	11270.5.3 = {
+		holder = 98004
+	}
+	11272.8.6 = {
+		holder = 98005
+	}
+	11290.7.10 = {
+		holder = 98007
+	}
+	11305.12.6 = {
+		holder = 98009
+	}
+	11307.10.10 = {
+		holder = 469500
+	}
+}
+
+d_syrmia = {
+	10500.1.1 = {
+		de_jure_liege = k_serbia
+	}
+	11000.1.1 = {
+		de_jure_liege = k_hungary
+	}
+	11066.1.1 = {
+		holder = 20499	#Dragos Vojislavljevic, as strategos of Sirmium
+	}
+	11167.1.1 = {
+		holder = lampardas_1 # Andronikos lampardas
+		government = administrative_government
+		liege = e_byzantium
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+}
+
+c_szerem = {
+	10330.1.1 = {
+		liege = "d_vidin"
+	}
+	10681.1.1 = {
+		holder = 159118
+	}
+	10700.1.1 = {
+		holder = 145944
+	}
+	10740.1.1 = {
+		holder = 145945
+	}
+	10766.1.1 = {
+		holder = 145947
+	}
+	10786.1.1 = {
+		holder = 145952
+	}
+	10852.1.1 = {
+		holder = 70382 #Boris
+	}
+	10860.1.1 = {
+		holder = 168067
+	}
+	11066.1.1 = {
+		liege = "d_vidin"
+	}
+	11066.1.1 = {
+		holder = 20499
+	}
+	11071.8.26 = {
+		holder = 34463
+	}
+	11073.1.1 = {
+		holder = 41537
+	}
+	11094.3.12 = {
+		holder = 34466
+	}
+	11107.1.1 = {
+		holder = 34467
+	}
+	11140.1.1 = {
+		holder = 34470
+	}
+	11167.1.1 = {
+		holder = lampardas_1 # Andronikos lampardas
+	}
+	11185.1.1 = {
+		liege = "k_bulgaria"
+	}
+	11185.1.1 = {
+		holder = 217502 #Kaloyan
+	}
+	11196.1.1 = {
+		holder = 217505 #Boril
+	}
+	11218.1.2 = {
+		holder = 31160 #Ivan II
+	}
+	11241.6.24 = {
+		holder = 31165 #Koloman I
+	}
+	11246.8.1 = {
+		holder = 31166 #Mihail I
+	}
+	11256.1.1 = {
+		holder = 31170 #Koloman II
+	}
+	11257.1.1 = {
+		holder = 31185 #Micho
+	}
+	11258.1.1 = {
+		holder = 31187 #Konstandin
+	}
+	11277.9.1 = {
+		holder = 467508 #Shishman
+	}
+	11311.1.2 = {
+		holder = 467520 #Mihail
+	}
+	11330.7.28 = {
+		holder = 467524 #Liudovik
+	}
+}
+
+c_vukovar = {
+	10760.1.1 = {
+		liege = "d_slavonia"
+		holder = 168292
+	}
+	
+	10766.1.1 = {
+		holder = 168293
+	}
+	
+	10796.1.1 = {
+		holder = 168296
+	}
+	
+	10829.1.1 = {
+		holder = 168299
+	}
+	
+	10864.1.1 = {
+		holder = 8601
+	}
+	
+	11060.1.1 = {
+		holder = 8628
+	}
+	
+	11066.1.1 = {
+		liege = "d_slavonia"
+	}
+	
+	11066.1.1 = {
+		holder = 93539
+	}
+	
+	11089.1.1 = {
+		holder = 8626
+	}
+	
+	11090.1.1 = {
+		holder = 475
+	}
+	
+	11091.1.1 = {
+		holder = 474
+	}
+	
+	11093.1.1 = {
+		holder = 20381
+	}
+	
+	11097.1.1 = {
+		holder = 480
+	}
+	
+	11101.1.1 = {
+		holder = 93539
+	}
+	
+	11104.1.1 = {
+		holder = 93540
+	}
+	
+	11106.1.1 = {
+		holder = 93541
+	}
+	
+	11107.1.1 = {
+		holder = 93542
+	}
+	
+	11117.1.1 = {
+		holder = 93543
+	}
+	11141.1.1 = {
+		holder = 34072
+	}
+	11161.1.1 = {
+		holder = 93544
+	}
+	11165.1.1 = {
+		holder = boricevic_3
+		liege = d_bosna
+	}
+	11183.9.24 = {
+		liege = "d_slavonia"
+	}
+	
+	11183.9.24 = {
+		holder = 93546
+	}
+	
+	11185.1.1 = {
+		holder = 93547
+	}
+	
+	11193.1.1 = {
+		holder = 93548
+	}
+	
+	11195.1.1 = {
+		holder = 93549
+	}
+	
+	11199.1.1 = {
+		holder = 93550
+	}
+	
+	11200.1.1 = {
+		holder = 93552
+	}
+	
+	11203.1.1 = {
+		holder = 93553
+	}
+	
+	11206.1.1 = {
+		holder = 93554
+	}
+	
+	11208.1.1 = {
+		holder = 93555
+	}
+	
+	11209.1.1 = {
+		holder = 70834
+	}
+	
+	11218.1.1 = {
+		holder = 32637
+	}
+	
+	11255.1.1 = {
+		holder = 32640
+	}
+	
+	11282.1.1 = {
+		holder = 32641
+	}
+	
+	11300.1.1 = {
+		holder = 32644
+	}
+}

@@ -1,0 +1,3417 @@
+k_arabia = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 20 }
+}
+
+c_al_jawf = {
+	10627.1.1 = {
+		liege = e_arabia
+		government = tribal_government
+	}
+	
+	10765.1.1 = {
+		holder = 188613
+	}
+	
+	10860.1.1 = {
+		holder = bedouin0074
+	}
+	10897.1.1 = {
+		liege = 0
+		holder = bedouin0075
+	}
+	10921.1.1 = {
+		holder = bedouin0076
+	}
+	10951.1.1 = {
+		holder = bedouin0077
+	}
+	11003.1.1 = {
+		holder = bedouin0078
+	}
+	11038.1.1 = {
+		holder = bedouin0079
+	}
+	11066.1.1 = {
+		government = clan_government
+	}
+	11076.1.1 = {
+		holder = bedouin0080
+	}
+	11096.1.1 = {
+		holder = bedouin0081
+	}
+	11129.1.1 = {
+		holder = bedouin0082
+	}
+	11161.1.1 = {
+		holder = bedouin0083
+	}
+	11195.1.1 = {
+		holder = bedouin0084
+	}
+}
+
+
+c_thalabiya = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10627.1.1 = {
+		liege = e_arabia
+		government = tribal_government
+	}
+	
+	10765.1.1 = {
+		holder = 188615
+	}
+	
+	10836.1.1 = {
+		holder = bedouin0059
+	}
+	10863.1.1 = {
+		holder = bedouin0060
+	}
+	10902.1.1 = {
+		holder = bedouin0061
+	}
+	
+	11066.1.1 = {
+		liege = "d_yamama"
+		holder = 34485
+	}
+	11100.1.1 = {
+		liege = "d_najd"
+		holder = 34486
+	}
+	11130.1.1 = {
+		holder = 34487
+	}
+	11160.1.1 = {
+		holder = 34488
+	}
+	11200.1.1 = {
+		holder = 34489
+	}
+	11220.1.1 = {
+		holder = 34490
+	}
+	11250.1.1 = {
+		holder = 34491
+	}
+	11285.1.1 = {
+		holder = 34492
+	}
+	11300.1.1 = {
+		holder = 34493
+	}
+	11320.1.1 = {
+		holder = 34494
+	}
+}
+
+
+c_sirhan = {
+	10690.1.1 = {
+		liege = "d_palestine"
+		holder = 146022
+	}
+	10735.1.1 = {
+		holder = 188574
+	}
+	10749.8.29 = {
+		holder = 188575
+	}
+	10754.1.1 = {
+		holder = 188576
+	}
+
+	10860.1.1 = {
+		liege = 0
+		holder = bedouin0074
+	}
+	10897.1.1 = {
+		holder = bedouin0075
+	}
+	10921.1.1 = {
+		holder = bedouin0076
+	}
+	10951.1.1 = {
+		holder = bedouin0077
+	}
+	11003.1.1 = {
+		holder = bedouin0078
+	}
+	11038.1.1 = {
+		holder = bedouin0079
+	}
+	11066.1.1 = {
+		government = clan_government
+	}
+	11076.1.1 = {
+		holder = bedouin0080
+	}
+	11096.1.1 = {
+		holder = bedouin0081
+	}
+	11129.1.1 = {
+		holder = bedouin0082
+	}
+	11161.1.1 = {
+		holder = bedouin0083
+	}
+	11195.1.1 = {
+		holder = bedouin0084
+	}
+
+}
+
+d_amman = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+}
+
+c_balqa = {
+	10750.1.1 = {
+		liege = "d_damascus"
+		holder = 146061
+	}
+	10754.1.1 = {
+		holder = 146126
+	}
+	10762.1.1 = {
+		holder = 146064
+	}
+	10794.1.1 = {
+		holder = 146066
+	}
+	10850.1.1 = {
+		holder = levantine0001
+	}
+	10866.1.1 = {
+		holder = 146080
+	}
+	11066.1.1 = {
+		holder = 20768
+	}
+	11067.1.1 = {
+		holder = 93430
+	}
+	11069.1.1 = {
+		holder = 93431
+	}
+	11071.1.1 = {
+		holder = 93432
+	}
+	11076.1.1 = {
+		holder = 93433
+	}
+	#Seljuk
+	11079.1.1 = {
+		holder = 3044
+	}
+	
+	11095.1.1 = {
+		holder = 144023
+	}
+	11104.6.1 = {
+		holder = 144024
+	}
+	#Burid
+	11105.1.1 = {
+		holder = 93435
+	}
+	11128.2.12 = {
+		holder = 93436
+	}
+	11132.6.6 = {
+		holder = 93437
+	}
+	11135.1.1 = {
+		holder = 93438
+	}
+	11139.1.1 = {
+		holder = 93439
+	}
+	11140.1.1 = {
+		holder = 93440
+	}
+	#Zengid
+	11154.4.8 = {
+		holder = 144031
+	}
+	11174.4.15 = {
+		holder = 144033
+	}
+	#Ayyubid
+	11175.1.1 = {
+		holder = 226000
+	}
+	11178.1.1 = {
+		holder = ayyubid_1 # Farrukhshah
+	}
+	11186.1.1 = {
+		holder = 226051
+	}
+	11196.1.1 = {
+		holder = 226052
+	}
+	11218.1.1 = {
+		holder = 144077
+	}
+	11227.1.1 = {
+		holder = 144078
+	}
+	11229.1.1 = {
+		holder = 144079
+	}
+	11237.8.27 = {
+		holder = 144080
+	}
+	11245.1.1 = {
+		holder = 144082
+	}
+	11260.1.1 = {
+		holder = 34990
+	}
+	11280.1.1 = {
+		holder = 32939
+	}
+	11296.1.1 = {
+		holder = 34991
+	}
+	11297.1.1 = {
+		holder = 34992
+	}
+	11312.1.1 = {
+		holder = 34993
+	}
+}
+
+c_maab = {
+	10867.1.1 = {	change_development_level = 10 }
+	11066.1.1 = { change_development_level = 16 }
+	11178.1.1 = { change_development_level = 18 }
+	
+	10690.1.1 = {
+		liege = "d_palestine"
+		holder = 146022
+	}
+	10735.1.1 = {
+		holder = 188574
+	}
+	10749.8.29 = {
+		holder = 188575
+	}
+	10754.1.1 = {
+		holder = 188576
+	}
+	10815.1.1 = {
+		holder = 146073
+	}
+	10822.1.1 = {
+		holder = 159731
+	}
+	10847.1.1 = {
+		holder = 159732
+	}
+	10866.1.1 = {
+		holder = 146080
+	}
+	10877.1.1 = {
+		liege = 0
+	}
+	11066.1.1 = {
+		liege = "d_damascus"
+	}
+	11066.1.1 = {
+		holder = 20780
+	}
+	11089.1.1 = {
+		holder = 3044
+	}
+	11095.1.1 = {
+		holder = 144023
+	}
+	11104.6.1 = {
+		holder = 144024
+	}
+	11105.1.1 = {
+		holder = 93436
+	}
+	
+	11115.1.1 = {
+		liege = "d_palestine"
+		holder = 10073 #Badouin I de Boulogne
+	}
+	11118.4.2 = {
+		liege = "d_oultrejourdain"
+	}
+	11118.4.2 = {
+		holder = 93000
+	}
+	11126.1.1 = {
+		holder = 93003
+	}
+	11147.1.1 = {
+		holder = 93005
+	}
+	11161.1.1 = {
+		holder = 232700
+	}	
+	11168.1.1 = {
+		holder = 223561
+	}
+	11173.1.1 = {
+		holder = 93009
+	}
+	11174.10.1 = {
+		holder = 223592
+	}
+	#11176.1.1 = {
+	#	holder = 223590
+	#}
+	11187.7.4 = {
+		holder = 223560
+	}
+	
+	11187.10.2 = {
+		holder = 226052
+	}
+	11218.8.1 = {
+		holder = 144077
+	}
+	11227.1.1 = {
+		holder = 144078
+	}
+	11248.1.1 = {
+		holder = 93034
+	}
+	11263.1.1 = {
+		holder = 32936
+	}
+	11279.7.1 = {
+		holder = 34984
+	}
+	11292.1.1 = {
+		holder = 34985
+	}
+	11312.1.1 = {
+		holder = 485000
+	}
+	11336.1.1 = {
+		holder = 485002
+	}
+
+}
+
+
+c_jilat = {
+	10690.1.1 = {
+		liege = "d_palestine"
+		holder = 146022
+	}
+	10735.1.1 = {
+		holder = 188574
+	}
+	10749.8.29 = {
+		holder = 188575
+	}
+	10754.1.1 = {
+		holder = 188576
+	}
+	10815.1.1 = {
+		holder = 146073
+	}
+	10822.1.1 = {
+		holder = 159731
+	}
+	10847.1.1 = {
+		holder = 159732
+	}
+	10866.1.1 = {
+		holder = 146080
+		liege = "d_damascus"
+	}
+	10877.1.1 = {
+		liege = 0
+	}
+	11066.1.1 = {
+		holder = 20780
+	}
+	11089.1.1 = {
+		holder = 3044
+	}
+	11095.1.1 = {
+		holder = 144023
+	}
+	11104.6.1 = {
+		holder = 144024
+	}
+	11105.1.1 = {
+		holder = 93436
+	}
+	
+	11115.1.1 = {
+		liege = "d_palestine"
+		holder = 10073 #Badouin I de Boulogne
+	}
+	11118.4.2 = {
+		liege = "d_oultrejourdain"
+	}
+	11118.4.2 = {
+		holder = 93000
+	}
+	11126.1.1 = {
+		holder = 93003
+	}
+	11147.1.1 = {
+		holder = 93005
+	}
+	11161.1.1 = {
+		holder = 232700
+	}	
+	11168.1.1 = {
+		holder = 223561
+	}
+	11173.1.1 = {
+		holder = 93009
+	}
+	11174.10.1 = {
+		holder = 226000 # Saladin
+	}
+	11178.1.1 = {
+		holder = ayyubid_1 # Farrukhshah
+	}
+	#11176.1.1 = {
+	#	holder = 223590
+	#}
+	11187.7.4 = {
+		holder = 223560
+	}
+	11187.10.2 = {
+		holder = 226052
+	}
+	11218.8.1 = {
+		holder = 144077
+	}
+	11227.1.1 = {
+		holder = 144078
+	}
+	11248.1.1 = {
+		holder = 93034
+	}
+	11263.1.1 = {
+		holder = 32936
+	}
+	11279.7.1 = {
+		holder = 34984
+	}
+	11292.1.1 = {
+		holder = 34985
+	}
+	11312.1.1 = {
+		holder = 485000
+	}
+	11336.1.1 = {
+		holder = 485002
+	}
+
+}
+
+
+d_shammar = {
+	10690.1.1 = {
+		liege = "e_arabia"
+		holder = 146054
+	}
+	10721.1.1 = {
+		holder = 146055
+	}
+	10749.1.1 = {
+		holder = 146057
+	}
+	10750.1.1 = {
+		holder = 0
+	}
+	10855.1.1 = {
+		holder = bedouin00161
+	}
+	10869.1.1 = {
+		liege = 0
+		holder = 0
+	}
+}
+
+c_tabuk = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10767.1.1 = {
+		liege = "d_medina"
+		holder = 188619
+	}
+	
+	10855.1.1 = {
+		liege = "d_shammar"
+		holder = bedouin00161
+	}
+	10869.1.1 = {
+		liege = 0
+	}
+	
+	11066.1.1 = {
+		liege = "d_medina"
+	}
+	11066.1.1 = {
+		holder = 20794
+	}
+	11089.1.1 = {
+		holder = 93359
+	}
+	11120.1.1 = {
+		holder = 93360
+	}
+	11160.1.1 = {
+		holder = 93361
+	}
+	11200.1.1 = {
+		holder = 93362
+	}
+	11240.1.1 = {
+		holder = 93363
+	}
+	11280.1.1 = {
+		holder = 93364
+	}
+	11320.1.1 = {
+		holder = 93365
+	}
+}
+
+
+c_al_aqabah = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10755.1.1 = {
+		liege = "d_medina"
+		holder = 188618
+	}
+	10855.1.1 = {
+		liege = "d_shammar"
+	}
+	10855.1.1 = {
+		holder = bedouin00161
+	}
+	10869.1.1 = {
+		liege = 0
+	}
+	
+	11066.1.1 = {
+		liege = "k_egypt"
+	}
+	11066.1.1 = {
+		holder = 20786
+	}
+	11076.1.1 = {
+		liege = "d_damascus"
+	}
+	11089.1.1 = {
+		holder = 93366
+	}
+	11120.1.1 = {
+		holder = 93367
+	}
+	11160.1.1 = {
+		holder = 93368
+	}
+	11187.10.2 = {
+		liege = "d_oultrejourdain"
+	}
+	11200.1.1 = {
+		holder = 93369
+	}
+	11240.1.1 = {
+		holder = 93370
+	}
+	11280.1.1 = {
+		holder = 93371
+	}
+	11320.1.1 = {
+		holder = 93372
+	}
+}
+
+c_maan = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10690.1.1 = {
+		liege = "d_shammar"
+		holder = 146054
+	}
+	10710.1.1 = {
+		holder = 146055
+	}
+	10726.1.1 = {
+		holder = 146056
+	}
+	10744.1.1 = {
+		holder = 146057
+	}
+	10750.1.1 = {
+		liege = "d_damascus"
+	}
+	10752.1.1 = {
+		holder = 146058
+	}
+	10756.1.1 = {
+		holder = 146059
+	}
+	10855.1.1 = {
+		liege = "d_shammar"
+	}
+	10855.1.1 = {
+		holder = bedouin00161
+	}
+	10869.1.1 = {
+		liege = 0
+	}
+	11066.1.1 = {
+		liege = "d_damascus"
+	}
+	11066.1.1 = {
+		holder = 20785
+	}
+	11089.1.1 = {
+		holder = 93352
+	}
+	11120.1.1 = {
+		holder = 93353
+	}
+	11160.1.1 = {
+		holder = 93354
+	}
+	11187.10.2 = {
+		liege = "d_oultrejourdain"
+	}
+	11200.1.1 = {
+		holder = 93355
+	}
+	11240.1.1 = {
+		holder = 93356
+	}
+	11280.1.1 = {
+		holder = 93357
+	}
+	11320.1.1 = {
+		holder = 93358
+	}
+}
+
+
+c_tayma = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10767.1.1 = {
+		liege = "d_medina"
+		holder = 188620
+	}
+	
+	10830.1.1 = {
+		holder = bedouin00162
+	}
+	
+	11061.1.1 = {
+		holder = 20794
+		liege = "d_medina"
+	}
+	11089.1.1 = {
+		holder = 93359
+	}
+	11120.1.1 = {
+		holder = 93360
+	}
+	11160.1.1 = {
+		holder = 93361
+	}
+	11201.1.1 = {
+		holder = 34051 # Qatada - Emir of Mecca
+	}
+	11220.1.1 = {
+		holder = 34052
+	}
+	11232.1.1 = {
+		holder = 34053
+	}
+	11239.1.1 = {
+		holder = 34054
+	}
+	11240.1.1 = {
+		holder = 34053
+	}
+	11241.1.1 = {
+		holder = 34055
+	}
+	11245.1.1 = {
+		holder = 34053
+	}
+	11254.1.1 = {
+		holder = 34057
+	}
+	11255.1.1 = {
+		holder = 34058
+	}
+	11270.1.1 = {
+		holder = 34056
+	}
+	11301.1.1 = {
+		holder = 34060
+	}
+	11302.1.1 = {
+		holder = 34062
+	}
+	11314.1.1 = {
+		holder = 34060
+	}
+}
+
+
+d_medina = {
+	10767.1.1 = {
+		liege = e_arabia
+		holder = 163125 # Hasan ibn Zayd ibn Hasan
+	}
+	
+	10830.1.1 = {
+		holder = bedouin00162
+	}
+	
+	11061.1.1 = {
+		holder = 34046 # Hussayn - not actually the Emir of Mecca (it was Abul-Hashim ibn Muhammed )
+		liege = "k_egypt"
+	}
+	11076.1.1 = {
+		liege = "k_persia"
+	}
+	11094.1.1 = {
+		holder = 34047 # Issa - not actually the Emir of Mecca (it was Ibn Abul-Hashim Al-Thalab )
+	}
+	11101.1.1 = {
+		holder = 34048 # Abd al-Karim - probably not Emir of Mecca
+	}
+	11130.1.1 = {
+		holder = 34049 # Muta'in - probably not Emir of Mecca
+	}
+	11150.1.1 = {
+		holder = 34050 # Idris - probably not Emir of Mecca
+	}
+	11154.1.1 = {
+		liege = "k_egypt"
+	}
+	11170.1.1 = {
+		holder = husaynid_23 # Qasim
+	}
+	11201.1.1 = {
+		holder = 34051 # Qatada - Emir of Mecca
+	}
+	11220.1.1 = {
+		holder = 34052
+	}
+	11232.1.1 = {
+		holder = 34053
+	}
+	11239.1.1 = {
+		holder = 34054
+	}
+	11240.1.1 = {
+		holder = 34053
+	}
+	11241.1.1 = {
+		holder = 34055
+	}
+	11245.1.1 = {
+		holder = 34053
+	}
+	11254.1.1 = {
+		holder = 34057
+	}
+	11255.1.1 = {
+		holder = 34058
+	}
+	11270.1.1 = {
+		holder = 34056
+	}
+	11301.1.1 = {
+		holder = 34060
+	}
+	11302.1.1 = {
+		holder = 34062
+	}
+	11314.1.1 = {
+		holder = 34060
+	}
+}
+
+
+c_medina = {
+	10867.1.1 = {	change_development_level = 10 }
+	11066.1.1 = { change_development_level = 16 }
+	11178.1.1 = { change_development_level = 18 }
+	
+	10767.1.1 = {
+		liege = d_medina
+		holder = 163125 # Hasan ibn Zayd ibn Hasan
+	}
+	
+	10830.1.1 = {
+		holder = bedouin00162
+	}
+	
+	11061.1.1 = {
+		holder = 34046 # Hussayn - not actually the Emir of Mecca (it was Abul-Hashim ibn Muhammed )
+	}
+	11094.1.1 = {
+		holder = 34047 # Issa - not actually the Emir of Mecca (it was Ibn Abul-Hashim Al-Thalab )
+	}
+	11101.1.1 = {
+		holder = 34048 # Abd al-Karim - probably not Emir of Mecca
+	}
+	11130.1.1 = {
+		holder = 34049 # Muta'in - probably not Emir of Mecca
+	}
+	11150.1.1 = {
+		holder = 34050 # Idris - probably not Emir of Mecca
+	}
+	11170.1.1 = {
+		holder = husaynid_23 # Qasim
+	}
+	11201.1.1 = {
+		holder = 34051 # Qatada - Emir of Mecca
+	}
+	11220.1.1 = {
+		holder = 34052
+	}
+	11232.1.1 = {
+		holder = 34053
+	}
+	11239.1.1 = {
+		holder = 34054
+	}
+	11240.1.1 = {
+		holder = 34053
+	}
+	11241.1.1 = {
+		holder = 34055
+	}
+	11245.1.1 = {
+		holder = 34053
+	}
+	11254.1.1 = {
+		holder = 34057
+	}
+	11255.1.1 = {
+		holder = 34058
+	}
+	11270.1.1 = {
+		holder = 34056
+	}
+	11301.1.1 = {
+		holder = 34060
+	}
+	11302.1.1 = {
+		holder = 34062
+	}
+	11314.1.1 = {
+		holder = 34060
+	}
+}
+
+
+c_wajh = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10767.1.1 = {
+		liege = "d_medina"
+		holder = 188620
+	}
+	
+	10830.1.1 = {
+		holder = bedouin00162
+	}
+	
+	11061.1.1 = {
+		holder = 20794
+		liege = "d_medina"
+	}
+	11094.1.1 = {
+		holder = 34047 # Issa - not actually the Emir of Mecca (it was Ibn Abul-Hashim Al-Thalab )
+	}
+	11101.1.1 = {
+		holder = 34048 # Abd al-Karim - probably not Emir of Mecca
+	}
+	11130.1.1 = {
+		holder = 34049 # Muta'in - probably not Emir of Mecca
+	}
+	11150.1.1 = {
+		holder = 34050 # Idris - probably not Emir of Mecca
+	}
+	11170.1.1 = {
+		holder = husaynid_23 # Qasim
+	}
+	11201.1.1 = {
+		holder = 34051 # Qatada - Emir of Mecca
+	}
+	11220.1.1 = {
+		holder = 34052
+	}
+	11232.1.1 = {
+		holder = 34053
+	}
+	11239.1.1 = {
+		holder = 34054
+	}
+	11240.1.1 = {
+		holder = 34053
+	}
+	11241.1.1 = {
+		holder = 34055
+	}
+	11245.1.1 = {
+		holder = 34053
+	}
+	11254.1.1 = {
+		holder = 34057
+	}
+	11255.1.1 = {
+		holder = 34058
+	}
+	11270.1.1 = {
+		holder = 34056
+	}
+	11301.1.1 = {
+		holder = 34060
+	}
+	11302.1.1 = {
+		holder = 34062
+	}
+	11314.1.1 = {
+		holder = 34060
+	}
+}
+
+
+c_khaybar = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10767.1.1 = {
+		liege = d_medina
+		holder = 163125 # Hasan ibn Zayd ibn Hasan
+	}
+	
+	10830.1.1 = {
+		holder = bedouin00162
+	}
+	
+	11061.1.1 = {
+		holder = 34046 # Hussayn - not actually the Emir of Mecca (it was Abul-Hashim ibn Muhammed )
+	}
+	11094.1.1 = {
+		holder = 34047 # Issa - not actually the Emir of Mecca (it was Ibn Abul-Hashim Al-Thalab )
+	}
+	11101.1.1 = {
+		holder = 34048 # Abd al-Karim - probably not Emir of Mecca
+	}
+	11130.1.1 = {
+		holder = 34049 # Muta'in - probably not Emir of Mecca
+	}
+	11150.1.1 = {
+		holder = 34050 # Idris - probably not Emir of Mecca
+	}
+	11170.1.1 = {
+		holder = husaynid_23 # Qasim
+	}
+	11201.1.1 = {
+		holder = 34051 # Qatada - Emir of Mecca
+	}
+	11220.1.1 = {
+		holder = 34052
+	}
+	11232.1.1 = {
+		holder = 34053
+	}
+	11239.1.1 = {
+		holder = 34054
+	}
+	11240.1.1 = {
+		holder = 34053
+	}
+	11241.1.1 = {
+		holder = 34055
+	}
+	11245.1.1 = {
+		holder = 34053
+	}
+	11254.1.1 = {
+		holder = 34057
+	}
+	11255.1.1 = {
+		holder = 34058
+	}
+	11270.1.1 = {
+		holder = 34056
+	}
+	11301.1.1 = {
+		holder = 34060
+	}
+	11302.1.1 = {
+		holder = 34062
+	}
+	11314.1.1 = {
+		holder = 34060
+	}
+}
+
+
+c_yanbu = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10767.1.1 = {
+		liege = d_medina
+		holder = 163125 # Hasan ibn Zayd ibn Hasan
+	}
+	
+	10830.1.1 = {
+		holder = bedouin00162
+	}
+	
+	11061.1.1 = {
+		holder = 20802
+	}
+	11094.1.1 = {
+		holder = 34047 # Issa - not actually the Emir of Mecca (it was Ibn Abul-Hashim Al-Thalab )
+	}
+	11101.1.1 = {
+		holder = 34048 # Abd al-Karim - probably not Emir of Mecca
+	}
+	11130.1.1 = {
+		holder = 34049 # Muta'in - probably not Emir of Mecca
+	}
+	11150.1.1 = {
+		holder = 34050 # Idris - probably not Emir of Mecca
+	}
+	11170.1.1 = {
+		holder = husaynid_23 # Qasim
+	}
+	11201.1.1 = {
+		holder = 34051 # Qatada - Emir of Mecca
+	}
+	11220.1.1 = {
+		holder = 34052
+	}
+	11232.1.1 = {
+		holder = 34053
+	}
+	11239.1.1 = {
+		holder = 34054
+	}
+	11240.1.1 = {
+		holder = 34053
+	}
+	11241.1.1 = {
+		holder = 34055
+	}
+	11245.1.1 = {
+		holder = 34053
+	}
+	11254.1.1 = {
+		holder = 34057
+	}
+	11255.1.1 = {
+		holder = 34058
+	}
+	11270.1.1 = {
+		holder = 34056
+	}
+	11301.1.1 = {
+		holder = 34060
+	}
+	11302.1.1 = {
+		holder = 34062
+	}
+	11314.1.1 = {
+		holder = 34060
+	}
+}
+
+
+c_harrat_rahat = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10767.1.1 = {
+		government = tribal_government
+		liege = d_medina
+		holder = 163125 # Hasan ibn Zayd ibn Hasan
+	}
+	
+	#Banu Sulaym/Suleimids
+	10820.1.1 = {
+		liege = 0
+		holder = bedouin0043
+	}
+	10843.1.1 = {
+		holder = bedouin0042
+	}
+	10864.1.1 = {
+		holder = bedouin0041
+	}
+	10889.1.1 = {
+		holder = bedouin0040
+	}
+	10915.1.1 = {
+		holder = 155194
+	}
+	10947.1.1 = {
+		holder = 155195
+	}
+	10972.1.1 = {
+		holder = 155196
+	}
+	
+	#After defeat of Qarmatids Sulam pushed out by the Harb
+	10980.1.1 = {
+		holder = bedouin0089
+	}
+	10987.1.1 = {
+		holder = bedouin0090
+	}
+	11032.1.1 = {
+		holder = bedouin0091
+	}
+	11059.1.1 = {
+		liege = d_asir
+		holder = bedouin0092
+	}
+	11097.1.1 = {
+		holder = bedouin0093
+	}
+	11131.1.1 = {
+		holder = bedouin0094
+	}
+	11169.1.1 = {
+		holder = bedouin0095
+	}
+	11200.1.1 = {
+		holder = bedouin0096
+	}
+	11234.1.1 = {
+		holder = bedouin0097
+	}
+}
+
+
+d_mecca = {
+	10867.1.1 = {	change_development_level = 12 }
+	11066.1.1 = { change_development_level = 18 }
+	11178.1.1 = { change_development_level = 20 }
+
+	11094.1.1 = {
+		holder = 34047 # Issa - not actually the Emir of Mecca (it was Ibn Abul-Hashim Al-Thalab )
+	}
+	11101.1.1 = {
+		holder = 34048 # Abd al-Karim - probably not Emir of Mecca
+	}
+	11130.1.1 = {
+		holder = 34049 # Muta'in - probably not Emir of Mecca
+	}
+	11150.1.1 = {
+		holder = 34050 # Idris - probably not Emir of Mecca
+	}
+	11154.1.1 = {
+		liege = "k_egypt"
+	}
+}
+
+c_mecca = {
+	10867.1.1 = {	change_development_level = 12 }
+	11066.1.1 = { change_development_level = 18 }
+	11178.1.1 = { change_development_level = 34 }
+	
+	10767.1.1 = {
+		liege = d_medina
+		holder = 188610 # Muhammad b Ibrahim
+	}
+	
+	10830.1.1 = {
+		holder = bedouin00162
+	}
+	
+	11061.1.1 = {
+		holder = 34046 # Hussayn - not actually the Emir of Mecca (it was Abul-Hashim ibn Muhammed )
+	}
+	11094.1.1 = {
+		holder = 34047 # Issa - not actually the Emir of Mecca (it was Ibn Abul-Hashim Al-Thalab )
+	}
+	11101.1.1 = {
+		holder = 34048 # Abd al-Karim - probably not Emir of Mecca
+	}
+	11130.1.1 = {
+		holder = 34049 # Muta'in - probably not Emir of Mecca
+	}
+	11150.1.1 = {
+		holder = 34050 # Idris - probably not Emir of Mecca
+	}
+	11201.1.1 = {
+		holder = 34051 # Qatada - Emir of Mecca
+	}
+	11220.1.1 = {
+		holder = 34052
+	}
+	11232.1.1 = {
+		holder = 34053
+	}
+	11239.1.1 = {
+		holder = 34054
+	}
+	11240.1.1 = {
+		holder = 34053
+	}
+	11241.1.1 = {
+		holder = 34055
+	}
+	11245.1.1 = {
+		holder = 34053
+	}
+	11254.1.1 = {
+		holder = 34057
+	}
+	11255.1.1 = {
+		holder = 34058
+	}
+	11270.1.1 = {
+		holder = 34056
+	}
+	11301.1.1 = {
+		holder = 34060
+	}
+	11302.1.1 = {
+		holder = 34062
+	}
+	11314.1.1 = {
+		holder = 34060
+	}
+}
+
+
+c_taif = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10767.1.1 = {
+		government = tribal_government
+		liege = d_medina
+		holder = 188610 # Muhammad b Ibrahim
+	}
+
+	#Banu Hilal/Hilalid
+	10800.1.1 = {
+		liege = 0
+		holder = 155148
+	}
+	10860.1.1 = {
+		holder = 155149
+	}
+	10885.1.1 = {
+		holder = 155150
+	}
+	10910.1.1 = {
+		holder = 155151
+	}
+	10935.1.1 = {
+		holder = 159380
+	}
+	10950.1.1 = {
+		holder = 159381
+	}
+	
+	#After defeat of Qarmatids Hilal pushed out by the Harb
+	10980.1.1 = {
+		holder = bedouin0089
+	}
+	10987.1.1 = {
+		holder = bedouin0090
+	}
+	11032.1.1 = {
+		holder = bedouin0091
+	}
+	11059.1.1 = {
+		liege = d_asir
+		holder = bedouin0109
+	}
+	11095.1.1 = {
+		holder = bedouin0093
+	}
+	11131.1.1 = {
+		holder = bedouin0094
+	}
+	11169.1.1 = {
+		holder = bedouin0095
+	}
+	11200.1.1 = {
+		holder = bedouin0096
+	}
+	11234.1.1 = {
+		holder = bedouin0097
+	}
+}
+
+
+c_tihama = {
+	10767.1.1 = {
+		liege = d_medina
+		holder = 188610 # Muhammad b Ibrahim
+	}
+	
+	10830.1.1 = {
+		holder = bedouin00162
+	}
+	
+	11061.1.1 = {
+		holder = 34046 # Hussayn - not actually the Emir of Mecca (it was Abul-Hashim ibn Muhammed )
+	}
+	11094.1.1 = {
+		holder = 34047 # Issa - not actually the Emir of Mecca (it was Ibn Abul-Hashim Al-Thalab )
+	}
+	11101.1.1 = {
+		holder = 34048 # Abd al-Karim - probably not Emir of Mecca
+	}
+	11130.1.1 = {
+		holder = 34049 # Muta'in - probably not Emir of Mecca
+	}
+	11150.1.1 = {
+		holder = 34050 # Idris - probably not Emir of Mecca
+	}
+	11201.1.1 = {
+		holder = 34051 # Qatada - Emir of Mecca
+	}
+	11220.1.1 = {
+		holder = 34052
+	}
+	11232.1.1 = {
+		holder = 34053
+	}
+	11239.1.1 = {
+		holder = 34054
+	}
+	11240.1.1 = {
+		holder = 34053
+	}
+	11241.1.1 = {
+		holder = 34055
+	}
+	11245.1.1 = {
+		holder = 34053
+	}
+	11254.1.1 = {
+		holder = 34057
+	}
+	11255.1.1 = {
+		holder = 34058
+	}
+	11270.1.1 = {
+		holder = 34056
+	}
+	11301.1.1 = {
+		holder = 34060
+	}
+	11302.1.1 = {
+		holder = 34062
+	}
+	11314.1.1 = {
+		holder = 34060
+	}
+}
+
+
+c_bisha = {
+	10767.1.1 = {
+		government = tribal_government
+		liege = "d_medina"
+		holder = 188621
+	}
+	
+	#Banu Hilal/Hilalid
+	10800.1.1 = {
+		liege = 0
+		holder = 155148
+	}
+	10860.1.1 = {
+		holder = 155149
+	}
+	10885.1.1 = {
+		holder = 155150
+	}
+	10910.1.1 = {
+		holder = 155151
+	}
+	10960.1.1 = {
+		holder = 155152
+	}
+	
+	#After defeat of Qarmatids Hilal pushed out by the Harb
+	10980.1.1 = {
+		holder = bedouin0100
+	}
+	10985.1.1 = {
+		holder = bedouin0101
+	}
+	11043.1.1 = {
+		holder = bedouin0102
+	}
+	11059.1.1 = {
+		liege = d_asir
+	}
+	11068.1.1 = {
+		holder = bedouin0103
+	}
+	11099.1.1 = {
+		holder = bedouin0104
+	}
+	11135.1.1 = {
+		holder = bedouin0105
+	}
+	11171.1.1 = {
+		holder = bedouin0106
+	}
+	11197.1.1 = {
+		holder = bedouin0107
+	}
+	11222.1.1 = {
+		holder = bedouin0108
+	}
+}
+
+
+c_aqiq = {
+	10760.1.1 = {
+		liege = d_najd
+		holder = 188612 # Qutham Abbasid
+		government = tribal_government
+	}
+	
+	10864.1.1 = {
+		holder = 74041
+	}
+	
+	#After defeat of Qarmatids Hilal pushed out by the Harb
+	10980.1.1 = {
+		holder = bedouin0100
+	}
+	10985.1.1 = {
+		holder = bedouin0101
+	}
+	11043.1.1 = {
+		holder = bedouin0102
+	}
+	11059.1.1 = {
+		liege = d_asir
+	}
+	11066.1.1 = {
+		holder = bedouin0110
+	}
+	11089.1.1 = {
+		holder = bedouin0103
+	}
+	11099.1.1 = {
+		holder = bedouin0104
+	}
+	11135.1.1 = {
+		holder = bedouin0105
+	}
+	11171.1.1 = {
+		holder = bedouin0106
+	}
+	11197.1.1 = {
+		holder = bedouin0107
+	}
+	11222.1.1 = {
+		holder = bedouin0108
+	}
+}
+
+
+d_asir = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 4 }
+	11178.1.1 = { change_development_level = 5 }
+	
+	11059.1.1 = {
+		government = tribal_government
+		holder = bedouin0092
+	}
+	11097.1.1 = {
+		holder = bedouin0093
+	}
+	11131.1.1 = {
+		holder = bedouin0094
+	}
+	11169.1.1 = {
+		holder = bedouin0095
+	}
+	11200.1.1 = {
+		holder = 0
+	}
+}
+
+
+c_asir = {
+	10767.1.1 = {
+		government = tribal_government
+		liege = "d_medina"
+		holder = 188621
+	}
+	
+	#Banu Hilal/Hilalid
+	10800.1.1 = {
+		liege = 0
+		holder = 155148
+	}
+	10860.1.1 = {
+		holder = 155149
+	}
+	10885.1.1 = {
+		holder = 155150
+	}
+	10910.1.1 = {
+		holder = 155151
+	}
+	10935.1.1 = {
+		holder = 159380
+	}
+	10950.1.1 = {
+		holder = 159381
+	}
+	
+	#After defeat of Qarmatids Hilal pushed out by the Harb
+	10980.1.1 = {
+		holder = bedouin0100
+	}
+	10985.1.1 = {
+		holder = bedouin0101
+	}
+	11043.1.1 = {
+		holder = bedouin0102
+	}
+	11059.1.1 = {
+		liege = d_asir
+	}
+	11068.1.1 = {
+		holder = bedouin0103
+	}
+	11099.1.1 = {
+		holder = bedouin0104
+	}
+	11135.1.1 = {
+		holder = bedouin0105
+	}
+	11171.1.1 = {
+		holder = bedouin0106
+	}
+	11197.1.1 = {
+		holder = bedouin0107
+	}
+	11222.1.1 = {
+		holder = bedouin0108
+	}
+}
+
+
+d_najd = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 4 }
+	11178.1.1 = { change_development_level = 5 }
+	
+	10760.1.1 = {
+	#	liege = e_arabia
+		holder = 188612 # Qutham Abbasid
+		government = tribal_government
+	}
+	
+	10864.1.1 = {
+		liege = 0
+	holder = 160015
+	}
+	10866.1.1 = {
+		holder = 74042
+	}
+	
+	11065.1.1 = {
+		holder = bedouin0068
+	}
+	11096.1.1 = {
+		holder = bedouin0069
+	}
+	11132.1.1 = {
+		holder = bedouin0070
+	}
+	11166.1.1 = {
+		holder = bedouin0071
+	}
+	11201.1.1 = {
+		holder = bedouin0072
+	}
+}
+
+
+c_sharaf = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10627.1.1 = {
+		liege = e_arabia
+		government = tribal_government
+	}
+	
+	10765.1.1 = {
+		holder = 188613
+	}
+	
+	10810.1.1 = {
+		liege = 0
+		holder = bedouin0053
+	}
+	10848.1.1 = {
+		holder = bedouin0054
+	}
+	10863.1.1 = {
+		liege = "d_najd"
+		holder = bedouin0055
+	}
+	10900.1.1 = {
+		holder = bedouin0056
+	}
+	10869.1.1 = {
+		liege = 0
+	}
+	
+	11066.1.1 = {
+		liege = "d_najd"
+	}
+	11066.1.1 = {
+		holder = 34507
+	}
+	11084.1.1 = {
+		holder = 34508
+	}
+	11110.1.1 = {
+		holder = 34509
+	}
+	11150.1.1 = {
+		holder = 34510
+	}
+	11175.1.1 = {
+		holder = 34511
+	}
+	11195.1.1 = {
+		holder = 34512
+	}
+	11230.1.1 = {
+		holder = 34513
+	}
+	11250.1.1 = {
+		holder = 34514
+	}
+	11285.1.1 = {
+		holder = 34515
+	}
+	11310.1.1 = {
+		holder = 34516
+	}
+	11325.1.1 = {
+		holder = 34517
+	}
+}
+
+
+c_subay = {
+	10767.1.1 = {
+		government = tribal_government
+		liege = d_medina
+		holder = 188610 # Muhammad b Ibrahim
+	}
+	
+	#Banu Sulaym/Suleimids
+	10820.1.1 = {
+		liege = 0
+		holder = bedouin0043
+	}
+	10843.1.1 = {
+		holder = bedouin0042
+	}
+	10864.1.1 = {
+		holder = bedouin0041
+	}
+	10889.1.1 = {
+		holder = bedouin0040
+	}
+	10915.1.1 = {
+		holder = 155194
+	}
+	10947.1.1 = {
+		holder = 155195
+	}
+	10972.1.1 = {
+		holder = 155196
+	}
+
+	#After defeat of Qarmatids Sulam pushed out by the Harb
+	10980.1.1 = {
+		holder = bedouin0089
+	}
+	10987.1.1 = {
+		holder = bedouin0090
+	}
+	11032.1.1 = {
+		holder = bedouin0091
+	}
+	11059.1.1 = {
+		holder = bedouin0092
+	}
+	11097.1.1 = {
+		holder = bedouin0093
+	}
+	11131.1.1 = {
+		holder = bedouin0094
+	}
+	11169.1.1 = {
+		holder = bedouin0095
+	}
+	11200.1.1 = {
+		holder = bedouin0096
+	}
+	11234.1.1 = {
+		holder = bedouin0097
+	}
+	
+}
+
+
+c_hail = {
+	10627.1.1 = {
+		liege = e_arabia
+		government = tribal_government
+	}
+	
+	10765.1.1 = {
+		holder = 188616
+	}
+	
+	10863.1.1 = {
+		liege = 0
+		holder = bedouin0057
+	}
+	10866.10.1 = {
+		liege = d_najd
+	}
+	10896.1.1 = {
+		holder = bedouin0063
+	}
+	10918.1.1 = {
+		holder = bedouin0064
+	}
+	10947.1.1 = {
+		holder = bedouin0065
+	}
+	10994.1.1 = {
+		holder = bedouin0066
+	}
+	11042.1.1 = {
+		holder = bedouin0067
+	}
+	11065.1.1 = {
+		holder = bedouin0068
+	}
+	11096.1.1 = {
+		holder = bedouin0069
+	}
+	11132.1.1 = {
+		holder = bedouin0070
+	}
+	11166.1.1 = {
+		holder = bedouin0071
+	}
+	11201.1.1 = {
+		holder = bedouin0072
+	}
+
+}
+
+
+c_shaqiq = {
+	10627.1.1 = {
+		liege = e_arabia
+		government = tribal_government
+	}
+	
+	#Banu Numayr
+	10800.1.1 = {
+		liege = d_najd
+		holder = bedouin0044
+	}
+	10820.1.1 = {
+		holder = bedouin0048
+	}
+	10865.1.1 = {
+		holder = bedouin0049
+	}
+	10891.1.1 = {
+		holder = bedouin0113
+	}
+	10942.1.1 = {
+		holder = bedouin0114
+	}
+	10998.1.1 = {
+		holder = bedouin0115
+	}
+	11028.1.1 = {
+		holder = bedouin0116
+	}
+	11054.1.1 = {
+		holder = bedouin0117
+	}
+	
+	11080.1.1 = {
+		liege = "d_najd"
+		holder = 34507
+	}
+	11084.1.1 = {
+		holder = 34508
+	}
+	11110.1.1 = {
+		holder = 34509
+	}
+	11150.1.1 = {
+		holder = 34510
+	}
+	11175.1.1 = {
+		holder = 34511
+	}
+	11195.1.1 = {
+		holder = 34512
+	}
+	11230.1.1 = {
+		holder = 34513
+	}
+	11250.1.1 = {
+		holder = 34514
+	}
+	11285.1.1 = {
+		holder = 34515
+	}
+	11310.1.1 = {
+		holder = 34516
+	}
+	11325.1.1 = {
+		holder = 34517
+	}
+}
+
+
+c_qasim = {
+	10627.1.1 = {
+		liege = e_arabia
+		government = tribal_government
+	}
+	
+	10765.1.1 = {
+		holder = 188616
+	}
+	
+	10830.1.1 = {
+		liege = e_arabia
+		holder = bedouin0073
+	}
+	10858.1.1 = {
+		holder = bedouin0062
+	}
+	10866.1.1 = {
+		liege = d_najd
+	}
+	10896.1.1 = {
+		holder = bedouin0063
+	}
+	10918.1.1 = {
+		holder = bedouin0064
+	}
+	10947.1.1 = {
+		holder = bedouin0065
+	}
+	10994.1.1 = {
+		holder = bedouin0066
+	}
+	11042.1.1 = {
+		holder = bedouin0067
+	}
+	11065.1.1 = {
+		holder = bedouin0068
+	}
+	11096.1.1 = {
+		holder = bedouin0069
+	}
+	11132.1.1 = {
+		holder = bedouin0070
+	}
+	11166.1.1 = {
+		holder = bedouin0071
+	}
+	11201.1.1 = {
+		holder = bedouin0072
+	}
+
+}
+
+
+c_surrah = {
+	10627.1.1 = {
+		liege = e_arabia
+		government = tribal_government
+	}
+	
+	10765.1.1 = {
+		holder = 188613
+	}
+	
+	10866.1.1 = {
+		liege = "d_najd"
+	}
+	10866.1.1 = {
+		holder = 74042
+	}
+	10869.1.1 = {
+		liege = 0
+	}
+	
+	11061.1.1 = {
+		holder = bedouin0118 #Muta'in al-Juhavni
+	}
+
+	11066.1.1 = {
+		liege = "d_najd"
+	}
+	
+	#Old history
+	11105.1.1 = {
+		holder = 34508
+	}
+	11110.1.1 = {
+		holder = 34509
+	}
+	11150.1.1 = {
+		holder = 34510
+	}
+	11175.1.1 = {
+		holder = 34511
+	}
+	11195.1.1 = {
+		holder = 34512
+	}
+	11230.1.1 = {
+		holder = 34513
+	}
+	11250.1.1 = {
+		holder = 34514
+	}
+	11285.1.1 = {
+		holder = 34515
+	}
+	11310.1.1 = {
+		holder = 34516
+	}
+	11325.1.1 = {
+		holder = 34517
+	}
+}
+
+
+d_yamama = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 4 }
+	11178.1.1 = { change_development_level = 6 }
+	
+	#Banu Numayr
+	10800.1.1 = {
+		government = tribal_government
+		holder = bedouin0044
+	}
+	10820.1.1 = {
+		holder = bedouin0045
+	}
+	10848.1.1 = {
+		holder = bedouin0046
+	}
+	10864.1.1 = {
+		holder = bedouin0047
+	}
+	10899.1.1 = {
+		holder = bedouin0113
+	}
+	10942.1.1 = {
+		holder = bedouin0114
+	}
+	10998.1.1 = {
+		holder = bedouin0115
+	}
+	11028.1.1 = {
+		holder = bedouin0116
+	}
+	11054.1.1 = {
+		holder = bedouin0117
+	}
+	11080.1.1 = {
+		holder = 0
+	}
+}
+
+
+c_yamama = {
+	10760.1.1 = {
+		liege = d_najd
+		holder = 188612 # Qutham Abbasid
+		government = tribal_government
+	}
+	
+	#Banu Numayr
+	10800.1.1 = {
+		holder = bedouin0044
+	}
+	10820.1.1 = {
+		holder = bedouin0045
+	}
+	10848.1.1 = {
+		holder = bedouin0046
+	}
+	10864.1.1 = {
+		holder = bedouin0047
+	}
+#	10899.1.1 = {
+#		holder = #somebody else
+#	}
+	
+	10978.1.1 = {
+		liege = 0
+	}
+	
+	11061.1.1 = {
+		holder = 20821 #Ali Mansoorid
+	}
+	11066.1.1 = {
+		liege = "d_yamama"
+	}
+	11089.1.1 = {
+		holder = 34522
+	}
+	11110.1.1 = {
+		holder = 34523
+	}
+	11135.1.1 = {
+		holder = 34524
+	}
+	11155.1.1 = {
+		holder = 34525
+	}
+	11195.1.1 = {
+		holder = 34526
+	}
+	11210.1.1 = {
+		holder = 34527
+	}
+	11250.1.1 = {
+		holder = 34528
+	}
+	11290.1.1 = {
+		holder = 34529
+	}
+	11300.1.1 = {
+		holder = 34530
+	}
+	11330.1.1 = {
+		holder = 34531
+	}
+}
+
+
+c_al-arid = {
+	10760.1.1 = {
+		liege = d_najd #d_nefoud
+		holder = 188612 # Qutham Abbasid
+		government = tribal_government
+	}
+	
+	#Banu Numayr
+	10800.1.1 = {
+		holder = bedouin0044
+	}
+	10820.1.1 = {
+		holder = bedouin0045
+	}
+	10848.1.1 = {
+		holder = bedouin0046
+	}
+	10864.1.1 = {
+		holder = bedouin0047
+	}
+	10899.1.1 = {
+		holder = bedouin0113
+	}
+	10942.1.1 = {
+		holder = bedouin0114
+	}
+	10998.1.1 = {
+		holder = bedouin0115
+	}
+	11028.1.1 = {
+		holder = bedouin0116
+	}
+	11054.1.1 = {
+		holder = bedouin0117
+	}
+	
+	11080.1.1 = {
+		liege = "d_najd"
+		holder = 34521
+	}
+	11085.1.1 = {
+		holder = 34522
+	}
+	11110.1.1 = {
+		holder = 34523
+	}
+	11135.1.1 = {
+		holder = 34524
+	}
+	11155.1.1 = {
+		holder = 34525
+	}
+	11195.1.1 = {
+		holder = 34526
+	}
+	11210.1.1 = {
+		holder = 34527
+	}
+	11250.1.1 = {
+		holder = 34528
+	}
+	11290.1.1 = {
+		holder = 34529
+	}
+	11300.1.1 = {
+		holder = 34530
+	}
+	11330.1.1 = {
+		holder = 34531
+	}
+}
+
+
+c_falaj = {
+	10760.1.1 = {
+		liege = d_najd
+		holder = 188612 # Qutham Abbasid
+		government = tribal_government
+	}
+	
+	#Banu Numayr
+	10800.1.1 = {
+		holder = bedouin0044
+	}
+	10820.1.1 = {
+		holder = bedouin0045
+	}
+	10848.1.1 = {
+		holder = bedouin0046
+	}
+	10864.1.1 = {
+		holder = bedouin0047
+	}
+	
+	11040.1.1 = {
+		holder = bedouin0111
+	}
+	11059.1.1 = {
+		holder = bedouin0112
+	}
+	11066.1.1 = {
+		liege = "d_najd"
+	}
+
+	#Old history
+	11090.1.1 = {
+		holder = 34522
+	}
+	11110.1.1 = {
+		holder = 34523
+	}
+	11135.1.1 = {
+		holder = 34524
+	}
+	11155.1.1 = {
+		holder = 34525
+	}
+	11195.1.1 = {
+		holder = 34526
+	}
+	11210.1.1 = {
+		holder = 34527
+	}
+	11250.1.1 = {
+		holder = 34528
+	}
+	11290.1.1 = {
+		holder = 34529
+	}
+	11300.1.1 = {
+		holder = 34530
+	}
+	11330.1.1 = {
+		holder = 34531
+	}
+}
+
+
+c_al-hasa = {
+	11178.1.1 = { change_development_level = 44 }
+
+	10661.2.28 = {
+		liege = d_bahrain
+	}
+	
+	10764.1.1 = {
+		government = tribal_government
+		holder = 188626 # Sulayman b Hakim
+	}
+	
+	10867.1.1 = {
+		holder = 74040
+		liege = e_arabia
+	}
+	10886.1.1 = {
+		liege = "d_bahrain"
+	}
+	
+	11066.1.1 = {
+		holder = 20900
+	}
+	11126.1.1 = {
+		holder = 144146
+	}
+	11139.1.1 = {
+		holder = 144147
+	}
+	11149.1.1 = {
+		holder = 144148
+	}
+	11151.1.1 = {
+		holder = 144149
+	}
+	11152.1.1 = {
+		holder = 144150
+	}
+	11161.1.1 = {
+		holder = 144152
+	}
+	11177.1.1 = {
+		holder = 144154
+	}
+	11209.1.1 = {
+		holder = 34471
+	}
+	11219.1.1 = {
+		holder = 34473
+	}
+	11220.1.1 = {
+		holder = 34474
+	}
+	11229.1.1 = {
+		holder = 34476
+	}
+	11236.1.1 = {
+		holder = 34477
+	}
+	11253.1.1 = {
+		holder = 34479
+	}
+	11270.1.1 = {
+		holder = 34481
+	}
+	11292.1.1 = {
+		holder = 34482
+	}
+	11310.1.1 = {
+		holder = 34483
+	}
+
+}
+
+
+c_dhafra = {
+	# c_dhu_zabi
+	10665.1.1 = {
+		liege = d_oman
+	}
+	
+	10768.1.1 = {
+		government = tribal_government
+		holder = 188766
+	}
+	
+	10860.1.1 = {
+		liege = e_arabia
+		holder = 74038
+	}
+	
+	10978.1.1 = {
+		liege = 0
+	}
+	11066.1.1 = {
+		liege = "d_kirman"
+	}
+	11066.1.1 = {
+		holder = 3041
+	}
+	11073.1.1 = {
+		holder = 144025
+	}
+	11074.1.1 = {
+		holder = 144026
+	}
+	11075.1.1 = {
+		holder = 144027
+	}
+	11097.1.1 = {
+		holder = 144028
+	}
+	11101.1.1 = {
+		holder = 144034
+	}
+	11142.1.1 = {
+		holder = 144035
+	}
+	11154.1.1 = {
+		liege = "d_oman"
+	}
+	11154.1.1 = {
+		holder = 144145
+	}
+	11161.1.1 = {
+		holder = 144560
+	}
+	11210.1.1 = {
+		holder = 144561
+	}
+	11250.1.1 = {
+		holder = 144562
+	}
+	11278.1.1 = {
+		holder = 144563
+	}
+	11285.1.1 = {
+		holder = 144564
+	}
+}
+
+
+c_uqayr = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10661.2.28 = {
+		liege = d_bahrain
+	}
+	
+	10764.1.1 = {
+		holder = 188626 # Sulayman b Hakim
+	}
+	10768.1.1 = {
+		government = tribal_government
+	}
+	
+	10860.1.1 = {
+		liege = e_arabia
+		holder = 74038
+	}
+	
+	11066.1.1 = {
+		holder = 20900
+	}
+	11126.1.1 = {
+		holder = 144146
+	}
+	11139.1.1 = {
+		holder = 144147
+	}
+	11149.1.1 = {
+		holder = 144148
+	}
+	11151.1.1 = {
+		holder = 144149
+	}
+	11152.1.1 = {
+		holder = 144150
+	}
+	11161.1.1 = {
+		holder = 144152
+	}
+	11180.1.1 = {
+		holder = 144154
+	}
+	11209.1.1 = {
+		holder = 34471
+	}
+	11219.1.1 = {
+		holder = 34473
+	}
+	11220.1.1 = {
+		holder = 34474
+	}
+	11229.1.1 = {
+		holder = 34476
+	}
+	11236.1.1 = {
+		holder = 34477
+	}
+	11253.1.1 = {
+		holder = 34479
+	}
+	11270.1.1 = {
+		holder = 34481
+	}
+	11292.1.1 = {
+		holder = 34482
+	}
+	11310.1.1 = {
+		holder = 34483
+	}
+
+}
+
+
+c_yabrin = {
+	10661.2.28 = {
+		liege = d_bahrain
+	}
+	
+	10764.1.1 = {
+		government = tribal_government
+		holder = 188626 # Sulayman b Hakim
+	}
+	
+	10867.1.1 = {
+		holder = 74040
+		liege = e_arabia
+	}
+	10886.1.1 = {
+		liege = "d_bahrain"
+	}
+	
+	11066.1.1 = {
+		holder = 20900
+	}
+	11126.1.1 = {
+		holder = 144146
+	}
+	11139.1.1 = {
+		holder = 144147
+	}
+	11149.1.1 = {
+		holder = 144148
+	}
+	11151.1.1 = {
+		holder = 144149
+	}
+	11152.1.1 = {
+		holder = 144150
+	}
+	11161.1.1 = {
+		holder = 144152
+	}
+	11177.1.1 = {
+		holder = 144154
+	}
+	11209.1.1 = {
+		holder = 34471
+	}
+	11219.1.1 = {
+		holder = 34473
+	}
+	11220.1.1 = {
+		holder = 34474
+	}
+	11229.1.1 = {
+		holder = 34476
+	}
+	11236.1.1 = {
+		holder = 34477
+	}
+	11253.1.1 = {
+		holder = 34479
+	}
+	11270.1.1 = {
+		holder = 34481
+	}
+	11292.1.1 = {
+		holder = 34482
+	}
+	11310.1.1 = {
+		holder = 34483
+	}
+
+}
+
+
+d_bahrain = {
+	10661.2.28 = {
+		liege = e_arabia
+	}
+	
+	10764.1.1 = {
+		holder = 188626 # Sulayman b Hakim
+	}
+	10770.1.1 = {
+		holder = 0
+	}
+	
+	10886.1.1 = {
+		holder = 74040
+	}
+	
+	11066.1.1 = {
+		holder = 20900
+	}
+	11126.1.1 = {
+		holder = 144146
+	}
+	11139.1.1 = {
+		holder = 144147
+	}
+	11149.1.1 = {
+		holder = 144148
+	}
+	11151.1.1 = {
+		holder = 144149
+	}
+	11152.1.1 = {
+		holder = 144150
+	}
+	11161.1.1 = {
+		holder = 144152
+	}
+	11180.1.1 = {
+		holder = 144154
+	}
+	11209.1.1 = {
+		holder = 34471
+	}
+	11219.1.1 = {
+		holder = 34473
+	}
+	11220.1.1 = {
+		holder = 34474
+	}
+	11229.1.1 = {
+		holder = 34476
+	}
+	11236.1.1 = {
+		holder = 34477
+	}
+	11253.1.1 = {
+		holder = 34479
+	}
+	11270.1.1 = {
+		holder = 34481
+	}
+	11292.1.1 = {
+		holder = 34482
+	}
+	11310.1.1 = {
+		holder = 34483
+	}
+}
+
+c_qatif = {
+	10867.1.1 = {	change_development_level = 10 }
+	11066.1.1 = { change_development_level = 16 }
+	11178.1.1 = { change_development_level = 18 }
+	
+	10661.2.28 = {
+		liege = d_bahrain
+	}
+	
+	10764.1.1 = {
+		holder = 188626 # Sulayman b Hakim
+	}
+	
+	10860.1.1 = {
+		holder = 74039
+		liege = e_arabia
+	}
+	10886.1.1 = {
+		liege = "d_bahrain"
+		holder = 74040
+	}
+	
+	11066.1.1 = {
+		holder = 20900
+	}
+	11126.1.1 = {
+		holder = 144146
+	}
+	11139.1.1 = {
+		holder = 144147
+	}
+	11149.1.1 = {
+		holder = 144148
+	}
+	11151.1.1 = {
+		holder = 144149
+	}
+	11152.1.1 = {
+		holder = 144150
+	}
+	11161.1.1 = {
+		holder = 144152
+	}
+	11180.1.1 = {
+		holder = 144154
+	}
+	11209.1.1 = {
+		holder = 34471
+	}
+	11219.1.1 = {
+		holder = 34473
+	}
+	11220.1.1 = {
+		holder = 34474
+	}
+	11229.1.1 = {
+		holder = 34476
+	}
+	11236.1.1 = {
+		holder = 34477
+	}
+	11253.1.1 = {
+		holder = 34479
+	}
+	11270.1.1 = {
+		holder = 34481
+	}
+	11292.1.1 = {
+		holder = 34482
+	}
+	11310.1.1 = {
+		holder = 34483
+	}
+
+}
+
+
+c_uwal = {
+	10661.2.28 = {
+		liege = d_bahrain
+	}
+	
+	10764.1.1 = {
+		holder = 188626 # Sulayman b Hakim
+	}
+	
+	10860.1.1 = {
+		holder = 74039
+		liege = e_arabia
+	}
+	10886.1.1 = {
+		liege = "d_bahrain"
+		holder = 74040
+	}
+	11066.1.1 = {
+		holder = 34555
+	}
+	11090.1.1 = {
+		holder = 34556
+	}
+	11120.1.1 = {
+		holder = 34557
+	}
+	11150.1.1 = {
+		holder = 34558
+	}
+	11170.1.1 = {
+		holder = 34559
+	}
+	11195.1.1 = {
+		holder = 34560
+	}
+	11225.1.1 = {
+		holder = 34561
+	}
+	11235.1.1 = {
+		liege = "d_fars"
+	}
+	11240.1.1 = {
+		holder = 34562
+	}
+	11253.1.1 = {
+		liege = "d_bahrain"
+	}
+	11280.1.1 = {
+		holder = 34563
+	}
+	11290.1.1 = {
+		holder = 34564
+	}
+	11310.1.1 = {
+		holder = 34565
+	}
+	11330.1.1 = {
+		liege = "d_kirman"
+		holder = 34568
+	}
+
+}
+
+
+c_samman = {
+	10764.1.1 = {
+		liege = e_arabia
+		holder = 188608 # Jabir b Tubah al-Kibani
+	}
+	
+	10836.1.1 = {
+		holder = bedouin0059
+	}
+	10863.1.1 = {
+		holder = bedouin0060
+	}
+	10902.1.1 = {
+		holder = bedouin0061
+	}
+	11066.1.1 = {
+		liege = 0
+	}
+	11066.1.1 = {
+		holder = 20900
+	}
+	11126.1.1 = {
+		holder = 144146
+	}
+	11139.1.1 = {
+		holder = 144147
+	}
+	11149.1.1 = {
+		holder = 144148
+	}
+	11151.1.1 = {
+		holder = 144149
+	}
+	11152.1.1 = {
+		holder = 144150
+	}
+	11161.1.1 = {
+		holder = 144152
+	}
+	11180.1.1 = {
+		holder = 144154
+	}
+	11209.1.1 = {
+		holder = 34471
+	}
+	11219.1.1 = {
+		holder = 34473
+	}
+	11220.1.1 = {
+		holder = 34474
+	}
+	11229.1.1 = {
+		holder = 34476
+	}
+	11236.1.1 = {
+		holder = 34477
+	}
+	11253.1.1 = {
+		holder = 34479
+	}
+	11270.1.1 = {
+		holder = 34481
+	}
+	11292.1.1 = {
+		holder = 34482
+	}
+	11310.1.1 = {
+		holder = 34483
+	}
+
+}
+
+
+d_oman = {
+	10665.1.1 = {
+		liege = e_arabia
+	}
+	
+	10751.1.1 = {
+		liege = 0 # De facto
+		holder = bedouin0144 # Abi Affan
+	}
+	10792.1.1 = {
+		holder = bedouin0145 # Muhammad b. Abi Affan
+	}
+	10805.1.1 = {
+		holder = bedouin0146 # Malik
+	}
+	10866.1.1 = {
+		holder = bedouin0147 # as-Salt b. Malik
+	}
+	10890.1.1 = {
+		holder = bedouin0148 # Azzan b.Tamim
+	}
+	10893.1.1 = {
+		liege = e_arabia
+	}
+	10903.1.1 = {
+		holder = bedouin0157 # Affan (fictional)
+	}
+	10931.1.1 = {
+		holder = bedouin0149 # Rashid (fictional)
+	}
+	10970.1.1 = {
+		holder = bedouin0150 # Hafs (fictional)
+	}
+	10994.1.1 = {
+		holder = bedouin0151 # Said
+	}
+	10994.1.1 = {
+		holder = bedouin0152 # Rashid b. Said
+	}
+	11053.1.1 = {
+		holder = bedouin0153 # Hafs b. Rashid
+	}
+
+	#10890.1.1 = {
+	#	holder =  # Azzan bin Tamim
+	#}
+	#10897.1.1 = {
+	#	holder =  # Mohammed bin Al-Hassan
+	#}
+	#10898.1.1 = {
+	#	holder =  # Azzan bin Al-Hazbar
+	#}
+	#10899.1.1 = {
+	#	holder =  # Abdullah bin Mohammed
+	#}
+	#10900.1.1 = {
+	#	holder =  # Al-Salt bin Al-Qasim (and Al-Husn bin Said)
+	#}
+	#10904.1.1 = {
+	#	holder =  # Al-Hawari bin Matraf
+	#}
+	#10912.1.1 = {
+	#	holder =  # Omar bin Mohammed
+	#}
+	#10920.1.1 = {
+	#	holder =  # Mohammed bin Yazid
+	#}
+	#10930.1.1 = {
+	#	holder =  # Al-Hakm bin Al-Milaa Al-Bahri
+	#}
+	#10939.1.1 = {
+	#	holder =  # Said bin Abdullah
+	#}
+	#10970.1.1 = {
+	#	holder =  # Rashid bin Waleed
+	#}
+	#11002.1.1 = {
+	#	holder =  # Al-Khalil bin Shadhan
+	#}
+	#11032.1.1 = {
+	#	holder =  # Rashid bin Said
+	#}
+
+#should be vasal or tributary of Kerman instead of disappearing
+	11054.1.1 = {
+		holder = 0
+	}
+	
+	11154.1.1 = {
+		holder = 144145
+	}
+	11161.1.1 = {
+		holder = 144560
+	}
+	11210.1.1 = {
+		holder = 144561
+	}
+	11250.1.1 = {
+		holder = 144562
+	}
+	11278.1.1 = {
+		holder = 144563
+	}
+	11285.1.1 = {
+		holder = 144564
+	}
+}
+
+
+c_nizwa = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 8 }
+	
+	10665.1.1 = {
+		liege = d_oman
+	}
+	
+	10751.1.1 = {
+		holder = bedouin0144 # Abi Affan
+	}
+	10792.1.1 = {
+		holder = bedouin0145 # Muhammad b. Abi Affan
+	}
+	10805.1.1 = {
+		holder = bedouin0146 # Malik
+	}
+	10866.1.1 = {
+		holder = bedouin0147 # as-Salt b. Malik
+	}
+	10890.1.1 = {
+		holder = bedouin0148 # Azzan b.Tamim
+	}
+	10903.1.1 = {
+		holder = bedouin0157 # Affan (fictional)
+	}
+	10931.1.1 = {
+		holder = bedouin0149 # Rashid (fictional)
+	}
+	10970.1.1 = {
+		holder = bedouin0150 # Hafs (fictional)
+	}
+	10994.1.1 = {
+		holder = bedouin0151 # Said
+	}
+	10994.1.1 = {
+		holder = bedouin0152 # Rashid b. Said
+	}
+	11053.1.1 = {
+		holder = bedouin0153 # Hafs b. Rashid
+	}
+	11054.1.1 = {
+		liege = "d_kirman"
+	}
+	11086.1.1 = {
+		holder = bedouin0155 # Rashid b. Ali
+	}
+
+	#Old history
+	11101.1.1 = {
+		holder = 144034
+	}
+	11142.1.1 = {
+		holder = 144035
+	}
+
+	#Nabhanids
+	11154.1.1 = {
+		liege = "d_oman"
+		holder = bedouin0134
+	}
+	11176.1.1 = {
+		holder = bedouin0138
+	}
+	11202.1.1 = {
+		holder = bedouin0139
+	}
+	11247.1.1 = {
+		holder = bedouin0140
+	}
+	11275.1.1 = {
+		holder = bedouin0141
+	}
+	11299.1.1 = {
+		holder = bedouin0142
+	}
+	11322.1.1 = {
+		holder = bedouin0143
+	}
+}
+
+
+c_julfar = {
+	10665.1.1 = {
+		government = tribal_government
+		liege = d_oman
+	}
+	
+	10768.1.1 = {
+		holder = 188766
+	}
+	
+	10830.1.1 = {
+		holder = bedouin0158
+	}
+	10854.1.1 = {
+		holder = bedouin0159
+	}
+	10882.1.1 = {
+		holder = bedouin0160
+	}
+
+	11066.1.1 = {
+		liege = "d_kirman"
+	}
+	11066.1.1 = {
+		holder = 3041
+	}
+	11073.1.1 = {
+		holder = 144025
+	}
+	11074.1.1 = {
+		holder = 144026
+	}
+	11075.1.1 = {
+		holder = 144027
+	}
+	11097.1.1 = {
+		holder = 144028
+	}
+	11101.1.1 = {
+		holder = 144034
+	}
+	11142.1.1 = {
+		holder = 144035
+	}
+	11154.1.1 = {
+		liege = "d_oman"
+	}
+	11154.1.1 = {
+		holder = 144145
+	}
+	11161.1.1 = {
+		holder = 144560
+	}
+	11210.1.1 = {
+		holder = 144561
+	}
+	11250.1.1 = {
+		holder = 144562
+	}
+	11278.1.1 = {
+		holder = 144563
+	}
+	11285.1.1 = {
+		holder = 144564
+	}
+}
+
+
+c_batina = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10768.1.1 = {
+		liege = d_oman
+		holder = bedouin0119
+	}
+	
+	10799.1.1 = {
+		#liege = e_arabia
+		holder = bedouin0120
+	}
+	10835.1.1 = {
+		holder = bedouin0121
+	}
+	10865.1.1 = {
+		holder = bedouin0122
+	}
+	10903.1.1 = {
+		holder = bedouin0123
+	}
+	10931.1.1 = {
+		holder = bedouin0124
+	}
+	10960.1.1 = {
+		holder = bedouin0125
+	}
+	11012.1.1 = {
+		holder = bedouin0126
+	}
+	11019.1.1 = {
+		holder = bedouin0127
+	}
+	11062.1.1 = {
+		holder = bedouin0128
+	}
+	11066.1.1 = {
+		liege = "d_kirman"
+	}
+	11094.1.1 = {
+		holder = bedouin0129
+	}
+	11115.1.1 = {
+		holder = bedouin0130
+	}
+	11154.1.1 = {
+		liege = "d_oman"
+	}
+	11166.1.1 = {
+		holder = bedouin0131
+	}
+	11197.1.1 = {
+		holder = bedouin0132
+	}
+	11220.1.1 = {
+		holder = bedouin0133
+	}
+	
+}
+
+
+c_az-dhahira = {
+	10665.1.1 = {
+		government = tribal_government
+		liege = d_oman
+	}
+	
+	10768.1.1 = {
+		holder = 188766
+	}
+	
+	10830.1.1 = {
+		holder = bedouin0158
+	}
+	10854.1.1 = {
+		holder = bedouin0159
+	}
+	10882.1.1 = {
+		holder = bedouin0160
+	}
+	
+	#Nabhanids
+	11066.1.1 = {
+		liege = "d_kirman"
+		holder = bedouin0137
+	}
+	11085.1.1 = {
+		holder = bedouin0136
+	}
+	11120.1.1 = {
+		holder = bedouin0135
+	}
+	11154.1.1 = {
+		liege = "d_oman"
+		holder = bedouin0134
+	}
+	11176.1.1 = {
+		holder = bedouin0138
+	}
+	11202.1.1 = {
+		holder = bedouin0139
+	}
+	11247.1.1 = {
+		holder = bedouin0140
+	}
+	11275.1.1 = {
+		holder = bedouin0141
+	}
+	11299.1.1 = {
+		holder = bedouin0142
+	}
+	11322.1.1 = {
+		holder = bedouin0143
+	}
+}
+
+
+c_muscat = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10665.1.1 = {
+		liege = d_oman
+	}
+	
+	10751.1.1 = {
+		holder = bedouin0144 # Abi Affan
+	}
+	10792.1.1 = {
+		holder = bedouin0145 # Muhammad b. Abi Affan
+	}
+	10805.1.1 = {
+		holder = bedouin0146 # Malik
+	}
+	10866.1.1 = {
+		holder = bedouin0147 # as-Salt b. Malik
+	}
+	10890.1.1 = {
+		holder = bedouin0148 # Azzan b.Tamim
+	}
+	10903.1.1 = {
+		holder = bedouin0157 # Affan (fictional)
+	}
+	10931.1.1 = {
+		holder = bedouin0149 # Rashid (fictional)
+	}
+	10970.1.1 = {
+		holder = bedouin0150 # Hafs (fictional)
+	}
+	10994.1.1 = {
+		holder = bedouin0151 # Said
+	}
+	10994.1.1 = {
+		holder = bedouin0152 # Rashid b. Said
+	}
+	11053.1.1 = {
+		holder = bedouin0153 # Hafs b. Rashid
+	}
+	11054.1.1 = {
+		liege = "d_kirman"
+	}
+	11086.1.1 = {
+		holder = bedouin0155 # Rashid b. Ali
+	}
+
+	#Old history
+	11101.1.1 = {
+		holder = 144034
+	}
+	11142.1.1 = {
+		holder = 144035
+	}
+	
+	#Nabhanids
+	11154.1.1 = {
+		liege = "d_oman"
+		holder = bedouin0134
+	}
+	11176.1.1 = {
+		holder = bedouin0138
+	}
+	11202.1.1 = {
+		holder = bedouin0139
+	}
+	11247.1.1 = {
+		holder = bedouin0140
+	}
+	11275.1.1 = {
+		holder = bedouin0141
+	}
+	11299.1.1 = {
+		holder = bedouin0142
+	}
+	11322.1.1 = {
+		holder = bedouin0143
+	}
+}
+
+
+c_duqm = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 8 }
+	
+	10665.1.1 = {
+		liege = d_oman
+	}
+	
+	10751.1.1 = {
+		holder = bedouin0144 # Abi Affan
+	}
+	10792.1.1 = {
+		holder = bedouin0145 # Muhammad b. Abi Affan
+	}
+	10805.1.1 = {
+		holder = bedouin0146 # Malik
+	}
+	10866.1.1 = {
+		holder = bedouin0147 # as-Salt b. Malik
+	}
+	10890.1.1 = {
+		holder = bedouin0148 # Azzan b.Tamim
+	}
+	10903.1.1 = {
+		holder = bedouin0157 # Affan (fictional)
+	}
+	10931.1.1 = {
+		holder = bedouin0149 # Rashid (fictional)
+	}
+	10970.1.1 = {
+		holder = bedouin0150 # Hafs (fictional)
+	}
+	10994.1.1 = {
+		holder = bedouin0151 # Said
+	}
+	10994.1.1 = {
+		holder = bedouin0152 # Rashid b. Said
+	}
+	11053.1.1 = {
+		holder = bedouin0153 # Hafs b. Rashid
+	}
+	11054.1.1 = {
+		liege = "d_kirman"
+	}
+	11086.1.1 = {
+		holder = bedouin0155 # Rashid b. Ali
+	}
+
+	#Old history
+	11101.1.1 = {
+		holder = 144034
+	}
+	11142.1.1 = {
+		holder = 144035
+	}
+
+	#Nabhanids
+	11154.1.1 = {
+		liege = "d_oman"
+		holder = bedouin0134
+	}
+	11176.1.1 = {
+		holder = bedouin0138
+	}
+	11202.1.1 = {
+		holder = bedouin0139
+	}
+	11247.1.1 = {
+		holder = bedouin0140
+	}
+	11275.1.1 = {
+		holder = bedouin0141
+	}
+	11299.1.1 = {
+		holder = bedouin0142
+	}
+	11322.1.1 = {
+		holder = bedouin0143
+	}
+}
+

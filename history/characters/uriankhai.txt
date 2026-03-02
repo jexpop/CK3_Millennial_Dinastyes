@@ -1,0 +1,776 @@
+﻿#Shors
+303027 = {
+	name = "Sildis"
+	dynasty = 2001139	#dynn_Shor
+	religion = tengri_pagan
+	culture = uriankhai
+	10830.7.18 = {
+		birth = yes
+	}
+	10850.4.14 = {
+		add_spouse = 303028
+	}
+	10885.4.20 = {
+		death = yes
+	}
+}
+303028 = {
+	name = "Urana"
+	female = yes
+	religion = tengri_pagan
+	culture = uriankhai
+	10834.4.14 = {
+		birth = yes
+	}
+	10895.2.19 = {
+		death = yes
+	}
+}
+303029 = {
+	name = "XU_ren"
+	dynasty = 2001139	#dynn_Shor
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303027
+	mother = 303028
+	10853.3.30 = {
+		birth = yes
+	}
+	10901.5.14 = {
+		death = yes
+	}
+}
+303030 = {
+	name = "Taraa"
+	female = yes
+	dynasty = 2001139	#dynn_Shor
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303027
+	mother = 303028
+	10854.7.19 = {
+		birth = yes
+	}
+	10910.3.26 = {
+		death = yes
+	}
+}
+303031 = {
+	name = "Aldar"
+	dynasty = 2001139	#dynn_Shor
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303027
+	mother = 303028
+	10856.5.30 = {
+		birth = yes
+	}
+	10909.8.11 = {
+		death = yes
+	}
+}
+
+303032 = {
+	name = "Chayan"
+	dynasty = 2001139	#dynn_Shor
+	religion = tengri_pagan
+	culture = uriankhai
+	11025.7.16 = {
+		birth = yes
+	}
+	11065.8.11 = {
+		death = yes
+	}
+}
+303033 = {
+	name = "Buyan"
+	dynasty = 2001139	#dynn_Shor
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303032
+	11047.3.22 = {
+		birth = yes
+	}
+	11068.10.27 = {
+		add_spouse = 303035
+	}
+	11100.4.9 = {
+		death = yes
+	}
+}
+303034 = {
+	name = "Mongun"
+	dynasty = 2001139	#dynn_Shor
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303032
+	11050.9.30 = {
+		birth = yes
+	}
+	11089.1.21 = {
+		death = yes
+	}
+}
+303035 = {
+	name = "Sainkho"
+	female = yes
+	religion = tengri_pagan
+	culture = uriankhai
+	11052.4.30 = {
+		birth = yes
+	}
+	11102.8.13 = {
+		death = yes
+	}
+}
+303036 = {
+	name = "Kejik"
+	dynasty = 2001139	#dynn_Shor
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303032
+	mother = 303035
+	11070.11.23 = {
+		birth = yes
+	}
+	11109.12.29 = {
+		death = yes
+	}
+}
+303037 = {
+	name = "Dash_mir"
+	dynasty = 2001139	#dynn_Shor
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303032
+	mother = 303035
+	11097.7.5 = {
+		birth = yes
+	}
+	11147.6.1 = {
+		death = yes
+	}
+}
+303038 = {
+	name = "KhU_zhU_get"
+	dynasty = 2001139	#dynn_Shor
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303032
+	mother = 303035
+	11122.9.30 = {
+		birth = yes
+	}
+	11169.1.25 = {
+		death = yes
+	}
+}
+303039 = {
+	name = "Tadar"
+	dynasty = 2001139	#dynn_Shor
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303032
+	mother = 303035
+	11148.6.3 = {
+		birth = yes
+	}
+	11200.8.9 = {
+		death = yes
+	}
+}
+303040 = {
+	name = "Orlan"
+	dynasty = 2001139	#dynn_Shor
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303032
+	mother = 303035
+	11174.2.14 = {
+		birth = yes
+	}
+	11216.5.20 = {
+		death = yes
+	}
+}
+
+#Kargass/Tofas
+303041 = {
+	name = "Sholban"
+	dynasty = 2001140	#dynn_Karagas
+	religion = tengri_pagan
+	culture = uriankhai
+	10820.3.24 = {
+		birth = yes
+	}
+	10845.2.16 = {
+		add_spouse = 303042
+	}
+	10879.7.13 = {
+		death = yes
+	}
+}
+303042 = {
+	name = "Anay"
+	female = yes
+	religion = tengri_pagan
+	culture = uriankhai
+	10825.2.12 = {
+		birth = yes
+	}
+	10900.8.15 = {
+		death = yes
+	}
+}
+303043 = {
+	name = "Mengi"
+	dynasty = 2001140	#dynn_Karagas
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303041
+	mother = 303042
+	10848.10.29 = {
+		birth = yes
+	}
+	10875.11.23 = {
+		death = yes
+	}
+}
+303044 = {
+	name = "Mongun"
+	dynasty = 2001140	#dynn_Karagas
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303041
+	mother = 303042
+	10850.4.14 = {
+		birth = yes
+	}
+	10913.6.19 = {
+		death = yes
+	}
+}
+303045 = {
+	name = "Mongush"
+	dynasty = 2001140	#dynn_Karagas
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303041
+	mother = 303042
+	10851.1.16 = {
+		birth = yes
+	}
+	10906.8.3 = {
+		death = yes
+	}
+}
+
+303046 = {
+	name = "Sayana"
+	female = yes
+	dynasty = 2001140	#dynn_Karagas
+	religion = tengri_pagan
+	culture = uriankhai
+	11042.5.17 = {
+		birth = yes
+	}
+	11068.6.18 = {
+		add_spouse = 303047
+	}
+	11070.2.15 = {
+		add_spouse = 303048
+	}
+	11108.1.2 = {
+		death = yes
+	}
+}
+303047 = {
+	name = "Borbak_gU_ren"
+	religion = tengri_pagan
+	culture = uriankhai
+	11042.2.18 = {
+		birth = yes
+	}
+	11069.4.4 = {
+		death = yes
+	}
+}
+303048 = {
+	name = "Adiyiji"
+	religion = tengri_pagan
+	culture = uriankhai
+	11045.1.12 = {
+		birth = yes
+	}
+	11081.12.1 = {
+		death = yes
+	}
+}
+303049 = {
+	name = "Sayan"
+	dynasty = 2001140	#dynn_Karagas
+	religion = tengri_pagan
+	culture = uriankhai
+	mother = 303046
+	father = 303047
+	11069.4.16 = {
+		birth = yes
+	}
+	11128.7.25 = {
+		death = yes
+	}
+}
+303050 = {
+	name = "Samdar"
+	female = yes
+	dynasty = 2001140	#dynn_Karagas
+	religion = tengri_pagan
+	culture = uriankhai
+	mother = 303046
+	father = 303048
+	11072.6.9 = {
+		birth = yes
+	}
+	11132.10.8 = {
+		death = yes
+	}
+}
+303051 = {
+	name = "Tyulgyu"
+	dynasty = 2001140	#dynn_Karagas
+	religion = tengri_pagan
+	culture = uriankhai
+	mother = 303046
+	father = 303048
+	11075.1.18 = {
+		birth = yes
+	}
+	11116.12.30 = {
+		death = yes
+	}
+}
+303052 = {
+	name = "Bishtak"
+	dynasty = 2001140	#dynn_Karagas
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303049
+	11094.3.7 = {
+		birth = yes
+	}
+	11146.9.12 = {
+		death = yes
+	}
+}
+303053 = {
+	name = "Uyanmas"
+	dynasty = 2001140	#dynn_Karagas
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303052
+	11116.11.29 = {
+		birth = yes
+	}
+	11169.1.5 = {
+		death = yes
+	}
+}
+303054 = {
+	name = "Turgun"
+	dynasty = 2001140	#dynn_Karagas
+	religion = tengri_pagan
+	culture = uriankhai
+	stewardship = 8
+	father = 303053
+	11144.12.15 = {
+		birth = yes
+	}
+	11205.4.12 = {
+		death = yes
+	}
+}
+303055 = {
+	name = "Dan_jayaa"
+	female = yes
+	dynasty = 2001140	#dynn_Karagas
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303053
+	11164.2.26 = {
+		birth = yes
+	}
+	11224.10.24 = {
+		death = yes
+	}
+}
+303056 = {
+	name = "Dash_mir"
+	dynasty = 2001140	#dynn_Karagas
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303053
+	11165.9.3 = {
+		birth = yes
+	}
+	11222.1.30 = {
+		death = yes
+	}
+}
+
+#Tuvans
+303057 = {
+	name = "Kaadyr_ool"
+	dynasty = 2001141	#dynn_Tuva
+	religion = tengri_pagan
+	culture = uriankhai
+	10817.12.16 = {
+		birth = yes
+	}
+	10841.4.9 = {
+		add_spouse = 303058
+	}
+	10866.12.13 = {
+		death = yes
+	}
+}
+303058 = {
+	name = "Ak_kis"
+	female = yes
+	religion = tengri_pagan
+	culture = uriankhai
+	10823.8.12 = {
+		birth = yes
+	}
+	10880.1.4 = {
+		death = yes
+	}
+}
+303059 = {
+	name = "Sary_ool"
+	dynasty = 2001141	#dynn_Tuva
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303057
+	10843.11.17 = {
+		birth = yes
+	}
+	10866.12.13 = {
+		trait = ambitious
+	}
+	10876.3.21 = {
+		death = {
+			death_reason = death_battle
+			killer = 303061
+		}
+	}
+}
+303060 = {
+	name = "Dalay_ool"
+	dynasty = 2001141	#dynn_Tuva
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303057
+	10845.6.18 = {
+		birth = yes
+	}
+	10866.12.13 = {
+		trait = ambitious
+	}
+	10870.2.24 = {
+		death = {
+			death_reason = death_battle
+			killer = 303061
+		}
+	}
+}
+303061 = {
+	name = "Kizil_ool"
+	dynasty = 2001141	#dynn_Tuva
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303057
+	trait = strong
+	10848.8.19 = {
+		birth = yes
+	}
+	10935.6.22 = {
+		death = yes
+	}
+}
+
+303062 = {
+	name = "Choyan_ool"
+	dynasty = 2001141	#dynn_Tuva
+	religion = tengri_pagan
+	culture = uriankhai
+	11024.1.27 = {
+		birth = yes
+	}
+	11082.3.22 = {
+		death = yes
+	}
+}
+303063 = {
+	name = "Ay_dash"
+	dynasty = 2001141	#dynn_Tuva
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303062
+	11048.4.30 = {
+		birth = yes
+	}
+	11103.1.12 = {
+		death = yes
+	}
+}
+303064 = {
+	name = "Ay_demir"
+	dynasty = 2001141	#dynn_Tuva
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303062
+	11051.7.23 = {
+		birth = yes
+	}
+	11100.5.10 = {
+		death = yes
+	}
+}
+303065 = {
+	name = "Kongar_ool"
+	dynasty = 2001141	#dynn_Tuva
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303063
+	11069.12.8 = {
+		birth = yes
+	}
+	11115.11.16 = {
+		death = yes
+	}
+}
+303066 = {
+	name = "Xures_ool"
+	dynasty = 2001141	#dynn_Tuva
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303065
+	11095.3.2 = {
+		birth = yes
+	}
+	11143.4.8 = {
+		death = yes
+	}
+}
+303067 = {
+	name = "Kongar_ool"
+	dynasty = 2001141	#dynn_Tuva
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303066
+	11117.11.9 = {
+		birth = yes
+	}
+	11167.2.27 = {
+		death = yes
+	}
+}
+303068 = {
+	name = "Kaadyr_ool"
+	dynasty = 2001141	#dynn_Tuva
+	religion = tengri_pagan
+	culture = uriankhai
+	stewardship = 8
+	father = 303067
+	11143.1.4 = {
+		birth = yes
+	}
+	11187.10.19 = {
+		death = yes
+	}
+}
+303069 = {
+	name = "Xirlig_ool"
+	dynasty = 2001141	#dynn_Tuva
+	religion = tengri_pagan
+	culture = uriankhai
+	father = 303068
+	11162.7.10 = {
+		birth = yes
+	}
+	11206.9.28 = {
+		death = yes
+	}
+}
+#
+#MPO Fictional Uriankhai
+fictional_uriankhais_1 = {	#Tuvans in Great Liao 1066
+	name = "Dash_demir"
+	religion = tengri_pagan
+	culture = uriankhai
+	11038.3.5 = {
+		birth = yes
+	}
+	11095.1.1 = {
+		death = yes
+	}
+}
+
+fictional_uriankhais_2 = {	#Tuvans in Great Liao 1066
+	name = "XU_ndU_s"
+	religion = tengri_pagan
+	culture = uriankhai
+	11022.9.12 = {
+		birth = yes
+	}
+	11071.1.1 = {
+		death = yes
+	}
+}
+
+fictional_uriankhais_3 = {	#Tuvans in Great Liao 1066
+	name = "Tyulgyu"
+	religion = tengri_pagan
+	culture = uriankhai
+	11010.2.6 = {
+		birth = yes
+	}
+	11073.1.1 = {
+		death = yes
+	}
+}
+
+fictional_uriankhais_4 = {	#Tuvans in Great Liao 1066
+	name = "Chechen"
+	religion = tengri_pagan
+	culture = uriankhai
+	11034.8.24 = {
+		birth = yes
+	}
+	11094.1.1 = {
+		death = yes
+	}
+}
+
+fictional_uriankhais_5 = {	#Indep Tuvans 1178
+	name = "Belek"
+	religion = tengri_pagan
+	culture = uriankhai
+	11148.9.4 = {
+		birth = yes
+	}
+	11201.1.1 = {
+		death = yes
+	}
+}
+
+fictional_uriankhais_6 = {	#Indep Tuvans 1178
+	name = "Buyimur"
+	religion = tengri_pagan
+	culture = uriankhai
+	11140.8.3 = {
+		birth = yes
+	}
+	11196.1.1 = {
+		death = yes
+	}
+}
+
+fictional_uriankhais_7 = {	#Indep Tuvans 1178
+	name = "Kulbur"
+	religion = tengri_pagan
+	culture = uriankhai
+	11133.10.9 = {
+		birth = yes
+	}
+	11194.1.1 = {
+		death = yes
+	}
+}
+
+fictional_uriankhais_8 = {	#Herders
+	name = "XU_ndU_s"
+	religion = tengri_pagan
+	culture = uriankhai
+	11151.6.24 = {
+		birth = yes
+	}
+	11182.1.1 = {
+		death = yes
+	}
+}
+
+fictional_uriankhais_9 = {	#Herders
+	name = "Borbak_kis"
+	female = yes
+	religion = tengri_pagan
+	culture = uriankhai
+	11124.7.21 = {
+		birth = yes
+	}
+	11197.1.1 = {
+		death = yes
+	}
+}
+
+fictional_uriankhais_10 = {	#herder 1066
+	name = "KO_vey_maadir"
+	religion = tengri_pagan
+	culture = uriankhai
+	11045.4.8 = {
+		birth = yes
+	}
+	11099.1.1 = {
+		death = yes
+	}
+}
+
+fictional_uriankhais_11 = {	#herder 867
+	name = "Bishtak"
+	religion = tengri_pagan
+	culture = uriankhai
+	10833.2.4 = {
+		birth = yes
+	}
+	10888.1.1 = {
+		death = yes
+	}
+}
+
+fictional_uriankhais_12 = {	#herder 867
+	name = "Chudur"
+	religion = tengri_pagan
+	culture = uriankhai
+	female = yes
+	10827.12.8 = {
+		birth = yes
+	}
+	10875.1.1 = {
+		death = yes
+	}
+}
+
+fictional_uriankhais_13 = {	#herder 867
+	name = "Kizil_ool"
+	religion = tengri_pagan
+	culture = uriankhai
+	10826.1.11 = {
+		birth = yes
+	}
+	10878.1.1 = {
+		death = yes
+	}
+}
+
+fictional_uriankhais_14 = {	#herder 1066
+	name = "Anay"
+	religion = tengri_pagan
+	culture = uriankhai
+	female =  yes
+	11049.1.1 = {
+		birth = yes
+	}
+	11108.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,1706 @@
+﻿#Yarkand
+166696 = {
+	name="Qishiq"
+	dynasty=1040058
+	religion="mahayana"
+	culture="saka"
+	10711.1.1={
+		birth=yes
+	}
+	10763.1.1={
+		death=yes
+	}
+}
+166697 = {
+	name="Shahrokh"
+	dynasty=1040058
+	religion="mahayana"
+	culture="saka"
+	father=166696
+	10741.1.1={
+		birth=yes
+	}
+	10800.1.1={
+		death=yes
+	}
+}
+166698 = {
+	name="Shayn"
+	female=yes
+	dynasty=1040058
+	religion="mahayana"
+	culture="saka"
+	father=166696
+	10745.1.1={
+		birth=yes
+	}
+	10805.1.1={
+		death=yes
+	}
+}
+166699 = {
+	name="Artivan"
+	dynasty=1040058
+	religion="mahayana"
+	culture="saka"
+	father=166697
+	10787.1.1={
+		birth=yes
+	}
+	10849.1.1={
+		death=yes
+	}
+}
+166700 = {
+	name="Devadasa"
+	dynasty=1040058
+	religion="mahayana"
+	culture="saka"
+	father=166699
+	10838.1.1={
+		birth=yes
+	}
+	10902.1.1={
+		death=yes
+	}
+}
+166701 = {
+	name="Yena"
+	female=yes
+	dynasty=1040058
+	religion="mahayana"
+	culture="saka"
+	father=166699
+	10844.1.1={
+		birth=yes
+	}
+	10896.1.1={
+		death=yes
+	}
+}
+
+#Kashgar
+166690 = {
+	name="Kartir"
+	dynasty=1040057
+	religion="mahayana"
+	culture="saka"
+	10705.1.1={
+		birth=yes
+	}
+	10760.1.1={
+		death=yes
+	}
+}
+166691 = {
+	name="Lengleng"
+	dynasty=1040057
+	religion="mahayana"
+	culture="saka"
+	father=166690
+	10732.1.1={
+		birth=yes
+	}
+	10798.1.1={
+		death=yes
+	}
+}
+166692 = {
+	name="Ranisa"
+	female=yes
+	dynasty=1040057
+	religion="mahayana"
+	culture="saka"
+	father=166690
+	10740.1.1={
+		birth=yes
+	}
+	10802.1.1={
+		death=yes
+	}
+}
+166693 = {
+	name="Resan"
+	dynasty=1040057
+	religion="mahayana"
+	culture="saka"
+	father=166691
+	10785.1.1={
+		birth=yes
+	}
+	10846.1.1={
+		death=yes
+	}
+}
+166694 = {
+	name="Dharma"
+	dynasty=1040057
+	religion="mahayana"
+	culture="saka"
+	father=166693
+	10840.1.1={
+		birth=yes
+	}
+	10891.1.1={
+		death=yes
+	}
+}
+166695 = {
+	name="Yasaman"
+	female=yes
+	dynasty=1040057
+	religion="mahayana"
+	culture="saka"
+	father=166693
+	10845.1.1={
+		birth=yes
+	}
+	10898.1.1={
+		death=yes
+	}
+}
+#Tashkurgan
+248029 = {
+	name="Sariqol" # mythological originator of local dynasty
+	dynasty=1059008
+	religion=mazdayasna
+	culture="saka"
+	trait = beauty_good_2
+	10565.1.1={
+		birth=yes
+	}
+	10592.1.1={
+		add_spouse=248010
+	}
+	10640.1.1={
+		death=yes
+	}
+}
+248030 = {
+	name="Khosrow" # fictional local ruler
+	dynasty=1059008
+	religion=mazdayasna
+	culture="saka"
+	trait = legitimized_bastard
+	father=248029
+	mother=248010
+	10595.1.1={
+		birth=yes
+	}
+	10670.1.1={
+		death=yes
+	}
+}
+248031 = {
+	name="Kamnai" # fictional local ruler
+	dynasty=1059008
+	religion=mahayana
+	culture="saka"
+	father=248030
+	10630.1.1={
+		birth=yes
+	}
+	10700.1.1={
+		death=yes
+	}
+}
+248032 = {
+	name="Khina" # fictional local ruler
+	dynasty=1059008
+	religion=mahayana
+	culture="saka"
+	father=248031
+	10660.1.1={
+		birth=yes
+	}
+	10735.1.1={
+		death=yes
+	}
+}
+
+248033 = {
+	name="Padatcaina" # fictional local ruler
+	dynasty=1059008
+	religion=mahayana
+	culture="saka"
+	trait = education_martial_3
+	father=248032
+	10705.1.1={
+		birth=yes
+	}
+	10775.1.1={
+		death=yes
+	}
+}
+
+248034 = {
+	name="Naganpaka" # fictional local ruler
+	dynasty=1059008
+	religion=mahayana
+	culture="saka"
+	father=248033
+	10735.1.1={
+		birth=yes
+	}
+	10800.1.1={
+		death=yes
+	}
+}
+248035 = {
+	name="Visma" # fictional
+	dynasty=1059008
+	religion=nestorian
+	culture="saka"
+	father=248033
+	10738.1.1={
+		birth=yes
+	}
+	10805.1.1={
+		death=yes
+	}
+}
+248036 = {
+	name="Raghu" # fictional
+	dynasty=1059008
+	religion=manichean
+	culture="saka"
+	father=248033
+	10741.1.1={
+		birth=yes
+	}
+	10812.1.1={
+		death=yes
+	}
+}
+
+248037 = {
+	name="Capastaka" # fictional local ruler
+	dynasty=1059008
+	religion=mahayana
+	culture="saka"
+	father=248034
+	10771.1.1={
+		birth=yes
+	}
+	10850.1.1={
+		death=yes
+	}
+}
+248038 = {
+	name="Shambhava" # fictional local ruler
+	dynasty=1059008
+	religion=mahayana
+	culture="saka"
+	father=248037
+	10827.1.1={
+		birth=yes
+	}
+	10880.1.1={
+		death=yes
+	}
+}
+
+248039 = {
+	name="Pakyau" # fictional local ruler
+	dynasty=1059008
+	religion=mahayana
+	culture="saka"
+	father=248038
+	mother=248040
+	10848.1.1={
+		birth=yes
+	}
+	10910.1.1={
+		death=yes
+	}
+}
+
+248040 = {
+	name="Nirmala" # fictional
+	female=yes
+	dynasty=19111
+	religion=manichean
+	culture=sogdian
+	10830.1.1={
+		birth=yes
+	}
+	10910.1.1={
+		death=yes
+	}
+}
+248041 = {
+	name="Ikam" # fictional local ruler
+	dynasty=1059008
+	religion=nestorian
+	culture="saka"
+	father=248038
+	mother=248040
+	10850.1.1={
+		birth=yes
+	}
+	10917.1.1={
+		death=yes
+	}
+}
+248042 = {
+	name="Sham" # fictional local ruler
+	dynasty=1059008
+	religion=mahayana
+	culture="saka"
+	father=248039
+	10880.1.1={
+		birth=yes
+	}
+	10945.1.1={
+		death=yes
+	}
+}
+
+248043 = {
+	name="Farzad" # fictional local ruler
+	dynasty=1059008
+	religion=mahayana
+	culture=persian #tajik
+	father=248042
+	10910.1.1={
+		birth=yes
+	}
+	10950.1.1={
+		culture=persian # tajik
+	}
+	10970.1.1={
+		death=yes
+	}
+}
+
+#Khotan
+
+166632 = {
+	name="Kirti" #Vijaya Kirti I
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	85.1.1={
+		birth=yes
+	}
+	10130.1.1={
+		death=yes
+	}
+}
+166633 = {
+	name="Sangrama" #Vijaya Sangrama I "the_Lion" (Fangqian)
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166632
+	10102.1.1={
+		birth=yes
+	}
+	10127.1.1 = {
+		give_nickname=nick_the_lion
+	}
+	10132.1.1={
+		death=yes
+	}
+}
+166634 = {
+	name="Dharma" #Vijaya Dharma I (Jian)
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166633
+	10122.1.1={
+		birth=yes
+	}
+	10151.1.1={
+		death=yes
+	}
+}
+166635 = {
+	name="Jaya" #Vijaya Jaya I (Anguo)
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166634
+	10146.1.1={
+		birth=yes
+	}
+	10182.1.1={
+		death=yes
+	}
+}
+166636 = {
+	name="Shima" #Vijaya Shima I
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166635
+	10161.1.1={
+		birth=yes
+	}
+	10188.1.1={
+		death=yes
+	}
+}
+166637 = {
+	name="Saigrama" #Vijaya Saigrama I
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166636
+	10178.1.1={
+		birth=yes
+	}
+	10208.1.1={
+		death=yes
+	}
+}
+166638 = {
+	name="Andara" #Vijaya Andara I
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166637
+	10195.1.1={
+		birth=yes
+	}
+	10243.1.1={
+		death=yes
+	}
+}
+166639 = {
+	name="Vahana" #Vijaya Vahana I
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166638
+	10213.1.1={
+		birth=yes
+	}
+	10251.1.1={
+		death=yes
+	}
+}
+166640 = {
+	name="Simha" #Vijaya Simha I
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166639
+	10240.1.1={
+		birth=yes
+	}
+	10279.1.1={
+		death=yes
+	}
+}
+166641 = {
+	name="Sata" #Vijaya Sata I
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166640
+	10262.1.1={
+		birth=yes
+	}
+	10306.1.1={
+		death=yes
+	}
+}
+166642 = {
+	name="Ananta" #Vijaya Ananta I
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166641
+	10287.1.1={
+		birth=yes
+	}
+	10336.1.1={
+		death=yes
+	}
+}
+166643 = {
+	name="Saigrama" #Vijaya Saigrama II
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166642
+	10310.1.1={
+		birth=yes
+	}
+	10373.1.1={
+		death=yes
+	}
+}
+166644 = {
+	name="Dharma" #Vijaya Dharma II
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166643
+	10333.1.1={
+		birth=yes
+	}
+	10397.1.1={
+		death=yes
+	}
+}
+166645 = {
+	name="Sambhava" #Vijaya Sambhava I
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166644
+	10360.1.1={
+		birth=yes
+	}
+	10436.1.1={
+		death=yes
+	}
+}
+166646 = {
+	name="Pala" #Vijaya Pala I
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166645
+	10386.1.1={
+		birth=yes
+	}
+	10451.1.1={
+		death=yes
+	}
+}
+166647 = {
+	name="Amala" #Vijaya Amala I
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166646
+	10432.1.1={
+		birth=yes
+	}
+	10496.1.1={
+		death=yes
+	}
+}
+166648 = {
+	name="Jaya" #Vijaya Jaya II
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166647
+	10471.1.1={
+		birth=yes
+	}
+	10512.1.1={
+		death=yes
+	}
+}
+166649 = {
+	name="Kirti" #Vijaya Kirti II
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166648
+	10499.1.1={
+		birth=yes
+	}
+	10531.1.1={
+		death=yes
+	}
+}
+166650 = {
+	name="Sangrama" #Vijaya Sangrama II
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166649
+	10524.1.1={
+		birth=yes
+	}
+	10578.1.1={
+		death=yes
+	}
+}
+166651 = {
+	name="Shima" #Vijaya Shima II
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166650
+	10540.1.1={
+		birth=yes
+	}
+	10596.1.1={
+		death=yes
+	}
+}
+166652 = {
+	name="Jaya" #Vijaya Jaya III
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166651
+	10557.1.1={
+		birth=yes
+	}
+	10612.1.1={
+		death=yes
+	}
+}
+166653 = {
+	name="Pala" #Vijaya Pala II
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166652
+	10575.1.1={
+		birth=yes
+	}
+	10628.1.1={
+		death=yes
+	}
+}
+166654 = {
+	name="Sangrama" #Vijaya Sangrama III
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166653
+	10604.1.1={
+		birth=yes
+	}
+	10649.1.1={
+		death=yes
+	}
+}
+166655 = {
+	name="Satra" #Vijaya Satra I
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166654
+	10620.1.1={
+		birth=yes
+	}
+	10662.1.1={
+		death=yes
+	}
+}
+166656 = {
+	name="Kirti" #Vijaya Kirti III
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166655
+	10636.1.1={
+		birth=yes
+	}
+	10673.1.1={
+		death=yes
+	}
+}
+166657 = {
+	name="Sangrama" #Vijaya Sangrama IV (Fudu Xiong)
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166656
+	10652.1.1={
+		birth=yes
+	}
+	10690.1.1={
+		death=yes
+	}
+}
+166658 = {
+	name="Khemeg" #Amala Khemeg - Regent of Khotan 680-692
+	dynasty=1040025
+	religion="mahayana"
+	culture="saka"
+	10642.1.1={
+		birth=yes
+	}
+	10709.1.1={
+		death=yes
+	}
+}
+166659 = {
+	name="Vikarma" #Vijaya Vikarma I (Fudu Jing)
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166657
+	10668.1.1={
+		birth=yes
+	}
+	10719.1.1={
+		death=yes
+	}
+}
+166660 = {
+	name="Dharma" #Vijaya Dharma III (Yuchi Tiao)
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166659
+	10684.1.1={
+		birth=yes
+	}
+	10725.1.1={
+		death=yes
+	} #Beheaded by the Chinese
+}
+166661 = {
+	name="Sambhava" #Vijaya Sambhava II (Yuchi Fushizhan)
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166659
+	10686.1.1={
+		birth=yes
+	}
+	10736.1.1={
+		death=yes
+	}
+}
+166662 = {
+	name="Vahana" #Vijaya Vahana II "the_Great" (Fudu Da)
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166661
+	10702.1.1={
+		birth=yes
+	}
+	10736.1.1 = {
+		give_nickname=nick_the_great
+	}
+	10740.1.1={
+		death=yes
+	}
+}
+166663 = {
+	name="Simha" #Vijaya Simha II (Yuchi Gui)
+	dynasty=1040024
+	religion="manichean"
+	culture="saka"
+	father=166662
+	10717.1.1={
+		birth=yes
+	}
+	10744.1.1={
+		religion="mahayana"
+	}
+	10747.1.1={
+		death=yes
+	}
+}
+166664 = {
+	name="Dhondhros" #Vijaya Dhondhros I (Yuchi Sheng)
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166663
+	10733.1.1={
+		birth=yes
+	}
+	10736.1.1={
+		effect = { set_relation_friend = { reason = friend_generic_history target = character:166665 } }
+	}
+	10785.1.1={
+		death=yes
+	}
+}
+166665 = {
+	name="Sata" #Vijaya Sata II (Yuchi Shihu (Jabgu) Yao)
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166663
+	10736.1.1={
+		birth=yes
+	}
+	10789.1.1={
+		death=yes
+	}
+}
+166666 = {
+	name="Ananta" #Vijaya Ananta II
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166665
+	10750.1.1={
+		birth=yes
+	}
+	10764.1.1={
+		add_spouse=166667
+	}
+	10798.1.1={
+		death=yes
+	}
+}
+166667 = {
+	name="Dharma" #Vijaya Dharma
+	female=yes
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166664
+	10749.1.1={
+		birth=yes
+	}
+	10803.1.1={
+		death=yes
+	}
+}
+166668 = {
+	name="Sangrama" #Vijaya Sangrama V
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166666
+	mother=166667
+	10765.1.1={
+		birth=yes
+	}
+	10781.1.1={
+		add_spouse=166671
+	}
+	10803.1.2={
+		add_spouse=166672
+	}
+	10809.1.1={
+		death=yes
+	}
+}
+166669 = {
+	name="Bresaya" #Vijaya Bresaya
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166666
+	mother=166667
+	10767.1.1={
+		birth=yes
+	}
+	10782.1.1={
+		add_spouse=166670
+	}
+	10805.1.1={
+		death=yes
+	}
+}
+166670 = {
+	name="Kasuma" #Asu Kasuma
+	female=yes
+	dynasty=1040026
+	religion="mahayana"
+	culture="saka"
+	10766.1.1={
+		birth=yes
+		employer=166665
+	}
+	10803.1.1={
+		death=yes
+	}
+}
+166671 = {
+	name="Silamata" #Silamata
+	female=yes
+	dynasty=1040027
+	religion="mahayana"
+	culture="saka"
+	10764.1.1={
+		birth=yes
+		employer=166665
+	}
+	10803.1.1={
+		death=yes
+	}
+}
+166672 = {
+	name="Gohusara" #Gohusara
+	female=yes
+	dynasty=1040028
+	religion="mahayana"
+	culture="saka"
+	10778.1.1={
+		birth=yes
+		employer=166665
+	}
+	10821.1.1={
+		death=yes
+	}
+}
+166673 = {
+	name="Nakshatra" #Vijaya Nakshatra I
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166668
+	mother=166671
+	10782.1.1={
+		birth=yes
+	}
+	10825.1.1={
+		death=yes
+	}
+}
+166674 = {
+	name="Visaphraba" #Vijaya Visaphraba
+	female=yes
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166673
+	10804.1.1={
+		birth=yes
+	}
+	10849.1.1={
+		death=yes
+	}
+}
+166675 = {
+	name="Kirti" #Vijaya Kirti IV
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166673
+	10799.1.1={
+		birth=yes
+	}
+	10841.1.1={
+		death=yes
+	}
+}
+166676 = {
+	name="Pala" #Vijaya Pala III
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166675
+	10815.1.1={
+		birth=yes
+	}
+	10856.1.1={
+		death=yes
+	}
+}
+166677 = {
+	name="Viteseci" #Vijaya Viteseci
+	female=yes
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166675
+	10817.1.1={
+		birth=yes
+	}
+	10848.1.1={
+		death=yes
+	}
+}
+166678 = {
+	name="Visadaya" #Vijaya Visadaya
+	female=yes
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166675
+	10819.1.1={
+		birth=yes
+	}
+	10861.1.1={
+		death=yes
+	}
+}
+166679 = {
+	name="Jaya" #Vijaya Jaya IV
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166676
+	10831.1.1={
+		birth=yes
+	}
+	10859.1.1={
+		death=yes
+	}
+}
+166680 = {
+	name="Sangrama" #Vijaya Sangrama VI
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166676
+	10834.1.1={
+		birth=yes
+	}
+	10863.1.1={
+		death=yes
+	}
+}
+166681 = {
+	name="Vikarma" #Vijaya Vikarma II
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166679
+	10847.1.1={
+		birth=yes
+	}
+	10862.1.1={
+		add_spouse = 166682
+	}
+	10877.1.1={
+		death=yes
+	}
+}
+166682 = {
+	name="Sutoka"
+	female=yes
+	dynasty=1040029
+	religion="mahayana"
+	culture="saka"
+	10847.1.1={
+		birth=yes
+	}
+	10899.1.1={
+		death=yes
+	}
+}
+166683 = {
+	name="Simha" #Vijaya Simha II
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166681
+	mother=166682
+	10863.1.1={
+		birth=yes
+	}
+	10878.1.1={
+		add_spouse = 166684
+	}
+	10885.1.1={
+		death=yes
+	}
+}
+166684 = {
+	name="Alyohjah"
+	female=yes
+	dynasty=1040030
+	religion="mahayana"
+	culture="saka"
+	10864.1.1={
+		birth=yes
+		employer=166681
+	}
+	10915.1.1={
+		death=yes
+	}
+}
+166685 = {
+	name="Sangrama" #Vijaya Sangrama VI
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166681
+	mother=166682
+	10865.1.1={
+		birth=yes
+	}
+	10886.1.1={
+		add_spouse = 166684
+	}
+	10912.1.1={
+		death=yes
+	}
+}
+166686 = {
+	name="Sambhava" #Vijaya Sambhava III "the_Great" (Lishengtian)
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166685
+	mother=166684
+	10893.1.1={
+		birth=yes
+	}
+	10912.1.1 = {
+		give_nickname=nick_the_great
+	}
+	10966.1.1={
+		death=yes
+	}
+}
+166687 = {
+	name="Surapati" #Vijaya Surapati I (Zhongchang)
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166686
+	10928.1.1={
+		birth=yes
+	}
+	10977.1.1={
+		death=yes
+	}
+}
+166688 = {
+	name="Dharma" #Vijaya Dharma IV
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166687
+	10945.1.1={
+		birth=yes
+	}
+	10982.1.1={
+		death=yes
+	}
+}
+166689 = {
+	name="Kumara" #Vijaya Kumara I
+	dynasty=1040024
+	religion="mahayana"
+	culture="saka"
+	father=166687
+	10945.1.1={
+		birth=yes
+	}
+	11006.1.1={
+		death=yes
+	}
+}
+
+#Cherchen vassals - fictional placeholders
+saka0001 = {
+	name="Samgaka"
+	dynasty=2003123 #Chiehmo
+	religion="mahayana"
+	culture="saka"
+	10860.1.1={
+		birth=yes
+	}
+	10920.1.1={
+		death=yes
+	}
+}
+
+saka0002 = {
+	name="Manohara"
+	dynasty= 2003123 #Chiehmo
+	religion="mahayana"
+	culture="saka"
+	father=saka0001
+	10880.1.1={
+		birth=yes
+	}
+	10940.1.1={
+		death=yes
+	}
+}
+
+saka0003 = {
+	name="Harka"
+	dynasty= 2003123 #Chiehmo
+	religion="mahayana"
+	culture="saka"
+	father=saka0002
+	10900.1.1={
+		birth=yes
+	}
+	10960.1.1={
+		death=yes
+	}
+}
+
+saka0004 = {
+	name="Sihya"
+	dynasty= 2003123 #Chiehmo
+	religion="mahayana"
+	culture="saka"
+	father=saka0003
+	10920.1.1={
+		birth=yes
+	}
+	10980.1.1={
+		death=yes
+	}
+}
+
+saka0005 = {
+	name="Vaham"
+	dynasty= 2003123 #Chiehmo
+	religion="mahayana"
+	culture="saka"
+	father=saka0004
+	10940.1.1={
+		birth=yes
+	}
+	11000.1.1={
+		death=yes
+	}
+}
+
+saka0006 = {
+	name="Dzatsi"
+	dynasty= 2003123 #Chiehmo
+	religion="mahayana"
+	culture="saka"
+	father=saka0005
+	10960.1.1={
+		birth=yes
+	}
+	11006.1.1={
+		death=yes
+	}
+}
+
+saka0007 = {
+	name="Brika"
+	dynasty= 2003123 #Chiehmo
+	religion="mahayana"
+	culture="saka"
+	father=saka0006
+	10980.1.1={
+		birth=yes
+	}
+	11006.1.1={
+		death=yes
+	}
+}
+
+saka0008 = {
+	name="Simhyi"
+	dynasty= 2003123 #Chiehmo
+	religion="mahayana"
+	culture="saka"
+	father=saka0007
+	11000.1.1={
+		birth=yes
+	}
+	11060.1.1={
+		death=yes
+	}
+}
+
+#Yarkand Khotan vassals - fictional placeholders
+saka0009 = {
+	name="Vijita"
+	dynasty= 2003125 #Shaka
+	religion="mahayana"
+	culture="saka"
+	10740.1.1={
+		birth=yes
+	}
+	10800.1.1={
+		death=yes
+	}
+}
+
+saka0010 = {
+	name="Dharma"
+	dynasty= 2003125 #Shaka
+	religion="mahayana"
+	culture="saka"
+	father=saka0009
+	10760.1.1={
+		birth=yes
+	}
+	10820.1.1={
+		death=yes
+	}
+}
+
+saka0011 = {
+	name="Sangrama"
+	dynasty= 2003125 #Shaka
+	religion="mahayana"
+	culture="saka"
+	father=saka0010
+	10780.1.1={
+		birth=yes
+	}
+	10840.1.1={
+		death=yes
+	}
+}
+
+saka0012 = {
+	name="Visaram"
+	dynasty= 2003125 #Shaka
+	religion="mahayana"
+	culture="saka"
+	father=saka0011
+	10800.1.1={
+		birth=yes
+	}
+	10860.1.1={
+		death=yes
+	}
+}
+
+saka0013 = {
+	name="Bahudhiva"
+	dynasty= 2003125 #Shaka
+	religion="mahayana"
+	culture="saka"
+	father=saka0012
+	10820.1.1={
+		birth=yes
+	}
+	10880.1.1={
+		death=yes
+	}
+}
+
+saka0014 = {
+	name="Raghu"
+	dynasty= 2003125 #Shaka
+	religion="mahayana"
+	culture="saka"
+	father=saka0013
+	10840.1.1={
+		birth=yes
+	}
+	10900.1.1={
+		death=yes
+	}
+}
+
+saka0015 = {
+	name="Ceguti"
+	dynasty= 2003125 #Shaka
+	religion="mahayana"
+	culture="saka"
+	father=saka0014
+	10860.1.1={
+		birth=yes
+	}
+	10920.1.1={
+		death=yes
+	}
+}
+
+saka0016 = {
+	name="Zambasta"
+	dynasty= 2003125 #Shaka
+	religion="mahayana"
+	culture="saka"
+	father=saka0015
+	10880.1.1={
+		birth=yes
+	}
+	10940.1.1={
+		death=yes
+	}
+}
+
+saka0017 = {
+	name="Shribhadra"
+	dynasty= 2003125 #Shaka
+	religion="mahayana"
+	culture="saka"
+	father=saka0016
+	10900.1.1={
+		birth=yes
+	}
+	10960.1.1={
+		death=yes
+	}
+}
+
+saka0018 = {
+	name="Kriti"
+	dynasty= 2003125 #Shaka
+	religion="mahayana"
+	culture="saka"
+	father=saka0017
+	10920.1.1={
+		birth=yes
+	}
+	10980.1.1={
+		death=yes
+	}
+}
+
+saka0019 = {
+	name="Arsa"
+	dynasty= 2003125 #Shaka
+	religion="mahayana"
+	culture="saka"
+	father=saka0018
+	10940.1.1={
+		birth=yes
+	}
+	11000.1.1={
+		death=yes
+	}
+}
+
+saka0020 = {
+	name="Shura"
+	dynasty= 2003125 #Shaka
+	religion="mahayana"
+	culture="saka"
+	father=saka0019
+	10960.1.1={
+		birth=yes
+	}
+	11006.1.1={
+		death=yes
+	}
+}
+
+saka0021 = {
+	name="Tayasham"
+	dynasty= 2003125 #Shaka
+	religion="mahayana"
+	culture="saka"
+	father=saka0020
+	10980.1.1={
+		birth=yes
+	}
+	11006.1.1={
+		death=yes
+	}
+}
+
+saka0022 = {
+	name="Hvimdu"
+	dynasty= 2003125 #Shaka
+	religion="mahayana"
+	culture="saka"
+	father=saka0021
+	11000.1.1={
+		birth=yes
+	}
+	11060.1.1={
+		death=yes
+	}
+}
+
+#Kashgar dynasty expanded - fictional placeholders
+saka0023 = {
+	name="Pakyau"
+	dynasty=1040057
+	religion="mahayana"
+	culture="saka"
+	father=166694
+	10860.1.1={
+		birth=yes
+	}
+	10920.1.1={
+		death=yes
+	}
+}
+
+saka0024 = {
+	name="Bhadra"
+	dynasty=1040057
+	religion="mahayana"
+	culture="saka"
+	father=saka0023
+	10880.1.1={
+		birth=yes
+	}
+	10940.1.1={
+		death=yes
+	}
+}
+
+saka0025 = {
+	name="Shinganca"
+	dynasty=1040057
+	religion="mahayana"
+	culture="saka"
+	father=saka0024
+	10900.1.1={
+		birth=yes
+	}
+	10960.1.1={
+		death=yes
+	}
+}
+
+saka0026 = {
+	name="Vadhaga"
+	dynasty=1040057
+	religion="mahayana"
+	culture="saka"
+	father=saka0025
+	10920.1.1={
+		birth=yes
+	}
+	10980.1.1={
+		death=yes
+	}
+}
+
+saka0027 = {
+	name="Sudarrjam"
+	dynasty=1040057
+	religion="mahayana"
+	culture="saka"
+	father=saka0026
+	10940.1.1={
+		birth=yes
+	}
+	11000.1.1={
+		death=yes
+	}
+}
+
+saka0028 = {
+	name="Alysanna"
+	dynasty=1040057
+	religion="mahayana"
+	culture="saka"
+	father=saka0027
+	10960.1.1={
+		birth=yes
+	}
+	11006.1.1={
+		death=yes
+	}
+}
+
+saka0029 = {
+	name="Murlimin"
+	dynasty=1040057
+	religion="mahayana"
+	culture="saka"
+	father=saka0028
+	10980.1.1={
+		birth=yes
+	}
+	11006.1.1={
+		death=yes
+	}
+}
+
+saka0030 = {
+	name="Gulai"
+	dynasty=1040057
+	religion="mahayana"
+	culture="saka"
+	father=saka0029
+	11000.1.1={
+		birth=yes
+	}
+	11060.1.1={
+		death=yes
+	}
+}
+
+####this is a fictional Saka dynasty, created for FP3 to adress the lack of Samanid vassals in Bactria. They're intended to represent the minority Pamir people who seemed to have ruled this area under the Samanids. 
+
+fictional_sakas_5 = {
+	name="Manohara"
+	dynasty= saka_pamirid
+	religion="maturidi"
+	culture="saka"
+	10848.1.1={
+		birth=yes
+	}
+	10910.1.1={
+		death=yes
+	}
+}
+
+fictional_sakas_8 = {
+	name="Haskadatta"
+	dynasty= saka_pamirid
+	religion="maturidi"
+	culture="saka"
+	father = fictional_sakas_5
+	10888.1.1={
+		birth=yes
+	}
+	10920.1.1={
+		culture = tajik
+	}
+	10940.1.1={
+		death=yes
+	}
+}
+
+fictional_sakas_9 = {
+	name="Huyi"
+	dynasty= saka_pamirid
+	religion="maturidi"
+	culture="tajik"
+	father = fictional_sakas_8
+	10913.1.1={
+		birth=yes
+	}
+	10960.1.1={
+		death=yes
+	}
+}
+
+fictional_sakas_10 = {
+	name="Samgaka"
+	dynasty= saka_pamirid
+	religion="maturidi"
+	culture="tajik"
+	father = fictional_sakas_9
+	10945.1.1={
+		birth=yes
+	}
+	11019.1.1={
+		death = yes
+	}
+}
+
+fictional_sakas_11 = {
+	name="Khina"
+	dynasty= saka_pamirid
+	religion="maturidi"
+	culture="tajik"
+	father = fictional_sakas_10
+	10980.1.1={
+		birth=yes
+	}
+	11023.3.9={
+		death = yes
+	}
+}
+
+fictional_sakas_12 = {
+	name="Gostana"
+	dynasty= saka_pamirid
+	religion="maturidi"
+	culture="tajik"
+	father = fictional_sakas_11
+	11010.1.1={
+		birth=yes
+	}
+	11040.1.1 = {
+		faith = ismaili
+	}
+	11056.5.22={
+		death = yes
+	}
+}
+
+fictional_sakas_13 = {
+	name="Bamdaka"
+	dynasty= saka_pamirid
+	religion="ismaili"
+	culture="tajik"
+	father = fictional_sakas_12
+	trait = spindly
+	11039.1.1={
+		birth=yes
+	}
+	11099.1.1={
+		death = yes
+	}
+}

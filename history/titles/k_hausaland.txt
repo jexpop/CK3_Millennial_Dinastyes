@@ -1,0 +1,613 @@
+k_hausaland = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 8 }
+}
+
+d_kano = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+
+	10865.1.1 = {
+		government = tribal_government
+		holder = 251180
+	}
+	10970.1.1 = {
+		holder = 0
+	}
+	10981.1.1 = {
+		holder = 251208
+	}
+	10999.1.1 = {
+		holder = 251209
+	}
+	11063.1.1 = {
+		holder = 251210
+	}
+	11095.1.1 = {
+		holder = 251211
+	}
+	11134.1.1 = {
+		holder = 251212
+	}
+	11136.1.1 = {
+		holder = 251213
+	}
+	11194.1.1 = {
+		holder = 251215
+	}
+	11247.1.1 = {
+		holder = 251216
+	}
+	11290.1.1 = {
+		holder = 251217
+	}
+	11307.1.1 = {
+		holder = 251218
+	}
+	11343.1.1 = {
+		holder = 251219
+	}
+	11349.1.1 = {
+		holder = 251220
+	}
+	11385.1.1 = {
+		holder = 251221
+	}
+	11390.1.1 = {
+		holder = 251222
+	}
+}
+
+c_kano = {
+	# c_kano
+	
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 11 }
+	11178.1.1 = { change_development_level = 34 }
+	
+	10860.1.1 = {
+		#holder = 251179
+	}
+	10865.1.1 = {
+		holder = 251180
+	}
+	
+	10910.1.1 = {
+		holder = 251181
+	}
+	10970.1.1 = {
+		liege = d_kano
+	}
+	10981.1.1 = {
+		holder = 251208
+	}
+	10999.1.1 = {
+		holder = 251209
+	}
+	11063.1.1 = {
+		holder = 251210
+	}
+	11095.1.1 = {
+		holder = 251211
+	}
+	11134.1.1 = {
+		holder = 251212
+	}
+	11136.1.1 = {
+		holder = 251213
+	}
+	11194.1.1 = {
+		holder = 251215
+	}
+	11247.1.1 = {
+		holder = 251216
+	}
+	11290.1.1 = {
+		holder = 251217
+	}
+	11307.1.1 = {
+		holder = 251218
+	}
+	11343.1.1 = {
+		holder = 251219
+	}
+	11349.1.1 = {
+		holder = 251220
+	}
+	11385.1.1 = {
+		holder = 251221
+	}
+	11390.1.1 = {
+		holder = 251222
+	}
+}
+
+
+c_daura = {
+	# c_daura
+	
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10863.1.1 = {
+		government = tribal_government
+		holder = 251187
+	}
+	10910.1.1 = {
+		holder = 251181
+	}
+	10981.1.1 = {
+		holder = 251189
+	}
+	11015.1.1 = {
+		holder = 251190
+	}
+	11034.1.1 = {
+		holder = 251192
+	}
+	11070.1.1 = {
+		holder = 251193
+	}
+	11109.1.1 = {
+		holder = 251194
+	}
+	11136.1.1 = {
+		holder = 251195
+	}
+	11170.1.1 = {
+		holder = 251196
+	}
+	11210.1.1 = {
+		holder = 251197
+	}
+	11246.1.1 = {
+		holder = 251198
+	}
+	11289.1.1 = {
+		holder = 251199
+	}
+	11310.1.1 = {
+		holder = 251200
+	}
+	11340.1.1 = {
+		holder = 251201
+	}
+}
+
+
+c_rano = {
+	10860.1.1 = {
+		#holder = 251179
+	}
+	10865.1.1 = {
+		holder = 251180
+	}
+	
+	10910.1.1 = {
+		holder = 251181
+	}
+	10970.1.1 = {
+		liege = d_kano
+	}
+	10981.1.1 = {
+		holder = 251208
+	}
+	10999.1.1 = {
+		holder = 251209
+	}
+	11063.1.1 = {
+		holder = 251210
+	}
+	11095.1.1 = {
+		holder = 251211
+	}
+	11134.1.1 = {
+		holder = 251212
+	}
+	11136.1.1 = {
+		holder = 251213
+	}
+	11194.1.1 = {
+		holder = 251215
+	}
+	11247.1.1 = {
+		holder = 251216
+	}
+	11290.1.1 = {
+		holder = 251217
+	}
+	11307.1.1 = {
+		holder = 251218
+	}
+	11343.1.1 = {
+		holder = 251219
+	}
+	11349.1.1 = {
+		holder = 251220
+	}
+	11385.1.1 = {
+		holder = 251221
+	}
+	11390.1.1 = {
+		holder = 251222
+	}
+}
+
+
+c_katsina = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10863.1.1 = {
+		government = tribal_government
+		holder = 251187
+	}	
+	10910.1.1 = {
+		holder = 251186
+	}
+	10940.1.1 = {
+		holder = 251188
+	}
+	10976.1.1 = {
+		holder = 251204
+	}
+	11015.1.1 = {
+		holder = 251182
+	}
+	11067.1.1 = {
+		holder = 251183
+	}
+	11109.1.1 = {
+		holder = 251205
+	}
+	11138.1.1 = {
+		holder = 251206
+	}
+	11183.1.1 = {
+		holder = 251207
+	}
+	11210.1.1 = {
+		holder = 251215
+	}
+	11247.1.1 = {
+		holder = 251216
+	}
+	11290.1.1 = {
+		holder = 251217
+	}
+	11307.1.1 = {
+		holder = 251218
+	}
+	11343.1.1 = {
+		holder = 251219
+	}
+	11349.1.1 = {
+		holder = 251220
+	}
+	11385.1.1 = {
+		holder = 251221
+	}
+	11390.1.1 = {
+		holder = 251222
+	}
+}
+
+
+c_zaria = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10860.1.1 = {
+		government = tribal_government
+		#holder = 251179
+	}
+	10865.1.1 = {
+		holder = 251180
+	}
+	
+	10910.1.1 = {
+		holder = 251186
+	}
+	10951.1.1 = {
+		holder = hausa0001
+	}
+	10986.1.1 = {
+		holder = hausa0002
+	}
+	11033.1.1 = {
+		holder = hausa0003
+	}
+	11059.1.1 = {
+		holder = hausa0004
+	}
+	11105.1.1 = {
+		holder = hausa0005
+	}
+	11120.1.1 = {
+		holder = hausa0006
+	}
+	11153.1.1 = {
+		holder = hausa0007
+	}
+	11194.1.1 = {
+		holder = hausa0008
+	}
+}
+
+
+c_kaduna = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10860.1.1 = {
+		#holder = 251179
+	}
+	10865.1.1 = {
+		holder = 251180
+	}
+	
+	10910.1.1 = {
+		holder = 251186
+	}
+	10951.1.1 = {
+		holder = hausa0001
+	}
+	10986.1.1 = {
+		holder = hausa0002
+	}
+	11033.1.1 = {
+		holder = hausa0003
+	}
+	11059.1.1 = {
+		holder = hausa0004
+	}
+	11105.1.1 = {
+		holder = hausa0005
+	}
+	11120.1.1 = {
+		holder = hausa0006
+	}
+	11153.1.1 = {
+		holder = hausa0007
+	}
+	11194.1.1 = {
+		holder = hausa0008
+	}
+}
+
+
+c_kebbi = {
+	10850.1.1 = {
+		government = tribal_government
+		holder = hausa0011
+	}
+	10870.1.1 = {
+		holder = hausa0012
+	}
+	10908.1.1 = {
+		holder = hausa0013
+	}
+	10933.1.1 = {
+		holder = hausa0009
+	}
+	10965.1.1 = {
+		holder = hausa0010
+	}
+	10976.1.1 = {
+		holder = hausa0014
+	}
+	10996.1.1 = {
+		holder = hausa0015
+	}
+	11038.1.1 = {
+		holder = hausa0016
+	}
+	11069.1.1 = {
+		holder = hausa0017
+	}
+	11099.1.1 = {
+		holder = hausa0018
+	}
+	11129.1.1 = {
+		holder = hausa0019
+	}
+	11168.1.1 = {
+		holder = hausa0020
+	}
+	11197.1.1 = {
+		holder = hausa0021
+	}
+	11215.1.1 = {
+		holder = hausa0022
+	}
+	11256.1.1 = {
+		holder = hausa0023
+	}
+	11276.1.1 = {
+		holder = hausa0024
+	}
+	11309.1.1 = {
+		holder = hausa0025
+	}
+}
+
+
+c_sokoto = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+
+	# c_sokoto AKA Zamfara
+	10850.1.1 = {
+		government = tribal_government
+		holder = hausa0011
+	}	
+	10910.1.1 = {
+		holder = 251223
+	}
+	10951.1.1 = {
+		holder = 251225
+	}
+	11010.1.1 = {
+		holder = 251226
+	}
+	11055.1.1 = {
+		holder = 251227
+	}
+	11096.1.1 = {
+		holder = 251228
+	}
+	11119.1.1 = {
+		holder = 251229
+	}
+	11153.1.1 = {
+		holder = 251230
+	}
+	11189.1.1 = {
+		holder = 251231
+	}
+	11216.1.1 = {
+		holder = 251236
+	}
+	11253.1.1 = {
+		holder = 251237
+	}
+	11292.1.1 = {
+		holder = 251249
+	}
+	11309.1.1 = {
+		holder = 251250
+	}
+}
+
+
+c_yauri = {
+	10860.1.1 = {
+		holder = nupe0056
+		government = tribal_government
+	}
+	10903.1.1 = {
+		holder = nupe0057
+	}
+	10955.1.1 = {
+		holder = nupe0058
+	}
+	10994.1.1 = {
+		holder = nupe0059
+	}
+	11035.1.1 = {
+		holder = nupe0060
+	}
+	11080.1.1 = {
+		holder = nupe0061
+	}
+	11120.1.1 = {
+		holder = nupe0062
+	}
+	11167.1.1 = {
+		holder = nupe0063
+	}
+	11198.1.1 = {
+		holder = nupe0064
+	}
+}
+
+
+c_gobir = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+	
+	10843.1.1 = {
+		government = tribal_government
+		holder = 251234
+	}
+	10866.1.1 = {
+		holder = 251235
+	}
+	
+	10910.1.1 = {
+		holder = 251223
+	}
+	10951.1.1 = {
+		holder = 251238
+	}
+	11011.1.1 = {
+		holder = 251239
+	}
+	11064.1.1 = {
+		holder = 251240
+	}
+	11090.1.1 = {
+		holder = 251241
+	}
+	11130.1.1 = {
+		holder = 251242
+	}
+	11159.1.1 = {
+		holder = 251243
+	}
+	11180.1.1 = {
+		holder = 251244
+	}
+	11213.1.1 = {
+		holder = 251245
+	}
+	11250.1.1 = {
+		holder = 251246
+	}
+	11289.1.1 = {
+		holder = 251247
+	}
+	11303.1.1 = {
+		holder = 251248
+	}
+	#1309 the Hausa of Gobir overthrown by Touaregs
+	#11309.1.1 = {
+	#	holder = 251248
+	#}
+}
+
+
+c_tahoua = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+	
+	10865.1.1 = {
+		government = tribal_government
+		holder = mossi0026
+	}
+	
+	11048.1.1 = {
+		holder = mossi0025
+	}
+	11089.1.1 = {
+		holder = mossi0024
+	}
+	11109.1.1 = {
+		holder = mossi0023
+	}
+	11149.1.1 = {
+		holder = mossi0022
+	}
+	11173.1.1 = {
+		holder = mossi0021
+	}
+	11212.1.1 = {
+		holder = mossi0020
+	}
+	11238.1.1 = {
+		holder = mossi0019
+	}
+	11264.1.1 = {
+		holder = mossi0018
+	}
+}
+

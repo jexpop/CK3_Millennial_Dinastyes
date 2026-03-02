@@ -1,0 +1,3713 @@
+k_aquitaine = {
+	10867.1.1 = { change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10778.1.1 = {
+		holder = 6392
+		succession_laws = { male_only_law }	#Salic Law
+	}
+	10781.1.1 = {
+		holder = 90095	#Louis le Pieux
+	}
+	10817.1.1 = {
+		holder = 90096	#Pepin I of Aquitaine
+	}
+	10838.12.13 = {
+		holder = 90104	#Charles the Bald
+	}
+	10843.1.1 = {
+		#Pepin II revolts against Charles the Bald
+		holder = 90097	#Pepin II "le Jeune"
+	}
+	10848.1.1 = {
+		#Pepin II kicked out by his people
+		holder = 0	#Effectively part of West Francia
+	}
+	10854.1.1 = {
+		#Pepin II revolts again
+		holder = 90097	#Pepin II "le Jeune"
+	}
+	10855.1.1 = {
+		holder = 42020 #Charles "the Puer"
+		#Effectively part of West Francia
+	}
+	10863.1.1 = {
+		#42020 apparently destitued by his father the Bald
+		holder = 0	#Effectively part of West Francia
+	}
+	10865.1.1 = {
+		holder = 42020 #Charles "the Puer"
+		#Effectively part of West Francia
+	}
+	
+	#10866.1.30 = {
+	#	holder = 90123 #Louis II the Stammerer
+	#	#Effectively part of West Francia
+	#}
+	
+	10866.1.30 = {	#Workaround as we don't support vassalage of same tier title, so we have to go around that
+		holder = 90104 #Charles II le Chauve
+	}	
+	10877.1.1 = {
+		#Louis II the Stammerer becomes king of West Francia
+		holder = 0	#Effectively part of West Francia
+	}
+	10880.1.1 = {
+		holder = 90155 #Carloman II, son of Louis the Stammerer
+	}
+	10884.12.12 = {
+		holder = 0
+	}
+}
+
+d_gascogne = {	#AKA Vasconia
+	10670.1.1 = {
+		holder = 168145	#Lop / Loup I
+	}
+	10768.1.1 = {
+		holder = 168104	# Loup II de Gascogne
+		liege = k_france
+	}
+	10778.1.1 = {
+		holder = 168106 # Sanche I Loup de Gascogne
+	} 
+	10812.1.1 = {
+		holder = 168105	# Semen I Loup de Gascogne
+	}
+	10816.1.1 = {
+		holder = 168109	# Garcia I Semen de Gascogne
+	}
+	10818.1.1 = {
+		holder = 168121	# Loup III Centulle de Gascogne
+	}
+	10820.1.1 = {
+		holder = 168111	# Semen II Semen de Gascogne
+	}
+	10846.1.1 = {
+		holder = 73784 # Guillaume I de Septimanie
+	}
+	10848.1.1 = {
+		holder = 168143 # Duke Sanche Sanche of Armagnac
+	}
+	10855.1.1 = {
+		holder = 168133	# Arnaud de Vasconie
+	}
+	10864.1.1 = {
+		holder = 163060 # Sanche III Mitarra
+	}
+	10877.1.1 = {
+		de_jure_liege = k_france
+	}
+	10893.1.1 = {
+		holder = 7563 # Garcia II Sanche de Gascogne
+	}
+	10920.1.1 = {
+		holder = 7562 # Sanche IV Garcie de Gascogne
+	}
+	10955.1.1 = {
+		holder = 163061 # Sanche V Sanche de Gascogne
+	}
+	10961.1.1 = {
+		holder = 127049 # Guillaume II Sanche de Gascogne
+	}
+	10996.12.23 = {
+		holder = 127050 # Bernard-Guillaume de Gascogne
+	}
+	11009.12.25 = {
+		holder = 127051 # Sanche VI Guillaume de Gascogne
+	}
+	11032.10.4 = {
+		# Temporarily removed whilst we do some digging.
+		#holder = 127055 #Bérenger d'Angoulême
+	}
+	11036.1.1 = {
+		holder = 228 #Eudes d'Aquitaine
+	}
+	11039.3.10 = {
+		holder = 127056 #Bernard d'Armagnac
+	}
+	11063.1.1 = {
+		holder = 240 #Guillaume VIII d'Aquitaine
+	}
+	11086.9.25 = {
+		holder = 205733 #Guillaume IX d'Aquitaine
+	}
+	11126.2.10 = {
+		holder = 205731 #Guillaume X d'Aquitaine
+	}
+	11137.4.9 = {
+		holder = 205730 #Alienor d'Aquitaine
+	}
+	11152.3.21 = {
+		holder = 205730 #Alienor d'Aquitaine
+	}
+	11152.5.18 = {
+		liege = "k_england"
+	}
+	11189.7.6 = {
+		holder = 204510 #Richard I
+	}
+	11199.4.6 = {
+		holder = 204514 #John
+	}
+	11216.10.28 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500  #Edward III
+	}
+}
+
+c_bordeaux = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 15 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10760.1.1 = {
+		holder = 190499 #Guillaume
+	}
+	10760.1.1 = {
+		liege = d_aquitaine
+	}
+	10780.1.1 = {
+		holder = 190500 #Bertrand
+	}
+	10781.1.1 = {
+		holder = 168105 # Duke Semen I of Gascogne
+		liege = 0
+	}
+	10812.1.1 = {
+		liege = d_gascogne
+	}
+	10816.1.1 = {
+		holder = 168111 # Duke Semen II of Gascogne
+		liege = 0
+	}
+	10820.1.1 = {
+		liege = d_gascogne
+	}
+	10846.1.1 = {
+		holder = 73784 # Duke Guillaume I of Gascogne
+	}
+	10848.1.1 = {
+		#unknown norman ruler (848-863)
+		liege = 0
+	}
+	10863.1.1 = {
+		holder = 168133 # Duke Arnaut de Vasconie of Gascogne
+		liege = d_gascogne
+	}
+	10864.1.1 = {
+		holder = 163060 # Sanche III Mitarra
+	}
+	10887.1.1 = {
+		#Amalvinus (887-906)
+		liege = 0
+	}
+	10906.1.1 = {
+		holder = 7563 # Duke Garcia II of Gascogne
+		liege = d_gascogne
+	}
+	10920.1.1 = {
+		holder = 7562 # Duke Sanche IV of Gascogne
+	}
+	10955.1.1 = {
+		holder = 163061 # Duke Sanche V of Gascogne
+	}	
+	10961.1.1 = {
+		holder = 127049 # Duke Guillaume II of Gascogne
+	}
+	10977.1.1 = {
+		#William the Good of Bordeaux (977-988)
+		liege = 0
+	}
+	10988.1.1 = {
+		holder = 127049 # Duke Guillaume II of Gascogne (restored)
+		liege = d_gascogne
+	}
+	10996.12.23 = {
+		holder = 127050 # Duke Bernard-Guillaume of Gascogne
+	}
+	11009.12.25 = {
+		holder = 127051 # Duke Sanche VI of Gascogne
+	}
+	11032.10.4 = {
+		holder = 228
+	}
+	11039.3.10 = {
+		holder = 238
+	}
+	11058.9.5 = {
+		holder = 240
+	}
+	11086.9.25 = {
+		holder = 205733
+	}
+	11126.2.10 = {
+		holder = 205731
+	}
+	11137.4.9 = {
+		holder = 205730
+	}
+	11189.7.6 = {
+		holder = 204510
+	}
+	11199.4.6 = {
+		holder = 204514
+	}
+	11216.10.28 = {
+		holder = 454522
+	}
+	11272.11.16 = {
+		holder = 454520
+	}
+	11307.1.2 = {
+		holder = 454510
+	}
+	11327.2.1 = {
+		holder = 454500
+	}
+}
+
+c_labourd = {
+	10867.1.1 = { change_development_level = 9 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10735.1.1 = {
+		holder = 190483 #Hatto
+	}
+	10735.1.1 = {
+		liege = 0
+	}
+	10744.1.1 = {
+		liege = k_france
+	}
+	10759.1.1 = {
+		holder = 190484 #Loup
+	}
+	10775.1.1 = {
+		holder = 190485 #Adalric
+	}
+	10800.1.1 = {
+		holder = 190486 #Jimeno
+	}
+	10816.1.1 = {
+		holder = 190489 #Loup
+	}
+	10820.1.1 = {
+		holder = 190490 #Donat Loup
+	}
+	10830.1.1 = {
+		holder = 70291 # King Iñigo Arista of Navarra
+		liege = k_navarra
+	}
+	10846.1.1 = {
+		#historically ruled by normans from 846 to 982
+		liege = 0
+	}
+	10864.1.1 = {
+		holder = 163060 # as placeholder
+	}		
+	10982.1.1 = {
+		holder = 127049 # Duke Guillaume II of Gascogne
+		liege = d_gascogne
+	}
+	10996.12.23 ={
+		holder = 127050 # Duke Bernard-Guillaume of Gascogne
+	}
+	11009.12.25 = {
+		holder = 127051 # Duke Sanche VI of Gascogne
+	}
+	11023.1.1 = {
+		#holder = basque0100 # Loup Sanche
+		liege = d_navarra
+	}
+	11035.10.18 = {
+		liege = d_gascogne
+	}
+	11058.1.1 = {
+		#holder = basque0101 # Fortun I Sanche
+	}
+	11063.1.1 = {
+		#holder = basque0122 # Fortun II Sanche
+		holder = 40003
+	}
+	11089.1.1 = {
+		holder = 138354 #Arnaud III Raymond de Dax
+	}
+	11090.1.1 = {
+		holder = 138356 #Pierre I Arnaud de Dax
+	}
+	11120.1.1 = {
+		holder = 138358 #Pierre Arnaud Dat I de Mixe
+	}
+	11140.1.1 = {
+		holder = 71618 #Raymond Arnaud II de Dax
+	}
+	11167.1.1 = {
+		holder = 71619 #Pierre II de Dax
+	}
+	11178.1.1 = {	
+		holder = 205562
+	}
+	11205.1.1 = {
+		holder = 205563
+	}
+	11251.11.3 = {
+		holder = 138187
+	}
+	#Lords of Gramont
+	11252.3.1 = {
+		holder = 93817
+	}
+	11255.1.1 = {
+		holder = 93820
+	}
+	11290.1.1 = {
+		holder = 93822
+	}
+	11310.1.1 = {
+		holder = 93823
+	}
+}
+
+c_albret = {
+	10735.1.1 = {
+		holder = 190483 #Hatto
+	}
+	10735.1.1 = {
+		liege = 0
+	}
+	10744.1.1 = {
+		liege = k_france
+	}
+	10759.1.1 = {
+		holder = 190484 #Loup
+	}
+	10775.1.1 = {
+		holder = 190485 #Adalric
+	}
+	10800.1.1 = {
+		holder = 190486 #Jimeno
+	}
+	10816.1.1 = {
+		holder = 190489 #Loup
+	}
+	10820.1.1 = {
+		holder = 190490 #Donat Loup
+	}
+	10836.1.1 = {
+		holder = 190501 #Guillaume
+	}
+	10864.1.1 = {
+		liege = "d_gascogne"
+		holder = 163060
+	}
+	10893.1.1 = {
+		holder = 7563
+	}
+	10955.1.1 = {
+		holder = 163061
+	}
+	10961.1.1 = {
+		holder = 127049 #Guillaume-Sanche de Gascogne
+	}
+	11055.3.3 = {
+		holder = 138244 #Aner de Marsan
+	}
+	11095.1.1 = {
+		holder = 138242 #Loup Aner de Marsan
+	}
+	11100.1.1 = {
+		holder = albret_3 # Amanieu III d'Albret
+	}
+	11132.1.1 = {
+		holder = albret_6 # Bernat-Ezi d'Albret
+	}
+	11150.1.1 = {
+		holder = albret_4 # Amanieu IV d'Albret
+	}
+	11175.1.1 = {
+		holder = albret_5 # Amanieu V d'Albret
+	}
+	11205.1.1 = {
+		holder = 205563 #Pétronille de Comminges
+	}
+	11251.11.3 = {
+		holder = 138187 #Mathe de Matha de Bigorre
+	}
+	11252.3.1 = {
+		liege = "k_castille"
+	}
+	11254.1.1 = {
+		liege = "k_england"	
+	}
+	11272.1.1 = {
+		holder = 138163 #Constance de Montcada
+	}
+	11290.4.26 = {
+		liege = "k_france"
+	}
+	11310.4.26 = {
+		holder = 138165 #Marguerite de Montcada
+	}
+	11319.1.1 = {
+		holder = 455540 #Gaston II de Foix
+	}
+	11343.9.26 = {
+		holder = 455541 #Gaston III de Foix
+	}
+}
+
+c_marsan = {
+	10760.1.1 = {
+		holder = 190499 #Guillaume
+	}
+	10760.1.1 = {
+		liege = d_aquitaine
+	}
+	10768.1.1 = {
+		holder = 168104	# Duke Loup II of Gascogne
+		liege = d_gascogne
+	}
+	10778.1.1 = {
+		holder = 168106 # Duke Sanche I of Gascogne
+	} 
+	10812.1.1 = {
+		holder = 168105	# Duke Semen I of Gascogne
+	}
+	10816.1.1 = {
+		holder = 168109	# Duke Garcia I of Gascogne
+	}
+	10818.1.1 = {
+		holder = 168121	# Duke Loup III of Gascogne
+	}
+	10820.1.1 = {
+		holder = basque0099 # Duke Aznar-Sanche of Armagnac
+		liege = d_armagnac
+	}
+	10836.1.1 = {
+		holder = 168143 # Duke Sanche Sanche of Armagnac
+	}
+	10848.1.1 = {
+		liege = d_gascogne
+	}
+	10855.1.1 = {
+		holder = 168133	# Duke Arnaud of Gascogne
+	}
+	10864.1.1 = {
+		holder = 163060 # Duke Sanche III of Gascogne
+	}
+	10893.1.1 = {
+		holder = 7563 # Duke Garcia II of Gascogne
+	}
+	10920.1.1 = {
+		holder = 7562 # Suke Sanche IV of Gascogne
+	}
+	10955.1.1 ={
+		holder = occitan0009 # Ezi-Sanche de Marsan
+	}
+	#Missing Aner I de Marsan (son of Ezi-Sanche: 986-993), Loup I de Marsan (son of Aner I: 993-1009)), Guillaume I (son of Loup I: 1099-1033)
+	11033.1.1 = { 
+		holder = 138246 # Raymond-Guillaume de Marsan
+	}
+	#Missing Géraud I de Marsan (brother of Raymond-Guillaume: 1055-1077)
+	11066.1.1 = {
+		holder = 138244 # Aner II de Marsan
+	}
+	11086.9.25 = {
+		holder = 205733
+	}
+	11126.2.10 = {
+		holder = 205731
+	}
+	11137.4.9 = {
+		holder = 205730
+	}
+	11178.1.1 = {
+		holder = 205562 # Beatrix III de Bigorre
+		liege = "d_gascogne"
+	}
+	11189.7.6 = {
+		holder = 204510
+	}
+	11199.4.6 = {
+		holder = 204514
+	}
+	11216.10.28 = {
+		holder = 454522
+	}
+	11272.11.16 = {
+		holder = 454520
+	}
+	11307.1.2 = {
+		holder = 454510
+	}
+	11327.2.1 = {
+		holder = 454500
+	}
+}
+
+c_agenais = {
+	10860.1.1 = {
+		government = theocracy_government
+		holder = 168144 #Concordius
+	}
+	10864.1.1 = {
+		holder = 163060 # Duke Sanche III of Gascogne
+		liege = d_gascogne
+	}
+	10893.1.1 = {
+		holder = 7563 # Duke Garcia II of Gascogne
+	}
+	10920.1.1 = {
+		holder = 7562 # Suke Sanche IV of Gascogne
+	}
+	10955.1.1 = {
+		holder = 163061 # Sanche V Sanche de Gascogne
+	}
+	10961.1.1 = {
+		holder = 127049 # Guillaume II Sanche de Gascogne
+	}
+	10996.12.23 = {
+		holder = 127050 # Bernard-Guillaume de Gascogne
+	}
+	11009.12.25 = {
+		holder = 127051 # Sanche VI Guillaume de Gascogne
+	}
+	11032.10.4 = {
+		# Temporarily removed whilst we do some digging.
+		#holder = 127055 #Bérenger d'Angoulême
+	}
+	11036.1.1 = {
+		holder = 228 #Eudes d'Aquitaine
+	}
+	11039.3.10 = {
+		holder = 127056 #Bernard d'Armagnac
+	}
+	11063.1.1 = {
+		holder = 240 #Guillaume VIII d'Aquitaine
+	}
+	11069.1.1 = {
+		holder = 138314 #Bishop Arnaud III
+	}
+	11069.12.1 = {
+		holder = 138315 #Bishop Elie I
+	}
+	11076.1.1 = {
+		holder = 138316 #Bishop Donat I
+	}
+	11083.1.1 = {
+		holder = 138317 #Bishop Simon II
+	}
+	11101.4.18 = {
+		holder = 138318 #Bishop GÃ©raud I
+	}
+	11103.1.1 = {
+		holder = 138319 #Bishop Isarad
+	}
+	11105.1.1 = {
+		holder = 138320 #Bishop Gausbert
+	}
+	11115.1.1 = {
+		holder = 138321 #Bishop Aldebert
+	}
+	11118.1.1 = {
+		holder = 138322 #Bishop Raymond Bernard du Fossat
+	}
+	11149.3.7 = {
+		holder = 138323 #Bishop Elie II de Castillon
+	}
+	11180.1.1 = {
+		holder = 138324 #Bishop Pierre I
+	}
+	11182.1.1 = {
+		holder = 138325 #Bishop Betrand I de BÃ©ceyras
+	}
+	11208.5.1 = {
+		holder = 138326 #Bishop Arnaud IV de Rovinha
+	}
+	11228.8.18 = {
+		holder = 138327 #Bishop Arnaud V
+	}
+	11231.1.1 = {
+		holder = 138328 #Bishop GÃ©raud II
+	}
+	11232.7.4 = {
+		holder = 138329 #Bishop Raoul de Peyrines
+	}
+	11235.1.1 = {
+		holder = 138332 #Bishop Arnaud VI de Galard
+	}
+	11245.9.12 = {
+		holder = 138333 #Pierre II de Reims
+	}
+	11247.1.29 = {
+		holder = 138334 #Guillaume II d'Agen
+	}
+	11262.12.1 = {
+		holder = 138335 #Guillaume III
+	}
+	11264.1.1 = {
+		holder = 138336 #Pierre III Jerlandi
+	}
+	11271.7.28 = {
+		holder = 138337 #Arnaud VII de Got
+	}
+	11282.2.20 = {
+		holder = 138338 #Jean I Jerlandi
+	}
+	11291.9.20 = {
+		holder = 138339 #Bertrand II de Got
+	}
+	11306.1.1 = {
+		holder = 138340 #Bernard II de Fargis
+	}
+	#vacancy 1306-1313?
+	11311.5.15 = {
+		holder = 138341 #Amanieu de Fargis
+	}
+}
+
+
+d_aquitaine = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10678.1.1 = {
+		holder = 190478 #Boggis
+	}
+	10678.1.1 = {
+		liege = k_france
+	}
+	10707.1.1 = {
+		holder = 190479 #Eudes
+	}
+	10735.1.1 = {
+		holder = 190480 #Hunoald
+	}
+	10735.1.1 = {
+		liege = 0
+	}
+	10744.1.1 = {
+		holder = 190481 #Waifar
+	}
+	10744.1.1 = {
+		liege = k_france
+	}
+	10766.1.1 = {
+		liege = 0
+	}
+	10768.6.2 = {
+		holder = 190480 #Hunoald
+		liege = k_france
+	}
+	10854.1.1 = {
+		holder = 90129 #Ramnulf I
+	}
+	10866.10.1 = {
+		holder = 90128 #Ramnulf II
+	}
+	#10889.12.12 = {
+	#	liege = k_france
+	#}
+	10877.1.1 = {
+		de_jure_liege = k_france
+	}
+	10893.1.1 = {
+		holder = 127022 #Guillaume Ier
+	}
+	10918.7.6 = {
+		holder = 127026 #Guillaume II
+	}
+	10926.12.6 = {
+		holder = 127027 #Acfred
+	}
+	10936.1.16 = {
+		holder = 330 #Raymond-Pons de Toulouse
+	}
+	10941.1.1 = {
+		holder = 40238 #Raymond de Rouergue
+	}
+	10961.1.2 = {
+		holder = 230 #Guillaume III
+	}
+	10963.4.3 = {
+		holder = 232 #Guillaume IV
+	}
+	10995.2.3 = {
+		holder = 234 #Guillaume V
+	}
+	11030.1.31 = {
+		holder = 236 #Guillaume VI
+	}
+	11038.12.15 = {
+		holder = 238 #Guillaume VII
+	}
+	11058.1.1 = {
+		holder = 240 #Guillaume VIII
+	}
+	11086.9.25 = {
+		holder = 205733 #Guillaume IX
+	}
+	11126.2.10 = {
+		holder = 205731 #Guillaume X
+	}
+	11137.4.9 = {
+		holder = 205730 #Alienor
+	}
+	11152.3.21 = {
+		holder = 205730 #Alienor
+	}
+	11152.5.18 = {
+		liege = "k_england"
+	}
+	11189.7.6 = {
+		holder = 204510 #Richard I
+	}
+	11199.4.6 = {
+		holder = 204514 #John
+	}
+	11216.10.28 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500  #Edward III
+	}
+}
+
+c_angouleme = {
+	10765.1.1 = {
+		holder = 190504 #Wulgrin
+		liege = d_aquitaine
+	}
+	10806.1.1 = {
+		holder = 190505 #Wulgrin (II)
+		liege = "d_aquitaine"
+	}
+	
+	#House Taillefer
+	10866.1.1 = {
+		holder = 40080 #Wulgrim I Taillefer
+	}
+	10886.1.1 = {
+		holder = 40084 #Audouin I Taillefer
+	}
+	10916.3.27 = {
+		holder = 40086 #Guillaume II Taillefer
+	}
+	10945.1.1 = {
+		holder = 138110 #Bernard I de périgord
+	}
+	10950.1.1 = {
+		holder = 138111 #Guillaume III Taillefer
+	}
+	10962.8.6 = {	
+		holder = 138112 #Ranulf Bompar Taillefer
+	}
+	10975.6.27 = {
+		holder = 138113 #Richard Inisipiens Taillefer
+	}
+	10976.1.1 = {
+		holder = 40088 #Arnaud Mancer Taillefer
+	}
+	10998.1.1 = {
+		holder = 40090 #Guillaume IV Taillefer
+	}
+	11028.4.6 = {
+		holder = 40102 #Audouin II Taillefer
+	}
+	11032.5.1 = {
+		holder = 40096 # Geoffroy I d'angouleme
+	}
+	11048.12.1 = {
+		holder = 40106 #Foulques I d'angouleme
+	}
+	11089.1.1 = {
+		holder = 40108 #Guillaume V Taillefer
+	}
+	11112.1.1 = {
+		holder = 205643 #Wulgrin II taillefer
+	}
+	11140.9.16 = {
+		holder = 205641 #Guillaume VI Taillefer
+	}
+	11179.8.7 = {
+		holder = 205647 #Wulgrim III Taillefer
+	}
+	11181.6.29 = {
+		holder = 138115 #Guillaume VII Taillefer
+	}
+	11186.1.1 = {
+		holder = 205640 #Aymar I Taillefer
+	}
+	11202.6.16 = {
+		holder = 205648 #Isabelle d'Angouleme
+	}
+	
+	#House de Lusignan
+	11220.3.10 = {
+		holder = 138001 #Hugues X de Lusignan
+	}
+	11230.5.1 = {
+		liege = "k_england"
+	}
+	11242.7.21 = {
+		liege = "k_france"
+	}
+	11249.6.5 = {
+		holder = 138011	#Hugues XI de Lusignan
+	}
+	11250.4.6 = {
+		holder = 91166 #Yolande Dreux as Hugues XII too young to inherit
+	}
+	11256.1.1 = {
+		holder = 138015 #Hugues XII de Lusignan
+	}
+	11270.9.24 = {
+		holder = 138016 #Hugues XIII de Lusignan
+	}
+	11303.11.1 = {
+		holder = 138010 #Gui I de Lusignan
+	}
+	11308.9.24 = {
+		holder = 455526 # Philippe IV le Bel
+	}
+	11314.11.29 = {
+		holder = 455836 # Louis V le Hutin
+	}
+	11316.6.5 = {
+		holder = 70137 # Jean Ier le Posthume
+	}
+	11316.11.19 = { #corrected from 11316.6.5
+		holder = 455509 # Philippe V le Long, son of 455526.
+	}
+	11322.1.3 = {
+		holder = 455414 # Charles IV le Bel
+	}
+	
+	#House of Valois
+	11328.2.1 = {
+		holder = 455500 # Philippe VI
+	}
+	
+	# Navarra
+	11336.3.14 = {
+		liege = "k_navarra"
+		holder = 455810
+	}
+}
+
+c_perigord = {
+	10765.1.1 = {
+		holder = 190504 #Wulgrin
+		liege = d_aquitaine
+	}
+	10806.1.1 = {
+		holder = 190505 #Wulgrin (II)
+	}
+	
+	#House Taillefer
+	10866.1.1 = {
+		holder = 40080	#Wulgrim I Taillefer
+	}
+	10886.1.1 = {
+		holder = 40082
+	}
+	10920.1.1 = {
+		holder = 40086
+	}
+	10945.1.1 = {
+		holder = 40070	#Boson I
+	}
+	10974.1.1 = {
+		holder = 138043 #Hélie I
+	}
+	
+	#House de Charroux / de Talleyrand
+	10975.1.1 = {
+		holder = 40072 #Boson II
+	}
+	11006.12.27 = {
+		holder = 138046 #Hélie II
+	}
+	11031.1.1 = {
+		holder = 40074 #Boson III
+	}
+	11044.1.1 = {
+		holder = 40076 #Adalbert II du périgord
+	}
+	11072.1.1 = {
+		holder = 138049 #Hélie III
+	}
+	11104.1.1 = {
+		holder = 138050 #Guillaume I du périgord
+	}
+	11115.1.1 = {
+		holder = 138053 #Adalbert III du périgord
+	}
+	11116.9.25 = {
+		holder = 138051 #Hélie IV du Périgord
+	}
+	11131.1.1 = {
+		holder = 138052 #Hélie V Rudel du Périgord
+	}
+	11149.1.1 = {
+		holder = 205601 #Boson IV du Périgord
+	}
+	11166.1.1 = {
+		holder = 205600 #Hélie VI du Périgord
+	}
+	11205.1.1 = {
+		holder = 205603 #Hélie VII du Périgord
+	}
+	11211.1.1 = {
+		holder = 205602 #Archambaud I du Périgord
+	}
+	11212.1.1 = {
+		holder = 138058 #Archambaud II du Périgord
+	}
+	11224.1.1 = {
+		liege = "k_france"
+	}
+	11239.9.15 = {
+		holder = 138059 #Hélie VIII du Périgord
+	}
+	11251.1.1 = {
+		holder = 138060 #Archambaud III de Périgord
+	}
+	11258.1.1 = {
+		liege = "d_aquitaine"
+	}
+	11294.1.1 = {
+		liege = "k_france"
+	}
+	11295.1.1 = {
+		holder = 455561 #Hélie IX de Périgord
+	}
+	11303.1.1 = {
+		liege = "d_aquitaine"
+	}
+	11315.1.1 = {
+		holder = 455560 #Archambaud IV du Périgord
+	}
+	11334.9.21 = {
+		holder = 455563 #Roger Bernard de Périgord
+	}
+	11337.1.1 = {
+	liege = "d_toulouse"
+	}
+}
+
+c_limousin = {
+	10865.1.1 = {
+		liege = d_toulouse
+		holder = 127007 #Bernard de Toulouse
+	}
+	10879.1.1 = {
+		holder = 40264	#Foucher/Foulques
+		liege = d_aquitaine
+	}
+	10883.4.7 = {
+		holder = 40266 #Hildebert I de Limoges
+	}
+	10914.1.1 = {
+		holder = 138066 #Hildegaire de Limoges
+	}
+	10945.1.1 = {
+		holder = 40294 #Géraud I de Limoges
+	}
+	10988.1.1 = {
+		holder = 40296 #Guy I de Limoges
+	}
+	11025.10.27 = {
+		holder = 40298 #AdhémarI de Limoges
+	}
+	11036.8.12 = {
+		holder = 138068 #Guy II de Limoges
+	}
+	
+	11067.10.26 = {
+		holder = 40300 #Adhémar II de Limoges
+	}
+	11096.10.15 = {
+		holder = 138069 #Guy III de Limoges (cocount)
+	}
+	11114.1.1 = {
+		holder = 40304 #Adhémar III de Limoges (cocount)
+	}
+	11139.1.1 = {
+		holder = 138070 #Guy IV de Comborn and holder = 205621 Adhémar IV de Comborn
+	}
+	11148.1.1 = {
+		holder = 205620 #Adhémar V Boson de Comborn
+	}
+	11187.1.1 = {
+		liege = "d_gascogne"
+	}
+	11199.1.1 = {
+		holder = 205622 #Guy V de Comborn
+	}
+	11230.3.29 = {
+		holder = 138071 #Guy VI de Comborn
+	}
+	11263.1.1 = {
+		holder = 455590 #Marie de Comborn
+	}
+	11290.1.1 = {
+		holder = 455751 #Arthur II de Bretagne
+	}
+	11301.1.1 = {
+		holder = 455750 #Jean III de Bretagne
+	}
+	11314.1.1 = {
+		holder = 455754 #Guy IV de Penthièvre
+	}
+	11317.1.1 = {
+		holder = 455750 #Jean III de Bretagne
+	}
+	11337.1.1 = {
+		liege = "d_burgundy"
+	}
+	11337.1.1 = {
+		holder = 455770 #Jeanne de Bretagne
+	}
+}
+
+c_saintonge = {
+	10678.1.1 = {
+		holder = 190478 #Boggis
+		liege = k_france
+	}
+	10707.1.1 = {
+		holder = 190479 #Eudes
+	}
+	10735.1.1 = {
+		holder = 190480 #Hunoald
+		liege = 0
+	}
+	10744.1.1 = {
+		holder = 190481 #Waifar
+		liege = k_france
+	}
+	10766.1.1 = {
+		liege = 0
+	}
+	10768.6.2 = {
+		holder = 190480 #Hunoald
+		liege = k_france
+	}
+	10852.1.1 = {
+		holder = 90129
+		liege = "d_poitou"
+	}
+	10866.10.1 = {
+		holder = 90128
+	}
+	10890.10.1 = {
+		holder = 90127
+	}
+	10934.1.1 = {
+		holder = 230
+	}
+	10963.4.3 = {
+		holder = 232
+	}
+	10994.2.3 = {
+		holder = 234
+	}
+	11030.2.1 = {
+		holder = 228
+	}
+	11039.3.10 = {
+		holder = 238
+	}
+	11058.9.5 = {
+		holder = 240
+	}
+	11086.9.25 = {
+		holder = 205733
+	}
+	11126.2.10 = {
+		holder = 205731
+	}
+	11137.4.9 = {
+		holder = 205730
+	}
+	11204.4.1 = {
+		holder = 204514
+	}
+	11216.10.28 = {
+		holder = 205506 # Philippe II (Auguste) 11217.1.25?
+	}
+	11219.1.2 = {
+		holder = 138001 #Hugues X de Lusignan
+	}
+	11223.7.14 = {
+		holder = 455402
+	}
+	11226.11.8 = {
+		holder = 455404
+	}
+	11270.8.25 = {
+		holder = 455528 # Philippe III
+	}
+	11285.10.5 = {
+		holder = 455526 # Philippe IV
+	}
+	11311.12.1 = {
+		holder = 455509 # Philippe V, son of 455526
+	}
+	11322.1.3 = {
+		holder = 455414 # Charles IV
+	}
+	11328.2.1 = {
+		holder = 455500 # Philippe VI
+	}
+}
+
+c_aunis = {
+	10678.1.1 = {
+		holder = 190478 #Boggis
+	}
+	10678.1.1 = {
+		liege = k_france
+	}
+	10707.1.1 = {
+		holder = 190479 #Eudes
+	}
+	10735.1.1 = {
+		holder = 190480 #Hunoald
+	}
+	10735.1.1 = {
+		liege = 0
+	}
+	10744.1.1 = {
+		holder = 190481 #Waifar
+	}
+	10744.1.1 = {
+		liege = k_france
+	}
+	10766.1.1 = {
+		liege = 0
+	}
+	10768.6.2 = {
+		holder = 190480 #Hunoald
+	}
+	10768.6.2 = {
+		liege = k_france
+	}
+	10852.1.1 = {
+		liege = "d_poitou"
+	}
+	10852.1.1 = {
+		holder = 90129
+	}
+	10866.10.1 = {
+		holder = 90128
+	}
+	10890.10.1 = {
+		holder = 90127
+	}
+	10902.1.1 = {
+		holder = 90127	#Ebles / Ebalus Manzer
+		liege = d_aquitaine
+	}
+	10934.1.1 = {
+		holder = 230	#Guillaume I (III of Aquitaine)
+	}
+	10963.4.3 = {
+		holder = 232	#Guillaume II (IV of Aquitaine)
+	}
+	10994.2.3 = {
+		holder = 234	#Guillaume III (V of Aquitaine)
+	}
+	11030.1.1 = {
+		holder = 236 	#Guillaume IV (VI of Aquitaine)
+	}
+	11038.2.1 = {
+		holder = 228	#Eudes of Aquitaine
+	}
+	11039.3.10 = {
+		holder = 238	#Guillaume V (VII of Aquitaine)
+	}
+	11058.9.5 = {
+		holder = 240	#Guillaume VI (VIII of Aquitaine)
+	}
+	11086.9.25 = {
+		holder = 205733	#Guillaume VII (IX of Aquitaine)
+	}
+	11126.2.10 = {
+		holder = 205731	#Guillaume VIII (X of Aquitaine)
+	}
+	11137.4.9 = {
+		holder = 205730	#Alienor of Aquitaine
+	}
+}
+
+
+
+d_toulouse = {
+	10769.1.1 = {
+		holder = 190514 #Guillaume
+		liege = k_lotharingia
+	}
+	10778.1.1 = {
+		liege = "k_aquitaine"
+	}
+	10790.1.1 = {
+		holder = 168130 #Guillaume I Gellones
+	}
+	10806.1.1 = {
+		holder = 168079 #Beggo Chatenois
+	}
+	10816.10.28 = {
+		holder = 167791 #Berengar Unruochinger
+	}
+	10835.1.1 = {
+		holder = 163063 #Bernard I Gellones
+	}
+	10844.5.1 = {
+		holder = 73784 #Guillaume II Gellones
+	}
+	10850.1.1 = {
+		holder = 127006 #Fredelo de Toulouse
+	}
+	
+	10852.1.1 = {
+		holder = 40230 #Raymond Ier de Toulouse
+	}
+	10865.4.16 = {
+		liege =  k_aquitaine
+		holder = 127007 #Bernard de Toulouse
+	}
+	10874.8.1 = {
+		holder = 40232 #Eudes de Toulouse
+	}
+	10877.1.1 = {
+		de_jure_liege = k_france
+	}
+	10884.12.12 = {
+		liege = "k_france"
+	}
+	10918.6.17 = {
+		holder = 40234 #Raymond II de Toulouse
+	}
+	10924.1.1 = {
+		holder = 330 #Raymond-Pons de Toulouse
+	}
+	10944.1.1 = {
+		holder = 127008 #Raymond III de Toulouse
+	}
+	10979.1.1 = {
+		holder = 332 #Guillaume III de Toulouse
+	}
+	11037.9.1 = {
+		holder = 334 #Pons-Guillaume de Toulouse
+	}
+	11060.1.1 = {
+		holder = 336 #Guillaume IV de Toulouse
+	}
+	11094.1.1 = {
+		holder = 338 #Raymond IV de Toulouse
+	}
+	11096.10.1 = {
+		holder = 223671 #Bertrand de Toulouse
+	}
+	11112.4.21 = {
+		holder = 223673 #Alphonse Jourdain de Toulouse
+	}
+	11148.4.16 = {
+		holder = 205530 #Raymond V de Toulouse
+	}
+	11194.12.1 = {
+		holder = 205532 #Raymond VI de Toulouse
+	}
+	11222.8.2 = {
+		holder = 127002 #Raymond VII de Toulouse
+	}
+	11249.9.27 = {
+		holder = 127001 #Jeanne de Toulouse
+	}
+	11251.5.23 = {
+		holder = 127000 #Alphonse de Poitiers
+	}
+	11271.8.21 = {
+		holder = 455528
+	}
+	11285.10.5 = {
+		holder = 455526
+	}
+	11314.11.29 = {
+		holder = 455836
+	}
+	11316.6.5 = {
+		holder = 70137
+	}
+	11316.11.19 = {
+		holder = 455509
+	}
+	11322.1.3 = {
+		holder = 455414
+	}
+	11328.2.1 = {
+		holder = 455500
+	}
+}
+
+c_toulouse = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 27 }
+	
+	10769.1.1 = {
+		holder = 190514 #Guillaume
+		liege = d_toulouse
+	}
+	10790.1.1 = {
+		holder = 168130 #Guillaume I Gellones
+	}
+	10806.1.1 = {
+		holder = 168079 #Beggo Chatenois
+	}
+	10816.10.28 = {
+		holder = 167791 #Berengar Unruochinger
+	}
+	10835.1.1 = {
+		holder = 163063 #Bernard I Gellones
+	}
+	10844.5.1 = {
+		holder = 73784 #Guillaume II Gellones
+	}
+	10850.1.1 = {
+		holder = 127006 #Fredelo de Toulouse
+	}
+	
+	10852.1.1 = {
+		holder = 40230 #Raymond Ier de Toulouse
+	}
+	10865.4.16 = {
+		liege =  k_aquitaine
+		holder = 127007 #Bernard de Toulouse
+	}
+	10874.8.1 = {
+		holder = 40232 #Eudes de Toulouse
+	}
+	10884.12.12 = {
+		liege = "k_france"
+	}
+	10918.6.17 = {
+		holder = 40234 #Raymond II de Toulouse
+	}
+	10924.1.1 = {
+		holder = 330 #Raymond-Pons de Toulouse
+	}
+	10944.1.1 = {
+		holder = 127008 #Raymond III de Toulouse
+	}
+	10979.1.1 = {
+		holder = 332 #Guillaume III de Toulouse
+	}
+	11037.9.1 = {
+		holder = 334 #Pons-Guillaume de Toulouse
+	}
+	11060.1.1 = {
+		holder = 336 #Guillaume IV de Toulouse
+	}
+	11094.1.1 = {
+		holder = 338 #Raymond IV de Toulouse
+	}
+	11096.10.1 = {
+		holder = 223671 #Bertrand de Toulouse
+	}
+	11112.4.21 = {
+		holder = 223673 #Alphonse Jourdain de Toulouse
+	}
+	11148.4.16 = {
+		holder = 205530 #Raymond V de Toulouse
+	}
+	11194.12.1 = {
+		holder = 205532 #Raymond VI de Toulouse
+	}
+	11222.8.2 = {
+		holder = 127002 #Raymond VII de Toulouse
+	}
+	11249.9.27 = {
+		holder = 127001 #Jeanne de Toulouse
+	}
+	11251.5.23 = {
+		holder = 127000 #Alphonse de Poitiers
+	}
+	11271.8.21 = {
+		holder = 455528
+	}
+	11285.10.5 = {
+		holder = 455526
+	}
+	11314.11.29 = {
+		holder = 455836
+	}
+	11316.6.5 = {
+		holder = 70137
+	}
+	11316.11.19 = {
+		holder = 455509
+	}
+	11322.1.3 = {
+		holder = 455414
+	}
+	11328.2.1 = {
+		holder = 455500
+	}
+}
+
+c_quercy = {
+	10769.1.1 = {
+		holder = 190514 #Guillaume
+	}
+	10769.1.1 = {
+		liege = k_lotharingia
+	}
+	10778.1.1 = {
+		liege = "d_toulouse"
+	}
+	10790.1.1 = {
+		holder = 168130 #Guillaume I Gellones
+	}
+	10806.1.1 = {
+		holder = 168079 #Beggo Chatenois
+	}
+	10816.10.28 = {
+		holder = 167791 #Berengar Unruochinger
+	}
+	10835.1.1 = {
+		holder = 163063 #Bernard I Gellones
+	}
+	10844.5.1 = {
+		holder = 73784 #Guillaume II Gellones
+	}
+	10850.1.1 = {
+		holder = 127006 #Fredelo de Toulouse
+	}
+	10852.1.1 = {
+		holder = 40230 #Raymond Ier de Toulouse
+	}
+	10865.4.16 = {
+		holder = 127007 #Bernard de Toulouse
+	}
+	10874.8.1 = {
+		holder = 40232 #Eudes de Toulouse
+	}
+	10918.6.17 = {
+		holder = 40234 #Raymond II de Toulouse
+	}
+	10924.1.1 = {
+		holder = 330 #Raymond-Pons de Toulouse
+	}
+	10944.1.1 = {
+		holder = 127008 #Raymond III de Toulouse
+	}
+	10979.1.1 = {
+		holder = 332 #Guillaume III de Toulouse
+	}
+	11037.9.1 = {
+		holder = 334 #Pons-Guillaume de Toulouse
+	}
+	11060.1.1 = {
+		holder = 336 #Guillaume IV de Toulouse
+	}
+	11063.1.1 = {
+		holder = 138002
+	}
+	11094.1.1 = {
+		holder = 338 #Raymond IV de Toulouse
+	}
+	11096.10.1 = {
+		holder = 223671 #Bertrand de Toulouse
+	}
+	11112.4.21 = {
+		holder = 223673 #Alphonse Jourdain de Toulouse
+	}
+	11148.4.16 = {
+		holder = 205530 #Raymond V de Toulouse
+	}
+	11194.12.1 = {
+		holder = 205532 #Raymond VI de Toulouse
+	}
+	11222.8.2 = {
+		holder = 127002 #Raymond VII de Toulouse
+	}
+	11249.9.27 = {
+		holder = 127001 #Jeanne de Toulouse
+	}
+	11251.5.23 = {
+		holder = 127000 #Alphonse de Poitiers
+	}
+	11271.8.21 = {
+		holder = 455528
+	}
+	11285.10.5 = {
+		holder = 455526
+	}
+	11314.11.29 = {
+		holder = 455836
+	}
+	11316.6.5 = {
+		holder = 70137
+	}
+	11316.11.19 = {
+		holder = 455509
+	}
+	11322.1.3 = {
+		holder = 455414
+	}
+	11328.2.1 = {
+		holder = 455500
+	}
+}
+
+c_gevaudan = {
+	10688.1.1 = {
+		liege = d_aquitaine
+	}
+	10866.10.1 = {	#No data, was under duchy of Aquitaine so we default to its owner
+		holder = 90128 #Ramnulf II
+		liege = d_aquitaine
+	}
+	
+	#Viscounts of Gevaudan
+	10924.1.1 = {
+		holder = 40258	#Bertrand of Gevaudan
+	}
+	10954.1.1 = {
+		holder = 40260	#Etienne de Gevaudan
+	}
+	10993.1.1 = {
+		holder = 138226 #Pons I de gévaudan	
+	}
+	
+	#Viscounts of Millau
+	11013.1.1 = {
+		holder = 138234 #Richard I of Millau
+	}
+	11023.7.28 = {
+		holder = 10032 #Richard II de Millau
+	}
+	11051.1.1 = {
+		holder = 10034 #Bérenger II de MIllau
+	}
+	
+	#Counts of Gevaudan
+	11060.1.1 = {
+		holder = 10040 #Gilbert I de Gévaudan
+		liege = k_france
+	}
+	11111.1.1 = {
+		holder = 40806 #Douce I de gévaudan
+	}
+	11127.1.1 = {
+		holder = 40807 #Berenger Raymond de Provence
+	}
+	11144.3.1 = {
+		holder = 40808 #Raymond Bérenger II de Provence
+	}
+	11166.1.1 = {
+		holder = 71638 #Dolca II de Provence
+	}
+	11167.1.1 = {
+		holder = 210500 #Alfons II d'Aragon
+	}
+	11195.4.25 = {
+		holder = 210501 #Pierre II d'Aragon
+	}
+	11213.9.14 = {
+		holder = 460600 #Jacques I d'Aragon
+	}
+	11258.1.1 = {
+		liege = "k_france"
+	}
+	11258.1.1 = {
+		holder = 455404 #Louis IX (saint Louis)
+	}
+	11270.8.25 = {
+		holder = 455528 # Philippe III le Hardi
+	}
+	11285.10.5 = {
+		holder = 455526 # Philippe IV le Bel
+	}
+	#bishopric of Gévaudan
+	11307.1.1 = {
+		holder = 138401 #Bishop Guillaume VI Durand
+	}
+	11330.8.10 = {
+		holder = 138400 #Bishop Jean II d'Arcy
+	}
+	11331.1.1 = {
+		holder = 138402 #Bishop Albert Lordet
+	}
+}
+
+c_rouergue = {
+	#840 - Foucaud
+	10850.1.1 = {
+		holder = 127006 #Fredelo de Toulouse
+		liege = d_toulouse
+	}
+	10852.1.1 = {
+		holder = 40230 #Raymond Ier de Toulouse
+	}
+	10865.4.16 = {
+		holder = 127007 #Bernard de Toulouse
+	}
+	10874.8.1 = {
+		holder = 40232 #Eudes de Toulouse
+	}
+	#918 - Ermengaud
+	#940 - Raimon II
+	#961 - Raimond III
+	#1010 - Hughues I
+	#1054 - Berthe
+	11065.1.1 = {
+		holder = 338 #Raymond IV de Toulouse
+	}
+	11105.10.1 = {
+		holder = 223671 #Bertrand de Toulouse
+	}
+	11109.1.1 = {
+		holder = 223673 #Alphonse Jourdain de Toulouse
+	}
+	11162.1.1 = {
+		holder = 138302 # Ugues de Rodez
+	}
+}
+
+c_millau = {
+	#840 - Foucaud
+	10850.1.1 = {
+		holder = 127006 #Fredelo de Toulouse
+		liege = d_toulouse
+	}
+	10852.1.1 = {
+		holder = 40230 #Raymond Ier de Toulouse
+	}
+	10865.4.16 = {
+		holder = 127007 #Bernard de Toulouse
+	}
+	10874.8.1 = {
+		holder = 40232 #Eudes de Toulouse
+	}
+	#918 - Ermengaud
+	#940 - Raimon II
+	#961 - Raimond III
+	#1010 - Hughues I
+	#1054 - Berthe
+	11065.1.1 = {
+		holder = 338 #Raymond IV de Toulouse
+	}
+	11105.10.1 = {
+		holder = 223671 #Bertrand de Toulouse
+	}
+	1109 = {
+		holder = 223673 #Alphonse Jourdain de Toulouse
+	}
+	11167.1.1 = {
+		holder = 210500 #Alfons II d'Aragon
+	}
+}
+
+c_albi = {
+	10864.1.1 = {
+		holder = 127007 #Bernard de Toulouse
+		liege = d_toulouse
+	}
+	
+	#Viscounts of Albi
+	#942 - Aton II
+	#972 - Siguin
+	#972 - Bernard Aton II
+	10993.1.1 = {
+		holder = 40200	#Aton III
+	}
+	11032.1.1 = {
+		holder = 40202	#Bernat Aton III
+	}
+	
+	#House of Trencavel
+	11050.1.1 = {
+		holder = 40204	#Raimond-Bernat
+	}
+	11099.1.1 = {
+		holder = 7663	#Bernat-Aton IV
+	}
+	#1129 - Roger I Trencavel
+	11150.1.1 = {
+		holder = 205571	#Raimon I
+	}
+	11167.1.1 = {
+		holder = 205570	#Roger II
+	}
+}
+
+c_uses = {
+	10865.1.1 = {
+		# Bernard of Gothia is moved to Gothia & Septimania.
+		holder = 168137
+	}
+	
+	#House of Montpellier
+	10985.1.1 = {
+		holder = 138285	#Guilhem I de Montpellier
+		liege = d_toulouse
+	}
+	11025.1.1 = {
+		holder = 138286	#Guilhem II
+	}
+	11059.1.1 = {
+		holder = 138288	#Guilhem III
+	}
+	11068.1.1 = {
+		holder = 138290	#Bernard Guilhem IV
+	}
+	11085.1.1 = {
+		holder = 138292	#Guilhem V
+	}
+	11122.1.1 = {
+		holder = 138294	#Guilhem VI
+	}
+	11162.1.1 = {
+		holder = 205581	#Guilhem VII
+	}
+	11173.1.1 = {
+		holder = 205580	#Guilhem VIII
+	}
+	11202.1.1 = {
+		holder = 138298	#Guilhem IX
+	}
+	11204.1.1 = {
+		holder = 205582	#Marie de Montpellier
+	}	
+	11204.6.15 = {
+		liege = k_aragon
+	}
+	
+	#House of Aragon
+	#1213 forward
+}
+
+c_montpellier = {
+	11178.1.1 = { change_development_level = 23 }
+
+	10865.1.1 = {
+		# Bernard of Gothia is moved to Gothia & Septimania.
+		holder = 168137
+	}
+	
+	#House of Montpellier
+	10985.1.1 = {
+		holder = 138285	#Guilhem I de Montpellier
+	}
+	11025.1.1 = {
+		holder = 138286	#Guilhem II
+	}
+	11059.1.1 = {
+		holder = 138288	#Guilhem III
+	}
+	11068.1.1 = {
+		holder = 138290	#Bernard Guilhem IV
+	}
+	11085.1.1 = {
+		holder = 138292	#Guilhem V
+	}
+	11122.1.1 = {
+		holder = 138294	#Guilhem VI
+	}
+	11162.1.1 = {
+		holder = 205581	#Guilhem VII
+	}
+	11173.1.1 = {
+		holder = 205580	#Guilhem VIII
+	}
+	11202.1.1 = {
+		holder = 138298	#Guilhem IX
+	}
+	11204.1.1 = {
+		holder = 205582	#Marie de Montpellier
+	}	
+	11204.6.15 = {
+		liege = k_aragon
+	}
+	
+	#House of Aragon
+	#1213 forward
+}
+
+c_carcassonne = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10740.1.1 = {
+		liege = "k_lotharingia"
+		holder = 91475 #ADELARD, count of Cavalonensis (Languedoc)
+	}
+	10790.1.1 = {
+		holder = visigothic0018 # Bello de Carcassone
+	}
+	10812.1.1 = {
+		holder = visigothic0020 # Gisclafred de Carcassone
+	}
+	10821.1.1 = {
+		holder = visigothic0021 # Olibia I de Carcassone
+	}
+	10837.5.10 = {
+		holder = occitan0097 # Olibia II de Carcassone
+		liege = d_barcelona
+	}
+	10872.1.1 = {
+		holder = 190557 # Bernard
+		liege = d_toulouse
+	}
+	10873.6.1 = {
+		holder = occitan0097 # Olibia II de Carcassone (restored)
+	}
+	10879.1.1 = {
+		holder = 127025	# Acfred I de Carcassone
+	}
+	10906.2.18 = {
+		holder = occitan0099 # Bencio de Carcassone
+	}
+	10908.1.1 = {
+		holder = occitan0100 # Acfred II de Carcassone
+	}
+	10933.1.1 = {
+		holder = 40180	#Arnaud I de Comminges
+	}
+	10957.11.27 = {
+		holder = 40182	#Rogier I
+	}
+	11011.4.1 = {
+		holder = 40186	#Pierre Raymond
+	}
+	11060.1.1 = {
+		holder = 138284 # #Raymond Roger de Carcassonne/Comminges
+	}
+	11067.1.1 = {
+		holder = 40204
+	}
+	11074.1.1 = {
+		holder = 7663
+	}
+	11129.1.1 = {
+		holder = 205571
+	}
+	11167.10.15 = {
+		holder = 205570
+	}
+	11194.1.1 = {
+		holder = 205572
+	}
+	11209.11.10 = {
+		holder = 204586
+	}
+	11218.6.25 = {
+		holder = 7466
+	}
+	11224.1.1 = {
+		liege = "k_france"
+	}
+	11224.1.1 = {
+		holder = 455402
+	}
+	11226.11.8 = {
+		holder = 455404
+	}
+	11270.8.25 = {
+		holder = 455528
+	}
+	11285.10.5 = {
+		holder = 455526
+	}
+	11314.11.29 = {
+		holder = 455836
+	}
+	11316.6.5 = {
+		holder = 70137
+	}
+	11316.11.19 = {
+		holder = 455509
+	}
+	11322.1.3 = {
+		holder = 455414
+	}
+	11328.2.1 = {
+		holder = 455500
+	}
+}
+
+c_beziers = {
+	11178.1.1 = { change_development_level = 24 }
+
+	10865.1.1 = {
+		# Bernard of Gothia is moved to Gothia & Septimania.
+		holder = 168137
+	}
+	#House of Beziers
+	#881 - Rainard I
+	#897 - Boson
+	#920 - Theodon
+	#956 - Guillaume I
+	#961 - Rainard II
+	#969 - Guillaume II
+	#993 - Garsinde
+	
+	#House of Carcassonne
+	11030.1.1 = {
+		holder = 40186	#Pierre Raymon of Carcassonne
+	}
+	11060.1.1 = {
+		holder = 138284 #Raymond Roger de Carcassonne/Comminges
+	}
+	11067.1.1 = {
+		holder = 40187	#Ermengarda
+	}
+	
+	#House Trencavel
+	11074.1.1 = {
+		holder = 7663	#Bernat-Aton IV
+	}
+	11129.1.1 = {
+		holder = 205571	#Raimon I
+	}
+	11167.1.1 = {
+		holder = 205570	#Roger II
+	}
+}
+
+c_foix = {
+	10759.1.1 = {
+		holder = 190495 #Icterius
+		liege = d_gascogne
+	}
+	10865.4.16 = {
+		holder = 127007 #Bernard de Toulouse
+		liege = "d_toulouse"
+	}
+	10957.1.1 = {
+		holder = 40182
+	}
+	11011.4.1 = {
+		holder = 1078 #Bernard Roger de Carcassonne/Foix
+	}
+	11034.1.1 = {
+		holder = 138160 #Roger I de Foix
+		liege = "d_toulouse"
+	}
+	11064.1.1 = {
+		holder = 6620 # Pierre-Bernard
+	}
+	11071.1.1 = {
+		holder = 40194 #Roger II de Foix
+	}
+	11124.1.10 = {
+		holder = 205551 #Roger III de Foix
+	}
+	11148.1.1 = {
+		holder = 205550 #Roger Bernard I de Foix
+	}
+	11151.7.11 = {
+		liege = "k_aragon" #or d_barcelona?
+	}
+	11188.11.1 = {
+		holder = 205554 #Raymond Roger I de Foix
+	}
+	11209.1.1 = {
+		liege = "d_toulouse"
+	}
+	11223.2.27 = {
+		holder = 138152 #Roger Bernard II de Foix
+	}
+	11241.5.20 = {
+		holder = 138154 #Roger IV de Foix
+	}
+	11243.1.1 = {
+		liege = "k_france"
+	}
+	11265.2.24 = {
+		holder = 455542 #Roger Bernard III de Foix
+	}
+	11303.3.3 = {
+		holder = 455544 #Gaston I de Foix
+	}
+	11315.12.13 = {
+		holder = 455540 #Gaston II de Foix
+	}
+	11343.9.26 = {
+		holder = 455541 #Gaston III de Foix
+	}
+}
+
+
+
+d_armagnac = {
+	10820.1.1 = {
+		holder = basque0099 # Aznar-Sanche de Gascogne
+	}
+	10836.1.1 = {
+		holder = 168143 # Sanche Sanche de Gascogne
+	}
+	10848.1.1 = {
+		holder = 0 # Reincorporated into Gascogne
+	} 
+	10877.1.1 = {
+		de_jure_liege = k_france
+	}
+}
+
+c_armagnac = {
+	10759.1.1 = {
+		holder = 190494 #Artgarius
+	}
+	10768.1.1 = {
+		holder = 168104	# Duke Loup II of Gascogne
+		liege = d_gascogne
+	}
+	10778.1.1 = {
+		holder = 168106 # Duke Sanche I of Gascogne
+	} 
+	10812.1.1 = {
+		holder = 168105	# Duke Semen I of Gascogne
+	}
+	10816.1.1 = {
+		holder = 168109	# Duke Garcia I of Gascogne
+	}
+	10818.1.1 = {
+		holder = 168121	# Duke Loup III of Gascogne
+	}
+	10820.1.1 = {
+		holder = basque0099 # Duke Aznar-Sanche of Armagnac
+		liege = d_armagnac
+	}
+	10836.1.1 = {
+		holder = 168143 # Duke Sanche Sanche of Armagnac
+	}
+	10848.1.1 = {
+		liege = d_gascogne
+	}
+	10855.1.1 = {
+		holder = 168133	# Duke Arnaud of Gascogne
+	}
+	10864.1.1 = {
+		holder = 163060 # Duke Sanche III of Gascogne
+	}
+	10893.1.1 = {
+		holder = 7563 # Duke Garcia II of Gascogne
+	}
+	10920.1.1 = {
+		holder = occitan0002 # Guillaume de Fezensac
+	}
+	10965.1.1 = {
+		holder = 40009 #Bernard I d'armagnac
+	}
+	11010.1.1 = {
+		holder = 40010 #Géraud I Trencaleon
+	}
+	11011.7.29 = {
+		holder = 40012 #Bernard II Tumapaler d'armagnac
+	}
+	11064.1.1 = {
+		holder = 40014 #Géraud II
+	}
+	11095.1.1 = {
+		holder = 40018 #Bernard III
+	}
+	11110.7.28 = {
+		holder = 205671 #Géraud III
+	}
+	11156.9.1 = {
+		holder = 205670 #Bernard IV
+	}
+	11193.1.1 = {
+		holder = 205673 #Géraud IV
+	}
+	11215.6.8 = {
+		liege = "k_france"
+	}
+	11215.6.8 = {
+		holder = 138120 #Géraud V de lomagne
+	}
+	11219.9.30 = {
+		holder = 138124 #Bernard V de lomagne
+	}
+	11245.7.22 = {
+		liege = "k_england"
+	}
+	11245.7.22 = {
+		holder = 138125 #Mascarose I de lomagne
+	}
+	11246.3.25 = {
+		holder = 138121 #Mascarose II de lomagne
+	}
+	11254.9.15 = {
+		holder = 138130 #Géraud VI de lomagne
+	}
+	11280.1.1 = {
+		liege = "k_france"
+	}
+	11280.1.1 = {
+		holder = 455641 #Bernard VI de lomagne
+	}
+	11319.1.1 = {
+		holder = 455640 #Jean I de lomagne
+	}
+}
+
+c_bigorre = {
+	10735.1.1 = {
+		holder = 190483 #Hatto
+	}
+	10735.1.1 = {
+		liege = 0
+	}
+	10744.1.1 = {
+		liege = k_france
+	}
+	10759.1.1 = {
+		holder = 190484 #Loup
+	}
+	10775.1.1 = {
+		holder = 190485 #Adalric
+	}
+	10800.1.1 = {
+		holder = 190486 #Jimeno
+	}
+	10816.1.1 = {
+		holder = 190489 #Loup
+	}
+	10820.1.1 = {
+		holder = basque0099 # Duke Aznar-Sanche of Armagnac
+		liege = d_armagnac
+	}
+	10836.1.1 = {
+		holder = 168143 # Duke Sanche Sanche of Armagnac
+	}
+	10848.1.1 = {
+		liege = d_gascogne
+	}
+	10855.1.1 = {
+		holder = 168122 # Loup Loup de Gascogne
+		liege = d_gascogne
+	}
+	10865.1.1 = {
+		holder = 168124 # Donat-Loup de Bigorre
+	}
+	10907.1.1 = {
+		holder = 168125 # Dat-Donat de Bigorre
+	}
+	10909.1.1 = {
+		holder = occitan0010 # Loup-Donat de Bigorre
+	}
+	10910.1.1 = {
+		holder = occitan0011 # Raymond I Dat de Bigorre
+	}
+	10956.1.1 = {
+		holder = occitan0013 # Louis de Bigorre
+	}
+	11000.1.1 = {
+		holder = occitan0015 # Garcia-Arnaud de Bigorre
+	}
+	11032.1.1 = {
+		holder = occitan0017 # Gersenda de Bigorre
+	}
+	11033.1.1 = {
+		holder = 1078 # Bernard I of Bigorre
+	}
+	11034.1.1 = {
+		holder = 40188 # Bernard II of Bigorre
+	}
+	11077.1.1 = {
+		holder = occitan0001 # Raymond III Bigorre
+	}
+	11080.1.1 = {
+		holder = 40003 #Centule V de Bearn
+	}
+	11090.1.1 = {
+		holder = 138172 #Gaston IV de Bearn
+	}
+	11122.1.1 = {
+		liege = "d_aragon"
+	}
+	11131.5.24 = {
+		holder = 138174 #Centule VI/VII de Bearn
+	}
+	11134.7.11 = {
+		holder = 138181 #Pierre II de Gavarret/I de Bearn regent:Guiscarde de Bearn
+	}
+	11154.1.1 = {
+		holder = 138182 #Gaston V de Bearn/Gavarret
+	}
+	11170.4.30 = {
+		holder = 205541 #marie de Bearn
+		liege = "k_aragon" # Paid homage to the king of Aragon for Bearn
+	}
+	11173.10.1 = {
+		holder = 205540 #Gaston VI de Bearn
+	}
+	11178.1.1 = {
+		holder = 205562 # Beatrice de Bigorre
+		liege = "d_gascogne"
+	}	
+	11214.1.1 = {
+		holder = 205543 #Guillem Ramon I de Bearn
+	}	
+	11224.2.26 = {
+		holder = 138184 #Guilhem II de Bearn
+	}
+	11228.2.1 = {
+		liege = "k_england"
+	}
+	11229.9.12 = {
+		holder = 138186 #Gaston VII de Bearn
+	}
+	11246.1.1 = {
+		liege = "d_toulouse"
+	}
+	11249.6.1 = {
+		liege = "k_england"
+	}
+	11252.3.1 = {
+		liege = "k_castille"
+	}
+	11254.1.1 = {
+		liege = "k_england"	
+	}
+	11290.4.26 = {
+		liege = "k_france"
+	}
+	11290.4.26 = {
+		holder = 138165 #Marguerite de Bearn
+	}
+	11303.3.3 = {
+		holder = 455544 #Gaston I de Foix
+	}
+	11315.12.13 = {
+		holder = 455540 #Gaston II de Foix
+	}
+	11343.9.26 = {
+		holder = 455541 #Gaston III de Foix
+	}
+}
+
+c_bearn = {
+	10735.1.1 = {
+		holder = 190483 #Hatto
+		liege = 0
+	}
+	10744.1.1 = {
+		liege = k_france
+	}
+	10759.1.1 = {
+		holder = 190484 #Loup
+	}
+	10768.1.1 = {
+		holder = 168104	# Duke Loup II of Gascogne
+		liege = d_gascogne
+	}
+	10778.1.1 = {
+		holder = 168106 # Duke Sanche I of Gascogne
+	} 
+	10812.1.1 = {
+		holder = 168105	# Duke Semen I of Gascogne
+	}
+	10816.1.1 = {
+		holder = 168109	# Duke Garcia I of Gascogne
+	}
+	10818.1.1 = {
+		holder = 168121	# Duke Loup III of Gascogne
+	}
+	10820.1.1 = {
+		holder = 168123 # Centule-Loup de Béarn
+		liege = d_armagnac
+	}
+	10848.1.1 = {
+		liege = d_gascogne
+	}
+	10866.1.1 = {
+		holder = 138162 # Centule I de Béarn
+	}	
+	10905.1.1 = {
+		holder = 138164 #Centule II de Béarn
+	}
+	10940.1.1 = {
+		holder = 138166 #Gaston I de Béarn
+	}
+	10984.1.1 = {
+		holder = 138168 #Centule III de Béarn
+	}
+	11004.1.1 = {
+		holder = 138170 #Gaston II de Béarn
+	}
+	11022.1.1 = {
+		holder = 40000 #Centule IV de Béarn
+	}
+	11058.1.1 = {
+		holder = 40003 #Centule V de Béarn
+	}
+	11090.1.1 = {
+		holder = 138172 #Gaston IV de Béarn
+	}
+	11122.1.1 = {
+		liege = "d_aragon"
+	}
+	11131.5.24 = {
+		holder = 138174 #Centule VI/VII de Béarn
+	}
+	11134.7.11 = {
+		holder = 138181 #Pierre II de Gavarret/I de Béarn regent:Guiscarde de Béarn
+	}
+	11154.1.1 = {
+		holder = 138182 #Gaston V de Béarn/Gavarret
+	}
+	11170.4.30 = {
+		holder = 205541 #marie de Béarn
+		liege = "k_aragon" # did homage to Alfonso II of Aragon
+	}
+	11173.10.1 = {
+		holder = 205540 #Gaston VI de béarn
+	}
+	11214.1.1 = {
+		holder = 205543 #Guillem Ramon I de Béarn
+	}	
+	11224.2.26 = {
+		holder = 138184 #Guilhem II de Béarn
+	}
+	11228.2.1 = {
+		liege = "k_england"
+	}
+	11229.9.12 = {
+		holder = 138186 #Gaston VII de Béarn
+	}
+	11246.1.1 = {
+		liege = "d_toulouse"
+	}
+	11249.6.1 = {
+		liege = "k_england"
+	}
+	11252.3.1 = {
+		liege = "k_castille"
+	}
+	11254.1.1 = {
+		liege = "k_england"	
+	}
+	11290.4.26 = {
+		liege = "k_france"
+	}
+	11290.4.26 = {
+		holder = 138165 #Marguerite de Béarn
+	}
+	11303.3.3 = {
+		holder = 455544 #Gaston I de Foix
+	}
+	11315.12.13 = {
+		holder = 455540 #Gaston II de Foix
+	}
+	11343.9.26 = {
+		holder = 455541 #Gaston III de Foix
+	}
+}
+
+c_comminges = {
+	10759.1.1 = {
+		holder = 190494 #Artgarius
+	}
+	10768.1.1 = {
+		holder = 168104	# Duke Loup II of Gascogne
+		liege = d_gascogne
+	}
+	10778.1.1 = {
+		holder = 168106 # Duke Sanche I of Gascogne
+	} 
+	10812.1.1 = {
+		holder = basque0099 # Duke Aznar-Sanche of Armagnac
+	}
+	10820.1.1 = {
+		liege = d_armagnac
+	}
+	10836.1.1 = {
+		holder = 168143 # Duke Sanche Sanche of Armagnac
+	}
+	10848.1.1 = {
+		liege = d_gascogne
+	}
+	10855.1.1 = {
+		holder = 168118 # Garcia-Sanche de Comminges
+	}
+	10890.1.1 = {
+		holder = 168119 # Aznar II de Comminges
+	}
+	10905.1.1 = {
+		holder = 168120 # Loup Aznar de Comminges 
+	}
+	10935.1.1 = {
+		holder = 138188 # Aznar III de Comminges
+	}
+	10946.1.1 = {
+		holder = 40180 # Arnaut I
+	}
+	10957.1.1 = {
+		holder = 40182 #Roger I the Old Carcassone
+	}
+	10988.1.1 = {
+		holder = 138192 # Arnaut II Comminges
+	}
+	11011.7.29 = {
+		holder = 138193 # Rogier II Comminges
+	}
+	11035.1.1 = {
+		holder = 138189 # Odon II Comminges
+	}
+	11035.5.1 = {
+		holder = 138194 # Arnaut III Comminges
+	}
+	11070.1.1 = {
+		holder = 138196 # Rogier III Comminges
+	}
+	11095.1.1 = {
+		holder = 40018 #Bernard III
+	}
+	11105.1.1 = {
+		holder = 138198 # Bernard I
+	}
+	11145.1.1 = {
+		holder = 205560 # Bernard II
+	}
+	11153.1.1 = {
+		holder = 205561 # Bernard III
+	}
+	11176.1.1 = {
+		holder = 205560 # Bernard IV
+	}
+	11193.1.1 = {
+		holder = 205673 #GÃ©raud IV
+	}
+	11215.6.8 = {
+		liege = "k_france"
+	}
+	11215.6.8 = {
+		holder = 138120 #GÃ©raud V de lomagne
+	}
+	11219.9.30 = {
+		holder = 138124 #Bernard V de lomagne
+	}
+	11245.7.22 = {
+		liege = "k_england"
+	}
+	11245.7.22 = {
+		holder = 138125 #Mascarose I de lomagne
+	}
+	11246.3.25 = {
+		holder = 138121 #Mascarose II de lomagne
+	}
+	11254.9.15 = {
+		holder = 138130 #GÃ©raud VI de lomagne
+	}
+	11280.1.1 = {
+		liege = "k_france"
+	}
+	11280.1.1 = {
+		holder = 455641 #Bernard VI de lomagne
+	}
+	11319.1.1 = {
+		holder = 455640 #Jean I de lomagne
+	}
+}
+
+
+d_auvergne = {
+	10877.1.1 = {
+		de_jure_liege = k_france
+	}
+	11337.1.1 = {
+		liege = "k_france"
+	}
+	11337.1.1 = {
+		holder = 455500
+	}
+}
+
+c_auvergne = {
+	10864.1.1 = {
+		liege = d_aquitaine
+		holder = 127019	#Bernard I
+	}
+	
+	#House of Auvergne
+	10950.1.1 = {
+		holder = 40124	#Robert II de Clermont
+	}
+	10968.1.1 = {
+		holder = 303433	#Robert III de Clermont
+	}
+	10979.1.1 = {
+		liege = k_france
+		holder = 138430	#Guy I d'Auvergne
+	}
+	10989.1.1 = {
+		holder = 40126	#Guillaume IV d'Auvergne
+	}
+	11016.1.1 = {
+		holder = 40128	#Robert I d'Auvergne
+	}
+	11032.1.1 = {
+		holder = 40130	#Guillaume V d'Auvergne
+	}
+	11064.1.1 = {
+		holder = 306 #Robert II d'Auvergne
+	}
+	11096.1.1 = {
+		holder = 206034 #Guillaume VI d'Auvergne
+	}
+	11136.1.1 = {
+		holder = 206038 #Robert III d'Auvergne
+	}
+	11147.1.1 = {
+		holder = 206040 #Guillaume VII "le jeune" d'Auvergne
+	}
+	11155.1.1 = {
+		holder = 206033 #Guillaume "the old" VIII d'Auvergne
+	}
+	11177.1.1 = {
+		liege = "d_gascogne"
+	}
+	11182.1.1 = {
+		holder = 206030 #Robert IV d'Auvergne
+	}
+	11194.1.1 = {
+		holder = 206031 #Guillaume IX d'Auvergne
+	}
+	11197.1.1 = {
+		holder = 206036 #Guy II d'Auvergne
+	}
+	11222.1.1 = {
+		holder = 7467 #Guillaume X d'Auvergne
+	}
+	11246.1.1 = {
+		holder = 7468 #Robert V d'Auvergne
+	}
+	11261.1.1 = {
+		liege = "k_france"
+	}
+	11277.1.11 = {
+		holder = 7470 #Robert VI d'Auvergne
+	}
+	11317.1.1 = {
+		holder = 7471 #Robert VII d'Auvergne
+	}
+	11325.10.13 = {
+		holder = 455821  #Guillaume XII d'Auvergne
+	}
+	11332.8.6 = {
+		holder = 455820 #Jeanne d'Auvergne
+	}
+}
+
+c_clermont_sur_allier = {
+	10864.1.1 = {
+		liege = d_aquitaine
+		holder = 127021	#Bernard I
+	}
+	
+	#House of Auvergne
+	10950.1.1 = {
+		holder = 40124	#Robert II de Clermont
+	}
+	10968.1.1 = {
+		holder = 303433	#Robert III de Clermont
+	}
+	10979.1.1 = {
+		liege = k_france
+		holder = 138430	#Guy I d'Auvergne
+	}
+	10989.1.1 = {
+		holder = 40126	#Guillaume IV d'Auvergne
+	}
+	11016.1.1 = {
+		holder = 40128	#Robert I d'Auvergne
+	}
+	11032.1.1 = {
+		holder = 40130	#Guillaume V d'Auvergne
+	}
+	11064.1.1 = {
+		holder = 306 #Robert II d'Auvergne
+	}
+	11096.1.1 = {
+		holder = 206034 #Guillaume VI d'Auvergne
+	}
+	11136.1.1 = {
+		holder = 206038 #Robert III d'Auvergne
+	}
+	11147.1.1 = {
+		holder = 206040 #Guillaume VII "le jeune" d'Auvergne
+	}
+	11155.1.1 = {
+		holder = 206033 #Guillaume "the old" VIII d'Auvergne
+	}
+	11177.1.1 = {
+		liege = "d_gascogne"
+	}
+	11182.1.1 = {
+		holder = 206030 #Robert IV d'Auvergne
+	}
+	11194.1.1 = {
+		holder = 206031 #Guillaume IX d'Auvergne
+	}
+	11197.1.1 = {
+		holder = 206036 #Guy II d'Auvergne
+	}
+	11222.1.1 = {
+		holder = 7467 #Guillaume X d'Auvergne
+	}
+	11246.1.1 = {
+		holder = 7468 #Robert V d'Auvergne
+	}
+	11261.1.1 = {
+		liege = "k_france"
+	}
+	11277.1.11 = {
+		holder = 7470 #Robert VI d'Auvergne
+	}
+	11317.1.1 = {
+		holder = 7471 #Robert VII d'Auvergne
+	}
+	11325.10.13 = {
+		holder = 455821  #Guillaume XII d'Auvergne
+	}
+	11332.8.6 = {
+		holder = 455820 #Jeanne d'Auvergne
+	}
+}
+
+c_thiers = {
+	10864.1.1 = {
+		liege = d_aquitaine
+		holder = 127021	#Bernard I
+	}
+	
+	#House of Auvergne
+	10950.1.1 = {
+		holder = 40124	#Robert II de Clermont
+	}
+	10968.1.1 = {
+		holder = 303433	#Robert III de Clermont
+	}
+	10979.1.1 = {
+		liege = k_france
+		holder = 138430	#Guy I d'Auvergne
+	}
+	10989.1.1 = {
+		holder = 40126	#Guillaume IV d'Auvergne
+	}
+	11016.1.1 = {
+		holder = 40128	#Robert I d'Auvergne
+	}
+	11032.1.1 = {
+		holder = 40130	#Guillaume V d'Auvergne
+	}
+	11064.1.1 = {
+		holder = 306 #Robert II d'Auvergne
+	}
+	11096.1.1 = {
+		holder = 206034 #Guillaume VI d'Auvergne
+	}
+	11136.1.1 = {
+		holder = 206038 #Robert III d'Auvergne
+	}
+	11147.1.1 = {
+		holder = 206040 #Guillaume VII "le jeune" d'Auvergne
+	}
+	11155.1.1 = {
+		holder = 206033 #Guillaume "the old" VIII d'Auvergne
+	}
+	11177.1.1 = {
+		liege = "d_gascogne"
+	}
+	11182.1.1 = {
+		holder = 206030 #Robert IV d'Auvergne
+	}
+	11194.1.1 = {
+		holder = 206031 #Guillaume IX d'Auvergne
+	}
+	11197.1.1 = {
+		holder = 206036 #Guy II d'Auvergne
+	}
+	11222.1.1 = {
+		holder = 7467 #Guillaume X d'Auvergne
+	}
+	11246.1.1 = {
+		holder = 7468 #Robert V d'Auvergne
+	}
+	11261.1.1 = {
+		liege = "k_france"
+	}
+	11277.1.11 = {
+		holder = 7470 #Robert VI d'Auvergne
+	}
+	11317.1.1 = {
+		holder = 7471 #Robert VII d'Auvergne
+	}
+	11325.10.13 = {
+		holder = 455821  #Guillaume XII d'Auvergne
+	}
+	11332.8.6 = {
+		holder = 455820 #Jeanne d'Auvergne
+	}
+}
+
+c_velay = {
+	10688.1.1 = {
+		liege = d_aquitaine
+	}
+	10866.10.1 = {	#No data, was under duchy of Aquitaine so we default to its owner
+		holder = 90128 #Ramnulf II
+		liege = d_aquitaine
+	}
+	
+	#Viscounts of Gevaudan
+	10924.1.1 = {
+		holder = 40258	#Bertrand of Gevaudan
+	}
+	10954.1.1 = {
+		holder = 40260	#Etienne de Gevaudan
+	}
+	10993.1.1 = {
+		holder = 138226 #Pons I de gévaudan	
+	}
+	
+	#Viscounts of Millau
+	11013.1.1 = {
+		holder = 138234 #Richard I of Millau
+	}
+	11023.7.28 = {
+		holder = 10032 #Richard II de Millau
+	}
+	11051.1.1 = {
+		holder = 10034 #Bérenger II de MIllau
+	}
+	
+	#Counts of Gevaudan
+	11060.1.1 = {
+		holder = 10040 #Gilbert I de Gévaudan
+		liege = k_france
+	}
+	11111.1.1 = {
+		holder = 40806 #Douce I de gévaudan
+	}
+	11112.1.1 = {
+		holder = polignac_4 # Armand de Polignac
+	}
+	11164.1.1 = {
+		holder = polignac_2 # Pons de Polignac
+	}
+	11166.1.1 = {
+		liege = k_aragon
+	}
+	11195.4.25 = {
+		holder = 210501 #Pierre II d'Aragon
+	}
+	11213.9.14 = {
+		holder = 460600 #Jacques I d'Aragon
+	}
+	11258.1.1 = {
+		liege = "k_france"
+	}
+	11258.1.1 = {
+		holder = 455404 #Louis IX (saint Louis)
+	}
+	11270.8.25 = {
+		holder = 455528 # Philippe III le Hardi
+	}
+	11285.10.5 = {
+		holder = 455526 # Philippe IV le Bel
+	}
+	#bishopric of Gévaudan
+	11307.1.1 = {
+		holder = 138401 #Bishop Guillaume VI Durand
+	}
+	11330.8.10 = {
+		holder = 138400 #Bishop Jean II d'Arcy
+	}
+	11331.1.1 = {
+		holder = 138402 #Bishop Albert Lordet
+	}
+}
+
+d_bourbon = {
+	10877.1.1 = {
+		de_jure_liege = k_france
+	}
+	11327.12.27 = {
+		liege = "k_france"
+	}
+	11327.12.27 = {
+		holder = 455650
+	}
+}
+
+c_bourbon = {
+	10834.1.1 = {
+		liege = k_france
+		holder = 163065
+	}
+	10915.1.1 = {
+		holder = 40150	#Aymar
+	}
+	10953.1.1 = {
+		holder = 40152	#Aymon
+	}
+	10959.1.1 = {
+		holder = 40154	#Archambaud I
+	}
+	10990.1.1 = {
+		holder = 40156	#Archambaud II
+	}
+	11034.1.1 = {
+		holder = 40158	#Archambaud III
+	}
+	11064.1.1 = {
+		holder = 40160	#Archambaud IV the Strong
+	}
+	11078.1.1 = {
+		holder = 40162	#Archambaud V
+	}
+	11096.1.1 = {
+		holder = 7484	#Archambaud VI
+	}
+	11116.1.1 = {
+		holder = 40164
+	}
+	11120.1.1 = {
+		holder = 205650
+	}
+	11171.1.1 = {
+		holder = 205652
+	}
+	11228.6.15 = {
+		holder = 7483
+	}
+	11242.8.23 = {
+		holder = 7478
+	}
+	11249.1.15 = {
+		holder = 91155
+	}
+	11262.9.1 = {
+		holder = 7476
+	}
+	11288.9.7 = {
+		holder = 455505
+	}
+	11317.1.2 = {
+		holder = 455650
+	}
+	11327.12.27 = {
+		liege = "d_bourbon"
+	}
+	11329.1.2 = {
+		holder = 455650
+	}
+}
+
+c_bellac = {
+	10767.1.1 = {
+		holder = 190561 #Geofrey
+		liege = k_lotharingia
+	}
+	10778.1.1 = {
+		liege = "k_aquitaine"
+		holder = 6392
+	}
+	10781.1.1 = {
+		holder = 90095
+	}
+	10817.1.1 = {
+		holder = 90096
+	}
+	10838.1.14 = {
+		holder = 90104
+	}
+	10855.1.1 = {
+		holder = 42020
+	}
+	10866.1.30 = {
+		holder = 90123
+		liege = "d_aquitaine"
+	}
+	10879.1.1 = {
+		holder = 90155
+	}
+	10884.12.12 = {
+		holder = 90127
+	}
+	10934.1.1 = {
+		holder = 230
+	}
+	
+	#House Taillefer
+	10945.1.1 = {
+		holder = 40070
+	}
+	10988.1.1 = {
+		holder = 320
+	}
+	10997.1.1 = {
+		holder = 322
+	}
+	11047.6.16 = {
+		holder = 324 #Adalbert II de la marche since 1047
+	}
+	11088.1.1 = {
+		holder = 138047 #Boson III de la marche
+	}
+	11091.1.1 = {
+		holder = 138044 #Eudes I de la marche
+	}
+	11091.4.25 = {
+		holder = 138045  #Almodis de la marche
+	}
+	
+	#House Montgommery
+	11112.1.1 = {
+		holder = 82052 #Roger le poitevin de Montgommery
+	}
+	#Boson IV was probably set as future count of Marche same time as his father but died in 1118
+	11123.1.1 = {
+		holder = 138056 #Eudes II de montgommery
+	}
+	11135.1.1 = {
+		holder = 138054 #Aldebert III de montgommery
+	}
+	11137.4.9 = {
+		holder = 205730 #Alienor d'Aquitaine
+	}
+	#House de Lusignan
+	11199.1.1 = {
+		holder = 205660 #Hugues IX de Lusignan
+	}
+	11219.1.2 = {
+		holder = 138001 #Hugues X de Lusignan
+	}
+	11242.7.21 = {
+		liege = "k_france"
+	}
+	11249.6.5 = {
+		holder = 138011	#Hugues XI de Lusignan
+	}
+	11250.4.6 = {
+		holder = 138015 #Hugues XII de Lusignan
+	}
+	11270.9.24 = {
+		holder = 138016 #Hugues XIII de Lusignan
+	}
+	11303.11.1 = {
+		holder = 138010 #Gui I de Lusignan
+	}
+	11308.9.24 = {
+		holder = 138017 #Marie/Yolande de Lusignan
+	}
+	11314.9.1 = {
+		holder = 455414 #Charles le Bel
+	}
+	11322.1.1 = {
+		liege = "d_bourbon"
+	}
+	11322.1.1 = {
+		holder = 455650 #Louis de Bourbon
+	}
+}
+
+c_jaligny = {
+	10834.1.1 = {
+		liege = k_france
+		holder = 163065
+	}
+	10915.1.1 = {
+		holder = 40150	#Aymar
+	}
+	10953.1.1 = {
+		holder = 40152	#Aymon
+	}
+	10959.1.1 = {
+		holder = 40154	#Archambaud I
+	}
+	10990.1.1 = {
+		holder = 40156	#Archambaud II
+	}
+	11034.1.1 = {
+		holder = 40158	#Archambaud III
+	}
+	11064.1.1 = {
+		holder = 40160	#Archambaud IV the Strong
+	}
+	11078.1.1 = {
+		holder = 40162	#Archambaud V
+	}
+	11096.1.1 = {
+		holder = 7484	#Archambaud VI
+	}
+	11116.1.1 = {
+		holder = 40164
+	}
+	11120.1.1 = {
+		holder = 205650
+	}
+	11171.1.1 = {
+		holder = 205652
+	}
+	11228.6.15 = {
+		holder = 7483
+	}
+	11242.8.23 = {
+		holder = 7478
+	}
+	11249.1.15 = {
+		holder = 91155
+	}
+	11262.9.1 = {
+		holder = 7476
+	}
+	11288.9.7 = {
+		holder = 455505
+	}
+	11317.1.2 = {
+		holder = 455650
+	}
+	11327.12.27 = {
+		liege = "d_bourbon"
+	}
+	11329.1.2 = {
+		holder = 455650
+	}
+}
+
+c_la_marche = {
+	10767.1.1 = {
+		holder = 190561 #Geofrey
+		liege = k_lotharingia
+	}
+	10778.1.1 = {
+		liege = "k_aquitaine"
+		holder = 6392
+	}
+	10781.1.1 = {
+		holder = 90095
+	}
+	10817.1.1 = {
+		holder = 90096
+	}
+	10838.1.14 = {
+		holder = 90104
+	}
+	10855.1.1 = {
+		holder = 42020
+	}
+	10866.1.30 = {
+		holder = 90123
+		liege = "d_aquitaine"
+	}
+	10879.1.1 = {
+		holder = 90155
+	}
+	10884.12.12 = {
+		holder = 90127
+	}
+	10934.1.1 = {
+		holder = 230
+	}
+	
+	#House Taillefer
+	10945.1.1 = {
+		holder = 40070
+	}
+	10988.1.1 = {
+		holder = 320
+	}
+	10997.1.1 = {
+		holder = 322
+	}
+	11047.6.16 = {
+		holder = 324 #Adalbert II de la marche since 1047
+	}
+	11088.1.1 = {
+		holder = 138047 #Boson III de la marche
+	}
+	11091.1.1 = {
+		holder = 138044 #Eudes I de la marche
+	}
+	11091.4.25 = {
+		holder = 138045  #Almodis de la marche
+	}
+	
+	#House Montgommery
+	11112.1.1 = {
+		holder = 82052 #Roger le poitevin de Montgommery
+	}
+	#Boson IV was probably set as future count of Marche same time as his father but died in 1118
+	11123.1.1 = {
+		holder = 138056 #Eudes II de montgommery
+	}
+	11135.1.1 = {
+		holder = 138054 #Aldebert III de montgommery
+	}
+	11168.2.1 = {
+		holder = 138064 #Boson V de montgommery
+	}
+	11172.1.1 = {
+		holder = 138062 #Aldebert IV de montgommery
+	}
+	#Kings of England 1177-1199
+	11177.12.1 = {
+		holder = 204500 # Sold to Henry II of England by Aldebert IV
+	}
+	11178.1.1 = {
+		holder = aubusson_1 # Rainaut d'Aubusson, vicomte d'Aubusson
+		liege = k_england
+	}
+	#House de Lusignan
+	11199.1.1 = {
+		holder = 205660 #Hugues IX de Lusignan
+	}
+	11219.1.2 = {
+		holder = 138001 #Hugues X de Lusignan
+	}
+	11242.7.21 = {
+		liege = "k_france"
+	}
+	11249.6.5 = {
+		holder = 138011	#Hugues XI de Lusignan
+	}
+	11250.4.6 = {
+		holder = 138015 #Hugues XII de Lusignan
+	}
+	11270.9.24 = {
+		holder = 138016 #Hugues XIII de Lusignan
+	}
+	11303.11.1 = {
+		holder = 138010 #Gui I de Lusignan
+	}
+	11308.9.24 = {
+		holder = 138017 #Marie/Yolande de Lusignan
+	}
+	11314.9.1 = {
+		holder = 455414 #Charles le Bel
+	}
+	11322.1.1 = {
+		liege = "d_bourbon"
+	}
+	11322.1.1 = {
+		holder = 455650 #Louis de Bourbon
+	}
+}
+
+
+d_poitou = {
+	10769.1.1 = {
+		de_jure_liege = k_france
+	}
+	10852.1.1 = {
+		de_jure_liege = k_aquitaine
+		liege = k_france
+	}
+	10852.1.1 = {
+		holder = 90129 #Ramnulf I
+	}
+	10866.10.1 = {
+		holder = 90128 #Ramnulf II
+	}
+	10877.1.1 = {
+		de_jure_liege = k_france
+	}
+	#10889.12.12 = {
+	#	liege = "k_france"
+	#}
+	10890.10.1 = {
+		holder = 168057 #Ramnulf III
+	}
+	10901.1.1 = {
+		holder = 90127 #Ebles
+	}
+	10934.1.1 = {
+		holder = 230 #Guillaume Ier
+	}
+	10963.4.3 = {
+		holder = 232 #Guillaume II
+	}
+	10995.2.3 = {
+		holder = 234 #Guillaume III
+	}
+	11030.1.31 = {
+		holder = 236 #Guillaume IV
+	}
+	11038.12.15 = {
+		holder = 238 #Guillaume V
+	}
+	11058.1.1 = {
+		holder = 240 #Guillaume VI
+	}
+	11086.9.25 = {
+		holder = 205733 #Guillaume VII
+	}
+	11126.2.10 = {
+		holder = 205731 #Guillaume VIII
+	}
+	11137.4.9 = {
+		holder = 205730 #Alienor
+	}
+	11137.7.22 = {
+		holder = 205500 #Louis VII
+	}
+	11152.3.21 = {
+		holder = 205730 #Alienor
+	}
+	11152.5.18 = {
+		liege = "k_england"
+	}
+	11152.5.18 = {
+		holder = 204500 #Henry II
+	}
+	11189.7.6 = {
+		holder = 204510 #Richard I
+	}
+	11199.4.6 = {
+		holder = 204514 #John
+	}
+	11205.1.1 = {
+		liege = "k_france"
+	}
+	11205.1.1 = {
+		holder = 205506 # Philippe II
+	}
+	11223.7.14 = {
+		holder = 455402 #Louis VIII
+	}
+	11226.11.8 = {
+		holder = 455404 #Louis IX
+	}
+	11241.6.24 = {
+		holder = 127000 #Alphonse, brother of Louis IX
+	}
+	11271.8.21 = {
+		holder = 455528 # Philippe III
+	}
+	11285.10.5 = {
+		holder = 455526 # Philippe IV
+	}
+	11311.12.1 = {
+		holder = 455509 # Philippe, V in 1316
+	}
+	11322.1.3 = {
+		holder = 455414 # Charles IV
+	}
+	11328.2.1 = {
+		holder = 455500 # Philippe VI
+	}
+}
+
+c_poitiers = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 11 }
+	
+	10768.1.1 = {
+		holder = 190510 #Abbon
+		liege = d_aquitaine
+	}
+	10852.1.1 = {
+		holder = 90129	#Ramnulf I
+		liege = d_aquitaine
+	}
+	10866.10.1 = {
+		holder = 90128	#Ramnulf II
+	}
+	10890.1.1 = {
+		holder = 90127	#Ebles / Ebalus Manzer
+	}
+	#892 - Aymar I
+	10902.1.1 = {
+		holder = 90127	#Ebles / Ebalus Manzer
+	}
+	10934.1.1 = {
+		holder = 230	#Guillaume I (III of Aquitaine)
+	}
+	10963.4.3 = {
+		holder = 232	#Guillaume II (IV of Aquitaine)
+	}
+	10994.2.3 = {
+		holder = 234	#Guillaume III (V of Aquitaine)
+	}
+	11030.1.1 = {
+		holder = 236 	#Guillaume IV (VI of Aquitaine)
+	}
+	11038.2.1 = {
+		holder = 228	#Eudes of Aquitaine
+	}
+	11039.3.10 = {
+		holder = 238	#Guillaume V (VII of Aquitaine)
+	}
+	11058.9.5 = {
+		holder = 240	#Guillaume VI (VIII of Aquitaine)
+	}
+	11086.9.25 = {
+		holder = 205733	#Guillaume VII (IX of Aquitaine)
+	}
+	11126.2.10 = {
+		holder = 205731	#Guillaume VIII (X of Aquitaine)
+	}
+	11137.4.9 = {
+		holder = 205730	#Alienor of Aquitaine
+	}
+	11172.6.1 = {
+		holder = 204510 # Richard I
+	}
+}
+
+c_lusignan = {
+	10678.1.1 = {
+		holder = 190478 #Boggis
+		liege = k_france
+	}
+	10707.1.1 = {
+		holder = 190479 #Eudes
+	}
+	10735.1.1 = {
+		holder = 190480 #Hunoald
+		liege = 0
+	}
+	10744.1.1 = {
+		holder = 190481 #Waifar
+		liege = k_france
+	}
+	10766.1.1 = {
+		liege = 0
+	}
+	10768.6.2 = {
+		holder = 190480 #Hunoald
+		liege = k_france
+	}
+	10852.1.1 = {
+		holder = 90129	#Ramnulf I
+		liege = d_aquitaine
+	}
+	10866.10.1 = {
+		holder = 90128 #Ramnulf II
+	}
+	10890.10.1 = {
+		holder = 90127 #Ebles Manzer
+	}
+	10915.1.1 = {
+		holder = 138027	#Hugues I de Lusignan
+	}
+	10930.1.1 = {
+		holder = 138028	#Hugues II de Lusignan
+	}
+	10967.1.1 = {
+		holder = 138029	#Hugues III de Lusignan
+	}
+	11012.1.1 = {
+		holder = 40050	#Hugues IV de Lusignan
+	}
+	11026.1.1 = {
+		holder = 40052	#Hughes V de Lusignan
+	}
+	11060.10.8 = {
+		holder = 40054 #Hugues VI de Lusignan
+	}
+	11110.1.1 = {
+		holder = 205667 #Hugues VII de Lusignan
+	}
+	11151.1.6 = {
+		holder = 205661 #Hugues VIII de Lusignan
+	}
+	11173.1.1 = {
+		holder = 205660 #Hugues IX de Lusignan
+	}
+	11219.1.2 = {
+		holder = 138001 #Hugues X de Lusignan
+	}
+	11230.5.1 = {
+		liege = "k_england"
+	}
+	11242.7.21 = {
+		liege = "k_france"
+	}
+	11249.6.5 = {
+		holder = 138011 #Hugues XI de Lusignan
+	}
+	11250.4.6 = {
+		holder = 138015 #Hugues XII de Lusignan
+	}
+	11270.9.24 = {
+		holder = 138016 #Hugues XIII de Lusignan
+	}
+	11303.11.1 = {
+		holder = 138010 #Gui I de Lusignan
+	}
+	11308.9.24 = {
+		holder = 138017 #Marie/Yolande de Lusignan
+	}
+	11314.9.1 = {
+		holder = 455414 #Charles le Bel
+	}
+	11322.1.1 = {
+		holder = 455650 #Louis de Bourbon
+		liege = "d_bourbon"
+	}
+}
+
+c_montaigu = {
+	10865.1.1 = {
+		liege = 0
+		holder = 6878 # Hastein, the feared Viking chieftain
+		#Hastein had a base on the island of Noirmoutier
+	}
+	10876.1.1 = {
+		holder = 144964	#Geoffrey de Thouars
+		liege = k_france
+	}
+	10903.1.1 = {
+		holder = 144963	#Savary I
+	}
+	10929.1.1 = {
+		holder = 144962	#Aimery I
+	}
+	10936.1.1 = {
+		holder = 144961	#Savary II
+	}
+	10943.1.1 = {
+		holder = 144960	#Aimery II
+	}
+	10960.1.1 = {
+		holder = 40020	#Herbert I de Thouars
+	}
+	10987.1.1 = {
+		holder = 144965	#Aimery III
+	}
+	10997.1.1 = {
+		holder = 40022	#Savary III
+	}
+	11004.1.1 = {
+		holder = 40030	#Raoul
+	}
+	11015.1.1 = {
+		holder = 40024	#Geoffrey II de Thouars
+	}
+	11055.1.1 = {
+		holder = 40026 #Aimery IV de Thouars
+	}
+	11093.1.1 = {
+		holder = 138032 #Herbert II de Thouars
+	}
+	11102.5.28 = {
+		holder = 7564 #Geoffroy III de Thouars
+	}
+	11123.1.1 = {
+		holder = 7622 #Aimery V de Thouars
+	}
+	11127.1.1 = {
+		holder = 138033 #Aimery VI de Thouars
+	}
+	11139.1.1 = {
+		holder = 138034 #Guillaume I de Thouars
+	}
+	11151.1.1 = {
+		holder = 205931 #Geoffroy IV de Thouars
+	}
+	11156.1.1 = {
+		liege = "d_anjou"
+	}
+	11160.1.1 = {
+		liege = "k_england"
+	}
+	11176.1.15 = {
+		holder = 138035 #Aimery VII de Thouars
+	}
+	11202.6.4 = {
+		liege = "k_england"
+	}
+	11226.3.21 = {
+		holder = 138036 #Hugues I de Thouars
+		liege = "k_france"
+	}
+	11229.1.1 = {
+		holder = 138037 #Raymond I de Thouars
+	}
+	11230.5.1 = {
+		liege = "k_england"
+	}
+	11233.1.1 = {
+		holder = 138039 #Guy I de Thouars
+	}
+	11242.6.21 = {
+		holder = 138038 #Aimery VIII de Thouars
+		liege = "k_france"
+	}
+	#11246.1.1 = {
+	#	liege = #Alphonse Count of Poitiers ID?
+	#}
+	11246.1.1 = {
+		holder = 138040 #Aimery IX de Thouars
+	}
+	11256.1.1 = {
+		holder = 138041 #Renaud I de Thouars
+	}
+	11269.1.1 = {
+		holder = 138042 #Savary IV de Thouars
+		liege = "d_poitou"
+	}
+	11274.1.1 = {
+		holder = 455928 #Guy II de Thouars
+	}
+	11308.9.26 = {
+		holder = 455931 #Jean I de Thouars
+	}
+	11332.5.25 = {
+		holder = 138065 #Hugues II de Thouars
+	}
+	11333.3.11 = {
+		holder = 455930 #Louis I de Thouars
+	}
+	11360.5.8 = {
+		liege = "k_england"
+	}
+}
+
+c_thouars = {
+	10867.1.1 = {
+		holder = 144964	#Geoffrey de Thouars
+		liege = k_france
+	}
+	10903.1.1 = {
+		holder = 144963	#Savary I
+	}
+	10929.1.1 = {
+		holder = 144962	#Aimery I
+	}
+	10936.1.1 = {
+		holder = 144961	#Savary II
+	}
+	10943.1.1 = {
+		holder = 144960	#Aimery II
+	}
+	10960.1.1 = {
+		holder = 40020	#Herbert I de Thouars
+	}
+	10987.1.1 = {
+		holder = 144965	#Aimery III
+	}
+	10997.1.1 = {
+		holder = 40022	#Savary III
+	}
+	11004.1.1 = {
+		holder = 40030	#Raoul
+	}
+	11015.1.1 = {
+		holder = 40024	#Geoffrey II de Thouars
+	}
+	11055.1.1 = {
+		holder = 40026 #Aimery IV de Thouars
+	}
+	11093.1.1 = {
+		holder = 138032 #Herbert II de Thouars
+	}
+	11102.5.28 = {
+		holder = 7564 #Geoffroy III de Thouars
+	}
+	11123.1.1 = {
+		holder = 7622 #Aimery V de Thouars
+	}
+	11127.1.1 = {
+		holder = 138033 #Aimery VI de Thouars
+	}
+	11139.1.1 = {
+		holder = 138034 #Guillaume I de Thouars
+	}
+	11151.1.1 = {
+		holder = 205931 #Geoffroy IV de Thouars
+	}
+	11156.1.1 = {
+		liege = "d_anjou"
+	}
+	11160.1.1 = {
+		liege = "k_england"
+	}
+	11176.1.15 = {
+		holder = 138035 #Aimery VII de Thouars
+	}
+	11202.6.4 = {
+		liege = "k_england"
+	}
+	11226.3.21 = {
+		holder = 138036 #Hugues I de Thouars
+		liege = "k_france"
+	}
+	11229.1.1 = {
+		holder = 138037 #Raymond I de Thouars
+	}
+	11230.5.1 = {
+		liege = "k_england"
+	}
+	11233.1.1 = {
+		holder = 138039 #Guy I de Thouars
+	}
+	11242.6.21 = {
+		holder = 138038 #Aimery VIII de Thouars
+		liege = "k_france"
+	}
+	#11246.1.1 = {
+	#	liege = #Alphonse Count of Poitiers ID?
+	#}
+	11246.1.1 = {
+		holder = 138040 #Aimery IX de Thouars
+	}
+	11256.1.1 = {
+		holder = 138041 #Renaud I de Thouars
+	}
+	11269.1.1 = {
+		holder = 138042 #Savary IV de Thouars
+		liege = "d_poitou"
+	}
+	11274.1.1 = {
+		holder = 455928 #Guy II de Thouars
+	}
+	11308.9.26 = {
+		holder = 455931 #Jean I de Thouars
+	}
+	11332.5.25 = {
+		holder = 138065 #Hugues II de Thouars
+	}
+	11333.3.11 = {
+		holder = 455930 #Louis I de Thouars
+	}
+	11360.5.8 = 	{
+		liege = "k_england"
+	}
+}
+
+d_languedoc = {
+	10877.1.1 = {
+		de_jure_liege = k_france
+	}
+}

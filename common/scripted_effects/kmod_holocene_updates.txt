@@ -1,0 +1,7 @@
+﻿update_holocene_date = {
+    set_variable = {
+        name = holocene_year_var
+        value = holocene_year_calculation
+    }
+}
+

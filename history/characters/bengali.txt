@@ -1,0 +1,3788 @@
+﻿190025 = {
+	name = "Dayitavishnu"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	10682.1.1 = {
+		birth = yes
+	}
+	10727.1.1 = {
+		death = yes
+	}
+}
+190026 = {
+	name = "Vapyata"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190025
+	10701.1.1 = {
+		birth = yes
+	}
+	10748.1.1 = {
+		death = yes
+	}
+}
+
+190027 = {
+	name = "Gopala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190026
+	10734.1.1 = {
+		birth = yes
+	}
+	10750.1.1 = {
+		add_spouse = 191301
+	}
+	10769.1.1 = {
+		death = yes
+	}
+}
+190028 = {
+	name = "Dharmapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190027
+	mother = 191301
+	trait = brave
+	trait = arrogant
+	trait = ambitious
+	10753.1.1 = {
+		birth = yes
+	}
+	10769.1.1 = {
+		trait = education_martial_4
+	}
+	10775.1.1 = {
+		add_spouse = 191302
+	}
+	10810.1.1 = {
+		death = yes
+	}
+}
+190004 = {
+	name = "Devapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190028
+	mother = 191302
+	10794.1.1 = {
+		birth = yes
+	}
+	10850.1.1 = {
+		death = yes
+	}
+}
+190005 = {
+	name = "Mahendrapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190004
+	10820.1.1 = {
+		birth = yes
+	}
+	10854.1.1 = {
+		death = yes
+	}
+}
+190006 = {
+	name = "Vakapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190027
+	mother = 191301
+	10757.1.1 = {
+		birth = yes
+	}
+	10809.1.1 = {
+		death = yes
+	}
+}
+190007 = {
+	name = "Jayapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190006
+	10773.1.1 = {
+		birth = yes
+	}
+	10819.1.1 = {
+		death = yes
+	}
+}
+190008 = {
+	name = "Vigrahapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190007
+	10801.1.1 = {
+		birth = yes
+	}
+	10855.1.1 = {
+		death = yes
+	}
+}
+190009 = {
+	name = "Narayanapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190008
+	10839.1.1 = {
+		birth = yes
+	}
+	10908.1.1 = {
+		death = yes
+	}
+}
+190010 = {
+	name = "Rajyapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190009
+	10865.1.1 = {
+		birth = yes
+	}
+	10940.1.1 = {
+		death = yes
+	}
+}
+190011 = {
+	name = "Gopala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190010
+	10882.1.1 = {
+		birth = yes
+	}
+	10960.1.1 = {
+		death = yes
+	}
+}
+190012 = {
+	name = "Vigrahapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190011
+	10929.1.1 = {
+		birth = yes
+	}
+	10988.1.1 = {
+		death = yes
+	}
+}
+190013 = {
+	name = "Mahipala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190012
+	10968.1.1 = {
+		birth = yes
+	}
+	11038.1.1 = {
+		death = yes
+	}
+}
+190014 = {
+	name = "Sthirapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190012
+	10971.1.1 = {
+		birth = yes
+	}
+	11021.1.1 = {
+		death = yes
+	}
+}
+190015 = {
+	name = "Vasantapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190012
+	10975.1.1 = {
+		birth = yes
+	}
+	11028.1.1 = {
+		death = yes
+	}
+}
+
+190016 = {
+	name = "Nayapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190013
+	11001.1.1 = {
+		birth = yes
+	}
+	11055.1.1 = {
+		death = yes
+	}
+}
+190017 = {
+	name = "Vigrahapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190016
+	trait = education_martial_1
+	11021.1.1 = {
+		birth = yes
+	}
+	11040.1.1 = {
+		add_spouse = 191087
+	}
+	11060.1.1 = {
+		add_spouse = cedi_daughter_1
+	}
+	11070.1.1 = {
+		death = yes
+	}
+}
+190018 = {
+	name = "Mahipala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190017
+	mother = 191087
+	11042.1.1 = {
+		birth = yes
+	}
+	11075.1.1 = {
+		death = yes
+	}
+}
+190019 = {
+	name = "Surapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190017
+	mother = 191087
+	11046.1.1 = {
+		birth = yes
+	}
+	11077.1.1 = {
+		death = yes
+	}
+}
+190020 = {
+	name = "Ramapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190017
+	mother = 191087
+	11047.1.1 = {
+		birth = yes
+	}
+	11120.1.1 = {
+		death = yes
+	}
+}
+190021 = {
+	name = "Kumarapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190020
+	11082.1.1 = {
+		birth = yes
+	}
+	11125.1.1 = {
+		death = yes
+	}
+}
+190022 = {
+	name = "Gopala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190021
+	11109.1.1 = {
+		birth = yes
+	}
+	11144.1.1 = {
+		death = yes
+	}
+}
+190023 = {
+	name = "Madanapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190020
+	11100.1.1 = {
+		birth = yes
+	}
+	11161.1.1 = {
+		death = yes
+	}
+}
+190024 = {
+	name = "Govindapala"
+	dynasty = 1043000
+	religion = "mahayana"
+	culture = "bengali"
+	father = 190023
+	11122.1.1 = {
+		birth = yes
+	}
+	11174.1.1 = {
+		death = yes
+	}
+}
+190050 = {
+	name = "Rudoka" #Placeholder name
+	dynasty = 1044001
+	religion = "shaivism"
+	culture = "bengali"
+	11009.1.1 = {
+		birth = yes
+	}
+	11060.1.1 = {
+		death = yes
+	}
+}
+190051 = {
+	name = "Divya"
+	dynasty = 1044001
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190050
+	trait=ambitious
+	trait = education_martial_4
+	11031.1.1 = {
+		birth = yes
+	}
+	11076.1.1 = {
+		death = yes
+	}
+}
+190052 = {
+	name = "Rudoka"
+	dynasty = 1044001
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190050
+	11034.1.1 = {
+		birth = yes
+	}
+	11078.1.1 = {
+		death = yes
+	}
+}
+190053 = {
+	name = "Bhima"
+	dynasty = 1044001
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190052
+	11056.1.1 = {
+		birth = yes
+	}
+	11115.1.1 = {
+		death = yes
+	}
+}
+190035 = {
+	name = "Kula_Devi" #Wife of Brahmapala Bhauma
+	female = yes
+	religion = "shaivism"
+	culture = "bengali"
+	10886.1.1 = {
+		birth = yes
+	}
+	10924.1.1 = {
+		death = yes
+	}
+}
+190036 = {
+	name = "Durlabha" #wife of Ratnapala Bhauma
+	female = yes
+	religion = "shaivism"
+	culture = "bengali"
+	10902.1.1 = {
+		birth = yes
+	}
+	10963.1.1 = {
+		death = yes
+	}
+}
+190037 = {
+	name = "Rajya_Devi" #wife of Indrapala Bhauma
+	female = yes
+	religion = "shaivism"
+	culture = "bengali"
+	10948.1.1 = {
+		birth = yes
+	}
+	10989.1.1 = {
+		death = yes
+	}
+}
+190038 = {
+	name = "Nayana" #wife of Gopala Bhauma
+	female = yes
+	religion = "shaivism"
+	culture = "bengali"
+	10974.1.1 = {
+		birth = yes
+	}
+	11029.1.1 = {
+		death = yes
+	}
+}
+190029 = {
+	name = "Timgyadeva"
+	dynasty = 1044002
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190082
+	11075.1.1 = {
+		birth = yes
+	}
+	11126.1.1 = {
+		death = yes
+	}
+}
+190030 = {
+	name = "Vaidyadeva"
+	dynasty = 1044002
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190029
+	11097.1.1 = {
+		birth = yes
+	}
+	11144.1.1 = {
+		death = yes
+	}
+}
+190031 = {
+	name = "Rayarideva"
+	dynasty = 1044002
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190030
+	11117.1.1 = {
+		birth = yes
+	}
+	11152.1.1 = {
+		death = yes
+	}
+}
+190032 = {
+	name = "Udayakarna"
+	dynasty = 1044002
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190031
+	11138.1.1 = {
+		birth = yes
+	}
+	11176.1.1 = {
+		death = yes
+	}
+}
+190033 = {
+	name = "Vallabhadeva"
+	dynasty = 1044002
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190032
+	11158.1.1 = {
+		birth = yes
+	}
+	11195.1.1 = {
+		death = yes
+	}
+}
+190034 = {
+	name = "Vishvasundaradeva"
+	dynasty = 1044002
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190033
+	11182.1.1 = {
+		birth = yes
+	}
+	11228.1.1 = {
+		death = yes
+	}
+}
+190067 = {
+	name = "Subarnachandra"
+	dynasty = 1044006
+	religion = "vajrayana"
+	culture = "bengali"
+	10843.1.1 = {
+		birth = yes
+	}
+	10900.1.1 = {
+		death = yes
+	}
+}
+190068 = {
+	name = "Traillokyachandra"#goes independent
+	dynasty = 1044006
+	religion = "vajrayana"
+	culture = "bengali"
+	father = 190067
+	10866.1.1 = {
+		birth = yes
+	}
+	10931.1.1 = {
+		death = yes
+	}
+}
+190069 = {
+	name = "Srichandra"#conquers Samatata
+	dynasty = 1044006
+	religion = "vajrayana"
+	culture = "bengali"
+	father = 190068
+	10916.1.1 = {
+		birth = yes
+	}
+	10975.1.1 = {
+		death = yes
+	}
+}
+190070 = {
+	name = "Kalyanachandra"#expands vs Kamboja
+	dynasty = 1044006
+	religion = "vajrayana"
+	culture = "bengali"
+	father = 190069
+	10952.1.1 = {
+		birth = yes
+	}
+	10998.1.1 = {
+		death = yes
+	}
+}
+190071 = {
+	name = "Ladahachandra"#realm stable
+	dynasty = 1044006
+	religion = "vajrayana"
+	culture = "bengali"
+	father = 190070
+	10978.1.1 = {
+		birth = yes
+	}
+	11020.1.1 = {
+		death = yes
+	}
+}
+190072 = {
+	name = "Govindachandra"#overthrown by Varmans
+	dynasty = 1044006
+	religion = "vajrayana"
+	culture = "bengali"
+	father = 190071
+	11007.1.1 = {
+		birth = yes
+	}
+	11052.1.1 = {
+		death = yes
+	}
+}
+190073 = {
+	name = "Jatavarman"
+	dynasty = 1044007
+	religion = "vaishnavism"
+	culture = "bengali"
+	11013.1.1 = {
+		birth = yes
+	}
+	11067.1.1 = {
+		death = yes
+	}
+}
+190074 = {
+	name = "Harivarman"
+	dynasty = 1044007
+	religion = "vaishnavism"
+	culture = "bengali"
+	father = 190073
+	11031.1.1 = {
+		birth = yes
+	}
+	11097.1.1 = {
+		death = yes
+	}
+}
+190049 = {
+	name = "Samalavarman"
+	dynasty = 1044007
+	religion = "vaishnavism"
+	culture = "bengali"
+	father = 190074
+	11053.1.1 = {
+		birth = yes
+	}
+	11124.1.1 = {
+		death = yes
+	}
+}
+190083 = {
+	name = "Bhojavarman"
+	dynasty = 1044007
+	religion = "vaishnavism"
+	culture = "bengali"
+	father = 190049
+	11097.1.1 = {
+		birth = yes
+	}
+	11150.1.1 = {
+		death = yes
+	}
+}
+190084 = {
+	name = "Shantideva"
+	dynasty = 1044008
+	religion = "shaivism"
+	culture = "bengali"
+	10703.1.1 = {
+		birth = yes
+	}
+	10750.1.1 = {
+		death = yes
+	}
+}
+190085 = {
+	name = "Viradeva"
+	dynasty = 1044008
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190084
+	10743.1.1 = {
+		birth = yes
+	}
+	10802.1.1 = {
+		death = yes
+	}
+}
+190086 = {
+	name = "Ananadeva"
+	dynasty = 1044008
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190085
+	10786.1.1 = {
+		birth = yes
+	}
+	10841.1.1 = {
+		death = yes
+	}
+}
+190087 = {
+	name = "Bhavadeva"
+	dynasty = 1044008
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190086
+	10823.1.1 = {
+		birth = yes
+	}
+	10870.1.1 = {
+		death = yes
+	}
+}
+190088 = {
+	name = "Kantideva"
+	dynasty = 1044009
+	religion = "shaivism"
+	culture = "bengali"
+	10847.1.1 = {
+		birth = yes
+	}
+	10900.1.1 = {
+		death = yes
+	}
+}
+190089 = {
+	name = "Rajyapala"
+	dynasty = 1044010
+	religion = "shaivism"
+	culture = "bengali"
+	10934.1.1 = {
+		birth = yes
+	}
+	10960.1.1 = {
+		add_spouse = 191151
+	}
+	10990.1.1 = {
+		death = yes
+	}
+}
+190090 = {
+	name = "Narayanapala"
+	dynasty = 1044010
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190089
+	mother = 191151
+	10970.1.1 = {
+		birth = yes
+	}
+	11002.1.1 = {
+		death = yes
+	}
+}
+190091 = {
+	name = "Nayapala"
+	dynasty = 1044010
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190089
+	mother = 191151
+	10972.1.1 = {
+		birth = yes
+	}
+	11054.1.1 = {
+		death = yes
+	}
+}
+190092 = {
+	name = "Gaudapati"
+	dynasty = 1044010
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190091
+	11010.1.1 = {
+		birth = yes
+	}
+	11090.1.1 = {
+		death = yes
+	}
+}
+
+154000 = {
+	name = "Samanta"
+	dynasty = 1026500
+	religion = "shaivism"
+	culture = "bengali"
+	trait=ambitious
+	trait = education_martial_4
+	11020.1.1 = {
+		birth = yes
+	}
+	11071.1.1 = {
+		death = yes
+	}
+}
+
+154001 = {
+	name = "Hemanta"
+	dynasty = 1026500
+	religion = "shaivism"
+	culture = "bengali"
+	father = 154000
+	11050.1.1 = {
+		birth = yes
+	}
+	11097.1.1 = {
+		death = yes
+	}
+}
+
+154002 = {
+	name = "Vijay"
+	dynasty = 1026500
+	religion = "shaivism"
+	culture = "bengali"
+	father = 154001
+	11080.1.1 = {
+		birth = yes
+	}
+	11100.1.1 = {
+		add_spouse = 154003
+	}
+	11159.1.1 = {
+		death = yes
+	}
+}
+
+154003 = {
+	name = "Vilasdevi"
+	dynasty = 1026501
+	female = yes
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191073
+	11082.1.1 = {
+		birth = yes
+	}
+	11150.1.1 = {
+		death = yes
+	}
+}
+191545 = {
+	name = "Madhusena"
+	dynasty = 1026500	#Relation to real Senas questionable, see for instance religion
+	religion = "mahayana"
+	culture = "bengali"
+	father = 154007
+	11210.1.1 = {
+		birth = yes
+	}
+	11285.1.1 = {
+		death = yes
+	}
+}
+154004 = {
+	name = "Valla"
+	dynasty = 1026500
+	religion = "shaivism"
+	culture = "bengali"
+	trait = brave
+	father = 154002
+	mother = 154003
+	11100.1.1 = {
+		birth = yes
+	}
+	11116.1.1 = {
+	}
+	11179.1.1 = {
+		death = yes
+	}
+}
+
+154005 = {
+	name = "Laksmana"
+	dynasty = 1026500
+	religion = "vaishnavism" # "show that Lakshmanasena become a devout Vaishnava although his predecessors were Saivas.""
+	culture = "bengali"
+	father = 154004
+	11119.1.1 = {
+		birth = yes # "Lakshmanasena, son of Vallalasena and Ramadevi, succeeded his father about 1179 A.D. He must have been fairly old at this time, being about sixty according to Tabaqat-i-Nasiri"
+	}
+	11206.1.1 = {
+		death = yes
+	}
+}
+
+154006 = {
+	name = "Visvarupa"
+	dynasty = 1026500
+	religion = "saura" # "The epithet ‘Saura,’ applied to these kings seems to indicate that they were sun-worshippers."
+	culture = "bengali"
+	father = 154005
+	11160.1.1 = {
+		birth = yes
+	}
+	11225.1.1 = {
+		death = yes
+	}
+}
+
+154007 = {
+	name = "Kesava"
+	dynasty = 1026500
+	religion = "shaivism"
+	culture = "bengali"
+	father = 154006
+	11190.1.1 = {
+		birth = yes
+	}
+	11230.1.1 = {
+		death = yes
+	}
+}
+
+190095 = {
+	name = "Jarasandha" #Random ruler of varendra
+	dynasty = 1044011
+	religion = "shaivism"
+	culture = "bengali"
+	10840.1.1 = {
+		birth = yes
+	}
+	10891.1.1 = {
+		death = yes
+	}
+}
+190096 = {
+	name = "Sahadeva" #Son of Random ruler of varendra
+	dynasty = 1044011
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190095
+	10862.1.1 = {
+		birth = yes
+	}
+	10907.1.1 = {
+		death = yes
+	}
+}
+190097 = {
+	name = "Biswajit" #Father of Random ruler of nadia
+	dynasty = 1044012
+	religion = "shaivism"
+	culture = "bengali"
+	10807.1.1 = {
+		birth = yes
+	}
+	10852.1.1 = {
+		death = yes
+	}
+}
+190098 = {
+	name = "Satyajit" #Random ruler of nadia
+	dynasty = 1044012
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190097
+	10831.1.1 = {
+		birth = yes
+	}
+	10879.1.1 = {
+		death = yes
+	}
+}
+190099 = {
+	name = "Dharma" #Brother of Random ruler of nadia
+	dynasty = 1044012
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190097
+	10834.1.1 = {
+		birth = yes
+	}
+	10882.1.1 = {
+		death = yes
+	}
+}
+190100 = {
+	name = "Palaka" #Random ruler of suhma
+	dynasty = 1044013
+	religion = "shaivism"
+	culture = "bengali"
+	10834.1.1 = {
+		birth = yes
+	}
+	10887.1.1 = {
+		death = yes
+	}
+}
+190101 = {
+	name = "Ajaka" #Son of Random ruler of suhma
+	dynasty = 1044013
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190100
+	10857.1.1 = {
+		birth = yes
+	}
+	10902.1.1 = {
+		death = yes
+	}
+}
+190102 = {
+	name = "Pradyota" #Son of Random ruler of suhma
+	dynasty = 1044013
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190100
+	10859.1.1 = {
+		birth = yes
+	}
+	10872.1.1 = {
+		death = yes
+	}
+}
+190103 = {
+	name = "Ajatashatru" #Random ruler of tirabhukti
+	dynasty = 1044014
+	religion = "theravada"
+	culture = "bengali"
+	10828.1.1 = {
+		birth = yes
+	}
+	10870.1.1 = {
+		death = yes
+	}
+}
+190104 = {
+	name = "Udayin" #Son of Random ruler of tirabhukti
+	dynasty = 1044014
+	religion = "theravada"
+	culture = "bengali"
+	father = 190103
+	10847.1.1 = {
+		birth = yes
+	}
+	10882.1.1 = {
+		death = yes
+	}
+}
+190105 = {
+	name = "Bimbisara" #Grandson of Random ruler of tirabhukti
+	dynasty = 1044014
+	religion = "theravada"
+	culture = "bengali"
+	father = 190104
+	10866.1.1 = {
+		birth = yes
+	}
+	10912.1.1 = {
+		death = yes
+	}
+}
+190106 = {
+	name = "Senajit" #Random ruler of ratanpur
+	dynasty = 1044015
+	religion = "vajrayana"
+	culture = "bengali"
+	10834.1.1 = {
+		birth = yes
+	}
+	10890.1.1 = {
+		death = yes
+	}
+}
+190107 = {
+	name = "Kaivarta" #Random ruler of jharkand
+	dynasty = 1044016
+	religion = "shaivism"
+	culture = "bengali"
+	10840.1.1 = {
+		birth = yes
+	}
+	10887.1.1 = {
+		death = yes
+	}
+}
+190108 = {
+	name = "Bhutapala" #Son of Random ruler of jharkand
+	dynasty = 1044016
+	religion = "shaivism"
+	culture = "bengali"
+	father = 190107
+	10865.1.1 = {
+		birth = yes
+	}
+	10918.1.1 = {
+		death = yes
+	}
+}
+190109 = {
+	name = "Ladahachandra" #Random ruler of c jharkand and munda
+	dynasty = 1044017
+	religion = "vajrayana"
+	culture = "bengali"
+	10824.1.1 = {
+		birth = yes
+	}
+	10879.1.1 = {
+		death = yes
+	}
+}
+190114 = {
+	name = "Divapala" #fictional ancestor ruler of kamarupangara
+	dynasty = 1044000
+	religion = "shaivism"
+	culture = "bengali"
+	10842.1.1 = {
+		birth = yes
+	}
+	10895.1.1 = {
+		death = yes
+	}
+}
+190115 = {
+	name = "Ghosha" #Random ruler of para luhitya
+	dynasty = 1044020
+	religion = "shaivism"
+	culture = "bengali"
+	10837.1.1 = {
+		birth = yes
+	}
+	10884.1.1 = {
+		death = yes
+	}
+}
+
+190119 = {
+	name = "Rajabhata" #fictional ruler of tamalipti
+	dynasty = 1044024
+	religion = "mahayana"
+	culture = "bengali"
+	11032.1.1 = {
+		birth = yes
+	}
+	11091.1.1 = {
+		death = yes
+	}
+}
+190120 = {
+	name = "Skanda" #fictional ruler of srihatta
+	dynasty = 1044025
+	religion = "shaivism"
+	culture = "bengali"
+	11031.1.1 = {
+		birth = yes
+	}
+	11076.1.1 = {
+		death = yes
+	}
+}
+190121 = {
+	name = "Visvarupa"#actual governor of gaya
+	dynasty = 1044026
+	religion = "mahayana"
+	culture = "bengali"
+	11027.1.1 = {
+		birth = yes
+	}
+	11086.1.1 = {
+		death = yes
+	}
+}
+
+178007 = {
+	name = "Mahendrasingha" # Fictional
+	dynasty = 1041107
+	religion = "mahayana"
+	culture = "bengali"
+	10835.1.1 = {
+		birth = yes
+	}
+	10892.1.1 = {
+		death = yes
+	}
+}
+191062 = {
+	name = "Nanyadeva"
+	dynasty = 1044311	#Karnatas of Mithila
+	religion = "shaivism"
+	culture = "bengali"
+	11070.1.1 = {
+		birth = yes
+	}
+	11147.1.1 = {
+		death = yes
+	}
+}
+191063 = {
+	name = "Gangadeva"
+	dynasty = 1044311	#Karnatas of Mithila
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191062
+	11110.1.1 = {
+		birth = yes
+	}
+	11180.1.1 = {
+		death = yes
+	}
+}
+191064 = {
+	name = "Narsinhadeva"
+	dynasty = 1044311	#Karnatas of Mithila
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191063
+	11150.1.1 = {
+		birth = yes
+	}
+	11230.1.1 = {
+		death = yes
+	}
+}
+191065 = {
+	name = "Shakrasinhadeva"
+	dynasty = 1044311	#Karnatas of Mithila
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191064
+	11190.1.1 = {
+		birth = yes
+	}
+	11280.1.1 = {
+		death = yes
+	}
+}
+191066 = {
+	name = "Harisinhadeva"
+	dynasty = 1044311	#Karnatas of Mithila
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191065
+	11250.1.1 = {
+		birth = yes
+	}
+	11340.1.1 = {
+		death = yes
+	}
+}
+
+191067 = {
+	name = "Mathanadeva"
+	dynasty = 1044310	#Rashtrakuta
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191045
+	11025.1.1 = {
+		birth = yes
+	}
+	11100.1.1 = {
+		death = yes
+	}
+}
+
+191403 = {
+	name = "Sankaradevi"
+	dynasty = 1044310 # Rashtrakuta
+	female = yes
+	father = 191067
+	religion = "shaivism"
+	culture = "bengali"
+	11045.1.1 = {
+		birth = yes
+	}
+	11100.1.1 = {
+		death = yes
+	}
+}
+
+191068 = {
+	name = "Kahnuradeva"
+	dynasty = 1044310	#Rashtrakuta
+	religion = "kalikula_shaktism"
+	culture = "bengali"
+	father = 191067
+	11041.1.1 = {
+		birth = yes
+	}
+	11100.1.1 = {
+		death = yes
+	}
+}
+
+191069 = {
+	name = "Suvartadeva"
+	dynasty = 1044310	#Rashtrakuta
+	religion = "kalikula_shaktism"
+	culture = "bengali"
+	father = 191067
+	11042.1.1 = {
+		birth = yes
+	}
+	11100.1.1 = {
+		death = yes
+	}
+}
+
+
+191070 = {
+	name = "Vallabharaja"
+	dynasty = 1044312	#Chikore
+	religion = "mahayana"
+	culture = "bengali"
+	11000.1.1 = {
+		birth = yes
+	}
+	11077.1.1 = {
+		death = yes
+	}
+}
+
+191071 = {
+	name = "Devaraksita"
+	dynasty = 1044312	#Chikore
+	religion = "mahayana"
+	culture = "bengali"
+	father = 191070
+	11050.1.1 = {
+		birth = yes
+	}
+	11070.1.1 = {
+		add_spouse = 191403
+	}
+	11079.1.1 = {
+		death = yes
+	}
+}
+
+191404 = {
+	name = "Kumaradevi"
+	female = yes
+	dynasty = 1044312	#Chikore
+	religion = "mahayana"
+	culture = "bengali"
+	father = 191071
+	mother = 191403
+	11071.1.1 = {
+		birth = yes
+	}
+	11160.1.1 = {
+		death = yes
+	}
+}
+
+191072 = {
+	name = "Bhimayasa"
+	dynasty = 1044313	#Pihiti
+	religion = "mahayana"
+	culture = "bengali"
+	11040.1.1 = {
+		birth = yes
+	}
+	11114.1.1 = {
+		death = yes
+	}
+}
+
+191073 = {
+	name = "Jayasimha"
+	dynasty = 1044316	#Sura
+	father = 191160
+	religion = "mahayana"
+	culture = "bengali"
+	11030.1.1 = {
+		birth = yes
+	}
+	11110.1.1 = {
+		death = yes
+	}
+}
+
+191074 = {
+	name = "Vikramaraja"
+	dynasty = 1044315 #Bala-Vallabhi
+	religion = "vajrayana"
+	culture = "bengali"
+	11045.1.1 = {
+		birth = yes
+	}
+	11100.1.1 = {
+		death = yes
+	}
+}
+
+191075 = {
+	name = "Laksmsurra"
+	dynasty = 1044316 #Aparamandara
+	religion = "vajrayana"
+	culture = "bengali"
+	11022.1.1 = {
+		birth = yes
+	}
+	11090.1.1 = {
+		death = yes
+	}
+}
+
+191076 = {
+	name = "Rudrasikhara"
+	dynasty = 1044317 #Tailakampa
+	religion = "vajrayana"
+	culture = "bengali"
+	11045.1.1 = {
+		birth = yes
+	}
+	11120.1.1 = {
+		death = yes
+	}
+}
+
+191077 = {
+	name = "Govardhana"
+	dynasty = 1044318 #Kausambi
+	religion = "mahayana"
+	culture = "bengali"
+	11030.1.1 = {
+		birth = yes
+	}
+	11081.1.1 = {
+		death = yes
+	}
+}
+
+191078 = {
+	name = "Narasimharjjuna"
+	dynasty = 1044319 #Kayarigal
+	religion = "mahayana"
+	culture = "bengali"
+	11022.1.1 = {
+		birth = yes
+	}
+	11120.1.1 = {
+		death = yes
+	}
+}
+
+191421 = {
+	name = "Pasna"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "kalikula_shaktism"
+	culture = "bengali"
+	10730.1.1 = {
+		birth = yes
+	}
+	10780.1.1 = {
+		death = yes
+	}
+}
+
+191422 = {
+	name = "Kramaditya"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "kalikula_shaktism"
+	culture = "bengali"
+	father = 191421
+	10750.1.1 = {
+		birth = yes
+	}
+	10820.1.1 = {
+		death = yes
+	}
+}
+
+191423 = {
+	name = "Sugana"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "kalikula_shaktism"
+	culture = "bengali"
+	father = 191422
+	10780.1.1 = {
+		birth = yes
+	}
+	10860.1.1 = {
+		death = yes
+	}
+}
+
+191424 = {
+	name = "Komta"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "vaishnavism"
+	culture = "bengali"
+	father = 191423
+	10810.1.1 = {
+		birth = yes
+	}
+	10900.1.1 = {
+		death = yes
+	}
+}
+
+191425 = {
+	name = "Pasna"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "vaishnavism"
+	culture = "bengali"
+	father = 191424
+	10860.1.1 = {
+		birth = yes
+	}
+	10940.1.1 = {
+		death = yes
+	}
+}
+
+191426 = {
+	name = "Sugana"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "vaishnavism"
+	culture = "bengali"
+	father = 191425
+	10900.1.1 = {
+		birth = yes
+	}
+	10980.1.1 = {
+		death = yes
+	}
+}
+
+191427 = {
+	name = "Suryaditya"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "vaishnavism"
+	culture = "bengali"
+	father = 191426
+	10950.1.1 = {
+		birth = yes
+	}
+	11010.1.1 = {
+		death = yes
+	}
+}
+
+191428 = {
+	name = "Vikramaditya"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "vaishnavism"
+	culture = "bengali"
+	father = 191427
+	10970.1.1 = {
+		birth = yes
+	}
+	11040.1.1 = {
+		death = yes
+	}
+}
+
+191429 = {
+	name = "Kramaditya"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "vaishnavism"
+	culture = "bengali"
+	father = 191428
+	11000.1.1 = {
+		birth = yes
+	}
+	11063.1.1 = {
+		death = yes
+	}
+}
+
+191080 = {
+	name = "Sugana"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191428
+	11022.1.1 = {
+		birth = yes
+	}
+	11100.1.1 = {
+		death = yes
+	}
+}
+
+191081 = {
+	name = "Pasna"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191080
+	11080.1.1 = {
+		birth = yes
+	}
+	11150.1.1 = {
+		death = yes
+	}
+}
+
+191082 = {
+	name = "Komta"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191081
+	11120.1.1 = {
+		birth = yes
+	}
+	11180.1.1 = {
+		death = yes
+	}
+}
+
+191083 = {
+	name = "Birsa"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191082
+	11140.1.1 = {
+		birth = yes
+	}
+	11220.1.1 = {
+		death = yes
+	}
+}
+
+191084 = {
+	name = "Birsa"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191083
+	11190.1.1 = {
+		birth = yes
+	}
+	11260.1.1 = {
+		death = yes
+	}
+}
+
+191085 = {
+	name = "Komta"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191084
+	11240.1.1 = {
+		birth = yes
+	}
+	11300.1.1 = {
+		death = yes
+	}
+}
+
+191086 = {
+	name = "Sugana"	#Fictional
+	dynasty = 1044320 #Munda
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191084
+	11260.1.1 = {
+		birth = yes
+	}
+	11340.1.1 = {
+		death = yes
+	}
+}
+
+191087 = {
+	name = "Kanchani"	#Fictional name, real person
+	female = yes
+	dynasty = 1044310 #Rashtrakuta
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191045
+	11021.1.1 = {
+		birth = yes
+	}
+	11105.1.1 = {
+		death = yes
+	}
+}
+
+191088 = {
+	name = "Krisnagupta"
+	dynasty = 1044321 #(later) Gupta, years are guesses before Mahasenagupta
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	10460.1.1 = {
+		birth = yes
+	}
+	10500.1.1 = {
+		death = yes
+	}
+}
+
+191089 = {
+	name = "Harsagupta"
+	dynasty = 1044321 #Gupta
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191088
+	10480.1.1 = {
+		birth = yes
+	}
+	10530.1.1 = {
+		death = yes
+	}
+}
+
+191090 = {
+	name = "Jivatagupta"
+	dynasty = 1044321 #Gupta
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191089
+	10510.1.1 = {
+		birth = yes
+	}
+	10546.1.1 = {
+		death = yes
+	}
+}
+
+191091 = {
+	name = "Kumaragupta"
+	dynasty = 1044321 #Gupta
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191090
+	10530.1.1 = {
+		birth = yes
+	}
+	10580.1.1 = {
+		death = yes
+	}
+}
+
+191092 = {
+	name = "Damodaragupta"
+	dynasty = 1044321 #Gupta
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191091
+	10550.1.1 = {
+		birth = yes
+	}
+	10605.1.1 = {
+		death = yes
+	}
+}
+
+191093 = {
+	name = "Mahasenagupta"
+	dynasty = 1044321 #Gupta
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191092
+	10580.1.1 = {
+		birth = yes
+	}
+	10630.1.1 = {
+		death = yes
+	}
+}
+
+191094 = {
+	name = "Kumaragupta"
+	dynasty = 1044321 #Gupta
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191093
+	10600.1.1 = {
+		birth = yes
+	}
+	10650.1.1 = {
+		death = yes
+	}
+}
+
+191095 = {
+	name = "Madhavagupta"
+	dynasty = 1044321 #Gupta
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191093
+	10610.1.1 = {
+		birth = yes
+	}
+	10672.1.1 = {
+		death = yes
+	}
+}
+
+191096 = {
+	name = "Adityasenagupta"
+	dynasty = 1044321 #Gupta
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191095
+	10630.1.1 = {
+		birth = yes
+	}
+	10685.1.1 = {
+		death = yes
+	}
+}
+
+191097 = {
+	name = "Devagupta"
+	dynasty = 1044321 #Gupta
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191096
+	10650.1.1 = {
+		birth = yes
+	}
+	10690.1.1 = {
+		death = yes
+	}
+}
+
+191098 = {
+	name = "Visnugupta"
+	dynasty = 1044321 #Gupta
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191097
+	10670.1.1 = {
+		birth = yes
+	}
+	10710.1.1 = {
+		death = yes
+	}
+}
+
+191099 = {
+	name = "Jivatagupta"	#II
+	dynasty = 1044321 #Gupta
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191098
+	10690.1.1 = {
+		birth = yes
+	}
+	10727.1.1 = {
+		death = yes
+	}
+}
+
+191303 = {
+	name = "Ramagupta"	#last of the later Guptas, said to have taken control over northern Bihar after Jivatagupta was killed by Yashorvarman of Kannauj.
+	dynasty = 1044321 #Gupta
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191099
+	10720.1.1 = {
+		birth = yes
+	}
+	10800.1.1 = {
+		death = yes
+	}
+}
+
+191100 = {
+	name = "Khadgodyama"
+	dynasty = 1044322 #Khadga
+	religion = "vajrayana"
+	culture = "bengali"
+	10625.1.1 = {
+		birth = yes
+	}
+	10675.1.1 = {
+		death = yes
+	}
+}
+
+191101 = {
+	name = "Jatakhadga"
+	dynasty = 1044322 #Khadga
+	religion = "vajrayana"
+	culture = "bengali"
+	father = 191100
+	10642.1.1 = {
+		birth = yes
+	}
+	10700.1.1 = {
+		death = yes
+	}
+}
+
+191102 = {
+	name = "Devakhadga"
+	dynasty = 1044322 #Khadga
+	religion = "vajrayana"
+	culture = "bengali"
+	father = 191101
+	10680.1.1 = {
+		birth = yes
+	}
+	10730.1.1 = {
+		death = yes
+	}
+}
+
+191103 = {
+	name = "Rajarabhata"
+	dynasty = 1044322 #Khadga
+	religion = "vajrayana"
+	culture = "bengali"
+	father = 191102
+	10700.1.1 = {
+		birth = yes
+	}
+	10755.1.1 = {
+		death = yes
+	}
+}
+
+191104 = {
+	name = "Balabhata"
+	dynasty = 1044322 #Khadga
+	religion = "vajrayana"
+	culture = "bengali"
+	father = 191103
+	10720.1.1 = {
+		birth = yes
+	}
+	10760.1.1 = {
+		death = yes
+	}
+}
+
+191105 = {
+	name = "Lokhanata"
+	dynasty = 1044323 #Visayapati
+	religion = "vajrayana"
+	culture = "bengali"
+	10730.1.1 = {
+		birth = yes
+	}
+	10780.1.1 = {
+		death = yes
+	}
+}
+
+191106 = {
+	name = "Adi"
+	dynasty = 1044324 #Malla
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	10630.1.1 = {
+		birth = yes
+	}
+	10710.1.1 = {
+		death = yes
+	}
+}
+
+191107 = {
+	name = "Jai"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191106
+	10650.1.1 = {
+		birth = yes
+	}
+	10720.1.1 = {
+		death = yes
+	}
+}
+
+191108 = {
+	name = "Benu"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191106
+	10655.1.1 = {
+		birth = yes
+	}
+	10733.1.1 = {
+		death = yes
+	}
+}
+
+191109 = {
+	name = "Kinu"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191106
+	10660.1.1 = {
+		birth = yes
+	}
+	10742.1.1 = {
+		death = yes
+	}
+}
+
+191110 = {
+	name = "Indra"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191109
+	10680.1.1 = {
+		birth = yes
+	}
+	10757.1.1 = {
+		death = yes
+	}
+}
+
+191111 = {
+	name = "Kau"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191109
+	10681.1.1 = {
+		birth = yes
+	}
+	10764.1.1 = {
+		death = yes
+	}
+}
+
+191112 = {
+	name = "Jhau"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191111
+	10720.1.1 = {
+		birth = yes
+	}
+	10775.1.1 = {
+		death = yes
+	}
+}
+
+191113 = {
+	name = "Shur"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191112
+	10750.1.1 = {
+		birth = yes
+	}
+	10795.1.1 = {
+		death = yes
+	}
+}
+
+191114 = {
+	name = "Kanak"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191112
+	10751.1.1 = {
+		birth = yes
+	}
+	10807.1.1 = {
+		death = yes
+	}
+}
+
+191115 = {
+	name = "Kandarpa"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191114
+	10771.1.1 = {
+		birth = yes
+	}
+	10828.1.1 = {
+		death = yes
+	}
+}
+
+191116 = {
+	name = "Sanatan"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191115
+	10800.1.1 = {
+		birth = yes
+	}
+	10841.1.1 = {
+		death = yes
+	}
+}
+
+191117 = {
+	name = "Kharga"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191115
+	10801.1.1 = {
+		birth = yes
+	}
+	10862.1.1 = {
+		death = yes
+	}
+}
+
+191118 = {
+	name = "Durjay"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191117
+	10830.1.1 = {
+		birth = yes
+	}
+	10906.1.1 = {
+		death = yes
+	}
+}
+
+191119 = {
+	name = "Yadav"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191118
+	10850.1.1 = {
+		birth = yes
+	}
+	10919.1.1 = {
+		death = yes
+	}
+}
+
+191120 = {
+	name = "Jagat"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191118
+	10851.1.1 = {
+		birth = yes
+	}
+	10931.1.1 = {
+		death = yes
+	}
+}
+
+191121 = {
+	name = "Birat"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191120
+	10900.1.1 = {
+		birth = yes
+	}
+	10946.1.1 = {
+		death = yes
+	}
+}
+
+191122 = {
+	name = "Mahadev"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191121
+	10925.1.1 = {
+		birth = yes
+	}
+	10977.1.1 = {
+		death = yes
+	}
+}
+
+191123 = {
+	name = "Durgadas"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191122
+	10950.1.1 = {
+		birth = yes
+	}
+	10994.1.1 = {
+		death = yes
+	}
+}
+
+191124 = {
+	name = "Jagat"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191122
+	10960.1.1 = {
+		birth = yes
+	}
+	11007.1.1 = {
+		death = yes
+	}
+}
+
+191125 = {
+	name = "Ananta"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191124
+	10980.1.1 = {
+		birth = yes
+	}
+	11015.1.1 = {
+		death = yes
+	}
+}
+
+191126 = {
+	name = "Rup"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191124
+	10981.1.1 = {
+		birth = yes
+	}
+	11029.1.1 = {
+		death = yes
+	}
+}
+
+191127 = {
+	name = "Sundar"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191126
+	11001.1.1 = {
+		birth = yes
+	}
+	11053.1.1 = {
+		death = yes
+	}
+}
+
+191128 = {
+	name = "Kumud"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191127
+	11030.1.1 = {
+		birth = yes
+	}
+	11074.1.1 = {
+		death = yes
+	}
+}
+
+191129 = {
+	name = "Krishna"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191127
+	11031.1.1 = {
+		birth = yes
+	}
+	11084.1.1 = {
+		death = yes
+	}
+}
+
+191130 = {
+	name = "Rup"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191129
+	11050.1.1 = {
+		birth = yes
+	}
+	11097.1.1 = {
+		death = yes
+	}
+}
+
+191131 = {
+	name = "Prakash"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191130
+	11070.1.1 = {
+		birth = yes
+	}
+	11102.1.1 = {
+		death = yes
+	}
+}
+
+191132 = {
+	name = "Pratap"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191130
+	11071.1.1 = {
+		birth = yes
+	}
+	11113.1.1 = {
+		death = yes
+	}
+}
+
+191133 = {
+	name = "Sindur"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191130
+	11072.1.1 = {
+		birth = yes
+	}
+	11129.1.1 = {
+		death = yes
+	}
+}
+
+191134 = {
+	name = "Shuk"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191133
+	11100.1.1 = {
+		birth = yes
+	}
+	11142.1.1 = {
+		death = yes
+	}
+}
+
+191135 = {
+	name = "Banamali"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191133
+	11105.1.1 = {
+		birth = yes
+	}
+	11156.1.1 = {
+		death = yes
+	}
+}
+
+191136 = {
+	name = "Jadu"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191135
+	11130.1.1 = {
+		birth = yes
+	}
+	11167.1.1 = {
+		death = yes
+	}
+}
+
+191137 = {
+	name = "Jiban"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191136
+	11150.1.1 = {
+		birth = yes
+	}
+	11185.1.1 = {
+		death = yes
+	}
+}
+
+191138 = {
+	name = "Ram"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191136
+	11152.1.1 = {
+		birth = yes
+	}
+	11209.1.1 = {
+		death = yes
+	}
+}
+
+191139 = {
+	name = "Gobinda"
+	dynasty = 1044324 #Malla
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191138
+	11180.1.1 = {
+		birth = yes
+	}
+	11240.1.1 = {
+		death = yes
+	}
+}
+
+191140 = {
+	name = "Bhim"
+	dynasty = 1044324 #Malla
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191139
+	11200.1.1 = {
+		birth = yes
+	}
+	11263.1.1 = {
+		death = yes
+	}
+}
+
+191141 = {
+	name = "Katar"
+	dynasty = 1044324 #Malla
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191140
+	11220.1.1 = {
+		birth = yes
+	}
+	11295.1.1 = {
+		death = yes
+	}
+}
+
+191142 = {
+	name = "Prithvi"
+	dynasty = 1044324 #Malla
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191141
+	11240.1.1 = {
+		birth = yes
+	}
+	11319.1.1 = {
+		death = yes
+	}
+}
+
+191143 = {
+	name = "Tapa"
+	dynasty = 1044324 #Malla
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191142
+	11260.1.1 = {
+		birth = yes
+	}
+	11334.1.1 = {
+		death = yes
+	}
+}
+
+191144 = {
+	name = "Dinabandhu"
+	dynasty = 1044324 #Malla
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191143
+	11280.1.1 = {
+		birth = yes
+	}
+	11345.1.1 = {
+		death = yes
+	}
+}
+
+191145 = {
+	name = "Kinu"
+	dynasty = 1044324 #Malla
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191144
+	11300.1.1 = {
+		birth = yes
+	}
+	11358.1.1 = {
+		death = yes
+	}
+}
+
+191146 = {
+	name = "Shur"
+	dynasty = 1044324 #Malla
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191145
+	11320.1.1 = {
+		birth = yes
+	}
+	11370.1.1 = {
+		death = yes
+	}
+}
+
+191147 = {
+	name = "Shiv_Singh"
+	dynasty = 1044324 #Malla
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191146
+	11340.1.1 = {
+		birth = yes
+	}
+	11407.1.1 = {
+		death = yes
+	}
+}
+
+191148 = {
+	name = "Madan"
+	dynasty = 1044324 #Malla
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191147
+	11360.1.1 = {
+		birth = yes
+	}
+	11420.1.1 = {
+		death = yes
+	}
+}
+
+191149 = {
+	name = "Durjay"
+	dynasty = 1044324 #Malla
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191148
+	11380.1.1 = {
+		birth = yes
+	}
+	11437.1.1 = {
+		death = yes
+	}
+}
+
+191150 = {
+	name = "Uday"
+	dynasty = 1044324 #Malla
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	father = 191149
+	11400.1.1 = {
+		birth = yes
+	}
+	11460.1.1 = {
+		death = yes
+	}
+}
+
+191151 = {
+	name = "Bagyadevi"
+	female = yes
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	10940.1.1 = {
+		birth = yes
+	}
+	11000.1.1 = {
+		death = yes
+	}
+}
+
+191152 = {
+	name = "Adnata"
+	dynasty = 1044316 # Sura
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	10730.1.1 = {
+		birth = yes
+	}
+	10800.1.1 = {
+		death = yes
+	}
+}
+
+191153 = {
+	name = "Bhusura"
+	dynasty = 1044316 # Sura
+	father = 191152
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	10760.1.1 = {
+		birth = yes
+	}
+	10850.1.1 = {
+		death = yes
+	}
+}
+
+191154 = {
+	name = "Madhavasura"
+	dynasty = 1044316 # Sura
+	father = 191153
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	10781.1.1 = {
+		birth = yes
+	}
+	10880.1.1 = {
+		death = yes
+	}
+}
+
+191155 = {
+	name = "Adityasura"
+	dynasty = 1044316 # Sura
+	father = 191154
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	10820.1.1 = {
+		birth = yes
+	}
+	10900.1.1 = {
+		death = yes
+	}
+}
+
+191156 = {
+	name = "Yaminisura"
+	dynasty = 1044316 # Sura
+	father = 191155
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	10860.1.1 = {
+		birth = yes
+	}
+	10940.1.1 = {
+		death = yes
+	}
+}
+
+191157 = {
+	name = "Varendrasura"
+	dynasty = 1044316 # Sura
+	father = 191156
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	10890.1.1 = {
+		birth = yes
+	}
+	10980.1.1 = {
+		death = yes
+	}
+}
+
+191158 = {
+	name = "Anusura"
+	dynasty = 1044316 # Sura
+	father = 191157
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	10950.1.1 = {
+		birth = yes
+	}
+	11020.1.1 = {
+		death = yes
+	}
+}
+
+191159 = {
+	name = "Bhanusura"
+	dynasty = 1044316 # Sura
+	father = 191158
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	10980.1.1 = {
+		birth = yes
+	}
+	11040.1.1 = {
+		death = yes
+	}
+}
+
+191160 = {
+	name = "Ranasura"
+	dynasty = 1044316 # Sura
+	father = 191159
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	11000.1.1 = {
+		birth = yes
+	}
+	11060.1.1 = {
+		death = yes
+	}
+}
+
+191161 = {
+	name = "Acaraya_Devasena"
+	dynasty = 1044330 # Sena of Pithi
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	11100.1.1 = {
+		birth = yes
+	}
+	#Known to have ruled in 1157
+	11180.1.1 = {
+		death = yes
+	}
+}
+
+191162 = {
+	name = "Buddhasena"
+	dynasty = 1044330 # Sena of Pithi
+	father = 191161
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	11160.1.1 = {
+		birth = yes
+	}
+	#Known to have ruled in 1235
+	11250.1.1 = {
+		death = yes
+	}
+}
+
+191163 = {
+	name = "Jayasena"
+	dynasty = 1044330 # Sena of Pithi
+	father = 191162
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	11225.1.1 = {
+		birth = yes
+	}
+	#Known to have ruled in 1283
+	11300.1.1 = {
+		death = yes
+	}
+}
+
+191510 = {
+	name = "Pandita"	#Fictional
+	dynasty = 1044331
+	religion = "mahayana"
+	culture = "bengali"
+	10700.1.1 = {
+		birth = yes
+	}
+	10780.1.1 = {
+		death = yes
+	}
+}
+
+191511 = {
+	name = "Ranaka"	#Fictional
+	dynasty = 1044331
+	religion = "mahayana"
+	culture = "bengali"
+	father = 191510
+	10760.1.1 = {
+		birth = yes
+	}
+	10820.1.1 = {
+		death = yes
+	}
+}
+
+191512 = {
+	name = "Mandalika"	#Fictional
+	dynasty = 1044331
+	religion = "mahayana"
+	culture = "bengali"
+	father = 191511
+	10780.1.1 = {
+		birth = yes
+	}
+	10860.1.1 = {
+		death = yes
+	}
+}
+
+191513 = {
+	name = "Sadhanika"	#Fictional
+	dynasty = 1044331
+	religion = "mahayana"
+	culture = "bengali"
+	father = 191512
+	10800.1.1 = {
+		birth = yes
+	}
+	10890.1.1 = {
+		death = yes
+	}
+}
+
+191514 = {
+	name = "Pandita"	#Fictional
+	dynasty = 1044331
+	religion = "mahayana"
+	culture = "bengali"
+	father = 191513
+	10840.1.1 = {
+		birth = yes
+	}
+	10930.1.1 = {
+		death = yes
+	}
+}
+
+191515 = {
+	name = "Ranaka"	#Fictional
+	dynasty = 1044331
+	religion = "mahayana"
+	culture = "bengali"
+	father = 191514
+	10880.1.1 = {
+		birth = yes
+	}
+	10970.1.1 = {
+		death = yes
+	}
+}
+
+191516 = {
+	name = "Sadhanika"	#Fictional
+	dynasty = 1044331
+	religion = "mahayana"
+	culture = "bengali"
+	father = 191515
+	10940.1.1 = {
+		birth = yes
+	}
+	11000.1.1 = {
+		death = yes
+	}
+}
+
+191517 = {
+	name = "Mandalika"	#Fictional
+	dynasty = 1044331
+	religion = "mahayana"
+	culture = "bengali"
+	father = 191516
+	10960.1.1 = {
+		birth = yes
+	}
+	11040.1.1 = {
+		death = yes
+	}
+}
+
+191164 = {
+	name = "Sadhanika"	#Fictional
+	dynasty = 1044331
+	religion = "mahayana"
+	culture = "bengali"
+	father = 191517
+	11035.1.1 = {
+		birth = yes
+	}
+	11130.1.1 = {
+		death = yes
+	}
+}
+
+191165 = {
+	name = "Ranaka"	#Fictional
+	dynasty = 1044331
+	father = 191164
+	religion = "mahayana"
+	culture = "bengali"
+	11110.1.1 = {
+		birth = yes
+	}
+	11180.1.1 = {
+		death = yes
+	}
+}
+
+191166 = {
+	name = "Rahulasribhadra"	#Fictional
+	dynasty = 1044331
+	father = 191165
+	religion = "mahayana"
+	culture = "bengali"
+	11144.1.1 = {
+		birth = yes
+	}
+	11240.1.1 = {
+		death = yes
+	}
+}
+
+191167 = {
+	name = "Mandalika"	#Fictional
+	dynasty = 1044331
+	religion = "mahayana"
+	father = 191166
+	culture = "bengali"
+	11200.1.1 = {
+		birth = yes
+	}
+	11290.1.1 = {
+		death = yes
+	}
+}
+
+191168 = {
+	name = "Pandita"	#Fictional
+	dynasty = 1044331
+	religion = "mahayana"
+	father = 191167
+	culture = "bengali"
+	11260.1.1 = {
+		birth = yes
+	}
+	11340.1.1 = {
+		death = yes
+	}
+}
+
+191301 = {
+	name = "Dedadevi"
+	female = yes
+	religion = "mahayana"
+	culture = "bengali"
+	10730.1.1 = {
+		birth = yes
+	}
+	10800.1.1 = {
+		death = yes
+	}
+}
+
+191389 = {
+	name = "Kadirapala"
+	dynasty = 1044343 # Khayarwala
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	11090.1.1 = {
+		birth = yes
+	}
+	11168.1.1 = {
+		death = yes
+	}
+}
+
+191390 = {
+	name = "Pratapadhawala"
+	dynasty = 1044343 # Khayarwala
+	father = 191389
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	11120.1.1 = {
+		birth = yes
+	}
+	11185.1.1 = {
+		death = yes
+	}
+}
+
+191391 = {
+	name = "Sahasadhawala"
+	dynasty = 1044343 # Khayarwala
+	father = 191390
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	11140.1.1 = {
+		birth = yes
+	}
+	11200.1.1 = {
+		death = yes
+	}
+}
+
+191392 = {
+	name = "Indradhawala"
+	dynasty = 1044343 # Khayarwala
+	father = 191391
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	11180.1.1 = {
+		birth = yes
+	}
+	11240.1.1 = {
+		death = yes
+	}
+}
+
+191397 = {
+	name = "Yajnesagupta"
+	dynasty = 1044345 # Minor Guptas
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	11050.1.1 = {
+		birth = yes
+	}
+	11120.1.1 = {
+		death = yes
+	}
+}
+
+191398 = {
+	name = "Damodargupta"
+	dynasty = 1044345 # Minor Guptas
+	father = 191397
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	11070.1.1 = {
+		birth = yes
+	}
+	11140.1.1 = {
+		death = yes
+	}
+}
+
+191399 = {
+	name = "Devagupta"
+	dynasty = 1044345 # Minor Guptas
+	father = 191398
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	11090.1.1 = {
+		birth = yes
+	}
+	11147.1.1 = {
+		death = yes
+	}
+}
+
+191400 = {
+	name = "Rajadityagupta"
+	dynasty = 1044345 # Minor Guptas
+	father = 191399
+	religion = "srikula_shaktism"
+	culture = "bengali"
+	11110.1.1 = {
+		birth = yes
+	}
+	11160.1.1 = {
+		death = yes
+	}
+}
+
+191401 = {
+	name = "Krishnagupta"
+	dynasty = 1044345 # Minor Guptas
+	father = 191400
+	religion = "kalikula_shaktism"
+	culture = "bengali"
+	11130.1.1 = {
+		birth = yes
+	}
+	11180.1.1 = {
+		death = yes
+	}
+}
+
+191402 = {
+	name = "Samgramagupta"
+	dynasty = 1044345 # Minor Guptas
+	father = 191401
+	religion = "shaivism"
+	culture = "bengali"
+	11150.1.1 = {
+		birth = yes
+	}
+	11230.1.1 = {
+		death = yes
+	}
+}
+
+191405 = {
+	name = "Varnamana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	10740.1.1 = {
+		birth = yes
+	}
+	10800.1.1 = {
+		death = yes
+	}
+}
+
+191406 = {
+	name = "Udayamana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191405
+	10780.1.1 = {
+		birth = yes
+	}
+	10840.1.1 = {
+		death = yes
+	}
+}
+
+191407 = {
+	name = "Simhamana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191406
+	10820.1.1 = {
+		birth = yes
+	}
+	10900.1.1 = {
+		death = yes
+	}
+}
+
+191408 = {
+	name = "Rudramana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191407
+	10860.1.1 = {
+		birth = yes
+	}
+	10950.1.1 = {
+		death = yes
+	}
+}
+
+191409 = {
+	name = "Varnamana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191408
+	10930.1.1 = {
+		birth = yes
+	}
+	10990.1.1 = {
+		death = yes
+	}
+}
+
+191410 = {
+	name = "Udayamana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191409
+	10970.1.1 = {
+		birth = yes
+	}
+	11000.1.1 = {
+		death = yes
+	}
+}
+
+191411 = {
+	name = "Varnamana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191410
+	10990.1.1 = {
+		birth = yes
+	}
+	11054.1.1 = {
+		death = yes
+	}
+}
+
+191413 = {
+	name = "Rudramana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191411
+	11050.1.1 = {
+		birth = yes
+	}
+	11130.1.1 = {
+		death = yes
+	}
+}
+
+191414 = {
+	name = "Udayamana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191413
+	11090.1.1 = {
+		birth = yes
+	}
+	11150.1.1 = {
+		death = yes
+	}
+}
+
+191415 = {
+	name = "Rudramana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191414
+	11130.1.1 = {
+		birth = yes
+	}
+	11180.1.1 = {
+		death = yes
+	}
+}
+
+191416 = {
+	name = "Varnamana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191415
+	11160.1.1 = {
+		birth = yes
+	}
+	11200.1.1 = {
+		death = yes
+	}
+}
+
+191417 = {
+	name = "Udayamana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191416
+	11180.1.1 = {
+		birth = yes
+	}
+	11240.1.1 = {
+		death = yes
+	}
+}
+
+191418 = {
+	name = "Varnamana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191417
+	11220.1.1 = {
+		birth = yes
+	}
+	11270.1.1 = {
+		death = yes
+	}
+}
+
+191419 = {
+	name = "Rudramana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191418
+	11250.1.1 = {
+		birth = yes
+	}
+	11310.1.1 = {
+		death = yes
+	}
+}
+
+191420 = {
+	name = "Varnamana" #Fictional
+	dynasty = 1044346 # Mana of Jharkand
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191419
+	11270.1.1 = {
+		birth = yes
+	}
+	11340.1.1 = {
+		death = yes
+	}
+}
+
+191522 = {
+	name = "Gandadeva" #Fictional
+	dynasty = 1044354 #Sonhat
+	religion = "shaivism"
+	culture = "bengali"
+	10700.1.1 = {
+		birth = yes
+	}
+	10719.1.1 = {
+		add_spouse = 191524
+	}
+	10780.1.1 = {
+		death = yes
+	}
+}
+
+191523 = {
+	name = "Varnamana" #Fictional
+	dynasty = 1044354 #Sonhat
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191522
+	mother = 191524
+	10720.1.1 = {
+		birth = yes
+	}
+	10800.1.1 = {
+		death = yes
+	}
+}
+
+191524 = {
+	name = "Mahidevi" #Fictional
+	female = yes
+	religion = "shaivism"
+	culture = "bengali"
+	10702.1.1 = {
+		birth = yes
+	}
+	10800.1.1 = {
+		death = yes
+	}
+}
+
+191525 = {
+	name = "Devarshi" #Fictional
+	dynasty = 1044355 #
+	religion = "svetambara"
+	culture = "bengali"
+	10720.1.1 = {
+		birth = yes
+	}
+	10800.1.1 = {
+		death = yes
+	}
+}
+
+191526 = {
+	name = "Jinabhata" #Fictional
+	dynasty = 1044355 #
+	religion = "svetambara"
+	culture = "bengali"
+	father = 191525
+	10760.1.1 = {
+		birth = yes
+	}
+	10850.1.1 = {
+		death = yes
+	}
+}
+
+191527 = {
+	name = "Devarshi" #Fictional
+	dynasty = 1044355 #
+	religion = "svetambara"
+	culture = "bengali"
+	father = 191526
+	10830.1.1 = {
+		birth = yes
+	}
+	10920.1.1 = {
+		death = yes
+	}
+}
+
+191528 = {
+	name = "Jinabhata" #Fictional
+	dynasty = 1044355 #
+	religion = "svetambara"
+	culture = "bengali"
+	father = 191527
+	10900.1.1 = {
+		birth = yes
+	}
+	10990.1.1 = {
+		death = yes
+	}
+}
+
+191529 = {
+	name = "Devarshi" #Fictional
+	dynasty = 1044355 #
+	religion = "svetambara"
+	culture = "bengali"
+	father = 191528
+	10970.1.1 = {
+		birth = yes
+	}
+	11060.1.1 = {
+		death = yes
+	}
+}
+
+191530 = {
+	name = "Jinabhata" #Fictional
+	dynasty = 1044355 #
+	religion = "svetambara"
+	culture = "bengali"
+	father = 191529
+	11040.1.1 = {
+		birth = yes
+	}
+	11130.1.1 = {
+		death = yes
+	}
+}
+
+191531 = {
+	name = "Devarshi" #Fictional
+	dynasty = 1044355 #
+	religion = "svetambara"
+	culture = "bengali"
+	father = 191530
+	11110.1.1 = {
+		birth = yes
+	}
+	11200.1.1 = {
+		death = yes
+	}
+}
+
+191532 = {
+	name = "Jinabhata" #Fictional
+	dynasty = 1044355 #
+	religion = "svetambara"
+	culture = "bengali"
+	father = 191531
+	11180.1.1 = {
+		birth = yes
+	}
+	11270.1.1 = {
+		death = yes
+	}
+}
+
+191533 = {
+	name = "Devarshi" #Fictional
+	dynasty = 1044355 #
+	religion = "svetambara"
+	culture = "bengali"
+	father = 191532
+	11250.1.1 = {
+		birth = yes
+	}
+	11340.1.1 = {
+		death = yes
+	}
+}
+
+191534 = {
+	name = "Jinabhata" #Fictional
+	dynasty = 1044355 #
+	religion = "svetambara"
+	culture = "bengali"
+	father = 191533
+	11320.1.1 = {
+		birth = yes
+	}
+	11400.1.1 = {
+		death = yes
+	}
+}
+
+191535 = {
+	name = "Nanda"
+	dynasty = 1044326 #Ranaka
+	religion = "shaivism"
+	culture = "bengali"
+	11100.1.1 = {
+		birth = yes
+	}
+	11161.1.1 = {
+		death = yes
+	}
+}
+
+191536 = {
+	name = "Sumudraditya"
+	dynasty = 1044326 #Ranaka
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191535
+	11120.1.1 = {
+		birth = yes
+	}
+	11180.1.1 = {
+		death = yes
+	}
+}
+
+191537 = {
+	name = "Srideva"
+	dynasty = 1044326 #Ranaka
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191536
+	11140.1.1 = {
+		birth = yes
+	}
+	11200.1.1 = {
+		death = yes
+	}
+}
+
+191538 = {
+	name = "Yaksapala"
+	dynasty = 1044326 #Ranaka
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191537
+	11160.1.1 = {
+		birth = yes
+	}
+	11203.10.1 = {
+		death = yes
+	}
+}
+
+191539 = {
+	name = "Purushottama"
+	dynasty = 1044356 #Deva
+	religion = "shaivism"
+	culture = "bengali"
+	11120.1.1 = {
+		birth = yes
+	}
+	11200.1.1 = {
+		death = yes
+	}
+}
+
+191540 = {
+	name = "Madhumathanadeva"
+	dynasty = 1044356 #Deva
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191539
+	11180.1.1 = {
+		birth = yes
+	}
+	11231.1.1 = {
+		death = yes
+	}
+}
+
+191541 = {
+	name = "Vasudeva"
+	dynasty = 1044356 #Deva
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191540
+	11200.1.1 = {
+		birth = yes
+	}
+	11250.1.1 = {
+		death = yes
+	}
+}
+
+191542 = {
+	name = "Damodaradeva"
+	dynasty = 1044356 #Deva
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191541
+	11220.1.1 = {
+		birth = yes
+	}
+	11270.1.1 = {
+		death = yes
+	}
+}
+
+191543 = {
+	name = "Gokuladeva"	#Fictional to fill in gap between genealogies
+	dynasty = 1044356 #Deva
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191542
+	11240.1.1 = {
+		birth = yes
+	}
+	11285.1.1 = {
+		death = yes
+	}
+}
+
+191544 = {
+	name = "Dasarathadeva"
+	dynasty = 1044356 #Deva
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191543
+	11260.1.1 = {
+		birth = yes
+	}
+	11340.1.1 = {
+		death = yes
+	}
+}
+
+191546 = {
+	name = "Harikaladeva_Ranavankamalla"
+	dynasty = 1044357 #Pattikara
+	religion = "vajrayana"
+	culture = "bengali"
+	11180.1.1 = {
+		birth = yes
+	}
+	11231.1.1 = {
+		death = yes
+	}
+}
+
+191547 = {
+	name = "Kharavana"
+	dynasty = 1044358 #Minor Deva
+	religion = "shaivism"
+	culture = "bengali"
+	11180.1.1 = {
+		birth = yes
+	}
+	11250.1.1 = {
+		death = yes
+	}
+}
+
+191548 = {
+	name = "Gokuladeva"
+	dynasty = 1044358 #Minor Deva
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191547
+	11220.1.1 = {
+		birth = yes
+	}
+	11270.1.1 = {
+		death = yes
+	}
+}
+
+191549 = {
+	name = "Narayanadeva"
+	dynasty = 1044358 #Minor Deva
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191548
+	11250.1.1 = {
+		birth = yes
+	}
+	11290.1.1 = {
+		death = yes
+	}
+}
+
+191550 = {
+	name = "Isanadeva"
+	dynasty = 1044358 #Minor Deva
+	religion = "shaivism"
+	culture = "bengali"
+	father = 191549
+	11270.1.1 = {
+		birth = yes
+	}
+	11350.1.1 = {
+		death = yes
+	}
+}
+
+191551 = {
+	name = "Dommanapala"
+	dynasty = 1044359 #Khadi
+	religion = "shaivism"
+	culture = "bengali"
+	11150.1.1 = {
+		birth = yes
+	}
+	11206.10.1 = {
+		death = yes
+	}
+}
+
+sena_1 = {
+	name = "Kesava" # "His two sons Visvarupasena and Kesavasena ruled in succession after him. The latter is known from a single record dated in his third regnal year"
+	dynasty = 1026500
+	religion = "saura" # "The epithet ‘Saura,’ applied to these kings seems to indicate that they were sun-worshippers."
+	culture = "bengali"
+	father = 154005
+	11165.1.1 = {
+		birth = yes # "Probably Visvarupasena was the elder of the two brothers"
+	}
+	11230.1.1 = {
+		death = yes
+	}
+}
+
+gour_1 = {
+	name = "Dharmadhwaj"
+	dynasty = bengali_gour
+	religion = "vaishnavism"
+	culture = "bengali"
+	trait = disputed_heritage
+	11155.1.1 = {
+		birth = yes
+	}
+	11200.1.1 = {
+		death = yes
+	}
+}
+
+andaman_1 = {
+	name = "Bulub"
+	religion = "bilikuism"
+	culture = "nakkavaram"
+	10843.1.1 = {
+		birth = yes
+	}
+	10968.10.1 = {
+		death = yes
+	}
+}
+
+andaman_2 = {
+	name = "Loka"
+	religion = "bilikuism"
+	culture = "nakkavaram"
+	11035.1.1 = {
+		birth = yes
+	}
+	11100.10.1 = {
+		death = yes
+	}
+}
+
+andaman_3 = {
+	name = "Yega"
+	religion = "pulugaism"
+	culture = "nakkavaram"
+	11131.1.1 = {
+		birth = yes
+	}
+	11190.10.1 = {
+		death = yes
+	}
+}
+
+andaman_4 = {
+	name = "Dori"
+	religion = "pulugaism"
+	culture = "nakkavaram"
+	11140.1.1 = {
+		birth = yes
+	}
+	11200.10.1 = {
+		death = yes
+	}
+}
+
+andaman_5 = {
+	name = "Botei"
+	religion = "bilikuism"
+	culture = "nakkavaram"
+	10841.1.1 = {
+		birth = yes
+	}
+	10968.10.1 = {
+		death = yes
+	}
+}
+
+andaman_6 = {
+	name = "Weutoma"
+	religion = "bilikuism"
+	culture = "nakkavaram"
+	11033.1.1 = {
+		birth = yes
+	}
+	11100.10.1 = {
+		death = yes
+	}
+}

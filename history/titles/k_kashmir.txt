@@ -1,0 +1,973 @@
+k_kashmir = {
+	10867.1.1 = { change_development_level = 12 }
+	11066.1.1 = { change_development_level = 18 }
+	11178.1.1 = { change_development_level = 24 }
+
+	10600.1.1 = {
+		holder = 188373 # Durlabhavardhana Karkota
+	}
+	10636.1.1 = {
+		holder = 188374 # Durlabhaka
+	}
+	10686.1.1 = {
+		holder = 188375 # Chandrapida
+	}
+	10695.1.1 = {
+		holder = 188376 # Tarapida
+	}
+	10699.1.1 = {
+		holder = 188377 # Lalitaditya Muktapida
+	}
+	10736.1.1 = {
+		holder = 188378 # Kuvalayapida
+	}
+	10737.1.1 = {
+		holder = 188379 # Vajraditya
+	}
+	10744.1.1 = {
+		holder = 188380 # Prithvyapida
+	}
+	# Samgramapida, son of Vajraditya ruled for 7 days or 7 years depending on source
+	10748.1.1 = {
+		holder = 188381 # Jayapida
+	}
+	10782.1.1 = {
+		holder = 188383 # Lalitapida
+	}
+	10798.1.1 = {
+		holder = 188384 # Samgramapida
+	}
+	10805.1.1 = {
+		holder = 188386 # Cippatajayapida
+	}
+	10817.1.1 = {
+		holder = 188393 # Ajitapida
+	}
+	10846.1.1 = {
+		holder = 188394 # Anangapida
+	}
+	10849.1.1 = {
+		holder = 188395 # Utpalapida
+	}
+	10854.1.1 = {
+		holder = 188391 # Avantivarma Utpala
+
+	}
+	10883.1.1 = {
+		holder = 188396 # Samkaravarman
+	}
+	10902.1.1 = {
+		holder = 188397 # Gopalavarman
+	}
+	10904.1.1 = {
+		holder = 188398 # Sugandha
+	}
+	10906.1.1 = {
+		holder = 188402 # Partha
+	}
+	10921.1.1 = {
+		holder = 188401 # Nirjitavarma
+	}
+	10923.1.1 = {
+		holder = 188403 # Cakravarman
+	}
+	# Some power struggles and Cakravarman is in and out of power
+	10937.1.1 = {
+		holder = 188404 # Unmattavanti
+	}
+	# 939-949: Yasaskara dynasty
+	# 949-980: Parvagupta dynasty
+	10980.1.1 = {
+		holder = 188406 # Didda Lohara
+	}
+	11003.1.1 = {
+		holder = 188409 # Samgramaraja
+	}
+	11028.1.1 = {
+		holder = 188414 # Ananta
+	}
+	11063.1.1 = {
+		holder = 188419 # Kalasa
+
+	}
+	11089.1.1 = {
+		holder = 188420 # Harsa
+	}
+	11101.1.1 = {
+		holder = 188418 # Uccala
+	}
+	11111.1.1 = {
+		holder = 188421 # Salhana
+	}
+	11112.1.1 = {
+		holder = 188422 # Sussala
+	}
+	11120.1.1 = {
+		holder = 188424 # Bhiksacara
+	}
+	11121.1.1 = {
+		holder = 188422 # Sussala again
+	}
+	11123.1.1 = {
+		holder = 188425 # Jayasimha
+	}
+	11155.1.1 = {
+		holder = 188426 # Paramanuka
+	}
+	11165.1.1 = {
+		holder = 188427 # Vantideva
+	}
+	11172.1.1 = {
+		holder = 188429 # Vuppadeva Vopyadeva
+	}
+	11181.1.1 = {
+		holder = 188430 # Jassaka
+	}
+	11199.1.1 = {
+		holder = 188431 # Jagadeva
+	}
+	11213.1.1 = {
+		holder = 188432 # Rajadeva
+	}
+	11236.1.1 = {
+		holder = 188433 # Samgramadeva
+	}
+	11252.1.1 = {
+		holder = 188434 # Ramadeva
+	}
+	11273.1.1 = {
+		holder = 188435 # Laksmadeva
+	}
+	11286.1.1 = {
+		holder = 188438 # Simhadeva
+	}
+	11301.1.1 = {
+		holder = 188439 # Suhadeva
+	}
+	11320.1.1 = {
+		holder = 188442 # Rincana
+	}
+	11323.1.1 = {
+		holder = 188444 # Udayanadeva
+	}
+}
+
+c_kasmira = {	
+	10600.1.1 = {
+		liege = k_kashmir
+		holder = 188373 # Durlabhavardhana Karkota
+	}
+	10636.1.1 = {
+		holder = 188374 # Durlabhaka
+	}
+	10686.1.1 = {
+		holder = 188375 # Chandrapida
+	}
+	10695.1.1 = {
+		holder = 188376 # Tarapida
+	}
+	10699.1.1 = {
+		holder = 188377 # Lalitaditya Muktapida
+	}
+	10736.1.1 = {
+		holder = 188378 # Kuvalayapida
+	}
+	10737.1.1 = {
+		holder = 188379 # Vajraditya
+	}
+	10744.1.1 = {
+		holder = 188380 # Prithvyapida
+	}
+	# Samgramapida, son of Vajraditya ruled for 7 days or 7 years depending on source
+	10748.1.1 = {
+		holder = 188381 # Jayapida
+	}
+	10782.1.1 = {
+		holder = 188383 # Lalitapida
+	}
+	10798.1.1 = {
+		holder = 188384 # Samgramapida
+	}
+	10805.1.1 = {
+		holder = 188386 # Cippatajayapida
+	}
+	10817.1.1 = {
+		holder = 188393 # Ajitapida
+	}
+	10846.1.1 = {
+		holder = 188394 # Anangapida
+	}
+	10849.1.1 = {
+		holder = 188395 # Utpalapida
+	}
+	10854.1.1 = {
+		holder = 188391 # Avantivarma Utpala
+	}
+	10883.1.1 = {
+		holder = 188396 # Samkaravarman
+	}
+	10902.1.1 = {
+		holder = 188397 # Gopalavarman
+	}
+	10904.1.1 = {
+		holder = 188398 # Sugandha
+	}
+	10906.1.1 = {
+		holder = 188402 # Partha
+	}
+	10921.1.1 = {
+		holder = 188401 # Nirjitavarma
+	}
+	10923.1.1 = {
+		holder = 188403 # Cakravarman
+	}
+	# Some power struggles and Cakravarman is in and out of power
+	10937.1.1 = {
+		holder = 188404 # Unmattavanti
+	}
+	# 939-949: Yasaskara dynasty
+	# 949-980: Parvagupta dynasty
+	10980.1.1 = {
+		holder = 188406 # Didda Lohara
+	}
+	11003.1.1 = {
+		holder = 188409 # Samgramaraja
+	}
+	11028.1.1 = {
+		holder = 188414 # Ananta
+	}
+	11063.1.1 = {
+		holder = 188419 # Kalasa
+	}
+	11089.1.1 = {
+		holder = 188420 # Harsa
+	}
+	11101.1.1 = {
+		holder = 188418 # Uccala
+	}
+	11111.1.1 = {
+		holder = 188421 # Salhana
+	}
+	11112.1.1 = {
+		holder = 188422 # Sussala
+	}
+	11120.1.1 = {
+		holder = 188424 # Bhiksacara
+	}
+	11121.1.1 = {
+		holder = 188422 # Sussala again
+	}
+	11123.1.1 = {
+		holder = 188425 # Jayasimha
+	}
+	11155.1.1 = {
+		holder = 188426 # Paramanuka
+	}
+	11165.1.1 = {
+		holder = 188427 # Vantideva
+	}
+	11172.1.1 = {
+		holder = 188429 # Vuppadeva Vopyadeva
+	}
+	11181.1.1 = {
+		holder = 188430 # Jassaka
+	}
+	11199.1.1 = {
+		holder = 188431 # Jagadeva
+	}
+	11213.1.1 = {
+		holder = 188432 # Rajadeva
+	}
+	11236.1.1 = {
+		holder = 188433 # Samgramadeva
+	}
+	11252.1.1 = {
+		holder = 188434 # Ramadeva
+	}
+	11273.1.1 = {
+		holder = 188435 # Laksmadeva
+	}
+	11286.1.1 = {
+		holder = 188438 # Simhadeva
+	}
+	11301.1.1 = {
+		holder = 188439 # Suhadeva
+	}
+	11320.1.1 = {
+		holder = 188442 # Rincana
+	}
+	11323.1.1 = {
+		holder = 188444 # Udayanadeva
+	}
+}
+
+
+c_allai = {
+	10600.1.1 = {
+		holder = 188373 # Durlabhavardhana Karkota
+	}
+	10636.1.1 = {
+		holder = 188374 # Durlabhaka
+	}
+	10686.1.1 = {
+		holder = 188375 # Chandrapida
+	}
+	10695.1.1 = {
+		holder = 188376 # Tarapida
+	}
+	10699.1.1 = {
+		holder = 188377 # Lalitaditya Muktapida
+	}
+	10736.1.1 = {
+		holder = 188378 # Kuvalayapida
+	}
+	10737.1.1 = {
+		holder = 188379 # Vajraditya
+	}
+	10744.1.1 = {
+		holder = 188380 # Prithvyapida
+	}
+	# Samgramapida, son of Vajraditya ruled for 7 days or 7 years depending on source
+	10748.1.1 = {
+		holder = 188381 # Jayapida
+	}
+	10782.1.1 = {
+		holder = 188383 # Lalitapida
+	}
+	10798.1.1 = {
+		holder = 188384 # Samgramapida
+	}
+	10805.1.1 = {
+		holder = 188386 # Cippatajayapida
+	}
+	10817.1.1 = {
+		holder = 188393 # Ajitapida
+	}
+	10846.1.1 = {
+		holder = 188394 # Anangapida
+	}
+	10849.1.1 = {
+		holder = 188395 # Utpalapida
+	}
+	10854.1.1 = {
+		holder = 188391 # Avantivarma Utpala
+	}
+	10883.1.1 = {
+		holder = 188396 # Samkaravarman
+	}
+	10902.1.1 = {
+		holder = 188397 # Gopalavarman
+	}
+	10904.1.1 = {
+		holder = 188398 # Sugandha
+	}
+	10906.1.1 = {
+		holder = 188402 # Partha
+	}
+	10921.1.1 = {
+		holder = 188401 # Nirjitavarma
+	}
+	10923.1.1 = {
+		holder = 188403 # Cakravarman
+	}
+	# Some power struggles and Cakravarman is in and out of power
+	10937.1.1 = {
+		holder = 188404 # Unmattavanti
+	}
+	# 939-949: Yasaskara dynasty
+	# 949-980: Parvagupta dynasty
+	10980.1.1 = {
+		holder = 188406 # Didda Lohara
+	}
+	11003.1.1 = {
+		holder = 188409 # Samgramaraja
+	}
+	11028.1.1 = {
+		holder = 188414 # Ananta
+	}
+	11063.1.1 = {
+		holder = 188419 # Kalasa
+	}
+	11089.1.1 = {
+		holder = 188420 # Harsa
+	}
+	11101.1.1 = {
+		holder = 188418 # Uccala
+	}
+	11111.1.1 = {
+		holder = 188421 # Salhana
+	}
+	11112.1.1 = {
+		holder = 188422 # Sussala
+	}
+	11120.1.1 = {
+		holder = 188424 # Bhiksacara
+	}
+	11121.1.1 = {
+		holder = 188422 # Sussala again
+	}
+	11123.1.1 = {
+		holder = 188425 # Jayasimha
+	}
+	11155.1.1 = {
+		holder = 188426 # Paramanuka
+	}
+	11165.1.1 = {
+		holder = 188427 # Vantideva
+	}
+	11172.1.1 = {
+		holder = 188429 # Vuppadeva Vopyadeva
+	}
+	11181.1.1 = {
+		holder = 188430 # Jassaka
+	}
+	11199.1.1 = {
+		holder = 188431 # Jagadeva
+	}
+	11213.1.1 = {
+		holder = 188432 # Rajadeva
+	}
+	11236.1.1 = {
+		holder = 188433 # Samgramadeva
+	}
+	11252.1.1 = {
+		holder = 188434 # Ramadeva
+	}
+	11273.1.1 = {
+		holder = 188435 # Laksmadeva
+	}
+	11286.1.1 = {
+		holder = 188438 # Simhadeva
+	}
+	11301.1.1 = {
+		holder = 188439 # Suhadeva
+	}
+	11320.1.1 = {
+		holder = 188442 # Rincana
+	}
+	11323.1.1 = {
+		holder = 188444 # Udayanadeva
+	}
+}
+
+
+c_astore = {
+	#Palolashahi Dynasty of Palolo Kingdom (c.400-727)
+	#Conquered by Tibetan Empire
+	10727.1.1={
+		liege = "d_baltiyul"
+	}
+	#Astore
+	10740.1.1={
+		holder = 304691
+	}
+	10800.1.1={
+		holder = 304692
+	}
+	10820.1.1={
+		holder = 304693
+	}
+	10840.1.1={
+		holder = 304694
+	}
+	10860.1.1={
+		holder = 304695
+	}
+	10880.1.1={
+		holder = 304696
+	}
+	10900.1.1={
+		holder = 304697
+	}
+	10920.1.1={
+		holder = 304698
+	}
+	10940.1.1={
+		holder = 304699
+	}
+	10960.1.1={
+		holder = 304700
+	}
+	10980.1.1={
+		holder = 304701
+	}
+	11000.1.1={
+		holder = 304702
+	}
+	11020.1.1={
+		holder = 304703
+	}
+	11040.1.1={
+		holder = 304704
+	}
+	11060.1.1={
+		holder = 304705
+	}
+	11080.1.1={
+		holder = 304706
+	}
+	11100.1.1={
+		holder = 304707
+	}
+	11120.1.1={
+		holder = 304708
+	}
+	11140.1.1={
+		holder = 304709
+	}
+	11160.1.1={
+		holder = 304710
+	}
+	11180.1.1={
+		holder = 304711
+	}
+	11200.1.1={
+		holder = 304712
+	}
+	11220.1.1={
+		holder = 304713
+	}
+	11240.1.1={
+		holder = 304714
+	}
+	11260.1.1={
+		holder = 304715
+	}
+	11280.1.1={
+		holder = 304716
+	}
+	11300.1.1={
+		holder = 304717
+	}
+	11320.1.1={
+		holder = 304718
+	}
+	11340.1.1={
+		holder = 304719
+	}
+	11360.1.1={
+		holder = 304720
+	}
+}
+
+d_pamir = {
+	10867.1.1 = { change_development_level = 9 }
+	11066.1.1 = { change_development_level = 14 }
+	11178.1.1 = { change_development_level = 18 }
+}
+
+c_gilgit = {
+	10600.1.1 = {
+		liege = k_kashmir
+		holder = 188373 # Durlabhavardhana Karkota
+	}
+	10636.1.1 = {
+		holder = 188374 # Durlabhaka
+	}
+	10686.1.1 = {
+		holder = 188375 # Chandrapida
+	}
+	10695.1.1 = {
+		holder = 188376 # Tarapida
+	}
+	10699.1.1 = {
+		holder = 188377 # Lalitaditya Muktapida
+	}
+	10736.1.1 = {
+		holder = 188378 # Kuvalayapida
+	}
+	10737.1.1 = {
+		holder = 188379 # Vajraditya
+	}
+	10744.1.1 = {
+		holder = 188380 # Prithvyapida
+	}
+	# Samgramapida, son of Vajraditya ruled for 7 days or 7 years depending on source
+	10748.1.1 = {
+		holder = 188381 # Jayapida
+	}
+	10782.1.1 = {
+		holder = 188383 # Lalitapida
+	}
+	10798.1.1 = {
+		holder = 188384 # Samgramapida
+	}
+	10805.1.1 = {
+		holder = 188386 # Cippatajayapida
+	}
+	10817.1.1 = {
+		holder = 188393 # Ajitapida
+	}
+	10846.1.1 = {
+		holder = 188394 # Anangapida
+	}
+	10849.1.1 = {
+		holder = 188395 # Utpalapida
+	}
+	10854.1.1 = {
+		holder = 188391 # Avantivarma Utpala
+	}
+	10883.1.1 = {
+		holder = 188396 # Samkaravarman
+	}
+	10902.1.1 = {
+		holder = 188397 # Gopalavarman
+	}
+	10904.1.1 = {
+		holder = 188398 # Sugandha
+	}
+	10906.1.1 = {
+		holder = 188402 # Partha
+	}
+	10921.1.1 = {
+		holder = 188401 # Nirjitavarma
+	}
+	10923.1.1 = {
+		holder = 188403 # Cakravarman
+	}
+	# Some power struggles and Cakravarman is in and out of power
+	10937.1.1 = {
+		holder = 188404 # Unmattavanti
+	}
+	# 939-949: Yasaskara dynasty
+	# 949-980: Parvagupta dynasty
+	10980.1.1 = {
+		holder = 188406 # Didda Lohara
+	}
+	11003.1.1 = {
+		holder = 188409 # Samgramaraja
+	}
+	11030.1.1 = {
+		holder = darada_king_1 #Acalamangala Darada
+		liege = 0
+	}
+	11060.1.1 = {
+		holder = darada_king_2 #Vidhyadhara Darada
+	}
+	#Darada dynasty continues until mid 12th century atleast
+	11155.1.1 = {
+		holder = 188426 # Paramanuka
+		liege = k_kashmir
+	}
+	11165.1.1 = {
+		holder = 188427 # Vantideva
+	}
+	11172.1.1 = {
+		holder = 188429 # Vuppadeva Vopyadeva
+	}
+	11177.1.1 = {
+		holder = 188430 # Jassaka
+	}
+	11199.1.1 = {
+		holder = 188431 # Jagadeva
+	}
+	11213.1.1 = {
+		holder = 188432 # Rajadeva
+	}
+	11236.1.1 = {
+		holder = 188433 # Samgramadeva
+	}
+	11252.1.1 = {
+		holder = 188434 # Ramadeva
+	}
+	11273.1.1 = {
+		holder = 188435 # Laksmadeva
+	}
+	11286.1.1 = {
+		holder = 188438 # Simhadeva
+	}
+	11301.1.1 = {
+		holder = 188439 # Suhadeva
+	}
+	11320.1.1 = {
+		holder = 188442 # Rincana
+	}
+	11323.1.1 = {
+		holder = 188444 # Udayanadeva
+	}
+}
+
+
+c_yasin = {
+	10600.1.1 = {
+		liege = k_kashmir
+		holder = 188373 # Durlabhavardhana Karkota
+	}
+	10636.1.1 = {
+		holder = 188374 # Durlabhaka
+	}
+	10686.1.1 = {
+		holder = 188375 # Chandrapida
+	}
+	10695.1.1 = {
+		holder = 188376 # Tarapida
+	}
+	10699.1.1 = {
+		holder = 188377 # Lalitaditya Muktapida
+	}
+	10736.1.1 = {
+		holder = 188378 # Kuvalayapida
+	}
+	10737.1.1 = {
+		holder = 188379 # Vajraditya
+	}
+	10744.1.1 = {
+		holder = 188380 # Prithvyapida
+	}
+	# Samgramapida, son of Vajraditya ruled for 7 days or 7 years depending on source
+	10748.1.1 = {
+		holder = 188381 # Jayapida
+	}
+	10782.1.1 = {
+		holder = 188383 # Lalitapida
+	}
+	10798.1.1 = {
+		holder = 188384 # Samgramapida
+	}
+	10805.1.1 = {
+		holder = 188386 # Cippatajayapida
+	}
+	10817.1.1 = {
+		holder = 188393 # Ajitapida
+	}
+	10846.1.1 = {
+		holder = 188394 # Anangapida
+	}
+	10849.1.1 = {
+		holder = 188395 # Utpalapida
+	}
+	10854.1.1 = {
+		holder = 188391 # Avantivarma Utpala
+	}
+	10883.1.1 = {
+		holder = 188396 # Samkaravarman
+	}
+	10902.1.1 = {
+		holder = 188397 # Gopalavarman
+	}
+	10904.1.1 = {
+		holder = 188398 # Sugandha
+	}
+	10906.1.1 = {
+		holder = 188402 # Partha
+	}
+	10921.1.1 = {
+		holder = 188401 # Nirjitavarma
+	}
+	10923.1.1 = {
+		holder = 188403 # Cakravarman
+	}
+	# Some power struggles and Cakravarman is in and out of power
+	10937.1.1 = {
+		holder = 188404 # Unmattavanti
+	}
+	# 939-949: Yasaskara dynasty
+	# 949-980: Parvagupta dynasty
+
+	10980.1.1 = {
+		holder = 188406 # Didda Lohara
+	}
+	11003.1.1 = {
+		holder = 188409 # Samgramaraja
+	}
+
+	11030.1.1 = {
+		holder = darada_king_1 #Acalamangala Darada
+		liege = 0
+	}
+	11060.1.1 = {
+		holder = darada_king_2 #Vidhyadhara Darada
+	}
+	#Darada dynasty continues until mid 12th century atleast
+	11155.1.1 = {
+		holder = 188426 # Paramanuka
+		liege = k_kashmir
+	}
+	11165.1.1 = {
+		holder = 188427 # Vantideva
+	}
+	11172.1.1 = {
+		holder = 188429 # Vuppadeva Vopyadeva
+	}
+	11177.1.1 = {
+		holder = 188430 # Jassaka
+	}
+	11199.1.1 = {
+		holder = 188431 # Jagadeva
+	}
+	11213.1.1 = {
+		holder = 188432 # Rajadeva
+	}
+	11236.1.1 = {
+		holder = 188433 # Samgramadeva
+	}
+	11252.1.1 = {
+		holder = 188434 # Ramadeva
+	}
+	11273.1.1 = {
+		holder = 188435 # Laksmadeva
+	}
+	11286.1.1 = {
+		holder = 188438 # Simhadeva
+	}
+	11301.1.1 = {
+		holder = 188439 # Suhadeva
+	}
+	11320.1.1 = {
+		holder = 188442 # Rincana
+	}
+	11323.1.1 = {
+		holder = 188444 # Udayanadeva
+	}
+}
+
+
+c_golaghmuli = {
+	10600.1.1 = {
+		liege = k_kashmir
+		holder = 188373 # Durlabhavardhana Karkota
+	}
+	10636.1.1 = {
+		holder = 188374 # Durlabhaka
+	}
+	10686.1.1 = {
+		holder = 188375 # Chandrapida
+	}
+	10695.1.1 = {
+		holder = 188376 # Tarapida
+	}
+	10699.1.1 = {
+		holder = 188377 # Lalitaditya Muktapida
+	}
+	10736.1.1 = {
+		holder = 188378 # Kuvalayapida
+	}
+	10737.1.1 = {
+		holder = 188379 # Vajraditya
+	}
+	10744.1.1 = {
+		holder = 188380 # Prithvyapida
+	}
+	# Samgramapida, son of Vajraditya ruled for 7 days or 7 years depending on source
+	10748.1.1 = {
+		holder = 188381 # Jayapida
+	}
+	10782.1.1 = {
+		holder = 188383 # Lalitapida
+	}
+	10798.1.1 = {
+		holder = 188384 # Samgramapida
+	}
+	10805.1.1 = {
+		holder = 188386 # Cippatajayapida
+	}
+	10817.1.1 = {
+		holder = 188393 # Ajitapida
+	}
+	10846.1.1 = {
+		holder = 188394 # Anangapida
+	}
+	10849.1.1 = {
+		holder = 188395 # Utpalapida
+	}
+	10854.1.1 = {
+		holder = 188391 # Avantivarma Utpala
+	}
+	10883.1.1 = {
+		holder = 188396 # Samkaravarman
+	}
+	10902.1.1 = {
+		holder = 188397 # Gopalavarman
+	}
+	10904.1.1 = {
+		holder = 188398 # Sugandha
+	}
+	10906.1.1 = {
+		holder = 188402 # Partha
+	}
+	10921.1.1 = {
+		holder = 188401 # Nirjitavarma
+	}
+	10923.1.1 = {
+		holder = 188403 # Cakravarman
+	}
+	# Some power struggles and Cakravarman is in and out of power
+	10937.1.1 = {
+		holder = 188404 # Unmattavanti
+	}
+	# 939-949: Yasaskara dynasty
+	# 949-980: Parvagupta dynasty
+	10980.1.1 = {
+		holder = 188406 # Didda Lohara
+	}
+	11003.1.1 = {
+		holder = 188409 # Samgramaraja
+	}
+	11028.1.1 = {
+		holder = 188414 # Ananta
+	}
+	11063.1.1 = {
+		holder = 188419 # Kalasa
+	}
+	11089.1.1 = {
+		holder = 188420 # Harsa
+	}
+	11101.1.1 = {
+		holder = 188418 # Uccala
+	}
+	11111.1.1 = {
+		holder = 188421 # Salhana
+	}
+	11112.1.1 = {
+		holder = 188422 # Sussala
+	}
+	11120.1.1 = {
+		holder = 188424 # Bhiksacara
+	}
+	11121.1.1 = {
+		holder = 188422 # Sussala again
+	}
+	11123.1.1 = {
+		holder = 188425 # Jayasimha
+	}
+	11155.1.1 = {
+		holder = 188426 # Paramanuka
+	}
+	11165.1.1 = {
+		holder = 188427 # Vantideva
+	}
+	11172.1.1 = {
+		holder = 188429 # Vuppadeva Vopyadeva
+	}
+	11181.1.1 = {
+		holder = 188430 # Jassaka
+	}
+	11199.1.1 = {
+		holder = 188431 # Jagadeva
+	}
+	11213.1.1 = {
+		holder = 188432 # Rajadeva
+	}
+	11236.1.1 = {
+		holder = 188433 # Samgramadeva
+	}
+	11252.1.1 = {
+		holder = 188434 # Ramadeva
+	}
+	11273.1.1 = {
+		holder = 188435 # Laksmadeva
+	}
+	11286.1.1 = {
+		holder = 188438 # Simhadeva
+	}
+	11301.1.1 = {
+		holder = 188439 # Suhadeva
+	}
+	11320.1.1 = {
+		holder = 188442 # Rincana
+	}
+	11323.1.1 = {
+		holder = 188444 # Udayanadeva
+	}
+}
+

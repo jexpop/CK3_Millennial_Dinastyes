@@ -1,0 +1,558 @@
+k_telingana = {
+	10867.1.1 = { change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	11083.1.1 = {
+		holder = 189233
+	}
+	11108.1.1 = {
+		holder = 0
+	}
+	11163.1.1 = {
+		holder = 189236 # Rudradeva, "instead of submitting himself to the usurper Bijjala, he proclaimed independence"
+	}
+}
+
+d_warangal = {
+	10650.1.1 = {
+		holder = 192020 #Satyasraya Vemulavada Chalukya
+		liege = k_karnata
+	}
+	10675.1.1 = {
+		holder = 192021 #Prithvipati
+	}
+	10700.1.1 = {
+		holder = 192022 #Maharaja (SIC)
+	}
+	10725.1.1 = {
+		holder = 192023 #Rajaditya
+	}
+	10750.1.1 = {
+		holder = 192024 #Vinayaditya Yuddhamalla
+	}
+	10775.1.1 = {
+		holder = 192025 #Arikesari
+	}
+	10800.1.1 = {
+		holder = 192026 #Narasimha
+	}
+	10825.1.1 = {
+		holder = 192027 #Yuddhamalla
+	}
+	10850.1.1 = {
+		holder = 192028 #Badega
+	}
+	10895.1.1 = {
+		holder = 192029 #Yuddhamalla
+	}
+	10915.1.1 = {
+		holder = 192030 #Narasimha
+	}
+	10930.1.1 = {
+		holder = 192031 #Arikesari
+	}
+	10941.1.1 = {
+		holder = 192032 #Vagaraja
+	}
+	10946.1.1 = {
+		holder = 192033 #Arikesari
+	}
+
+	#Kakatiyas
+	10996.1.1 = {
+		holder = 189231 #Beta I
+		#liege = k_karnata
+	}
+	11052.1.1 = {
+		holder = 189232 #Prola I
+	}
+	11076.1.1 = {
+		holder = 189233 #Beta II
+	}
+	11108.1.1 = {
+		holder = 189234 #Durgaraja 
+	}
+	11116.1.1 = {
+		holder = 189235 #Prola II
+	}
+	11157.1.1 = {
+		holder = 189236 #Prataparudra
+	}
+	11195.1.1 = {
+		holder = 189237 #Mahadeva
+	}
+	11199.1.1 = {
+		holder = 189238 #Ganpatideva
+	}
+	11262.1.1 = {
+		holder = 189239 #Rudramadevi
+	}
+	11289.1.1 = {
+		holder = 189246 #Prataprudra
+	}
+	11323.1.1 = {
+		holder = 0
+	}
+}
+
+
+c_orangallu = {
+	
+	#Kakatiyas
+	10730.1.1 = {
+		liege = d_vengi
+		holder = 189223 #Durjaya Kakatiya
+	}
+	10750.1.1 = {
+		holder = 189224 #Venna
+	}
+	10768.1.1 = {
+		holder = 189225 #Gunda I
+	}
+	10824.1.1 = {
+		holder = 189226 #Gunda II
+		liege = k_karnata
+	}
+	10870.1.1 = {
+		holder = 189227 #Gunda III
+	}
+	10895.1.1 = {
+		holder = 189228 #Erriya
+	}
+	10940.1.1 = {
+		holder = 189229 #Betiya
+	}
+	10950.1.1 = {
+		holder = 189230 #Gunda IV
+	}
+	10996.1.1 = {
+		holder = 189231 #Beta I
+		liege = d_warangal
+	}
+	11052.1.1 = {
+		holder = 189232 #Prola I
+	}
+	11076.1.1 = {
+		holder = 189233 #Beta II
+	}
+	11108.1.1 = {
+		holder = 189234 #Durgaraja 
+	}
+	11116.1.1 = {
+		holder = 189235 #Prola II
+	}
+	11157.1.1 = {
+		holder = 189236 #Prataparudra
+	}
+	11195.1.1 = {
+		holder = 189237 #Mahadeva
+	}
+	11199.1.1 = {
+		holder = 189238 #Ganpatideva
+	}
+	11262.1.1 = {
+		holder = 189239 #Rudramadevi
+	}
+	11289.1.1 = {
+		holder = 189246 #Prataprudra
+	}
+}
+
+c_katukuru = {
+	10860.1.1 = {
+		holder = viryala_1 #Poranti Venna
+		liege = d_warangal
+	}
+	10920.1.1 = {
+		holder = viryala_2 #Erra Bhupati
+	}
+	10940.1.1 = {
+		holder = viryala_3 #Bhima
+	}
+	10960.1.1 = {
+		holder = viryala_4 #Era Narendra II
+	}
+	10990.1.1 = {
+		holder = viryala_5 #Sura Senani
+	}
+	11020.1.1 = {
+		holder = viryala_6 #Betana
+	}
+	11070.1.1 = {
+		holder = viryala_7 #Sura
+	}
+	11080.1.1 = {
+		holder = viryala_8 #Malla
+	}
+	11080.1.1 = {
+		holder = viryala_9 #Rudrama
+	}
+	11095.1.1 = {
+		holder = viryala_10 #Nagasani
+	}
+	11140.1.1 = {
+		holder = viryala_11 #Annaya
+	}
+	#Revert to Kakatiya
+	11220.1.1 = {
+		holder = 189238 #Ganpatideva
+	}
+	11262.1.1 = {
+		holder = 189239 #Rudramadevi
+	}
+	11289.1.1 = {
+		holder = 189246 #Prataprudra
+	}
+}
+
+c_kambampet = { #Mudigonda
+	10769.1.1 = {
+		liege = d_vengi
+		holder = mudigonda_chalukya_1 #Gonagudu I
+	}
+	10820.1.1 = {
+		holder = mudigonda_chalukya_2 #Kokkiraja
+	}
+	10850.1.1 = {
+		holder = mudigonda_chalukya_3 #Ranamarda
+	}
+	10870.1.1 = {
+		holder = mudigonda_chalukya_4 #Kusumayudha I
+	}
+	10895.1.1 = {
+		holder = mudigonda_chalukya_5 #Gonagudu II
+	}
+	10910.1.1 = {
+		holder = mudigonda_chalukya_6 #Niravadya
+	}
+	10935.1.1 = {
+		holder = mudigonda_chalukya_7 #Kusumayudha II
+	}
+	10960.1.1 = {
+		holder = mudigonda_chalukya_8 #Vijayaditya
+	}
+	10980.1.1 = {
+		holder = mudigonda_chalukya_9 #Kusumayudha III
+	}
+	10996.1.1 = {
+		liege = d_warangal
+		holder = mudigonda_chalukya_9a
+	}
+	11000.1.1 = {
+		holder = mudigonda_chalukya_10 #Gonaga
+	}
+	11025.1.1 = {
+		holder = mudigonda_chalukya_11 #Nijjayaraja
+	}
+	11050.1.1 = {
+		holder = mudigonda_chalukya_14 #Kusumayudha IV
+	}
+	11075.1.1 = {
+		holder = mudigonda_chalukya_15 #Betaraja I
+	}
+	11100.1.1 = {
+		holder = mudigonda_chalukya_16 #Kusumayudha V
+	}
+	11125.1.1 = {
+		holder = mudigonda_chalukya_17 #Betaraja II
+	}
+	11150.1.1 = {
+		holder = mudigonda_chalukya_18 #Kusumayudha VI
+	}
+	11175.1.1 = {
+		holder = mudigonda_chalukya_19 #Nagatiraja
+	}
+	11200.1.1 = {
+		holder = 189238
+	}
+}
+
+
+c_balkonda = {
+	10650.1.1 = {
+		holder = 192020 #Satyasraya Vemulavada Chalukya
+		liege = d_warangal
+	}
+	10675.1.1 = {
+		holder = 192021 #Prithvipati
+	}
+	10700.1.1 = {
+		holder = 192022 #Maharaja (SIC)
+	}
+	10725.1.1 = {
+		holder = 192023 #Rajaditya
+	}
+	10750.1.1 = {
+		holder = 192024 #Vinayaditya Yuddhamalla
+	}
+	10775.1.1 = {
+		holder = 192025 #Arikesari
+	}
+	10800.1.1 = {
+		holder = 192026 #Narasimha
+	}
+	10825.1.1 = {
+		holder = 192027 #Yuddhamalla
+	}
+	10850.1.1 = {
+		holder = 192028 #Badega
+	}
+	10895.1.1 = {
+		holder = 192029 #Yuddhamalla
+	}
+	10915.1.1 = {
+		holder = 192030 #Narasimha
+	}
+	10930.1.1 = {
+		holder = 192031 #Arikesari
+	}
+	10941.1.1 = {
+		holder = 192032 #Vagaraja
+	}
+	10946.1.1 = {
+		holder = 192033 #Arikesari
+	}
+	11060.1.1 = {
+		holder = polavasa_1
+		liege = k_karnata
+	}
+	11080.1.1 = {
+		holder = polavasa_2
+	}
+	11110.1.1 = {
+		holder = polavasa_3
+	}
+	11116.1.1 = {
+		holder = polavasa_5
+	}
+	11138.1.1 = {
+		holder = polavasa_4
+		liege = d_warangal
+	}
+	11159.1.1 = {
+		holder = polavasa_6
+	}
+	11180.1.1 = {
+		holder = polavasa_7
+	}
+}
+
+
+d_racakonda = {
+	10860.1.1 = {
+		holder = 178008
+		liege = k_karnata
+	}
+	10870.1.1 = {
+		holder = 0
+	}
+	11040.1.1 = {
+		liege = k_karnata
+		holder = karikala_1 #Bhima I
+	}
+	11065.1.1 = {
+		holder = karikala_2 #Tonda I
+	}
+	11076.1.1 = {
+		holder = karikala_3 #Bhima II
+	}
+	11091.1.1 = {
+		holder = karikala_4 #Tonda II
+	}
+	11105.1.1 = {
+		holder = karikala_5 #Gokarna
+	}
+	11136.1.1 = {
+		holder = karikala_8a #Bhima III
+	}
+	11157.1.1 = {
+		holder = karikala_8 #Udaychoda II
+	}
+	11176.1.1 = {
+		holder = karikala_9a #Bhima IV
+		liege = k_telingana
+	}
+	11235.1.1 = {
+		holder = karikala_9 #Gokarna IÍ
+	}
+	11248.1.1 = {
+		holder = karikala_10 #Gokarna II
+	}
+	11282.1.1 = {
+		holder = karikala_11 #Ramanathadeva
+	}
+	11289.1.1 = {
+		holder = 0
+	}
+}
+
+
+c_racakonda = {
+	10650.1.1 = {
+		holder = 192020 #Satyasraya Vemulavada Chalukya
+		liege = d_warangal
+	}
+	10675.1.1 = {
+		holder = 192021 #Prithvipati
+	}
+	10700.1.1 = {
+		holder = 192022 #Maharaja (SIC)
+	}
+	10725.1.1 = {
+		holder = 192023 #Rajaditya
+	}
+	10750.1.1 = {
+		holder = 192024 #Vinayaditya Yuddhamalla
+	}
+	10775.1.1 = {
+		holder = 192025 #Arikesari
+	}
+	10800.1.1 = {
+		holder = 192026 #Narasimha
+	}
+	10825.1.1 = {
+		holder = 192027 #Yuddhamalla
+	}
+	10850.1.1 = {
+		holder = 192028 #Badega
+	}
+	10860.1.1 = {
+		holder = 178008
+		liege = d_racakonda
+	}
+	11050.1.1 = {
+		holder = cheraku_reddy_1
+	}
+	11080.1.1 = {
+		holder = cheraku_reddy_2
+	}
+	11105.1.1 = {
+		holder = karikala_5 #Gokarna
+	}
+	11136.1.1 = {
+		holder = karikala_8a #Bhima III
+	}
+	11157.1.1 = {
+		holder = karikala_8 #Udaychoda II
+	}
+	11176.1.1 = {
+		holder = karikala_9a #Bhima IV
+	}
+	11190.1.1 = {
+		holder = cheraku_reddy_4
+	}
+	11190.1.1 = {
+		holder = cheraku_reddy_4
+	}
+	11280.1.1 = {
+		holder = cheraku_reddy_5
+	}
+	11305.1.1 = {
+		holder = cheraku_reddy_6
+	}
+}
+
+
+c_pannagallu = {
+	10650.1.1 = {
+		holder = 192020 #Satyasraya Vemulavada Chalukya
+		liege = d_warangal
+	}
+	10675.1.1 = {
+		holder = 192021 #Prithvipati
+	}
+	10700.1.1 = {
+		holder = 192022 #Maharaja (SIC)
+	}
+	10725.1.1 = {
+		holder = 192023 #Rajaditya
+	}
+	10750.1.1 = {
+		holder = 192024 #Vinayaditya Yuddhamalla
+	}
+	10775.1.1 = {
+		holder = 192025 #Arikesari
+	}
+	10800.1.1 = {
+		holder = 192026 #Narasimha
+	}
+	10825.1.1 = {
+		holder = 192027 #Yuddhamalla
+	}
+	10850.1.1 = {
+		holder = 192028 #Badega
+	}
+	10860.1.1 = {
+		holder = 178008
+		liege = d_racakonda
+	}
+	11040.1.1 = {
+		#liege = d_racakonda
+		holder = karikala_1 #Bhima I
+	}
+	11065.1.1 = {
+		holder = karikala_2 #Tonda I
+	}
+	11076.1.1 = {
+		holder = karikala_3 #Bhima II
+	}
+	11091.1.1 = {
+		holder = karikala_4 #Tonda II
+	}
+	11105.1.1 = {
+		holder = karikala_5 #Gokarna
+	}
+	11136.1.1 = {
+		holder = karikala_8a #Bhima III
+	}
+	11157.1.1 = {
+		holder = karikala_8 #Udaychoda II
+	}
+	11176.1.1 = {
+		holder = karikala_9a #Bhima IV
+	}
+	11178.1.1 = {
+		holder = 189236 # Rudradeva
+	}
+	11235.1.1 = {
+		holder = karikala_9 #Gokarna IÍ
+	}
+	11248.1.1 = {
+		holder = karikala_10 #Gokarna II
+	}
+	11282.1.1 = {
+		holder = karikala_11 #Ramanathadeva
+	}
+	11289.1.1 = {
+		holder = 189246 #Prataprudra
+		liege = d_warangal
+	}
+}
+
+
+#Additional Telugu dynasty in 1066:
+
+	#Malyalas of Sankisapura (Dornakal) and later Vardhamanapura (Mahabubnagar)
+	#11040.1.1 = {
+	#	holder = malyala_1 #Danna
+	#	liege = d_warangal
+	#}
+	#11076.1.1 = {
+	#	holder = malyala_2 #Danna II
+	#}
+	#11110.1.1 = {
+	#	holder = malyala_3 #Bachavarudhini
+	#}
+	#11120.1.1 = {
+	#	holder = malyala_4 #Sabba Senani
+	#}
+	#11165.1.1 = {
+	#	holder = malyala_5 #Kata Senani
+	#}
+	#11196.1.1 = {
+	#	holder = malyala_6 #Potha Senani
+	#}
+	#11201.1.1 = {
+	#	holder = malyala_7 #Chaunda Senani
+	#}

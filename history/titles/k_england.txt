@@ -1,0 +1,3681 @@
+k_england = {
+	10867.1.1 = { change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10700.1.1 = { # Winchester was effectively the capital for some time, so let's have it at game start in 867.
+		effect = {
+			set_capital_county = title:c_hampton
+		}
+	}
+	10927.7.12 = {
+		holder = 33350 # Aethelstan the Glorious
+		succession_laws = { saxon_elective_succession_law }
+	}
+	10939.10.28 = {
+		holder = 102 # Edmund the Magnificent
+	}
+	10946.5.27 = {
+		holder = 33351 # Eadred
+	}
+	10955.11.24 = {
+		holder = 33352 # Eadwig
+	}
+	10959.10.2 = {
+		holder = 98 # Edgar the Peaceful
+	}
+	10975.7.9 = {
+		holder = 99 # Edward the Martyr
+	}
+	10978.3.19 = {
+		holder = 106 # Aethelraed the Unready
+	}
+	11013.12.25 = {
+		holder = 101505 # Svend Tveskägg
+	}
+	11014.2.3 = {
+		holder = 106 # Aethelraed the Unready
+	}
+	11016.4.24 = {
+		holder = 108 # Edmund Ironside
+	}
+	11016.11.30 = {
+		holder = 101510 # Knud the Great
+	}
+	11035.11.13 = {
+		holder = 101513 # Harold Harefoot
+	}
+	11040.3.17 = {
+		holder = 101511 # Harthacnut
+	}
+	11042.6.9 = {
+		holder = 114 # Eadward the Confessor
+	}
+	11066.1.5 = {
+		holder = 122 # Harold Godwinson
+		effect = { # Should technically be the capital after William wins, but London was already quite important, so we'll have it be the capital at game start 1066.
+			set_capital_county = title:c_middlesex
+		}
+	}
+	11066.10.14 = {
+		holder = 140 # William the Conqueror
+		remove_succession_laws = yes
+	}
+	11087.9.9 = {
+		holder = 146 #William II Rufus
+	}
+	11100.8.3 = {
+		holder = 202992 #Henry I
+	}
+	11135.12.2 = {
+		holder = 205851 #Stephen
+	}
+	11154.10.25 = {
+		holder = 204500 #Henry II
+	}
+	11189.7.6 = {
+		holder = 204510 #Richard I Lionheart
+	}
+	11199.4.6 = {
+		holder = 204514 #John
+	}
+	11216.10.28 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+}
+
+
+d_bedford = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 13 }
+	
+	10758.1.1 = {
+		holder = 205265
+	}
+	10825.1.1 = {
+		holder = 0
+	}
+	11066.1.1 = {
+		liege = "k_england"
+	}
+	11066.1.5 = {
+		holder = 122 # Harold Godwinson
+	}
+	11066.10.14 = {
+		holder = 0
+	}
+}
+
+
+c_middlesex = {	
+
+	
+
+	10867.1.1 = { change_development_level = 9 }
+	11066.1.1 = { change_development_level = 13 }
+	11178.1.1 = { change_development_level = 37 }
+	
+	10758.1.1 = {
+		holder = 205265
+	}
+	10802.1.1 = {
+		liege = "k_england"
+	}
+	10802.1.1 = {
+		holder = 33354 # Ecgberht
+	}
+	10839.2.5 = {
+		holder = 33355 # Aethelwulf
+	}
+	10856.1.13 = {
+		holder = 33356 # Aethelbald
+	}
+	10860.12.21 = {
+		holder = 33357 # Aethelbert
+	}
+	10865.9.1 = {
+		holder = 33358 # Aethelraed
+	}
+	10871.4.24 = {
+		holder = 7627 # Alfred the Great
+	}
+	10899.10.27 = {
+		holder = 100 # Edward the Elder
+	}
+	10924.8.3 = {
+		holder = 33350 # Aethelstan the Glorious
+	}
+	10939.10.28 = {
+		holder = 102 # Edmund the Magnificent
+	}
+	10946.5.27 = {
+		holder = 33351 # Eadred
+	}
+	10955.11.24 = {
+		holder = 33352 # Eadwig
+	}
+	10959.10.2 = {
+		holder = 98 # Edgar the Peaceful
+	}
+	10975.7.9 = {
+		holder = 99 # Edward the Martyr
+	}
+	10978.3.19 = {
+		holder = 106 # Aethelraed the Unready
+	}
+	11013.12.25 = {
+		holder = 101505 # Svend Tveskägg
+	}
+	11014.2.3 = {
+		holder = 106 # Aethelraed the Unready
+	}
+	11016.4.24 = {
+		holder = 108 # Edmund Ironside
+	}
+	11016.11.30 = {
+		holder = 101510 # Knud the Great
+	}
+	11035.11.13 = {
+		holder = 101513 # Harold Harefoot
+	}
+	11040.3.17 = {
+		holder = 101511 # Harthacnut
+	}
+	11042.6.9 = {
+		holder = 114 # Eadward the Confessor
+	}
+	11066.1.5 = {
+		holder = 122 # Harold Godwinson
+	}
+	11066.10.14 = {
+		holder = 140 #William the Conqueror
+	}
+	11087.9.9 = {
+		holder = 146 #William II Rufus
+	}
+	11100.8.3 = {
+		holder = 202992 #Henry I
+	}
+	11135.12.2 = {
+		holder = 205851 #Stephen
+	}
+	11154.10.25 = {
+		holder = 204500 #Henry II
+	}
+	11189.7.6 = {
+		holder = 204510 #Richard I Lionheart
+	}
+	11199.4.6 = {
+		holder = 204514 #John
+	}
+	11216.10.28 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.1.2 = {
+		holder = 454510 #Edward II
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+}
+
+b_southwark = {	#Fictional, to allow character placement.
+	11055.1.1 = { holder = anglo_saxon_1001 }
+	11178.1.1 = {
+		holder = southwark_prior_1 # William de Oxenford
+	}
+}
+
+c_essex = {
+	11178.1.1 = { change_development_level = 18 }
+
+	10758.1.1 = {
+		holder = 205265
+	}
+	10865.1.1 = {
+		liege = "k_england"
+		holder = 33358
+	}
+	11066.1.1 = {
+		liege = "d_norfolk"
+	}
+	11066.1.5 = {
+		holder = 132 #Gyrth Godwinsson
+	}
+	11066.10.14 = {
+		liege = "k_england"
+	}
+	11066.10.14 = {
+		holder = 129048 #Geoffrey de Mandeville
+	}
+	11104.1.1 = {
+		holder = 129049 #William de Mandeville
+	}
+	11116.1.1 = {
+		holder = 204745 #Geoffrey de Mandeville
+	}
+	11144.10.1 = {
+		holder = 129050 #Geoffrey de Mandeville
+	}
+	11166.1.1 = {
+		holder = 204740 #William de Mandeville
+	}
+	11189.11.14 = {
+		holder = 204510 #Richard I Lionheart
+	}
+	11199.4.6 = {
+		holder = 129051 #Geoffrey FitzPeter
+	}
+	11213.10.14 = {
+		holder = 129052 #"Geoffrey FitzGeoffrey"
+	}
+	11216.2.23 = {
+		holder = 129053 #"William FitzGeoffrey"
+	}
+	11227.1.1 = {
+		holder = 454522 #Henry III
+	}
+	11239.1.1 = {
+		holder = 7462 #Humphrey de Bohun
+	}
+	11275.9.24 = {
+		holder = 7463 #Humphrey de Bohun
+	}
+	11298.12.31 = {
+		holder = 454561 #Humphrey de Bohun
+	}
+	11321.11.6 = {
+		holder = 7464 #John of Bohun
+	}
+	11335.1.20 = {
+		holder = 454560 #Humphrey de Bohun
+	}
+
+}
+
+
+c_bedford = {
+	11178.1.1 = { change_development_level = 14 }
+
+	10745.1.1 = {
+		liege = "d_hereford"
+		holder = 205104
+	}
+	10767.1.1 = {
+		holder = 205105
+	}
+	10852.1.1 = {
+		holder = 163102
+	}
+	11066.1.1 = {
+		liege = "k_england"
+	}
+	11066.1.1 = {
+		holder = 131 # Ealdgyth the Fair
+	}
+	11066.10.14 = {
+		holder = 140 #William the Conqueror
+	}
+	11087.9.9 = {
+		holder = 146 #William II Rufus
+	}
+	11100.8.3 = {
+		holder = 202992 #Henry I
+	}
+	11117.1.1 = {
+		holder = 204794 # Richard de Clare
+	}
+	11139.1.7 = {
+		holder = 155244 # Gilbert de Clare
+	}
+	11153.1.1 = {
+		holder = 204795
+	}
+	11173.1.7 = {
+		holder = 204797
+	}
+	11217.10.14 = {
+		holder = 204801
+	}
+	11230.10.25 = {
+		holder = 454048
+	}
+	11262.7.14 = {
+		holder = 454606
+	}
+	11295.1.25 = {
+		holder = 454605
+	}
+	11307.4.23 = {
+		holder = 454049
+	}
+	11314.1.25 = {
+		holder = 454510 #Edward II
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+
+}
+
+
+c_hertfordshire = {
+	10758.1.1 = {
+		holder = 205265
+	}
+	10802.1.1 = {
+		liege = "k_england"
+	}
+	10802.1.1 = {
+		holder = 33354 # Ecgberht
+	}
+	10839.2.5 = {
+		holder = 33355 # Aethelwulf
+	}
+	10856.1.1 = {
+		holder = 33356 # Aethelbald
+	}
+	10860.12.21 = {
+		holder = 33357 # Aethelbert
+	}
+	10865.1.1 = {
+		holder = 33358 # Aethelraed
+	}
+	10871.4.24 = {
+		holder = 7627 # Alfred the Great
+	}
+	10899.10.27 = {
+		holder = 100 # Edward the Elder
+	}
+	10924.8.3 = {
+		holder = 33350 # Aethelstan the Glorious
+	}
+	10939.10.28 = {
+		holder = 102 # Edmund the Magnificent
+	}
+	10946.5.27 = {
+		holder = 33351 # Eadred
+	}
+	10955.11.24 = {
+		holder = 33352 # Eadwig
+	}
+	10959.10.2 = {
+		holder = 98 # Edgar the Peaceful
+	}
+	10975.7.9 = {
+		holder = 99 # Edward the Martyr
+	}
+	10978.3.19 = {
+		holder = 106 # Aethelraed the Unready
+	}
+	11013.12.25 = {
+		holder = 101505 # Svend Tveskägg
+	}
+	11014.2.3 = {
+		holder = 106 # Aethelraed the Unready
+	}
+	11016.4.24 = {
+		holder = 108 # Edmund Ironside
+	}
+	11016.11.30 = {
+		holder = 101510 # Knud the Great
+	}
+	11035.11.13 = {
+		holder = 101513 # Harold Harefoot
+	}
+	11040.3.17 = {
+		holder = 101511 # Harthacnut
+	}
+	11042.6.9 = {
+		holder = 114 # Eadward the Confessor
+	}
+	11066.1.1 = {
+		liege = k_england
+	holder = 131 # Ealdgyth the Fair
+	}
+	11066.10.14 = {
+		holder = 140 #William the Conqueror
+	}
+	11087.9.9 = {
+		holder = 146 #William II Rufus
+	}
+	11100.8.3 = {
+		holder = 202992 #Henry I
+	}
+	11117.1.1 = {
+		holder = 204794 # Richard de Clare
+	}
+	11139.1.7 = {
+		holder = 155244 # Gilbert de Clare
+	}
+	11153.1.1 = {
+		holder = 204795 # Roger de Clare
+	}
+	11173.1.7 = {
+		holder = 204797 # Richard de Clare
+	}
+	11189.7.6 = {
+		holder = 204510 #Richard I Lionheart
+	}
+	11199.4.6 = {
+		holder = 204514 #John
+	}
+	11216.10.28 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.1.2 = {
+		holder = 454510 #Edward II
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+}
+
+c_buckinghamshire = {
+	10758.1.1 = {
+		holder = 205265
+	}
+	10802.1.1 = {
+		liege = "k_england"
+	}
+	10802.1.1 = {
+		holder = 33354 # Ecgberht
+	}
+	10839.2.5 = {
+		holder = 33355 # Aethelwulf
+	}
+	10856.1.1 = {
+		holder = 33356 # Aethelbald
+	}
+	10860.12.21 = {
+		holder = 33357 # Aethelbert
+	}
+	10865.1.1 = {
+		holder = 33358 # Aethelraed
+	}
+	10871.4.24 = {
+		holder = 7627 # Alfred the Great
+	}
+	10899.10.27 = {
+		holder = 100 # Edward the Elder
+	}
+	10924.8.3 = {
+		holder = 33350 # Aethelstan the Glorious
+	}
+	10939.10.28 = {
+		holder = 102 # Edmund the Magnificent
+	}
+	10946.5.27 = {
+		holder = 33351 # Eadred
+	}
+	10955.11.24 = {
+		holder = 33352 # Eadwig
+	}
+	10959.10.2 = {
+		holder = 98 # Edgar the Peaceful
+	}
+	10975.7.9 = {
+		holder = 99 # Edward the Martyr
+	}
+	10978.3.19 = {
+		holder = 106 # Aethelraed the Unready
+	}
+	11013.12.25 = {
+		holder = 101505 # Svend Tveskägg
+	}
+	11014.2.3 = {
+		holder = 106 # Aethelraed the Unready
+	}
+	11016.4.24 = {
+		holder = 108 # Edmund Ironside
+	}
+	11016.11.30 = {
+		holder = 101510 # Knud the Great
+	}
+	11035.11.13 = {
+		holder = 101513 # Harold Harefoot
+	}
+	11040.3.17 = {
+		holder = 101511 # Harthacnut
+	}
+	11042.6.9 = {
+		holder = 114 # Eadward the Confessor
+	}
+	11066.1.1 = {
+		liege = k_england
+	holder = 131 # Ealdgyth the Fair
+	}
+	11066.10.14 = {
+		holder = 140 #William the Conqueror
+	}
+	11173.1.7 = {
+		holder = 204797 # Richard de Clare
+	}
+	11189.7.6 = {
+		holder = 204510 #Richard I Lionheart
+	}
+	11199.4.6 = {
+		holder = 204514 #John
+	}
+	11216.10.28 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.1.2 = {
+		holder = 454510 #Edward II
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+}
+
+d_northumberland = {
+	10759.7.24 = {
+		holder = 205243
+	}
+	10765.1.1 = {
+		holder = 205237
+	}
+	10862.1.1 = {
+		holder = 163103
+	}
+	10875.1.1 = {
+		holder = 0
+	}
+	10939.1.1 = {
+		holder = 5790 # Olaf Cuaran
+	}
+	10941.1.1 = {
+		holder = 0
+	}
+	10947.1.1 = {
+		holder = 102507 # Eric Bloodaxe
+	}
+	10948.1.1 = {
+		holder = 5790 # Olaf Cuaran
+	}
+	10952.1.1 = {
+		holder = 102507 # Eric Bloodaxe
+	}
+	10954.1.1 = {
+		holder = 0
+	}
+	11041.1.1 = {
+		holder = 196 #Siward
+	}
+	11055.1.2 = {
+		holder = 124 #Tostig Godwinson
+	}
+	11066.1.1 = {
+		liege = "k_england"
+	}
+	11066.1.1 = {
+		holder = 5660 #Morcar of Hwicce
+	}
+	11072.1.1 = {
+		holder = 0
+	}
+	11178.1.1 = {
+		name = NORTHUMBERLAND
+	}
+}
+
+
+c_northumberland = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 11 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10765.1.1 = {
+		holder = 205237
+		liege = d_northumberland
+	}
+	10862.1.1 = {
+		holder = 163103
+	}
+	11041.1.1 = {
+		holder = 196 #Siward
+	}
+	11055.1.2 = {
+		holder = 124 #Tostig Godwinson
+	}
+	11066.1.1 = {
+		holder = 191 #Osulf of Bamburgh
+	}
+	11067.3.1 = {
+		holder = 85018 #Gospatric
+	}
+	11068.10.14 = {
+		liege = "d_lothian"
+	}
+	11072.1.1 = {
+		liege = "k_england"
+	}
+	11072.1.1 = {
+		holder = 198 #Waltheof
+	}
+	11076.5.31 = {
+		holder = 129016 #William Walcher
+	}
+	11080.5.14 = {
+		holder = 82070 #Robert de Mowbray
+	}
+	11135.12.2 = {
+		holder = 205851
+	}
+	11139.1.1 = {
+		holder = 203511 #Henry of Dunkeld
+	}
+	11152.1.7 = {
+		holder = 202999 #William 'the Lion' of Dunkeld
+	}
+	11157.1.1 = {
+		holder = english_clavering_1 # Roger fitzRichard
+	}
+	11177.1.1 = {
+		holder = english_clavering_2 # Robert fitzRoger
+	}
+	11189.1.1 = {
+		holder = 129024 #Hugh de Puiset, House of Blois
+	}
+	11191.6.1 = {
+		holder = 204510 #Richard I Lionheart
+	}
+	11199.4.6 = {
+		holder = 83312 #Richard de Umfraville
+	}
+	11226.7.1 = {
+		holder = 83314 #Gilbert I de Umfraville
+	}
+	11245.3.1 = {
+		holder = 83318 #Gilbert II de Umfraville
+	}
+	11307.7.1 = {
+		holder = 83320 #Robert de Umfraville
+	}
+	11325.4.12 = {
+		holder = 83322 #Gilbert III de Umfraville
+	}
+}
+
+c_durham = {
+	10765.1.1 = {
+		liege = "d_northumberland"
+		holder = 194104
+	}
+	10862.1.1 = {
+		holder = 163120
+	}
+	11066.1.1 = {
+		government = theocracy_government
+		holder = 131601
+	}
+	11071.1.1 = {
+		liege = "k_england"
+	}
+	11071.1.1 = {
+		holder = 129016 #William Walcher
+	}
+	11080.5.14 = {
+		holder = 129017 #William de St-Calais
+	}
+	11099.5.1 = {
+		holder = 129018 #Ranulf Flambard
+	}
+	11128.9.5 = {
+		holder = 129019 #Geoffrey Rufus
+	}
+	11141.5.1 = {
+		liege = "k_scotland"
+	}
+	11141.5.11 = {
+		holder = 129020 #William Cumin
+	}
+	11143.1.1 = {
+		liege = "k_england"
+	}
+	11143.3.14 = {
+		holder = 129021 #William of St. Barbara
+	}
+	11153.1.22 = {
+		holder = 129024 #Hugh de Puiset, House of Blois
+	}
+	11195.11.1 = {
+		holder = 129025 #Philip of Poitou
+	}
+	11208.4.22 = {
+		holder = 129026 #Richard Marsh
+	}
+	11226.5.1 = {
+		holder = 129027 #Richard Poore
+	}
+	11237.4.15 = {
+		holder = 129028 #Nicholas Farnham
+	}
+	11249.4.21 = {
+		holder = 129029 #Walter of Kirkham
+	}
+	11260.9.30 = {
+		holder = 129030 #Robert Stitchill
+	}
+	11274.9.24 = {
+		holder = 129031 #Robert of Holy Island
+	}
+	11283.7.9 = {
+		holder = 129032 #Antony Bek
+	}
+	11311.3.31 = {
+		holder = 129033 #Richard Kellaw
+	}
+	11316.10.9 = {
+		holder = 129034 #Lewis de Beaumont
+	}
+	11333.9.24 = {
+		holder = 129035 #Richard de Bury
+	}
+}
+
+c_cumberland = {
+	10765.1.1 = {
+		holder = 205237
+		liege = d_northumberland
+	}
+	10862.1.1 = {
+		holder = 163123
+	}
+	11066.1.1 = {
+		holder = 963 # Dolfin of Carlisle
+		liege = "d_galloway"
+	}
+	11092.1.1 = {
+		liege = "k_england"
+	}
+	11094.1.1 = {
+		holder = 82055
+	}
+	11098.1.1 = {
+		holder = 82062 # Ranulf le Meschin
+	}
+	11135.12.2 = {
+		holder = 205851
+	}
+	11149.1.1 = {
+		holder = vaux_2 # Hubert de Vaux
+	}
+	11165.1.1 = {
+		holder = vaux_1 # Robert de Vaux
+	}
+	11189.7.6 = {
+		holder = 204510
+	}
+	11199.4.6 = {
+		holder = 83312 #Richard de Umfraville
+	}
+	11226.7.1 = {
+		holder = 83314 #Gilbert I de Umfraville
+	}
+	11245.3.1 = {
+		holder = 83318 #Gilbert II de Umfraville
+	}
+	11272.11.16 = {
+		holder = 454520
+	}
+	11307.1.2 = {
+		holder = 454510
+	}
+	11322.1.1 = {
+		holder = 129036 #Andrew Harclay
+	}
+	11323.3.3 = {
+		liege = "k_scotland"
+	}
+	11323.3.3 = {
+		holder = 453501
+	}
+	11329.6.7 = {
+		holder = 453500
+	}
+
+}
+
+
+d_lancaster = {
+	10450.1.1 = {
+		holder = 159036 #Gwrast the Ragged
+	}
+	10490.1.1 = {
+		holder = 159035 #Meirchion Gul
+	}
+	10535.1.1 = {
+		holder = 159952 #Cynfarch Oer
+	}
+	10560.1.1 = {
+		holder = 159034 #Elidyr Llydanwyn
+	}
+	10565.1.1 = {
+		holder = 159033 #Llywarch Hen
+	}
+	10570.1.1 = {
+		holder = 159953 #Urien Rheged
+	}
+	10590.1.1 = {
+		holder = 159958 #Owain ap Urien
+	}
+	10597.1.1 = {
+		holder = 159959 #Elffin ap Owain
+	}
+	10616.1.1 = {
+		holder = 159955 #Rhoedd ap Rhun ap Urien
+	}
+	10638.1.1 = {
+		holder = 0
+	}
+	11066.1.1 = {
+		liege = "k_england"
+	}
+	11066.1.1 = {
+		holder = 5644 #Eadwin
+	}
+	11072.1.1 = {
+		holder = 140 # William the Conqueror
+	}
+	11087.9.9 = {
+		holder = 0
+	}
+	11189.7.6 = {
+		holder = 204510 #Richard I Lionheart
+	}
+	11199.4.6 = {
+		holder = 204514 #John
+	}
+	11203.1.1 = {
+		liege = 0
+		holder = 82080 # Robert de Vieuxpont
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+}
+
+c_lancashire = {
+	10765.1.1 = {
+		liege = "d_northumberland"
+		holder = 205228
+	}
+	10862.1.1 = {
+		holder = 163121
+	}
+	11066.1.1 = {
+		liege = "d_lancaster"
+		holder = 90027
+	}
+	11066.1.1 = {
+		holder = 5644 #Eadwin
+	}
+	11072.1.1 = {
+		holder = 140 # William the Conqueror
+	}
+	11087.9.9 = {
+		holder = 146 #William II Rufus
+	}
+	11100.1.1 = {
+		holder = english_lancaster_4 # Eldred
+		liege = k_england
+	}
+	11120.1.1 = {
+		holder = english_lancaster_3 # Gilbert
+	}
+	11150.1.1 = {
+		holder = english_lancaster_1
+	}
+	11170.1.1 = {
+		holder = english_lancaster_2 # William (II) de Lancaster
+	}
+	11187.1.1 = {
+		holder = 204514 #John
+	}
+	11203.1.1 = {
+		holder = 82080 # Robert de Vieuxpont
+	}
+	11241.2.1 = {
+		holder = 454522 #Henry III
+	}
+	11265.8.4 = {
+		holder = 454523 #Edmund
+	}
+	11296.6.5 = {
+		holder = 129037 #Thomas
+	}
+	11322.3.22 = {
+		holder = 454525 #Henry
+	}
+}
+
+
+c_westmorland = {
+	10765.1.1 = {
+		liege = "d_northumberland"
+		holder = 205228
+	}
+	10862.1.1 = {
+		holder = 163122
+	}
+	11055.1.1 = {
+		holder = 124 #Tostig Godwinson
+	}
+	11066.1.1 = {
+		holder = 191 #Morcar of Hwicce
+	}
+	11072.1.1 = {
+		holder = 140 # William the Conqueror
+	}
+	11080.1.1 = {
+		holder = 82052
+		liege = k_england
+	}
+	11087.1.2 = {
+		holder = 82054
+	}
+	11094.1.1 = {
+		holder = 82055
+	}
+	11098.1.1 = {
+		holder = 82062 # Ranulf le Meschin
+	}
+	11120.11.25 = {
+		holder = 82065
+	}
+	11129.7.1 = {
+		holder = 82074
+	}
+	11140.1.1 = {
+		holder = 332026
+	}
+	11157.1.1 = {
+		holder = 332028
+	}
+	11174.1.1 = {
+		holder = 82078 # William de Vieuxpont
+	}
+	11203.1.1 = {
+		holder = 82080 # Robert de Vieuxpont
+	}
+	11228.2.1 = {
+		holder = 82081 # John de Vieuxpont
+	}
+	11241.2.1 = {
+		holder = 82082 # Robert de Vieuxpont
+	}
+	11264.2.1 = {
+		holder = 82084 # Roger de Clifford
+	}
+	11282.1.1 = {
+		holder = 454600 # Robert de Clifford
+	}
+	11314.1.25 = {
+		holder = 454602 # Robert de Clifford
+	}
+
+}
+
+
+c_cheshire = {
+	10758.1.1 = {
+		liege = "d_hereford"
+		holder = 205081
+	}
+	10852.1.1 = {
+		holder = 163102
+	}
+	11066.1.1 = {
+		liege = "d_lancaster"
+	}
+	11066.1.2 = {
+		holder = 90027
+	}
+	11066.12.6 = {
+		liege = "k_england"
+	}
+	11066.12.6 = {
+		holder = 167007 # Gerbod van Oosterzeele
+	}
+	11071.2.22 = {
+		holder = 41251 #Hugh d'Avranches
+	}
+	11101.7.27 = {
+		holder = 82085 #Richard d'Avranches
+	}
+	11120.11.25 = {
+		holder = 82062 # Ranulf (I) de Briquessart, 3rd Earl of Chester
+		liege = k_england
+	}
+	11129.1.10 = {
+		holder = 204687 # Ranulf (II) de Briquessart, 4th Earl of Chester
+	}
+	11153.12.16 = {
+		holder = 204685 # Hugh de Briquessart, 5th Earl of Chester
+	}
+	11181.6.30 = {
+		holder = 204680 #Ranulf
+	}
+	11232.10.26 = {
+		liege = k_england
+		holder = 204681 #Maud
+	}
+	11232.11.21 = {
+		holder = 7459 #John of Scotland
+	}
+	11237.6.6 = {
+		holder = 454522
+	}
+	11264.1.1 = {
+		holder = 7465 #Simon de Montfort
+	}
+	11265.8.5 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11301.1.1 = {
+		holder = 454510
+	}
+	11312.11.13 = {
+		holder = 454500
+	}
+	11337.1.1 = {
+		holder = 454501
+	}
+}
+
+c_derby = {
+	10758.1.1 = {
+		liege = "d_hereford"
+		holder = 205081
+	}
+	10852.1.1 = {
+		holder = 163102
+	}
+	11066.1.1 = {
+		liege = "d_lancaster"
+	}
+	11066.1.1 = {
+		holder = 5644 #Eadwin
+	}
+	11066.10.14 = {
+		holder = 140 # William the Conqueror
+	}
+	11072.1.1 = {
+		holder = 41241 # Henry de Ferrers
+		liege = k_england
+	}
+	11100.1.1 = {
+		holder = 7430 #Robert de Ferrers
+	}
+	11139.1.1 = {
+		holder = 204700 #Robert de Ferrers
+	}
+	11162.1.1 = {
+		holder = 204690 #William de Ferrers
+	}
+	11199.1.1 = {
+		holder = 204694 #William de Ferrers
+	}
+	11247.1.1 = {
+		liege = d_lancaster
+		holder = 7429 #William de Ferrers
+	}
+	11254.3.28 = {
+		holder = 129042 #Robert de Ferrers
+	}
+	11269.1.1 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.1.2 = {
+		holder = 454510 #Edward II
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+	
+	11337.1.1 = {
+		holder = 454527
+	}
+}
+
+d_york = {
+	11178.1.1 = { change_development_level = 16 }
+
+	10383.1.1 = {
+		holder = 159038 #Coel Hen
+	}
+	10420.1.1 = {
+		holder = 159037 #Ceneu ap Coel
+	}
+	10500.1.1 = {
+		holder = 0
+	}
+	10866.11.1 = {
+		holder = 163112 # Halfdan Ragnarsson, first "king" of Jorvik
+	}
+	10875.1.1 = {
+		holder = 0
+	}
+	11023.1.1 = {
+		holder = 196 #Siward
+	}
+	
+	11055.1.1 = {
+		liege = "k_england"
+		holder = 124 #Tostig Godwinson
+	}
+	
+	11066.1.1 = {
+		holder = 5660 # Morcar of Hwicce
+	}
+	11070.1.1 = {
+		holder = 0 # William the Conqueror
+	}
+	11189.7.6 = {
+		holder = 204510
+	}
+	11199.1.1 = {
+		holder = 204694
+	}
+	11216.10.28 = {
+		holder = 454522
+	}
+	11272.11.16 = {
+		holder = 454520
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500
+	}
+}
+
+c_north_riding = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 11 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	#Earls of Richmond used for this title
+	10765.1.1 = {
+		liege = "d_northumberland"
+		holder = 205244
+	}
+	10862.1.1 = {
+		holder = 163120 #Aella
+	}
+	10866.11.1 = {
+		liege = "d_york"
+		holder = 163112
+	}
+	#10875.1.1 = {
+	#	holder = 0
+	#}
+	11055.1.1 = {
+		holder = 124 #Tostig Godwinson
+	}
+	11066.1.1 = {
+		holder = 5660 #Morcar
+	}
+	11070.1.1 = {
+		holder = 356 #Alain 'Rufus' de Penthièvre
+	}
+	11089.1.1 = {
+		holder = 10047 #Alain Niger
+	}
+	11093.1.1 = {
+		holder = 205744 #Étienne I de Penthièvre
+	}
+	11070.5.23 = {
+		holder = york_archbishop_5 # Thomas
+		government = theocracy_government
+	}
+	11100.11.18 = {
+		holder = york_archbishop_4 # Gerard
+	}
+	11108.5.21 = {
+		holder = york_archbishop_3 # Thomas of York
+	}
+	11114.2.24 = {
+		holder = york_archbishop_2 # Turstin
+	}
+	11143.1.1 = {
+		holder = york_archbishop_1 # William FitzHerbert
+	}
+	11147.1.1 = {
+		holder = york_archbishop_6 # Henry Murdac
+	}
+	11153.1.1 = {
+		holder = york_archbishop_1 # William FitzHerbert
+	}
+	11154.6.8 = {
+		holder = pont_leveque_1 # Roger de Pont L'Évêque, archbishop of York
+		liege = k_england
+	}
+	11189.7.6 = {
+		holder = 204510 #Richard I Lionheart
+	}
+	11199.1.1 = {
+		holder = 204694 #William de Ferrers
+	}
+	11241.1.1 = {
+		holder = 70909 #Pierre of Savoy
+	}
+	11263.1.1 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+}
+
+c_east_riding = {
+	#Earls of Richmond used for this title
+	10765.1.1 = {
+		liege = "d_northumberland"
+		holder = 205244
+	}
+	10862.1.1 = {
+		holder = 163120 #King Aella
+	}
+	10866.11.1 = {
+		liege = "d_york"
+		holder = 163112
+	}
+	#10875.1.1 = {
+	#	holder = 0
+	#}
+	11055.1.1 = {
+		holder = 124 #Tostig Godwinson
+	}
+	11066.1.1 = {
+		holder = 5660 #Morcar
+	}
+	11070.1.1 = {
+		holder = 356 #Alain 'Rufus' de Penthièvre
+	}
+	11087.1.1 = {
+		holder = 391 # Eudes de Blois
+	}
+	11115.1.1 = {
+		holder = 40390 # Etienne de Blois
+	}
+	11127.1.1 = {
+		holder = aumale_1 # William le Gros, Earl of York
+		liege = k_england
+	}
+	11189.7.6 = {
+		holder = 204510 #Richard I Lionheart
+	}
+	11199.1.1 = {
+		holder = 204694 #William de Ferrers
+	}
+	11241.1.1 = {
+		holder = 70909 #Pierre of Savoy
+	}
+	11263.1.1 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+	
+
+}
+
+
+c_west_riding = {
+	#Earls of Richmond used for this title
+	10765.1.1 = {
+		liege = "d_northumberland"
+		holder = 205244
+	}
+	10862.1.1 = {
+		holder = 163120 #King Aella
+	}
+	10866.11.1 = {
+		liege = "d_york"
+		holder = 163112
+	}
+	#10875.1.1 = {
+	#	holder = 0
+	#}
+	11055.1.1 = {
+		holder = 124 #Tostig Godwinson
+	}
+	11066.1.1 = {
+		holder = 5660 #Morcar
+	}
+	11070.1.1 = {
+		holder = 356 #Alain 'Rufus' de Penthièvre
+	}
+	11089.1.1 = {
+		holder = 10047 #Alain Niger
+	}
+	11093.1.1 = {
+		holder = 205744 #Étienne I de Penthièvre
+	}
+	11093.8.24 = {
+		holder = 146 #William II Rufus
+	}
+	11100.8.3 = {
+		holder = 202992 #Henry I
+	}
+	11135.12.2 = {
+		holder = 205851 #Stephen
+	}
+	11136.4.21 = {
+		holder = 205751 #Alain de Penthièvre
+	}
+	11146.1.1 = {
+		holder = 205851 #Stephen
+	}
+	11154.10.25 = {
+		holder = 204500 #Henry II
+	}
+	11189.7.6 = {
+		holder = 204510 #Richard I Lionheart
+	}
+	11199.1.1 = {
+		holder = 204694 #William de Ferrers
+	}
+	11241.1.1 = {
+		holder = 70909 #Pierre of Savoy
+	}
+	11263.1.1 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+}
+
+c_lincolnshire = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 11 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10758.1.1 = {
+		holder = 205072
+	}
+	
+	10852.1.1 = {
+		liege = "d_hereford"
+	}
+	10839.1.1 = {
+		holder = 306018 #Æthelred Mucel
+	}
+	10879.1.1 = {
+		holder = 306021 #Æthelwulf Mucel
+	}
+	11055.1.1 = {
+		holder = 124 #Tostig Godwinson
+		liege = "d_york"
+	}
+	11066.1.1 = {
+		holder = 5660 #Morcar
+	}
+	11066.10.14 = {
+		holder = 140 #William the Conqueror
+	}
+	11140.12.1 = {
+		holder = 82056 #William de Roumare
+		liege = k_england
+	}
+	11150.6.1 = {
+		holder = 161440 #Gilbert de Gand
+	}
+	11153.1.28 = {
+		holder = 204685 #Hugh de Briquessart
+	}
+	11187.1.1 = {
+		holder = 155241
+	}
+	11190.1.1 = {
+		holder = 204582 #Robert (IV) de Beaumont
+	}
+	11204.10.21 = {
+		holder = 204586 #Simon (I) de Montfort
+	}
+	11217.5.23 = {
+		holder = 204680 #Ranulf de Blondeville
+	}
+	11232.1.1 = {
+		holder = 204684 #Hawise of Chester
+	}
+	11232.6.1 = {
+		holder = 454045 #John de Lacy
+	}
+	11240.1.1 = {
+		holder = 454046 #Margaret de Quincy
+	}
+	11265.1.1 = {
+		holder = 454040 #Henry de Lacy
+	}
+	11311.1.1 = {
+		holder = 454023 #Alice de Lacy
+	}
+}
+
+
+d_norfolk = {
+	10760.1.1 = {
+		holder = 205015
+	}
+	10779.1.1 = {
+		holder = 205016
+	}
+	10855.1.8 = {
+		holder = 163064
+	}
+	10879.1.1 = {
+		holder = 168650
+	}
+	
+	11045.1.1 = {
+		holder = 122
+	}
+	11066.1.1 = {
+		liege = "k_england"
+	}
+	11066.1.1 = {
+		holder = 132 #Gyrth Godwinsson
+	}
+	11066.10.14 = {
+		holder = 0
+	}
+}
+
+
+c_norfolk = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 21 }
+	
+	10760.1.1 = {
+		holder = 205015
+	}
+	10779.1.1 = {
+		holder = 205016
+	}
+	10855.1.8 = {
+		liege = "d_norfolk"
+	}
+	10855.1.8 = {
+		holder = 163064
+	}
+	10879.1.1 = {
+		holder = 168650
+	}
+	11045.1.1 = {
+		holder = 122
+	}
+	11066.1.1 = {
+		holder = 5650 #Radulf 'Stalre'
+	}
+	11066.10.14 = {
+		liege = "k_england"
+	}
+	11068.1.1 = {
+		holder = 5652 #Radulf 'de Guader'
+	}
+	11074.1.1 = {
+		holder = bigod_1 # Roger de Bigod
+	}
+	11107.1.1 = {
+		holder = 204735 #Hugh de Bigod
+	}
+	11177.1.1 = {
+		holder = 204730 #Roger de Bigod
+	}
+	11221.1.1 = {
+		holder = 204731 #Hugh de Bigod
+	}
+	11225.1.1 = {
+		holder = 7457 #Roger de Bigod
+	}
+	11270.1.1 = {
+		holder = 7454 #Roger de Bigod
+	}
+	11306.12.6 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11312.1.1 = {
+		holder = 454550 #Thomas of Brotherton
+	}
+
+}
+
+
+c_suffolk = {
+	10760.1.1 = {
+		holder = 205015
+	}
+	10779.1.1 = {
+		holder = 205016
+	}
+	10855.1.8 = {
+		liege = "d_norfolk"
+	}
+	10855.1.8 = {
+		holder = 163064
+	}
+	
+	10879.1.1 = {
+		holder = 168650
+	}
+	11045.1.1 = {
+		holder = 122
+	}
+	11066.1.5 = {
+		holder = 132 #Gyrth Godwinsson
+	}
+	11066.10.14 = {
+		liege = "k_england"
+	}
+	11066.10.14 = {
+		holder = 41236 #Robert le Blount
+	}
+	11068.1.1 = {
+		holder = 5652 #Radulf 'de Guader'
+	}
+	11074.1.1 = {
+		holder = bigod_1 # Roger de Bigod
+	}
+	11107.1.1 = {
+		holder = 204735 #Hugh de Bigod
+	}
+	11177.1.1 = {
+		holder = 204730 #Roger de Bigod
+	}
+	11189.7.6 = {
+		holder = 204510 #Richard I Lionheart
+	}
+	11199.4.6 = {
+		holder = 204514 #John
+	}
+	11216.10.18 = {
+		holder = 204730 #Roger de Bigod
+	}
+	11216.10.28 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+	11337.1.1 = {
+		holder = 454030 #Robert d'Ufford
+	}
+}
+
+
+c_cambridgeshire = {
+	10760.1.1 = {
+		holder = 205015
+	}
+	10779.1.1 = {
+		holder = 205016
+	}
+	10855.1.8 = {
+		liege = "d_norfolk"
+	}
+	10855.1.8 = {
+		holder = 163064
+	}
+	
+	10879.1.1 = {
+		holder = 168650
+	}
+	11045.1.1 = {
+		holder = 122
+	}
+	11066.1.5 = {
+		holder = 132 #Gyrth Godwinsson
+	}
+	11066.10.14 = {
+		liege = "k_england"
+	}
+	11066.10.14 = {
+		holder = 41236 #Robert le Blount
+	}
+	11074.1.1 = {
+		holder = 41238 #Gilbert le Blount
+	}
+	11116.1.1 = {
+		holder = 202992 #Henry I
+	}
+	11135.12.2 = {
+		holder = 205851 #Stephen
+	}
+	11154.10.25 = {
+		holder = 204500 #Henry II
+	}
+	11189.7.6 = {
+		holder = 204510 #Richard I Lionheart
+	}
+	11199.4.6 = {
+		holder = 204514 #John
+	}
+	11216.10.18 = {
+		holder = 204730 #Roger de Bigod
+	}
+	11216.10.28 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+	11337.1.1 = {
+		holder = 454030 #Robert d'Ufford
+	}
+	
+
+}
+
+
+d_hereford = { # Mercia
+	10758.1.1 = {
+		holder = 205072
+	}
+	10852.1.1 = {
+		holder = 163102
+	}
+	11066.1.1 = {
+		liege = "k_england"
+	}
+	11066.1.1 = {
+		holder = 5644 #Eadwin
+	}
+	11072.1.1 = {
+		holder = 0
+		liege = 0
+	}
+	11178.1.1 = {
+		name = HEREFORD
+	}
+}
+
+
+c_warwickshire = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 11 }
+	11178.1.1 = { change_development_level = 16 }
+	
+	10758.1.1 = {
+		liege = "d_hereford"
+		holder = 205080
+	}
+	10760.1.1 = {
+		holder = 205089
+	}
+	10769.1.1 = {
+		holder = 205090
+	}
+	10852.1.1 = {
+		holder = 163102
+	}
+	11066.1.1 = {
+		liege = "d_lancaster"
+		holder = 161270
+	}
+	11066.1.5 = {
+		holder = 112
+	}
+	11066.10.14 = {
+		liege = "k_england"
+	}
+	11066.10.14 = {
+		holder = 140 #William the Conqueror
+	}
+	11087.9.9 = {
+		holder = 204717 #Henry de Beaumont
+	}
+	11119.6.20 = {
+		holder = 204715 #Roger de Beaumont
+	}
+	11153.6.12 = {
+		holder = 129056 #William de Beaumont
+	}
+	11184.11.15 = {
+		holder = 204710 #Walderan de Beaumont
+	}
+	11204.12.12 = {
+		holder = 204711 #Henry de Beaumont
+	}
+	11229.10.10 = {
+		holder = 7451 #Thomas de Beaumont
+	}
+	11242.6.26 = {
+		holder = 7450 #Margaret de Beaumont
+	}
+	11253.6.3 = {
+		holder = 454027 #William Maudit
+	}
+	11267.1.8 = {
+		holder = 7453 #William de Beauchamp
+	}
+	11298.1.1 = {
+		holder = 454590 #Guy de Beauchamp
+	}
+	11315.8.12 = {
+		holder = 454592 #Thomas de Beauchamp
+	}
+
+}
+
+
+c_leicestershire = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10758.1.1 = {
+		holder = 205072
+	}
+	10852.1.1 = {
+		liege = "d_hereford"
+	}
+	10852.1.1 = {
+		holder = 163102
+	}
+	11066.1.1 = {
+		liege = "k_england"
+	}
+	11066.1.1 = {
+		holder = 5644 #Eadwin
+	}
+	11066.10.14 = {
+		holder = 204596 #Robert (I) de Beaumont
+	}
+	11118.6.5 = {
+		holder = 204590 #Robert (II) de Beaumont
+	}
+	11168.4.5 = {
+		holder = 204580 #Robert (III) de Beaumont
+	}
+	11190.1.1 = {
+		holder = 204582 #Robert (IV) de Beaumont
+	}
+	11204.10.21 = {
+		holder = 204586 #Simon (I) de Montfort
+	}
+	11218.6.25 = {
+		holder = 7465 #Simon (II) de Montfort
+	}
+	11265.8.4 = {
+		holder = 454523 #Edmund
+	}
+	11296.6.5 = {
+		holder = 129037 #Thomas
+	}
+	11322.3.22 = {
+		holder = 454525 #Henry
+	}
+
+}
+
+
+c_nottinghamshire = {
+	10758.1.1 = {
+		holder = 205072
+	}
+	10839.1.1 = {
+		holder = 306018 #Æthelred Mucel
+	}
+	10852.1.1 = {
+		liege = "d_hereford"
+	}
+	10879.1.1 = {
+		holder = 306021 #Æthelwulf Mucel
+	}
+	11066.1.1 = {
+		liege = "k_england"
+	}
+	11066.1.1 = {
+		holder = 5644 #Eadwin
+	}
+	11066.10.14 = {
+		holder = 204596 #Robert (I) de Beaumont
+	}
+	11118.6.5 = {
+		holder = 204590 #Robert (II) de Beaumont
+	}
+	11168.4.5 = {
+		holder = 204580 #Robert (III) de Beaumont
+	}
+	11190.1.1 = {
+		holder = 204582 #Robert (IV) de Beaumont
+	}
+	11204.10.21 = {
+		holder = 204586 #Simon (I) de Montfort
+	}
+	11218.6.25 = {
+		holder = 7465 #Simon (II) de Montfort
+	}
+	11265.8.4 = {
+		holder = 454523 #Edmund
+	}
+	11296.6.5 = {
+		holder = 129037 #Thomas
+	}
+	11322.3.22 = {
+		holder = 454525 #Henry
+	}
+	
+	
+
+}
+
+
+c_staffordshire = {
+	10758.1.1 = {
+		holder = 205072
+	}
+	10852.1.1 = {
+		liege = "d_hereford"
+	}
+	10852.1.1 = {
+		holder = 163102
+	}
+	11066.1.1 = {
+		liege = "k_england"
+	}
+	11066.1.1 = {
+		holder = 5644 #Eadwin
+	}
+	11066.1.5 = {
+		liege = d_lancaster
+		holder = 113
+	}
+	11066.10.14 = {
+		holder = 204596 #Robert (I) de Beaumont
+		liege = k_england
+	}
+	11118.6.5 = {
+		holder = 204590 #Robert (II) de Beaumont
+	}
+	11168.4.5 = {
+		holder = 204580 #Robert (III) de Beaumont
+	}
+	11190.1.1 = {
+		holder = 204582 #Robert (IV) de Beaumont
+	}
+	11204.10.21 = {
+		holder = 204586 #Simon (I) de Montfort
+	}
+	11218.6.25 = {
+		holder = 7465 #Simon (II) de Montfort
+	}
+	11265.8.4 = {
+		holder = 454523 #Edmund
+	}
+	11296.6.5 = {
+		holder = 129037 #Thomas
+	}
+	11322.3.22 = {
+		holder = 454525 #Henry
+	}
+
+}
+
+
+c_worcestershire = {
+	10758.1.1 = {
+		liege = "d_hereford"
+		holder = 205080
+	}
+	10760.1.1 = {
+		holder = 205089
+	}
+	10769.1.1 = {
+		holder = 205090
+	}
+	10852.1.1 = {
+		government = theocracy_government
+		holder = 163102
+	}
+	11066.1.1 = {
+		liege = "d_lancaster"
+	}
+	11066.1.5 = {
+		holder = 82040 #Wulfstan
+	}
+	11066.10.14 = {
+		liege = "k_england"
+	}
+	11095.1.20 = {
+		holder = 129058 #Samson
+	}
+	11112.5.5 = {
+		holder = 129059 #Theulf
+	}
+	11123.10.20 = {
+		holder = 129060 #Simon of Worcester
+	}
+	11150.3.20 = {
+		holder = 129061 #John of Pageham
+	}
+	11157.12.1 = {
+		holder = 129062 #Alured
+	}
+	11160.7.31 = {
+		holder = 129063 #Roger of Worcester
+	}
+	11179.8.9 = {
+		holder = 129064 #Baldwin of Forde
+	}
+	11186.5.25 = {
+		holder = 129065 #William of Nothall
+	}
+	11190.5.2 = {
+		holder = 129066 #Robert FitzRalph
+	}
+	11193.6.27 = {
+		holder = 129067 #Henry de Sully
+	}
+	11195.10.25 = {
+		holder = 129068 #John of Coutances
+	}
+	11198.9.24 = {
+		holder = 129069 #Mauger of Worcester
+	}
+	11212.7.1 = {
+		holder = 129070 #Randulf of Evesham
+	}
+	11214.1.20 = {
+		holder = 129071 #Walter de Gray
+	}
+	11216.4.3 = {
+		holder = 129072 #Sylvester of Worcester
+	}
+	11218.7.16 = {
+		holder = 129073 #William de Blois
+	}
+	11236.8.17 = {
+		holder = 129074 #Walter de Cantilupe
+	}
+	11266.1.11 = {
+		holder = 129075 #Nicholas of Ely
+	}
+	11268.3.2 = {
+		holder = 129076 #Godfrey Giffard
+	}
+	11302.1.26 = {
+		holder = 129077 #William Gainsborough
+	}
+	11307.9.17 = {
+		holder = 129078 #Walter Reynolds
+	}
+	11313.5.1 = {
+		holder = 129079 #Walter Maidstone
+	}
+	11317.3.28 = {
+		holder = 129080 #Thomas Cobham
+	}
+	11327.8.27 = {
+		holder = 129081 #Adam Orleton
+	}
+	11333.12.1 = {
+		holder = 82042 #Simon Montacute
+	}
+}
+
+
+c_huntingdonshire = {
+	11178.1.1 = { change_development_level = 13 }
+
+	10758.1.1 = {
+		holder = 205072
+	}
+	10852.1.1 = {
+		liege = "d_hereford"
+	}
+	10852.1.1 = {
+		holder = 163102
+	}
+	11066.1.1 = {
+		liege = "k_england"
+	}
+	11066.1.2 = {
+		holder = 198 #Waltheof Siwardsson
+	}
+	11076.1.1 = {
+		holder = 199 #Maud, Countess of Huntington
+	}
+	11090.1.1 = {
+		holder = 161431 #Simon I de Senlis
+	}
+	11111.1.1 = {
+		holder = 161432 #Simon II de Senlis
+	}
+	11130.1.1 = {
+		holder = 203511 #Henry of Dunkeld
+	}
+	11138.1.1 = {
+		holder = 161432 #Simon II de Senlis
+	}
+	11145.1.1 = {
+		holder = 203000 #Malcolm of Dunkeld
+	}
+	11153.5.24 = {
+		holder = 202999 #William 'the Lion' of Dunkeld
+	}
+	11174.1.1 = {
+		holder = 161435 # Simon de Senlis
+	}
+	11184.1.1 = {
+		holder = 203520 #David of Dunkeld
+	}
+	11219.7.17 = {
+		holder = 7459 #John of Dunkeld
+	}
+	11237.6.6 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+	11337.1.1 = {
+		holder = 454562 #William de Bohun
+	}
+}
+
+
+c_northamptonshire = {
+	11178.1.1 = { change_development_level = 17 }
+
+	10758.1.1 = {
+		holder = 205072
+	}
+	10852.1.1 = {
+		liege = "d_hereford"
+	}
+	10852.1.1 = {
+		holder = 163102
+	}
+	11066.1.1 = {
+		liege = "k_england"
+	}
+	11066.1.1 = {
+		holder = 198 #Waltheof Siwardsson
+	}
+	11076.1.1 = {
+		holder = 199 #Maud, Countess of Huntington
+	}
+	11090.1.1 = {
+		holder = 161431 #Simon I de Senlis
+	}
+	11111.1.1 = {
+		holder = 161432 #Simon II de Senlis
+	}
+	11130.1.1 = {
+		holder = 203511 #Henry of Dunkeld
+	}
+	11138.1.1 = {
+		holder = 161432 #Simon II de Senlis
+	}
+	11145.1.1 = {
+		holder = 203000 #Malcolm of Dunkeld
+	}
+	11153.5.24 = {
+		holder = 202999 #William 'the Lion' of Dunkeld
+	}
+	11174.1.1 = {
+		holder = 161435 # Simon de Senlis
+	}
+	11184.1.1 = {
+		holder = 203520 #David of Dunkeld
+	}
+	11219.7.17 = {
+		holder = 7459 #John of Dunkeld
+	}
+	11237.6.6 = {
+		holder = 454522 #Henry III
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+	11337.1.1 = {
+		holder = 454562 #William de Bohun
+	}
+}
+
+
+c_shropshire = {
+	10844.1.1 = {
+		holder = 81831 #Rhodri Mawr the Great
+	}
+	11066.1.1 = {
+		liege = "d_hereford"
+		holder = 90027 #Eadric the Wild
+	}
+	11154.10.25 = {
+		holder = 204500 #Henry II
+	}
+	11162.1.1 = {
+		holder = 204021 # Hugh de Lacy, as the owner of Ludlow Castle
+		liege = k_england
+	}
+}
+
+
+c_hereford = {
+	11178.1.1 = { change_development_level = 14 }
+
+	10740.1.1 = {
+		liege = d_deheubarth
+		holder = 159113 #
+	}
+	10852.1.1 = {
+		de_jure_liege = d_hereford
+		liege = d_hereford
+	}
+	10852.1.1 = {
+		holder = 163102
+	}
+	11052.1.1 = {
+		holder = 40418
+	}
+	11057.1.1 = {
+		liege = "d_lancaster"
+	}
+	11057.1.5 = {
+		holder = 5644 #Eadwin
+	}
+	11066.1.1 = {
+		holder = 82040
+	}
+	11066.10.14 = {
+		liege = "k_england"
+	}
+	11066.10.14 = {
+		holder = 6806 #William de Crepon
+	}
+	11071.2.22 = {
+		holder = 6807 #Roger de Crepon
+	}
+	11074.1.1 = {
+		holder = 140 #William the Conqueror
+	}
+	11087.9.9 = {
+		holder = 146 #William II Rufus
+	}
+	11100.8.3 = {
+		holder = 202992 #Henry I
+	}
+	11115.8.5 = {
+		holder = 161610 # Hugh Mortimer, as owner of Wigmore Castle
+	}
+	11189.7.6 = {
+		holder = 204510 #Richard I Lionheart
+	}
+	11199.4.6 = {
+		holder = 204514 #John
+	}
+	11199.6.1 = {
+		holder = 204600 #Henry de Bohun
+	}
+	11220.6.1 = {
+		holder = 7462 #Humphrey de Bohun
+	}
+	11275.9.24 = {
+		holder = 7463 #Humphrey de Bohun
+	}
+	11298.12.31 = {
+		holder = 454561 #Humphrey de Bohun
+	}
+	11321.11.6 = {
+		holder = 7464 #John of Bohun
+	}
+	11335.1.20 = {
+		holder = 454560 #Humphrey de Bohun
+	}
+
+}
+
+
+d_gloucester = {
+	10300.1.1 = {
+		holder = 159944 #Gloyw
+	}
+	10321.1.1 = {
+		holder = 159945 # Gwydolin ap Gloyw
+	}
+	10351.1.1 = {
+		holder = 159946 # Gwydol ap Gwydolin
+	}
+	10365.1.1 = {
+		holder = 159947 # Pasgen ap Gwydol
+	}
+	10391.1.1 = {
+		holder = 159948 # Cadeyrn ap Pasgen
+	}
+	10421.1.1 = {
+		holder = 159058 # Cadell Ddyrnllwg
+	}
+	10447.1.1 = {
+		holder = 0
+	}
+	10759.1.1 = {
+		holder = 205128
+	}
+	10777.1.1 = {
+		holder = 0
+	}
+	11178.1.1 = {
+		name = GLOUCESTER
+	}
+}
+
+
+c_gloucestershire = {
+	11178.1.1 = { change_development_level = 24 }
+
+	10759.1.1 = {
+		holder = 205128
+	}
+	10865.1.1 = {
+		liege = "k_england"
+		holder = 33358
+	}
+	11066.1.1 = {
+		liege = "d_lancaster"
+	}
+	11066.1.5 = {
+		holder = 82040
+	}
+	11066.10.14 = {
+		liege = "k_england"
+	}
+	11066.10.14 = {
+		holder = 6806 #William de Crepon
+	}
+	11071.2.22 = {
+		holder = 6807 #Roger de Crepon
+	}
+	11074.1.1 = {
+		holder = 140 #William the Conqueror
+	}
+	11087.9.9 = {
+		holder = 146 #William II Rufus
+	}
+	11090.1.1 = {
+		liege = k_england
+	}
+	11090.1.1 = {
+		holder = 138455 #Robert Fitzhamon
+	}
+	11107.3.1 = {
+		holder = 138457 #Mabel Fitzhamon
+	}
+	11112.1.1 = {
+		holder = 203036 #Robert FitzHenry
+	}
+	11147.1.11 = {
+		holder = 204670 #William FitzRobert
+	}
+	11183.1.13 = {
+		holder = 204665 #Isabelle
+	}
+	11217.10.14 = {
+		holder = 204801 #Gilbert de Clare
+	}
+	11230.10.25 = {
+		holder = 454048 #Richard de Clare
+	}
+	11262.7.14 = {
+		holder = 454606 #Gilbert de Clare
+	}
+	11295.1.25 = {
+		holder = 454605 #Joan of Acre
+	}
+	11307.4.23 = {
+		holder = 454049 #Gilbert de Clare
+	}
+	11314.1.25 = {
+		holder = 454510 #Edward II
+	}
+	11327.1.25 = {
+		holder = 454500 #Edward III
+	}
+	11337.1.1 = {
+		holder = 454610 #Hugh d'Audley
+	}
+
+}
+
+
+c_wiltshire = {
+	10757.1.1 = {
+		holder = 205180
+	}
+	10865.1.1 = {
+		liege = "k_england"
+		holder = 33358
+	}
+	11066.1.5 = {
+		holder = 122 # Harold Godwinson
+	}
+	#11066.10.14 = {
+	#	liege = "d_gloucester"
+	#}
+	11066.10.14 = {
+		holder = 140 #William the Conqueror
+	}
+	11070.1.1 = {
+		holder = salisbury_1 # Edward of Salisbury
+	}
+	11107.1.1 = {
+		holder = 204535 # Walter of Salisbury
+	}
+	11150.1.20 = {
+		holder = 204533 #Patrick of Salisbury
+	}
+	11168.1.20 = {
+		holder = 204530 #William of Salisbury
+	}
+	11196.1.1 = {
+		holder = 204532 #Ela of Salisbury
+	}
+	11261.1.1 = {
+		holder = 454041 #Margaret Longespée
+	}
+	11310.1.1 = {
+		holder = 454023 #Alice de Lacy
+	}
+	11331.1.1 = {
+		holder =  420021 #William de Montagu
+	}
+}
+
+
+c_oxfordshire = {
+	11178.1.1 = { change_development_level = 15 }
+
+	10745.1.1 = {
+		liege = "d_hereford"
+		holder = 205104
+	}
+	10767.1.1 = {
+		holder = 205105
+	}
+	10865.1.1 = {
+		liege = "k_england"
+		holder = 33358
+	}
+	11066.1.5 = {
+		holder = 122 # Harold Godwinson
+	}
+	11066.10.14 = {
+		holder = 140 #William the Conqueror
+	}
+	11087.9.9 = {
+		holder = 146 #William II Rufus
+	}
+	11093.1.1 = {
+		holder = 32143 #Walter I Giffard, earl of Buckinghamshire
+	}
+	11102.7.15 = {
+		holder = 161452 #Walter II Giffard, earl of Buckinghamshire
+	}
+	#Earls of Oxford
+	11141.7.1 = {
+		holder = 204550 #Aubrey de Vere
+	}
+	11194.12.1 = {
+		holder = 204555 #Aubrey de Vere
+	}
+	11214.10.1 = {
+		holder = 204551 #Robert de Vere
+	}
+	11221.10.1 = {
+		holder = 129044 #Hugh de Vere
+	}
+	11263.12.1 = {
+		holder = 454583 #Robert de Vere
+	}
+	11296.1.1 = {
+		holder = 129047 #Robert de Vere
+	}
+	11331.4.17 = {
+		holder = 454586 #John de Vere
+	}
+	
+	11337.1.1 = {
+		holder = 454586
+	}
+
+}
+
+
+c_berkshire = {
+	
+	
+	10745.1.1 = {
+		liege = "d_hereford"
+		holder = 205104
+	}
+	10767.1.1 = {
+		holder = 205105
+	}
+	10865.1.1 = {
+		liege = "k_england"
+		holder = 33358
+	}
+	11066.1.5 = {
+		holder = 122 # Harold Godwinson
+	}
+	11066.10.14 = {
+		holder = 140 #William the Conqueror
+	}
+	11087.9.9 = {
+		holder = 146 #William II Rufus
+	}
+	11093.1.1 = {
+		holder = 32143 #Walter I Giffard, earl of Buckinghamshire
+	}
+	11102.7.15 = {
+		holder = 161452 #Walter II Giffard, earl of Buckinghamshire
+	}
+	#Earls of Oxford
+	11141.7.1 = {
+		holder = 204550 #Aubrey de Vere
+	}
+	11194.12.1 = {
+		holder = 204555 #Aubrey de Vere
+	}
+	11214.10.1 = {
+		holder = 204551 #Robert de Vere
+	}
+	11221.10.1 = {
+		holder = 129044 #Hugh de Vere
+	}
+	11263.12.1 = {
+		holder = 454583 #Robert de Vere
+	}
+	11296.1.1 = {
+		holder = 129047 #Robert de Vere
+	}
+	11331.4.17 = {
+		holder = 454586 #John de Vere
+	}
+	
+	11337.1.1 = {
+		holder = 454586
+	}
+
+}
+
+
+d_canterbury = {
+	10440.1.1 = {
+		holder = 205026
+	}
+	10500.1.1 = {
+		holder = 205028
+	}
+	10516.1.1 = {
+		holder = 205029
+	}
+	10540.1.1 = {
+		holder = 205030
+	}
+	10590.1.1 = {
+		holder = 205031
+	}
+	10616.2.24 = {
+		holder = 205032
+	}
+	10640.1.28 = {
+		holder = 205036
+	}
+	10664.7.1 = {
+		holder = 205039
+	}
+	10725.1.1 = {
+		holder = 205045
+	}
+	10762.1.1 = {
+		holder = 205047
+	}
+	10763.1.1 = {
+		holder = 205048
+	}
+	10765.1.1 = {
+		holder = 205049
+	}
+	10796.1.1 = {
+		holder = 205050
+	}
+	10798.1.1 = {
+		holder = 0
+	}
+	11066.1.1 = {
+		liege = "k_england"
+	}
+	11066.1.1 = {
+		holder = 130 #Leofwine Godwinsson
+	}
+	11066.10.14 = {
+		holder = 0
+	}
+}
+
+
+c_kent = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 19 }
+	
+	10440.1.1 = {
+		holder = 205026
+	}
+	10460.1.1 = {
+		holder = 205027
+	}
+	10500.1.1 = {
+		holder = 205028
+	}
+	10516.1.1 = {
+		holder = 205029
+	}
+	10540.1.1 = {
+		holder = 205030
+	}
+	10590.1.1 = {
+		holder = 205031
+	}
+	10616.2.24 = {
+		holder = 205032
+	}
+	10640.1.28 = {
+		holder = 205036
+	}
+	10664.7.1 = {
+		holder = 205039
+	}
+	10725.1.1 = {
+		holder = 205045
+	}
+	10762.1.1 = {
+		holder = 205047
+	}
+	10763.1.1 = {
+		holder = 205048
+	}
+	10765.1.1 = {
+		holder = 205049
+	}
+	10796.1.1 = {
+		holder = 205050
+	}
+	10865.1.1 = {
+		holder = 33358
+	}
+	11066.1.5 = {
+		holder = 130
+	}
+	11066.10.14 = {
+		holder = 148
+	}
+	11070.8.29 = {
+		holder = canterbury_archbishop_4 # Lanfranc
+		government = theocracy_government # archbishops of Canterbury
+		liege = k_england
+	}
+	11089.5.28 = {
+		holder = canterbury_archbishop_3 # Anselm
+	}
+	11109.4.21 = {
+		holder = canterbury_archbishop_2 # Ralph d'Escures
+	}
+	11122.10.2 = {
+		holder = canterbury_archbishop_1 # William de Corbeil
+	}
+	11136.11.21 = {
+		holder = 161331 # Theobald of Bec
+	}
+	11161.4.18 = {
+		holder = 161332 # Thomas Becket
+	}
+	11174.1.1 = {
+		holder = 161333 # Richard of Dover
+	}
+	11189.7.6 = {
+		holder = 204510
+	}
+	11199.4.6 = {
+		holder = 204514
+	}
+	11216.10.28 = {
+		holder = 144237
+	}
+	11227.1.1 = {
+		holder = 7458
+	}
+	11243.5.5 = {
+		holder = 454522
+	}
+	11272.11.16 = {
+		holder = 454520
+	}
+	11307.1.2 = {
+		holder = 454510
+	}
+	11321.7.28 = {
+		holder = 454511
+	}
+	11330.1.2 = {
+		holder = 454513
+	}
+}
+
+
+b_canterbury = {
+	10597.1.1 = {
+		holder = 180660 # Augustine
+	}
+	10604.5.25 = {
+		holder = 180661 # Laurence
+	}
+	10619.2.2 = {
+		holder = 180662 # Mellitus
+	}
+	10624.4.24 = {
+		holder = 180663 # Justus
+	}
+	10629.11.10 = {
+		holder = 180664 # Honorius
+	}
+	10653.9.30 = {
+		holder = 180665 # Deusdedit
+	}
+	10664.7.14 = {
+		holder = 180666 # Theodore
+	}
+	10690.9.19 = {
+		holder = 180667 # Berhtwald
+	}
+	10731.1.13 = {
+		holder = 180668 # Tatwine
+	}
+	10734.7.30 = {
+		holder = 180669 # Nothhelm
+	}
+	10739.10.17 = {
+		holder = 180670 # Cuthbert
+	}
+	10760.10.26 = {
+		holder = 180671 # Bregowine
+	}
+	10765.8.1 = {
+		holder = 180672 # Jaenbert
+	}
+	10792.8.12 = {
+		holder = 180673 # Aethelhard
+	}
+	10805.5.12 = {
+		holder = 180674 # Wulfred
+	}
+	10832.3.24 = {
+		holder = 180675 # Ceolnoth
+	}
+	10870.2.4 = {
+		holder = 180676 # Aethelred
+	}
+	10888.6.30 = {
+		holder = 180677 # Plegmund
+	}
+	10923.8.2 = {
+		holder = 180678 # Athelm
+	}
+	10926.1.8 = {
+		holder = 180679 # Wulfhelm
+	}
+	10941.2.12 = {
+		holder = 180680 # Oda
+	}
+	10958.6.2 = {
+		holder = 180681 # Aelfsige
+	}
+	10959.1.1 = {
+		holder = 180682 # Byrhthelm
+	}
+	10973.5.15 = {
+		holder = 180683 # Dunstan
+	}
+	10988.5.19 = {
+		holder = 180684 # Aethelgar
+	}
+	10990.2.13 = {
+		holder = 180685 # Sigeric
+	}
+	10994.10.28 = {
+		holder = 180686 # Aelfric
+	}
+	11005.11.16 = {
+		holder = 180687 # Aelfheath
+	}
+	11012.4.19 = {
+		holder = 180688 # Lyfing
+	}
+	11020.6.12 = {
+		holder = 168608 # Aethelnoth of Wessex
+	}
+	11038.10.30 = {
+		holder = 180690 # Eadsige
+	}
+	11050.10.29 = {
+		holder = 180691 # Robert of Jumièges
+	}
+	11052.9.1 = {
+		holder = 5604 # Stigand
+	}
+	11070.4.11 = {
+		holder = 5606
+	}
+	11089.5.24 = {
+		holder = 5608
+	}
+	11109.4.21 = {
+		holder = 161329
+	}
+	11122.10.2 = {
+		holder = 161330
+	}
+	11136.11.21 = {
+		holder = 161331
+	}
+	11161.4.18 = {
+		holder = 161332 # Thomas Becket
+	}
+	11170.12.29 = {
+		holder = 161333
+	}
+	11184.2.16 = {
+		holder = 161334
+	}
+	11190.11.19 = {
+		holder = 232680
+	}
+	11205.7.13 = {
+		holder = 161335
+	}
+	11228.7.9 = {
+		holder = 161336
+	}
+	11231.8.3 = {
+		holder = 161337
+	}
+	11240.11.16 = {
+		holder = 70912 # Boniface of Savoy
+	}
+	11270.7.14 = {
+		holder = 161338
+	}
+	11279.9.11 = {
+		holder = 161339
+	}
+	11292.12.8 = {
+		holder = 161340
+	}
+	11313.5.11 = {
+		holder = 161341
+	}
+	11327.11.16 = {
+		holder = 161342
+	}
+	11333.10.12 = {
+		holder = 161343 # John de Stratford
+	}
+}
+
+
+c_surrey = {
+	11178.1.1 = { change_development_level = 14 }
+
+	10760.1.1 = {
+		holder = 205267
+	}
+	10865.1.1 = {
+		liege = "k_england"
+		holder = 33358
+	}
+	11066.1.1 = {
+		liege = "d_canterbury"
+	}
+	11066.1.5 = {
+		holder = 130
+	}
+	11066.10.14 = {
+		liege = "k_england"
+		holder = 172
+	}
+	11088.6.24 = {
+		holder = 171
+	}
+	11138.5.11 = {
+		holder = 552
+	}
+	11148.1.1 = {
+		holder = 204641
+	}
+	11199.7.13 = {
+		holder = 230525
+	}
+	11240.5.27 = {
+		holder = 230527
+	}
+	11304.9.29 = {
+		holder = 454581
+	}
+}
+
+c_sussex = {
+	10760.1.1 = {
+		holder = 205268
+	}
+	10865.1.1 = {
+		liege = "k_england"
+		holder = 33358
+	}
+	11066.1.1 = {
+		liege = "d_canterbury"
+	}
+	11066.1.5 = {
+		holder = 130
+	}
+	11066.10.14 = {
+		liege = "k_england"
+		holder = 152
+	}
+	11143.1.1 = {
+		holder = 204755
+	}
+	11176.9.25 = {
+		holder = 204750
+	}
+	11193.12.24 = {
+		holder = 144237
+	}
+	11221.2.1 = {
+		holder = 144238
+	}
+	11224.8.7 = {
+		holder = 144239
+	}
+	11243.5.7 = {
+		holder = 144244
+	}
+	11267.11.10 = {
+		holder = 144245
+	}
+	11272.3.18 = {
+		holder = 144246
+	}
+	11301.3.9 = {
+		holder = 454571
+	}
+	11326.11.17 = {
+		holder = 454570
+	}
+
+}
+
+
+d_somerset = {
+	10757.1.1 = {
+		holder = 205180
+	}
+	10802.1.1 = {
+		holder = 33354 # Ecgberht
+	}
+	10839.2.5 = {
+		holder = 33355 # Aethelwulf
+	}
+	10856.1.1 = {
+		holder = 33356 # Aethelbald
+	}
+	10860.12.21 = {
+		holder = 33357 # Aethelbert
+	}
+	10865.1.1 = {
+		holder = 33358 # Aethelraed
+	}
+	10871.4.24 = {
+		holder = 7627 # Alfred the Great
+	}
+	10899.10.27 = {
+		holder = 100 # Edward the Elder
+	}
+	10924.8.3 = {
+		holder = 33350 # Aethelstan the Glorious
+	}
+	10939.10.27 = {
+		holder = 0
+	}
+}
+
+
+c_hampton = {
+	10867.1.1 = { change_development_level = 8 }
+	11066.1.1 = { change_development_level = 11 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10757.1.1 = {
+		holder = 205180
+	}
+	10865.1.1 = {
+		liege = "k_england"
+		holder = 33358
+	}
+	11066.1.5 = {
+		holder = 122 #Harold Godwinson's heir
+	}
+	11066.10.14 = {
+		holder = 140 # William the Conqueror
+	}
+	11070.1.1 = {
+		holder = 155245 #Bishops of Winchester
+		government = theocracy_government
+	}
+	11098.1.3 = {
+		holder = 155246
+	}
+	11129.1.20 = {
+		holder = 155247
+	}
+	11171.8.8 = {
+		holder = 155248
+	}
+	11188.12.22 = {
+		holder = 155249
+	}
+	11204.9.11 = {
+		holder = 155250
+	}
+	11238.6.9 = {
+		holder = 155251
+	}
+	11250.9.1 = {
+		holder = 155252
+	}
+	11260.12.4 = {
+		holder = 155253
+	}
+	11268.3.2 = {
+		holder = 129075
+	}
+	11280.2.12 = {
+		holder = 155255
+	}
+	11304.12.5 = {
+		holder = 155256
+	}
+	11316.6.28 = {
+		holder = 155257
+	}
+	11319.11.2 = {
+		holder = 155258
+	}
+	11322.1.1 = {
+		holder = 161666 #Hugh Despencer
+	
+	}
+	11326.11.27 = {
+		holder = 155259
+	}
+	11333.12.1 = {
+		holder = 129081
+	}
+}
+
+
+c_isle_of_wight = {
+	10757.1.1 = {
+		holder = 205180
+	}
+	10865.1.1 = {
+		liege = "k_england"
+		holder = 33358
+	}
+	11065.12.10 = {
+		liege = "k_england"
+		holder = 111 #Godwine (Harold Godwinson's heir) - no real historical evidence but we needed to give this title to someone to get Harold's domain size down.
+	}
+	11066.1.5 = {
+		holder = 122 #Harold Godwinson's heir
+	}
+	11066.10.14 = {
+		holder = 140 # William the Conqueror
+	}
+	11070.1.1 = {
+		holder = 155245 #Bishops of Winchester
+	}
+	11098.1.3 = {
+		holder = 155246
+	}
+	11129.1.20 = {
+		holder = 155247
+	}
+	11137.6.25 = {
+		holder = 204655 #Baldwin I de Redvers
+	}
+	11155.1.4 = {
+		holder = 204657 #Richard I de Redvers
+	}
+	11162.1.2 = {
+		holder = 204658 #Baldwin II de Redvers
+	}
+	11188.12.22 = {
+		holder = 155249
+	}
+	11204.9.11 = {
+		holder = 155250
+	}
+	11238.6.9 = {
+		holder = 155251
+	}
+	11250.9.1 = {
+		holder = 155252
+	}
+	11260.12.4 = {
+		holder = 155253
+	}
+	11268.3.2 = {
+		holder = 129075
+	}
+	11280.2.12 = {
+		holder = 155255
+	}
+	11304.12.5 = {
+		holder = 155256
+	}
+	11316.6.28 = {
+		holder = 155257
+	}
+	11319.11.2 = {
+		holder = 155258
+	}
+	11322.1.1 = {
+		holder = 161666 #Hugh Despencer
+	
+	}
+	11326.11.27 = {
+		holder = 155259
+	}
+	11333.12.1 = {
+		holder = 129081
+	}
+}
+
+c_dorset = {
+	10757.1.1 = {
+		holder = 205180
+	}
+	10865.1.1 = {
+		liege = "d_somerset"
+		holder = 7627
+	}
+	11066.1.5 = {
+		liege = "k_england"
+		holder = 115 #Eadmund (Harold Godwinson's 2nd son) - no real historical evidence but we needed to give this title to someone to get Harold's domain size down.
+	}
+	11066.10.14 = {
+		holder = 140 # William the Conqueror
+	}
+	11175.1.1 = {
+		holder = 204514 #John
+	}
+	11187.1.1 = {
+		holder = 204514
+	}
+	11216.10.28 = {
+		holder = 232682
+	}
+	11272.11.16 = {
+		holder = 454520
+	}
+	11307.1.2 = {
+		holder = 454510 #Edward II
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+}
+
+
+c_somerset = {
+	10867.1.1 = { change_development_level = 6 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 18 }
+	
+	10757.1.1 = {
+		holder = 205180
+	}
+	10865.1.1 = {
+		liege = "d_somerset"
+		holder = 7627
+	}
+	11066.1.5 = {
+		liege = "k_england"
+		holder = 115 #Eadmund (Harold Godwinson's 2nd son) - no real historical evidence but we needed to give this title to someone to get Harold's domain size down.
+	}
+	11066.10.14 = {
+		holder = 140 # William the Conqueror
+	}
+	11155.1.1 = {
+		holder = mohun_1 # William de Mohun (in his capacity as a premier baron of Somerset, not having inherited his father's now-dormant earldom)
+	}
+	11187.1.1 = {
+		holder = 204514 #John
+	}
+	11216.10.28 = {
+		holder = 232682
+	}
+	11272.11.16 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.7.8 = {
+		holder = 454510 #Edward II of England
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+}
+
+d_cornwall = {
+	10283.1.1 = {
+		holder = 159424 #Caradog
+	}
+	10299.1.1 = {
+		holder = 159425 #Meurig
+	}
+	10300.1.1 = {
+		holder = 159426 #Dynod
+	}
+	10360.1.1 = {
+		holder = 159431 #Conan Meriadoc
+	}
+	10387.1.1 = {
+		holder = 159432 #Cadfan ap Cynan
+	}
+	10390.1.1 = {
+		holder = 159435 #Gwrfawr ap Cadfan
+	}
+	10400.1.1 = {
+		holder = 159436 #Tudwal ap Gwrfawr
+	}
+	10410.1.1 = {
+		holder = 159437 #Cynfawr ap Tudwal
+	}
+	10435.1.1 = {
+		holder = 159438 #Custennin ap Cynfawr
+	}
+	10443.1.1 = {
+		holder = 159439 #Erbin ap Custennin
+	}
+	10480.1.1 = {
+		holder = 159440 #Geraint Llyngesog ab Erbin
+	}
+	10508.1.1 = {
+		holder = 159441 #Cadwy ap Geraint
+	}
+	10530.1.1 = {
+		holder = 159442 #Custennin ap Cadwy
+	}
+	10560.1.1 = {
+		holder = 159443 #Geraint ap Custennin
+	}
+	10598.1.1 = {
+		holder = 159444 #Bledrig ap Custennin
+	}
+	10613.1.1 = {
+		holder = 159445 #Clement ap Bledric
+	}
+	10630.1.1 = {
+		holder = 159446 #Petroc Baladrddellt
+	}
+	10658.1.1 = {
+		holder = 159447 #Culmin/Cwlfyn
+	}
+	10682.1.1 = {
+		holder = 159448 #Dumnarth
+	}
+	10700.1.1 = {
+		holder = 159748 # Hoel
+	}
+	10710.1.1 = {
+		holder = 159449 #Gereint
+	}
+	10715.1.1 = {
+		holder = 159450 #Ithael Eiddyn
+	}
+	10730.1.1 = {
+		holder = 159451 #Dyfnwal Boifunall
+	}
+	10750.1.1 = {
+		holder = 159452 #Cawrdolli
+	}
+	10775.1.1 = {
+		holder = 159453 #Oswallt
+	}
+	10780.1.1 = {
+		holder = 159454 #Hernam
+	}
+	10810.1.1 = {
+		holder = 159455 #Hopkin
+	}
+	10830.1.1 = {
+		holder = 159456 #Mordaf
+	}
+	10850.1.1 = {
+		holder = 159457 #Fferferdyn
+	}
+	10855.1.1 = {
+		holder = 159747 #Ithel II
+	}
+	10865.1.1 = {
+		holder = 159458 # Donyarth/Dumnarth/Dyfnarth of Cornwall
+	}
+	10875.1.1 = {
+		holder =  0 #Cornwall/Dumnonia disestablished
+	}
+	10910.1.1 = {
+		holder = 159461 #Hoel
+	}
+	10927.1.1 = {
+		holder = 159466 #Conan
+	}
+	10940.1.1 = {
+		holder = 0
+	}
+	11328.9.6 = {
+		liege = "k_england"
+	}
+	11328.9.6 = {
+		holder = 454507
+	}
+	11336.9.13 = {
+		holder = 454501
+	}
+}
+
+
+c_devon = {
+	10360.1.1 = {
+		holder = 159431 #Conan Meriadoc
+	}
+	10387.1.1 = {
+		holder = 159432 #Cadfan ap Cynan
+	}
+	10390.1.1 = {
+		holder = 159435 #Gwrfawr ap Cadfan
+	}
+	10400.1.1 = {
+		holder = 159436 #Tudwal ap Gwrfawr
+	}
+	10410.1.1 = {
+		holder = 159437 #Cynfawr ap Tudwal
+	}
+	10435.1.1 = {
+		holder = 159438 #Custennin ap Cynfawr
+	}
+	10443.1.1 = {
+		holder = 159439 #Erbin ap Custennin
+	}
+	10480.1.1 = {
+		holder = 159440 #Geraint Llyngesog ab Erbin
+	}
+	10508.1.1 = {
+		holder = 159441 #Cadwy ap Geraint
+	}
+	10530.1.1 = {
+		holder = 159442 #Custennin ap Cadwy
+	}
+	10560.1.1 = {
+		holder = 159443 #Geraint ap Custennin
+	}
+	10598.1.1 = {
+		holder = 159444 #Bledrig ap Custennin
+	}
+	10613.1.1 = {
+		holder = 159445 #Clement ap Bledric
+	}
+	10630.1.1 = {
+		holder = 159446 #Petroc Baladrddellt
+	}
+	10658.1.1 = {
+		holder = 159447 #Culmin/Cwlfyn
+	}
+	10682.1.1 = {
+		holder = 159448 #Dumnarth
+	}
+	10700.1.1 = {
+		holder = 159748 # Hoel
+	}
+	10710.1.1 = {
+		holder = 159449 #Gereint
+	}
+	10715.1.1 = {
+		holder = 159450 #Ithael Eiddyn
+	}
+	10730.1.1 = {
+		holder = 159451 #Dyfnwal Boifunall
+	}
+	10750.1.1 = {
+		holder = 159452 #Cawrdolli
+	}
+	10775.1.1 = {
+		holder = 159453 #Oswallt
+	}
+	10780.1.1 = {
+		holder = 159454 #Hernam
+	}
+	10810.1.1 = {
+		holder = 159455 #Hopkin
+	}
+	10830.1.1 = {
+		holder = 159456 #Mordaf
+	}
+	10850.1.1 = {
+		holder = 159457 #Fferferdyn
+	}
+	10855.1.1 = {
+		holder = 159747 #Ithel II
+	}
+	10865.1.1 = {
+		liege = "k_england"
+		holder = 159458 # Donyarth/Dumnarth/Dyfnarth of Cornwall
+	}
+	10875.1.1 = {
+		holder =  7627 #Alfred the Great
+	}
+	11002.1.1 = {
+		holder = 259 # Emma of Normandy
+	}
+	11052.1.5 = {
+		holder = 101534 # Gyda, Harold Godwinson's mother
+	}
+	11066.10.14 = {
+		holder = 41260 #Baldwin de Brionne (lord of Okehampton)
+	}
+	11090.2.1 = {
+		holder = 41263 #Richard de Brionne (lord of Okehampton)
+	}
+	11137.6.25 = {
+		holder = 204655 #Baldwin I de Redvers
+	}
+	11155.1.4 = {
+		holder = 204657 #Richard I de Redvers
+	}
+	11162.1.2 = {
+		holder = 204658 #Baldwin II de Redvers
+	}
+	11188.5.28 = {
+		holder = 204660 #Richard II de Redvers
+	}
+	11193.8.19 = {
+		holder = 204650 #William de Redvers
+	}
+	11217.9.10 = {
+		holder = 32511 #Baldwin III de Redvers
+	}
+	11245.2.15 = {
+		holder = 32512 #Baldwin IV de Redvers
+	}
+	11262.9.13 = {
+		holder = 32513 #Isabel de Redvers
+	}
+	11293.11.10 = {
+		holder = 31004 #Hugh de Courtenay
+	}
+
+}
+
+
+c_cornwall = {
+	10360.1.1 = {
+		holder = 159431 #Conan Meriadoc
+	}
+	10387.1.1 = {
+		holder = 159432 #Cadfan ap Cynan
+	}
+	10390.1.1 = {
+		holder = 159435 #Gwrfawr ap Cadfan
+	}
+	10400.1.1 = {
+		holder = 159436 #Tudwal ap Gwrfawr
+	}
+	10410.1.1 = {
+		holder = 159437 #Cynfawr ap Tudwal
+	}
+	10435.1.1 = {
+		holder = 159438 #Custennin ap Cynfawr
+	}
+	10443.1.1 = {
+		holder = 159439 #Erbin ap Custennin
+	}
+	10480.1.1 = {
+		holder = 159440 #Geraint Llyngesog ab Erbin
+	}
+	10508.1.1 = {
+		holder = 159441 #Cadwy ap Geraint
+	}
+	10530.1.1 = {
+		holder = 159442 #Custennin ap Cadwy
+	}
+	10560.1.1 = {
+		holder = 159443 #Geraint ap Custennin
+	}
+	10598.1.1 = {
+		holder = 159444 #Bledrig ap Custennin
+	}
+	10613.1.1 = {
+		holder = 159445 #Clement ap Bledric
+	}
+	10630.1.1 = {
+		holder = 159446 #Petroc Baladrddellt
+	}
+	10658.1.1 = {
+		holder = 159447 #Culmin/Cwlfyn
+	}
+	10682.1.1 = {
+		holder = 159448 #Dumnarth
+	}
+	10700.1.1 = {
+		holder = 159748 # Hoel
+	}
+	10710.1.1 = {
+		holder = 159449 #Gereint
+	}
+	10715.1.1 = {
+		holder = 159450 #Ithael Eiddyn
+	}
+	10730.1.1 = {
+		holder = 159451 #Dyfnwal Boifunall
+	}
+	10750.1.1 = {
+		holder = 159452 #Cawrdolli
+	}
+	10775.1.1 = {
+		holder = 159453 #Oswallt
+	}
+	10780.1.1 = {
+		holder = 159454 #Hernam
+	}
+	10810.1.1 = {
+		holder = 159455 #Hopkin
+	}
+	10830.1.1 = {
+		holder = 159456 #Mordaf
+	}
+	10850.1.1 = {
+		holder = 159457 #Fferferdyn
+	}
+	10855.1.1 = {
+		holder = 159747 #Ithel II
+	}
+	10865.1.1 = {
+		holder = 159458 # Donyarth/Dumnarth/Dyfnarth of Cornwall
+	}
+	10875.1.1 = {
+		liege = "k_england"
+		holder = 159459 # Eluid
+	}
+	10889.1.1 = {
+		holder = 159460 # Alanorus ap Eluid
+	}
+	10910.1.1 = {
+		liege = 0
+		holder = 159461 #Hoel
+	}
+	10927.1.1 = {
+		holder = 159466 #Conan
+	}
+	10940.1.1 = {
+		liege = "k_england"
+		holder = 159462 #Rolope
+	}
+	10950.1.1 = {
+		holder = 159463 #Vortegyn Helin
+	}
+	10980.1.1 = {
+		holder = 159464 #Veffyne
+	}
+	11000.1.1 = {
+		holder = 159465 #Alured ap Veffyne
+	}
+	11020.1.1 = {
+		holder = 159470 #Godwyn ap Alured
+	}
+	11066.1.1 = {
+		holder = 161281 #Kadoc of Cornwall
+	}
+	11071.1.1 = {
+		holder = 354 #Brian of Penthièvre
+	}
+	11072.1.1 = {
+		holder = 150 #Robert, Count of Mortain
+	}
+	11095.12.9 = {
+		holder = 158 #William de Mortain
+	}
+	11140.1.1 = {
+		holder = 205751 #Alain de Penthièvre
+	}
+	11141.1.1 = {
+		holder = 204571 #Reginald de Dunstanville
+	}
+	11175.1.1 = {
+		holder = 204514 #John
+	}
+	11216.10.28 = {
+		holder = 454522 #Henry III
+	}
+	11217.9.10 = {
+		holder = 32511 #Baldwin III de Redvers
+	}
+	11227.5.30 = {
+		holder = 232682 #Richard of Cornwall
+	}
+	11272.4.2 = {
+		holder = 204573 #Edmund of Cornwall
+	}
+	11300.9.25 = {
+		holder = 454520 #Edward I Longshanks
+	}
+	11307.1.2 = {
+		holder = 454510 #Edward II
+	}
+	11327.2.1 = {
+		holder = 454500 #Edward III
+	}
+	11328.9.6 = {
+		liege = "d_cornwall"
+	}
+	11328.9.6 = {
+		holder = 454507
+	}
+	11336.9.13 = {
+		holder = 454501
+	}
+}
+

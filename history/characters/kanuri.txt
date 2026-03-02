@@ -1,0 +1,709 @@
+﻿# Duguwa dynasty of Kanem
+248708 = {
+	name = "Dugu" #Kanem 769 - 830
+	dynasty = 1959974
+	religion = west_african_bori_pagan
+	culture = kanuri
+	trait = strong
+	10752.1.1 = {
+		birth = yes
+	}
+	10830.1.1 = {
+		death = yes
+	}
+}
+248709 = {
+	name = "Fune" #Kanem 830 - 860
+	dynasty = 1059975
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248708
+	10790.1.1 = {
+		birth = yes
+	}
+	10861.1.1 = {
+		death = yes
+	}
+}
+248710 = {
+	name = "Aritso" #Kanem 860 - 900
+	dynasty = 1059975
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248709
+	10830.1.1 = {
+		birth = yes
+	}
+	10900.1.1 = {
+		death = yes
+	}
+}
+248711 = {
+	name = "Fune"
+	dynasty = 1059975
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248710
+	10865.1.1 = {
+		birth = yes
+	}
+	10920.1.1 = {
+		death = yes
+	}
+}
+248712 = {
+	name = "Katuri" #Kanem 900 - 952
+	dynasty = 1059975
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248711
+	10890.1.1 = {
+		birth = yes
+	}
+	10952.1.1 = {
+		death = yes
+	}
+}
+248713 = {
+	name = "Ayoma" #Kanem 952 - 980
+	dynasty = 1059975
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248712
+	10915.1.1 = {
+		birth = yes
+	}
+	10980.1.1 = {
+		death = yes
+	}
+}
+248714 = {
+	name = "Bulu" #Kanem 980 - 1015
+	dynasty = 1059975
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248713
+	10945.1.1 = {
+		birth = yes
+	}
+	11015.1.1 = {
+		death = yes
+	}
+}
+248715 = {
+	name = "Arki" #Kanem 1015 - 1035
+	dynasty = 1059975
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248714
+	10975.1.1 = {
+		birth = yes
+	}
+	11035.1.1 = {
+		death = yes
+	}
+}
+248716 = {
+	name = "Shu" #Kanem 1035 - 1068
+	dynasty = 1059975
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248715
+	11005.1.1 = {
+		birth = yes
+	}
+	11068.1.1 = {
+		death = yes # dynasty overthrown
+	}
+}
+
+# Sayfawa dynasty
+248748 = {
+	name = "Hummay" #Kanem 1068 - 1080 - first muslim ruler
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	#father = 1000228558
+	
+	disallow_random_traits = yes
+	
+	trait = ambitious
+	trait = brave
+	trait = zealous
+	trait = holy_warrior
+	trait = education_learning_3
+	
+	11050.1.1 = {
+		birth = yes
+	}
+	11066.1.1 = {
+		add_pressed_claim = title:d_kanem
+		
+		effect = {
+			spawn_army = {
+				name = event_troop_default_name
+				levies = 1200
+				location = province:1735
+				origin = province:1735 #Bilma
+			}
+			spawn_army = {
+				name = event_troop_default_name
+				levies = 1200
+				location = province:1735
+				origin = province:1735 #Bilma
+			}
+			spawn_army = {
+				name = event_troop_default_name
+				levies = 1200
+				location = province:1735
+				origin = province:1735 #Bilma
+			}
+		}
+	}
+	11080.1.1 = {
+		death = yes
+	}
+}
+248749 = {
+	name = "Dunama" #Kanem 1080 - 1133
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248748
+	11070.1.1 = {
+		birth = yes
+	}
+	11133.1.1 = {
+		death = yes
+	}
+}
+248750 = {
+	name = "Abdallah"
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248749
+	11090.1.1 = {
+		birth = yes
+	}
+	11140.1.1 = {
+		death = yes
+	}
+}
+248751 = {
+	name = "Bir" #Kanem 1133 - 1160
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248750
+	11115.1.1 = {
+		birth = yes
+	}
+	11160.1.1 = {
+		death = yes
+	}
+}
+248752 = {
+	name = "Bikorom" #Kanem 1160 - 1176
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248751
+	11135.1.1 = {
+		birth = yes
+	}
+	11176.1.1 = {
+		death = yes
+	}
+}
+248753 = {
+	name = "Salmama" #Kanem 1176 - 1203
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	stewardship = 8
+	father = 248752
+	11160.1.1 = {
+		birth = yes
+	}
+	11203.1.1 = {
+		death = yes
+	}
+}
+248754 = {
+	name = "Dunama" #Kanem 1203 - 1242
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248753
+	11182.1.1 = {
+		birth = yes
+	}
+	11242.1.1 = {
+		death = yes
+	}
+}
+248755 = {
+	name = "Kaday" #Kanem 1242 - 1270
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248754
+	11210.1.1 = {
+		birth = yes
+	}
+	11270.1.1 = {
+		death = yes
+	}
+}
+248756 = {
+	name = "Kashim Biri" #Kanem 1270 - 1290
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248755
+	11235.1.1 = {
+		birth = yes
+	}
+	11290.1.1 = {
+		death = yes
+	}
+}
+248757 = {
+	name = "Ibrahim" #Kanem 1290 - 1310
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248756
+	11263.1.1 = {
+		birth = yes
+	}
+	11310.1.1 = {
+		death = yes
+	}
+}
+248758 = {
+	name = "Abdallah" #Kanem 1310 - 1328
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248757
+	11283.1.1 = {
+		birth = yes
+	}
+	11328.1.1 = {
+		death = yes
+	}
+}
+248759 = {
+	name = "Salmama" #Kanem 1328 - 1332
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248758
+	11303.1.1 = {
+		birth = yes
+	}
+	11332.1.1 = {
+		death = yes
+	}
+}
+248760 = {
+	name = "Kuri Ghana" #Kanem 1332 - 1333
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248758
+	11306.1.1 = {
+		birth = yes
+	}
+	11333.1.1 = {
+		death = yes
+	}
+}
+248761 = {
+	name = "Kuri Kura" #Kanem 1333 - 1334
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248758
+	11310.1.1 = {
+		birth = yes
+	}
+	11334.1.1 = {
+		death = yes
+	}
+}
+248762 = {
+	name = "Muhammad" #Kanem 1334 - 1335
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248758
+	11315.1.1 = {
+		birth = yes
+	}
+	11335.1.1 = {
+		death = yes
+	}
+}
+248763 = {
+	name = "Idris Nigalemi" #Kanem 1335 - 1359
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248764
+	11299.1.1 = {
+		birth = yes
+	}
+	11359.1.1 = {
+		death = yes								
+	}
+}
+248764 = {
+	name = "Ibrahim Nigale" #father of Idris
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248756
+	11274.1.1 = {
+		birth = yes
+	}
+	11333.1.1 = {
+		death = yes
+	}
+}
+248765 = {
+	name = "Dawud Nigalemi" #Kanem 1359 - 1369
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248764
+	11308.1.1 = {
+		birth = yes
+	}
+	11369.1.1 = {
+		death = yes
+	}
+}
+248766 = {
+	name = "Uthman" #Kanem 1369 - 1373
+	dynasty = 1959974
+	religion = ashari
+	culture = kanuri
+	father = 248765
+	11327.1.1 = {
+		birth = yes
+	}
+	11373.1.1 = {
+		death = yes
+	}
+}
+
+# Dynasty representing tribes of western Bornu
+248819 = {
+	name = "Dala"
+	dynasty = 1059957
+	religion = west_african_bori_pagan
+	culture = kanuri
+	10751.1.1 = {
+		birth = yes
+	}
+	10825.1.1 = {
+		death = yes
+	}
+}
+248820 = {
+	name = "Gana"
+	dynasty = 1059957
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248819
+	10769.1.1 = {
+		birth = yes
+	}
+	10840.1.1 = {
+		death = yes
+	}
+}
+248821 = {
+	name = "Madu"
+	dynasty = 1059957
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248820
+	10800.1.1 = {
+		birth = yes
+	}
+	10867.1.1 = {
+		death = yes
+	}
+}
+248822 = {
+	name = "Sani"
+	dynasty = 1059957
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248821
+	10840.1.1 = {
+		birth = yes
+	}
+	10900.1.1 = {
+		death = yes
+	}
+}
+248823 = {
+	name = "Fune"
+	dynasty = 1059957
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248822
+	10867.1.1 = {
+		birth = yes
+	}
+	10940.1.1 = {
+		death = yes
+	}
+}
+248824 = {
+	name = "Dabbalemi"
+	dynasty = 1059957
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248823
+	10910.1.1 = {
+		birth = yes
+	}
+	10970.1.1 = {
+		death = yes
+	}
+}
+248825 = {
+	name = "Bikorom"
+	dynasty = 1059957
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248824
+	10940.1.1 = {
+		birth = yes
+	}
+	11000.1.1 = {
+		death = yes
+	}
+}
+248826 = {
+	name = "Arsu"
+	dynasty = 1059957
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248825
+	10970.1.1 = {
+		birth = yes
+	}
+	11040.1.1 = {
+		death = yes
+	}
+}
+248827 = {
+	name = "Baram"
+	dynasty = 1059957
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248826
+	11010.1.1 = {
+		birth = yes
+	}
+	11066.1.1 = {
+		death = yes
+	}
+}
+248828 = {
+	name = "Bulu"
+	dynasty = 1059957
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248827
+	11040.1.1 = {
+		birth = yes
+	}
+	11069.1.1 = {
+		#trait = sympathy_islam
+	}
+	11100.1.1 = {
+		death = yes
+	}
+}
+248829 = {
+	name = "Arku"
+	dynasty = 1059957
+	religion = west_african_bori_pagan
+	culture = kanuri
+	father = 248827
+	11060.1.1 = {
+		birth = yes
+	}
+	11069.1.1 = {
+		# trait = sympathy_islam
+	}
+	11081.1.1 = {
+		religion = ashari
+		#trait = sympathy_pagans
+	}
+	11120.1.1 = {
+		death = yes
+	}
+}
+248830 = {
+	name = "Abbas"
+	dynasty = 1059957
+	religion = ashari
+	culture = kanuri
+	father = 248829
+	#trait = sympathy_pagans
+	11081.1.1 = {
+		birth = yes
+	}
+	11145.1.1 = {
+		death = yes
+	}
+}
+248831 = {
+	name = "Amin"
+	dynasty = 1059957
+	religion = ashari
+	culture = kanuri
+	father = 248830
+	#trait = sympathy_pagans
+	11100.1.1 = {
+		birth = yes
+	}
+	11165.1.1 = {
+		death = yes
+	}
+}
+248832 = {
+	name = "Ahmed"
+	dynasty = 1059957
+	religion = ashari
+	culture = kanuri
+	father = 248831
+	#trait = sympathy_pagans
+	11130.1.1 = {
+		birth = yes
+	}
+	11200.1.1 = {
+		death = yes
+	}
+}
+248833 = {
+	name = "Daoud"
+	dynasty = 1059957
+	religion = ashari
+	culture = kanuri
+	father = 248832
+	#trait = sympathy_pagans
+	11150.1.1 = {
+		birth = yes
+	}
+	11220.1.1 = {
+		death = yes
+	}
+}
+248834 = {
+	name = "Adam"
+	dynasty = 1059957
+	religion = ashari
+	culture = kanuri
+	father = 248833
+	#trait = sympathy_pagans
+	11180.1.1 = {
+		birth = yes
+	}
+	11250.1.1 = {
+		death = yes
+	}
+}
+248835 = {
+	name = "Abubakar"
+	dynasty = 1059957
+	religion = ashari
+	culture = kanuri
+	father = 248834
+	#trait = sympathy_pagans
+	11200.1.1 = {
+		birth = yes
+	}
+	11270.1.1 = {
+		death = yes
+	}
+}
+248836 = {
+	name = "Ali"
+	dynasty = 1059957
+	religion = ashari
+	culture = kanuri
+	father = 248835
+	#trait = sympathy_pagans
+	11230.1.1 = {
+		birth = yes
+	}
+	11300.1.1 = {
+		death = yes
+	}
+}
+248837 = {
+	name = "Alhaji"
+	dynasty = 1059957
+	religion = ashari
+	culture = kanuri
+	father = 248836
+	#trait = sympathy_pagans
+	11250.1.1 = {
+		birth = yes
+	}
+	11320.1.1 = {
+		death = yes
+	}
+}
+248838 = {
+	name = "Gazali"
+	dynasty = 1059957
+	religion = ashari
+	culture = kanuri
+	father = 248837
+	#trait = sympathy_pagans
+	11270.1.1 = {
+		birth = yes
+	}
+	11330.1.1 = {
+		death = yes
+	}
+}
+248839 = {
+	name = "Ibrahim"
+	dynasty = 1059957
+	religion = ashari
+	culture = kanuri
+	father = 248838
+	#trait = sympathy_pagans
+	11290.1.1 = {
+		birth = yes
+}
+	11338.1.1 = {
+		death = yes
+	}
+}
+248840 = {
+	name = "Kashim"
+	dynasty = 1059957
+	religion = ashari
+	culture = kanuri
+	father = 248839
+	#trait = sympathy_pagans
+	11310.1.1 = {
+		birth = yes
+	}
+	11360.1.1 = {
+		death = yes
+	}
+}

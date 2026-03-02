@@ -1,0 +1,1760 @@
+﻿k_armenia = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	#Previous Kings of Armenia removed to a separate title: Arsacid Armenia *was* a kingdom, but the regnal numbering is reset for Bagratid Armenia. Keeping them in the same title was therefore messing up medieval Armenia quite drastically (Ashot I became Ashot IV, etc).
+	10654.1.1 = {
+		liege = e_arabia
+		#holder = 145996
+	}
+	#10862.1.1 = {
+		#holder = 41505
+	#}
+	
+	#Independance from the Abbasid
+	#Bagratid Armenia
+	10884.1.1 = {
+		holder = 41505 # Kings Restored
+		liege = 0
+	}
+	10890.1.1 = {
+		holder = 41506
+	}
+	10912.1.1 = {
+		holder = 41507
+	}
+	10928.1.1 = {
+		holder = 41508
+	}
+	10951.1.1 = {
+		holder = 41509
+	}
+	10977.1.1 = {
+		holder = 41510
+	}
+	10990.1.1 = {
+		holder = 41519
+	}
+	11020.1.1 = {
+		holder = 41520
+	}
+	11041.1.1 = {
+		holder = 41521
+	}
+	11041.9.1 = {
+		holder = 41522
+	}
+	11045.1.1 = {
+		holder = 0
+	}
+	#1045 to BYZ
+	
+	11199.1.1 = {
+		holder = 223000 #Levon I Rubenid
+	}
+	11219.5.2 = {
+		holder = 30998 #Zabel I Rubenid
+	}
+	11226.1.1 = {
+		holder = 31830 #Hethun I
+	}
+	11270.10.28 = {
+		holder = 461802 #Levon II
+	}
+	11289.1.1 = {
+		holder = 31857 #Hethum II
+	}
+	11293.1.1 = {
+		holder = 461801 #Thoros I
+	}
+	11294.1.1 = {
+		holder = 31857 #Hethum II
+	}
+	11296.1.1 = {
+		holder = 31860 #Smbat I
+	}
+	11298.1.1 = {
+		holder = 31879 #Gosdantin I
+	}
+	11299.1.1 = {
+		holder = 31857 #Hethum II
+	}
+	11305.1.1 = {
+		holder = 31878 #Levon III
+	}
+	11307.1.1 = {
+		holder = 461803 #Oshim I
+	}
+	11320.7.20 = {
+		holder = 461800 #Levon IV
+	}
+}
+
+k_armenian_principality = {
+	10862.1.1 = {
+		liege = e_arabia
+		holder = 41505
+	}
+	10884.1.1 = {
+		holder = 0 # Kings Restored
+	}
+}
+
+k_old_armenia = {
+		10654.1.1 = {
+		liege = e_arabia
+		holder = 145996
+	}
+	10655.1.1 = {
+		holder = 159871
+	}
+	10661.1.1 = {
+		holder = 70452
+	}
+	10684.1.1 = {
+		holder = 70448
+	}
+	10690.1.1 = {
+		holder = 159571
+	}
+	10693.8.29 = {
+		holder = 70447
+	}
+	10726.1.1 = {
+		holder = 41500
+	}
+	10745.1.1 = {
+		holder = 70451
+	}
+	10746.1.1 = {
+		holder = 41500
+	}
+	10749.1.1 = {
+		holder = 70451
+	}
+	10750.1.1 = {
+		holder = 70450
+	}
+	10754.1.1 = {
+		holder = 145998
+	}
+	10761.1.1 = {
+		holder = 41501
+	}
+	10775.4.15 = {
+		holder = 41502
+	}
+	10826.1.1 = {
+		holder = 41530
+	}
+	10851.1.1 = {
+		holder = 41504
+	}
+	10862.1.1 = {
+		holder = 0
+	}
+}
+
+
+d_mesopotamia = {
+	#Arabic
+	10820.1.1 = {
+		holder = 159723
+		government = clan_government
+	}
+	10855.1.1 = {
+		holder = 159724
+	}
+	10863.1.1 = {
+		holder = 159725
+	}
+	
+	#Byz
+	10965.1.1 = {
+		liege = "e_byzantium"
+		government = administrative_government
+	}
+	11060.1.1 = {
+		holder = 85001
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+					game_start_date = 11066.9.15
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+	11067.1.1 = {
+		holder = 724
+	}
+	
+	#Seljuk
+	11071.8.26 = {
+		liege = "k_persia"
+	}
+	11071.8.26 = {
+		holder = 144065
+		government = clan_government
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = {
+						holder = {
+							has_government = clan_government
+						}
+					}
+				}
+				holder = {
+					change_government = clan_government
+				}
+			}
+		}
+	}
+	11091.1.1 = {
+		holder = 144067
+	}
+	11098.1.1 = {
+		liege = 0
+	}
+	11103.1.1 = {
+		holder = 144070
+	}
+	11144.1.1 = {
+		holder = 144071
+	}
+	11166.1.1 = {
+		holder = 144072
+	}
+	
+	#Rum
+	11185.1.1 = {
+		holder = 225010
+	}
+	11202.1.1 = {
+		holder = 34242
+	}
+	11204.1.1 = {
+		holder = 34243
+	}
+	11232.1.1 = {
+		holder = 34247
+	}
+	11234.1.1 = {
+		holder = 34255
+	}
+	
+	#Ilkhanate
+	11243.1.1 = {
+		liege = "e_ilkhanate"
+	}
+	11245.1.1 = {
+		holder = 34256
+	}
+	11250.1.1 = {
+		holder = 34257
+	}
+	11280.1.1 = {
+		holder = 34258
+	}
+	11290.1.1 = {
+		holder = 34259
+	}
+	11320.1.1 = {
+		holder = 34260
+	}
+	11335.1.1 = {
+		liege = 0
+	}
+}
+
+
+c_melitene = {
+	10714.1.1 = {
+		liege = "d_greater_armenia"
+	}
+	10714.1.1 = {
+		holder = 70451
+	}
+	10750.1.1 = {
+		holder = 159877
+	}
+	10820.1.1 = {
+		liege = "d_mesopotamia"
+	}
+	10820.1.1 = {
+		holder = 159723
+	}
+	10855.1.1 = {
+		holder = 159724
+	}
+	10863.1.1 = {
+		holder = 159725
+	}
+	11060.1.1 = {
+		holder = 85001
+	}
+	11067.1.1 = {
+		holder = 724
+	}
+	11071.8.26 = {
+		holder = 144065
+	}
+	11091.1.1 = {
+		holder = 144067
+	}
+	11103.1.1 = {
+		holder = 144070
+	}
+	11144.1.1 = {
+		holder = 144071
+	}
+	11162.1.1 = {
+		holder = 34217 # Mehmed Danishmend
+		liege = 0
+	}
+	11171.1.1 = {
+		holder = 34219 # Afridun
+	}
+	11175.2.15 = {
+		holder = 34217 # Mehmed Danishmend
+	}
+	11185.1.1 = {
+		holder = 225010
+	}
+	11202.1.1 = {
+		holder = 34242
+	}
+	11204.1.1 = {
+	
+		holder = 34243
+	}
+	11232.1.1 = {
+		holder = 34247
+	}
+	11234.1.1 = {
+		holder = 34255
+	}
+	11245.1.1 = {
+		holder = 34256
+	}
+	11250.1.1 = {
+		holder = 34257
+	}
+	11280.1.1 = {
+		holder = 34258
+	}
+	11290.1.1 = {
+		holder = 34259
+	}
+	11320.1.1 = {
+		holder = 34260
+	}
+
+}
+
+
+c_theodosiopolis = {
+	10330.1.1 = {
+		liege = "d_chaldia"
+	}
+	10769.1.1 = {
+		holder = 145845
+	}
+	10820.1.1 = {
+		holder = 159723
+	}
+	10855.1.1 = {
+		holder = 159724
+	}
+	10863.1.1 = {
+		holder = 159725
+	}
+	11060.1.1 = {
+		holder = 20544
+	}
+	11071.8.26 = {
+		liege = "d_erzerum"
+	}
+	11071.8.26 = {
+		holder = 144044
+	}
+	11102.1.1 = {
+		holder = 144045
+	}
+	11124.1.1 = {
+		holder = 144046
+	}
+	11132.1.1 = {
+		holder = 144047
+	}
+	11168.1.1 = {
+		holder = 225025
+	}
+	11191.1.1 = {
+		holder = 34395
+	}
+	11200.1.1 = {
+		holder = 34396
+	}
+	11202.1.1 = {
+		holder = 34397
+	}
+	11202.7.1 = {
+		holder = 34180
+	}
+	11225.1.1 = {
+		holder = 34233
+	}
+	#placeholders
+	11230.1.1 = {
+		holder = 34398
+	}
+	11250.1.1 = {
+		holder = 34399
+	}
+	11280.1.1 = {
+		holder = 34400
+	}
+	11300.1.1 = {
+		holder = 34401
+	}
+	
+	11335.1.1 = {
+		liege = "k_eretnid"
+	}
+	11335.1.1 = {
+		holder = 476460
+	}
+
+}
+
+
+c_mesopotamia = {
+	10714.1.1 = {
+		liege = "d_greater_armenia"
+	}
+	10714.1.1 = {
+		holder = 70451
+	}
+	10750.1.1 = {
+		holder = 159877
+	}
+	10820.1.1 = {
+		liege = "d_mesopotamia"
+	}
+	10820.1.1 = {
+		holder = 159723
+	}
+	10855.1.1 = {
+		holder = 159724
+	}
+	10863.1.1 = {
+		holder = 159725
+	}
+	11060.1.1 = {
+		holder = 85001
+	}
+	11067.1.1 = {
+		holder = 724
+	}
+	11071.8.26 = {
+		holder = 144065
+	}
+	11091.1.1 = {
+		holder = 144067
+	}
+	11103.1.1 = {
+		holder = 144070
+	}
+	11144.1.1 = {
+		holder = 144071
+	}
+	11166.1.1 = {
+		holder = 144072
+	}
+	11185.1.1 = {
+		holder = 225010
+	}
+	11202.1.1 = {
+		holder = 34242
+	}
+	11204.1.1 = {
+	
+		holder = 34243
+	}
+	11232.1.1 = {
+		holder = 34247
+	}
+	11234.1.1 = {
+		holder = 34255
+	}
+	11245.1.1 = {
+		holder = 34256
+	}
+	11250.1.1 = {
+		holder = 34257
+	}
+	11280.1.1 = {
+		holder = 34258
+	}
+	11290.1.1 = {
+		holder = 34259
+	}
+	11320.1.1 = {
+		holder = 34260
+	}
+
+}
+
+
+d_vaspurakan = {
+	10646.1.1 = {
+		holder = 159898
+	}
+	10647.1.1 = {
+		holder = 159899
+	}
+	10654.1.1 = {
+		liege = k_armenia
+	}
+	10693.1.1 = {
+		holder = 159900
+	}
+	10705.1.1 = {
+		holder = 159902
+	}
+	10708.1.1 = {
+		holder = 159903
+	}
+	10748.1.1 = {
+		holder = 159904
+	}
+	10762.1.1 = {
+		holder = 159906
+	}
+	10772.1.1 = {
+		holder = 159907
+	}
+	10785.1.1 = {
+		holder = 160014
+	}
+	10830.1.1 = {
+		holder = 41559
+	}
+	10836.1.1 = {
+		holder = 41560
+	}
+	10862.1.1 = {
+		liege = k_armenian_principality	#For the not-quite-a-kingdom under Ashot I, before he becomes king.
+	}
+	
+	#884 Armenia independant from Abbasid
+	
+	#Kingdom of Vaspurakan in 908
+	10908.1.1 = {
+		holder = 41563	#Gagik I Artsruni
+		liege = 0
+	}
+	10943.1.1 = {
+		holder = 41564	#Derenik-Ashot Artsruni
+	}
+	10953.1.1 = {
+		holder = 41570	#Abusahl Hamazasp Artsruni
+	}
+	10969.1.1 = {
+		holder = 41571	#Ashot Sahak Artsruni
+	}
+	10983.1.1 = {
+		holder = 41572	#Gurgen Khachik Artsruni
+	}
+	11003.1.1 = {
+		holder = 41576	#Hovhannes Senek'erim Artsruni
+	}
+	
+	#End of the kingdom of Vaspurakan
+	11021.1.1 = {
+		liege = "e_byzantium"
+		government = administrative_government
+	}
+	11060.1.1 = {
+		holder = 41585
+		effect = {
+			if = {
+				limit = {
+					exists = holder
+					NOT = { has_dlc_feature = roads_to_power }
+				}
+				holder = {
+					change_government = feudal_government
+				}
+			}
+		}
+	}
+	
+	#Battle of Manzikert
+	11071.8.26 = {
+		liege = "k_rum"
+	}
+	11071.8.26 = {
+		holder = 144044
+		government = clan_government
+	}
+	11100.1.1 = {
+		holder = 93410
+	}
+	11112.1.1 = {
+		holder = 93411
+	}
+	11126.1.1 = {
+		holder = 93412
+	}
+	11128.1.1 = {
+		holder = 93413
+		liege = 0
+	}
+	11185.1.1 = {
+		holder = 93414
+	}
+	11193.1.1 = {
+		holder = 93415
+	}
+	11197.1.1 = {
+		holder = 93416
+	}
+	11202.7.1 = {
+		holder = 34180
+	}
+	11225.1.1 = {
+		holder = 34233
+	}
+	
+	#placeholders
+	11230.1.1 = {
+		holder = 34398
+	}
+	11247.1.1 = {
+		liege = "e_ilkhanate"
+	}
+	11247.1.1 = {
+		holder = 478011
+	}
+	11265.2.8 = {
+		holder = 478010
+	}
+	11282.1.1 = {
+		holder = 125523
+	}
+	11284.1.1 = {
+		holder = 478008
+	}
+	11291.1.1 = {
+		holder = 125525
+	}
+	11295.1.1 = {
+		holder = 125522
+	}
+	11295.8.1 = {
+		holder = 125524
+	}
+	11304.5.11 = {
+		holder = 478007
+	}
+	11316.12.16 = {
+		holder = 478006
+	}	
+	11335.12.1 = {
+		holder = 125528
+	}
+	11336.4.10 = {
+		holder = 478030
+	}
+
+}
+
+
+c_turuberan = {
+	10646.1.1 = {
+		liege = d_vaspurakan
+	}
+	10646.1.1 = {
+		holder = 159898
+	}
+	10647.1.1 = {
+		holder = 159899
+	}
+	10693.1.1 = {
+		holder = 159900
+	}
+	10705.1.1 = {
+		holder = 159902
+	}
+	10708.1.1 = {
+		holder = 159903
+	}
+	10748.1.1 = {
+		holder = 159904
+	}
+	10762.1.1 = {
+		holder = 159906
+	}
+	10772.1.1 = {
+		holder = 159907
+	}
+	10785.1.1 = {
+		holder = 160014
+	}
+	10830.1.1 = {
+		holder = 41559
+	}
+	10836.1.1 = {
+		holder = 41560
+	}
+	10863.1.1 = {
+		liege = e_arabia
+		holder = 159722
+	}
+	11021.1.1 = {
+		liege = "e_byzantium"
+	}
+	11045.1.1 = {
+		liege = "d_vaspurakan"
+	}
+	11060.1.1 = {
+		holder = 41585
+	}
+	11071.8.26 = {
+		liege = "d_erzerum"
+	}
+	11071.8.26 = {
+		holder = 144044
+	}
+	11100.1.1 = {
+		holder = 93410
+	}
+	11112.1.1 = {
+		holder = 93411
+	}
+	11126.1.1 = {
+		holder = 93412
+	}
+	11128.1.1 = {
+		holder = 93413
+	}
+	11168.1.1 = {
+		holder = 225025 # Muhammed
+	}
+	11185.1.1 = {
+		holder = 93414
+	}
+	11193.1.1 = {
+		holder = 93415
+	}
+	11197.1.1 = {
+		holder = 93416
+	}
+	11202.7.1 = {
+		holder = 34180
+	}
+	11225.1.1 = {
+		holder = 34233
+	}
+	#placeholders
+	11230.1.1 = {
+		holder = 34398
+	}
+	11247.1.1 = {
+		liege = "e_ilkhanate"
+	}
+	11247.1.1 = {
+		holder = 478011
+	}
+	11265.2.8 = {
+		holder = 478010
+	}
+	11282.1.1 = {
+		holder = 125523
+	}
+	11284.1.1 = {
+		holder = 478008
+	}
+	11291.1.1 = {
+		holder = 125525
+	}
+	11295.1.1 = {
+		holder = 125522
+	}
+	11295.8.1 = {
+		holder = 125524
+	}
+	11304.5.11 = {
+		holder = 478007
+	}
+	11316.12.16 = {
+		holder = 478006
+	}	
+	11335.12.1 = {
+		holder = 125528
+	}
+	11336.4.10 = {
+		holder = 478030
+	}
+
+}
+
+
+c_apahunik = {
+	10646.1.1 = {
+		liege = d_vaspurakan
+	}
+	10646.1.1 = {
+		holder = 159898
+	}
+	10647.1.1 = {
+		holder = 159899
+	}
+	10693.1.1 = {
+		holder = 159900
+	}
+	10705.1.1 = {
+		holder = 159902
+	}
+	10708.1.1 = {
+		holder = 159903
+	}
+	10748.1.1 = {
+		holder = 159904
+	}
+	10762.1.1 = {
+		holder = 159906
+	}
+	10772.1.1 = {
+		holder = 159907
+	}
+	10785.1.1 = {
+		holder = 160014
+	}
+	10830.1.1 = {
+		holder = 41559
+	}
+	10836.1.1 = {
+		holder = 41560
+	}
+	10863.1.1 = {
+		holder = 159722
+		liege = e_arabia
+	}
+	11021.1.1 = {
+		liege = "e_byzantium"
+	}
+	11045.1.1 = {
+		liege = d_vaspurakan
+	}
+	11060.1.1 = {
+		holder = 159238
+	}
+	11071.8.26 = {
+		liege = "d_erzerum"
+	}
+	11071.8.26 = {
+		holder = 144044
+	}
+	11100.1.1 = {
+		holder = 93410
+	}
+	11112.1.1 = {
+		holder = 93411
+	}
+	11126.1.1 = {
+		holder = 93412
+	}
+	11128.1.1 = {
+		holder = 93413
+	}
+	11185.1.1 = {
+		holder = 93414
+	}
+	11193.1.1 = {
+		holder = 93415
+	}
+	11197.1.1 = {
+		holder = 93416
+	}
+	11202.7.1 = {
+		holder = 34180
+	}
+	11225.1.1 = {
+		holder = 34233
+	}
+	#placeholders
+	11230.1.1 = {
+		holder = 34398
+	}
+	11247.1.1 = {
+		liege = "e_ilkhanate"
+	}
+	11247.1.1 = {
+		holder = 478011
+	}
+	11265.2.8 = {
+		holder = 478010
+	}
+	11282.1.1 = {
+		holder = 125523
+	}
+	11284.1.1 = {
+		holder = 478008
+	}
+	11291.1.1 = {
+		holder = 125525
+	}
+	11295.1.1 = {
+		holder = 125522
+	}
+	11295.8.1 = {
+		holder = 125524
+	}
+	11304.5.11 = {
+		holder = 478007
+	}
+	11316.12.16 = {
+		holder = 478006
+	}	
+	11335.12.1 = {
+		holder = 125528
+	}
+	11336.4.10 = {
+		holder = 478030
+	}
+
+}
+
+
+c_vaspurakan = {
+	10646.1.1 = {
+		liege = d_vaspurakan
+	}
+	10646.1.1 = {
+		holder = 159898
+	}
+	10647.1.1 = {
+		holder = 159899
+	}
+	10693.1.1 = {
+		holder = 159900
+	}
+	10705.1.1 = {
+		holder = 159902
+	}
+	10708.1.1 = {
+		holder = 159903
+	}
+	10748.1.1 = {
+		holder = 159904
+	}
+	10762.1.1 = {
+		holder = 159906
+	}
+	10772.1.1 = {
+		holder = 159907
+	}
+	10785.1.1 = {
+		holder = 160014
+	}
+	10830.1.1 = {
+		holder = 41559
+	}
+	10836.1.1 = {
+		holder = 41560
+	}
+	11021.1.1 = {
+		liege = "e_byzantium"
+	}
+	11045.1.1 = {
+		liege = d_vaspurakan
+	}
+	11060.1.1 = {
+		holder = 159238
+	}
+	11071.8.26 = {
+		liege = "d_erzerum"
+	}
+	11071.8.26 = {
+		holder = 144044
+	}
+	11100.1.1 = {
+		holder = 93410
+	}
+	11112.1.1 = {
+		holder = 93411
+	}
+	11126.1.1 = {
+		holder = 93412
+	}
+	11128.1.1 = {
+		holder = 93413
+	}
+	11185.1.1 = {
+		holder = 93414
+	}
+	11193.1.1 = {
+		holder = 93415
+	}
+	11197.1.1 = {
+		holder = 93416
+	}
+	11202.7.1 = {
+		holder = 34180
+	}
+	11225.1.1 = {
+		holder = 34233
+	}
+	#placeholders
+	11230.1.1 = {
+		holder = 34398
+	}
+	11247.1.1 = {
+		liege = "e_ilkhanate"
+	}
+	11247.1.1 = {
+		holder = 478011
+	}
+	11265.2.8 = {
+		holder = 478010
+	}
+	11282.1.1 = {
+		holder = 125523
+	}
+	11284.1.1 = {
+		holder = 478008
+	}
+	11291.1.1 = {
+		holder = 125525
+	}
+	11295.1.1 = {
+		holder = 125522
+	}
+	11295.8.1 = {
+		holder = 125524
+	}
+	11304.5.11 = {
+		holder = 478007
+	}
+	11316.12.16 = {
+		holder = 478006
+	}	
+	11335.12.1 = {
+		holder = 125528
+	}
+	11336.4.10 = {
+		holder = 478030
+	}
+
+}
+
+
+d_greater_armenia = {
+	10646.1.1 = {
+		holder = 145996
+	}
+	10653.1.1 = {
+		holder = 70454
+	}
+	10654.1.1 = {
+		holder = 145996
+		liege = k_armenia
+	}
+	10655.1.1 = {
+		holder = 159871
+	}
+	10661.1.1 = {
+		holder = 70452
+	}
+	10684.1.1 = {
+		holder = 70448
+	}
+	10690.1.1 = {
+		holder = 159571
+	}
+	10693.8.29 = {
+		holder = 70447
+	}
+	10726.1.1 = {
+		holder = 41500
+	}
+	10745.1.1 = {
+		holder = 70451
+	}
+	10746.1.1 = {
+		holder = 41500
+	}
+	10749.1.1 = {
+		holder = 70451
+	}
+	10750.1.1 = {
+		holder = 70450
+	}
+	10754.1.1 = {
+		holder = 145998
+	}
+	10761.1.1 = {
+		holder = 41501
+	}
+	10775.4.15 = {
+		holder = 41502
+	}
+	10826.1.1 = {
+		holder = 41530
+	}
+	10851.1.1 = {
+		holder = 41504
+	}
+	10862.1.1 = {
+		holder = 41505
+	}
+	#884 Armenia independant from Abbasid
+	
+	#Kingdom of Vaspurakan in 908
+	
+	10890.1.1 = {
+		holder = 41506
+	}
+	10912.1.1 = {
+		holder = 41507
+	}
+	10928.1.1 = {
+		holder = 41508
+	}
+	10951.1.1 = {
+		holder = 41509
+	}
+	10977.1.1 = {
+		holder = 41510
+	}
+	10990.1.1 = {
+		holder = 41519
+	}
+	11020.1.1 = {
+		holder = 41520
+	}
+	
+	#1021 end of Vaspurakan
+	11041.1.1 = {
+		holder = 41521
+	}
+	11041.9.1 = {
+		holder = 41522
+	}
+	
+	#
+	11045.1.1 = {
+		holder = 0
+		liege = "e_byzantium"
+	}
+	11178.1.1 = {
+		holder = 232758 # Sargis Zakarian
+		liege = k_georgia
+	}
+	11191.1.1 = {
+		holder = 232759
+	}
+	11223.1.1 = {
+		holder = 159206
+	}
+	11247.1.1 = {
+		holder = 0
+	}
+}
+
+
+c_hayk = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 44 }
+	
+	10646.1.1 = {
+		liege = d_greater_armenia
+	}
+	10714.1.1 = {
+		holder = 159875
+	}
+	10744.1.1 = {
+		holder = 159876
+	}
+	10785.1.1 = {
+		holder = 159878
+	}
+	10862.1.1 = {
+		holder = 41505
+	}
+	11060.1.1 = {
+		holder = 41585
+	}
+	11071.8.26 = {
+		liege = "d_erzerum"
+	}
+	11071.8.26 = {
+		holder = 144044
+	}
+	11102.1.1 = {
+		holder = 144045
+	}
+	
+	#To Georgia
+	11124.4.1 = {
+		holder = 144046
+		liege = k_georgia
+	}
+	11132.1.1 = {
+		holder = 144047
+	}
+	11168.1.1 = {
+		holder = 225025
+	}
+	11178.1.1 = {
+		holder = 232758 # Sargis Zakarian
+	}
+	11191.1.1 = {
+		liege = "k_georgia"
+		holder = 232759
+	}
+	11202.1.1 = {
+		holder = 232760
+	}
+	11202.7.1 = {
+		liege = d_greater_armenia
+		holder = 159207
+	}
+	11225.1.2 = {
+		liege = "d_erzerum"
+		holder = 34233
+	}
+	#placeholders
+	11230.1.1 = {
+		holder = 34398
+	}
+	11250.1.1 = {
+		holder = 34399
+	}
+	11280.1.1 = {
+		holder = 34400
+	}
+	11300.1.1 = {
+		holder = 34401
+	}
+	
+
+}
+
+
+c_bagrewand = {
+	10646.1.1 = {
+		liege = d_greater_armenia
+	}
+	10714.1.1 = {
+		holder = 159875
+	}
+	10744.1.1 = {
+		holder = 159876
+	}
+	10785.1.1 = {
+		holder = 159878
+	}
+	10862.1.1 = {
+		holder = 41505
+	}
+	11060.1.1 = {
+		holder = 41585
+	}
+	11071.8.26 = {
+		liege = "d_erzerum"
+	}
+	11071.8.26 = {
+		holder = 144044
+	}
+	11102.1.1 = {
+		holder = 144045
+	}
+	
+	#To Georgia
+	11124.1.1 = {
+		holder = 144046
+	}
+	11132.1.1 = {
+		holder = 144047
+	}
+	11168.1.1 = {
+		holder = 225025
+	}
+	11178.1.1 = {
+		holder = saltukid_1 # Malikshah
+	}
+	11191.1.1 = {
+		liege = "k_georgia"
+		holder = 232759
+	}
+	11202.1.1 = {
+		holder = 232760
+	}
+	11202.7.1 = {
+		liege = d_greater_armenia
+		holder = 159207
+	}
+	11225.1.2 = {
+		liege = "d_erzerum"
+		holder = 34233
+	}
+	#placeholders
+	11230.1.1 = {
+		holder = 34398
+	}
+	11250.1.1 = {
+		holder = 34399
+	}
+	11280.1.1 = {
+		holder = 34400
+	}
+	11300.1.1 = {
+		holder = 34401
+	}
+
+}
+
+
+c_vanand = {
+	10646.1.1 = {
+		liege = d_greater_armenia
+	}
+	10714.1.1 = {
+		holder = 159875
+	}
+	10744.1.1 = {
+		holder = 159876
+	}
+	10785.1.1 = {
+		holder = 159878
+	}
+	10862.1.1 = {
+		holder = 41505
+	}
+	11060.1.1 = {
+		holder = 41585
+	}
+	11071.8.26 = {
+		liege = "d_erzerum"
+	}
+	11071.8.26 = {
+		holder = 144044
+	}
+	11102.1.1 = {
+		holder = 144045
+	}
+	
+	#To Georgia
+	11124.4.1 = {
+		holder = 144046
+		liege = k_georgia
+	}
+	11132.1.1 = {
+		holder = 144047
+	}
+	11168.1.1 = {
+		holder = 225025
+	}
+	11191.1.1 = {
+		holder = 232759
+	}
+	11202.1.1 = {
+		holder = 232760
+	}
+	11202.7.1 = {
+		liege = d_greater_armenia
+		holder = 159207
+	}
+	11225.1.2 = {
+		liege = "d_erzerum"
+		holder = 34233
+	}
+	#placeholders
+	11230.1.1 = {
+		holder = 34398
+	}
+	11250.1.1 = {
+		holder = 34399
+	}
+	11280.1.1 = {
+		holder = 34400
+	}
+	11300.1.1 = {
+		holder = 34401
+	}
+}
+
+c_khachen = {
+	#VIIth century onwards : Arab rule
+	10654.1.1 = {
+		liege = e_arabia
+	}
+	#821 : Principality of Khachen
+	10821.1.1 = {
+		liege = 0
+		holder = 159973	#Sahak Sahl Smbatean
+	}
+	10855.1.1 = {
+		holder = 159976 #Smbat, grandson of Sahak Sahl Smbatean
+	}
+	
+	#Vassal state of Bagratid Armenia
+	10884.1.1 = {
+		liege = k_armenia
+	}
+	10891.1.1 = {
+		holder = 159982	#Sahak, son of Smbat
+	}
+	10921.1.1 = {
+		holder = 159983	#Grigor, son of Sahak
+	}
+	10956.1.1 = {
+		holder = 159984	#Atrnerseh, son of Grigor
+	}
+	10996.1.1 = {
+		holder = 159985	#Sahak, son of Atrnerseh
+	}
+	#1000 : Kingdom of Astrakh
+	11000.1.1 = {
+		holder = 159986	#Smbat, son of Sahak
+	}
+	11030.1.1 = {
+		holder = 159239	#Grigor, son of Smbat
+	}
+	
+	#1045 : Bagratid Armenia dissolution
+	11045.1.1 = {
+		liege = d_greater_armenia
+	}
+	
+	#1064 : Seljuk take Ani/Armenia
+	11064.1.1 = {
+		liege = 0
+	}
+	11080.1.1 = {
+		holder = 159241	#Senekerim, son of Grigor
+	}
+	11094.1.1 = {
+		holder = 159235	#Grigor, son of Senekerim
+	}
+	
+	#1124 : Goes to Georgia
+	11124.1.1 = {
+		liege = k_georgia
+	}
+	11136.1.1 = {
+		holder = 159242	#Senekerim, son of Grigor
+	}
+	11160.1.1 = {
+		holder = 159215	#Mamkan, son of Senekerim
+	}
+	
+	#1261 : End of KoA
+}
+
+
+c_suenik = {
+	10646.1.1 = {
+		liege = "d_greater_armenia"
+		holder = 160008
+	}
+	10652.1.1 = {
+		holder = 160009
+	}
+	10679.1.1 = {
+		holder = 160010
+	}
+	10698.1.1 = {
+		holder = 160011
+	}
+	10741.1.1 = {
+		holder = 160012
+	}
+	10750.1.1 = {
+		holder = 160013
+		liege = 0
+	}
+	10780.1.1 = {
+		holder = 159243
+	}
+	10811.1.1 = {
+		holder = 159244
+	}
+	10848.1.1 = {
+		holder = 159264
+	}
+	10851.1.1 = {
+		holder = 159251
+	}
+	11045.1.1 = {
+		liege = 0
+	}
+	11060.1.1 = {
+		holder = 41556
+	}
+	11071.8.26 = {
+		liege = "d_azerbaijan"
+	}
+	11071.8.26 = {
+		holder = 3040
+	}
+	11072.11.1 = {
+		holder = 3042
+	}
+	
+	11092.11.1 = {
+		holder = 144012
+	}
+	11094.1.1 = {
+		holder = 144013
+	}
+	11105.3.1 = {
+		holder = 144014
+	}
+	11118.4.18 = {
+		holder = 144015
+	}
+	
+	#To Georgia
+	11124.4.1 = {
+		holder = 159210
+		liege = k_georgia
+	}
+	11149.1.1 = {
+		holder = 159211
+	}
+	11181.1.1 = {
+		holder = 159212
+	}
+	11213.1.1 = {
+		holder = 159214
+	}
+	11260.1.1 = {
+		holder = 159217
+	}
+	11265.2.8 = {
+		liege = "e_ilkhanate"
+		holder = 478010
+	}
+	11282.1.1 = {
+		holder = 125523
+	}
+	11284.1.1 = {
+		holder = 478008
+	}
+	11291.1.1 = {
+		holder = 125525
+	}
+	11295.1.1 = {
+		holder = 125522
+	}
+	11295.8.1 = {
+		holder = 125524
+	}
+	11304.5.11 = {
+		holder = 478007
+	}
+	11316.12.16 = {
+		holder = 478006
+	}	
+	11318.1.1 = {
+		holder = 478006
+	}
+	11328.1.1 = {
+		holder = 478033
+	}
+}
+
+
+c_dvin = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10646.1.1 = {
+		liege = d_greater_armenia
+		holder = 145996
+	}
+	10653.1.1 = {
+		holder = 70454
+	}
+	10654.1.1 = {
+		holder = 145996
+	}
+	10655.1.1 = {
+		holder = 159871
+	}
+	10661.1.1 = {
+		holder = 70452
+	}
+	10684.1.1 = {
+		holder = 70448
+	}
+	10690.1.1 = {
+		holder = 159571
+	}
+	10693.8.29 = {
+		holder = 70447
+	}
+	10726.1.1 = {
+		holder = 41500
+	}
+	10745.1.1 = {
+		holder = 70451
+	}
+	10746.1.1 = {
+		holder = 41500
+	}
+	10749.1.1 = {
+		holder = 70451
+	}
+	10750.1.1 = {
+		holder = 70450
+	}
+	10754.1.1 = {
+		holder = 145998
+	}
+	10761.1.1 = {
+		holder = 41501
+	}
+	10767.1.1 = {
+		liege = d_greater_armenia
+		holder = 146024
+	}
+	10769.1.1 = {
+		holder = 146036
+	}
+	10770.1.1 = {
+		holder = 188575
+	}
+	10774.1.1 = {
+		holder = 146016
+	}
+	10778.1.1 = {
+		holder = 146053
+	}
+	10785.1.1 = {
+		liege = d_greater_armenia
+		holder = 41502
+	}
+	10826.1.1 = {
+		holder = 41530
+	}
+	10851.1.1 = {
+		holder = 41504
+	}
+	10862.1.1 = {
+		holder = 41505
+	}
+	10890.1.1 = {
+		holder = 41506
+	}
+	10912.1.1 = {
+		holder = 41507
+	}
+	10928.1.1 = {
+		holder = 41508
+	}
+	10951.1.1 = {
+		holder = 41509
+	}
+	10977.1.1 = {
+		holder = 41510
+	}
+	10990.1.1 = {
+		holder = 41519
+	}
+	11020.1.1 = {
+		holder = 41520
+	}
+	11041.1.1 = {
+		holder = 41521
+	}
+	11053.1.1 = {
+		liege = 0
+		holder = shaddadid_1 # Eskender
+	}
+	11067.1.1 = {
+		holder = 41601
+	}
+	11073.1.1 = {
+		holder = 41602
+	}
+	11075.1.1 = {
+		liege = "k_persia"
+		holder = 41603
+	}
+	11118.1.1 = {
+		holder = 41604
+	}
+	
+	#To Georgia
+	11124.1.1 = {
+		liege = "k_georgia"
+	}
+	11173.1.1 = {
+		holder = 232758 # Sargis Zakarian
+	}
+	11184.4.6 = {
+		holder = 232758
+	}
+	11187.1.2 = {
+		holder = 232759
+	}
+	11223.1.1 = {
+		holder = 159206
+	}
+	11247.1.1 = {
+		liege = "e_ilkhanate"
+	}
+	11247.1.1 = {
+		holder = 478011
+	}
+	11265.2.8 = {
+		holder = 478010
+	}
+	11282.1.1 = {
+		holder = 125523
+	}
+	11284.1.1 = {
+		holder = 478008
+	}
+	11291.1.1 = {
+		holder = 125525
+	}
+	11295.1.1 = {
+		holder = 125522
+	}
+	11295.8.1 = {
+		holder = 125524
+	}
+	11304.5.11 = {
+		holder = 478007
+	}
+	11316.12.16 = {
+		holder = 478006
+	}	
+	11335.12.1 = {
+		holder = 125528
+	}
+	11336.4.10 = {
+		holder = 478000
+	}
+	11336.7.24 = {
+		holder = 478030
+	}
+
+}
+

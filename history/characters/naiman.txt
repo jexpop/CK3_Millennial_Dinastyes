@@ -1,0 +1,574 @@
+﻿#Güchügüd
+303301 = {
+	name = "Qatarqa"
+	dynasty = 2001159	#Güchügüd
+	religion = tengri_pagan
+	culture = naiman
+	10827.1.20 = {
+		birth = yes
+	}
+	10884.5.12 = {
+		death = yes
+	}
+}
+303302 = {
+	name = "Qorisu_Dayir"
+	dynasty = 2001159	#Güchügüd
+	religion = tengri_pagan
+	culture = naiman
+	father = 303301
+	10850.2.6 = {
+		birth = yes
+	}
+	10896.8.11 = {
+		death = yes
+	}
+}
+303303 = {
+	name = "Kurchakus"
+	dynasty = 2001159	#Güchügüd
+	religion = nestorian
+	culture = naiman
+	11038.5.17 = {
+		birth = yes
+	}
+	11090.6.2 = {
+		death = yes
+	}
+}
+303304 = {
+	name = "Tayan"
+	dynasty = 2001159	#Güchügüd
+	religion = nestorian
+	culture = naiman
+	father = 303303
+	11063.5.1 = {
+		birth = yes
+	}
+	11123.11.24 = {
+		death = yes
+	}
+}
+303305 = {
+	name = "Togrul"
+	dynasty = 2001159	#Güchügüd
+	religion = nestorian
+	culture = naiman
+	father = 303304
+	11115.10.28 = {
+		birth = yes
+	}
+	11154.7.13 = {
+		death = yes
+	}
+}
+303306 = {
+	name = "Bukha_Timur"
+	dynasty = 2001159	#Güchügüd
+	religion = nestorian
+	culture = naiman
+	stewardship = 8
+	father = 303305
+	11139.12.2 = {
+		birth = yes
+	}
+	11208.1.20 = {
+		death = yes
+	}
+}
+303307 = {
+	name = "Toqto_a"
+	dynasty = 2001159	#Güchügüd
+	religion = nestorian
+	culture = naiman
+	father = 303306
+	11161.9.23 = {
+		birth = yes
+	}
+	11205.4.13 = {
+		death = yes
+	}
+}
+
+naiman_guchugud_1 = { #Inanch Bilge
+	name = "Inanch_Bilge"
+	dynasty = 2001159	#Güchügüd
+	religion = nestorian
+	culture = naiman
+	father = 303304
+	
+	martial = 8
+	diplomacy = 6
+	intrigue = 2
+	stewardship = 7
+	learning = 9
+	prowess = 12
+	trait = brave
+	trait = zealous
+	trait = diligent
+	trait = strong
+	trait = education_martial_4
+	trait = lifestyle_hunter
+	dna = bookmark_nomads_inanch_bilge_naiman_guchugud_1
+	
+	11120.1.1 = {
+		birth = yes
+	}
+	11198.1.1 = {
+		death = yes
+	}
+}
+
+naiman_guchugud_2 = { #Gürbesu
+	name = "Gurbesu_naiman"
+	female = yes
+	dynasty = 2001160 #Betegin
+	religion = nestorian
+	culture = naiman
+	trait = beauty_good_1
+	dna = bookmark_nomads_gurbesu_naiman_guchugud_2
+	11161.1.1 = {
+		birth = yes
+	}
+	11177.1.1 = {
+		add_spouse = naiman_guchugud_1
+	}
+	11220.1.1 = {
+		death = yes
+	}
+}
+
+naiman_guchugud_3 = { #Tayang the Weak
+	name = "Tayang_naiman"
+	dynasty = 2001159	#Güchügüd
+	religion = nestorian
+	culture = naiman
+	father = naiman_guchugud_1
+	trait = weak
+	trait = dull
+	dna = bookmark_nomads_tayang_naiman_guchugud_3
+	11163.1.1 = {
+		birth = yes
+		give_nickname = nick_the_weak
+	}
+	11204.1.1 = {
+		death = yes
+	}
+}
+
+naiman_guchugud_4 = { #Buyruq
+	name = "Buyruq_naiman"
+	dynasty = 2001159	#Güchügüd
+	religion = nestorian
+	culture = naiman
+	father = naiman_guchugud_1
+	trait = brave
+	11172.1.1 = {
+		birth = yes
+	}
+	11206.1.1 = {
+		death = yes
+	}
+}
+
+naiman_guchugud_5 = { #Naershi Tayang
+	name = "Naershi_tayang_naiman"
+	dynasty = 2001159	#Güchügüd
+	father = 303304
+	religion = nestorian
+	culture = naiman
+	trait = brave
+	trait = temperate
+	trait = just
+	11098.1.1 = {
+		birth = yes
+	}
+	11138.1.1 = {
+		death = yes
+	}
+}
+
+
+#Betegin
+303308 = {
+	name = "Kitbuqa"
+	dynasty = 2001160	#Betegin
+	religion = tengri_pagan
+	culture = naiman
+	10848.10.28 = {
+		birth = yes
+	}
+	10903.6.14 = {
+		death = yes
+	}
+}
+303309 = {
+	name = "Arin_Taiz"
+	dynasty = 2001160	#Betegin
+	religion = nestorian
+	culture = naiman
+	11045.1.21 = {
+		birth = yes
+	}
+	11110.4.11 = {
+		death = yes
+	}
+}
+303310 = {
+	name = "Marguz"
+	dynasty = 2001160	#Betegin
+	religion = nestorian
+	culture = naiman
+	father = 303309
+	11067.1.3 = {
+		birth = yes
+	}
+	11117.2.13 = {
+		death = yes
+	}
+}
+303311 = {
+	name = "Yula_Mangus"
+	dynasty = 2001160	#Betegin
+	religion = nestorian
+	culture = naiman
+	father = 303310
+	11095.8.20 = {
+		birth = yes
+	}
+	11150.3.14 = {
+		death = yes
+	}
+}
+303312 = {
+	name = "Quchar"
+	dynasty = 2001160	#Betegin
+	religion = nestorian
+	culture = naiman
+	father = 303311
+	11121.6.30 = {
+		birth = yes
+	}
+	11165.7.23 = {
+		death = yes
+	}
+}
+303313 = {
+	name = "Kitbuqa"
+	dynasty = 2001160	#Betegin
+	religion = nestorian
+	culture = naiman
+	father = 303312
+	11143.7.12 = {
+		birth = yes
+	}
+	11195.10.19 = {
+		death = yes
+	}
+}
+#Buku
+303314 = {
+	name = "Jamuqa"
+	dynasty = 2001161	#Buku
+	religion = nestorian
+	culture = naiman
+	11034.7.22 = {
+		birth = yes
+	}
+	11084.9.11 = {
+		death = yes
+	}
+}
+303315 = {
+	name = "Tooril"
+	dynasty = 2001161	#Buku
+	religion = nestorian
+	culture = naiman
+	father = 303314
+	11056.3.10 = {
+		birth = yes
+	}
+	11119.7.18 = {
+		death = yes
+	}
+}
+303316 = {
+	name = "Daaritai"
+	dynasty = 2001161	#Buku
+	religion = nestorian
+	culture = naiman
+	father = 303315
+	11080.1.16 = {
+		birth = yes
+	}
+	11132.1.26 = {
+		death = yes
+	}
+}
+303317 = {
+	name = "Buyimur"
+	dynasty = 2001161	#Buku
+	religion = nestorian
+	culture = naiman
+	father = 303316
+	11108.4.22 = {
+		birth = yes
+	}
+	11157.9.3 = {
+		death = yes
+	}
+}
+303318 = {
+	name = "Altan"
+	dynasty = 2001161	#Buku
+	religion = nestorian
+	culture = naiman
+	stewardship = 8
+	father = 303317
+	11129.8.30 = {
+		birth = yes
+	}
+	11187.6.16 = {
+		death = yes
+	}
+}
+303319 = {
+	name = "Tooril"
+	dynasty = 2001161	#Buku
+	religion = nestorian
+	culture = naiman
+	father = 303318
+	11157.2.22 = {
+		birth = yes
+	}
+	11218.4.14 = {
+		death = yes
+	}
+}
+
+#Karakalpaks
+303320 = {
+	name = "Saryk"
+	dynasty = 2001162	#Karakalpaks
+	religion = nestorian
+	culture = naiman
+	11047.5.8 = {
+		birth = yes
+	}
+	11110.7.23 = {
+		death = yes
+	}
+}
+303321 = {
+	name = "Ciriac"
+	dynasty = 2001162	#Karakalpaks
+	religion = nestorian
+	culture = naiman
+	father = 303320
+	11073.4.18 = {
+		birth = yes
+	}
+	11132.8.9 = {
+		death = yes
+	}
+}
+303322 = {
+	name = "Marguz"
+	dynasty = 2001162	#Karakalpaks
+	religion = nestorian
+	culture = naiman
+	father = 303320
+	11075.6.22 = {
+		birth = yes
+	}
+	11139.1.29 = {
+		death = yes
+	}
+}
+303323 = {
+	name = "Qorisubachi"
+	dynasty = 2001162	#Karakalpaks
+	religion = nestorian
+	culture = naiman
+	father = 303321
+	11098.7.15 = {
+		birth = yes
+	}
+	11153.2.3 = {
+		death = yes
+	}
+}
+303324 = {
+	name = "Inanch"
+	dynasty = 2001162	#Karakalpaks
+	religion = nestorian
+	culture = naiman
+	father = 303323
+	11122.8.12 = {
+		birth = yes
+	}
+	11165.3.22 = {
+		death = yes
+	}
+}
+303325 = {
+	name = "Jagambu"
+	dynasty = 2001162	#Karakalpaks
+	religion = nestorian
+	culture = naiman
+	father = 303324
+	11152.1.2 = {
+		birth = yes
+	}
+	11214.9.11 = {
+		death = yes
+	}
+}
+#
+
+#MPO Fictional Naimans
+fictional_naimans_1 = {	#Naimans under Kirghiz in 867
+	name = "Holuikhan"
+	religion = tengri_pagan
+	culture = naiman
+	10833.9.22 = {
+		birth = yes
+	}
+	10901.1.1 = {
+		death = yes
+	}
+}
+
+fictional_naimans_2 = {	#Naimans under Kirghiz in 867
+	name = "Orbei"
+	religion = tengri_pagan
+	culture = naiman
+	10840.6.19 = {
+		birth = yes
+	}
+	10898.1.1 = {
+		death = yes
+	}
+}
+
+fictional_naimans_3 = {	#Indep Naimans in 1066
+	name = "Kuchuguden"
+	religion = nestorian
+	culture = naiman
+	11032.5.16 = {
+		birth = yes
+	}
+	11087.1.1 = {
+		death = yes
+	}
+}
+
+fictional_naimans_4 = {	#Naimans under Great Liao in 1066
+	name = "Toqto_a"
+	religion = nestorian
+	culture = naiman
+	11020.8.30 = {
+		birth = yes
+	}
+	11080.1.1 = {
+		death = yes
+	}
+}
+
+fictional_naimans_5 = {	#Naimans under Great Liao in 1066
+	name = "Daaritai"
+	religion = nestorian
+	culture = naiman
+	11036.9.12 = {
+		birth = yes
+	}
+	11077.1.1 = {
+		death = yes
+	}
+}
+
+fictional_naimans_6 = {	#Indep Naimans 1178
+	name = "Korchi"
+	religion = nestorian
+	culture = naiman
+	11144.7.8 = {
+		birth = yes
+	}
+	11196.1.1 = {
+		death = yes
+	}
+}
+
+fictional_naimans_7 = {	#Herder Naimans 1178
+	name = "Qorisubachi"
+	religion = nestorian
+	culture = naiman
+	11144.12.26 = {
+		birth = yes
+	}
+	11198.1.1 = {
+		death = yes
+	}
+}
+
+fictional_naimans_8 = {	#Herder Naimans 1178
+	name = "Nomolun"
+	religion = nestorian
+	culture = naiman
+	female = yes
+	11138.4.27 = {
+		birth = yes
+	}
+	11212.1.1 = {
+		death = yes
+	}
+}
+
+fictional_naimans_9 = {	#Herder Naimans 1178
+	name = "Inanch"
+	religion = nestorian
+	culture = naiman
+	11109.2.2 = {
+		birth = yes
+	}
+	11185.1.1 = {
+		death = yes
+	}
+}
+
+fictional_naimans_10 = {	#Herder Naimans 1066
+	name = "Khogaghchin"
+	religion = nestorian
+	culture = naiman
+	female = yes
+	11010.2.24 = {
+		birth = yes
+	}
+	11068.1.1 = {
+		death = yes
+	}
+}
+
+fictional_naimans_11 = {	#Herder Naimans 1066
+	name = "Tai_Timur"
+	religion = nestorian
+	culture = naiman
+	11001.6.13 = {
+		birth = yes
+	}
+	11074.1.1 = {
+		death = yes
+	}
+}
+
+fictional_naimans_12 = {	#Herder Naimans 867
+	name = "Qorisubachi"
+	religion = tengri_pagan
+	culture = naiman
+	10804.1.18 = {
+		birth = yes
+	}
+	10869.1.1 = {
+		death = yes
+	}
+}

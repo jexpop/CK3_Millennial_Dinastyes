@@ -1,0 +1,689 @@
+k_khakassia = {
+	10867.1.1 = { change_development_level = 0 }
+	11066.1.1 = { change_development_level = 0 }
+	11178.1.1 = { change_development_level = 0 }
+
+	10840.1.2 = {
+		holder = 303238		#fictional Uzur Enisey Kyrgyz
+		government = nomad_government
+		effect = {
+			set_de_jure_liege_title = title:e_kirghiz_khanate
+		}
+	}
+	11066.1.1 = {
+		holder = 0
+		effect = {
+			set_de_jure_liege_title = title:e_mongolia
+		}
+	}
+}
+
+d_khakass_hollow = {
+	#867
+	10840.1.2 = {
+		liege = e_kirghiz_khanate
+		holder = 303238		#fictional Uzur Enisey Kyrgyz
+		government = nomad_government
+	}
+	10871.8.19 = {
+		holder = 303239		#fictional Zhyrgal Enisey Kyrgyz
+	}
+	10889.5.2 = {
+		holder = 303243		#fictional Kozel Enisey Kyrgyz
+	}
+	
+	#1066
+	11063.6.17 = {
+		liege = 0
+		holder = 303244		#fictional Kokotoy
+	}
+	11103.10.24 = {
+		holder = 303245		#fictional Sugr
+	}
+	11117.4.30 = {
+		holder = 303246		#fictional Kuntuvdi
+	}
+	11155.3.10 = {
+		holder = 303247		#fictional SirC_an
+	}
+	11170.10.26 = {
+		holder = 303249		#fictional Kuntuvdi
+	}
+}
+
+
+c_abakan = {
+	#867
+	10840.1.2 = {
+		liege = d_khakass_hollow
+		holder = 303238		#fictional Uzur Enisey Kyrgyz
+	}
+	10871.8.19 = {
+		holder = 303239		#fictional Zhyrgal Enisey Kyrgyz
+	}
+	10889.5.2 = {
+		holder = 303243		#fictional Kozel Enisey Kyrgyz
+	}
+	
+	#1066
+	11063.6.17 = {
+		holder = 303244		#fictional Kokotoy
+	}
+	11103.10.24 = {
+		holder = 303245		#fictional Sugr
+	}
+	11117.4.30 = {
+		holder = 303246		#fictional Kuntuvdi
+	}
+	11155.3.10 = {
+		holder = 303247		#fictional SirC_an
+	}
+	11170.10.26 = {
+		holder = 303249		#fictional Kuntuvdi
+	}
+}
+
+
+c_julym = {
+	#867
+	10840.1.2 = {
+		liege = d_khakass_hollow
+		holder = 303238		#fictional Uzur Enisey Kyrgyz
+	}
+	10871.8.19 = {
+		holder = 303239		#fictional Zhyrgal Enisey Kyrgyz
+	}
+	10889.5.2 = {
+		holder = 303243		#fictional Kozel Enisey Kyrgyz
+	}
+	
+	#1066
+	11065.1.1 = {
+		holder = fictional_kirghiz_25	#fictional herder
+		liege = 0
+		government = herder_government
+	}
+	11170.10.26 = {
+		holder = enisey_kyrgyz_1 # fictional Sugr
+		liege = d_khakass_hollow
+		government = nomad_government
+	}
+}
+
+
+c_jerjul = {
+	#867
+	10840.1.2 = {
+		liege = d_khakass_hollow
+		holder = 303238		#fictional Uzur Enisey Kyrgyz
+	}
+	10867.1.1 = {
+		holder = 303238
+	}
+	#10871.8.19 = {
+	#	holder = 303239		#fictional Zhyrgal Enisey Kyrgyz
+	#}
+	10889.5.2 = {
+		holder = 303243		#fictional Kozel Enisey Kyrgyz
+		government = nomad_government
+	}
+	
+	#1066
+	11052.1.1 = {
+		holder = fictional_kirghiz_8	#fic to have more char and avoid domain overlimit
+		liege = d_blue_khakassia
+	}
+	11170.10.26 = {
+		holder = fictional_kirghiz_28 #fictional herder
+		liege = d_khakass_hollow 
+		government = herder_government
+	}
+}
+
+d_blue_khakassia = {
+	10867.1.1 = {
+		holder = 0
+		liege = 0
+		government = nomad_government
+	}
+	
+	11064.1.1 = {
+		holder = fictional_kirghiz_6	#fic to have more char and avoid domain overlimit
+		liege = 0
+	}
+	11068.1.1 = {
+		holder = 0
+	}
+}
+
+c_kizir = {
+	#867
+	10840.1.2 = {
+		liege = d_khakass_hollow
+		holder = 303238		#fictional Uzur Enisey Kyrgyz
+	}
+	10867.1.1 = {
+		holder = 303239		#fictional Zhyrgal Enisey Kyrgyz
+	}
+	#10871.8.19 = {
+	#	holder = 303239		#fictional Zhyrgal Enisey Kyrgyz
+	#}
+	10889.5.2 = {
+		holder = 303243		#fictional Kozel Enisey Kyrgyz
+	}
+	
+	#1066
+	11064.1.1 = {
+		holder = fictional_kirghiz_6	#fic to have more char and avoid domain overlimit
+		liege = d_blue_khakassia
+	}
+	
+	#1178
+	11170.10.26 = {
+		holder = enisey_kyrgyz_2 #fictional Kokotoy
+		liege = 0
+	}
+}
+
+
+c_anja = {
+	#867
+	10840.1.2 = {
+		liege = d_khakass_hollow
+		holder = 303238		#fictional Uzur Enisey Kyrgyz
+	}
+	10867.1.1 = {
+		holder = fictional_kirghiz_15 #fictional herder
+		government = herder_government
+	}
+	#10871.8.19 = {
+	#	holder = 303239		#fictional Zhyrgal Enisey Kyrgyz
+	#}
+	10889.5.2 = {
+		holder = 303243		#fictional Kozel Enisey Kyrgyz
+		government = nomad_government
+	}
+	
+	#1066
+	11040.1.1 = {
+		holder = fictional_kirghiz_7	#fic to have more char and avoid domain overlimit
+		liege = 0
+	}
+	
+	#1178
+	11170.10.26 = {
+		holder = enisey_kyrgyz_2 #fictional Kokotoy
+		liege = 0
+	}
+}
+
+
+c_kyzylkul = {
+	#867
+	10840.1.2 = {
+		liege = d_khakass_hollow
+		holder = 303238		#fictional Uzur Enisey Kyrgyz
+	}
+	10871.8.19 = {
+		holder = 303239		#fictional Zhyrgal Enisey Kyrgyz
+	}
+	10889.5.2 = {
+		holder = 303243		#fictional Kozel Enisey Kyrgyz
+	}
+	
+	#1066
+	11062.1.1 = {
+		holder = fictional_kirghiz_5	#fic to have more char and avoid domain overlimit
+		liege = d_khakass_hollow
+	}
+	
+	#1178
+	11170.10.26 = {
+		holder = 303249		#fictional Kuntuvdi
+		liege = d_khakass_hollow
+	}
+}
+
+
+d_shoria = {
+	#Kirghiz khanate
+	10840.1.2 = {
+		liege = e_kirghiz_khanate
+	}
+	
+	#867
+	10860.3.27 = {
+		holder = 303027		#fictional Sildis Shor
+		government = nomad_government
+	}
+	10885.4.20 = {
+		holder = 303029		#fictional XUren Shor
+	}
+	
+	#End of Kirghiz Khanate
+	10925.1.2 = {
+		liege = 0
+	}
+	
+	#1066
+	11052.3.22 = {
+		holder = 303032		#fictional Chayan Shor
+	}
+	11065.8.11 = {
+		holder = 303033		#fictional Buyan Shor
+	}
+	11100.4.9 = {
+		holder = 303036		#fictional Kejik Shor
+	}
+	11109.12.29 = {
+		holder = 303037		#fictional Dash_mir Shor
+	}
+	11147.6.1 = {
+		holder = 303038		#fictional KhU_zhU_get Shor
+	}
+	11169.1.25 = {
+		holder = 303039		#fictional Tadar Shor
+	}
+}
+
+
+c_kuzbas = {
+	#867
+	10840.1.2 = {
+		liege = d_khakass_hollow
+		holder = 303238		#fictional Uzur Enisey Kyrgyz
+		government = nomad_government
+	}
+	10871.8.19 = {
+		holder = 303239		#fictional Zhyrgal Enisey Kyrgyz
+	}
+	10889.5.2 = {
+		holder = 303243		#fictional Kozel Enisey Kyrgyz
+	}
+	
+	#1066
+	11053.1.1 = {
+		holder = fictional_kirghiz_10	#fic to have more char and avoid domain overlimit
+		liege = 0
+	}
+	11170.10.26 = {
+		holder = enisey_kyrgyz_1 #fictional Sugr
+		liege = d_khakass_hollow
+	}
+}
+
+
+c_shor = {
+	#867
+	10860.3.27 = {
+		liege = d_shoria
+		holder = 303027		#fictional Sildis Shor
+		government = nomad_government
+	}
+	10885.4.20 = {
+		holder = 303029		#fictional XUren Shor
+	}
+	
+	#1066
+	11052.3.22 = {
+		holder = 303032		#fictional Chayan Shor
+	}
+	11065.8.11 = {
+		holder = 303033		#fictional Buyan Shor
+	}
+	11100.4.9 = {
+		holder = 303036		#fictional Kejik Shor
+	}
+	11109.12.29 = {
+		holder = 303037		#fictional Dash_mir Shor
+	}
+	11147.6.1 = {
+		holder = 303038		#fictional KhU_zhU_get Shor
+	}
+	11169.1.25 = {
+		holder = 303039		#fictional Tadar Shor
+	}
+}
+
+
+c_uul_chors = {
+	#867
+	10860.3.27 = {
+		liege = d_shoria
+		holder = 303027		#fictional Sildis Shor
+		government = nomad_government
+	}
+	10885.4.20 = {
+		holder = 303029		#fictional XUren Shor
+	}
+	
+	#1066
+	11052.3.22 = {
+		holder = 303032		#fictional Chayan Shor
+	}
+	11065.8.11 = {
+		holder = 303033		#fictional Buyan Shor
+	}
+	11100.4.9 = {
+		holder = 303036		#fictional Kejik Shor
+	}
+	11109.12.29 = {
+		holder = 303037		#fictional Dash_mir Shor
+	}
+	11147.6.1 = {
+		holder = 303038		#fictional KhU_zhU_get Shor
+	}
+	11169.1.25 = {
+		holder = 303039		#fictional Tadar Shor
+	}
+}
+
+
+d_kargassia = {
+	#Kirghiz khanate
+	10840.1.2 = {
+		liege = e_kirghiz_khanate
+	}
+	
+	#867
+	10864.3.3 = {
+		holder = 303041		#fictional Sholban Karagas
+		government = nomad_government
+	}
+	10879.7.13 = {
+		holder = 303044		#fictional Mongun Karagas
+	}
+	
+	#End of Kirghiz Khanate
+	10925.1.2 = {
+		liege = 0
+	}
+	
+	#1066
+	11063.9.17 = {
+		holder = 303046		#fictional Sayana Karagas
+	}
+	11108.1.2 = {
+		holder = 303049		#fictional Sayan Karagas
+	}
+	11128.7.25 = {
+		holder = 303052		#fictional Bishtak Karagas
+	}
+	11146.9.12 = {
+		holder = 303053		#fictional Uyanmas Karagas
+	}
+	11169.1.5 = {
+		holder = 303054		#fictional Turgun Karagas
+	}
+}
+
+
+c_burugu_aallar = {
+	#867
+	10864.3.3 = {
+		liege = d_kargassia
+		holder = fictional_uriankhais_13 #fictional herder
+		government = herder_government
+	}
+	10879.7.13 = {
+		holder = 303044		#fictional Mongun Karagas
+		government = nomad_government
+	}
+	
+	#1066
+	11063.9.17 = {
+		holder = 303046		#fictional Sayana Karagas
+	}
+	11108.1.2 = {
+		holder = 303049		#fictional Sayan Karagas
+	}
+	11128.7.25 = {
+		holder = 303052		#fictional Bishtak Karagas
+	}
+	11146.9.12 = {
+		holder = 303053		#fictional Uyanmas Karagas
+	}
+	11169.1.5 = {
+		holder = 303054		#fictional Turgun Karagas
+	}
+}
+
+
+c_chagdy_aallar = {
+	#867
+	10864.3.3 = {
+		liege = d_kargassia
+		holder = 303041		#fictional Sholban Karagas
+		government = nomad_government
+	}
+	10879.7.13 = {
+		holder = 303044		#fictional Mongun Karagas
+	}
+	
+	#1066
+	11063.9.17 = {
+		holder = 303046		#fictional Sayana Karagas
+	}
+	11108.1.2 = {
+		holder = 303049		#fictional Sayan Karagas
+	}
+	11128.7.25 = {
+		holder = 303052		#fictional Bishtak Karagas
+	}
+	11146.9.12 = {
+		holder = 303053		#fictional Uyanmas Karagas
+	}
+	11169.1.5 = {
+		holder = 303054		#fictional Turgun Karagas
+	}
+}
+
+
+c_songuu_aallar = {
+	#867
+	10864.3.3 = {
+		liege = d_kargassia
+		holder = 303041		#fictional Sholban Karagas
+		government = nomad_government
+	}
+	10879.7.13 = {
+		holder = 303044		#fictional Mongun Karagas
+	}
+	
+	#1066
+	11063.9.17 = {
+		holder = fictional_uriankhais_14 #fictional herder
+		government = herder_government
+	}
+	11108.1.2 = {
+		holder = 303049		#fictional Sayan Karagas
+		government = nomad_government
+	}
+	11128.7.25 = {
+		holder = 303052		#fictional Bishtak Karagas
+	}
+	11146.9.12 = {
+		holder = 303053		#fictional Uyanmas Karagas
+	}
+	11169.1.5 = {
+		holder = 303054		#fictional Turgun Karagas
+	}
+}
+
+
+c_karauda = {
+	#Kirghiz khanate
+	10840.1.2 = {
+		liege = e_kirghiz_khanate
+	}
+	
+	#867
+	10849.1.2 = {
+		holder = fictional_buryats_7 #fictional herder
+		government = herder_government
+	}
+	10889.3.16 = {
+		holder = 303089		#fictional Tsyrendashi Khori-Tumed
+		government = nomad_government
+	}
+	
+	#End of Kirghiz Khanate
+	10925.1.2 = {
+		liege = 0
+	}
+	
+	#1066
+	11047.6.27 = {
+		holder = fictional_buryats_16		#fictional herder
+		government = herder_government
+	}
+	11074.4.18 = {
+		holder = 303200		#fictional Gombozab Khongodor
+		government = nomad_government
+	}
+	11101.10.20 = {
+		holder = 303201		#fictional Sodnom Khongodor
+	}
+	11112.1.1 = {
+		holder = 303202		#fictional Osor Khongodor
+	}
+	11144.3.16 = {
+		holder = 303203		#fictional Khotsa Khongodor
+	}
+	11166.11.2 = {
+		holder = 303204		#fictional Osor Khongodor
+	}
+	11175.4.18 = {
+		holder = 303205		#fictional Geleg Khongodor
+	}
+}
+
+
+c_shityy = {
+	#Kirghiz khanate
+	10840.1.2 = {
+		holder = fictional_tengri_1 #fictional Innokentii Khori-Tumed
+		government = nomad_government
+	}
+
+	10850.4.1 = {
+		liege = d_togina
+	}
+	
+	#867
+	10851.1.2 = {
+		holder = 303088		#fictional Innokentii Khori-Tumed
+	}
+
+	10889.3.16 = {
+		holder = 303089		#fictional Tsyrendashi Khori-Tumed
+	}
+	
+	#End of Kirghiz Khanate
+	10925.1.2 = {
+		liege = 0
+	}
+	
+	#1066
+	11063.2.8 = {
+		holder = 303090		#fictional Engke Khori-Tumed
+	}
+	11092.12.7 = {
+		holder = 303091		#fictional Bolot Khori-Tumed
+	}
+	11111.9.11 = {
+		holder = 303092		#fictional Arugtai Khori-Tumed
+	}
+	11145.8.21 = {
+		holder = 303093		#fictional Qayshan Khori-Tumed
+	}
+	
+	#Added to Oirat sphere of influence
+	11155.1.2 = {
+		liege = d_khovsgol	#Oirats
+		holder = 303025	#fictional Sengge Kolyokod
+	}
+	11195.4.18 = {
+		holder = 303026	#fictional Bembö Kolyokod
+	}
+}
+
+
+c_kropot = {
+	#Kirghiz khanate
+	10840.1.2 = {
+		liege = d_togina
+	}
+	
+	#867
+	10864.2.13 = {
+		holder = 303096		#fictional Bair Khori-Tumed
+		government = nomad_government
+	}
+
+	10902.8.16 = {
+		holder = 303097		#fictional Damba Khori-Tumed
+	}
+	
+	#End of Kirghiz Khanate
+	10925.1.2 = {
+		liege = 0
+	}
+	
+	#1066
+	11063.2.8 = {
+		holder = 303090		#fictional Engke Khori-Tumed
+	}
+	11092.12.7 = {
+		holder = 303091		#fictional Bolot Khori-Tumed
+	}
+	11111.9.11 = {
+		holder = 303092		#fictional Arugtai Khori-Tumed
+	}
+	11145.8.21 = {
+		holder = 303093		#fictional Qayshan Khori-Tumed
+	}
+	11166.3.28 = {
+		holder = 303094		#fictional Jorightu Khori-Tumed
+	}
+}
+
+
+c_monkh_saridag = {
+	#Kirghiz khanate
+	10840.1.2 = {
+		liege = e_kirghiz_khanate
+	}
+	
+	#867
+	10864.2.13 = {
+		holder = 303096		#fictional Bair Khori-Tumed
+		government = nomad_government
+	}
+	10902.8.16 = {
+		holder = 303097		#fictional Damba Khori-Tumed
+	}
+	
+	#End of Kirghiz Khanate
+	10925.1.2 = {
+		liege = 0
+	}
+	
+	#1066
+	11060.3.8 = {
+		holder = 303098		#fictional Amgalan Khori-Tumed
+	}
+	11083.2.26 = {
+		holder = 303099		#fictional Oyiradai Khori-Tumed
+	}
+	11109.4.22 = {
+		holder = 303100		#fictional Yeshinhorloa Khori-Tumed
+	}
+	11149.6.18 = {
+		holder = 303102		#fictional Bashiila Khori-Tumed
+	}
+	11177.10.22 = {
+		holder = 303103		#fictional Shono Khori-Tumed
+	}
+}
+

@@ -1,0 +1,1644 @@
+k_denmark = {
+	21.1.1 = { change_development_level = 2 }
+	11001.1.1 = { change_development_level = 7 }
+	11101.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 24 }
+
+	10917.1.1 = {
+		succession_laws = { scandinavian_elective_succession_law }
+		holder = 101549 # Hardeknud
+	}
+	10934.1.1 = {
+		holder = 101500 # Gorm the Old
+	}
+	10958.12.1 = {
+		holder = 101502 # Harald Blåtand
+	}
+	10986.11.1 = {
+		holder = 101505 # Svend Tveskägg
+	}
+	11014.2.3 = {
+		holder = 101507 # Harald II
+	}
+	11018.1.1 = {
+		holder = 101510 # Knud the Great
+	}
+	11035.11.12 = {
+		holder = 101511 # Knud III Hardeknud
+	}
+	11042.6.8 = {
+		holder = 102529 # Magnus den Gode
+	}
+	11047.10.25 = {
+		holder = 101515 # Svend Estridsen
+	}
+	11074.4.28 = {
+		holder = 101517 # Harald Hein
+	}
+	11080.4.17 = {
+		holder = 101519 # Knud den Helige
+	}
+	11086.7.10 = {
+		holder = 101520 # Olaf Hunger
+	}
+	11095.8.18 = {
+		holder = 101521 # Erik Ejegod
+	}
+	11103.7.10 = {
+		holder = 101530 # Nils Svendsen
+	}
+	11134.6.25 = {
+		holder = 201517 # Erik Emune
+	}
+	11137.7.18 = {
+		holder = 201514 # Erik Lamm
+	}
+	11146.8.27 = {
+		holder = 201508 # Knud V
+	}
+	11157.8.9 = {
+		holder = 201518 # Svend Grathe
+	}
+	11157.10.23 = {
+		holder = 201510 # Valdemar the Great
+	}
+	11182.5.12 = {
+		holder = 201500 # Knud VI
+	}
+	11202.11.12 = {
+		holder = 201501 # Valdemar Sejr
+	}
+	11241.3.28 = {
+		holder = 451510 # Erik Plogpenning
+	}
+	11250.8.9 = {
+		holder = 451524 # Abel
+	}
+	11252.6.29 = {
+		holder = 451513 # Christoffer I
+	}
+	11259.5.29 = {
+		holder = 451514 # Erik Klipping
+	}
+	11286.11.22 = {
+		holder = 451515 # Erik Menved
+	}
+	11319.11.13 = {
+		holder = 451520 # Christoffer II
+	}
+	11326.6.7 = {
+		holder = 451530 # Valdemar III
+	}
+	11329.2.23 = {
+		holder = 451520 # Christoffer II (restored)
+	}
+	11332.8.2 = {
+		holder = 451500 # Valdemar Atterdag
+	}
+}
+
+
+d_sjaelland = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 15 }
+	
+	10700.1.1 = {
+		holder = 194035
+		government = tribal_government
+	}
+	10729.1.1 = {
+		holder = 194003
+	}
+	#10845.1.1 = {
+	#	holder = 163109
+	#}
+	10860.1.1 = {
+		holder = 163110
+	}
+	10917.1.1 = {
+		holder = 0
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+
+}
+
+
+c_sjaelland = {
+	10700.1.1 = {
+		holder = 194035
+		government = tribal_government
+	}
+	10729.1.1 = {
+		holder = 194003
+	}
+	10860.1.1 = {
+		liege = "d_sjaelland"
+	}
+	10860.1.1 = {
+		holder = 163110
+	}
+	10917.1.1 = {
+		liege = "k_denmark"
+	}
+	10917.1.1 = {
+		holder = 101549 # Hardeknud
+	}
+	10934.1.1 = {
+		holder = 101500 # Gorm the Old
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10958.1.1 = {
+		holder = 101502 # Harald Blåtand
+	}
+	10986.1.1 = {
+		holder = 101505 # Svend Tveskägg
+	}
+	11014.2.3 = {
+		holder = 101507 # Harald II
+	}
+	11018.1.1 = {
+		holder = 101510 # Knud the Great
+	}
+	11035.11.12 = {
+		holder = 101511 # Knud III Hardeknud
+	}
+	11042.6.8 = {
+		holder = 102529 # Magnus den Gode
+	}
+	11047.10.25 = {
+		holder = 101515 # Svend Estridsen
+	}
+	11074.4.28 = {
+		holder = 101517 # Harald Hein
+	}
+	11080.4.17 = {
+		holder = 101519 # Knud den Helige
+	}
+	11086.7.10 = {
+		holder = 101520 # Olaf Hunger
+	}
+	11095.8.18 = {
+		holder = 101521 # Erik Ejegod
+	}
+	11103.7.10 = {
+		holder = 101530 # Nils Svendsen
+	}
+	11134.6.25 = {
+		holder = 201517 # Erik Emune
+	}
+	11137.7.18 = {
+		holder = 201514 # Erik Lamm
+	}
+	11146.8.27 = {
+		holder = 201508 # Knud V
+	}
+	11157.8.9 = {
+		holder = 201518 # Svend Grathe
+	}
+	11157.10.23 = {
+		holder = 201510 # Valdemar the Great
+	}
+	11182.5.12 = {
+		holder = 201500 # Knud VI
+	}
+	11202.11.12 = {
+		holder = 201501 # Valdemar Sejr
+	}
+	11241.3.28 = {
+		holder = 451510 # Erik Plogpenning
+	}
+	11250.8.9 = {
+		holder = 451524 # Abel
+	}
+	11252.6.29 = {
+		holder = 451513 # Christoffer I
+	}
+	11259.5.29 = {
+		holder = 451514 # Erik Klipping
+	}
+	11286.11.22 = {
+		holder = 451515 # Erik Menved
+	}
+	11319.11.13 = {
+		holder = 451520 # Christoffer II
+	}
+	11332.8.2 = {
+		liege = "d_holstein"
+		holder = 451960
+	}
+	11340.6.21 = {
+		holder = 451500 # Valdemar Atterdag
+	}
+
+}
+
+
+c_fyn = {
+	10700.1.1 = {
+		holder = 194035
+		government = tribal_government
+	}
+	10729.1.1 = {
+		holder = 194003
+	}
+	10860.1.1 = {
+		liege = "d_sjaelland"
+	}
+	10860.1.1 = {
+		holder = 163110
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_denmark"
+	}
+	11066.1.1 = {
+		holder = 201530
+	}
+	11113.1.1 = {
+		holder = 201532
+	}
+	11150.1.26 = {
+		holder = 201534
+	}
+	11186.1.26 = {
+		holder = 201537
+	}
+	11203.1.2 = {
+		holder = 201501 # Valdemar Sejr
+	}
+	11241.3.28 = {
+		holder = 451510 # Erik Plogpenning
+	}
+	11250.8.9 = {
+		holder = 451524 # Abel
+	}
+	11252.6.29 = {
+		holder = 451513 # Christoffer I
+	}
+	11259.5.29 = {
+		holder = 451514 # Erik Klipping
+	}
+	11286.11.22 = {
+		holder = 451515 # Erik Menved
+	}
+	11319.11.13 = {
+		holder = 451520 # Christoffer II
+	}
+	11332.8.2 = {
+		holder = 451500 # Valdemar Atterdag
+	}
+	
+	11337.1.1 = {
+		liege = "d_holstein"
+	}
+	11337.1.1 = {
+		holder = 451940
+	}
+}
+
+c_lolland_falster = {
+	10700.1.1 = {
+		holder = 194035
+		government = tribal_government
+	}
+	10729.1.1 = {
+		holder = 194003
+	}
+	10860.1.1 = {
+		liege = "d_sjaelland"
+	}
+	10860.1.1 = {
+		holder = 163110
+	}
+	10917.1.1 = {
+		liege = "k_denmark"
+	}
+	10917.1.1 = {
+		holder = 101549 # Hardeknud
+	}
+	10934.1.1 = {
+		holder = 101500 # Gorm the Old
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10958.1.1 = {
+		holder = 101502 # Harald Blåtand
+	}
+	10986.1.1 = {
+		holder = 101505 # Svend Tveskägg
+	}
+	11014.2.3 = {
+		holder = 101507 # Harald II
+	}
+	11018.1.1 = {
+		holder = 101510 # Knud the Great
+	}
+	11035.11.12 = {
+		holder = 101511 # Knud III Hardeknud
+	}
+	11042.6.8 = {
+		holder = 102529 # Magnus den Gode
+	}
+	11047.10.25 = {
+		holder = 101536 # Asbjørn Jarl Ulfson - Granted Lolland to make the character landed and playable due to historical significance.
+	}
+	11157.10.23 = {
+		holder = 30551 # Prislaw Niklotid
+	}
+	11175.1.1 = {
+		holder = 30553 # Knud Niklotid
+	}
+	11182.5.12 = {
+		holder = 201500 # Knud VI
+	}
+	11202.11.12 = {
+		holder = 201501 # Valdemar Sejr
+	}
+	11241.3.28 = {
+		holder = 451510 # Erik Plogpenning
+	}
+	11250.8.9 = {
+		holder = 451524 # Abel
+	}
+	11252.6.29 = {
+		holder = 451513 # Christoffer I
+	}
+	11259.5.29 = {
+		holder = 451514 # Erik Klipping
+	}
+	11286.11.22 = {
+		holder = 451515 # Erik Menved
+	}
+	11319.11.13 = {
+		holder = 451520 # Christoffer II
+	}
+	11332.8.2 = {
+		liege = "d_holstein"
+		holder = 451960
+	}
+	11340.6.21 = {
+		holder = 451500 # Valdemar Atterdag
+	}
+
+}
+
+
+d_skane = {
+	10867.1.1 = {	change_development_level = 4 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 15 }
+	
+	11104.1.1 = {
+		liege = "k_denmark"
+	}
+	11104.1.1 = {
+		holder = 34158 #Asser
+	}
+	11137.5.1 = {
+		holder = 34159 #Eskil
+	}
+	11177.1.1 = {
+		holder = 201510 # Valdemar the Great
+	}
+	11201.3.21 = {
+		holder = 201541 #Anders
+	}
+	11222.1.1 = {
+		holder = 34161 #Peder
+	}
+	11228.1.1 = {
+		holder = 34162 #Uffe
+	}
+	11252.1.1 = {
+		holder = 34163 #Jakob
+	}
+	11274.2.8 = {
+		holder = 34164 #Trugot
+	}
+	11280.1.1 = {
+		holder = 34165 #Jens
+	}
+	11289.1.1 = {
+		holder = 30313 #Jens Grand
+	}
+	11302.1.1 = {
+		holder = 30427 #Isarno de Fenties
+	}
+	11310.9.18 = {
+		holder = 34166 #Esger
+	}
+	11325.1.1 = {
+		holder = 34167 #Karl
+	}
+	11334.1.1 = {
+		holder = 451600 #Peder
+	}
+}
+
+c_skane = {
+	10740.1.1 = {
+		holder = 194037
+		liege = d_sjaelland
+		government = tribal_government
+	}
+	10860.1.1 = {
+		liege = "d_sjaelland"
+	}
+	10860.1.1 = {
+		holder = 168633
+	}
+	10885.1.1 = {
+		holder = 168634
+	}
+	10915.1.1 = {
+		holder = 168635
+	}
+	10917.1.1 = {
+		liege = "k_denmark"
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10938.1.1 = {
+		holder = 168638
+	}
+	10961.1.1 = {
+		holder = 168639
+	}
+	10985.1.1 = {
+		holder = 168640
+	}
+	11002.1.1 = {
+		holder = 168641
+	}
+	11025.1.1 = {
+		holder = 168642
+	}
+	11042.1.1 = {
+		holder = 168643
+	}
+	11066.1.1 = {
+		holder = 34156 # Bishop Egino, bishop of Lund 1066-1072
+		government = theocracy_government
+	}
+	11104.1.1 = {
+		liege = "d_skane"
+		holder = 34158 #Asser
+	}
+	11137.5.1 = {
+		holder = 34159 #Eskil
+	}
+	11177.1.1 = {
+		holder = 201520 # Absalon
+	}
+	11201.3.21 = {
+		holder = 201541 #Anders
+	}
+	11222.1.1 = {
+		holder = 34161 #Peder
+	}
+	11228.1.1 = {
+		holder = 34162 #Uffe
+	}
+	11252.1.1 = {
+		holder = 34163 #Jakob
+	}
+	11274.2.8 = {
+		holder = 34164 #Trugot
+	}
+	11280.1.1 = {
+		holder = 34165 #Jens
+	}
+	11289.1.1 = {
+		holder = 30313 #Jens Grand
+	}
+	11302.1.1 = {
+		holder = 30427 #Isarno de Fenties
+	}
+	11310.9.18 = {
+		holder = 34166 #Esger
+	}
+	11325.1.1 = {
+		holder = 34167 #Karl
+	}
+	11334.1.1 = {
+		holder = 451600 #Peder
+	}
+}
+
+c_halland = {
+	10769.1.1 = {
+		holder = 194050
+		liege = d_vastergotland
+		government = tribal_government
+	}
+	10860.1.1 = {
+		liege = "d_sjaelland"
+		holder = 6843
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	11051.1.1 = {
+		liege = "k_denmark"
+		holder = 102504 #Finn Arneson of Norway
+	}
+	11062.1.1 = {
+		holder = 101515 # Svend Estridsen
+	}
+	11103.7.10 = {
+		holder = 101530
+	}
+	11104.1.1 = {
+		liege = "d_skane"
+	}
+	11178.1.1 = {
+		holder = 201500 # Knud Valdemarsøn
+		liege = k_denmark
+	}
+	11201.3.21 = {
+		holder = 201541 #Anders
+	}
+	11217.1.1 = {
+		holder = 161737 #Niels Ylving
+	}
+	11219.1.1 = {
+		holder = 201541 #Anders
+	}
+	
+	11222.1.1 = {
+		holder = 34161 #Peder
+	}
+	11228.1.1 = {
+		holder = 34162 #Uffe
+	}
+	11252.1.1 = {
+		holder = 34163 #Jakob
+	}
+	11274.2.8 = {
+		holder = 34164 #Trugot
+	}
+	11280.1.1 = {
+		holder = 34165 #Jens
+	}
+	11289.1.1 = {
+		holder = 30313 #Jens Grand
+	}
+	11302.1.1 = {
+		holder = 30427 #Isarno de Fenties
+	}
+	11310.9.18 = {
+		holder = 34166 #Esger
+	}
+	11312.1.1 = {
+		liege = "d_ostergotland"
+		holder = 450501 # Duke Erik gains the county through marriage to princess Ingeborg
+	}
+	11318.2.16 = {
+		holder = 450504 # King Birger
+	}
+	11320.1.1 = {
+		holder = 451801
+	}
+	11329.1.1 = {
+		liege = "d_esthonia" #Knud Porse becomes duke of Esthonia
+	}
+	11330.5.30 = {
+		liege = "d_ostergotland"
+		holder = 451800
+	}
+}
+
+
+c_bornholm = {
+	10761.1.1 = {
+		holder = 194061
+		liege = d_svealand
+		government = tribal_government
+	}
+	10860.1.1 = {
+		liege = "d_sjaelland"
+		holder = 6841
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_denmark"
+	}
+	11066.1.1 = {
+		holder = 101546
+	}
+	11076.1.2 = {
+		holder = 101547
+	}
+	11104.1.1 = {
+		liege = "d_skane"
+	}
+	11105.1.2 = {
+		holder = 34158 #Asser
+	}
+	11137.5.1 = {
+		holder = 34159 #Eskil
+	}
+	11177.1.1 = {
+		holder = 201520 # Absalon
+	}
+	11187.1.1 = {
+		holder = 34168
+	}
+	11225.5.11 = {
+		holder = 34169
+	}
+	11251.10.6 = {
+		holder = 34170
+	}
+	11280.10.5 = {
+		holder = 34171
+	}
+	11291.3.8 = {
+		holder = 34172
+	}
+	11319.7.7 = {
+		holder = 34176
+	}
+	11329.7.6 = {
+		holder = 34177
+	}
+}
+
+c_blekinge = {
+	10740.1.1 = {
+		holder = 194037
+		liege = d_sjaelland
+		government = tribal_government
+	}
+	10860.1.1 = {
+		liege = "d_sjaelland"
+		holder = 6842
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_denmark"
+		holder = 101515 # Svend Estridsen
+	}
+	11104.1.1 = {
+		liege = "d_skane"
+	}
+	11177.1.1 = {
+		holder = 201520 # Absalon
+	}
+	11201.3.21 = {
+		holder = 201541 #Anders
+	}
+	11222.1.1 = {
+		holder = 34161 #Peder
+	}
+	11228.1.1 = {
+		holder = 34162 #Uffe
+	}
+	11252.1.1 = {
+		holder = 34163 #Jakob
+	}
+	11274.2.8 = {
+		holder = 34164 #Trugot
+	}
+	11280.1.1 = {
+		holder = 34165 #Jens
+	}
+	11289.1.1 = {
+		holder = 30313 #Jens Grand
+	}
+	11302.1.1 = {
+		holder = 30427 #Isarno de Fenties
+	}
+	11310.9.18 = {
+		holder = 34166 #Esger
+	}
+	11332.8.2 = {
+		liege = "k_sweden"
+		holder = 450500
+	}
+
+}
+
+
+d_jylland = {
+	10852.1.1 = {
+		holder = 6866 # Hårik II
+		government = tribal_government
+	}
+	10860.1.1 = {
+		holder = 163113 # Bagsecg
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_denmark"
+		holder = 101542 # Thrugot Ulfssøn Fagerskind, Thrugotsønnerne - Granted land to make the character landed and playable due to historical significance.
+	}
+	11070.1.2 = {
+		holder = 0
+	}
+	11080.4.17 = {
+		holder = 101521
+	}
+	11103.7.10 = {
+		holder = 201513
+	}
+	11131.1.14 = {
+		holder = 101530 # Nils Svendsen
+	}
+	11134.6.25 = {
+		holder = 201517 # Erik Emune
+	}
+	11137.7.18 = {
+		holder = 201514 # Erik Lamm
+	}
+	11146.8.27 = {
+		holder = 201508 # Knud V
+	}
+	11157.8.9 = {
+		holder = 201518 # Svend Grathe
+	}
+	11157.10.23 = {
+		holder = 201510 # Valdemar the Great
+	}
+	11182.5.12 = {
+		holder = 201500 # Knud VI
+	}
+	11187.1.1 = {
+		holder = 201501
+	}
+	11225.1.1 = {
+		holder = 161736 #Valdemar the Young
+	}
+	11231.11.28 = {
+		holder = 451510 # Erik Plogpenning
+	}
+	11250.8.9 = {
+		holder = 451524 # Abel
+	}
+	11252.6.29 = {
+		holder = 33272
+	}
+	11257.1.1 = {
+		holder = 451527
+	}
+	11272.1.1 = {
+		holder = 451528
+	}
+	11312.1.1 = {
+		holder = 451529
+	}
+	11325.3.25 = {
+		holder = 451940 #Gerhard II
+	}
+	11332.8.2 = {
+		holder = 451530
+	}
+}
+
+
+c_aarhus = {
+	10750.1.1 = {
+		holder = 194036
+		liege = d_sjaelland
+		government = tribal_government
+	}
+	10860.1.1 = {
+		liege = "d_jylland"
+	}
+	10860.1.1 = {
+		holder = 163113
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	#11066.1.1 = {
+	#	liege = "k_denmark"
+	#}
+	11066.1.1 = {
+		holder = 101542 # Thrugot Ulfssøn Fagerskind, Thrugotsønnerne - Granted land to make the character landed and playable due to historical significance.
+	}
+	11070.1.2 = {
+		holder = 151000 # Svend Thrugotsøn
+	}
+	11086.1.1 = {
+		liege = "k_denmark"
+		holder = 101519 # Knud den Helige - Back to the Danish king due to lack of implemented history
+	}
+	11086.7.10 = {
+		holder = 101520 # Olaf Hunger
+	}
+	11095.8.18 = {
+		holder = 101521 # Erik Ejegod
+	}
+	11103.7.10 = {
+		holder = 101530 # Nils Svendsen
+	}
+	11134.6.25 = {
+		holder = 201517 # Erik Emune
+	}
+	11137.7.18 = {
+		holder = 201514 # Erik Lamm
+	}
+	11146.8.27 = {
+		holder = 201508 # Knud V
+	}
+	11157.8.9 = {
+		holder = 201518 # Svend Grathe
+	}
+	11157.10.23 = {
+		holder = 201510 # Valdemar the Great
+	}
+	11182.5.12 = {
+		holder = 201500 # Knud VI
+	}
+	11202.11.12 = {
+		holder = 201501 # Valdemar Sejr
+	}
+	11241.3.28 = {
+		holder = 451510 # Erik Plogpenning
+	}
+	11250.8.9 = {
+		holder = 451524 # Abel
+	}
+	11252.6.29 = {
+		holder = 451513 # Christoffer I
+	}
+	11259.5.29 = {
+		holder = 451514 # Erik Klipping
+	}
+	11286.11.22 = {
+		holder = 451515 # Erik Menved
+	}
+	11319.11.13 = {
+		holder = 451520 # Christoffer II
+	}
+	11332.8.2 = {
+		holder = 451500 # Valdemar Atterdag
+	}
+}
+
+
+c_viborg = {
+	10750.1.1 = {
+		holder = 194036
+		liege = d_sjaelland
+		government = tribal_government
+	}
+	10860.1.1 = {
+		liege = "d_jylland"
+	}
+	10860.1.1 = {
+		holder = 163113
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	#11066.1.1 = {
+	#	liege = "k_denmark"
+	#}
+	11066.1.2 = {
+		holder = 151000 # Svend Thrugotsøn
+	}
+	11086.1.1 = {
+		liege = "k_denmark"
+		holder = 101519 # Knud den Helige - Back to the Danish king due to lack of implemented history
+	}
+	11086.7.10 = {
+		holder = 101520 # Olaf Hunger
+	}
+	11095.8.18 = {
+		holder = 101521 # Erik Ejegod
+	}
+	11103.7.10 = {
+		holder = 101530 # Nils Svendsen
+	}
+	11134.6.25 = {
+		holder = 201517 # Erik Emune
+	}
+	11137.7.18 = {
+		holder = 201514 # Erik Lamm
+	}
+	11146.8.27 = {
+		holder = 201508 # Knud V
+	}
+	11157.8.9 = {
+		holder = 201518 # Svend Grathe
+	}
+	11157.10.23 = {
+		holder = 201510 # Valdemar the Great
+	}
+	11182.5.12 = {
+		holder = 201500 # Knud VI
+	}
+	11202.11.12 = {
+		holder = 201501 # Valdemar Sejr
+	}
+	11241.3.28 = {
+		holder = 451510 # Erik Plogpenning
+	}
+	11250.8.9 = {
+		holder = 451524 # Abel
+	}
+	11252.6.29 = {
+		holder = 451513 # Christoffer I
+	}
+	11259.5.29 = {
+		holder = 451514 # Erik Klipping
+	}
+	11286.11.22 = {
+		holder = 451515 # Erik Menved
+	}
+	11319.11.13 = {
+		holder = 451520 # Christoffer II
+	}
+	11332.8.2 = {
+		holder = 451500 # Valdemar Atterdag
+	}
+}
+
+
+c_ringkobing = {
+	10750.1.1 = {
+		holder = 194036
+		liege = d_sjaelland
+		government = tribal_government
+	}
+	10860.1.1 = {
+		liege = "d_jylland"
+	}
+	10860.1.1 = {
+		holder = 163113
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	#11066.1.1 = {
+	#	liege = "k_denmark"
+	#}
+	11066.1.2 = {
+		holder = 151000 # Svend Thrugotsøn
+	}
+	11086.1.1 = {
+		liege = "k_denmark"
+		holder = 101519 # Knud den Helige - Back to the Danish king due to lack of implemented history
+	}
+	11086.7.10 = {
+		holder = 101520 # Olaf Hunger
+	}
+	11095.8.18 = {
+		holder = 101521 # Erik Ejegod
+	}
+	11103.7.10 = {
+		holder = 101530 # Nils Svendsen
+	}
+	11134.6.25 = {
+		holder = 201517 # Erik Emune
+	}
+	11137.7.18 = {
+		holder = 201514 # Erik Lamm
+	}
+	11146.8.27 = {
+		holder = 201508 # Knud V
+	}
+	11157.8.9 = {
+		holder = 201518 # Svend Grathe
+	}
+	11157.10.23 = {
+		holder = 201510 # Valdemar the Great
+	}
+	11182.5.12 = {
+		holder = 201500 # Knud VI
+	}
+	11202.11.12 = {
+		holder = 201501 # Valdemar Sejr
+	}
+	11241.3.28 = {
+		holder = 451510 # Erik Plogpenning
+	}
+	11250.8.9 = {
+		holder = 451524 # Abel
+	}
+	11252.6.29 = {
+		holder = 451513 # Christoffer I
+	}
+	11259.5.29 = {
+		holder = 451514 # Erik Klipping
+	}
+	11286.11.22 = {
+		holder = 451515 # Erik Menved
+	}
+	11319.11.13 = {
+		holder = 451520 # Christoffer II
+	}
+	11332.8.2 = {
+		holder = 451500 # Valdemar Atterdag
+	}
+}
+
+
+c_aalborg = {
+	10750.1.1 = {
+		holder = 194036
+		liege = d_sjaelland
+		government = tribal_government
+	}
+	10860.1.1 = {
+		liege = "d_jylland"
+	}
+	10860.1.1 = {
+		holder = 163113
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	#11066.1.1 = {
+	#	liege = "k_denmark"
+	#}
+	11066.1.1 = {
+		holder = 101542 # Thrugot Ulfssøn Fagerskind, Thrugotsønnerne - Granted land to make the character landed and playable due to historical significance.
+	}
+	11070.1.2 = {
+		holder = 151000 # Svend Thrugotsøn
+	}
+	11086.1.1 = {
+		liege = "k_denmark"
+		holder = 101519 # Knud den Helige - Back to the Danish king due to lack of implemented history
+	}
+	11086.7.10 = {
+		holder = 101520 # Olaf Hunger
+	}
+	11095.8.18 = {
+		holder = 101521 # Erik Ejegod
+	}
+	11103.7.10 = {
+		holder = 101530 # Nils Svendsen
+	}
+	11134.6.25 = {
+		holder = 201517 # Erik Emune
+	}
+	11137.7.18 = {
+		holder = 201514 # Erik Lamm
+	}
+	11146.8.27 = {
+		holder = 201508 # Knud V
+	}
+	11157.8.9 = {
+		holder = 201518 # Svend Grathe
+	}
+	11157.10.23 = {
+		holder = 201510 # Valdemar the Great
+	}
+	11182.5.12 = {
+		holder = 201500 # Knud VI
+	}
+	11202.11.12 = {
+		holder = 201501 # Valdemar Sejr
+	}
+	11241.3.28 = {
+		holder = 451510 # Erik Plogpenning
+	}
+	11250.8.9 = {
+		holder = 451524 # Abel
+	}
+	11252.6.29 = {
+		holder = 451513 # Christoffer I
+	}
+	11259.5.29 = {
+		holder = 451514 # Erik Klipping
+	}
+	11286.11.22 = {
+		holder = 451515 # Erik Menved
+	}
+	11319.11.13 = {
+		holder = 451520 # Christoffer II
+	}
+	11332.8.2 = {
+		holder = 451500 # Valdemar Atterdag
+	}
+}
+
+
+c_slesvig = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10750.1.1 = {
+		holder = 194036
+		liege = d_sjaelland
+		government = tribal_government
+	}
+	10860.1.1 = {
+		liege = "d_jylland"
+	}
+	10860.1.1 = {
+		holder = 163113
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_denmark"
+		holder = 101517
+	}
+	11178.10.1 = {
+		holder = 201548 # Valdemar of Denmark, bishop of Schleswig (technically 1179)
+		government = theocracy_government
+	}
+	11182.5.12 = {
+		holder = 201500 # Knud VI
+	}
+	11187.1.1 = {
+		holder = 201501
+	}
+	11220.1.1 = {
+		holder = 93533
+	}
+	11225.1.1 = {
+		holder = 161736 #Valdemar the Young
+	}
+	11231.11.28 = {
+		holder = 451510 # Erik Plogpenning
+	}
+	11250.8.9 = {
+		holder = 451524 # Abel
+	}
+	11252.6.29 = {
+		holder = 33272
+	}
+	11257.1.1 = {
+		holder = 451527
+	}
+	11272.1.1 = {
+		holder = 451528
+	}
+	11312.1.1 = {
+		holder = 451529
+	}
+	11325.3.25 = {
+		holder = 451530
+	}
+}
+
+
+c_vorbasse = {
+	10750.1.1 = {
+		holder = 194036
+		liege = d_sjaelland
+		government = tribal_government
+	}
+	10860.1.1 = {
+		liege = "d_jylland"
+	}
+	10860.1.1 = {
+		holder = 163113
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_denmark"
+	}
+	11066.1.1 = {
+		holder = 101515 # Svend Estridsen
+	}
+	11074.4.28 = {
+		holder = 101517 # Harald Hein
+	}
+	11080.4.17 = {
+		holder = 101519 # Knud den Helige
+	}
+	11086.7.10 = {
+		holder = 101520 # Olaf Hunger
+	}
+	11095.8.18 = {
+		holder = 101521 # Erik Ejegod
+	}
+	11103.7.10 = {
+		holder = 101530 # Nils Svendsen
+	}
+	11134.6.25 = {
+		holder = 201517 # Erik Emune
+	}
+	11137.7.18 = {
+		holder = 201514 # Erik Lamm
+	}
+	11146.8.27 = {
+		holder = 201508 # Knud V
+	}
+	11157.8.9 = {
+		holder = 201518 # Svend Grathe
+	}
+	11157.10.23 = {
+		holder = 201510 # Valdemar the Great
+	}
+	11182.5.12 = {
+		holder = 201500 # Knud VI
+	}
+	11202.11.12 = {
+		holder = 201501 # Valdemar Sejr
+	}
+	11241.3.28 = {
+		holder = 451510 # Erik Plogpenning
+	}
+	11250.8.9 = {
+		holder = 451524 # Abel
+	}
+	11252.6.29 = {
+		holder = 451513 # Christoffer I
+	}
+	11259.5.29 = {
+		holder = 451514 # Erik Klipping
+	}
+	11286.11.22 = {
+		holder = 451515 # Erik Menved
+	}
+	11319.11.13 = {
+		holder = 451520 # Christoffer II
+	}
+	11332.8.2 = {
+		holder = 451500 # Valdemar Atterdag
+	}
+	
+
+}
+
+
+c_ribe = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10750.1.1 = {
+		holder = 194036
+		liege = d_sjaelland
+		government = tribal_government
+	}
+	10860.1.1 = {
+		liege = "d_jylland"
+	}
+	10860.1.1 = {
+		holder = 163113
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_denmark"
+		holder = 101515 # Svend Estridsen
+	}
+	11178.1.1 = {
+		holder = ribe_bishop_1 # Omer
+		government = theocracy_government
+	}
+	11182.5.12 = {
+		holder = 201500 # Knud VI
+	}
+	11202.11.12 = {
+		holder = 201501 # Valdemar Sejr
+	}
+	11241.3.28 = {
+		holder = 451510 # Erik Plogpenning
+	}
+	11250.8.9 = {
+		holder = 451524 # Abel
+	}
+	11252.6.29 = {
+		holder = 451513 # Christoffer I
+	}
+	11259.5.29 = {
+		holder = 451514 # Erik Klipping
+	}
+	11286.11.22 = {
+		holder = 451515 # Erik Menved
+	}
+	11319.11.13 = {
+		holder = 451520 # Christoffer II
+	}
+	11332.8.2 = {
+		holder = 451500 # Valdemar Atterdag
+	}
+	
+
+}
+
+
+d_holstein = {
+	10700.1.1 = {
+		de_jure_liege = k_saxony
+		liege = k_saxony
+	}
+	10761.1.1 = {
+		holder = 190474 #Hesso
+	}
+	10782.1.1 = {
+		holder = 0
+		liege = 0
+		de_jure_liege = k_east_francia
+	}
+	11129.7.1 = {
+		liege = "k_denmark"
+	}
+	11129.7.1 = {
+		holder = 201513 #Knud Lavard
+	}
+	11131.1.13 = {
+		holder = 0
+	}
+	11131.1.13 = {
+		liege = 0
+	}
+	
+	11202.1.1 = {
+		liege = "k_denmark"
+	}
+	11202.1.1 = {
+		holder = 31795 #Albrecht Askanien
+	}
+	11227.7.22 = {
+		liege = "e_hre"
+	}
+	11227.7.22 = {
+		holder = 31752 #Adolf IV
+	}
+	11261.7.8 = {
+		holder = 451975 #Gerhard I
+	}
+	11290.12.21 = {
+		holder = 451945 #Heinrich I
+	}
+	11304.8.5 = {
+		holder = 451940 #Gerhard II
+	}
+}
+
+
+c_lubeck = {
+	11178.1.1 = { change_development_level = 18 }
+
+	###867 Polabian tribes
+	10837.1.1 = {
+		liege = 0
+		holder = 194064
+		government = tribal_government
+	}
+	10866.1.1 = {
+		holder = 184001
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	#1066
+	11066.1.1 = {
+		liege = 0
+		holder = 8400 #Budivoj Nakonid
+	}
+	11073.1.1 = {
+		holder = 8402 #Henrik Nakonid
+	}
+	11093.1.1 = {
+		liege = d_nordmark
+	}
+	11131.1.13 = {
+		liege = "d_angria"
+	}
+	11143.1.1 = {
+		holder = 31784 #Heinrich von Badewide
+	}
+	11164.1.2 = {
+		holder = 31785 #Bernhard I von Badewide
+	}
+	11168.1.1 = {
+		liege = "k_denmark"
+	}
+	11190.1.2 = {
+		holder = 31788 #Bernhard II von Badewide
+	}
+	11199.1.2 = {
+		holder = 31789 #Bernhard III von Badewide
+	}
+	11200.1.1 = {
+		holder = 31791 #Adolf I von Dassel
+	}
+	11202.1.1 = {
+		liege = "d_holstein"
+	}
+	11202.1.1 = {
+		holder = 31795 #Albrecht Askanien
+	}
+	11227.1.1 = {
+		liege = "k_hansa"
+	}
+	11227.1.1 = {
+		holder = 167102 #Gottschalk von Bardewik
+	}
+	11238.1.1 = {
+		holder = 167219 #Heinrich Vorrade
+	}
+	11263.1.1 = {
+		holder = 167254 #Heinrich von Wittenborg
+	}
+	11275.1.1 = {
+		holder = 167103 #Johann von Bardewik
+	}
+	11287.1.1 = {
+		holder = 167220 #Dietrich Vorrade
+	}
+	11291.1.1 = {
+		holder = 167237 #Alexander Lüneburg
+	}
+	11303.1.1 = {
+		holder = 167104 #Albrecht von Bardewik
+	}
+	11307.1.1 = {
+		holder = 167222 #Markward Vorrade
+	}
+	11310.1.1 = {
+		holder = 167168 #Bruno Warendorp
+	}
+	11318.1.1 = {
+		holder = 167256 #Heinrich von Wittenborg
+	}
+	11321.1.1 = {
+		holder = 167168 #Bruno Warendorp
+	}
+	11325.1.1 = {
+		holder = 167169 #Hermann Warendorp
+	}
+	11328.1.1 = {
+		holder = 167168 #Bruno Warendorp
+	}
+}
+
+
+b_lubeck = {
+	# Imperial Free City - seed of the Hansa
+	# Mayors of Lübeck
+	11227.1.1 = {
+		holder = 167102 #Gottschalk von Bardewik
+	}
+	11238.1.1 = {
+		holder = 167219 #Heinrich Vorrade
+	}
+	11263.1.1 = {
+		holder = 167254 #Heinrich von Wittenborg
+	}
+	11275.1.1 = {
+		holder = 167103 #Johann von Bardewik
+	}
+	11287.1.1 = {
+		holder = 167220 #Dietrich Vorrade
+	}
+	11291.1.1 = {
+		holder = 167237 #Alexander Lüneburg
+	}
+	11303.1.1 = {
+		holder = 167104 #Albrecht von Bardewik
+	}
+	11307.1.1 = {
+		holder = 167222 #Markward Vorrade
+	}
+	11310.1.1 = {
+		holder = 167168 #Bruno Warendorp
+	}
+	11318.1.1 = {
+		holder = 167256 #Heinrich von Wittenborg
+	}
+	11321.1.1 = {
+		holder = 167168 #Bruno Warendorp
+	}
+	11325.1.1 = {
+		holder = 167169 #Hermann Warendorp
+	}
+	11328.1.1 = {
+		holder = 167168 #Bruno Warendorp
+	}
+}
+
+
+b_kiel = {
+	11238.1.1 = {
+	
+	}
+	11238.1.1 = {
+		holder = 31753
+	}
+	11263.4.20 = {
+		holder = 31754
+	}
+	11308.1.2 = {
+		holder = 31755
+	}
+	11321.1.2 = {
+		holder = 451960
+	}
+
+}
+
+
+c_stade = {
+	10761.1.1 = {
+		liege = d_holstein
+	}
+	10761.1.1 = {
+		holder = 190468 #Richfrid
+	}
+	#10782.1.1 = {
+	#	holder = 0
+	#}
+	10865.2.3 = {
+		liege = "d_angria"
+		holder = 163117
+	}
+	11043.4.15 = {
+		holder = 20251 #Adalbert Goseck
+		government = theocracy_government
+	}
+	11066.6.1 = {
+		holder = 7032 #Lothar-Udo II
+		government = feudal_government
+		liege = e_hre
+	}
+	11072.3.16 = {
+		holder = 30300 #Liemar von Goslar
+	}
+	11101.5.16 = {
+		holder = 30301 #Humbert von Bremen
+	}
+	11104.1.1 = {
+		holder = 30302 #Friedrich von Bremen
+	}
+	11123.1.29 = {
+		holder = 30303 #Adalbero von Bremen
+	}
+	11123.1.29 = {
+		liege = "e_hre"
+	}
+	11145.1.1 = {
+		holder = 212600 # seized by Henry the Lion
+	}
+	11178.1.1 = {
+		holder = 212605 # Heinrich Welfen
+		liege = d_angria
+	}
+	11180.1.1 = {
+		holder = 30306 #Siegfried Askanien
+	}
+	11184.10.24 = {
+		holder = 231040 #Hartwig von Utlede
+	}
+	11207.11.3 = {
+		holder = 201548 #Valdemar Knudsson of Denmark
+	}
+	11210.1.1 = {
+		holder = 30070 #Gerhard von Oldenburg
+	}
+	11219.8.13 = {
+		holder = 30307 #Gerhard von der Lippe
+	}
+	11220.1.1 = {
+		liege = d_angria
+	}
+	11258.8.28 = {
+		holder = 30308 #Hildebold von Wunstorf
+	}
+	11273.10.11 = {
+		holder = 30309 #Giselbert van Bronckhorst
+	}
+	
+	11306.11.18 = {
+		holder = 30310 #Heinrich von Goltern
+	}
+	11308.1.1 = {
+		holder = 30311 #Bernhard von Wölpe
+	}
+	
+	11310.9.17 = {
+		holder = 30313 #Jens Grand
+	}
+	11327.5.30 = {
+		holder = 420251 #Burchard Grelle
+	}
+
+}
+
+
+
+

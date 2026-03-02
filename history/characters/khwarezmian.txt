@@ -1,0 +1,479 @@
+﻿188580 = {
+	name = "Afrig"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	10280.9.4 = {
+		birth = yes
+	}
+	10350.1.1 = {
+		death = yes
+	}
+}
+
+188581 = {
+	name = "Bagra"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188580
+	10312.1.28 = {
+		birth = yes
+	}
+	10380.1.1 = {
+		death = yes
+	}
+}
+
+188582 = {
+	name = "Sahhasak"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188581
+	10337.1.1 = {
+		birth = yes
+	}
+	10410.1.1 = {
+		death = yes
+	}
+}
+
+188583 = {
+	name = "Askajamuk"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188582
+	10365.1.1 = {
+		birth = yes
+	}
+	10440.1.1 = {
+		death = yes
+	}
+}
+
+188584 = {
+	name = "Azkajwar"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188583
+	10400.1.1 = {
+		birth = yes
+	}
+	10470.1.1 = {
+		death = yes
+	}
+}
+
+188585 = {
+	name = "Sahr"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188584
+	10430.1.1 = {
+		birth = yes
+	}
+	10500.1.1 = {
+		death = yes
+	}
+}
+
+188586 = {
+	name = "Shaush"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188585
+	10460.1.1 = {
+		birth = yes
+	}
+	10530.1.1 = {
+		death = yes
+	}
+}
+
+188587 = {
+	name = "Hamgari"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188586
+	10490.1.1 = {
+		birth = yes
+	}
+	10560.1.1 = {
+		death = yes
+	}
+}
+
+188588 = {
+	name = "Buzgar"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188587
+	10520.1.1 = {
+		birth = yes
+	}
+	10600.1.1 = {
+		death = yes
+	}
+}
+
+188589 = {
+	name = "Arsamuh"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188588
+	10560.1.1 = {
+		birth = yes
+	}
+	10625.1.1 = {
+		death = yes
+	}
+}
+
+188590 = {
+	name = "Sahr"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188589
+	10600.1.1 = {
+		birth = yes
+	}
+	10665.1.1 = {
+		death = yes
+	}
+}
+
+188591 = {
+	name = "Sabri"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188590
+	10635.1.1 = {
+		birth = yes
+	}
+	10690.1.1 = {
+		death = yes
+	}
+}
+
+188592 = {
+	name = "Azkajwar"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188591
+	10665.1.1 = {
+		birth = yes
+	}
+	10712.1.1 = {
+		death = yes
+	}
+}
+
+188593 = {
+	name = "Askajamuk"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188592
+	10690.1.1 = {
+		birth = yes
+	}
+	10740.1.1 = {
+		death = yes
+	}
+}
+
+188594 = {
+	name = "Sawashfan"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188593
+	10715.1.1 = {
+		birth = yes
+	}
+	10765.1.1 = {
+		death = yes
+	}
+}
+
+188595 = {
+	name = "Torkasbatha"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188594
+	10740.1.1 = {
+		birth = yes
+	}
+	10790.1.1 = {
+		death = yes
+	}
+}
+
+188596 = {
+	name = "Abdallah"
+	dynasty = 1042112 # Afrighid
+	religion = "khurmazta"
+	culture = khwarezmian
+	father = 188595
+	10765.1.1 = {
+		birth = yes
+	}
+	10790.1.1 = {
+		religion = ashari
+	}
+	10815.1.1 = {
+		death = yes
+	}
+}
+
+188597 = {
+	name = "Mansur"
+	dynasty = 1042112 # Afrighid
+	religion = "ashari"
+	culture = khwarezmian
+	father = 188596
+	10795.1.1 = {
+		birth = yes
+	}
+	10850.1.1 = {
+		death = yes
+	}
+}
+
+188598 = {
+	name = "Eraq"
+	dynasty = 1042112 # Afrighid
+	religion = "ashari"
+	culture = khwarezmian
+	father = 188597
+	10825.1.1 = {
+		birth = yes
+	}
+	10866.1.1 = {
+		effect = {
+			#was always the capital of the Afrigids, this is merely a quick fix
+			set_realm_capital = title:b_kath
+			if = {
+				limit = { has_fp3_dlc_trigger = yes }
+				# Known enlightened centrist supports the status quo.
+				add_trait = fp3_struggle_detractor
+			}
+		}
+	}
+	10890.1.1 = {
+		death = yes
+	}
+}
+
+188599 = {
+	name = "Muhammad"
+	dynasty = 1042112 # Afrighid
+	religion = "ashari"
+	culture = khwarezmian
+	father = 188598
+	10865.1.1 = {
+		birth = yes
+	}
+	10940.1.1 = {
+		death = yes
+	}
+}
+
+188600 = {
+	name = "Abu_Sa_id"
+	dynasty = 1042112 # Afrighid
+	religion = "ashari"
+	culture = khwarezmian
+	father = 188599
+	10900.1.1 = {
+		birth = yes
+	}
+	10970.1.1 = {
+		death = yes
+	}
+}
+
+188601 = {
+	name = "Abu_Abdallah"
+	dynasty = 1042112 # Afrighid
+	religion = "ashari"
+	culture = khwarezmian
+	father = 188600
+	10925.1.1 = {
+		birth = yes
+	}
+	10995.1.1 = {
+		death = yes
+	}
+}
+
+#Al-e Ma'mun
+1231221 = {
+	name = "Ma_mun" # Ma'mun I, Founder of Ma'munid dynasty
+	dynasty = 1102251
+	religion = "maturidi"
+	culture = khwarezmian
+	father = 1231222
+	10955.1.1 = {
+		birth = yes
+	}
+	10997.1.1 = {
+		death = yes
+	}
+}
+1231222 = {
+	name = "Muhammad"
+	dynasty = 1102251
+	religion = "maturidi"
+	culture = khwarezmian
+	father = 1231223
+	10930.1.1 = {
+		birth = yes
+	}
+	10970.1.1 = {
+		death = yes
+	}
+}
+1231223 = {
+	name = "Ahmad"
+	dynasty = 1102251
+	religion = "maturidi"
+	culture = khwarezmian
+	10900.1.1 = {
+		birth = yes
+	}
+	10955.1.1 = {
+		death = yes
+	}
+}
+1231224 = {
+	name = "_Ali" # Abu’l-Hasan
+	dynasty = 1102251
+	religion = "maturidi"
+	culture = khwarezmian
+	father = 1231221
+	10973.1.1 = {
+		birth = yes
+	}
+	11009.1.1 = {
+		death = yes
+	}
+}
+1231225 = {
+	name = "Mohammad" # Abu’l-Haret
+	dynasty = 1102251
+	religion = "maturidi"
+	culture = khwarezmian
+	father = 1231224
+	10995.1.1 = {
+		birth = yes
+	}
+	11017.7.7 = {
+		death = {
+			death_reason = death_prison
+		}
+	}
+}
+#Sohaylí
+1231227 = {
+	name = "Ahmad_Sohayli" # Abu’l-Hosayn
+	dynasty = 1102252
+	religion = "maturidi"
+	culture = khwarezmian
+	stewardship = 9
+	10978.1.1 = {
+		birth = yes
+	}
+	11037.8.8 = {
+		death = yes
+	}
+}
+1231228 = {  # Ma'mun II, deposed in 1017
+	name = "Ma_mun"
+	dynasty = 1102251
+	religion = "maturidi"
+	culture = khwarezmian
+	father = 1231221
+	10978.1.1 = {
+		birth = yes
+	}
+	10999.1.1 = {
+		add_spouse = 1000230134 # Khurra-ji Altuntashid
+	}
+	11017.3.3 = {
+		death = {
+			death_reason = death_murdered_by_rebels
+		}
+	}
+}
+
+#Farighunids, for later generations, see the Tajik document
+1230300 = {
+	name = "Farighun"
+	dynasty = 1101801
+	religion = "maturidi"
+	culture = "khwarezmian" #FP3: changed from Tajik to Khwarezmian
+	10849.1.1 = {
+		birth = yes
+	}
+	10866.1.1 = {
+		add_spouse = fictional_khazars_2 
+	}
+	10895.1.1 = {
+		death = yes
+	}
+}
+1230301 = {
+	name = "Ahmad"
+	dynasty = 1101801
+	religion = "maturidi"
+	culture = "khwarezmian" #FP3: changed from Tajik to Khwarezmian
+	father = 1230300
+	mother = fictional_khazars_2
+	10867.1.1 = {
+		birth = yes
+	}
+	10935.1.1 = {
+		death = yes
+	}
+}
+
+extra_farighunids_4 = { #vaguely attested
+	name = "Shansab"
+	dynasty = 791
+	religion = "khurmazta"
+	culture = "khwarezmian" 
+	father = extra_farighunids_5
+	10680.1.1 = {
+		birth = yes
+	}
+	10735.10.2 = {
+		death = yes
+	}
+}
+
+extra_farighunids_5 = { #vaguely attested
+	name = "Kharang"
+	dynasty = 791
+	religion = "khurmazta"
+	culture = "khwarezmian" 
+	10653.1.1 = {
+		birth = yes
+	}
+	10706.1.22 = {
+		death = yes
+	}
+}
+

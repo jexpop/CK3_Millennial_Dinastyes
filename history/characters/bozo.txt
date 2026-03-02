@@ -1,0 +1,396 @@
+﻿#fictional rulers for c_bindugu
+
+bozo0001 = {
+	name = "Junkunda" #fictional
+	dynasty = bozodyn001
+	religion = west_african_bidu_pagan
+	culture = bozo
+	10830.1.1 = {
+		birth = yes
+	}
+	10893.1.1 = {
+		death = yes
+	}
+}
+bozo0002 = {
+	name = "YatabE_ri" #fictional
+	dynasty = bozodyn001
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0001
+	10862.1.1 = {
+		birth = yes
+	}
+	10918.1.1 = {
+		death = yes
+	}
+}
+bozo0003 = {
+	name = "Dagnokho" #fictional
+	dynasty = bozodyn001
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0002
+	10895.1.1 = {
+		birth = yes
+	}
+	10968.1.1 = {
+		death = yes
+	}
+}
+bozo0004 = {
+	name = "YatabE_ri" #fictional
+	dynasty = bozodyn001
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0003
+	10950.1.1 = {
+		birth = yes
+	}
+	11025.1.1 = {
+		death = yes
+	}
+}
+bozo0005 = {
+	name = "Gassama" #fictional
+	dynasty = bozodyn001
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0004
+	11005.1.1 = {
+		birth = yes
+	}
+	11066.1.1 = {
+		death = yes
+	}
+}
+bozo0006 = {
+	name = "YatabE_ri" #fictional
+	dynasty = bozodyn001
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0005
+	11042.1.1 = {
+		birth = yes
+	}
+	11097.1.1 = {
+		death = yes
+	}
+}
+bozo0007 = {
+	name = "Kamo" #fictional
+	dynasty = bozodyn001
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0006
+	11080.1.1 = {
+		birth = yes
+	}
+	11146.1.1 = {
+		death = yes
+	}
+}
+bozo0008 = {
+	name = "Gassama" #fictional
+	dynasty = bozodyn001
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0007
+	11115.1.1 = {
+		birth = yes
+	}
+	11173.1.1 = {
+		death = yes
+	}
+}
+bozo0009 = {
+	name = "Junkunda" #fictional
+	dynasty = bozodyn001
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0008
+	11154.1.1 = {
+		birth = yes
+	}
+	11210.1.1 = {
+		death = yes
+	}
+}
+bozo0010 = {
+	name = "Tabouri" #fictional
+	dynasty = bozodyn001
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0009
+	11186.1.1 = {
+		birth = yes
+	}
+	11244.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers of c_dodugu
+bozo0011 = {
+	name = "Dalante" #fictional
+	dynasty = bozodyn002
+	religion = west_african_bidu_pagan
+	culture = bozo
+	10815.1.1 = {
+		birth = yes
+	}
+	10880.1.1 = {
+		death = yes
+	}
+}
+bozo0012 = {
+	name = "Dagnokhoyaho" #fictional
+	dynasty = bozodyn002
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0011
+	10841.1.1 = {
+		birth = yes
+	}
+	10902.1.1 = {
+		death = yes
+	}
+}
+bozo0013 = {
+	name = "Jawuru" #fictional
+	dynasty = bozodyn002
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0012
+	10884.1.1 = {
+		birth = yes
+	}
+	10953.1.1 = {
+		death = yes
+	}
+}
+bozo0014 = {
+	name = "Kanafa" #fictional
+	dynasty = bozodyn002
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0013
+	10930.1.1 = {
+		birth = yes
+	}
+	11008.1.1 = {
+		death = yes
+	}
+}
+bozo0015 = {
+	name = "Jawuru" #fictional
+	dynasty = bozodyn002
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0014
+	10990.1.1 = {
+		birth = yes
+	}
+	11050.1.1 = {
+		death = yes
+	}
+}
+bozo0016 = {
+	name = "Dalante" #fictional
+	dynasty = bozodyn002
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0015
+	11033.1.1 = {
+		birth = yes
+	}
+	11094.1.1 = {
+		death = yes
+	}
+}
+bozo0017 = {
+	name = "Kotya" #fictional
+	dynasty = bozodyn002
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0016
+	11077.1.1 = {
+		birth = yes
+	}
+	11105.1.1 = {
+		religion = ashari
+	}
+	11140.1.1 = {
+		death = yes
+	}
+}
+bozo0018 = {
+	name = "Dagnokhoyaho" #fictional
+	dynasty = bozodyn002
+	religion = ashari
+	culture = bozo
+	father = bozo0017
+	11120.1.1 = {
+		birth = yes
+	}
+	11181.1.1 = {
+		death = yes
+	}
+}
+bozo0019 = {
+	name = "Kotya" #fictional
+	dynasty = bozodyn002
+	religion = ashari
+	culture = bozo
+	father = bozo0018
+	11159.1.1 = {
+		birth = yes
+	}
+	11216.1.1 = {
+		death = yes
+	}
+}
+bozo0020 = {
+	name = "Dalante" #fictional
+	dynasty = bozodyn002
+	religion = ashari
+	culture = bozo
+	father = bozo0019
+	11193.1.1 = {
+		birth = yes
+	}
+	11254.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers for c_kurmina
+bozo0021 = {
+	name = "Kotya" #fictional
+	dynasty = bozodyn003
+	religion = west_african_bidu_pagan
+	culture = bozo
+	10835.1.1 = {
+		birth = yes
+	}
+	10890.1.1 = {
+		death = yes
+	}
+}
+bozo0022 = {
+	name = "Dalante" #fictional
+	dynasty = bozodyn003
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0021
+	10870.1.1 = {
+		birth = yes
+	}
+	10933.1.1 = {
+		death = yes
+	}
+}
+bozo0023 = {
+	name = "Kotya" #fictional
+	dynasty = bozodyn003
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0022
+	10915.1.1 = {
+		birth = yes
+	}
+	10990.1.1 = {
+		death = yes
+	}
+}
+bozo0024 = {
+	name = "Dagnokho" #fictional
+	dynasty = bozodyn003
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0023
+	10973.1.1 = {
+		birth = yes
+	}
+	11050.1.1 = {
+		death = yes
+	}
+}
+bozo0025 = {
+	name = "Sandaki" #fictional
+	dynasty = bozodyn003
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0024
+	11022.1.1 = {
+		birth = yes
+	}
+	11081.1.1 = {
+		death = yes
+	}
+}
+bozo0026 = {
+	name = "Kotya" #fictional
+	dynasty = bozodyn003
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0025
+	11062.1.1 = {
+		birth = yes
+	}
+	11120.1.1 = {
+		death = yes
+	}
+}
+bozo0027 = {
+	name = "Kotya" #fictional
+	dynasty = bozodyn003
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0026
+	11100.1.1 = {
+		birth = yes
+	}
+	11159.1.1 = {
+		death = yes
+	}
+}
+bozo0028 = {
+	name = "Kanafa" #fictional
+	dynasty = bozodyn003
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0027
+	11142.1.1 = {
+		birth = yes
+	}
+	11199.1.1 = {
+		death = yes
+	}
+}
+bozo0029 = {
+	name = "Sandaki" #fictional
+	dynasty = bozodyn003
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0028
+	11180.1.1 = {
+		birth = yes
+	}
+	11235.1.1 = {
+		death = yes
+	}
+}
+bozo0030 = {
+	name = "Fuluku" #fictional
+	dynasty = bozodyn003
+	religion = west_african_bidu_pagan
+	culture = bozo
+	father = bozo0029
+	11215.1.1 = {
+		birth = yes
+	}
+	11270.1.1 = {
+		death = yes
+	}
+}

@@ -1,0 +1,1105 @@
+﻿#Akan characters
+
+#rulers of Bono state
+
+akan0001 = {
+	name = "Manu"
+	dynasty = akandyn002
+	religion = akom_pagan
+	culture = akan
+	10841.1.1 = {
+		birth = yes
+	}
+	10889.1.1 = {
+		death = yes
+	}
+}
+akan0002 = {
+	name = "Efua"
+	female = yes
+	dynasty = akandyn002
+	religion = akom_pagan
+	culture = akan
+	father = akan0001
+	10860.1.1 = {
+		birth = yes
+	}
+	10920.1.1 = {
+		death = yes
+	}
+}
+akan0003 = {
+	name = "Ntonni"
+	dynasty = akandyn002
+	religion = akom_pagan
+	culture = akan
+	father = akan0001
+	10864.1.1 = {
+		birth = yes
+	}
+	10912.1.1 = {
+		death = yes
+	}
+}
+akan0004 = {
+	name = "Agyei"
+	dynasty = akandyn002
+	religion = akom_pagan
+	culture = akan
+	father = akan0003
+	10890.1.1 = {
+		birth = yes
+	}
+	10948.1.1 = {
+		death = yes
+	}
+}
+#no rulers coded for 948-1010
+
+akan0005 = {
+	name = "Agyei"
+	dynasty = akandyn002
+	religion = akom_pagan
+	culture = akan
+	11010.1.1 = {
+		birth = yes
+	}
+	11068.1.1 = {
+		death = yes
+	}
+}
+akan0006 = {
+	name = "Badu"
+	dynasty = akandyn002
+	religion = akom_pagan
+	culture = akan
+	father = akan0005
+	11039.1.1 = {
+		birth = yes
+	}
+	11093.1.1 = {
+		death = yes
+	}
+}
+akan0007 = {
+	name = "Ntonni"
+	dynasty = akandyn002
+	religion = akom_pagan
+	culture = akan
+	father = akan0006
+	11067.1.1 = {
+		birth = yes
+	}
+	11112.1.1 = {
+		death = yes
+	}
+}
+akan0008 = {
+	name = "Ogyam"
+	dynasty = akandyn002
+	religion = akom_pagan
+	culture = akan
+	father = akan0007
+	11098.1.1 = {
+		birth = yes
+	}
+	11153.1.1 = {
+		death = yes
+	}
+}
+akan0009 = {
+	name = "Manu"
+	dynasty = akandyn002
+	religion = akom_pagan
+	culture = akan
+	father = akan0008
+	11127.1.1 = {
+		birth = yes
+	}
+	11183.1.1 = {
+		death = yes
+	}
+}
+akan0010 = {
+	name = "Adwoa"
+	female = yes
+	dynasty = akandyn002
+	religion = akom_pagan
+	culture = akan
+	father = akan0005
+	11041.1.1 = {
+		birth = yes
+	}
+	11097.1.1 = {
+		death = yes
+	}
+}
+akan0011 = {
+	name = "Ogyam"
+	dynasty = akandyn002
+	religion = akom_pagan
+	culture = akan
+	father = akan0009
+	11154.1.1 = {
+		birth = yes
+	}
+	11206.1.1 = {
+		death = yes
+	}
+}
+
+#rulers of Begho
+akan0012 = {
+	name = "Donkor"
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	10825.1.1 = {
+		birth = yes
+	}
+	10879.1.1 = {
+		death = yes
+	}
+}
+akan0013 = {
+	name = "Ebo"
+	dynasty = akandyn003
+	religion = akom_pagan
+	culture = akan
+	father = akan0012
+	10848.1.1 = {
+		birth = yes
+	}
+	10899.1.1 = {
+		death = yes
+	}
+}
+akan0014 = {
+	name = "Kaakyire"
+	female = yes
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	father = akan0012
+	10849.1.1 = {
+		birth = yes
+	}
+	10905.1.1 = {
+		death = yes
+	}
+}
+akan0015 = {
+	name = "Yawo"
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	father = akan0012
+	10847.1.1 = {
+		birth = yes
+	}
+	10909.1.1 = {
+		death = yes
+	}
+}
+akan0016 = {
+	name = "Donkor"
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	father = akan0015
+	10888.1.1 = {
+		birth = yes
+	}
+	10940.1.1 = {
+		death = yes
+	}
+}
+akan0017 = {
+	name = "Awotwe"
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	father = akan0016
+	10917.1.1 = {
+		birth = yes
+	}
+	10965.1.1 = {
+		death = yes
+	}
+}
+akan0018 = {
+	name = "Yawo"
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	father = akan0017
+	10948.1.1 = {
+		birth = yes
+	}
+	10997.1.1 = {
+		death = yes
+	}
+}
+akan0019 = {
+	name = "Awotwe"
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	father = akan0018
+	10980.1.1 = {
+		birth = yes
+	}
+	11033.1.1 = {
+		death = yes
+	}
+}
+akan0020 = {
+	name = "Donkor"
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	father = akan0019
+	11007.1.1 = {
+		birth = yes
+	}
+	11060.1.1 = {
+		death = yes
+	}
+}
+akan0021 = {
+	name = "Kwodwo"
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	father = akan0020
+	11035.1.1 = {
+		birth = yes
+	}
+	11092.1.1 = {
+		death = yes
+	}
+}
+akan0022 = {
+	name = "Ayawa"
+	female = yes
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	father = akan0021
+	11062.1.1 = {
+		birth = yes
+	}
+	11123.1.1 = {
+		death = yes
+	}
+}
+akan0023 = {
+	name = "Awotwe"
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	father = akan0021
+	11063.1.1 = {
+		birth = yes
+	}
+	11120.1.1 = {
+		death = yes
+	}
+}
+akan0024 = {
+	name = "Yawo"
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	father = akan0023
+	11090.1.1 = {
+		birth = yes
+	}
+	11143.1.1 = {
+		death = yes
+	}
+}
+akan0025 = {
+	name = "Donkor"
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	father = akan0024
+	11120.1.1 = {
+		birth = yes
+	}
+	11190.1.1 = {
+		death = yes
+	}
+}
+akan0026 = {
+	name = "Ayawa"
+	female = yes
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	father = akan0025
+	11155.1.1 = {
+		birth = yes
+	}
+	11212.1.1 = {
+		death = yes
+	}
+}
+akan0027 = {
+	name = "Donkor"
+	dynasty = akandyn001
+	religion = akom_pagan
+	culture = akan
+	mother = akan0026
+	11174.1.1 = {
+		birth = yes
+	}
+	11222.1.1 = {
+		death = yes
+	}
+}
+#Abron rulers of Bonduku
+akan0028 = {
+	name = "Okyin"
+	dynasty = akandyn003
+	religion = akom_pagan
+	culture = akan
+	father = akan0013
+	10866.1.1 = {
+		birth = yes
+	}
+	10915.1.1 = {
+		death = yes
+	}
+}
+akan0029 = {
+	name = "Ebo"
+	dynasty = akandyn003
+	religion = akom_pagan
+	culture = akan
+	father = akan0028
+	10893.1.1 = {
+		birth = yes
+	}
+	10949.1.1 = {
+		death = yes
+	}
+}
+akan0030 = {
+	name = "Addae"
+	dynasty = akandyn003
+	religion = akom_pagan
+	culture = akan
+	father = akan0029
+	10922.1.1 = {
+		birth = yes
+	}
+	10960.1.1 = {
+		death = yes
+	}
+}
+akan0031 = {
+	name = "Ebo"
+	dynasty = akandyn003
+	religion = akom_pagan
+	culture = akan
+	father = akan0030
+	10957.1.1 = {
+		birth = yes
+	}
+	11009.1.1 = {
+		death = yes
+	}
+}
+akan0032 = {
+	name = "Okyin"
+	dynasty = akandyn003
+	religion = akom_pagan
+	culture = akan
+	father = akan0031
+	10992.1.1 = {
+		birth = yes
+	}
+	11043.1.1 = {
+		death = yes
+	}
+}
+akan0033 = {
+	name = "Pereko"
+	dynasty = akandyn003
+	religion = akom_pagan
+	culture = akan
+	father = akan0032
+	11028.1.1 = {
+		birth = yes
+	}
+	11066.1.1 = {
+		death = yes
+	}
+}
+akan0034 = {
+	name = "Pereko"
+	dynasty = akandyn003
+	religion = akom_pagan
+	culture = akan
+	father = akan0033
+	11048.1.1 = {
+		birth = yes
+	}
+	11103.1.1 = {
+		death = yes
+	}
+}
+akan0035 = {
+	name = "Okyin"
+	dynasty = akandyn003
+	religion = akom_pagan
+	culture = akan
+	father = akan0034
+	11065.1.1 = {
+		birth = yes
+	}
+	11117.1.1 = {
+		death = yes
+	}
+}
+akan0036 = {
+	name = "Ebo"
+	dynasty = akandyn003
+	religion = akom_pagan
+	culture = akan
+	father = akan0035
+	11099.1.1 = {
+		birth = yes
+	}
+	11153.1.1 = {
+		death = yes
+	}
+}
+akan0037 = {
+	name = "Addae"
+	dynasty = akandyn003
+	religion = akom_pagan
+	culture = akan
+	father = akan0036
+	11132.1.1 = {
+		birth = yes
+	}
+	11187.1.1 = {
+		death = yes
+	}
+}
+akan0038 = {
+	name = "Pereko"
+	dynasty = akandyn003
+	religion = akom_pagan
+	culture = akan
+	father = akan0037
+	11160.1.1 = {
+		birth = yes
+	}
+	11203.1.1 = {
+		death = yes
+	}
+}
+akan0039 = {
+	name = "Okyin"
+	dynasty = akandyn003
+	religion = akom_pagan
+	culture = akan
+	father = akan0038
+	11186.1.1 = {
+		birth = yes
+	}
+	11230.1.1 = {
+		death = yes
+	}
+}
+
+# fictional Kulango rulers of c_ndenye
+akan0040 = {
+	name = "Opoku" #fictional
+	dynasty = akandyn004
+	religion = akom_pagan
+	culture = akan
+	10835.1.1 = {
+		birth = yes
+	}
+	10888.1.1 = {
+		death = yes
+	}
+}
+akan0041 = {
+	name = "Katakiye" #fictional
+	dynasty = akandyn004
+	religion = akom_pagan
+	culture = akan
+	father = akan0040
+	10853.1.1 = {
+		birth = yes
+	}
+	10907.1.1 = {
+		death = yes
+	}
+}
+akan0042 = {
+	name = "Kusi" #fictional
+	dynasty = akandyn004
+	religion = akom_pagan
+	culture = akan
+	11033.1.1 = {
+		birth = yes
+	}
+	11075.1.1 = {
+		death = yes
+	}
+}
+akan0043 = {
+	name = "Kwadwo" #fictional
+	dynasty = akandyn004
+	religion = akom_pagan
+	culture = akan
+	father = akan0042
+	11051.1.1 = {
+		birth = yes
+	}
+	11107.1.1 = {
+		death = yes
+	}
+}
+akan0044 = {
+	name = "Kantanka" #fictional
+	dynasty = akandyn004
+	religion = akom_pagan
+	culture = akan
+	father = akan0043
+	11073.1.1 = {
+		birth = yes
+	}
+	11122.1.1 = {
+		death = yes
+	}
+}
+akan0045 = {
+	name = "Asiba" #fictional
+	dynasty = akandyn004
+	religion = akom_pagan
+	culture = akan
+	father = akan0044
+	11100.1.1 = {
+		birth = yes
+	}
+	11159.1.1 = {
+		death = yes
+	}
+}
+akan0046 = {
+	name = "Osei" #fictional
+	dynasty = akandyn004
+	religion = akom_pagan
+	culture = akan
+	father = akan0045
+	11132.1.1 = {
+		birth = yes
+	}
+	11190.1.1 = {
+		death = yes
+	}
+}
+akan0047 = {
+	name = "Kwadwo" #fictional
+	dynasty = akandyn004
+	religion = akom_pagan
+	culture = akan
+	father = akan0046
+	11151.1.1 = {
+		birth = yes
+	}
+	11208.1.1 = {
+		death = yes
+	}
+}
+
+#rulers of the Asante duchy - used names of anachronistic kings of Kwaaman Ashanti kingdom
+akan0048 = {
+	name = "Oti" #fictional
+	dynasty = akandyn005
+	religion = akom_pagan
+	culture = akan
+	10830.1.1 = {
+		birth = yes
+	}
+	10873.1.1 = {
+		death = yes
+	}
+}
+akan0049 = {
+	name = "Antwi" #fictional
+	dynasty = akandyn005
+	religion = akom_pagan
+	culture = akan
+	father = akan0048
+	10851.1.1 = {
+		birth = yes
+	}
+	10908.1.1 = {
+		death = yes
+	}
+}
+akan0050 = {
+	name = "Twum" #fictional
+	dynasty = akandyn005
+	religion = akom_pagan
+	culture = akan
+	11038.1.1 = {
+		birth = yes
+	}
+	11089.1.1 = {
+		death = yes
+	}
+}
+akan0051 = {
+	name = "Antwi" #fictional
+	dynasty = akandyn005
+	religion = akom_pagan
+	culture = akan
+	father = akan0050
+	11064.1.1 = {
+		birth = yes
+	}
+	11116.1.1 = {
+		death = yes
+	}
+}
+akan0052 = {
+	name = "Kobia" #fictional
+	dynasty = akandyn005
+	religion = akom_pagan
+	culture = akan
+	father = akan0051
+	11091.1.1 = {
+		birth = yes
+	}
+	11143.1.1 = {
+		death = yes
+	}
+}
+akan0053 = {
+	name = "Obiri" #fictional
+	dynasty = akandyn005
+	religion = akom_pagan
+	culture = akan
+	father = akan0052
+	11114.1.1 = {
+		birth = yes
+	}
+	11169.1.1 = {
+		death = yes
+	}
+}
+akan0054 = {
+	name = "Antwi" #fictional
+	dynasty = akandyn005
+	religion = akom_pagan
+	culture = akan
+	father = akan0053
+	11139.1.1 = {
+		birth = yes
+	}
+	11201.1.1 = {
+		death = yes
+	}
+}
+akan0055 = {
+	name = "Twum" #fictional
+	dynasty = akandyn005
+	religion = akom_pagan
+	culture = akan
+	father = akan0054
+	11168.1.1 = {
+		birth = yes
+	}
+	11217.1.1 = {
+		death = yes
+	}
+}
+
+# fictional rulers of c_wassa
+akan0056 = {
+	name = "Kwandoh" #fictional
+	dynasty = akandyn006
+	religion = akom_pagan
+	culture = akan
+	10835.1.1 = {
+		birth = yes
+	}
+	10888.1.1 = {
+		death = yes
+	}
+}
+akan0057 = {
+	name = "Brempong" #fictional
+	dynasty = akandyn006
+	religion = akom_pagan
+	culture = akan
+	father = akan0056
+	10853.1.1 = {
+		birth = yes
+	}
+	10907.1.1 = {
+		death = yes
+	}
+}
+akan0058 = {
+	name = "Tutu" #fictional
+	dynasty = akandyn006
+	religion = akom_pagan
+	culture = akan
+	11033.1.1 = {
+		birth = yes
+	}
+	11075.1.1 = {
+		death = yes
+	}
+}
+akan0059 = {
+	name = "Mensa" #fictional
+	dynasty = akandyn006
+	religion = akom_pagan
+	culture = akan
+	father = akan0058
+	11051.1.1 = {
+		birth = yes
+	}
+	11107.1.1 = {
+		death = yes
+	}
+}
+akan0060 = {
+	name = "Asiba" #fictional
+	dynasty = akandyn006
+	religion = akom_pagan
+	culture = akan
+	father = akan0059
+	11073.1.1 = {
+		birth = yes
+	}
+	11122.1.1 = {
+		death = yes
+	}
+}
+akan0061 = {
+	name = "Kwaku" #fictional
+	dynasty = akandyn006
+	religion = akom_pagan
+	culture = akan
+	father = akan0060
+	11100.1.1 = {
+		birth = yes
+	}
+	11159.1.1 = {
+		death = yes
+	}
+}
+akan0062 = {
+	name = "Otumfuo" #fictional
+	dynasty = akandyn006
+	religion = akom_pagan
+	culture = akan
+	father = akan0061
+	11132.1.1 = {
+		birth = yes
+	}
+	11190.1.1 = {
+		death = yes
+	}
+}
+akan0063 = {
+	name = "Asiba" #fictional
+	dynasty = akandyn006
+	religion = akom_pagan
+	culture = akan
+	father = akan0062
+	11151.1.1 = {
+		birth = yes
+	}
+	11208.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers of c_fante
+akan0064 = {
+	name = "Badu" #fictional
+	dynasty = akandyn007
+	religion = akom_pagan
+	culture = akan
+	10841.1.1 = {
+		birth = yes
+	}
+	10896.1.1 = {
+		death = yes
+	}
+}
+akan0065 = {
+	name = "Agyei" #fictional
+	dynasty = akandyn007
+	religion = akom_pagan
+	culture = akan
+	father = akan0064
+	10878.1.1 = {
+		birth = yes
+	}
+	10943.1.1 = {
+		death = yes
+	}
+}
+akan0066 = {
+	name = "Badu" #fictional
+	dynasty = akandyn007
+	religion = akom_pagan
+	culture = akan
+	father = akan0065
+	10918.1.1 = {
+		birth = yes
+	}
+	10996.1.1 = {
+		death = yes
+	}
+}
+akan0067 = {
+	name = "Ntonni" #fictional
+	dynasty = akandyn007
+	religion = akom_pagan
+	culture = akan
+	father = akan0066
+	10975.1.1 = {
+		birth = yes
+	}
+	11040.1.1 = {
+		death = yes
+	}
+}
+akan0068 = {
+	name = "Ogyam" #fictional
+	dynasty = akandyn007
+	religion = akom_pagan
+	culture = akan
+	father = akan0067
+	11020.1.1 = {
+		birth = yes
+	}
+	11073.1.1 = {
+		death = yes
+	}
+}
+akan0069 = {
+	name = "Agyei" #fictional
+	dynasty = akandyn007
+	religion = akom_pagan
+	culture = akan
+	father = akan0068
+	11056.1.1 = {
+		birth = yes
+	}
+	11109.1.1 = {
+		death = yes
+	}
+}
+akan0070 = {
+	name = "Kwandoh" #fictional
+	dynasty = akandyn007
+	religion = akom_pagan
+	culture = akan
+	father = akan0069
+	11090.1.1 = {
+		birth = yes
+	}
+	11147.1.1 = {
+		death = yes
+	}
+}
+akan0071 = {
+	name = "Tutu" #fictional
+	dynasty = akandyn007
+	religion = akom_pagan
+	culture = akan
+	father = akan0070
+	11122.1.1 = {
+		birth = yes
+	}
+	11179.1.1 = {
+		death = yes
+	}
+}
+akan0072 = {
+	name = "Mensa" #fictional
+	dynasty = akandyn007
+	religion = akom_pagan
+	culture = akan
+	father = akan0071
+	11158.1.1 = {
+		birth = yes
+	}
+	11207.1.1 = {
+		death = yes
+	}
+}
+akan0073 = {
+	name = "Kwandoh" #fictional
+	dynasty = akandyn007
+	religion = akom_pagan
+	culture = akan
+	father = akan0072
+	11187.1.1 = {
+		birth = yes
+	}
+	11242.1.1 = {
+		death = yes
+	}
+}
+
+#fictional rulers of c_aowin
+akan0074 = {
+	name = "Agyei" #fictional
+	dynasty = akandyn008
+	religion = akom_pagan
+	culture = akan
+	10836.1.1 = {
+		birth = yes
+	}
+	10865.1.1 = {
+		death = yes
+	}
+}
+akan0075 = {
+	name = "Efua" #fictional
+	dynasty = akandyn008
+	religion = akom_pagan
+	culture = akan
+	father = akan0074
+	10854.1.1 = {
+		birth = yes
+	}
+	10922.1.1 = {
+		death = yes
+	}
+}
+akan0076 = {
+	name = "Donkor" #fictional
+	dynasty = akandyn008
+	religion = akom_pagan
+	culture = akan
+	father = akan0075
+	10903.1.1 = {
+		birth = yes
+	}
+	10980.1.1 = {
+		death = yes
+	}
+}
+akan0077 = {
+	name = "Efua" #fictional
+	dynasty = akandyn008
+	religion = akom_pagan
+	culture = akan
+	father = akan0076
+	10957.1.1 = {
+		birth = yes
+	}
+	11030.1.1 = {
+		death = yes
+	}
+}
+akan0078 = {
+	name = "Awotwe" #fictional
+	dynasty = akandyn008
+	religion = akom_pagan
+	culture = akan
+	father = akan0077
+	11010.1.1 = {
+		birth = yes
+	}
+	11064.1.1 = {
+		death = yes
+	}
+}
+akan0079 = {
+	name = "Agyei" #fictional
+	dynasty = akandyn008
+	religion = akom_pagan
+	culture = akan
+	father = akan0078
+	11047.1.1 = {
+		birth = yes
+	}
+	11098.1.1 = {
+		death = yes
+	}
+}
+akan0080 = {
+	name = "Awotwe" #fictional
+	dynasty = akandyn008
+	religion = akom_pagan
+	culture = akan
+	father = akan0079
+	11080.1.1 = {
+		birth = yes
+	}
+	11138.1.1 = {
+		death = yes
+	}
+}
+akan0081 = {
+	name = "Donkor" #fictional
+	dynasty = akandyn008
+	religion = akom_pagan
+	culture = akan
+	father = akan0080
+	11115.1.1 = {
+		birth = yes
+	}
+	11173.1.1 = {
+		death = yes
+	}
+}
+akan0082 = {
+	name = "Awotwe" #fictional
+	dynasty = akandyn008
+	religion = akom_pagan
+	culture = akan
+	father = akan0081
+	11147.1.1 = {
+		birth = yes
+	}
+	11203.1.1 = {
+		death = yes
+	}
+}
+akan0083 = {
+	name = "Efua" #fictional
+	dynasty = akandyn008
+	religion = akom_pagan
+	culture = akan
+	father = akan0082
+	11182.1.1 = {
+		birth = yes
+	}
+	11235.1.1 = {
+		death = yes
+	}
+}
+akan0084 = {
+	name = "Agyei" #fictional
+	dynasty = akandyn008
+	religion = akom_pagan
+	culture = akan
+	father = akan0083
+	11213.1.1 = {
+		birth = yes
+	}
+	11268.1.1 = {
+		death = yes
+	}
+}

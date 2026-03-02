@@ -1,0 +1,2927 @@
+﻿32225 = {
+	name = "Dil_Na_od"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 167707
+	10840.1.1 = {
+		birth = "10840.1.1"
+	}
+	10916.1.1 = {
+		death = "10916.1.1"
+	}
+}
+
+32226 = {
+	name = "Masoba_Warq"
+	female = yes
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32225
+	10875.1.1 = {
+		birth = "10875.1.1"
+	}
+	10930.1.1 = {
+		death = "10930.1.1"
+	}
+}
+
+32227 = {
+	name = "Mara_Takla_Haymanot"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145982
+	10860.1.1 = {
+		birth = "10860.1.1"
+	}
+	10895.1.1 = {
+		add_spouse = 32226
+	}
+	10919.1.1 = {
+		death = "10919.1.1"
+	}
+}
+
+32228 = {
+	name = "Tatadim"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32227
+	mother = 32226
+	10897.1.1 = {
+		birth = "10897.1.1"
+	}
+	10959.1.1 = {
+		death = "10959.1.1"
+	}
+}
+
+32229 = {
+	name = "Jan_Seyum"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32228
+	10930.1.1 = {
+		birth = "10930.1.1"
+	}
+	10999.1.1 = {
+		death = "10999.1.1"
+	}
+}
+
+32230 = {
+	name = "German_Seyum"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32229
+	10970.1.1 = {
+		birth = "10970.1.1"
+	}
+	11039.1.1 = {
+		death = "11039.1.1"
+	}
+}
+
+32231 = {
+	name = "Yemrehana_Krestos"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32230
+	11010.1.1 = {
+		birth = "11010.1.1"
+	}
+	11079.1.1 = {
+		death = "11079.1.1"
+	}
+}
+
+
+32232 = {
+	name = "Harbay"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = zagwe_3
+	11095.1.1 = {
+		birth = yes
+	}
+	11156.1.1 = {
+		death = yes
+	}
+}
+
+32233 = {
+	name = "Lalibela"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = zealous
+	father = zagwe_3
+	11140.1.1 = {
+		birth = yes
+		effect = { add_character_flag = do_not_generate_starting_family }
+	}
+	11178.6.1 = {
+		effect = {
+			set_landless_government_effect = yes
+		}
+	}
+	11221.1.1 = {
+		death = yes
+	}
+}
+32234 = {
+	name = "Na_akuelo_La_ab"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32232
+	11140.1.1 = {
+		birth = "11140.1.1"
+	}
+	11207.1.1 = {
+		death = "11207.1.1"
+	}
+}
+32235 = {
+	name = "Yetbarak"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32234
+	11190.1.1 = {
+		birth = "11190.1.1"
+	}
+	11247.1.1 = {
+		death = "11247.1.1"
+	}
+}
+32236 = {
+	name = "Mairari"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32235
+	11220.1.1 = {
+		birth = "11220.1.1"
+	}
+	11262.1.1 = {
+		death = "11262.1.1"
+	}
+}
+32237 = {
+	name = "Harbai"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32236
+	11245.1.1 = {
+		birth = "11245.1.1"
+	}
+	11268.1.1 = {
+		death = "11268.1.1"
+	}
+}
+32238 = {
+	name = "Mahbere-Widam"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32225
+	10900.1.1 = {
+		birth = "10900.1.1"
+	}
+	10960.1.1 = {
+		death = "10960.1.1"
+	}
+}
+
+32239 = {
+	name = "Agba_Seyum"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32238
+	10950.1.1 = {
+		birth = "10950.1.1"
+	}
+	11000.1.1 = {
+		death = "11000.1.1"
+	}
+}
+
+32240 = {
+	name = "Sinda_Ar_ad"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32239
+	10990.1.1 = {
+		birth = "10990.1.1"
+	}
+	11040.1.1 = {
+		death = "11040.1.1"
+	}
+}
+
+32241 = {
+	name = "Negus_ZarE_"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32240
+	11020.1.1 = {
+		birth = "11020.1.1"
+	}
+	11070.1.1 = {
+		death = "11070.1.1"
+	}
+}
+
+32242 = {
+	name = "Asfiha"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32241
+	11050.1.1 = {
+		birth = "11050.1.1"
+	}
+	11100.1.1 = {
+		death = "11100.1.1"
+	}
+}
+
+32243 = {
+	name = "Yakob"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32242
+	11080.1.1 = {
+		birth = "11080.1.1"
+	}
+	11130.1.1 = {
+		death = "11130.1.1"
+	}
+}
+
+32244 = {
+	name = "Bahr_Seggad"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32243
+	11110.1.1 = {
+		birth = "11110.1.1"
+	}
+	11160.1.1 = {
+		death = "11160.1.1"
+	}
+}
+32245 = {
+	name = "Adam_Asgad"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32244
+	11140.1.1 = {
+		birth = "11140.1.1"
+	}
+	11200.1.1 = {
+		death = "11200.1.1"
+	}
+}
+32246 = {
+	name = "Tasfa_Iyasus"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32245
+	11180.1.1 = {
+		birth = "11180.1.1"
+	}
+	11240.1.1 = {
+		death = "11240.1.1"
+	}
+}
+
+32247 = {
+	name = "Yekuno_Amlak"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32246
+	11225.1.1 = {
+		birth = "11225.1.1"
+	}
+	11285.1.1 = {
+		death = "11285.1.1"
+	}
+}
+
+32248 = {
+	name = "Salomon"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32247
+	11245.1.1 = {
+		birth = "11245.1.1"
+	}
+	11294.1.1 = {
+		death = "11294.1.1"
+	}
+}
+
+32249 = {
+	name = "Wadim_Ar_ad"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32247
+	11250.1.1 = {
+		birth = "11250.1.1"
+	}
+	11310.1.1 = {
+		add_spouse = 32256
+	}
+	11314.1.1 = {
+		death = "11314.1.1"
+	}
+}
+
+32250 = {
+	name = "Qidma_Seggada"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32247
+	11255.1.1 = {
+		birth = "11255.1.1"
+	}
+	11305.1.1 = {
+		death = "11305.1.1"
+	}
+}
+
+32251 = {
+	name = "Gabre_Maskal"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32250
+	11280.1.1 = {
+		birth = "11280.1.1"
+	}
+	11315.1.1 = {
+		add_spouse = 32256
+	}
+	11320.1.1 = {
+		add_spouse = 32257
+	}
+	11344.1.1 = {
+		death = "11344.1.1"
+	}
+}
+
+#5 sons all ruled 1 year, then abdicated
+
+32252 = {
+	name = "Sinfa_Asgad"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32248
+	11265.1.1 = {
+		birth = "11265.1.1"
+	}
+	11299.1.1 = {
+		death = "11299.1.1"
+	}
+}
+32253 = {
+	name = "Hizba_Asgad"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32248
+	11267.1.1 = {
+		birth = "11267.1.1"
+	}
+	11299.1.1 = {
+		death = "11299.1.1"
+	}
+}
+
+32254 = {
+	name = "Qidma_Asgad"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32248
+	11269.1.1 = {
+		birth = "11269.1.1"
+	}
+	11299.1.1 = {
+		death = "11299.1.1"
+	}
+}
+
+
+32263 = {
+	name = "Jas_Asgad"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32248
+	11271.1.1 = {
+		birth = "11271.1.1"
+	}
+	11299.1.1 = {
+		death = "11299.1.1"
+	}
+}
+32255 = {
+	name = "Saba_Asgad"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32248
+	11273.1.1 = {
+		birth = "11273.1.1"
+	}
+	11299.1.1 = {
+		death = "11299.1.1"
+	}
+}
+
+32256 = {
+	name = "Jan_Mangesha"
+	female = yes
+	dynasty = 101789
+	religion = "coptic"
+	culture = "ethiopian"
+	11294.1.1 = {
+		birth = "11294.1.1"
+	}
+	11318.1.1 = {
+		death = "11318.1.1"
+	}
+}
+
+32257 = {
+	name = "Belen"
+	female = yes
+	dynasty = 101787
+	religion = "coptic"
+	culture = "ethiopian"
+	11300.1.1 = {
+		birth = "11300.1.1"
+	}
+	11355.1.1 = {
+		death = "11355.1.1"
+	}
+}
+
+32258 = {
+	name = "Bahr_Seggad"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32251
+	mother = 32257
+	11321.1.1 = {
+		birth = "11321.1.1"
+	}
+	11344.1.1 = {
+		death = "11344.1.1"
+	}
+}
+32259 = {
+	name = "Saf_Seggad"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32251
+	mother = 32257
+	11322.1.1 = {
+		birth = "11322.1.1"
+	}
+	11344.1.1 = {
+		death = "11344.1.1"
+	}
+}
+32260 = {
+	name = "Niwaya_Krestos"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32251
+	mother = 32257
+	11323.1.1 = {
+		birth = "11323.1.1"
+	}
+	11372.1.1 = {
+		death = "11372.1.1"
+	}
+}
+
+32261 = {
+	name = "Kirillos"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32251
+	mother = 32257
+	11324.1.1 = {
+		birth = "11324.1.1"
+	}
+	11370.1.1 = {
+		death = "11370.1.1"
+	}
+}
+
+32262 = {
+	name = "Abba_Assay"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32251
+	mother = 32257
+	11325.1.1 = {
+		birth = "11325.1.1"
+	}
+	11375.1.1 = {
+		death = "11375.1.1"
+	}
+}
+
+93498 = {
+	name = "Dhidhin"
+	dynasty = 7373
+	religion = "ashari"
+	culture = "ethiopian"
+	11255.1.1 = {
+		birth = "11255.1.1"
+	}
+	11311.1.1 = {
+		death = "11311.1.1"
+	}
+}
+
+93499 = {
+	name = "Hamar_Gale"
+	dynasty = 7373
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 93498
+	11280.1.1 = {
+		birth = "11280.1.1"
+	}
+	11328.1.1 = {
+		death = "11328.1.1"
+	}
+}
+
+93500 = {
+	name = "Ibrahim"
+	dynasty = 7373
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 93499
+	11300.1.1 = {
+		birth = "11300.1.1"
+	}
+	11348.1.1 = {
+		death = "11348.1.1"
+	}
+}
+
+93501 = {
+	name = "Omar"
+	dynasty = 7373
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 93500
+	11320.1.1 = {
+		birth = "11320.1.1"
+	}
+	11355.1.1 = {
+		death = "11355.1.1"
+	}
+}
+
+167707 = {
+	name = "Degna_Djan"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145994
+	10800.1.1 = {
+		birth = "10800.1.1"
+	}
+	10860.1.1 = {
+		death = "10860.1.1"
+	}
+}
+
+167708 = {
+	name = "Anbasa_Wedem"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 167707
+	10835.1.1 = {
+		birth = "10835.1.1"
+	}
+	10900.1.1 = {
+		death = "10900.1.1"
+	}
+}
+
+##Ethiopian Characters
+
+##Abuns (Patriarchs) of Ethiopia
+
+166186 = {
+	name = "Frumentius"
+	religion = "orthodox"
+	culture = "levantine" #assyrian
+	trait = education_learning_3
+	10305.1.1 = {
+		birth = "10305.1.1"
+	}
+	10328.1.1 = {
+		name = "Selama"
+	}
+	10383.1.1 = {
+		death = "10383.1.1"
+		give_nickname = nick_the_holy
+	}
+}
+
+166187 = {
+	name = "Minas"
+	religion = "orthodox"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10311.1.1 = {
+		birth = "10311.1.1"
+	}
+	10355.1.1 = {
+		death = "10355.1.1"
+	}
+}
+
+166188 = {
+	name = "Elyas"
+	religion = "orthodox"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10315.1.1 = {
+		birth = "10315.1.1"
+	}
+	10378.1.1 = {
+		death = "10378.1.1"
+	}
+}
+
+166189 = {
+	name = "Abreham"
+	religion = "orthodox"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10352.1.1 = {
+		birth = "10352.1.1"
+	}
+	10426.1.1 = {
+		death = "10426.1.1"
+	}
+}
+
+166190 = {
+	name = "Petros"
+	religion = "orthodox"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10387.1.1 = {
+		birth = "10387.1.1"
+	}
+	10451.1.1 = {
+		religion = "coptic"
+	}
+	10465.1.1 = {
+		death = "10465.1.1"
+	}
+}
+
+166191 = {
+	name = "Petros"
+	religion = "orthodox"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10405.1.1 = {
+		birth = "10405.1.1"
+	}
+	10451.1.1 = {
+		religion = "coptic"
+	}
+	10472.1.1 = {
+		death = "10472.1.1"
+	}
+}
+
+166192 = {
+	name = "Abba_Afse"
+	religion = "orthodox"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10437.1.1 = {
+		birth = "10437.1.1"
+	}
+	10451.1.1 = {
+		religion = "coptic"
+	}
+	10504.1.1 = {
+		death = "10504.1.1"
+	}
+}
+
+166193 = {
+	name = "Qozmos"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10456.1.1 = {
+		birth = "10456.1.1"
+	}
+	10520.1.1 = {
+		death = "10520.1.1"
+	}
+}
+
+166194 = {
+	name = "Euprepius"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10464.1.1 = {
+		birth = "10464.1.1"
+	}
+	10537.1.1 = {
+		death = "10537.1.1"
+	}
+}
+
+166195 = {
+	name = "Marqos"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10499.1.1 = {
+		birth = "10499.1.1"
+	}
+	10565.1.1 = {
+		death = "10565.1.1"
+	}
+}
+
+166196 = {
+	name = "Petros"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10506.1.1 = {
+		birth = "10506.1.1"
+	}
+	10576.1.1 = {
+		death = "10576.1.1"
+	}
+}
+
+166197 = {
+	name = "Yohannes"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10510.1.1 = {
+		birth = "10510.1.1"
+	}
+	10584.1.1 = {
+		death = "10584.1.1"
+	}
+}
+
+166198 = {
+	name = "Yohannes"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10513.1.1 = {
+		birth = "10513.1.1"
+	}
+	10589.1.1 = {
+		death = "10589.1.1"
+	}
+}
+
+166199 = {
+	name = "Marqos"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10528.1.1 = {
+		birth = "10528.1.1"
+	}
+	10597.1.1 = {
+		death = "10597.1.1"
+	}
+}
+
+166200 = {
+	name = "Yohannes"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10537.1.1 = {
+		birth = "10537.1.1"
+	}
+	10606.1.1 = {
+		death = "10606.1.1"
+	}
+}
+
+166201 = {
+	name = "Marqos"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10555.1.1 = {
+		birth = "10555.1.1"
+	}
+	10611.1.1 = {
+		death = "10611.1.1"
+	}
+}
+
+166202 = {
+	name = "Yohannes"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10573.1.1 = {
+		birth = "10573.1.1"
+	}
+	10629.1.1 = {
+		death = "10629.1.1"
+	}
+}
+
+166203 = {
+	name = "Qerellos"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10581.1.1 = {
+		birth = "10581.1.1"
+	}
+	10648.1.1 = {
+		death = "10648.1.1"
+	}
+}
+
+166204 = {
+	name = "Yohannes"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10586.1.1 = {
+		birth = "10586.1.1"
+	}
+	10655.1.1 = {
+		death = "10655.1.1"
+	}
+}
+
+166205 = {
+	name = "Petros"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10598.1.1 = {
+		birth = "10598.1.1"
+	}
+	10667.1.1 = {
+		death = "10667.1.1"
+	}
+}
+
+166206 = {
+	name = "Yohannes"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10604.1.1 = {
+		birth = "10604.1.1"
+	}
+	10683.1.1 = {
+		death = "10683.1.1"
+	}
+}
+
+166207 = {
+	name = "Yohannes"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10628.1.1 = {
+		birth = "10628.1.1"
+	}
+	10698.1.1 = {
+		death = "10698.1.1"
+	}
+}
+
+166208 = {
+	name = "Marqos"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10646.1.1 = {
+		birth = "10646.1.1"
+	}
+	10710.1.1 = {
+		death = "10710.1.1"
+	}
+}
+
+166209 = {
+	name = "Yohannes"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10659.1.1 = {
+		birth = "10659.1.1"
+	}
+	10723.1.1 = {
+		death = "10723.1.1"
+	}
+}
+
+166210 = {
+	name = "Yohannes"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10671.1.1 = {
+		birth = "10671.1.1"
+	}
+	10748.1.1 = {
+		death = "10748.1.1"
+	}
+}
+
+166211 = {
+	name = "Yohannes"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10699.1.1 = {
+		birth = "10699.1.1"
+	}
+	10770.1.1 = {
+		death = "10770.1.1"
+	}
+}
+
+166212 = {
+	name = "Yohannes"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10728.1.1 = {
+		birth = "10728.1.1"
+	}
+	10799.1.1 = {
+		death = "10799.1.1"
+	}
+}
+
+166213 = {
+	name = "Marqos"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10752.1.1 = {
+		birth = "10752.1.1"
+	}
+	10820.1.1 = {
+		death = "10820.1.1"
+	}
+}
+
+166214 = {
+	name = "Yohannes"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10776.1.1 = {
+		birth = "10776.1.1"
+	}
+	10840.1.1 = {
+		death = "10840.1.1"
+	}
+}
+
+166215 = {
+	name = "Yaqob"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10799.1.1 = {
+		birth = "10799.1.1"
+	}
+	10863.1.1 = {
+		death = "10863.1.1"
+	}
+}
+
+166216 = {
+	name = "Salama_Za-_Azeb"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10819.1.1 = {
+		birth = "10819.1.1"
+	}
+	10885.1.1 = {
+		death = "10885.1.1"
+	}
+}
+
+166217 = {
+	name = "Bartalomewos"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10842.1.1 = {
+		birth = "10842.1.1"
+	}
+	10907.1.1 = {
+		death = "10907.1.1"
+	}
+}
+
+166218 = {
+	name = "Petros"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10874.1.1 = {
+		birth = "10874.1.1"
+	}
+	10940.1.1 = {
+		death = "10940.1.1"
+	}
+}
+
+166219 = {
+	name = "Daniel"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10929.1.1 = {
+		birth = "10929.1.1"
+	}
+	10996.1.1 = {
+		death = "10996.1.1"
+	}
+}
+
+166220 = {
+	name = "Fiqtor"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	10981.1.1 = {
+		birth = "10981.1.1"
+	}
+	11034.1.1 = {
+		death = "11034.1.1"
+	}
+}
+
+166221 = {
+	name = "Abdun"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11009.1.1 = {
+		birth = "11009.1.1"
+	}
+	11077.1.1 = {
+		death = "11077.1.1"
+	}
+}
+
+166222 = {
+	name = "Sawiros"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11027.1.1 = {
+		birth = "11027.1.1"
+	}
+	11092.1.1 = {
+		death = "11092.1.1"
+	}
+}
+
+166223 = {
+	name = "Giyorgis"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11055.1.1 = {
+		birth = "11055.1.1"
+	}
+	11121.1.1 = {
+		death = "11121.1.1"
+	}
+}
+
+166224 = {
+	name = "Mikael"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11089.1.1 = {
+		birth = "11089.1.1"
+	}
+	11149.1.1 = {
+		death = "11149.1.1"
+	}
+}
+
+166225 = {
+	name = "Yaqob"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11097.1.1 = {
+		birth = "11097.1.1"
+	}
+	11163.1.1 = {
+		death = "11163.1.1"
+	}
+}
+
+166226 = {
+	name = "Gabra_Krestos"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11127.1.1 = {
+		birth = "11127.1.1"
+	}
+	11184.1.1 = {
+		death = "11184.1.1"
+	}
+}
+
+166227 = {
+	name = "Atnatewos"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11145.1.1 = {
+		birth = "11145.1.1"
+	}
+	11206.1.1 = {
+		death = "11206.1.1"
+	}
+}
+
+166228 = {
+	name = "Mikael"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11153.1.1 = {
+		birth = "11153.1.1"
+	}
+	11209.1.1 = {
+		death = "11209.1.1"
+	}
+}
+
+166229 = {
+	name = "Yeshaq"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11169.1.1 = {
+		birth = "11169.1.1"
+	}
+	11225.1.1 = {
+		death = "11225.1.1"
+	}
+}
+
+166230 = {
+	name = "Giyorgis"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11194.1.1 = {
+		birth = "11194.1.1"
+	}
+	11261.1.1 = {
+		death = "11261.1.1"
+	}
+}
+
+166231 = {
+	name = "Tekle_Haymonot"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11215.1.1 = {
+		birth = "11215.1.1"
+	}
+	11313.1.1 = {
+		death = "11313.1.1"
+		give_nickname = nick_the_holy
+	}
+}
+
+166232 = {
+	name = "Yohannes"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11271.1.1 = {
+		birth = "11271.1.1"
+	}
+	11337.1.1 = {
+		death = "11337.1.1"
+	}
+}
+
+166233 = {
+	name = "Yaqob"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11277.1.1 = {
+		birth = "11277.1.1"
+	}
+	11344.1.1 = {
+		death = "11344.1.1"
+	}
+}
+
+166234 = {
+	name = "Salama"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11312.1.1 = {
+		birth = "11312.1.1"
+	}
+	11388.1.1 = {
+		death = "11388.1.1"
+	}
+}
+
+166235 = {
+	name = "Bartalomewos"
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = education_learning_3
+	11372.1.1 = {
+		birth = "11372.1.1"
+	}
+	11436.1.1 = {
+		death = "11436.1.1"
+	}
+}
+
+183506 = {
+	name = "Lebna"
+	dynasty = 1042636
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145972
+	10845.1.1 = {
+		birth = "10845.1.1"
+	}
+	10895.1.1 = {
+		death = "10895.1.1"
+	}
+}
+
+183507 = {
+	name = "Yostos"
+	dynasty = 1042637
+	religion = "coptic"
+	culture = "ethiopian"
+	10842.1.1 = {
+		birth = "10842.1.1"
+	}
+	10900.1.1 = {
+		death = "10900.1.1"
+	}
+}
+
+183508 = {
+	name = "Merkourios"
+	dynasty = 1042638
+	religion = "coptic"
+	culture = "ethiopian"
+	10839.1.1 = {
+		birth = "10839.1.1"
+	}
+	10895.1.1 = {
+		death = "10895.1.1"
+	}
+}
+
+183509 = {
+	name = "Hakym"
+	dynasty = 1042639
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145975
+	10835.1.1 = {
+		birth = "10835.1.1"
+	}
+	10885.1.1 = {
+		death = "10885.1.1"
+	}
+}
+
+183510 = {
+	name = "Tessema"
+	dynasty = 1042640
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145978
+	10840.1.1 = {
+		birth = "10840.1.1"
+	}
+	10905.1.1 = {
+		death = "10905.1.1"
+	}
+}
+
+145633 = {
+	name = "Nizam"
+	dynasty = 1022240
+	religion = "ashari"
+	culture = "ethiopian"
+	10844.1.1 = {
+		birth = "10844.1.1"
+	}
+	10899.1.1 = {
+		death = "10899.1.1"
+	}
+}
+
+145634 = {
+	name = "Maya_ir"
+	dynasty = 1022241
+	religion = "ashari"
+	culture = "ethiopian"
+	11044.1.1 = {
+		birth = "11044.1.1"
+	}
+	11098.1.1 = {
+		death = "11098.1.1"
+	}
+}
+
+
+145635 = {
+	name = "Harba_ir"
+	dynasty = 1022241
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 145634
+	11064.1.1 = {
+		birth = "11064.1.1"
+	}
+	11121.1.1 = {
+		death = "11121.1.1"
+	}
+}
+
+145636 = {
+	name = "Hisham"
+	dynasty = 1022241
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 145635
+	11092.1.1 = {
+		birth = "11092.1.1"
+	}
+	11157.1.1 = {
+		death = "11157.1.1"
+	}
+}
+
+145637 = {
+	name = "Malasma_i"
+	dynasty = 1022241
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 145636
+	11128.1.1 = {
+		birth = "11128.1.1"
+	}
+	11183.8.24 = {
+		death = "11183.8.24"
+	}
+}
+
+145638 = {
+	name = "Husein"
+	dynasty = 1022241
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 145637
+	11152.1.1 = {
+		birth = "11152.1.1"
+	}
+	11193.1.1 = {
+		death = "11193.1.1"
+	}
+}
+
+145639 = {
+	name = "Abdallah"
+	dynasty = 1022241
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 145638
+	11175.1.1 = {
+		birth = "11175.1.1"
+	}
+	11235.1.1 = {
+		death = "11235.1.1"
+	}
+}
+
+145640 = {
+	name = "Mahamed"
+	dynasty = 1022241
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 145638
+	11178.1.1 = {
+		birth = "11178.1.1"
+	}
+	11239.1.1 = {
+		death = "11239.1.1"
+	}
+}
+
+145641 = {
+	name = "Malzarrah"
+	dynasty = 1022241
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 145640
+	11197.1.1 = {
+		birth = "11197.1.1"
+	}
+	11252.1.1 = {
+		death = "11252.1.1"
+	}
+}
+
+145768 = {
+	name = "Ganah"
+	dynasty = 1022241
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 145640
+	11206.1.1 = {
+		birth = "11206.1.1"
+	}
+	11262.1.1 = {
+		death = "11262.1.1"
+	}
+}
+
+145769 = {
+	name = "Giram-Gazi"
+	dynasty = 1022241
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 145768
+	11231.1.1 = {
+		birth = "11231.1.1"
+	}
+	11269.1.1 = {
+		death = "11269.1.1"
+	}
+}
+
+145770 = {
+	name = "Dilgamis"
+	dynasty = 1022241
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 145768
+	11229.1.1 = {
+		birth = "11229.1.1"
+	}
+	11281.1.1 = {
+		death = "11281.1.1"
+	}
+}
+
+145771 = {
+	name = "Dilmarrah"
+	dynasty = 1022241
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 145641
+	11246.1.1 = {
+		birth = "11246.1.1"
+	}
+	11283.1.1 = {
+		death = "11283.1.1"
+	}
+}
+
+145772 = {
+	name = "Abdallah"
+	dynasty = 1022241
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 145768
+	11233.1.1 = {
+		birth = "11233.1.1"
+	}
+	11285.1.1 = {
+		death = "11285.1.1"
+	}
+}
+
+145773 = {
+	name = "Mahamed"
+	dynasty = 1022241
+	religion = "ashari"
+	culture = "ethiopian"
+	father = 145771
+	11272.1.1 = {
+		birth = "11272.1.1"
+	}
+	11285.1.1 = {
+		death = "11285.1.1"
+	}
+}
+
+145642 = {
+	name = "Phineas"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	10723.1.1 = {
+		birth = "10723.1.1"
+	}
+	10774.1.1 = {
+		death = "10774.1.1"
+	}
+}
+
+145643 = {
+	name = "Gideon"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145642
+	10755.1.1 = {
+		birth = "10755.1.1"
+	}
+	10817.1.1 = {
+		death = "10817.1.1"
+	}
+}
+
+145644 = {
+	name = "Yacob"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145643
+	10778.1.1 = {
+		birth = "10778.1.1"
+	}
+	10831.1.1 = {
+		death = "10831.1.1"
+	}
+}
+
+145645 = {
+	name = "Gideon"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145644
+	10813.1.1 = {
+		birth = "10813.1.1"
+	}
+	10857.1.1 = {
+		death = "10857.1.1"
+	}
+}
+
+145646 = {
+	name = "Dawit"
+	dna = "145646_dawit_dembiya"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	diplomacy = 6
+	martial = 3
+	stewardship = 4
+	intrigue = 3
+	learning = 6
+	trait = education_diplomacy_2
+	trait = zealous
+	trait = stubborn
+	trait = temperate
+	father = 145645
+	10834.1.1 = {
+		birth = "10834.1.1"
+	}
+	10889.1.1 = {
+		death = "10889.1.1"
+	}
+}
+
+145647 = {
+	name = "Gideon"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145646
+	10855.1.1 = {
+		birth = "10855.1.1"
+	}
+	10918.1.1 = {
+		death = "10918.1.1"
+	}
+}
+
+145648 = {
+	name = "Kaleb"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145647
+	10892.1.1 = {
+		birth = "10892.1.1"
+	}
+	10949.1.1 = {
+		death = "10949.1.1"
+	}
+}
+
+145649 = {
+	name = "Gideon"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145648
+	10911.1.1 = {
+		birth = "10911.1.1"
+	}
+	10960.1.1 = {
+		death = "10960.1.1"
+	}
+}
+
+145650 = {
+	name = "Gudit"
+	female = yes
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145649
+	10929.1.1 = {
+		birth = "10929.1.1"
+	}
+	11001.1.1 = {
+		death = "11001.1.1"
+	}
+}
+
+145651 = {
+	name = "Goshen"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	mother = 145650
+	10952.1.1 = {
+		birth = "10952.1.1"
+	}
+	11008.1.1 = {
+		death = "11008.1.1"
+	}
+}
+
+145652 = {
+	name = "Joram"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	mother = 145650
+	10956.1.1 = {
+		birth = "10956.1.1"
+	}
+	11019.1.1 = {
+		death = "11119.1.1"
+	}
+}
+
+145653 = {
+	name = "Eremias"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145652
+	10987.1.1 = {
+		birth = "10987.1.1"
+	}
+	11046.1.1 = {
+		death = "11146.1.1"
+	}
+}
+
+145654 = {
+	name = "Dawit"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145653
+	11010.1.1 = {
+		birth = "11010.1.1"
+	}
+	11053.1.1 = {
+		death = "11053.1.1"
+	}
+}
+
+145655 = {
+	name = "Dawit"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145654
+	11049.1.1 = {
+		birth = "11049.1.1"
+	}
+	11102.1.1 = {
+		death = "11102.1.1"
+	}
+}
+
+145656 = {
+	name = "Radi"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145655
+	11070.1.1 = {
+		birth = "11070.1.1"
+	}
+	11125.1.1 = {
+		death = "11125.1.1"
+	}
+}
+
+145657 = {
+	name = "Zadok"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145656
+	11104.1.1 = {
+		birth = "11104.1.1"
+	}
+	11166.1.1 = {
+		death = "11166.1.1"
+	}
+}
+
+145658 = {
+	name = "Azariah"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145657
+	11143.1.1 = {
+		birth = "11143.1.1"
+	}
+	11201.1.1 = {
+		death = "11201.1.1"
+	}
+}
+
+145659 = {
+	name = "Solomon"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145658
+	11180.1.1 = {
+		birth = "11180.1.1"
+	}
+	11237.1.1 = {
+		death = "11237.1.1"
+	}
+}
+
+145660 = {
+	name = "Ezana"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145659
+	11205.1.1 = {
+		birth = "11205.1.1"
+	}
+	11268.1.1 = {
+		death = "11268.1.1"
+	}
+}
+
+145661 = {
+	name = "Loua"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145660
+	11237.1.1 = {
+		birth = "11237.1.1"
+	}
+	11299.1.1 = {
+		death = "11299.1.1"
+	}
+}
+
+145662 = {
+	name = "Eliya"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145661
+	11255.1.1 = {
+		birth = "11255.1.1"
+	}
+	11321.1.1 = {
+		death = "11321.1.1"
+	}
+}
+
+145663 = {
+	name = "Dawit"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145662
+	11296.1.1 = {
+		birth = "11296.1.1"
+	}
+	11354.1.1 = {
+		death = "11354.1.1"
+	}
+}
+
+145664 = {
+	name = "Yacob"
+	dynasty = 1022242
+	religion = "haymanot"
+	culture = "ethiopian"
+	father = 145663
+	11317.1.1 = {
+		birth = "11317.1.1"
+	}
+	11378.1.1 = {
+		death = "11378.1.1"
+	}
+}
+
+145736 = {
+	name = "Bekele"
+	dynasty = 1022257
+	religion = "coptic"
+	culture = "ethiopian"
+	11040.1.1 = {
+		birth = "11040.1.1"
+	}
+	11097.1.1 = {
+		death = "11097.1.1"
+	}
+}
+
+145737 = {
+	name = "Eremias"
+	dynasty = 1022257
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145736
+	11073.1.1 = {
+		birth = "11073.1.1"
+	}
+	11125.1.1 = {
+		death = "11125.1.1"
+	}
+}
+
+145738 = {
+	name = "Gabra"
+	dynasty = 1022257
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145737
+	11095.1.1 = {
+		birth = "11095.1.1"
+	}
+	11147.1.1 = {
+		death = "11147.1.1"
+	}
+}
+
+145739 = {
+	name = "Iskander"
+	dynasty = 1022257
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145738
+	11138.1.1 = {
+		birth = "11138.1.1"
+	}
+	11200.1.1 = {
+		death = "11200.1.1"
+	}
+}
+
+145740 = {
+	name = "Kafa"
+	dynasty = 1022257
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145739
+	11172.1.1 = {
+		birth = "11172.1.1"
+	}
+	11221.1.1 = {
+		death = "11221.1.1"
+	}
+}
+
+145741 = {
+	name = "Zula"
+	dynasty = 1022257
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145740
+	11204.1.1 = {
+		birth = "11204.1.1"
+	}
+	11258.1.1 = {
+		death = "11258.1.1"
+	}
+}
+
+145742 = {
+	name = "Teruworq"
+	dynasty = 1022257
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145741
+	11237.1.1 = {
+		birth = "11237.1.1"
+	}
+	11282.1.1 = {
+		death = "11282.1.1"
+	}
+}
+
+145743 = {
+	name = "Miruts"
+	dynasty = 1022257
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145742
+	11262.1.1 = {
+		birth = "11262.1.1"
+	}
+	11320.1.1 = {
+		death = "11320.1.1"
+	}
+}
+
+145744 = {
+	name = "Negash"
+	dynasty = 1022257
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145742
+	11266.1.1 = {
+		birth = "11266.1.1"
+	}
+	11333.1.1 = {
+		death = "11333.1.1"
+	}
+}
+
+145745 = {
+	name = "Mamo"
+	dynasty = 1022257
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145744
+	11292.1.1 = {
+		birth = "11292.1.1"
+	}
+	11350.1.1 = {
+		death = "11350.1.1"
+	}
+}
+
+145746 = {
+	name = "Yohannas"
+	dynasty = 1022258
+	religion = "coptic"
+	culture = "ethiopian"
+	11022.1.1 = {
+		birth = "11022.1.1"
+	}
+	11074.1.1 = {
+		death = "11074.1.1"
+	}
+}
+
+145747 = {
+	name = "Tewodros"
+	dynasty = 1022258
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145746
+	11054.1.1 = {
+		birth = "11054.1.1"
+	}
+	11096.1.1 = {
+		death = "11096.1.1"
+	}
+}
+
+145748 = {
+	name = "Abai"
+	dynasty = 1022258
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145746
+	11057.1.1 = {
+		birth = "11057.1.1"
+	}
+	11116.1.1 = {
+		death = "11116.1.1"
+	}
+}
+
+145749 = {
+	name = "Gondar"
+	dynasty = 1022258
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145748
+	11096.1.1 = {
+		birth = "11096.1.1"
+	}
+	11159.1.1 = {
+		death = "11159.1.1"
+	}
+}
+
+145750 = {
+	name = "Ogbai"
+	dynasty = 1022258
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145749
+	11123.1.1 = {
+		birth = "11123.1.1"
+	}
+	11177.1.1 = {
+		death = "11177.1.1"
+	}
+}
+
+145751 = {
+	name = "Negus"
+	dynasty = 1022258
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145750
+	11159.1.1 = {
+		birth = "11159.1.1"
+	}
+	11223.1.1 = {
+		death = "11223.1.1"
+	}
+}
+
+145752 = {
+	name = "Loua"
+	dynasty = 1022258
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145751
+	11190.1.1 = {
+		birth = "11190.1.1"
+	}
+	11244.1.1 = {
+		death = "11244.1.1"
+	}
+}
+
+145753 = {
+	name = "Jima"
+	dynasty = 1022258
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145752
+	11230.1.1 = {
+		birth = "11230.1.1"
+	}
+	11276.1.1 = {
+		death = "11276.1.1"
+	}
+}
+
+145754 = {
+	name = "Ezana"
+	dynasty = 1022258
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145753
+	11268.1.1 = {
+		birth = "11268.1.1"
+	}
+	11335.1.1 = {
+		death = "11335.1.1"
+	}
+}
+
+145755 = {
+	name = "Yonas"
+	dynasty = 1022258
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145754
+	11300.1.1 = {
+		birth = "11300.1.1"
+	}
+	11361.1.1 = {
+		death = "11361.1.1"
+	}
+}
+
+145756 = {
+	name = "Tariku"
+	dynasty = 1022259
+	religion = "coptic"
+	culture = "ethiopian"
+	11050.1.1 = {
+		birth = "11050.1.1"
+	}
+	11116.1.1 = {
+		death = "11116.1.1"
+	}
+}
+
+145757 = {
+	name = "Iskinder"
+	dynasty = 1022259
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145756
+	11090.1.1 = {
+		birth = "11090.1.1"
+	}
+	11149.1.1 = {
+		death = "11049.1.1"
+	}
+}
+
+145758 = {
+	name = "Gebre"
+	dynasty = 1022259
+	religion = "coptic"
+	culture = "ethiopian"
+	stewardship = 8
+	father = 145757
+	11135.1.1 = {
+		birth = "11135.1.1"
+	}
+	11201.1.1 = {
+		death = "11201.1.1"
+	}
+}
+
+145759 = {
+	name = "Dawit"
+	dynasty = 1022259
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145758
+	11157.1.1 = {
+		birth = "11179.1.1"
+	}
+	11212.1.1 = {
+		death = "11212.1.1"
+	}
+}
+
+145760 = {
+	name = "Oromo"
+	dynasty = 1022259
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145759
+	11182.1.1 = {
+		birth = "11182.1.1"
+	}
+	11224.1.1 = {
+		death = "11224.1.1"
+	}
+}
+
+145761 = {
+	name = "Fethee"
+	dynasty = 1022259
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145759
+	11184.1.1 = {
+		birth = "11184.1.1"
+	}
+	11229.1.1 = {
+		death = "11229.1.1"
+	}
+}
+
+145762 = {
+	name = "Demissie"
+	dynasty = 1022259
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145759
+	11186.1.1 = {
+		birth = "11186.1.1"
+	}
+	11245.1.1 = {
+		death = "11245.1.1"
+	}
+}
+
+145763 = {
+	name = "Abebe"
+	dynasty = 1022259
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145762
+	11226.1.1 = {
+		birth = "11226.1.1"
+	}
+	11289.1.1 = {
+		death = "11289.1.1"
+	}
+}
+
+145764 = {
+	name = "Benaim"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32236
+	11247.1.1 = {
+		birth = "11247.1.1"
+	}
+	11308.1.1 = {
+		death = "11308.1.1"
+	}
+}
+
+145765 = {
+	name = "Tesfaye"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145764
+	11282.1.1 = {
+		birth = "11282.1.1"
+	}
+	11344.1.1 = {
+		death = "11344.1.1"
+	}
+}
+
+145766 = {
+	name = "Merille"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145765
+	11308.1.1 = {
+		birth = "11308.1.1"
+	}
+	11365.1.1 = {
+		death = "11365.1.1"
+	}
+}
+
+145774 = {
+	name = "Azmera"
+	dynasty = 1022260
+	religion = "coptic"
+	culture = "ethiopian"
+	11021.1.1 = {
+		birth = "11021.1.1"
+	}
+	11074.1.1 = {
+		death = "11074.1.1"
+	}
+}
+
+145775 = {
+	name = "Hagos"
+	dynasty = 1022260
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145774
+	11050.1.1 = {
+		birth = "11050.1.1"
+	}
+	11101.1.1 = {
+		death = "11101.1.1"
+	}
+}
+
+145776 = {
+	name = "Selassie"
+	dynasty = 1022260
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145775
+	11085.1.1 = {
+		birth = "11085.1.1"
+	}
+	11141.1.1 = {
+		death = "11141.1.1"
+	}
+}
+
+145777 = {
+	name = "Yacob"
+	dynasty = 1022260
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145776
+	11112.1.1 = {
+		birth = "11112.1.1"
+	}
+	11175.1.1 = {
+		death = "11175.1.1"
+	}
+}
+
+145778 = {
+	name = "Iyasu"
+	dynasty = 1022260
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145777
+	11137.1.1 = {
+		birth = "11137.1.1"
+	}
+	11198.1.1 = {
+		death = "11198.1.1"
+	}
+}
+
+145779 = {
+	name = "Negasi"
+	dynasty = 1022260
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145778
+	11176.1.1 = {
+		birth = "11176.1.1"
+	}
+	11239.1.1 = {
+		death = "11239.1.1"
+	}
+}
+
+145780 = {
+	name = "Fasilidas"
+	dynasty = 1022260
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145779
+	11200.1.1 = {
+		birth = "11200.1.1"
+	}
+	11256.1.1 = {
+		death = "11256.1.1"
+	}
+}
+
+145781 = {
+	name = "Tekle"
+	dynasty = 1022260
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145780
+	11229.1.1 = {
+		birth = "11229.1.1"
+	}
+	11287.1.1 = {
+		death = "11287.1.1"
+	}
+}
+
+145782 = {
+	name = "Kaleb"
+	dynasty = 1022260
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145781
+	11272.1.1 = {
+		birth = "11272.1.1"
+	}
+	11331.1.1 = {
+		death = "11331.1.1"
+	}
+}
+
+145783 = {
+	name = "Berhanua"
+	dynasty = 1022260
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145782
+	11298.1.1 = {
+		birth = "11298.1.1"
+	}
+	11362.1.1 = {
+		death = "11362.1.1"
+	}
+}
+
+145970 = {
+	name = "Afework"
+	dynasty = 1042636
+	religion = "coptic"
+	culture = "ethiopian"
+
+	10743.1.1 = {
+		birth = "10743.1.1"
+	}
+	10798.1.1 = {
+		death = "10798.1.1"
+	}
+}
+
+145971 = {
+	name = "Hackeem"
+	dynasty = 1042636
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145970
+	10760.1.1 = {
+		birth = "10760.1.1"
+	}
+	10823.1.1 = {
+		death = "10823.1.1"
+	}
+}
+
+145972 = {
+	name = "Kelile"
+	dynasty = 1042636
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145971
+	10805.1.1 = {
+		birth = "10805.1.1"
+	}
+	10862.1.1 = {
+		death = "10862.1.1"
+	}
+}
+
+145973 = {
+	name = "Mekonnen"
+	dynasty = 1042639
+	religion = "coptic"
+	culture = "ethiopian"
+
+	10738.1.1 = {
+		birth = "10738.1.1"
+	}
+	10793.1.1 = {
+		death = "10793.1.1"
+	}
+}
+
+145974 = {
+	name = "Semer"
+	dynasty = 1042639
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145973
+	10755.1.1 = {
+		birth = "10755.1.1"
+	}
+	10818.1.1 = {
+		death = "10818.1.1"
+	}
+}
+
+145975 = {
+	name = "Tefere"
+	dynasty = 1042639
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145974
+	10800.1.1 = {
+		birth = "10800.1.1"
+	}
+	10854.1.1 = {
+		death = "10854.1.1"
+	}
+}
+
+145976 = {
+	name = "Aman"
+	dynasty = 1042640
+	religion = "coptic"
+	culture = "ethiopian"
+
+	10733.1.1 = {
+		birth = "10733.1.1"
+	}
+	10788.1.1 = {
+		death = "10788.1.1"
+	}
+}
+
+145977 = {
+	name = "Gebereal"
+	dynasty = 1042640
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145976
+	10750.1.1 = {
+		birth = "10750.1.1"
+	}
+	10813.1.1 = {
+		death = "10813.1.1"
+	}
+}
+
+145978 = {
+	name = "Hakim"
+	dynasty = 1042640
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145976
+	10795.1.1 = {
+		birth = "10795.1.1"
+	}
+	10858.1.1 = {
+		death = "10858.1.1"
+	}
+}
+
+145979 = {
+	name = "Ogbae"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+
+	10728.1.1 = {
+		birth = "10728.1.1"
+	}
+	10783.1.1 = {
+		death = "10783.1.1"
+	}
+}
+
+145980 = {
+	name = "Dahnay"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145979
+	10745.1.1 = {
+		birth = "10745.1.1"
+	}
+	10801.1.1 = {
+		death = "10801.1.1"
+	}
+}
+
+145981 = {
+	name = "Kifle"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145995
+	10790.1.1 = {
+		birth = "10790.1.1"
+	}
+	10853.1.1 = {
+		death = "10853.1.1"
+	}
+}
+
+145982 = {
+	name = "Melaku"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145981
+	10835.1.1 = {
+		birth = "10835.1.1"
+	}
+	10895.1.1 = {
+		death = "10895.1.1"
+	}
+}
+
+145983 = {
+	name = "Degna_Mikael"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+
+	10620.1.1 = {
+		birth = "10620.1.1"
+	}
+	10677.1.1 = {
+		death = "10677.1.1"
+	}
+}
+
+145984 = {
+	name = "Bahr_Ikela"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145983
+	10640.1.1 = {
+		birth = "10640.1.1"
+	}
+	10696.1.1 = {
+		death = "10696.1.1"
+	}
+}
+145985 = {
+	name = "Gum"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145984
+	10658.1.1 = {
+		birth = "10658.1.1"
+	}
+	10720.1.1 = {
+		death = "10720.1.1"
+	}
+}
+
+145986 = {
+	name = "Asgwomgum"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145984
+	10660.1.1 = {
+		birth = "10660.1.1"
+	}
+	10725.1.1 = {
+		death = "10725.1.1"
+	}
+}
+
+145987 = {
+	name = "Letem"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145986
+	10679.1.1 = {
+		birth = "10679.1.1"
+	}
+	10741.1.1 = {
+		death = "10741.1.1"
+	}
+}
+
+145988 = {
+	name = "Talatem"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145987
+	10698.1.1 = {
+		birth = "10698.1.1"
+	}
+	10762.1.1 = {
+		death = "10762.1.1"
+	}
+}
+
+145989 = {
+	name = "Oda_Gosh"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	trait = zealous
+	trait = celibate
+	trait = generous
+	trait = just
+	trait = education_diplomacy_3
+	father = 145988
+	10718.1.1 = {
+		birth = "10718.1.1"
+	}
+	10775.1.1 = {
+		death = "10775.1.1"
+	}
+}
+
+145990 = {
+	name = "Ayzur"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145988
+	10720.1.1 = {
+		birth = "10720.1.1"
+	}
+	10775.1.2 = {
+		death = "10775.1.2"
+	}
+}
+
+145991 = {
+	name = "Dedem"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145988
+	10722.1.1 = {
+		birth = "10722.1.1"
+	}
+	10780.1.1 = {
+		death = "10780.1.1"
+	}
+}
+
+145992 = {
+	name = "Wededem"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145991
+	10741.1.1 = {
+		birth = "10741.1.1"
+	}
+	10790.1.1 = {
+		death = "10790.1.1"
+	}
+}
+
+145993 = {
+	name = "Wedem_Asfare"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145992
+	10762.1.1 = {
+		birth = "10762.1.1"
+	}
+	10820.1.1 = {
+		death = "10820.1.1"
+	}
+}
+
+145994 = {
+	name = "Rema_Armah"
+	dynasty = 7246
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145990
+	10760.1.1 = {
+		birth = "10760.1.1"
+	}
+	10825.1.1 = {
+		death = "10825.1.1"
+	}
+}
+
+145995 = {
+	name = "Assefa"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 145980
+	10763.1.1 = {
+		birth = "10763.1.1"
+	}
+	10808.1.1 = {
+		death = "10808.1.1"
+	}
+}
+
+170196 = {
+	name = "Jamal-ud-Din_Yaqut"
+	religion = "ashari"
+	culture = "ethiopian"
+	11196.1.1 = {
+		birth = "11196.1.1"
+		employer = 170191
+	}
+	11211.1.1 = {
+		employer = 170193
+	}
+	11236.5.1 = {
+		employer = 170194
+	}
+	11236.11.20 = {
+		employer = 170195
+	}
+	11239.10.1 = {
+		death = "11239.10.1"
+	}
+}
+
+zagwe_1 = {
+	name = "Yetbarak"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32233
+	11178.1.1 = {
+		birth = yes
+	}
+	11268.1.1 = {
+		death = yes
+	}
+}
+
+zagwe_2 = {
+	name = "Tantawedem"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32229
+	10991.1.1 = {
+		birth = yes
+	}
+	11050.1.1 = {
+		death = yes
+	}
+}
+
+zagwe_3 = {
+	name = "Jan_Seyum"
+	dynasty = 101793
+	religion = "coptic"
+	culture = "ethiopian"
+	father = 32229
+	10992.1.1 = {
+		birth = yes
+	}
+	11051.1.1 = {
+		death = yes
+	}
+}

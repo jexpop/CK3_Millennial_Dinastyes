@@ -1,0 +1,10 @@
+﻿bm_test = {
+	start_date = 9248.1.1
+	is_playable = yes
+	group = bm_group_ancient_iron
+
+	weight = {
+		value = 0
+	}
+
+}

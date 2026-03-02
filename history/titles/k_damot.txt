@@ -1,0 +1,573 @@
+d_damot = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 20 }
+
+	10763.1.1 = {
+		liege = 0
+	holder = 145970
+	government = tribal_government
+	}
+	10798.1.1 = {
+		holder = 145971
+	}
+	10823.1.1 = {
+		holder = 145972
+	}
+	10862.1.1 = {
+		holder = 183506
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11059.1.1 = {
+	#liege = "k_abyssinia"
+	holder = 145736
+	}
+	11097.1.1 = {
+		holder = 145737
+	}
+	11125.1.1 = {
+		holder = 145738
+	}
+	11147.1.1 = {
+		holder = 145739
+	}
+	11200.1.1 = {
+		holder = 145740
+	}
+	11221.1.1 = {
+		holder = 145741
+	}
+	11258.1.1 = {
+		holder = 145742
+	}
+	11282.1.1 = {
+		holder = 145743
+	}
+	11320.1.1 = {
+		holder = 145744
+	}
+	11333.1.1 = {
+		holder = 145745
+	}
+}
+
+
+c_damot = {
+	10763.1.1 = {
+		liege = "d_damot"
+	holder = 145970
+	government = tribal_government
+	}
+	10798.1.1 = {
+		holder = 145971
+	}
+	10823.1.1 = {
+		holder = 145972
+	}
+	10862.1.1 = {
+		holder = 183506
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11059.1.1 = {
+		holder = 145736
+	}
+	11097.1.1 = {
+		holder = 145737
+	}
+	11125.1.1 = {
+		holder = 145738
+	}
+	11147.1.1 = {
+		holder = 145739
+	}
+	11200.1.1 = {
+		holder = 145740
+	}
+	11221.1.1 = {
+		holder = 145741
+	}
+	11258.1.1 = {
+		holder = 145742
+	}
+	11282.1.1 = {
+		holder = 145743
+	}
+	11320.1.1 = {
+		holder = 145744
+	}
+	11333.1.1 = {
+		holder = 145745
+	}
+}
+
+
+c_berta = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+
+	10860.1.1 = {
+		liege = "d_damot"
+		holder = welayta0061
+		government = tribal_government
+	}
+	10890.1.1 = {
+		holder = welayta0062
+	}
+	10933.1.1 = {
+		holder = welayta0063
+	}
+	10990.1.1 = {
+		holder = welayta0064
+	}
+	11050.1.1 = {
+		holder = welayta0065
+	}
+	11081.1.1 = {
+		holder = welayta0066
+	}
+	11120.1.1 = {
+		holder = welayta0067
+	}
+	11159.1.1 = {
+		holder = welayta0068
+	}
+	11199.1.1 = {
+		holder = welayta0069
+	}
+	11235.1.1 = {
+		holder = welayta0070
+	}
+}
+
+
+c_wellega = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+
+	10860.1.1 = {
+		holder = welayta0071
+		government = tribal_government
+	}
+	10898.1.1 = {
+		holder = welayta0072
+	}
+	10950.1.1 = {
+		holder = welayta0073
+	}
+	11000.1.1 = {
+		holder = welayta0074
+	}
+	11035.1.1 = {
+		holder = welayta0075
+	}
+	11065.1.1 = {
+		liege = "d_damot"
+	}
+	11070.1.1 = {
+		holder = welayta0076
+	}
+	11098.1.1 = {
+		holder = welayta0077
+	}
+	11133.1.1 = {
+		holder = welayta0078
+	}
+	11163.1.1 = {
+		holder = welayta0079
+	}
+	11195.1.1 = {
+		holder = welayta0080
+	}
+}
+
+
+c_innarya = {
+	10763.1.1 = {
+		liege = "d_damot"
+	holder = 145970
+	government = tribal_government
+	}
+	10798.1.1 = {
+		holder = 145971
+	}
+	10823.1.1 = {
+		holder = 145972
+	}
+	10862.1.1 = {
+		holder = 183506
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11059.1.1 = {
+		holder = 145736
+	}
+	11097.1.1 = {
+		holder = 145737
+	}
+	11125.1.1 = {
+		holder = 145738
+	}
+	11147.1.1 = {
+		holder = 145739
+	}
+	11200.1.1 = {
+		holder = 145740
+	}
+	11221.1.1 = {
+		holder = 145741
+	}
+	11258.1.1 = {
+		holder = 145742
+	}
+	11282.1.1 = {
+		holder = 145743
+	}
+	11320.1.1 = {
+		holder = 145744
+	}
+	11333.1.1 = {
+		holder = 145745
+	}
+}
+
+
+c_kaffa = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 4 }
+	11178.1.1 = { change_development_level = 6 }
+
+	10860.1.1 = {
+		holder = welayta0071
+		government = tribal_government
+	}
+	10898.1.1 = {
+		holder = welayta0072
+	}
+	10950.1.1 = {
+		holder = welayta0073
+	}
+	11000.1.1 = {
+		holder = welayta0074
+	}
+	11035.1.1 = {
+		holder = welayta0075
+	}
+	11065.1.1 = {
+		liege = "d_damot"
+	}
+	11070.1.1 = {
+		holder = welayta0076
+	}
+	11098.1.1 = {
+		holder = welayta0077
+	}
+	11133.1.1 = {
+		holder = welayta0078
+	}
+	11163.1.1 = {
+		holder = welayta0079
+	}
+	11195.1.1 = {
+		holder = welayta0080
+	}
+}
+
+
+c_welamo = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 4 }
+	11178.1.1 = { change_development_level = 6 }
+
+	10850.1.1 = {
+		government = tribal_government
+		holder = welayta0041
+	}
+	10893.1.1 = {
+		holder = welayta0042
+	}
+	10918.1.1 = {
+		holder = welayta0043
+	}
+	10968.1.1 = {
+		holder = welayta0044
+	}
+	11025.1.1 = {
+		holder = welayta0045
+	}
+	11066.1.1 = {
+		holder = welayta0046
+	}
+	11097.1.1 = {
+		holder = welayta0047
+	}
+	11173.1.1 = {
+		holder = welayta0048
+	}
+	11176.1.1 = {
+		holder = welayta0049
+	}
+	11210.1.1 = {
+		holder = welayta0050
+	}
+}
+
+
+c_gamo = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+
+	10860.1.1 = {
+		government = tribal_government
+		holder = welayta0041
+	}
+	10893.1.1 = {
+		holder = welayta0042
+	}
+	10918.1.1 = {
+		holder = welayta0043
+	}
+	10968.1.1 = {
+		holder = welayta0044
+	}
+	11025.1.1 = {
+		holder = welayta0045
+	}
+	11066.1.1 = {
+		holder = welayta0046
+	}
+	11097.1.1 = {
+		holder = welayta0047
+	}
+	11173.1.1 = {
+		holder = welayta0048
+	}
+	11176.1.1 = {
+		holder = welayta0049
+	}
+	11210.1.1 = {
+		holder = welayta0050
+	}
+}
+
+
+c_sharka = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 8 }
+
+	10758.1.1 = {
+		liege = "d_showa"
+	holder = 145973
+	government = tribal_government
+	}
+	10793.1.1 = {
+		holder = 145974
+	}
+	10818.1.1 = {
+		holder = 145975
+	}
+	10854.1.1 = {
+		holder = 183509
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11040.1.1 = {
+		holder = 145774
+	}
+	11074.1.1 = {
+		holder = 145775
+	}
+	11101.1.1 = {
+		holder = 145776
+	}
+	11141.1.1 = {
+		holder = 145777
+	}
+	11175.1.1 = {
+		holder = 145778
+	}
+	11198.1.1 = {
+		holder = 145779
+	}
+	11239.1.1 = {
+		holder = 145780
+	}
+	11256.1.1 = {
+		holder = 145781
+	}
+	11287.1.1 = {
+		holder = 145782
+	}
+	11331.1.1 = {
+		holder = 145783
+	}
+	11332.1.1 = {
+		liege = "d_showa"
+	}
+}
+
+
+c_burji = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+
+	10860.1.1 = {
+		holder = welayta0031
+		government = tribal_government
+	}
+	10899.1.1 = {
+		holder = welayta0032
+	}
+	10950.1.1 = {
+		holder = welayta0033
+	}
+	11005.1.1 = {
+		holder = welayta0034
+	}
+	11058.1.1 = {
+		holder = welayta0035
+	}
+	11102.1.1 = {
+		holder = welayta0036
+	}
+	11136.1.1 = {
+		holder = welayta0037
+	}
+	11178.1.1 = {
+		holder = welayta0038
+	}
+	11221.1.1 = {
+		holder = welayta0039
+	}
+	11263.1.1 = {
+		holder = welayta0040
+	}
+}
+
+
+c_dara = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 5 }
+
+	10860.1.1 = {
+		holder = welayta0031
+		government = tribal_government
+	}
+	10899.1.1 = {
+		holder = welayta0032
+	}
+	10950.1.1 = {
+		holder = welayta0033
+	}
+	11005.1.1 = {
+		holder = welayta0034
+	}
+	11058.1.1 = {
+		holder = welayta0035
+	}
+	11102.1.1 = {
+		holder = welayta0036
+	}
+	11136.1.1 = {
+		holder = welayta0037
+	}
+	11178.1.1 = {
+		holder = welayta0038
+	}
+	11221.1.1 = {
+		holder = welayta0039
+	}
+	11263.1.1 = {
+		holder = welayta0040
+	}
+	# Walashma
+	11285.1.1 = {
+		government = clan_government
+		holder = 32892
+	}
+	11304.1.1 = {
+		holder = 32943
+	}
+	11321.1.1 = {
+		holder = 32944
+	}
+	11328.1.1 = {
+		holder = 32945
+	}
+	
+	# Getachew
+	
+	11332.1.1 = {
+		holder = 145783
+	}
+}
+
+
+c_hadya = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 8 }
+
+	10758.1.1 = {
+		liege = "d_showa"
+	holder = 145973
+	government = tribal_government
+	}
+	10793.1.1 = {
+		holder = 145974
+	}
+	10818.1.1 = {
+		holder = 145975
+	}
+	10854.1.1 = {
+		holder = 183509
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11040.1.1 = {
+		holder = 145774
+	}
+	11074.1.1 = {
+		holder = 145775
+	}
+	11101.1.1 = {
+		holder = 145776
+	}
+	11141.1.1 = {
+		holder = 145777
+	}
+	11175.1.1 = {
+		holder = 145778
+	}
+	11198.1.1 = {
+		holder = 145779
+	}
+	11239.1.1 = {
+		holder = 145780
+	}
+	11256.1.1 = {
+		holder = 145781
+	}
+	11287.1.1 = {
+		holder = 145782
+	}
+	11331.1.1 = {
+		holder = 145783
+	}
+	11332.1.1 = {
+		liege = "d_showa"
+	}
+}
+

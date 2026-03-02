@@ -1,0 +1,480 @@
+﻿6830 = {
+	name = "Nuyanza"
+	dynasty = 829
+	religion = "finnish_pagan"
+	culture = "estonian"
+	trait = content
+	10837.1.1 = {
+		birth = yes
+	}
+	10885.1.1 = {
+		death = yes
+	}
+}
+
+144640 = {
+	name = "Viryas"
+	dynasty = 100376
+	religion = "finnish_pagan"
+	culture = "estonian"
+	father = 28021
+	11100.1.1 = {
+		birth = "11100.1.1"
+	}
+	11170.1.1 = {
+		death = "11170.1.1"
+	}
+}
+
+28021 = {
+	name = "VA_rvo"
+	dynasty = 100376
+	martial = 8
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 6
+	religion = "finnish_pagan"
+	culture = "estonian"
+	trait = education_martial_3
+	11050.1.1 = {
+		birth = "11050.1.1"
+	}
+	11120.1.1 = {
+		death = "11120.1.1"
+	}
+}
+
+228021 = {
+	name = "Dergun"
+	dynasty = 100376
+	religion = "finnish_pagan"
+	culture = "estonian"
+	father = 144640
+	11150.1.1 = {
+		birth = "11150.1.1"
+	}
+	11228.1.1 = {
+		death = "11228.1.1"
+	}
+}
+
+28023 = {
+	name = "Tasulemb"
+	dynasty = 100377
+	martial = 7
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 4
+	religion = "finnish_pagan"
+	culture = "estonian"
+	trait = diligent
+	trait = education_martial_2
+	11039.1.1 = {
+		birth = "11039.1.1"
+	}
+	11089.1.1 = {
+		death = "11089.1.1"
+	}
+}
+
+143150 = {
+	name = "Kezhevat"
+	dynasty = 100377
+	religion = "finnish_pagan"
+	culture = "estonian"
+	father = 28023
+	11069.1.1 = {
+		birth = "11069.1.1"
+	}
+	11139.1.1 = {
+		death = "11139.1.1"
+	}
+}
+
+143151 = {
+	name = "Nuyat"
+	dynasty = 100377
+	religion = "finnish_pagan"
+	culture = "estonian"
+	stewardship = 8
+	father = 143150
+	11119.1.1 = {
+		birth = "11119.1.1"
+	}
+	11187.1.1 = {
+		death = "11187.1.1"
+	}
+}
+
+167734 = {
+	name = "VilitO_iv"
+	dynasty = 9535
+	religion = "finnish_pagan"
+	culture = "estonian"
+	10840.1.1 = {
+		birth = "10840.1.1"
+	}
+	10890.1.1 = {
+		death = "10890.1.1"
+	}
+}
+
+
+167735 = {
+	name = "Kiurupelg"
+	dynasty = 9536
+	religion = "finnish_pagan"
+	culture = "estonian"
+	10840.1.1 = {
+		birth = "10840.1.1"
+	}
+	10890.1.1 = {
+		death = "10890.1.1"
+	}
+}
+
+167736 = {
+	name = "Varjelemb"
+	dynasty = 9537
+	religion = "finnish_pagan"
+	culture = "estonian"
+	10840.1.1 = {
+		birth = "10840.1.1"
+	}
+	10890.1.1 = {
+		death = "10890.1.1"
+	}
+}
+
+167737 = {
+	name = "Meelis"
+	dynasty = 9538
+	religion = "finnish_pagan"
+	culture = "estonian"
+	10840.1.1 = {
+		birth = "10840.1.1"
+	}
+	10890.1.1 = {
+		death = "10890.1.1"
+	}
+}
+
+167738 = {
+	name = "Tutkas"
+	dynasty = 9539
+	religion = "finnish_pagan"
+	culture = "estonian"
+	10840.1.1 = {
+		birth = "10840.1.1"
+	}
+	10890.1.1 = {
+		death = "10890.1.1"
+	}
+}
+
+228023 = {
+	name = "Kaupo"
+	dynasty = 1040231
+	religion = "finnish_pagan"
+	culture = "estonian"
+	11165.1.1 = {
+		birth = yes
+	}
+	11191.1.1 = {
+		religion = "catholic"
+	}
+	11217.9.21 = {
+		death = yes # Battle of St. Matthew's Day
+	}
+}
+
+28025 = {
+	name = "Neeme"
+	dynasty = 100379
+	martial = 4
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "finnish_pagan"
+	culture = "estonian"
+	trait = clubfooted
+	trait = education_intrigue_2
+	11039.1.1 = {
+		birth = "11039.1.1"
+	}
+	11089.1.1 = {
+		death = "11089.1.1"
+	}
+}
+
+28026 = {
+	name = "AotO_iv"
+	dynasty = 100380
+	martial = 8
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "finnish_pagan"
+	culture = "estonian"
+	trait = diligent
+	trait = humble
+	trait = education_learning_2
+	11050.1.1 = {
+		birth = "11050.1.1"
+	}
+	11120.1.1 = {
+		death = "11120.1.1"
+	}
+}
+
+144631 = {
+	name = "Pivtsay"
+	dynasty = 100380
+	religion = "finnish_pagan"
+	culture = "estonian"
+	father = 28026
+	11100.1.1 = {
+		birth = "11100.1.1"
+	}
+	11170.1.1 = {
+		death = "11170.1.1"
+	}
+}
+
+228026 = {
+	name = "Illimar"
+	dynasty = 100380
+	martial = 8
+	diplomacy = 4
+	intrigue = 7
+	stewardship = 6
+	religion = "finnish_pagan"
+	culture = "estonian"
+	trait = diligent
+	trait = humble
+	trait = education_learning_2
+	father = 144631
+	11150.1.1 = {
+		birth = "11150.1.1"
+	}
+	11219.1.1 = {
+		death = "11219.1.1"
+	}
+}
+
+228025 = {
+	name = "Setyamka"
+	dynasty = 100379
+	martial = 4
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 6
+	religion = "finnish_pagan"
+	culture = "estonian"
+	trait = clubfooted
+	trait = education_intrigue_2
+	11150.1.1 = {
+		birth = "11150.1.1"
+	}
+	11225.1.1 = {
+		death = "11225.1.1"
+	}
+}
+
+144638 = {
+	name = "Malyaka"
+	dynasty = 100411
+	religion = "finnish_pagan"
+	culture = "estonian"
+	father = 28007
+	11100.1.1 = {
+		birth = "11100.1.1"
+	}
+	11170.1.1 = {
+		death = "11170.1.1"
+	}
+}
+
+228007 = {
+	name = "Uchva"
+	dynasty = 100411
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "finnish_pagan"
+	culture = "estonian"
+	trait = education_martial_2
+	father = 144638
+	11150.1.1 = {
+		birth = "11150.1.1"
+	}
+	11220.1.1 = {
+		death = "11220.1.1"
+	}
+}
+
+28007 = {
+	name = "Ovtay"
+	dynasty = 100411
+	martial = 6
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "finnish_pagan"
+	culture = "estonian"
+	trait = education_martial_2
+	11050.1.1 = {
+		birth = "11050.1.1"
+	}
+	11120.1.1 = {
+		death = "11120.1.1"
+	}
+}
+
+144639 = {
+	name = "Kichay"
+	dynasty = 100411
+	religion = "finnish_pagan"
+	culture = "estonian"
+	father = 228007
+	11200.1.1 = {
+		birth = "11200.1.1"
+	}
+	11249.1.1 = {
+		death = "11249.1.1"
+	}
+}
+170339 = {
+	name = "Nalka"
+	dynasty = 1040231
+	religion = "finnish_pagan"
+	culture = "estonian"
+	father = 228023
+	11185.1.1 = {
+		birth = yes
+	}
+	11191.1.1 = {
+		name = "Bertold"
+		religion = "catholic"
+	}
+	11210.1.1 = {
+		death = yes #Battle of Ümara
+	}
+}
+
+170340 = {
+	name = "Geraldus"
+	dynasty = 1040224
+	religion = "finnish_pagan"
+	culture = "estonian"
+	trait = bastard
+	father = 228023
+	11190.1.1 = {
+		birth = yes
+	}
+	11191.1.1 = {
+		religion = "catholic"
+	}
+	11217.9.21 = {
+		employer = 30444 #Volkwin von Naumburg
+	}
+	11236.9.22 = {
+		employer = 30422 #Nikolaus von Nauen
+	}
+	11254.1.1 = {
+		employer = 30423 #Albrecht Suerbeer
+	}
+	11269.1.1 = {
+		death = yes
+	}
+}
+
+170347 = {
+	name = "Kaupo"
+	dynasty = 1040225
+	religion = "finnish_pagan"
+	culture = "estonian"
+	10741.1.1 = {
+		birth = yes
+	}
+	10806.1.1 = {
+		death = yes
+	}
+}
+
+170348 = {
+	name = "Illimar"
+	dynasty = 1040226
+	religion = "finnish_pagan"
+	culture = "estonian"
+	10739.1.1 = {
+		birth = yes
+	}
+	10797.1.1 = {
+		death = yes
+	}
+}
+
+170349 = {
+	name = "Ihanus"
+	dynasty = 1040227
+	religion = "finnish_pagan"
+	culture = "estonian"
+	10743.1.1 = {
+		birth = yes
+	}
+	10858.1.1 = {
+		death = yes
+	}
+}
+
+170350 = {
+	name = "Vaino"
+	dynasty = 1040228
+	religion = "finnish_pagan"
+	culture = "estonian"
+	10738.1.1 = {
+		birth = yes
+	}
+	10802.1.1 = {
+		death = yes
+	}
+}
+
+170352 = {
+	name = "Koit"
+	dynasty = 1040230
+	religion = "finnish_pagan"
+	culture = "estonian"
+	10736.1.1 = {
+		birth = yes
+	}
+	10795.1.1 = {
+		death = yes
+	}
+}
+170338 = {
+	name = "Ahti"
+	dynasty = 1040223
+	religion = "finnish_pagan"
+	culture = "estonian"
+	10738.1.1 = {
+		birth = yes
+	}
+	10791.1.1 = {
+		death = yes
+	}
+}
+
+estonian_vassal_1 = {
+	name = "Dabrel"
+	religion = "finnish_pagan"
+	culture = "estonian"
+	11162.1.1 = {
+		birth = yes
+	}
+	11211.1.1 = {
+		death = yes
+	}
+}

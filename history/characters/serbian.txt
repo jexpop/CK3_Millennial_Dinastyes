@@ -1,0 +1,2662 @@
+﻿20474 = {
+	name = "Vladimir"
+	dynasty = 101682
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 5
+	religion = "orthodox"
+	culture = "serbian"
+	trait = diligent
+	trait = wrathful
+	trait = craven
+	trait = education_intrigue_1
+	father = 20491
+	mother = 4491
+	11030.1.1 = {
+		birth = "11030.1.1"
+	}
+	11040.1.1 = {
+		dynasty = 191	#Vojislavljević
+		#When his grandfather became prince of Duklja
+	}
+	11082.1.1 = {
+		death = "11082.1.1"
+	}
+}
+
+20490 = {
+	name = "Vojislav"	#AKA Stefan Vojislav
+	dynasty = 101682	#Dukljanin
+	martial = 8
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 6
+	religion = "orthodox"
+	culture = "serbian"
+	trait = honest
+	trait = education_martial_2
+	father = 20494
+	10998.1.1 = {
+		birth = "10998.1.1"
+	}
+	11015.1.1 = {
+		add_spouse = 4490
+	}
+	11040.1.1 = {
+		dynasty = 191	#Vojislavljević
+		#When he became prince of Duklja
+	}
+	11043.1.1 = {
+		death = "11043.1.1"
+	}
+}
+
+20491 = {
+	name = "Mihajlo"	#Mihailo Vajoislavelevic of Duklja
+	dynasty = 101682
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = orthodox
+	culture = "serbian"
+	trait = education_diplomacy_3
+	father = 20490
+	mother = 4490
+	11016.1.1 = {
+		birth = "11016.1.1"
+	}
+	11029.1.1 = {
+		add_spouse = 4491
+	}
+	11040.1.1 = {
+		dynasty = 191	#Vojislavljević
+		#When his father became prince of Duklja
+	}
+	11046.1.1 = {
+		add_spouse = 4495
+	}
+	11072.1.1 = {
+		religion = catholic
+		#Distanced himself from the BYZ after slavic revolts, and sought the Pope's approval instead
+	}
+	11082.1.1 = {
+		death = "11082.1.1"
+	}
+}
+
+20492 = {
+	name = "Radislav"
+	dynasty = 101682
+	martial = 7
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 5
+	religion = "orthodox"
+	culture = "serbian"
+	trait = zealous
+	trait = honest
+	trait = education_martial_2
+	father = 20490
+	mother = 4490
+	11021.1.1 = {
+		birth = "11021.1.1"
+	}
+	11040.1.1 = {
+		dynasty = 191	#Vojislavljević
+		#When his father became prince of Duklja
+	}
+	11053.1.1 = {
+		add_spouse = 4493
+	}
+	11066.1.1 = {
+		employer = 20491
+	}
+	11089.1.1 = {
+		death = "11089.1.1"
+	}
+}
+
+20493 = {
+	name = "Konstantin"
+	# AKA: Konstantin Bodin
+	dynasty = 101682
+	martial = 8
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 8
+	religion = "orthodox"
+	culture = "serbian"
+	trait = zealous
+	trait = ambitious
+	trait = education_intrigue_3
+	father = 20491
+	mother = 4491
+	11036.1.1 = {
+		birth = "11036.1.1"
+	}
+	11040.1.1 = {
+		dynasty = 191	#Vojislavljević
+		#When his grandfather became prince of Duklja
+	}
+	11071.8.26 = {
+		name = "Petar" #Petar III of Bulgaria
+	}
+	11073.1.1 = {
+		name = "Konstantin"
+	}
+	11101.1.1 = {
+		death = "11101.1.1"
+	}
+}
+
+20494 = {
+	name = "Dragimir"
+	dynasty = 101682
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 6
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20495
+	10960.1.1 = {
+		birth = "10960.1.1"
+	}
+	11018.1.1 = {
+		death = "11018.1.1"
+	}
+}
+
+20495 = {
+	name = "Hvalimir"
+	dynasty = 101682
+	martial = 5
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "serbian"
+	10935.1.1 = {
+		birth = "10935.1.1"
+	}
+	10971.1.1 = {
+		death = "10971.1.1"
+	}
+}
+
+20496 = {
+	name = "Petrislav"
+	dynasty = 101682
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 6
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20495
+	10958.1.2 = {
+		birth = "10958.1.2"
+	}
+	10998.1.1 = {
+		death = "10998.1.1"
+	}
+}
+
+20497 = {
+	name = "Aleksandar"
+	dynasty = 8632
+	martial = 4
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 4
+	religion = "catholic"
+	culture = "serbian"
+	trait = wrathful
+	trait = humble
+	trait = education_martial_2
+	11039.1.1 = {
+		birth = "11039.1.1"
+	}
+	11089.1.1 = {
+		death = "11089.1.1"
+	}
+}
+
+20499 = {
+	name = "Dragos"
+	dynasty = 2000041
+	martial = 6
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 8
+	religion = "orthodox"
+	culture = "serbian"
+	trait = just
+	trait = wrathful
+	trait = education_intrigue_2
+	11033.1.1 = {
+		birth = yes
+	}
+	11072.1.1 = {
+		death = yes
+	}
+}
+
+20529 = {
+	name = "Petrislav"
+	dynasty = 191
+	martial = 8
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 8
+	religion = "orthodox"
+	culture = "serbian"
+	trait = honest
+	trait = education_martial_2
+	father = 20491
+	mother = 4495
+	11048.1.1 = {
+		birth = "11048.1.1"
+	}
+	11063.1.1 = {
+		add_spouse = 4492
+	}
+	11083.1.1 = {
+		death = "11083.1.1"
+	}
+}
+
+20533 = {
+	name = "Marko"
+	dynasty = 191
+	martial = 8
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "orthodox"
+	culture = "serbian"
+	trait = education_martial_2
+	father = 20529
+	mother = 4492
+	11064.1.1 = {
+		birth = "11064.1.1"
+	}
+	11104.1.1 = {
+		death = "11104.1.1"
+	}
+}
+
+20538 = {
+	name = "Vukan"
+	dynasty = 191
+	martial = 5
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 7
+	religion = "orthodox"
+	culture = "serbian"
+	trait = hunchbacked
+	trait = education_diplomacy_1
+	father = 20529
+	mother = 4492
+	11065.1.1 = {
+		birth = "11065.1.1"
+	}
+	11112.1.1 = {
+		death = "11112.1.1"
+	}
+}
+
+20539 = {
+	name = "Branislav"
+	dynasty = 191
+	martial = 7
+	diplomacy = 4
+	intrigue = 5
+	stewardship = 4
+	religion = "orthodox"
+	culture = "serbian"
+	trait = lisping
+	trait = wrathful
+	trait = education_martial_2
+	father = 20492
+	mother = 4493
+	11054.1.1 = {
+		birth = "11054.1.1"
+	}
+	11101.1.1 = {
+		death = "11101.1.1"
+	}
+}
+
+20558 = {
+	name = "Dobroslav"
+	dynasty = 191
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 5
+	religion = "orthodox"
+	culture = "serbian"
+	trait = generous
+	trait = lustful
+	trait = wrathful
+	trait = education_martial_2
+	father = 20492
+	mother = 4493
+	11055.1.1 = {
+		birth = "11055.1.1"
+	}
+	11105.1.1 = {
+		death = "11105.1.1"
+	}
+}
+
+217009 = {
+	name = "Ivan"
+	dynasty = 100501
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 6
+	religion = "orthodox"
+	culture = "serbian"
+	trait = cynical
+	trait = education_martial_2
+	11150.1.1 = {
+		birth = "11150.1.1"
+	}
+	11200.1.1 = {
+		death = "11200.1.1"
+	}
+}
+
+40530 = {
+	name = "Jovan_Vladimir"
+	# AKA: Jovan Vladimir
+	dynasty = 101682
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20496
+	10978.1.1 = {
+		birth = "10978.1.1"
+	}
+	11010.1.1 = {
+		add_spouse = 40531
+	}
+	11016.5.22 = {
+		death = "11016.5.22"
+	}
+}
+
+4491 = {
+	name = "Neda"
+	female = yes
+	dynasty = 101682
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 6
+	religion = "orthodox"
+	culture = "serbian"
+	trait = education_intrigue_1
+	father = 40530
+	mother = 40531
+	11013.1.1 = {
+		birth = "11013.1.1"
+	}
+	11045.1.1 = {
+		death = "11045.1.1"
+	}
+}
+
+4492 = {
+	name = "Zavida"
+	female = yes
+	dynasty = 18002
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "orthodox"
+	culture = "serbian"
+	trait = education_intrigue_3
+	11038.1.1 = {
+		birth = "11038.1.1"
+	}
+	11085.1.1 = {
+		death = "11085.1.1"
+	}
+}
+
+4493 = {
+	name = "Kera"
+	female = yes
+	dynasty = 18004
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 8
+	religion = "orthodox"
+	culture = "serbian"
+	trait = education_intrigue_1
+	11032.1.1 = {
+		birth = "11032.1.1"
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+
+70350 = {
+	name = "Vladimir"
+	dynasty = 191
+	martial = 7
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 4
+	religion = "orthodox"
+	culture = "serbian"
+	trait = generous
+	trait = education_martial_1
+	father = 20474
+	11060.1.1 = {
+		birth = "11060.1.1"
+	}
+	11103.1.1 = {
+		add_spouse = 34129
+	}
+	
+	11114.1.1 = {
+		death = "11114.1.1"
+	}
+}
+
+70351 = {
+	name = "Priaslav"
+	dynasty = 101682
+	martial = 5
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 5
+	religion = "orthodox"
+	culture = "serbian"
+	trait = lazy
+	trait = drunkard
+	trait = education_intrigue_1
+	father = 20491
+	mother = 4491
+	
+	11031.1.1 = {
+		birth = "11031.1.1"
+	}
+	11040.1.1 = {
+		dynasty = 191	#Vojislavljević
+		#When his grandfather became prince of Duklja
+	}
+	11082.1.1 = {
+		death = "11082.1.1"
+	}
+}
+
+70352 = {
+	name = "Sergei"
+	dynasty = 101682
+	martial = 8
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 3
+	religion = "orthodox"
+	culture = "serbian"
+	trait = intellect_bad_1
+	trait = education_martial_2
+	father = 20491
+	mother = 4491
+	
+	11032.1.1 = {
+		birth = "11032.1.1"
+	}
+	11040.1.1 = {
+		dynasty = 191	#Vojislavljević
+		#When his grandfather became prince of Duklja
+	}
+	11082.1.1 = {
+		death = "11082.1.1"
+	}
+}
+
+70353 = {
+	name = "Deria"
+	dynasty = 101682
+	martial = 3
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 4
+	religion = "orthodox"
+	culture = "serbian"
+	trait = scholar
+	sexuality = homosexual
+	trait = education_diplomacy_1
+	father = 20491
+	mother = 4491
+	11033.1.1 = {
+		birth = "11033.1.1"
+	}
+	11040.1.1 = {
+		dynasty = 191	#Vojislavljević
+		#When his grandfather became prince of Duklja
+	}
+	11082.1.1 = {
+		death = "11082.1.1"
+	}
+}
+
+70354 = {
+	name = "Gavril"
+	dynasty = 101682
+	martial = 7
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 7
+	religion = "orthodox"
+	culture = "serbian"
+	trait = intellect_good_3
+	trait = lifestyle_hunter
+	trait = education_diplomacy_3
+	father = 20491
+	mother = 4491
+	11034.1.1 = {
+		birth = "11034.1.1"
+	}
+	11040.1.1 = {
+		dynasty = 191	#Vojislavljević
+		#When his grandfather became prince of Duklja
+	}
+	11082.1.1 = {
+		death = "11082.1.1"
+	}
+}
+
+70355 = {
+	name = "Miroslav"
+	dynasty = 101682
+	martial = 5
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 3
+	religion = "orthodox"
+	culture = "serbian"
+	trait = craven
+	trait = content
+	trait = education_martial_1
+	father = 20491
+	mother = 4491
+	11035.1.1 = {
+		birth = "11035.1.1"
+	}
+	11040.1.1 = {
+		dynasty = 191	#Vojislavljević
+		#When his grandfather became prince of Duklja
+	}
+	11082.1.1 = {
+		death = "11082.1.1"
+	}
+}
+
+70356 = {
+	name = "Dobroslav"
+	dynasty = 191
+	martial = 7
+	diplomacy = 3
+	intrigue = 5
+	stewardship = 6
+	religion = "orthodox"
+	culture = "serbian"
+	trait = gregarious
+	trait = chaste
+	trait = education_stewardship_2
+	father = 20491
+	mother = 4495
+	11047.1.1 = {
+		birth = "11047.1.1"
+	}
+	11114.1.1 = {
+		death = "11114.1.1"
+	}
+}
+
+70359 = {
+	name = "Gradislav"
+	dynasty = 191
+	martial = 5
+	diplomacy = 6
+	intrigue = 6
+	stewardship = 5
+	religion = "orthodox"
+	culture = "serbian"
+	trait = honest
+	trait = calm
+	trait = education_martial_2
+	father = 20492
+	mother = 4493
+	11056.1.1 = {
+		birth = "11056.1.1"
+	}
+	11101.1.1 = {
+		death = "11101.1.1"
+	}
+}
+
+70360 = {
+	name = "Kocapar"
+	dynasty = 191
+	martial = 6
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "orthodox"
+	culture = "serbian"
+	trait = just
+	trait = education_stewardship_2
+	father = 20492
+	mother = 4493
+	11057.1.1 = {
+		birth = "11057.1.1"
+	}
+	11073.1.1 = {
+		add_trait = lifestyle_hunter	#Add adult trait
+	}
+	11110.1.1 = {
+		death = "11110.1.1"
+	}
+}
+
+70361 = {
+	name = "Saganec"
+	dynasty = 101682
+	martial = 6
+	diplomacy = 6
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "serbian"
+	trait = temperate
+	trait = brave
+	trait = education_martial_1
+	father = 20490
+	mother = 4490
+	11018.1.1 = {
+		birth = "11018.1.1"
+	}
+	11040.1.1 = {
+		dynasty = 191	#Vojislavljević
+		#When his father became prince of Duklja
+	}
+	11066.1.1 = {
+		employer = 20491
+	}
+	11070.1.1 = {
+		death = "11070.1.1"
+	}
+}
+
+70362 = {
+	name = "Dobroslav"
+	dynasty = 101682
+	martial = 3
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 6
+	religion = "orthodox"
+	culture = "serbian"
+	trait = gregarious
+	trait = education_learning_1
+	father = 20494
+	11018.1.1 = {
+		birth = "11018.1.1"
+	}
+	11073.1.1 = {
+		death = "11073.1.1"
+	}
+}
+
+468511 = {
+	name = "Anna"
+	# AKA: Anna Neda
+	female = yes
+	dynasty = 184
+	martial = 8
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 6
+	religion = "orthodox"
+	culture = "serbian"
+	trait = zealous
+	trait = education_stewardship_3
+	father = 468505
+	mother = 467531
+	11281.1.2 = {
+		birth = "11281.1.2"
+	}
+	11329.1.2 = {
+		death = "11329.1.2"
+	}
+}
+
+34070 = {
+	name = "Uros"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218510
+	mother = 215523
+	11108.1.1 = {
+		birth = "11108.1.1"
+	}
+	11162.1.1 = {
+		death = "11162.1.1"
+	}
+}
+
+34071 = {
+	name = "Desa"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218510
+	mother = 215523
+	11111.1.1 = {
+		birth = "11111.1.1"
+	}
+	11166.1.1 = {
+		death = "11166.1.1"
+	}
+}
+
+34072 = {
+	name = "Belos"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218510
+	mother = 215523
+	11112.1.1 = {
+		birth = "11112.1.1"
+	}
+	11163.1.1 = {
+		death = "11163.1.1"
+	}
+}
+
+34073 = {
+	name = "Tihomir"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218505
+	11129.1.1 = {
+		birth = "11129.1.1"
+	}
+	11171.1.1 = {
+		death = "11171.1.1"
+	}
+}
+
+34074 = {
+	name = "Stracimir"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218505
+	11130.1.1 = {
+		birth = "11130.1.1"
+	}
+	11189.1.1 = {
+		death = "11189.1.1"
+	}
+}
+
+34075 = {
+	name = "Miroslav"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218505
+	11132.1.1 = {
+		birth = "11132.1.1"
+	}
+	11196.1.1 = {
+		death = "11196.1.1"
+	}
+}
+
+34076 = {
+	name = "Stefan"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34073
+	11150.1.1 = {
+		birth = "11150.1.1"
+	}
+	11200.1.1 = {
+		death = "11200.1.1"
+	}
+}
+
+34077 = {
+	name = "Toljen"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34075
+	11165.1.1 = {
+		birth = "11165.1.1"
+	}
+	11198.1.1 = {
+		death = "11198.1.1"
+	}
+}
+
+34078 = {
+	name = "Toljen"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34077
+	11192.1.1 = {
+		birth = "11192.1.1"
+	}
+	11239.1.1 = {
+		death = "11239.1.1"
+	}
+}
+
+34079 = {
+	name = "Petar"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34075
+	11170.1.1 = {
+		birth = "11170.1.1"
+	}
+	11225.1.1 = {
+		death = "11225.1.1"
+	}
+}
+
+34080 = {
+	name = "Andrija"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34075
+	11180.1.1 = {
+		birth = "11180.1.1"
+	}
+	11249.1.1 = {
+		death = "11249.1.1"
+	}
+}
+
+34081 = {
+	name = "Bogdan"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34080
+	11200.1.1 = {
+		birth = "11200.1.1"
+	}
+	11252.1.1 = {
+		death = "11252.1.1"
+	}
+}
+
+34082 = {
+	name = "Djordje"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34080
+	11201.1.1 = {
+		birth = "11201.1.1"
+	}
+	11251.1.1 = {
+		death = "11251.1.1"
+	}
+}
+
+34083 = {
+	name = "Radoslav"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34080
+	11203.1.1 = {
+		birth = "11203.1.1"
+	}
+	11254.5.22 = {
+		death = "11254.5.22"
+	}
+}
+
+34084 = {
+	name = "Vukoslava"
+	female = yes
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34080
+	11202.1.1 = {
+		birth = "11202.1.1"
+	}
+	11252.1.1 = {
+		death = "11252.1.1"
+	}
+}
+
+34085 = {
+	name = "Dragoslava"
+	female = yes
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34080
+	11205.1.1 = {
+		birth = "11205.1.1"
+	}
+	11255.1.1 = {
+		death = "11255.1.1"
+	}
+}
+
+34086 = {
+	name = "Toljen"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34081
+	11220.1.1 = {
+		birth = "11220.1.1"
+	}
+	11270.1.1 = {
+		death = "11270.1.1"
+	}
+}
+
+34087 = {
+	name = "Petar"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34086
+	11240.1.1 = {
+		birth = "11240.1.1"
+	}
+	11290.1.1 = {
+		death = "11290.1.1"
+	}
+}
+
+34088 = {
+	name = "Uros"
+	#Stefan Uros
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218507
+	mother = 32122
+	11220.1.1 = {
+		birth = "11220.1.1"
+	}
+	11250.1.1 = {
+		add_spouse = 34116
+	}
+	11250.1.1 = {
+		give_nickname = nick_the_great
+	}
+	11277.5.1 = {
+		death = "11277.5.1"
+	}
+}
+
+34089 = {
+	name = "Djordje"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218506
+	11190.1.1 = {
+		birth = "11190.1.1"
+	}
+	11242.8.21 = {
+		death = "11242.8.21"
+	}
+}
+
+34090 = {
+	name = "Vladin"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218506
+	11192.1.1 = {
+		birth = "11192.1.1"
+	}
+	11208.7.1 = {
+		death = "11208.7.1"
+	}
+}
+
+34091 = {
+	name = "Stefan"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218506
+	11200.1.1 = {
+		birth = "11200.1.1"
+	}
+	11252.1.1 = {
+		death = "11252.1.1"
+	}
+}
+
+34092 = {
+	name = "Dimitrije"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218506
+	11205.1.1 = {
+		birth = "11205.1.1"
+	}
+	11282.1.1 = {
+		death = "11282.1.1"
+	}
+}
+
+34093 = {
+	name = "Dimitrije"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34089
+	11220.1.1 = {
+		birth = "11220.1.1"
+	}
+	11287.1.1 = {
+		death = "11287.1.1"
+	}
+}
+
+34094 = {
+	name = "Stefan"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34089
+	11225.1.1 = {
+		birth = "11225.1.1"
+	}
+	11275.1.1 = {
+		death = "11275.1.1"
+	}
+}
+
+34095 = {
+	name = "Vratislav"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34093
+	11250.1.1 = {
+		birth = "11250.1.1"
+	}
+	11300.1.1 = {
+		death = "11300.1.1"
+	}
+}
+
+34096 = {
+	name = "Vratko"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34095
+	11290.1.1 = {
+		birth = "11290.1.1"
+	}
+	11342.1.1 = {
+		death = "11342.1.1"
+	}
+}
+
+34097 = {
+	name = "Radoslav"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34095
+	11292.1.1 = {
+		birth = "11292.1.1"
+	}
+	11342.1.1 = {
+		death = "11342.1.1"
+	}
+}
+
+34098 = {
+	name = "Milica"
+	female = yes
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34096
+	11330.1.1 = {
+		birth = "11330.1.1"
+	}
+	11405.11.11 = {
+		death = "11405.11.11"
+	}
+}
+
+34099 = {
+	name = "Efimija"
+	female = yes
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218500
+	mother = 218501
+	11190.1.1 = {
+		birth = "11190.1.1"
+	}
+	11225.1.1 = {
+		death = "11225.1.1"
+	}
+}
+
+34100 = {
+	name = "Radoslav"
+	#Stefan Radoslav
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218507
+	mother = 215512
+	11193.1.1 = {
+		birth = "11193.1.1"
+	}
+	11220.1.1 = {
+		add_spouse = 34104
+	}
+	11235.1.1 = {
+		death = "11235.1.1"
+	}
+}
+
+34101 = {
+	name = "Kominia"
+	female = yes
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218507
+	mother = 215512
+	11196.1.1 = {
+		birth = "11196.1.1"
+	}
+	11246.1.1 = {
+		death = "11246.1.1"
+	}
+}
+
+34102 = {
+	name = "Predislav"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218507
+	mother = 32122
+	11217.1.1 = {
+		birth = "11217.1.1"
+	}
+	11270.1.1 = {
+		death = "11270.1.1"
+	}
+}
+
+34103 = {
+	name = "Vladislav"
+	#Stefan Vladislav
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 218507
+	mother = 32122
+	11219.1.1 = {
+		birth = "11219.1.1"
+	}
+	11236.1.1 = {
+		add_spouse = 31162
+	}
+	11267.11.11 = {
+		death = "11267.11.11"
+	}
+}
+
+34108 = {
+	name = "Dragoslav"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34100
+	mother = 34104
+	11230.1.1 = {
+		birth = "11230.1.1"
+	}
+	11315.1.1 = {
+		death = "11315.1.1"
+	}
+}
+
+34109 = {
+	name = "Stanisa"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34108
+	11260.1.1 = {
+		birth = "11260.1.1"
+	}
+	11315.1.1 = {
+		death = "11315.1.1"
+	}
+}
+
+34110 = {
+	name = "Ana"
+	female = yes
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34108
+	11270.1.1 = {
+		birth = "11270.1.1"
+	}
+	11316.1.1 = {
+		death = "11316.1.1"
+	}
+}
+
+34111 = {
+	name = "Nikola"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34109
+	11300.1.1 = {
+		birth = "11300.1.1"
+	}
+	11371.1.1 = {
+		death = "11371.1.1"
+	}
+}
+
+34112 = {
+	name = "Djordje"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34109
+	11302.1.1 = {
+		birth = "11302.1.1"
+	}
+	11352.1.1 = {
+		death = "11352.1.1"
+	}
+}
+
+34113 = {
+	name = "Stefan"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34103
+	mother = 31162
+	11237.1.1 = {
+		birth = "11237.1.1"
+	}
+	
+	11287.1.1 = {
+		death = "11287.1.1"
+	}
+}
+
+34114 = {
+	name = "Desa"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34103
+	mother = 31162
+	11239.1.1 = {
+		birth = "11239.1.1"
+	}
+	
+	11285.1.1 = {
+		death = "11285.1.1"
+	}
+}
+
+34117 = {
+	name = "Stefan"
+	#AKA Stefan Dragutin
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34088
+	mother = 34116
+	11251.1.1 = {
+		birth = "11251.1.1"
+	}
+	11272.1.1 = {
+		add_spouse = 98043
+	}
+	11316.3.12 = {
+		death = "11316.3.12"
+	}
+}
+
+34118 = {
+	name = "Vladislav"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34117
+	mother = 98043
+	11275.1.1 = {
+		birth = "11275.1.1"
+	}
+	11300.1.1 = {
+		add_spouse = 182019 #Constanza Morosini
+	}
+	11326.1.1 = {
+		death = "11326.1.1"
+	}
+}
+
+34120 = {
+	name = "Jelisaveta"
+	female = yes
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34117
+	mother = 98043
+	11273.1.1 = {
+		birth = "11273.1.1"
+	}
+	11331.1.1 = {
+		death = "11331.1.1"
+	}
+}
+
+34121 = {
+	name = "Brnca"
+	female = yes
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34088
+	mother = 34116
+	11253.1.1 = {
+		birth = "11253.1.1"
+	}
+	11303.1.1 = {
+		death = "11303.1.1"
+	}
+}
+
+34122 = {
+	name = "Konstantin"
+	#Stefan Konstantin
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 468505
+	mother = 467531
+	11283.1.1 = {
+		birth = "11283.1.1"
+	}
+	11322.1.6 = {
+		death = "11322.1.6"
+	}
+}
+
+34123 = {
+	name = "Dobroslav"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20493
+	11081.1.1 = {
+		birth = "11081.1.1"
+	}
+	11102.1.1 = {
+		death = "11102.1.1"
+	}
+}
+
+34124 = {
+	name = "Djordje"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20493
+	11083.1.1 = {
+		birth = "11083.1.1"
+	}
+	11131.1.1 = {
+		death = "11131.1.1"
+	}
+}
+
+34125 = {
+	name = "Marko"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20493
+	11085.1.1 = {
+		birth = "11085.1.1"
+	}
+	11115.1.1 = {
+		death = "11115.1.1"
+	}
+}
+
+34126 = {
+	name = "Arcisius"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20493
+	11087.1.1 = {
+		birth = "11087.1.1"
+	}
+	11114.1.1 = {
+		death = "11114.1.1"
+	}
+}
+
+34127 = {
+	name = "Mihajlo"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20493
+	11089.1.1 = {
+		birth = "11089.1.1"
+	}
+	11118.1.1 = {
+		death = "11118.1.1"
+	}
+}
+
+34128 = {
+	name = "Tomas"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20493
+	11091.1.1 = {
+		birth = "11091.1.1"
+	}
+	11118.1.1 = {
+		death = "11118.1.1"
+	}
+}
+
+34129 = {
+	name = "Ana" #real name unknown
+	female = yes
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20538
+	11085.1.1 = {
+		birth = "11085.1.1"
+	}
+	11140.1.1 = {
+		death = "11140.1.1"
+	}
+}
+
+34130 = {
+	name = "Irina"
+	female = yes
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 468500
+	mother = 467501
+	11333.1.1 = {
+		birth = "11333.1.1"
+	}
+	11361.1.1 = {
+		death = "11361.1.1"
+	}
+}
+
+34131 = {
+	name = "Grubesa"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20539
+	11074.1.1 = {
+		birth = "11074.1.1"
+	}
+	11125.1.1 = {
+		death = "11125.1.1"
+	}
+}
+
+34132 = {
+	name = "Gradinja"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20539
+	11075.1.1 = {
+		birth = "11075.1.1"
+	}
+	11146.1.1 = {
+		death = "11146.1.1"
+	}
+}
+
+34133 = {
+	name = "Predinha"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20539
+	11076.1.1 = {
+		birth = "11076.1.1"
+	}
+	11101.1.1 = {
+		death = "11101.1.1"
+	}
+}
+
+34134 = {
+	name = "Predislav"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20539
+	11077.1.1 = {
+		birth = "11077.1.1"
+	}
+	11107.1.1 = {
+		death = "11107.1.1"
+	}
+}
+
+34135 = {
+	name = "Tvardislav"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20539
+	11080.1.1 = {
+		birth = "11080.1.1"
+	}
+	11130.1.1 = {
+		death = "11130.1.1"
+	}
+}
+
+34136 = {
+	name = "Dragello"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 20539
+	11081.1.1 = {
+		birth = "11081.1.1"
+	}
+	11120.1.1 = {
+		death = "11120.1.1"
+	}
+}
+
+34137 = {
+	name = "Radoslav"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34131
+	11100.1.1 = {
+		birth = "11100.1.1"
+	}
+	11150.1.1 = {
+		death = "11150.1.1"
+	}
+}
+
+34138 = {
+	name = "Jovan"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34131
+	11102.1.1 = {
+		birth = "11102.1.1"
+	}
+	11152.1.1 = {
+		death = "11152.1.1"
+	}
+}
+
+34139 = {
+	name = "Vladimir"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34131
+	11104.1.1 = {
+		birth = "11104.1.1"
+	}
+	11154.1.1 = {
+		death = "11154.1.1"
+	}
+}
+
+34140 = {
+	name = "Radoslav"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34132
+	11105.1.1 = {
+		birth = "11105.1.1"
+	}
+	11162.1.1 = {
+		death = "11162.1.1"
+	}
+}
+
+34141 = {
+	name = "Mihajlo"
+	dynasty = 191
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34140
+	11140.1.1 = {
+		birth = "11140.1.1"
+	}
+	11189.1.1 = {
+		death = "11189.1.1"
+	}
+}
+
+34142 = {
+	name = "Nikola"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34087
+	11270.1.1 = {
+		birth = "11270.1.1"
+	}
+	11304.1.1 = {
+		add_spouse = 468806
+	}	
+	11326.1.1 = {
+		death = "11326.1.1"
+	}
+}
+
+34143 = {
+	name = "Vladislav"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34142
+	mother = 468806
+	11310.1.1 = {
+		birth = "11310.1.1"
+	}	
+	11347.1.1 = {
+		death = "11347.1.1"
+	}
+}
+
+34144 = {
+	name = "Bogisa"
+	dynasty = 184
+	religion = "orthodox"
+	culture = "serbian"
+	father = 34142
+	mother = 468806
+	11310.1.1 = {
+		birth = "11310.1.1"
+	}	
+	11350.1.1 = {
+		death = "11350.1.1"
+	}
+}
+
+218510 = {
+	name = "Uros"
+	dynasty = 184
+	martial = 4
+	diplomacy = 8
+	intrigue = 5
+	stewardship = 7
+	religion = "orthodox"
+	culture = "serbian"
+	trait = just
+	trait = honest
+	trait = education_martial_2
+	father = 20533
+	11087.1.1 = {
+		birth = "11087.1.1"
+	}
+	11107.1.1 = {
+		add_spouse = 215523
+	}
+	11145.1.1 = {
+		death = "11145.1.1"
+	}
+}
+
+218511 = {
+	name = "Jelena"
+	female = yes
+	dynasty = 184
+	martial = 8
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "serbian"
+	trait = deceitful
+	trait = stuttering
+	trait = education_learning_2
+	father = 218510
+	mother = 215523
+	11109.1.1 = {
+		birth = "11109.1.1"
+	}
+	11146.1.1 = {
+		death = "11146.1.1"
+	}
+}
+
+218512 = {
+	name = "Marija"
+	female = yes
+	dynasty = 184
+	martial = 7
+	diplomacy = 7
+	intrigue = 6
+	stewardship = 7
+	religion = "catholic"
+	culture = "serbian"
+	trait = wrathful
+	trait = temperate
+	trait = education_diplomacy_3
+	father = 218510
+	mother = 215523
+	11116.1.1 = {
+		birth = "11116.1.1"
+	}
+	11166.1.1 = {
+		death = "11166.1.1"
+	}
+}
+
+218505 = {
+	name = "Zavida"
+	dynasty = 184
+	martial = 4
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 6
+	religion = "orthodox"
+	culture = "serbian"
+	trait = just
+	trait = cynical
+	trait = calm
+	trait = education_diplomacy_2
+	father = 218510
+	mother = 215523
+	11113.1.1 = {
+		birth = "11113.1.1"
+	}
+	11163.1.1 = {
+		death = "11163.1.1"
+	}
+}
+
+218500 = {
+	name = "Stefan"
+	dynasty = 184
+	martial = 7
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 7
+	religion = "orthodox"
+	culture = "serbian"
+	trait = greedy
+	trait = calm
+	trait = education_learning_2
+	father = 218505
+	11133.1.1 = {
+		birth = "11133.1.1"
+	}
+	11172.1.1 = {
+		add_spouse = 218501
+	}
+	11199.2.13 = {
+		death = "11199.2.13"
+	}
+}
+
+218501 = {
+	name = "Ana"
+	female = yes
+	dynasty = 37
+	martial = 4
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 8
+	religion = "orthodox"
+	culture = "serbian"
+	trait = arbitrary
+	trait = greedy
+	trait = honest
+	trait = education_learning_2
+	11142.1.1 = {
+		birth = "11142.1.1"
+	}
+	11192.1.1 = {
+		death = "11192.1.1"
+	}
+}
+
+218506 = {
+	name = "Vukan"
+	dynasty = 184
+	martial = 5
+	diplomacy = 5
+	intrigue = 8
+	stewardship = 8
+	religion = "orthodox"
+	culture = "serbian"
+	trait = calm
+	trait = education_stewardship_2
+	father = 218500
+	mother = 218501
+	11173.1.1 = {
+		birth = "11173.1.1"
+	}
+	11209.1.1 = {
+		death = "11209.1.1"
+	}
+}
+
+218507 = {
+	name = "Stefan"
+	dynasty = 184
+	martial = 8
+	diplomacy = 8
+	intrigue = 7
+	stewardship = 4
+	religion = "orthodox"
+	culture = "serbian"
+	trait = deceitful
+	trait = education_martial_2
+	father = 218500
+	mother = 218501
+	11176.1.1 = {
+		birth = "11176.1.1"
+	}
+	11192.1.1 = {
+		add_spouse = 215512
+	}
+	11202.1.1 = {
+		remove_spouse = 215512
+	}
+	11216.1.1 = {
+		add_spouse = 32122
+	}
+	11227.9.24 = {
+		death = "11227.9.24"
+	}
+}
+
+218508 = {
+	name = "Rastko"
+	dynasty = 184
+	martial = 4
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 8
+	religion = "orthodox"
+	culture = "serbian"
+	trait = generous
+	trait = education_learning_2
+	father = 218500
+	mother = 218501
+	11174.1.2 = {
+		birth = "11174.1.2"
+	}
+	11224.1.2 = {
+		death = "11224.1.2"
+	}
+}
+
+468500 = {
+	name = "Uros"
+	# AKA: Stefan Uros Dusan
+	dynasty = 184
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "orthodox"
+	culture = "serbian"
+	trait = diligent
+	trait = arrogant
+	trait = strong
+	trait = education_martial_4
+	father = 468510
+	mother = 467541
+	11308.1.1 = {
+		birth = "11308.1.1"
+	}
+	11331.8.21 = {
+		give_nickname = nick_the_strong
+	}
+	11332.4.9 = {
+		add_spouse = 467501
+	}
+	11355.12.20 = {
+		death = "11355.12.20"
+	}
+}
+
+468501 = {
+	name = "Uros"
+	# AKA: Stefan Uros
+	dynasty = 184
+	martial = 2
+	diplomacy = 6
+	intrigue = 3
+	stewardship = 5
+	religion = "orthodox"
+	culture = "serbian"
+	father = 468500
+	mother = 467501
+	11336.1.1 = {
+		birth = "11336.1.1"
+	}
+	11367.12.3 = {
+		death = "11367.12.3"
+	}
+}
+
+468502 = {
+	name = "Simeon"
+	# AKA: Simeon Uros
+	dynasty = 184
+	martial = 7
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "orthodox"
+	culture = "serbian"
+	trait = arrogant
+	trait = education_stewardship_2
+	father = 468510
+	mother = 468503
+	11329.1.1 = {
+		birth = "11329.1.1"
+	}
+	11372.1.1 = {
+		death = "11372.1.1"
+	}
+}
+
+468504 = {
+	name = "Theodora"
+	female = yes
+	dynasty = 184
+	martial = 5
+	diplomacy = 7
+	intrigue = 7
+	stewardship = 8
+	religion = "orthodox"
+	culture = "serbian"
+	trait = education_stewardship_2
+	father = 468510
+	mother = 468503
+	11330.1.1 = {
+		birth = "11330.1.1"
+	}
+	11381.1.1 = {
+		death = "11381.1.1"
+	}
+}
+
+468505 = {
+	name = "Uros"
+	# AKA: Stefan Uros Milutin
+	dynasty = 184
+	martial = 7
+	diplomacy = 4
+	intrigue = 8
+	stewardship = 6
+	religion = "orthodox"
+	culture = "serbian"
+	trait = zealous
+	trait = cynical
+	trait = education_martial_3
+	father = 34088
+	mother = 34116
+	11253.1.1 = {
+		birth = "11253.1.1"
+	}
+	11278.1.1 = {
+		add_spouse = 467531
+	}
+	11321.10.29 = {
+		death = "11321.10.29"
+	}
+}
+
+468506 = {
+	name = "Jelena"
+	female = yes
+	dynasty = 184
+	martial = 6
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "serbian"
+	trait = greedy
+	trait = education_diplomacy_1
+	father = 468510
+	mother = 467541
+	11296.1.1 = {
+		birth = "11296.1.1"
+	}
+	11345.1.2 = {
+		death = "11345.1.2"
+	}
+}
+
+468510 = {
+	name = "Uros"
+	# AKA: Stefan Uros III
+	dynasty = 184
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 8
+	religion = "orthodox"
+	culture = "serbian"
+	trait = bastard
+	trait = arrogant
+	trait = education_martial_3
+	father = 468505
+	#mother = unknown
+	11276.1.1 = {
+		birth = "11276.1.1"
+	}
+	11300.1.1 = {
+		add_spouse = 467541
+	}
+	11329.1.2 = {
+		add_spouse = 468503
+	}
+	11331.11.3 = {
+		death = "11331.11.3"
+	}
+}
+
+215008 = {
+	name = "Progon"
+	dynasty = 20071
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 8
+	religion = "orthodox"
+	culture = "serbian" #albanian
+	trait = education_martial_2
+	11160.1.1 = {
+		birth = "11160.1.1"
+	}
+	11200.1.1 = {
+		death = "11200.1.1"
+	}
+}
+
+232538 = {
+	name = "Gjin"
+	dynasty = 20071
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "serbian" #albanian
+	trait = humble
+	trait = education_martial_2
+	father = 215008
+	11179.1.1 = {
+		birth = "11179.1.1"
+	}
+	11208.1.1 = {
+		death = "11208.1.1"
+	}
+}
+
+232539 = {
+	name = "Dimitrije"
+	dynasty = 20071
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "serbian" #albanian
+	trait = honest
+	trait = education_learning_2
+	father = 215008
+	11182.1.1 = {
+		birth = "11182.1.1"
+	}
+	11211.1.1 = {
+		add_spouse = 34101
+	}
+	11215.1.1 = {
+		death = "11215.1.1"
+	}
+}
+
+232540 = {
+	name = "Grgur"
+	dynasty = 20072
+	martial = 4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	religion = "orthodox"
+	culture = "serbian" #albanian
+	trait = greedy
+	trait = education_stewardship_2
+	11190.1.1 = {
+		birth = "11190.1.1"
+	}
+	11211.1.1 = {
+		add_spouse = 34446
+	}
+	11216.1.1 = {
+		add_spouse = 34101
+	}
+	11234.1.1 = {
+		death = "11234.1.1"
+	}
+}
+
+34446 = {
+	name = "Anna"
+	female = yes
+	dynasty = 20071
+	religion = "orthodox"
+	culture = "serbian"
+	father = 232538
+	11195.1.1 = {
+		birth = "11195.1.1"
+	}	
+	11216.1.1 = {
+		death = "11216.1.1"
+	}
+}
+
+34447 = {
+	name = "Irene"
+	female = yes
+	dynasty = 20071
+	religion = "orthodox"
+	culture = "serbian"
+	father = 232539
+	mother = 34101
+	11212.1.1 = {
+		birth = "11212.1.1"
+	}	
+	11262.1.1 = {
+		death = "11262.1.1"
+	}
+}
+
+34448 = {
+	name = "Goulamos"
+	dynasty = 20072
+	religion = "orthodox"
+	culture = "serbian"
+	father = 232540
+	mother = 34446
+	11212.1.1 = {
+		birth = "11212.1.1"
+	}
+	11228.1.1 = {
+		add_spouse = 34447
+	}	
+	11262.1.1 = {
+		death = "11262.1.1"
+	}
+}
+
+163116 = {
+	name = "Mutimir"
+	dynasty = 100502
+	religion = slavic_pagan
+	culture = "serbian"
+	father = 167861
+	10830.1.1 = {
+		birth = "10830.1.1"
+	}
+	10870.1.1 = {
+		religion = orthodox
+	}
+	10891.1.1 = {
+		death = "10891.1.1"
+	}
+}
+
+167858 = {
+	name = "Vojislav"
+	dynasty = 100502
+	religion = "slavic_pagan"
+	culture = "serbian"
+	10735.1.1 = {
+		birth = "10735.1.1"
+	}
+	10814.1.1 = {
+		death = "10814.1.1"
+	}
+}
+
+
+
+
+167859 = {
+	name = "Radoslav"
+	dynasty = 100502
+	religion = "slavic_pagan"
+	culture = "serbian"
+	father = 167858
+	10755.1.1 = {
+		birth = "10755.1.1"
+	}
+	10822.1.1 = {
+		death = "10822.1.1"
+	}
+}
+
+
+
+
+167860 = {
+	name = "Prosigoj"
+	dynasty = 100502
+	religion = "slavic_pagan"
+	culture = "serbian"
+	father = 167859
+	10785.1.1 = {
+		birth = "10785.1.1"
+	}
+	10836.1.1 = {
+		death = "10836.1.1"
+	}
+}
+
+
+
+
+167861 = {
+	name = "Vlastimir"
+	dynasty = 100502
+	religion = slavic_pagan
+	culture = "serbian"
+	father = 167860
+	10805.1.1 = {
+		birth = "10805.1.1"
+	}
+	10851.1.1 = {
+		death = "10851.1.1"
+	}
+}
+
+
+
+167862 = {
+	name = "Strojimir"
+	dynasty = 100502
+	religion = slavic_pagan
+	culture = "serbian"
+	father = 167861
+	10832.1.1 = {
+		birth = "10832.1.1"
+	}
+	10870.1.1 = {
+		religion = orthodox
+	}
+	10880.1.1 = {
+		death = "10880.1.1"
+	}
+}
+
+
+
+
+167863 = {
+	name = "Gojnik"
+	dynasty = 100502
+	religion = slavic_pagan
+	culture = "serbian"
+	father = 167861
+	10834.1.1 = {
+		birth = "10834.1.1"
+	}
+	10870.1.1 = {
+		religion = orthodox
+	}
+	10880.1.1 = {
+		death = "10880.1.1"
+	}
+}
+
+
+
+
+167864 = {
+	name = "Miljana" #real name is unknown
+	dynasty = 100502
+	female = yes
+	religion = slavic_pagan
+	culture = "serbian"
+	father = 167861
+	10825.1.1 = {
+		birth = "10825.1.1"
+	}
+	10870.1.1 = {
+		religion = orthodox
+	}
+	10875.1.1 = {
+		death = "10875.1.1"
+	}
+}
+
+167865 = {
+	name = "Boleslav"
+	dynasty = 9560
+	religion = "slavic_pagan"
+	culture = "serbian"
+	father = 146009
+	10790.1.1 = {
+		birth = "10790.1.1"
+	}
+	10841.1.1 = {
+		death = "10841.1.1"
+	}
+}
+
+
+
+167866 = {
+	name = "Krajina"
+	dynasty = 9560
+	religion = "slavic_pagan"
+	culture = "serbian"
+	father = 167865
+	10815.1.1 = {
+		birth = "10815.1.1"
+	}
+	10841.1.1. = {
+		add_spouse = 167864
+	}
+	10848.1.1 = {
+		death = "10848.1.1"
+	}
+}
+
+
+167867 = {
+	name = "Hvalimir"
+	dynasty = 9560
+	religion = "slavic_pagan"
+	culture = "serbian"
+	father = 167866
+	mother = 167864
+	10842.1.1 = {
+		birth = "10842.1.1"
+	}
+	10870.1.1 = {
+		religion = orthodox
+	}
+	10892.1.1 = {
+		death = "10892.1.1"
+	}
+}
+
+
+167868 = {
+	name = "Cucimir"
+	dynasty = 9560
+	religion = "orthodox"
+	culture = "serbian"
+	father = 167867
+	10860.1.1 = {
+		birth = "10860.1.1"
+	}
+	
+	10910.1.1 = {
+		death = "10910.1.1"
+	}
+}
+
+
+167869 = {
+	name = "Prvoslav"
+	dynasty = 100502
+	religion = "orthodox"
+	culture = "serbian"
+	father = 163116
+	10850.1.1 = {
+		birth = "10850.1.1"
+	}
+	10900.1.1 = {
+		death = "10900.1.1"
+	}
+}
+
+167870 = {
+	name = "Zaharije"
+	dynasty = 100502
+	religion = "orthodox"
+	culture = "serbian"
+	father = 167869
+	10870.1.1 = {
+		birth = "10870.1.1"
+	}
+	10924.1.1 = {
+		death = "10924.1.1"
+	}
+}
+
+
+
+
+167871 = {
+	name = "Bran"
+	dynasty = 100502
+	religion = "orthodox"
+	culture = "serbian"
+	father = 163116
+	10855.1.1 = {
+		birth = "10855.1.1"
+	}
+	10905.1.1 = {
+		death = "10905.1.1"
+	}
+}
+
+
+
+
+167872 = {
+	name = "Stefan"
+	dynasty = 100502
+	religion = "orthodox"
+	culture = "serbian"
+	father = 163116
+	10855.1.1 = {
+		birth = "10855.1.1"
+	}
+	10905.1.1 = {
+		death = "10905.1.1"
+	}
+}
+
+
+167873 = {
+	name = "Pavel"
+	dynasty = 100502
+	religion = "orthodox"
+	culture = "serbian"
+	father = 167871
+	10875.1.1 = {
+		birth = "10875.1.1"
+	}
+	10925.1.1 = {
+		death = "10925.1.1"
+	}
+}
+
+
+
+167874 = {
+	name = "Klonimir"
+	dynasty = 100502
+	religion = "orthodox"
+	culture = "serbian"
+	father = 167862
+	10855.1.1 = {
+		birth = "10855.1.1"
+	}
+	10905.1.1 = {
+		death = "10905.1.1"
+	}
+}
+
+
+
+167875 = {
+	name = "Caslav"
+	dynasty = 100502
+	religion = "orthodox"
+	culture = "serbian"
+	father = 167874
+	10895.1.1 = {
+		birth = "10895.1.1"
+	}
+	10960.1.1 = {
+		death = "10960.1.1"
+	}
+}
+
+
+
+167876 = {
+	name = "Petar"
+	dynasty = 100502
+	religion = "orthodox"
+	culture = "serbian"
+	father = 167863
+	10860.1.1 = {
+		birth = "10860.1.1"
+	}
+	10917.1.1 = {
+		death = "10917.1.1"
+	}
+}
+
+## Start of 867 Dalmatian Coast rulers
+303447 = {	#Fictional ruler of Zachlumia in 867
+	name = "Pavel"
+	#dynasty = xxx
+	religion = slavic_pagan
+	culture = serbian
+	10843.2.18 = {
+		birth = yes
+	}
+	10908.3.30 = {
+		death = yes
+	}
+}
+303448 = {	#Fictional ruler of Paganija in 867
+	name = "Gjin"
+	#dynasty = xxx
+	religion = slavic_pagan
+	culture = serbian
+	10848.7.20 = {
+		birth = yes
+	}
+	10910.1.16 = {
+		death = yes
+	}
+}
+303449 = {	#Fictional ruler of Travunija in 867
+	name = "Uros"
+	#dynasty = xxx
+	religion = slavic_pagan
+	culture = serbian
+	10851.1.12 = {
+		birth = yes
+	}
+	10909.2.6 = {
+		death = yes
+	}
+}
+303450 = {	#Fictional ruler of Duklja in 867
+	name = "Miroslav"
+	#dynasty = xxx
+	religion = slavic_pagan
+	culture = serbian
+	10840.11.2 = {
+		birth = yes
+	}
+	10913.4.9 = {
+		death = yes
+	}
+}
+## End of 867 Dalmatian Coast rulers

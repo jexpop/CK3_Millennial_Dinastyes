@@ -1,0 +1,1101 @@
+﻿# -*- ck2.history.characters -*-
+
+#Beja or Blemmyes
+#Characters: 1228760 - 1228799
+#Dynasties: 1101230 - 1101249
+
+
+
+1228760 = {
+	name = "KA_nU_n" #ibn 'Abd al-'Azíz
+	dynasty = 1101239
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = 1231653
+	10805.1.1 = {
+		birth = yes
+	}
+	10850.1.1 = {
+		death = yes
+	}
+}
+1228761 = {
+	name = "AlI__BA_bA_"
+	dynasty = 1101239
+	religion = "ashari"
+	culture = "beja"
+	father = 1228760
+	10830.1.1 = {
+		birth = yes
+	}
+	10866.1.1 = {
+		add_pressed_claim = title:d_bazin
+		add_pressed_claim = title:d_baqlin
+		add_pressed_claim = title:d_naqis
+	}
+	10876.1.1 = {
+		death = yes
+	}
+}
+1228762 = {
+	name = "Abdak"
+	dynasty = 1101239
+	religion = "ashari"
+	culture = "beja"
+	father = 1228764
+	10910.1.1 = {
+		birth = yes
+	}
+	10940.1.1 = {
+		death = yes
+	}
+}
+1228763 = {
+	name = "Kuwk"
+	dynasty = 1101239
+	religion = "ashari"
+	culture = "beja"
+	father = 1228764
+	10912.1.1 = {
+		birth = yes
+	}
+	10943.1.1 = {
+		death = yes
+	}
+}
+1228764 = {
+	name = "Abu_Abdak"
+	dynasty = 1101239
+	religion = "ashari"
+	culture = "beja"
+	father = 1228767
+	10888.1.1 = {
+		birth = yes
+	}
+	10930.1.1 = {
+		death = yes
+	}
+}
+1228765 = {
+	name = "Khor" #wife of Arab Rabia chief Bishar ibn Marwan, sister of Abdak and Kuwk. Her name is unknown.
+	female = yes
+	dynasty = 1101239
+	religion = "ashari"
+	culture = "beja"
+	father = 1228764
+	10906.1.1 = {
+		birth = yes
+	}
+	10922.1.1 = {
+		add_spouse = bedouin0021
+	}
+	10980.1.1 = {
+		death = yes
+	}
+}
+1228766 = {
+	name = "Hidirbi"
+	dynasty = 1101239 #Hadariba chief in late 12th century
+	religion = "ashari"
+	culture = "beja"
+	stewardship = 6
+	father = 1228772
+	11150.1.1 = {
+		birth = yes
+	}
+	11208.1.1 = {
+		death = yes
+	}
+}
+1228767 = {
+	name = "KA_nU_n" # ibn Alí placeholder
+	dynasty = 1101230
+	religion = "coptic"
+	culture = "beja"
+	father = 1228761
+	10865.1.1 = {
+		birth = yes
+	}
+	10920.1.1 = {
+		death = yes
+	}
+}
+1228768 = {
+	name = "Balwia" #placeholder
+	dynasty = 1101239 #Hadariba
+	religion = "ashari"
+	culture = "beja"
+	father = beja0034
+	10960.1.1 = {
+		birth = yes
+	}
+	11020.1.1 = {
+		death = yes
+	}
+}
+
+1228769 = {
+	name = "Dura" #placeholder
+	dynasty = 1101239 #Hadariba
+	religion = "ashari"
+	culture = "beja"
+	father = 1228768
+	10995.1.1 = {
+		birth = yes
+	}
+	11060.1.1 = {
+		death = yes
+	}
+}
+1228770 = {
+	name = "Marwan" #placeholder
+	dynasty = 1101239 #Hadariba
+	religion = "ashari"
+	culture = "beja"
+	father = 1228769
+	11030.1.1 = {
+		birth = yes
+	}
+	11090.1.1 = {
+		death = yes
+	}
+}
+1228771 = {
+	name = "Kahil" #placeholder
+	dynasty = 1101239 #Hadariba
+	religion = "ashari"
+	culture = "beja"
+	father = 1228770
+	11070.1.1 = {
+		birth = yes
+	}
+	11125.1.1 = {
+		death = yes
+	}
+}
+1228772 = {
+	name = "Mortada" #placeholder
+	dynasty = 1101239 #Hadariba
+	religion = "ashari"
+	culture = "beja"
+	father = 1228771
+	11110.1.1 = {
+		birth = yes
+	}
+	11160.1.1 = {
+		death = yes
+	}
+}
+1228773 = {
+	name = "Kahil" #placeholder
+	dynasty = 1101239 #Hadariba
+	religion = "ashari"
+	culture = "beja"
+	father = 1228766
+	11188.1.1 = {
+		birth = yes
+	}
+	11230.1.1 = {
+		death = yes
+	}
+}
+1228774 = {
+	name = "Abdak" #placeholder
+	dynasty = 1101239 #Hadariba
+	religion = "ashari"
+	culture = "beja"
+	father = 1228773
+	11215.1.1 = {
+		birth = yes
+	}
+	11260.1.1 = {
+		death = yes
+	}
+}
+1228775 = {
+	name = "AlI_" #placeholder
+	dynasty = 1101239 #Hadariba
+	religion = "ashari"
+	culture = "beja"
+	father = 1228774
+	11240.1.1 = {
+		birth = yes
+	}
+	11300.1.1 = {
+		death = yes
+	}
+}
+1228776 = {
+	name = "Kahil" #placeholder
+	dynasty = 1101239 #Hadariba
+	religion = "ashari"
+	culture = "beja"
+	father = 1228775
+	11275.1.1 = {
+		birth = yes
+	}
+	11325.1.1 = {
+		death = yes
+	}
+}
+1228777 = {
+	name = "KA_nU_n" #placeholder
+	dynasty = 1101239 #Hadariba
+	religion = "ashari"
+	culture = "beja"
+	father = 1228776
+	11302.1.1 = {
+		birth = yes
+	}
+	11360.1.1 = {
+		death = yes
+	}
+}
+
+#Kawbar - Naqis kingdom
+1228778 = {
+	name = "Kawbar" #placeholder
+	dynasty = 1101234 #Kawbar
+	religion = "ashari"
+	culture = "beja"
+	10845.1.1 = {
+		birth = yes
+	}
+	10899.1.1 = {
+		death = yes
+	}
+}
+1228779 = {
+	name = "Balwia" #placeholder
+	dynasty = 1101234 #Kawbar
+	religion = "ashari"
+	culture = "beja"
+	11032.1.1 = {
+		birth = yes
+	}
+	11090.1.1 = {
+		death = yes
+	}
+}
+1228780 = {
+	name = "Aririit" #placeholder
+	dynasty = 1101234 #Kawbar
+	religion = "ashari"
+	culture = "beja"
+	father = 1228779
+	11064.1.1 = {
+		birth = yes
+	}
+	11111.1.1 = {
+		death = yes
+	}
+}
+1228781 = {
+	name = "Hashim" #placeholder
+	dynasty = 1101234 #Kawbar
+	religion = "ashari"
+	culture = "beja"
+	father = 1228780
+	11096.1.1 = {
+		birth = yes
+	}
+	11140.1.1 = {
+		death = yes
+	}
+}
+1228782 = {
+	name = "Balwia" #placeholder
+	dynasty = 1101234 #Kawbar
+	religion = "ashari"
+	culture = "beja"
+	father = 1228781
+	11124.1.1 = {
+		birth = yes
+	}
+	11178.1.1 = {
+		death = yes
+	}
+}
+
+# Baqlin kingdom
+1228783 = {
+	name = "Surkina" #placeholder
+	dynasty = 1101237 #Zanafig
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0003
+	10840.1.1 = {
+		birth = yes
+	}
+	10888.1.1 = {
+		death = yes
+	}
+}
+1228784 = {
+	name = "Taha" #placeholder
+	dynasty = 1101237 #Zanafig
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0009
+	11048.1.1 = {
+		birth = yes
+	}
+	11107.1.1 = {
+		death = yes
+	}
+}
+1228785 = {
+	name = "Omda" #placeholder
+	dynasty = 1101237 #Zanafig
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = 1228784
+	11078.1.1 = {
+		birth = yes
+	}
+	11133.1.1 = {
+		death = yes
+	}
+}
+1228786 = {
+	name = "Yaas" #placeholder
+	dynasty = 1101237 #Zanafig
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = 1228785
+	11112.1.1 = {
+		birth = yes
+	}
+	11168.1.1 = {
+		death = yes
+	}
+}
+1228787 = {
+	name = "Digna" #placeholder
+	dynasty = 1101237 #Zanafig
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = 1228786
+	11147.1.1 = {
+		birth = yes
+	}
+	11212.1.1 = {
+		death = yes
+	}
+}
+1228788 = {
+	name = "Khawr" #placeholder
+	dynasty = 1101237 #Zanafig
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = 1228787
+	11185.1.1 = {
+		birth = yes
+	}
+	11253.1.1 = {
+		death = yes
+	}
+}
+
+#Zanafig of the Bazin kingdom
+1228789 = {
+	name = "Fias" #placeholder
+	dynasty = 1101237 #Zanafig
+	religion = "coptic"
+	culture = "beja"
+	father = beja0004
+	10845.1.1 = {
+		birth = yes
+	}
+	10901.1.1 = {
+		death = yes
+	}
+}
+1228790 = {
+	name = "Tirik" #placeholder
+	dynasty = 1101237 #Zanafig
+	religion = "coptic"
+	culture = "beja"
+	11050.1.1 = {
+		birth = yes
+	}
+	11078.1.1 = {
+		religion = "ashari"
+	}
+	11103.1.1 = {
+		death = yes
+	}
+}
+1228791 = {
+	name = "Marwan" #placeholder
+	dynasty = 1101237 #Zanafig
+	religion = "ashari"
+	culture = "beja"
+	father = 1228790
+	11079.1.1 = {
+		birth = yes
+	}
+	11133.1.1 = {
+		death = yes
+	}
+}
+#Kelu - Qataa kingdom
+1228792 = {
+	name = "Yin" #placeholder
+	dynasty = 1101245 #Kelou
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0001
+	10825.1.1 = {
+		birth = yes
+	}
+	10880.1.1 = {
+		death = yes
+	}
+}
+#Amarar - Djarin kingdom
+1228793 = {
+	name = "Sinder" #placeholder
+	dynasty = 1101240 #Amarar
+	religion = "kushitism_pagan"
+	culture = "beja"
+	10844.1.1 = {
+		birth = yes
+	}
+	10892.1.1 = {
+		death = yes
+	}
+}
+#Suakini - Dahlak patrician family
+1228794 = {
+	name = "Abdullah" #placeholder
+	dynasty = 1101241 #Suakini
+	religion = "ashari"
+	culture = "beja"
+	11040.1.1 = {
+		birth = yes
+	}
+	11092.1.1 = {
+		death = yes
+	}
+}
+1228795 = {
+	name = "Aririit" #placeholder
+	dynasty = 1101241 #Suakini
+	religion = "ashari"
+	culture = "beja"
+	father = 1228794
+	11065.1.1 = {
+		birth = yes
+	}
+	11119.1.1 = {
+		death = yes
+	}
+}
+1228796 = {
+	name = "Omar" #placeholder
+	dynasty = 1101241 #Suakini
+	religion = "ashari"
+	culture = "beja"
+	father = 1228795
+	11099.1.1 = {
+		birth = yes
+	}
+	11160.1.1 = {
+		death = yes
+	}
+}
+1228797 = {
+	name = "Yahya" #placeholder
+	dynasty = 1101241 #Suakini
+	religion = "ashari"
+	culture = "beja"
+	father = 1228796
+	11135.1.1 = {
+		birth = yes
+	}
+	11190.1.1 = {
+		death = yes
+	}
+}
+1228798 = {
+	name = "Danimay" #placeholder
+	dynasty = 1101241 #Suakini
+	religion = "ashari"
+	culture = "beja"
+	father = 1228797
+	11170.1.1 = {
+		birth = yes
+	}
+	11236.1.1 = {
+		death = yes
+	}
+}
+1228799 = {
+	name = "Hukwuma" #placeholder
+	dynasty = 1101241 #Suakini
+	religion = "ashari"
+	culture = "beja"
+	father = 1228798
+	11205.1.1 = {
+		birth = yes
+	}
+	11270.1.1 = {
+		death = yes
+	}
+}
+1231650 = {
+	name = "Danimay" #placeholder
+	dynasty = 1101241 #Suakini
+	religion = "ashari"
+	culture = "beja"
+	father = 1228799
+	11239.1.1 = {
+		birth = yes
+	}
+	11293.1.1 = {
+		death = yes
+	}
+}
+1231651 = {
+	name = "Kahil" #placeholder
+	dynasty = 1101241 #Suakini
+	religion = "ashari"
+	culture = "beja"
+	father = 1231650
+	11272.1.1 = {
+		birth = yes
+	}
+	11321.1.1 = {
+		death = yes
+	}
+}
+1231652 = {
+	name = "Khawr" #placeholder
+	dynasty = 1101241 #Suakini
+	religion = "ashari"
+	culture = "beja"
+	father = 1231651
+	11300.1.1 = {
+		birth = yes
+	}
+	11360.1.1 = {
+		death = yes
+	}
+}
+1231653 = {
+	name = "Abd_al-AzI_z"
+	dynasty = 1101230
+	religion = "kushitism_pagan"
+	culture = "beja"
+	10786.1.1 = {
+		birth = yes
+	}
+	10839.1.1 = {
+		death = yes
+	}
+}
+
+#Wolqayt
+1231654 = {
+	name = "Anakw" #nephew of holy man called Kuka who lived in mid 11th century
+	dynasty = 1101242 #Besharin
+	religion = "kushitism_pagan"
+	culture = "beja"
+	mother = 1231655
+	11045.1.1 = {
+		birth = yes
+	}
+	11099.1.1 = {
+		death = yes
+	}
+}
+1231655 = {
+	name = "Khor"
+	female = yes
+	dynasty = 1101242 #Besharin
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = 1231657
+	11022.1.1 = {
+		birth = yes
+	}
+	11069.1.1 = {
+		death = yes
+	}
+}
+1231656 = {
+	name = "Kuka"
+	dynasty = 1101242 #Besharin
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = 1231657
+	11020.1.1 = {
+		birth = yes
+	}
+	11068.1.1 = {
+		death = yes
+	}
+}
+1231657 = {
+	name = "Besharin" #fictional
+	dynasty = 1101242 #Besharin
+	religion = "kushitism_pagan"
+	culture = "beja"
+	11000.1.1 = {
+		birth = yes
+	}
+	11064.1.1 = {
+		death = yes
+	}
+}
+
+
+beja0001 = {
+	name = "Zanafig" #fictional forfather of the Zanafig people
+	dynasty = 1101237 #Zanafig
+	religion = "kushitism_pagan"
+	culture = "beja"
+	10796.1.1 = {
+		birth = yes
+	}
+	10840.1.1 = {
+		death = yes
+	}
+}
+beja0002 = {
+	name = "Sheib" #fictional ruler of Almada tribe
+	dynasty = 1101246 #Almada
+	religion = "kushitism_pagan"
+	culture = "beja"
+	10821.1.1 = {
+		birth = yes
+	}
+	10886.1.1 = {
+		death = yes
+	}
+}
+beja0003 = {
+	name = "Manasa" #fictional founder of the Baqlin line
+	dynasty = 1101237 #Zanafig
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0001
+	10817.1.1 = {
+		birth = yes
+	}
+	10840.1.1 = {
+		death = yes
+	}
+}
+beja0004 = {
+	name = "Gwilai" #fictional founder of the Bazin line
+	dynasty = 1101237 #Zanafig
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0001
+	10819.1.1 = {
+		birth = yes
+	}
+	10863.1.1 = {
+		death = yes
+	}
+}
+beja0005 = {
+	name = "Taha" #placeholder
+	dynasty = 1101237 #Zanafig
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = 1228783
+	10865.1.1 = {
+		birth = yes
+	}
+	10918.1.1 = {
+		death = yes
+	}
+}
+beja0006 = {
+	name = "Ghol" #placeholder
+	dynasty = 1101237 #Zanafig
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0005
+	10899.1.1 = {
+		birth = yes
+	}
+	10961.1.1 = {
+		death = yes
+	}
+}
+beja0007 = {
+	name = "Hadat" #placeholder
+	dynasty = 1101237 #Zanafig
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0006
+	10935.1.1 = {
+		birth = yes
+	}
+	10989.1.1 = {
+		death = yes
+	}
+}
+beja0008 = {
+	name = "Barakwin" #placeholder
+	dynasty = 1101237 #Zanafig
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0007
+	10971.1.1 = {
+		birth = yes
+	}
+	11028.1.1 = {
+		death = yes
+	}
+}
+beja0009 = {
+	name = "Khawr" #placeholder
+	dynasty = 1101237 #Zanafig
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0008
+	11010.1.1 = {
+		birth = yes
+	}
+	11064.1.1 = {
+		death = yes
+	}
+}
+
+#Kassala semi-fictional dynasty
+beja0010 = {
+	name = "Haffara" #placeholder
+	dynasty = 1101243 #Haffara - was located nearby Kassala around 800 A.D.
+	religion = "kushitism_pagan"
+	culture = "beja"
+	10815.1.1 = {
+		birth = yes
+	}
+	10862.1.1 = {
+		death = yes
+	}
+}
+beja0011 = {
+	name = "Wailali" #placeholder
+	dynasty = 1101243 #Haffara
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0010
+	10839.1.1 = {
+		birth = yes
+	}
+	10896.1.1 = {
+		death = yes
+	}
+}
+
+#Kassala semi-fictional dynasty
+beja0012 = {
+	name = "Karabkinab" #placeholder
+	dynasty = 1101244 #Karabkinab - was located nearby Kassala around 800 A.D.
+	religion = "kushitism_pagan"
+	culture = "beja"
+	10810.1.1 = {
+		birth = yes
+	}
+	10862.1.1 = {
+		death = yes
+	}
+}
+beja0013 = {
+	name = "Barik" #placeholder
+	dynasty = 1101244 #Karabkinab
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0012
+	10842.1.1 = {
+		birth = yes
+	}
+	10900.1.1 = {
+		death = yes
+	}
+}
+
+beja0014 = {
+	name = "Amar" #fictional ruler of Almada tribe
+	dynasty = 1101246 #Almada
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0002
+	10858.1.1 = {
+		birth = yes
+	}
+	10913.1.1 = {
+		death = yes
+	}
+}
+beja0015 = {
+	name = "Amil" #fictional ruler of Almada tribe
+	dynasty = 1101246 #Almada
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0014
+	10892.1.1 = {
+		birth = yes
+	}
+	10958.1.1 = {
+		death = yes
+	}
+}
+beja0016 = {
+	name = "Sheib" #fictional ruler of Almada tribe
+	dynasty = 1101246 #Almada
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0015
+	10928.1.1 = {
+		birth = yes
+	}
+	10980.1.1 = {
+		death = yes
+	}
+}
+beja0017 = {
+	name = "Amil" #fictional ruler of Almada tribe
+	dynasty = 1101246 #Almada
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0016
+	10960.1.1 = {
+		birth = yes
+	}
+	11015.1.1 = {
+		death = yes
+	}
+}
+beja0018 = {
+	name = "Hadab" #fictional ruler of Almada tribe
+	dynasty = 1101246 #Almada
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0017
+	10995.1.1 = {
+		birth = yes
+	}
+	11058.1.1 = {
+		death = yes
+	}
+}
+beja0019 = {
+	name = "Kahil" #fictional ruler of Almada tribe
+	dynasty = 1101246 #Almada
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0018
+	11036.1.1 = {
+		birth = yes
+	}
+	11089.1.1 = {
+		death = yes
+	}
+}
+beja0020 = {
+	name = "Hadab" #fictional ruler of Almada tribe
+	dynasty = 1101246 #Almada
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0019
+	11070.1.1 = {
+		birth = yes
+	}
+	11135.1.1 = {
+		death = yes
+	}
+}
+beja0021 = {
+	name = "Telu" #fictional ruler of Almada tribe
+	dynasty = 1101246 #Almada
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0020
+	11116.1.1 = {
+		birth = yes
+	}
+	11164.1.1 = {
+		death = yes
+	}
+}
+beja0022 = {
+	name = "Kurb" #fictional ruler of Almada tribe
+	dynasty = 1101246 #Almada
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0021
+	11148.1.1 = {
+		birth = yes
+	}
+	11198.1.1 = {
+		death = yes
+	}
+}
+beja0023 = {
+	name = "Barakwin" #fictional ruler of Almada tribe
+	dynasty = 1101246 #Almada
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0022
+	11184.1.1 = {
+		birth = yes
+	}
+	11243.1.1 = {
+		death = yes
+	}
+}
+
+beja0024 = {
+	name = "Aderob" #placeholder
+	dynasty = 1101245 #Kelou
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = 1228792
+	10862.1.1 = {
+		birth = yes
+	}
+	10920.1.1 = {
+		death = yes
+	}
+}
+beja0025 = {
+	name = "Hadat" #placeholder
+	dynasty = 1101245 #Kelou
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0024
+	10899.1.1 = {
+		birth = yes
+	}
+	10966.1.1 = {
+		death = yes
+	}
+}
+beja0026 = {
+	name = "Angrun" #placeholder
+	dynasty = 1101245 #Kelou
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0025
+	10934.1.1 = {
+		birth = yes
+	}
+	11000.1.1 = {
+		death = yes
+	}
+}
+beja0027 = {
+	name = "Aqib" #placeholder
+	dynasty = 1101245 #Kelou
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0026
+	10980.1.1 = {
+		birth = yes
+	}
+	11036.1.1 = {
+		death = yes
+	}
+}
+beja0028 = {
+	name = "Hadat" #placeholder
+	dynasty = 1101245 #Kelou
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0027
+	11018.1.1 = {
+		birth = yes
+	}
+	11065.1.1 = {
+		death = yes
+	}
+}
+beja0029 = {
+	name = "Aqib" #placeholder
+	dynasty = 1101245 #Kelou
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0028
+	11048.1.1 = {
+		birth = yes
+	}
+	11101.1.1 = {
+		death = yes
+	}
+}
+beja0030 = {
+	name = "Rayaneit" #placeholder
+	dynasty = 1101245 #Kelou
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0029
+	11081.1.1 = {
+		birth = yes
+	}
+	11134.1.1 = {
+		death = yes
+	}
+}
+beja0031 = {
+	name = "Angrun" #placeholder
+	dynasty = 1101245 #Kelou
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0030
+	11112.1.1 = {
+		birth = yes
+	}
+	11158.1.1 = {
+		death = yes
+	}
+}
+beja0032 = {
+	name = "Rayaneit" #placeholder
+	dynasty = 1101245 #Kelou
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0031
+	11139.1.1 = {
+		birth = yes
+	}
+	11195.1.1 = {
+		death = yes
+	}
+}
+beja0033 = {
+	name = "Gwilai" #placeholder
+	dynasty = 1101245 #Kelou
+	religion = "kushitism_pagan"
+	culture = "beja"
+	father = beja0032
+	11168.1.1 = {
+		birth = yes
+	}
+	11230.1.1 = {
+		death = yes
+	}
+}
+beja0034 = {
+	name = "Rayaneit" #placeholder
+	dynasty = 1101239 #Hadariba
+	religion = "ashari"
+	culture = "beja"
+	father = 1228763
+	10932.1.1 = {
+		birth = yes
+	}
+	10986.1.1 = {
+		death = yes
+	}
+}
+
+
+#Free Characters: 1231653 - 1231659
+# Dynasties: 1101230 - 1101249

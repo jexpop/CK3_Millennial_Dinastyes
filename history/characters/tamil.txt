@@ -1,0 +1,1888 @@
+﻿175070 = {
+	name = "Nantivarman" # Nandivarman III
+	dynasty = 1043007
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189072
+	10822.1.1 = {
+		birth = "10822.1.1"
+	}
+	10869.1.1 = {
+		death = "10869.1.1"
+	}
+}
+
+175080 = {
+	name = "VicayA_laya" #Vijayalaya
+	dna = "175080_vicayalaya_chola_nadu"
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	trait = education_martial_3
+	trait = ambitious
+	trait = zealous
+	trait = diligent
+	father = 189402
+	10827.1.1 = {
+		birth = "10827.1.1"
+	}
+	10867.1.1 = {
+		add_prestige = 2000
+		add_piety = 1000
+		add_prestige_level = 2
+		add_piety_level = 2
+		add_gold = 400
+	}
+	10871.1.1 = {
+		death = "10871.1.1"
+	}
+}
+
+175090 = {
+	name = "Varakunavarman" # Varagunavarman II
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189068
+	10833.1.1 = {
+		birth = "10833.1.1"
+	}
+	10880.1.1 = {
+		death = "10880.1.1"
+	}
+}
+
+189033 = {
+	name = "ParA_ntaka" #Parantaka
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189032
+	mother = 74419
+	10880.1.1 = {
+		birth = "10880.1.1"
+	}
+	10955.1.1 = {
+		death = "10955.1.1"
+	}
+}
+189034 = {
+	name = "KantarA_titta" #Ganaraditya
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189033
+	10900.1.1 = {
+		birth = "10900.1.1"
+	}
+	10956.1.1 = {
+		death = "10956.1.1"
+	}
+}
+189035 = {
+	name = "Uttama"
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189034
+	10920.1.1 = {
+		birth = "10920.1.1"
+	}
+	10985.1.1 = {
+		death = "10985.1.1"
+	}
+}
+189036 = {
+	name = "AriN_caya" #Arinjaya
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189033
+	10901.1.1 = {
+		birth = "10901.1.1"
+	}
+	10957.1.1 = {
+		death = "10957.1.1"
+	}
+}
+189037 = {
+	name = "Cuntara" #Sundara
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189036
+	10920.1.1 = {
+		birth = "10920.1.1"
+	}
+	10970.1.1 = {
+		death = "10970.1.1"
+	}
+}
+189038 = {
+	name = "Arulmolivarman"
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189037
+	10947.1.1 = {
+		birth = "10947.1.1"
+	}
+	10985.1.1 = {
+		name = "IrA_carA_ca" #Rajaraja the Great
+	}
+	11010.1.1 = {
+		give_nickname = "nick_the_great"
+	}
+	11014.1.1 = {
+		death = "11014.1.1"
+	}
+}
+chola_daughters_1 = {
+	name = Kundavai
+	female = yes
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189038
+	10985.1.1 = {
+		birth = yes
+	}
+	11035.1.1 = {
+		death = yes
+	}
+}
+189039 = {
+	name = "IrA_cE_ntira" #Rajendra
+	dynasty = 1043008
+	religion = "vaishnavism"
+	culture = "tamil"
+	father = 189038
+	10980.1.1 = {
+		birth = yes
+	}
+	11040.1.1 = {
+		give_nickname = "nick_the_great"
+	}
+	11044.1.1 = {
+		death = yes
+	}
+}
+chola_daughters_2 = {
+	name = Ammangadevi
+	female = yes
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189039
+	11010.1.1 = {
+		birth = yes
+	}
+	11066.1.1 = {
+		death = yes
+	}
+}
+189040 = {
+	name = "IrA_cA_tirA_ca" #Rajadhiraja
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189039
+	11008.1.1 = {
+		birth = "11008.1.1"
+	}
+	11054.1.1 = {
+		death = "11054.1.1"
+	}
+}
+189041 = {
+	name = "IrA_cE_ntira" #Rajendra II
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189039
+	11009.1.1 = {
+		birth = "11009.1.1"
+	}
+	11063.1.1 = {
+		death = "11063.1.1"
+	}
+}
+chola_daughters_3 = {
+	name = Madhurantaki
+	female = yes
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189041
+	11040.1.1 = {
+		birth = yes
+	}
+	11110.1.1 = {
+		death = yes
+	}
+}
+kolutunga_wife_1 = {
+	name = Dinachintamani
+	female = yes
+	religion = "shaivism"
+	culture = "tamil"
+	11042.1.1 = {
+		birth = yes
+	}
+	11079.1.1 = {
+		death = yes
+	}
+}
+189042 = {
+	name = "VI_rarA_cE_ntira" #Virarajendra
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189039
+	11010.1.1 = {
+		birth = "11010.1.1"
+	}
+	11040.1.1 = {
+		add_spouse = additional_cholas_1
+	}
+	11066.1.1 = {
+		add_pressed_claim = title:d_ruhunu
+	}
+	11069.1.1 = {
+		death = "11069.1.1"
+	}
+}
+additional_cholas_1 = {
+	name = "Arulmolinangai" #Arulmolinangai
+	religion = "shaivism"
+	female = yes
+	culture = "tamil"
+	11023.1.1 = {
+		birth = yes
+	}
+	11070.1.1 = {
+		death = yes
+	}
+}
+
+additional_cholas_4 = {
+	name = "Rajasundari"
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189042 #Virajarendra
+	female = yes
+	11048.1.1 = {
+		birth = yes
+	}
+	11086.1.1 = {
+		death = yes
+	}
+}
+189043 = {
+	name = "AtirA_jE_ntira" #Athirajendra
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189042
+	mother = additional_cholas_1
+	11043.1.1 = {
+		birth = "11043.1.1"
+	}
+	11070.1.1 = {
+		death = "11070.1.1"
+	}
+}
+
+189044 = {
+	name = "AriN_caya" #name unknown
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189040
+	11039.1.1 = {
+		birth = "11039.1.1"
+	}
+	11100.1.1 = {
+		death = "11100.1.1"
+	}
+}
+189045 = {
+	name = "Atitta" #name unknown
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189040
+	11040.1.1 = {
+		birth = "11040.1.1"
+	}
+	11100.1.1 = {
+		death = "11100.1.1"
+	}
+}
+189046 = {
+	name = "Kadarangkonda"
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189041
+	11041.1.1 = {
+		birth = "11041.1.1"
+	}
+	11100.1.1 = {
+		death = "11100.1.1"
+	}
+}
+189047 = {
+	name = "Irattapadikonda"
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189041
+	11042.1.1 = {
+		birth = "11042.1.1"
+	}
+	11100.1.1 = {
+		death = "11100.1.1"
+	}
+}
+175100 = {
+	name = "KulacE_kara" # Sthanu Ravi Kulasekhara
+	dynasty = 1043010
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189048
+	10826.1.1 = {
+		birth = "10826.1.1"
+	}
+	10883.1.1 = {
+		death = "10883.1.1"
+	}
+}
+189048 = {
+	name = "IrA_cA_cekara" # Rama Rajasekhara
+	dynasty = 1043010
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189411
+	10780.1.1 = {
+		birth = "10780.1.1"
+	}
+	10844.1.1 = {
+		death = "10844.1.1"
+	}
+}
+189049 = {
+	name = "VicayA_raka" # Kota Ravi Vijayaraga
+	dynasty = 1043010
+	religion = "shaivism"
+	culture = "tamil"
+	father = 175100
+	10850.1.1 = {
+		birth = "10850.1.1"
+	}
+	10913.1.1 = {
+		death = "10913.1.1"
+	}
+}
+189050 = {
+	name = "KE_ralakecan" # Kota Kota Kerala Kesan
+	dynasty = 1043010
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189049
+	10880.1.1 = {
+		birth = "10880.1.1"
+	}
+	10943.1.1 = {
+		death = "10943.1.1"
+	}
+}
+189051 = {
+	name = "Indu_Kota" # Indu Kota
+	dynasty = 1043010
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189050
+	10900.1.1 = {
+		birth = "10900.1.1"
+	}
+	10962.1.1 = {
+		death = "10962.1.1"
+	}
+}
+189052 = {
+	name = "Manukuladilya" # Bhaskara Ravi Manukuladilya
+	dynasty = 1043010
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189051
+	10940.1.1 = {
+		birth = "10940.1.1"
+	}
+	11021.1.1 = {
+		death = "11021.1.1"
+	}
+}
+189053 = {
+	name = "IrA_cacimman" # Ravi Kota Rajasimha
+	dynasty = 1043010
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189052
+	10970.1.1 = {
+		birth = "10970.1.1"
+	}
+	11036.1.1 = {
+		death = "11036.1.1"
+	}
+}
+189054 = {
+	name = "IrA_carA_ca" # Rajaraja
+	dynasty = 1043010
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189053
+	11000.1.1 = {
+		birth = "11000.1.1"
+	}
+	11070.1.1 = {
+		death = "11070.1.1"
+	}
+}
+189055 = {
+	name = "IrA_cA_titta" # Rajaditya
+	dynasty = 1043010
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189053
+	11005.1.1 = {
+		birth = "11005.1.1"
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+189056 = {
+	name = "Ranatitta" # Ranaditya
+	dynasty = 1043010
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189053
+	11010.1.1 = {
+		birth = "11010.1.1"
+	}
+	11089.1.1 = {
+		death = "11089.1.1"
+	}
+}
+189057 = {
+	name = "KulacE_kara" # Rama Kulasekhara
+	dynasty = 1043010
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189056
+	11040.1.1 = {
+		birth = "11040.1.1"
+	}
+	11122.1.1 = {
+		death = "11122.1.1"
+	}
+}
+189058 = {
+	name = "Katunkon" # Kadungon
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	10521.1.1 = {
+		birth = "10521.1.1"
+	}
+	10590.1.1 = {
+		death = "10590.1.1"
+	}
+}
+189059 = {
+	name = "MA_ravarman" # Maravarman Avani Culamani
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189058
+	10553.1.1 = {
+		birth = "10553.1.1"
+	}
+	10620.1.1 = {
+		death = "10620.1.1"
+	}
+}
+189060 = {
+	name = "Celiyancentan" # Cezhiyan Cendan
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189059
+	10582.1.1 = {
+		birth = "10582.1.1"
+	}
+	10640.1.1 = {
+		death = "10640.1.1"
+	}
+}
+189061 = {
+	name = "Cayantavarman" # Jayantavarman
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189060
+	10607.1.1 = {
+		birth = "10607.1.1"
+	}
+	10670.1.1 = {
+		death = "10670.1.1"
+	}
+}
+189062 = {
+	name = "ArikE_cari" # Arikesari Maravarman Nindraseer Nedumaaran
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189061
+	10643.1.1 = {
+		birth = "10643.1.1"
+	}
+	10710.1.1 = {
+		death = "10710.1.1"
+	}
+}
+189063 = {
+	name = "RanatI_ran" # Kochadaiyan Ranadhiran
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189062
+	10666.1.1 = {
+		birth = "10666.1.1"
+	}
+	10735.1.1 = {
+		death = "10735.1.1"
+	}
+}
+189064 = {
+	name = "IrA_cacimman" # Arikesari Parankusa Maravarman Rajasimha I
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189063
+	10701.1.1 = {
+		birth = "10701.1.1"
+	}
+	10765.1.1 = {
+		death = "10765.1.1"
+	}
+}
+189065 = {
+	name = "ParA_ntaka" # Parantaka Nedunjadaiyan
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189064
+	10733.1.1 = {
+		birth = "10733.1.1"
+	}
+	10790.1.1 = {
+		death = "10790.1.1"
+	}
+}
+189066 = {
+	name = "IrA_cacimman" # Rajasimha II
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189065
+	10750.1.1 = {
+		birth = "10750.1.1"
+	}
+	10800.1.1 = {
+		death = "10800.1.1"
+	}
+}
+189067 = {
+	name = "Varakunavarman" # Varakunavarman I
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189066
+	10780.1.1 = {
+		birth = "10780.1.1"
+	}
+	10830.1.1 = {
+		death = "10830.1.1"
+	}
+}
+189068 = {
+	name = "CI_vallapan" # Sirmara Seervallabha
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189067
+	10800.1.1 = {
+		birth = "10800.1.1"
+	}
+	10862.1.1 = {
+		death = "10862.1.1"
+	}
+}
+189069 = {
+	name = "ParA_ntaka" # Parantaka Viranarayana
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189068
+	10835.1.1 = {
+		birth = "10835.1.1"
+	}
+	10900.1.1 = {
+		death = "10900.1.1"
+	}
+}
+189070 = {
+	name = "IrA_cacimman" # Maravarman Rajasimha
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189069
+	10861.1.1 = {
+		birth = "10861.1.1"
+	}
+	10920.1.1 = {
+		death = "10920.1.1"
+	}
+}
+
+189071 = {
+	name = "AparA_citavarman"
+	dynasty = 1043007
+	religion = "shaivism"
+	culture = "tamil"
+	father = 175070
+	10841.1.1 = {
+		birth = "10841.1.1"
+	}
+	10891.1.1 = {
+		death = "10891.1.1"
+	}
+}
+189072 = {
+	name = "Tantivarman"
+	dynasty = 1043007
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189073
+	10740.1.1 = {
+		birth = "10740.1.1"
+	}
+	10825.1.1 = {
+		death = "10825.1.1"
+	}
+}
+189073 = {
+	name = "Nantivarman"  #Nandivarman II
+	dynasty = 1043007
+	religion = "shaivism"
+	culture = "tamil"
+	10720.1.1 = {
+		birth = "10720.1.1"
+	}
+	10796.1.1 = {
+		death = "10796.1.1"
+	}
+}
+
+189107 = {
+	name = "Cembiyan"
+	dynasty_house = 1029175
+	religion = "shaivism"
+	culture = "telugu"
+	father = 189102
+	11025.1.1 = {
+		birth = "11025.1.1"
+	}
+	11065.1.1 = {
+		death = "11065.1.1"
+	}
+}
+
+189108 = {
+	name = "KulO_ttunka" #Kulothunga Chola
+	dynasty_house = house_chalukya_chola
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189105
+	mother = chola_daughters_2
+	11049.1.1 = {
+		birth = yes
+	}
+	11065.1.1 = {
+		add_spouse = kolutunga_wife_1
+	}
+	11066.1.1 = {
+		trait = brave
+		trait = arrogant
+		trait = ambitious
+		trait = diligent
+		trait = education_martial_4
+		add_spouse = chola_daughters_3
+	}
+	11122.1.1 = {
+		death = yes
+	}
+}
+
+chola_daughters_4 = {
+	name = Kuntavaiyalvar
+	female = yes
+	dynasty_house = house_chalukya_chola
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189105
+	mother = chola_daughters_2
+	11055.1.1 = {
+		birth = yes
+	}
+	11135.1.1 = {
+		death = yes
+	}
+}
+
+chola_daughters_5 = {
+	name = Maturantikiyalvar
+	female = yes
+	dynasty_house = house_chalukya_chola
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189105
+	mother = chola_daughters_2
+	11058.1.1 = {
+		birth = yes
+	}
+	11132.1.1 = {
+		death = yes
+	}
+}
+
+189109 = {
+	name = "Cuntara" # Sundara Pandya
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189070
+	10900.1.1 = {
+		birth = "10900.1.1"
+	}
+	10960.1.1 = {
+		death = "10960.1.1"
+	}
+}
+189110 = {
+	name = "Vira" # Virapandya
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189109
+	10930.1.1 = {
+		birth = "10930.1.1"
+	}
+	10980.1.1 = {
+		death = "10980.1.1"
+	}
+}
+189111 = {
+	name = "Vira" # Virapandya
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189110
+	10950.1.1 = {
+		birth = "10950.1.1"
+	}
+	11003.1.1 = {
+		death = "11003.1.1"
+	}
+}
+189112 = {
+	name = "Amarapuyankan" #Amarabhujanga Tivrakopa
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189111
+	10966.1.1 = {
+		birth = "10966.1.1"
+	}
+	11024.1.1 = {
+		death = "11024.1.1"
+	}
+}
+189113 = {
+	name = "Cuntara" #Jatavarman Sundara Chola Pandya
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189112
+	10993.1.1 = {
+		birth = "10993.1.1"
+	}
+	11035.1.1 = {
+		add_spouse = 74604
+	}
+	11050.1.1 = {
+		death = "11050.1.1"
+	}
+}
+189114 = {
+	name = "Vikkirama" #Maravarman Vikrama Chola Pandya
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189113
+	11010.1.1 = {
+		birth = "11010.1.1"
+	}
+	11065.1.1 = {
+		death = "11065.1.1"
+	}
+}
+189115 = {
+	name = "ParA_kkirama" # Maravarman Parakrama Chola Pandya
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189114
+	trait = arrogant
+	trait = ambitious
+	trait = deceitful
+	11030.1.1 = {
+		birth = "11030.1.1"
+	}
+	11081.1.1 = {
+		death = "11081.1.1"
+	}
+}
+189116 = {
+	name = "Cataiyavarman" # Jatavarman Chola Pandya
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189115
+	11060.1.1 = {
+		birth = "11060.1.1"
+	}
+	11101.1.1 = {
+		death = "11101.1.1"
+	}
+}
+189124 = {
+	name = "CI_vallapa" #Srivallabha Manakulachala
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189116
+	11080.1.1 = {
+		birth = "11080.1.1"
+	}
+	11132.1.1 = {
+		death = "11132.1.1"
+	}
+}
+189125 = {
+	name = "MA_ravarman" #Maaravaramban Seervallaban
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189124
+	11100.1.1 = {
+		birth = "11100.1.1"
+	}
+	11161.1.1 = {
+		death = "11161.1.1"
+	}
+}
+189126 = {
+	name = "ParA_kkirama" #Parakrama
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189124
+	11103.1.1 = {
+		birth = "11103.1.1"
+	}
+	11162.1.1 = {
+		death = "11162.1.1"
+	}
+}
+189127 = {
+	name = "Vira" #Vira
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189126
+	11120.1.1 = {
+		birth = "11120.1.1"
+	}
+	11175.1.1 = {
+		death = "11175.1.1"
+	}
+}
+189128 = {
+	name = "ParA_kkirama" #Parakrama
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189127
+	11140.1.1 = {
+		birth = "11140.1.1"
+	}
+	11215.1.1 = {
+		death = "11215.1.1"
+	}
+}
+189129 = {
+	name = "KulacE_karan" #Kulasekhara
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189125
+	11120.1.1 = {
+		birth = "11120.1.1"
+	}
+	11170.1.1 = {
+		death = "11170.1.1"
+	}
+}
+189130 = {
+	name = "Cataiyavarman" #Jatavarman Srivallaban
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189125
+	11125.1.1 = {
+		birth = "11125.1.1"
+	}
+	11180.1.1 = {
+		death = "11180.1.1"
+	}
+}
+189131 = {
+	name = "Vikkirama" #
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189125
+	11130.1.1 = {
+		birth = "11130.1.1"
+	}
+	11190.1.1 = {
+		death = "11190.1.1"
+	}
+}
+189132 = {
+	name = "KulacE_karan" # II
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189131
+	11150.1.1 = {
+		birth = "11150.1.1"
+	}
+	11216.1.1 = {
+		death = "11216.1.1"
+	}
+}
+189133 = {
+	name = "Cuntara" # Maravarman Sundara Pandyan I
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189131
+	11155.1.1 = {
+		birth = "11155.1.1"
+	}
+	11238.1.1 = {
+		death = "11238.1.1"
+	}
+}
+189134 = {
+	name = "Cuntara" # Maravaram Sundara Pandya II
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189133
+	11180.1.1 = {
+		birth = "11180.1.1"
+	}
+	11251.1.1 = {
+		death = "11251.1.1"
+	}
+}
+189135 = {
+	name = "Cuntara" #Jatavarman Sundara Pandya III
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189134
+	11200.1.1 = {
+		birth = "11200.1.1"
+	}
+	11268.1.1 = {
+		death = "11268.1.1"
+	}
+}
+189136 = {
+	name = "KulacE_kara" #Maravaramban Kulasekhara Pandya I
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189135
+	11230.1.1 = {
+		birth = "11230.1.1"
+	}
+	11308.1.1 = {
+		death = "11308.1.1"
+	}
+}
+189137 = {
+	name = "Sundara" #Jatavarman Sundara Pandya IV
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189136
+	11250.1.1 = {
+		birth = "11250.1.1"
+	}
+	11327.1.1 = {
+		death = "11327.1.1"
+	}
+}
+189138 = {
+	name = "Vira" #Jatavarman Vira Pandya
+	dynasty = 1043009
+	religion = "shaivism"
+	culture = "tamil"
+	trait = bastard
+	father = 189136
+	11260.1.1 = {
+		birth = "11260.1.1"
+	}
+	11327.1.1 = {
+		remove_trait = bastard
+		trait = legitimized_bastard
+	}
+	11345.1.1 = {
+		death = "11345.1.1"
+	}
+}
+
+189140 = {
+	name = "KulacE_kara"
+	dynasty = 1029177
+	religion = "shaivism"
+	culture = "oriya"
+	father = 189183
+	11120.1.1 = {
+		birth = "11120.1.1"
+	}
+	11170.1.1 = {
+		death = "11170.1.1"
+	}
+}
+189141 = {
+	name = "Kulingai" #Kalinga Magha
+	dynasty = 1029177
+	religion = "shaivism"
+	culture = "oriya"
+	father = 189140
+	11160.1.1 = {
+		birth = "11160.1.1"
+	}
+	11215.1.1 = {
+		dynasty = 1029178
+	}
+	11236.1.1 = {
+		death = "11236.1.1"
+	}
+}
+189142 = {
+	name = "KulacE_kara"
+	dynasty = 1029177
+	religion = "shaivism"
+	culture = "oriya"
+	father = 189141
+	11200.1.1 = {
+		birth = "11200.1.1"
+	}
+	11215.1.1 = {
+		dynasty = 1029178
+	}
+	11284.1.1 = {
+		death = "11284.1.1"
+	}
+}
+189143 = {
+	name = "KulO_ttunka"
+	dynasty = 1029178
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189142
+	11230.1.1 = {
+		birth = "11230.1.1"
+	}
+	11292.1.1 = {
+		death = "11292.1.1"
+	}
+}
+189144 = {
+	name = "Vikkirama"
+	dynasty = 1029178
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189143
+	11256.1.1 = {
+		birth = "11256.1.1"
+	}
+	11302.1.1 = {
+		death = "11302.1.1"
+	}
+}
+189145 = {
+	name = "VarO_taya" #Varodaya
+	dynasty = 1029178
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189144
+	11272.1.1 = {
+		birth = "11272.1.1"
+	}
+	11325.1.1 = {
+		death = "11325.1.1"
+	}
+}
+189146 = {
+	name = "MA_rttA_nta" #Martanda Cinkaiariyan
+	dynasty = 1029178
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189145
+	11290.1.1 = {
+		birth = "11290.1.1"
+	}
+	11348.1.1 = {
+		death = "11348.1.1"
+	}
+}
+
+189147 = {
+	name = "VI_racE_kara" #Virasekhara
+	dynasty = 1029183
+	religion = "shaivism"
+	culture = "tamil"
+	#father = Pallava descent
+	11133.1.1 = {
+		birth = "11133.1.1"
+	}
+	11190.1.1 = {
+		death = "11190.1.1"
+	}
+}
+
+189148 = {
+	name = "Manavalapperumal" #
+	dynasty = 1029183
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189147
+	11150.1.1 = {
+		birth = "11150.1.1"
+	}
+	11216.1.1 = {
+		death = "11216.1.1"
+	}
+}
+189149 = {
+	name = "KO_pperuN_cimman" #Kopperunchiga I
+	dynasty = 1029183
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189148
+	11180.1.1 = {
+		birth = "11180.1.1"
+	}
+	11243.1.1 = {
+		death = "11243.1.1"
+	}
+}
+189150 = {
+	name = "KO_pperuN_cimman" #Kopperunchiga II
+	dynasty = 1029183
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189149
+	11210.1.1 = {
+		birth = "11210.1.1"
+	}
+	11279.1.1 = {
+		death = "11279.1.1"
+	}
+}
+
+189117 = {
+	name = "Vikkirama" # Vikrama Chola
+	dynasty_house = house_chalukya_chola
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189108
+	11070.1.1 = {
+		birth = "11070.1.1"
+	}
+	11135.1.1 = {
+		death = "11135.1.1"
+	}
+}
+
+189118 = {
+	name = "KulO_ttunka" # Kulothunga II Chola
+	dynasty_house = house_chalukya_chola
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189117
+	11086.1.1 = {
+		birth = "11086.1.1"
+	}
+	11150.1.1 = {
+		death = "11150.1.1"
+	}
+}
+
+189119 = {
+	name = "IrA_carA_ca" # Rajaraja II Chola
+	dynasty_house = house_chalukya_chola
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189118
+	11110.1.1 = {
+		birth = "11110.1.1"
+	}
+	11173.1.1 = {
+		death = "11173.1.1"
+	}
+}
+
+189120 = {
+	name = "IrA_cA_tirA_ca" # Rajadhiraja II Chola
+	dynasty_house = house_chalukya_chola
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189119
+	11140.1.1 = {
+		birth = "11140.1.1"
+	}
+	11178.1.1 = {
+		death = "11178.1.1"
+	}
+}
+189121 = {
+	name = "KulO_ttunka" # Kulothunga III Chola
+	dynasty_house = house_chalukya_chola
+	religion = "shaivism"
+	culture = "tamil"
+	diplomacy = 5
+	martial = 7
+	stewardship = 7
+	intrigue = 4
+	learning = 5
+	trait = education_martial_3
+	trait = ambitious
+	trait = diligent
+	trait = forgiving
+	father = 189119
+	11145.1.1 = {
+		birth = "11145.1.1"
+	}
+	11218.1.1 = {
+		death = "11218.1.1"
+	}
+}
+189122 = {
+	name = "IrA_carA_ca" # Rajaraja III Chola
+	dynasty_house = house_chalukya_chola
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189121
+	11183.1.1 = {
+		birth = "11183.1.1"
+	}
+	11256.1.1 = {
+		death = "11256.1.1"
+	}
+}
+189123 = {
+	name = "IrA_cE_ntira" #Rajendra III
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189122
+	11210.1.1 = {
+		birth = "11210.1.1"
+	}
+	11280.1.1 = {
+		death = "11280.1.1"
+	}
+}
+
+74780 = {
+	name = "OlimatiyA_r"
+	dynasty = 1043008
+	female = yes
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189042
+
+	11045.1.1 = {
+		birth = "10850.1.1"
+	}
+	11100.1.1 = {
+		death = "10907.1.1"
+	}
+}
+189420 = {
+	name = "Paluvettaraiyar" #
+	dynasty = 10290901
+	religion = "shaivism"
+	culture = "tamil"
+	10700.1.1 = {
+		birth = "10700.1.1"
+	}
+	10745.1.1 = {
+		death = "10745.1.1"
+	}
+}
+189421 = {
+	name = "Vilupperadiaraican" #
+	dynasty = 10290901
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189420
+	10730.1.1 = {
+		birth = "10730.1.1"
+	}
+	10806.1.1 = {
+		death = "10806.1.1"
+	}
+}
+189422 = {
+	name = "Amudanar" #
+	dynasty = 10290902
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189420
+	10731.1.1 = {
+		birth = "10731.1.1"
+	}
+	10809.1.1 = {
+		death = "10809.1.1"
+	}
+}
+189423 = {
+	name = "ParA_nkucan" #
+	dynasty = 10290903
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189420
+	10732.1.1 = {
+		birth = "10732.1.1"
+	}
+	10815.1.1 = {
+		death = "10815.1.1"
+	}
+}
+189424 = {
+	name = "Peradiaraiyan" #
+	dynasty = 10290901
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189421
+	10760.1.1 = {
+		birth = "10760.1.1"
+	}
+	10816.1.1 = {
+		death = "10816.1.1"
+	}
+}
+189425 = {
+	name = "Atitta" #
+	dynasty = 10290902
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189422
+	10761.1.1 = {
+		birth = "10761.1.1"
+	}
+	10819.1.1 = {
+		death = "10819.1.1"
+	}
+}
+189426 = {
+	name = "VikramA_tittA_" #
+	dynasty = 10290903
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189423
+	10762.1.1 = {
+		birth = "10762.1.1"
+	}
+	10818.1.1 = {
+		death = "10818.1.1"
+	}
+}
+189427 = {
+	name = "Muttaraiyan" #
+	dynasty = 10290901
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189421
+	10761.1.1 = {
+		birth = "10761.1.1"
+	}
+	10829.1.1 = {
+		death = "10829.1.1"
+	}
+}
+189428 = {
+	name = "PaN_cavan" #
+	dynasty = 10290902
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189422
+	10762.1.1 = {
+		birth = "10762.1.1"
+	}
+	10825.1.1 = {
+		death = "10825.1.1"
+	}
+}
+189429 = {
+	name = "MA_rapanmar" #
+	dynasty = 10290903
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189423
+	10763.1.1 = {
+		birth = "10763.1.1"
+	}
+	10828.1.1 = {
+		death = "10828.1.1"
+	}
+}
+189400 = {
+	name = "IrA_cA_cekara" #
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	10740.1.1 = {
+		birth = "10740.1.1"
+	}
+	10801.1.1 = {
+		death = "10801.1.1"
+	}
+}
+189401 = {
+	name = "ParA_ntaka" #
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189400
+	mother = 189404
+	10760.1.1 = {
+		birth = "10760.1.1"
+	}
+	10831.1.1 = {
+		death = "10831.1.1"
+	}
+}
+189402 = {
+	name = "Atitta" #
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189401
+	10795.1.1 = {
+		birth = "10795.1.1"
+	}
+	10861.1.1 = {
+		death = "10861.1.1"
+	}
+}
+189403 = {
+	name = "VicayA_laya" #
+	dynasty = 1043008
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189400
+	mother = 189404
+	10761.1.1 = {
+		birth = "10761.1.1"
+	}
+	10831.1.1 = {
+		death = "10831.1.1"
+	}
+}
+189404 = {
+	name = "KA_raikkA_l" #
+	female = yes
+	dynasty = 10290901
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189420
+	10744.1.1 = {
+		birth = "10744.1.1"
+	}
+	10800.1.1 = {
+		death = "10800.1.1"
+	}
+}
+189405 = {
+	name = "Cadayan" #
+	dynasty = 10290900
+	religion = "shaivism"
+	culture = "tamil"
+	10739.1.1 = {
+		birth = "10739.1.1"
+	}
+	10788.1.1 = {
+		death = "10788.1.1"
+	}
+}
+189406 = {
+	name = "Karunandan" #
+	dynasty = 10290900
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189405
+	10768.1.1 = {
+		birth = "10768.1.1"
+	}
+	10857.1.1 = {
+		death = "10857.1.1"
+	}
+}
+189407 = {
+	name = "Karunandadakkan" #
+	dynasty = 10290900
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189406
+	10800.1.1 = {
+		birth = "10800.1.1"
+	}
+	10885.1.1 = {
+		death = "10885.1.1"
+	}
+}
+189408 = {
+	name = "VikramA_tittA_" #Varakunan
+	dynasty = 10290900
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189407
+	10840.1.1 = {
+		birth = "10840.1.1"
+	}
+	10925.1.1 = {
+		death = "10925.1.1"
+	}
+}
+189410 = {
+	name = "VicayA_raka" #
+	dynasty = 1043010
+	religion = "shaivism"
+	culture = "tamil"
+	10740.1.1 = {
+		birth = "10740.1.1"
+	}
+	10804.1.1 = {
+		death = "10804.1.1"
+	}
+}
+189411 = {
+	name = "KulacE_kara" #
+	dynasty = 1043010
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189410
+	10760.1.1 = {
+		birth = "10760.1.1"
+	}
+	10804.1.1 = {
+		death = "10804.1.1"
+	}
+}
+189412 = {
+	name = "Manukuladilya" #
+	dynasty = 1043010
+	religion = "shaivism"
+	culture = "tamil"
+	father = 189410
+	10765.1.1 = {
+		birth = "10765.1.1"
+	}
+	10804.1.1 = {
+		death = "10804.1.1"
+	}
+}
+
+217390 = {
+	name = Lokissara
+	dynasty = 1029182 # Fictitious dynasty assignment. Leader of mercenary army.
+	religion = "vaishnavism"
+	culture = "tamil"
+	11186.1.1 = { birth = yes }
+	11210.10.1 = { death = { death_reason = death_execution } }
+}
+
+#From the Jewish Copper Plate of Cochin:
+
+malabari_vassal01 = { #Manavepala Manaviyan
+	name = Manavepala 
+	dynasty = tamil_manaviyan # Manaviyan
+	religion = "shaivism"
+	culture = "tamil"
+	11022.1.1 = { birth = yes }
+	11085.10.1 = {
+		death = yes
+	}
+}
+
+
+#The following characters are taken from the Thiruvalla Copper Plates
+
+malabari_vassal02 = { #Ramakuta Muvar
+	name = Ramakuta 
+	dynasty = tamil_muvar # Muvar
+	religion = "shaivism"
+	culture = "tamil"
+	11018.1.1 = { birth = yes }
+	11074.10.1 = {
+		death = yes
+	}
+}
+
+malabari_vassal03 = { #Venattadikal
+	name = Venattadikal 
+	dynasty = tamil_venadi # Venadi
+	religion = "shaivism"
+	culture = "tamil"
+	11012.1.1 = { birth = yes }
+	11089.10.1 = {
+		death = yes
+	}
+}
+
+#Lesser chiefs (not counts)
+
+malabari_vassal04 = { #Ravi Chirikandan
+	name = Ravi  
+	dynasty = tamil_chirikandan # Chirikandan
+	religion = "shaivism"
+	culture = "tamil"
+	11009.1.1 = { birth = yes }
+	11066.1.1 = {
+		employer = 189054
+	}
+	11068.10.1 = {
+		death = yes
+	}
+}
+
+malabari_vassal05 = { #Kumaran Yakkan
+	name = Kumaran  
+	dynasty = tamil_yakkan # Yakkan
+	religion = "shaivism"
+	culture = "tamil"
+	11012.1.1 = { birth = yes }
+	11066.1.1 = {
+		employer = 189054
+	}
+	11069.10.1 = {
+		death = yes
+	}
+}
+
+malabari_vassal06 = { #Kantan Kumaran Maluvakkon
+	name = Kantan_Kumaran
+	dynasty = tamil_maluvakkon # Maluvakkon
+	religion = "shaivism"
+	culture = "tamil"
+	11010.1.1 = { birth = yes }
+	11066.1.1 = {
+		employer = 189054
+	}
+	11070.10.1 = {
+		death = yes
+	}
+}
+
+malabari_vassal07 = { #Raman 
+	name = Raman
+	dynasty = tamil_kotavarman # Kotavarman
+	religion = "shaivism"
+	culture = "tamil"
+	11025.1.1 = { birth = yes }
+	11066.1.1 = {
+		employer = 189054
+	}
+	11080.10.1 = {
+		death = yes
+	}
+}
+
+malabari_vassal08 = { #Raman Madevi - wife of Raman
+	name = Raman
+	dynasty = tamil_munjinadi # Munjinadi
+	religion = "shaivism"
+	culture = "tamil"
+	female = yes
+	11015.1.1 = { birth = yes }
+	11045.1.1 = {
+		add_spouse = malabari_vassal07
+	}
+	11066.1.1 = {
+		employer = 189054
+	}
+	11075.10.1 = {
+		death = yes
+	}
+}
+
+malabari_vassal09 = { #Munjimarayar
+	name = Munjimarayar
+	dynasty = tamil_munjinadi # Munjinadi
+	religion = "shaivism"
+	culture = "tamil"
+	11005.1.1 = { birth = yes }
+	11066.1.1 = {
+		employer = 189054
+	}
+	11080.10.1 = {
+		death = yes
+	}
+}
+
+cholan_lankan_vassals_01 = {
+	name = Meekaman
+	dynasty = tamil_kariyar # Kariyar
+	religion = "shaivism"
+	culture = "tamil"
+	11015.1.1 = { birth = yes }
+	11078.10.1 = {
+		death = yes
+	}
+}
+
+cholan_lankan_vassals_02 = {
+	name = Vediarasan
+	dynasty = tamil_mukkuvar # Mukkuvar
+	religion = "shaivism"
+	culture = "tamil"
+	11025.1.1 = { birth = yes }
+	11085.10.1 = {
+		death = yes
+	}
+}
+
+cholan_lankan_vassals_03 = {
+	name = Meera
+	dynasty = sinhalese_moor_dynasty # Moor
+	religion = "shaivism"
+	culture = "sinhala"
+	11030.1.1 = { birth = yes }
+	11090.10.1 = {
+		death = yes
+	}
+}
+
+cholan_grandee_1 = {
+	#Naralokavira - AKA Arumpakkillan Maturantakatevan Ponnampalakkuttam
+	#Ponnampalakkuttam - Dancer in the Golden Hall
+	#Succesful General, Frequent Benefactor, Very Rich
+	name = Naralokavira
+	dynasty = tamil_arumbakkam
+	religion = "shaivism"
+	culture = "tamil"
+	trait = education_martial_4
+	trait = generous
+	11045.1.1 = { birth = yes }
+	11124.10.1 = {
+		death = yes
+	}
+}
+
+venad_chera_1 = {
+	name = "Udaya" # Vira Udaya Martanda Varma
+	dynasty = tamil_venad_chera
+	religion = "shaivism"
+	culture = "tamil"
+	11149.1.1 = {
+		birth = yes
+	}
+	11192.1.1 = {
+		death = yes
+	}
+}
+
+chola_vassal_1 = {
+	name = "PantA_ram" # Fictional
+	dynasty = tamil_shankar
+	religion = "shaivism"
+	culture = "tamil"
+	11132.1.1 = {
+		birth = yes
+	}
+	11195.1.1 = {
+		death = yes
+	}
+}
+
+chola_vassal_2 = {
+	name = "Tennavan" # Fictional
+	dynasty = tamil_prasad
+	religion = "shaivism"
+	culture = "tamil"
+	11137.1.1 = {
+		birth = yes
+	}
+	11193.1.1 = {
+		death = yes
+	}
+}
+
+chola_vassal_3 = {
+	name = "Varakunan" # Fictional
+	dynasty = tamil_nayak
+	religion = "shaivism"
+	culture = "tamil"
+	11136.1.1 = {
+		birth = yes
+	}
+	11188.1.1 = {
+		death = yes
+	}
+}
+
+chola_vassal_4 = {
+	name = "Kumaran" # Fictional
+	dynasty = tamil_hiremath
+	religion = "shaivism"
+	culture = "tamil"
+	11142.1.1 = {
+		birth = yes
+	}
+	11198.1.1 = {
+		death = yes
+	}
+}

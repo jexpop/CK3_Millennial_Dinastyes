@@ -1,0 +1,2112 @@
+k_kosala = {
+	10867.1.1 = { change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10725.1.1 = {
+		holder = 191000 #Yasovarman
+	}
+	10733.8.14 = {
+		liege = e_rajastan
+	}
+	10744.1.1 = {
+		liege = 0
+	}
+	10752.1.1 = {
+		holder = 191002 #Ama
+	}
+	10762.1.1 = {
+		holder = 191003 #Dundaka
+	}
+	10769.1.1 = {
+		holder = 191005 #Vajrayudha
+	}
+	10783.1.1 = {
+		holder = 191007 #Indrayudha
+	}
+	10790.1.1 = {
+		holder = 0 #Palas install Cakrayudha, vassal Raja of Kanyakubja
+	}
+	10815.1.1 = {
+		holder = 188006 # Nagabhata II
+	}
+	10833.1.1 = {
+		holder = 188007 # Ramabhadra
+	}
+	10836.1.1 = {
+		holder = 188008 # Bhoja I
+
+	}
+	10885.1.1 = {
+		holder = 188009 # Mahendrapala I
+	}
+	10910.1.1 = {
+		holder = 188010 # Bhoja II
+	}
+	10913.1.1 = {
+		holder = 188011 # Mahipala
+	}
+	10944.1.1 = {
+		holder = 188012 # Mahendrapala II
+	}
+	10948.1.1 = {
+		holder = 0
+	}
+	11089.1.1 = {
+		holder = 190216 #Candradeva Gahadvala
+	}
+	11104.1.1 = {
+		holder = 190217 #Madanacandra Gahadvala
+	}
+	11114.1.1 = {
+		holder = 190218 #Govindacandra Gahadvala
+	}
+	11168.1.1 = {
+		holder = 190219 #Vijayacandra Gahadvala
+	}
+	11170.1.1 = {
+		holder = 190220 #Jayacandra Gahadvala dies 1193
+	}
+	11193.1.1 = {
+		holder = 0 #Muslim conquest
+	}
+}
+
+d_kanyakubja = {
+	10867.1.1 = { change_development_level = 14 }
+	11066.1.1 = { change_development_level = 18 }
+	11178.1.1 = { change_development_level = 18 }
+	
+	10725.1.1 = {
+		holder = 191000 #Yasovarman
+		liege = k_kosala
+	}
+	10752.1.1 = {
+		holder = 191002 #Ama
+	}
+	10762.1.1 = {
+		holder = 191003 #Dundaka
+	}
+	10769.1.1 = {
+		holder = 191005 #Vajrayudha
+	}
+	10783.1.1 = {
+		holder = 191007 #Indrayudha
+	}
+	10790.1.1 = {
+		holder = 191008 #Cakrayudha
+		liege = k_bengal
+	}
+	10815.1.1 = {
+		holder = 188006 # Nagabhata II
+		liege = k_kosala
+	}
+	10833.1.1 = {
+		holder = 188007 # Ramabhadra
+	}
+	10836.1.1 = {
+		holder = 188008 # Bhoja I
+	}
+	10885.1.1 = {
+		holder = 188009 # Mahendrapala I
+	}
+	10910.1.1 = {
+		holder = 188010 # Bhoja II
+	}
+	10912.1.1 = {
+		holder = 188011 # Mahipala
+	}
+	10944.1.1 = {
+		holder = 188012 # Mahendrapala II
+	}
+	11019.1.1 = {
+		holder = 191044 #Candra Rashtrakuta
+		liege = 0
+	}
+	11030.1.1 = {
+		holder = 191045 #Vigrahapala Rashtrakuta
+	}
+	11060.1.1 = {
+		holder = 191046 #Bhuvanapala Rashtrakuta
+	}
+	11080.1.1 = {
+		holder = 191047 #Gopala Rashtrakuta
+	}
+	11089.1.1 = {
+		holder = 191048 #Tribhuvana Rashtrakuta
+		liege = k_kosala
+	}
+	11119.1.1 = {
+		holder = 191049 #Madanpala Rashtrakuta
+	}
+	11130.1.1 = {
+		holder = 191050 #Devapala Rashtrakuta
+	}
+	11150.1.1 = {
+		holder = 191051 #Bhimapala Rashtrakuta
+	}
+	11170.1.1 = {
+		holder = 191052 #Surapala Rashtrakuta
+	}
+	11180.1.1 = {
+		holder = 191053 #Amritapala Rashtrakuta
+	}
+	11186.1.1 = {
+		holder = 191054 #Lakhanpala Rashtrakuta
+	}
+	11193.1.1 = {
+		holder = 0
+		liege = 0
+	}
+}
+
+c_kanyakubja = {
+	10867.1.1 = { change_development_level = 18 }
+	11066.1.1 = { change_development_level = 30 }
+	11178.1.1 = { change_development_level = 30 }
+	
+	10725.1.1 = {
+		holder = 191000 #Yasovarman
+	}
+	10752.1.1 = {
+		holder = 191002 #Ama
+	}
+	10762.1.1 = {
+		holder = 191003 #Dundaka
+	}
+	10769.1.1 = {
+		holder = 191005 #Vajrayudha
+	}
+	10783.1.1 = {
+		holder = 191007 #Indrayudha
+	}
+	10790.1.1 = {
+		holder = 191008 #Cakrayudha
+	}
+	10815.1.1 = {
+		holder = 188006 # Nagabhata II
+		liege = d_kanyakubja
+	}
+	10833.1.1 = {
+		holder = 188007 # Ramabhadra
+	}
+	10836.1.1 = {
+		holder = 188008 # Bhoja I
+	}
+	10885.1.1 = {
+		holder = 188009 # Mahendrapala I
+	}
+	10910.1.1 = {
+		holder = 188010 # Bhoja II
+	}
+	10912.1.1 = {
+		holder = 188011 # Mahipala
+	}
+	10944.1.1 = {
+		holder = 188012 # Mahendrapala II
+	}
+	11019.1.1 = {
+		holder = 191044 #Candra Rashtrakuta
+	}
+	11030.1.1 = {
+		holder = 191045 #Vigrahapala Rashtrakuta
+	}
+	11060.1.1 = {
+		holder = 191046 #Bhuvanapala Rashtrakuta
+	}
+	11080.1.1 = {
+		holder = 191047 #Gopala Rashtrakuta
+	}
+	11089.1.1 = {
+		holder = 191048 #Tribhuvana Rashtrakuta
+	}
+	11119.1.1 = {
+		holder = 191049 #Madanpala Rashtrakuta
+	}
+	11130.1.1 = {
+		holder = 191050 #Devapala Rashtrakuta
+	}
+	11150.1.1 = {
+		holder = 191051 #Bhimapala Rashtrakuta
+	}
+	11170.1.1 = {
+		holder = 191052 #Surapala Rashtrakuta
+	}
+	11177.1.1 = {
+		holder = 191053 #Amritapala Rashtrakuta
+	}
+	11186.1.1 = {
+		holder = 191054 #Lakhanpala Rashtrakuta
+	}
+	11193.1.1 = {
+		holder = 170190 #Battle of Chandwar
+		liege = k_delhi
+	}
+	11206.3.15 = {
+		liege = e_rajastan
+	}
+	
+	11210.11.4 = {
+		holder = 170191 #Aram
+	}
+	11211.6.1 = {
+		holder = 170193 #Iltutmish
+	}
+	11220.1.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+c_lakhnau = {
+	10725.1.1 = {
+		holder = 191000 #Yasovarman
+		liege = d_kanyakubja
+	}
+	10752.1.1 = {
+		holder = 191002 #Ama
+	}
+	10762.1.1 = {
+		holder = 191003 #Dundaka
+	}
+	10769.1.1 = {
+		holder = 191005 #Vajrayudha
+	}
+	10783.1.1 = {
+		holder = 191007 #Indrayudha
+	}
+	10790.1.1 = {
+		holder = 191008 #Cakrayudha
+	}
+	10840.1.1 = {
+		holder = 191988	#Fictional ruler
+	}
+	11010.1.1 = {
+		holder = 191044 #Candra Rashtrakuta
+		liege = d_vodamayutja
+	}
+	11030.1.1 = {
+		holder = 191045 #Vigrahapala Rashtrakuta
+	}
+	11060.1.1 = {
+		holder = 191046 #Bhuvanapala Rashtrakuta
+	}
+	11080.1.1 = {
+		holder = 191047 #Gopala Rashtrakuta
+	}
+	11089.1.1 = {
+		holder = 191048 #Tribhuvana Rashtrakuta
+	}
+	11119.1.1 = {
+		holder = 191049 #Madanpala Rashtrakuta
+	}
+	11130.1.1 = {
+		holder = 191050 #Devapala Rashtrakuta
+	}
+	11150.1.1 = {
+		holder = 191051 #Bhimapala Rashtrakuta
+	}
+	11170.1.1 = {
+		holder = 191052 #Surapala Rashtrakuta
+	}
+	11177.1.1 = {
+		holder = 191053 #Amritapala Rashtrakuta
+	}
+	11186.1.1 = {
+		holder = 191054 #Lakhanpala Rashtrakuta
+	}
+	11193.1.1 = {
+		holder = 170190 #Battle of Chandwar
+		liege = k_delhi
+	}
+	11206.3.15 = {
+		liege = e_rajastan
+	}
+	11210.11.4 = {
+		holder = 170191 #Aram
+	}
+	11211.6.1 = {
+		holder = 170193 #Iltutmish
+	}
+	11220.1.1 = {
+		holder = 170194 # Firuz
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+c_kalpi = {
+	10725.1.1 = {
+		holder = 191000 #Yasovarman
+		liege = d_kanyakubja
+	}
+	10752.1.1 = {
+		holder = 191002 #Ama
+	}
+	10762.1.1 = {
+		holder = 191003 #Dundaka
+	}
+	10769.1.1 = {
+		holder = 191005 #Vajrayudha
+	}
+	10783.1.1 = {
+		holder = 191007 #Indrayudha
+	}
+	10790.1.1 = {
+		holder = 191008 #Cakrayudha
+	}
+	10815.1.1 = {
+		holder = 188006 # Nagabhata II
+		liege = d_kanyakubja
+	}
+	10833.1.1 = {
+		holder = 188007 # Ramabhadra
+	}
+	10836.1.1 = {
+		holder = 188008 # Bhoja I
+	}
+	10885.1.1 = {
+		holder = 188009 # Mahendrapala I
+	}
+	10910.1.1 = {
+		holder = 188010 # Bhoja II
+	}
+	10912.1.1 = {
+		holder = 188011 # Mahipala
+	}
+	10940.1.1 = {
+		liege = d_jejakabhukti
+		holder = 188033 # Yasovarma
+	}
+	10954.1.1 = {
+		liege = d_jejakabhukti
+		holder = 188229 # Vajradman Kachwaha/Kacchapaghata
+	}
+	10975.1.1 = {
+		holder = 188230 # ? Kachawaha
+	}
+	11000.1.1 = {
+		holder = 188231 # Kirtiraja Kachawaha
+	}
+	11025.1.1 = {
+		holder = 188232 # Muladeva Kachawaha
+	}
+	11050.1.1 = {
+		holder = 188233 # ? Kachawaha
+	}
+	11065.1.1 = {
+		holder = 188234 # Mahipal
+	}
+	11100.1.1 = {
+		holder = 188235 # Arjuna
+	}
+	11120.1.1 = {
+		holder = 188236 # ? Kachawaha
+	}
+	11135.1.1 = {
+		holder = 188237 # ? Kachawaha
+	}
+	11160.1.1 = {
+		holder = 188238 # Vikramasimha Kachawaha
+	}
+	11170.1.1 = {
+		holder = 191860 # Anayapala
+		liege = 0
+	}
+	11192.1.1 = {
+		holder = 170190 #Mu'izz al-Din conquered Gwalior and made Qutb-ud-din Aibak governor
+	}
+	11206.3.15 = {
+		liege = e_rajastan
+	}
+	11210.11.4 = {
+		holder = 170191 #Aram
+	}
+	11211.6.1 = {
+		holder = 170193 #Iltutmish
+	}
+	11220.1.1 = {
+		holder = 194293
+	}
+	
+	#11210.1.1 = {
+	#	holder = #lost to hindu tribes before Qutb-ud-din Aibak died in 1210
+	#}
+	#11232.12.13 = {
+	#	holder = 170193 #reconquered by Iltutmish
+	#}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+c_manikpur = {
+	10725.1.1 = {
+		holder = 191000 #Yasovarman
+		liege = d_kanyakubja
+	}
+	10752.1.1 = {
+		holder = 191002 #Ama
+	}
+	10762.1.1 = {
+		holder = 191003 #Dundaka
+	}
+	10769.1.1 = {
+		holder = 191005 #Vajrayudha
+	}
+	10783.1.1 = {
+		holder = 191007 #Indrayudha
+	}
+	10790.1.1 = {
+		holder = 191008 #Cakrayudha
+	}
+	10815.1.1 = {
+		holder = 188006 # Nagabhata II
+		liege = d_kanyakubja
+	}
+	10833.1.1 = {
+		holder = 188007 # Ramabhadra
+	}
+	10836.1.1 = {
+		holder = 188008 # Bhoja I
+	}
+	10840.1.1 = {
+		holder = 191988	#Fictional ruler
+	}
+	10885.1.1 = {
+		holder = 188009 # Mahendrapala I
+	}
+	10910.1.1 = {
+		holder = 188010 # Bhoja II
+	}
+	10912.1.1 = {
+		holder = 188011 # Mahipala
+	}
+	10944.1.1 = {
+		holder = 188012 # Mahendrapala II
+	}
+	11019.1.1 = {
+		holder = 191044 #Candra Rashtrakuta
+		liege = d_kanyakubja
+	}
+	11030.1.1 = {
+		holder = 191045 #Vigrahapala Rashtrakuta
+	}
+	11060.1.1 = {
+		holder = 191046 #Bhuvanapala Rashtrakuta
+	}
+	11080.1.1 = {
+		holder = 191047 #Gopala Rashtrakuta
+	}
+	11089.1.1 = {
+		holder = 191048 #Tribhuvana Rashtrakuta
+	}
+	11119.1.1 = {
+		holder = 191049 #Madanpala Rashtrakuta
+	}
+	11130.1.1 = {
+		holder = 191050 #Devapala Rashtrakuta
+	}
+	11150.1.1 = {
+		holder = 191051 #Bhimapala Rashtrakuta
+	}
+	11170.1.1 = {
+		holder = 191052 #Surapala Rashtrakuta
+	}
+	11177.1.1 = {
+		holder = 191053 #Amritapala Rashtrakuta
+	}
+	11186.1.1 = {
+		holder = 191054 #Lakhanpala Rashtrakuta
+	}
+	11193.1.1 = {
+		holder = 170190 #Battle of Chandwar
+		liege = k_delhi
+	}
+	11206.3.15 = {
+		liege = e_rajastan
+	}
+	11210.11.4 = {
+		holder = 170191 #Aram
+	}
+	11211.6.1 = {
+		holder = 170193 #Iltutmish
+	}
+	11220.1.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+c_asni = {
+	10725.1.1 = {
+		holder = 191000 #Yasovarman
+		liege = d_kanyakubja
+	}
+	10752.1.1 = {
+		holder = 191002 #Ama
+	}
+	10762.1.1 = {
+		holder = 191003 #Dundaka
+	}
+	10769.1.1 = {
+		holder = 191005 #Vajrayudha
+	}
+	10783.1.1 = {
+		holder = 191007 #Indrayudha
+	}
+	10790.1.1 = {
+		holder = 191008 #Cakrayudha
+	}
+	10840.1.1 = {
+		holder = 191988	#Fictional ruler
+	}
+	10940.1.1 = {
+		liege = d_jejakabhukti
+		holder = 188033 # Yasovarma Chandela
+	}
+	10954.1.1 = {
+		holder = 188035 # Dhanga
+	}
+	11002.1.1 = {
+		holder = 188037 # Ganda
+	}
+	11015.1.1 = {
+		holder = 188038 # Vidyadhara
+	}
+	11036.1.1 = {
+		holder = 188039 # Vijayapala
+	}
+	11050.1.1 = {
+		holder = 188040 # Devavarma
+	}
+	11060.1.1 = {
+		holder = 188041 # Kirtivarma
+	}
+	11089.1.1 = {
+		holder = 190216 #Candradeva Gahadvala
+		liege = d_kasi
+	}
+	11104.1.1 = {
+		holder = 190217 #Madanacandra Gahadvala
+	}
+	11114.1.1 = {
+		holder = 190218 #Govindacandra Gahadvala
+	}
+	11168.1.1 = {
+		holder = 190219 #Vijayacandra Gahadvala
+	}
+	11170.1.1 = {
+		holder = 190220 #Jayacandra Gahadvala
+	}
+	11193.1.1 = {
+		holder = 170190 #Battle of Chandwar
+		liege = k_delhi
+	}
+	11206.3.15 = {
+		liege = e_rajastan
+	}
+	11210.11.4 = {
+		holder = 170191 #Aram
+	}
+	11211.6.1 = {
+		holder = 170193 #Iltutmish
+	}
+	11220.1.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+c_prayaga = {
+	10725.1.1 = {
+		holder = 191000 #Yasovarman
+		liege = d_kanyakubja
+	}
+	10752.1.1 = {
+		holder = 191002 #Ama
+	}
+	10762.1.1 = {
+		holder = 191003 #Dundaka
+	}
+	10769.1.1 = {
+		holder = 191005 #Vajrayudha
+	}
+	10783.1.1 = {
+		holder = 191007 #Indrayudha
+	}
+	10790.1.1 = {
+		holder = 191008 #Cakrayudha
+	}
+	10837.1.1 = {
+		holder = 178005
+	}
+	10954.1.1 = {
+		liege = d_jejakabhukti
+		holder = 188035 # Dhanga Chandela
+	}
+	11002.1.1 = {
+		holder = 188037 # Ganda
+	}
+	11015.1.1 = {
+		holder = 188038 # Vidyadhara
+	}
+	11036.1.1 = {
+		holder = 188039 # Vijayapala
+	}
+	11050.1.1 = {
+		holder = 188040 # Devavarma
+	}
+	11060.1.1 = {
+		holder = 188041 # Kirtivarma
+	}
+	11089.1.1 = {
+		holder = 190216 #Candradeva Gahadvala
+		liege = d_kasi
+	}
+	11104.1.1 = {
+		holder = 190217 #Madanacandra Gahadvala
+	}
+	11114.1.1 = {
+		holder = 190218 #Govindacandra Gahadvala
+	}
+	11168.1.1 = {
+		holder = 190219 #Vijayacandra Gahadvala
+	}
+	11170.1.1 = {
+		holder = 190220 #Jayacandra Gahadvala
+	}
+	11193.1.1 = {
+		holder = 170190 #Battle of Chandwar
+		liege = k_delhi
+	}
+	11206.3.15 = {
+		liege = e_rajastan
+	}
+	11210.11.4 = {
+		holder = 170191 #Aram
+	}
+	11211.6.1 = {
+		holder = 170193 #Iltutmish
+	}
+	11220.1.1 = {
+		holder = 194293
+	}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+d_saryupara = {
+	10725.1.1 = {
+		holder = 191025	#Rajaputra
+		liege = k_kosala
+	}
+	10780.1.1 = {
+		holder = 191026	#Shivaraja
+	}
+	10790.1.1 = {
+		liege = 0
+	}
+	10805.1.1 = {
+		holder = 191027	#Shankaragana
+	}
+	10820.1.1 = {
+		liege = k_kosala
+	}
+	10835.1.1 = {
+		holder = 191028	#Gunasagara I
+	}
+	10880.1.1 = {
+		holder = 191029	#Ullabha
+	}
+	10910.1.1 = {
+		holder = 191030	#Bhamanadeva
+	}
+	10942.1.1 = {
+		holder = 191031	#Shankaragana II
+		liege = 0
+	}
+	10960.1.1 = {
+		holder = 191032	#Mugdhatunga
+	}
+	10970.1.1 = {
+		holder = 191033	#Gunasagara II
+	}
+	10990.1.1 = {
+		holder = 191034	#Sivaraja
+	}
+	11010.1.1 = {
+		holder = 191035	#Bhamana
+	}
+	11020.1.1 = {
+		holder = 191036	#Shankaragana III
+	}
+	11028.1.1 = {
+		holder = 191037	#Bhima
+	}
+	11031.1.1 = {
+		holder = 191038	#Vyasa
+	}
+	11079.1.1 = {
+		holder = 191039 #Maharajadhiraja
+	}
+	11089.1.1 = {
+		liege = k_kosala
+	}
+	11090.1.1 = {
+		holder = 0
+	}
+}
+
+c_ayodhya = {
+	10867.1.1 = { change_development_level = 10 }
+	11066.1.1 = { change_development_level = 11 }
+	11178.1.1 = { change_development_level = 14 }
+
+	10320.1.1 = {
+		holder = gupta_3 # Chandragupta I
+	}
+	10350.1.1 = {
+		holder = gupta_2 # Samudragupta
+	}
+	10375.1.1 = {
+		holder = gupta_1 # Chandragupta II
+	}
+	10415.1.1 = {
+		holder = gupta_6 # 	Kumaragupta I
+	}
+	10455.1.1 = {
+		holder = gupta_9 # Skandagupta
+	}
+	10468.1.1 = {
+		holder = gupta_10 # Purugupta
+	}
+	10473.1.1 = {
+		holder = gupta_11 # Kumaragupta II
+	}
+	10476.1.1 = {
+		holder = gupta_12 # Budhagupta
+	}
+	10495.1.1 = {
+		holder = gupta_13 # Narasimhagupta
+	}
+	10530.1.1 = {
+		holder = gupta_14 # Kumaragupta III
+	}
+	10540.1.1 = {
+		holder = gupta_15 # Vishnugupta
+	}
+	10725.1.1 = {
+		holder = 191025	#Rajaputra
+		liege = d_saryupara
+	}
+	10780.1.1 = {
+		holder = 191026	#Shivaraja
+	}
+	10805.1.1 = {
+		holder = 191027	#Shankaragana
+	}
+	10835.1.1 = {
+		holder = 191028	#Gunasagara I
+	}
+	10880.1.1 = {
+		holder = 191029	#Ullabha
+	}
+	10910.1.1 = {
+		holder = 191030	#Bhamanadeva
+	}
+	10942.1.1 = {
+		holder = 191031	#Shankaragana II
+	}
+	10960.1.1 = {
+		holder = 191032	#Mugdhatunga
+	}
+	10970.1.1 = {
+		holder = 191033	#Gunasagara II
+	}
+	10990.1.1 = {
+		holder = 191034	#Sivaraja
+	}
+	11010.1.1 = {
+		holder = 191035	#Bhamana
+	}
+	11020.1.1 = {
+		holder = 191036	#Shankaragana III
+	}
+	11028.1.1 = {
+		holder = 191037	#Bhima
+	}
+	11031.1.1 = {
+		holder = 191038	#Vyasa
+	}
+	11079.1.1 = {
+		holder = 191039 #Maharajadhiraja
+	}
+	11089.1.1 = {
+		holder = 190216 #Candradeva Gahadvala
+		liege = k_kosala
+	}
+	11104.1.1 = {
+		holder = 190217 #Madanacandra Gahadvala
+	}
+	11114.1.1 = {
+		holder = 190218 #Govindacandra Gahadvala
+	}
+	11168.1.1 = {
+		holder = 190219 #Vijayacandra Gahadvala
+	}
+	11170.1.1 = {
+		holder = 190220 #Jayacandra Gahadvala
+	}
+	11177.1.1 = {
+		holder = 190221 # Hariscandra
+	}
+	11193.1.1 = {
+		holder = 170190 #Battle of Chandwar
+		liege = k_delhi
+	}
+	11206.3.15 = {
+		liege = e_rajastan
+	}
+	11210.11.4 = {
+		holder = 170191 #Aram
+	}
+	11211.6.1 = {
+		holder = 170193 #Iltutmish
+	}
+	11220.1.1 = {
+		holder = 170198
+	}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+c_naimisa = {
+	10725.1.1 = {
+		holder = 191025	#Rajaputra
+		liege = d_saryupara
+	}
+	10780.1.1 = {
+		holder = 191026	#Shivaraja
+	}
+	10805.1.1 = {
+		holder = 191027	#Shankaragana
+	}
+	10835.1.1 = {
+		holder = 191028	#Gunasagara I
+	}
+	10880.1.1 = {
+		holder = 191029	#Ullabha
+	}
+	10910.1.1 = {
+		holder = 191030	#Bhamanadeva
+	}
+	10942.1.1 = {
+		holder = 191031	#Shankaragana II
+	}
+	10960.1.1 = {
+		holder = 191032	#Mugdhatunga
+	}
+	10970.1.1 = {
+		holder = 191033	#Gunasagara II
+	}
+	10990.1.1 = {
+		holder = 191034	#Sivaraja
+	}
+	11010.1.1 = {
+		holder = 191035	#Bhamana
+	}
+	11020.1.1 = {
+		holder = 191036	#Shankaragana III
+	}
+	11028.1.1 = {
+		holder = 191037	#Bhima
+	}
+	11031.1.1 = {
+		holder = 191038	#Vyasa
+	}
+	11079.1.1 = {
+		holder = 191039 #Maharajadhiraja
+	}
+	11089.1.1 = {
+		holder = 190216 #Candradeva Gahadvala
+		liege = k_kosala
+	}
+	11104.1.1 = {
+		holder = 190217 #Madanacandra Gahadvala
+	}
+	11114.1.1 = {
+		holder = 190218 #Govindacandra Gahadvala
+	}
+	11168.1.1 = {
+		holder = 190219 #Vijayacandra Gahadvala
+	}
+	11170.1.1 = {
+		holder = 190220 #Jayacandra Gahadvala
+	}
+	11177.1.1 = {
+		holder = 190221 # Hariscandra
+	}
+	11193.1.1 = {
+		holder = 170190 #Battle of Chandwar
+		liege = k_delhi
+	}
+	11206.3.15 = {
+		liege = e_rajastan
+	}
+	11210.11.4 = {
+		holder = 170191 #Aram
+	}
+	11211.6.1 = {
+		holder = 170193 #Iltutmish
+	}
+	11220.1.1 = {
+		holder = 170198
+	}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+c_sravasti = {
+	10750.1.1 = {
+		holder = 191298 #Jayaditya I
+	}
+	10800.1.1 = {
+		holder = 191299 #Dharmaditya
+	}
+	10850.1.1 = {
+		holder = 191300 #Jayaditya II
+	}
+	10870.1.1 = {
+		holder = 191028	#Gunasagara I
+		liege = d_saryupara
+	}
+	10880.1.1 = {
+		holder = 191029	#Ullabha
+	}
+	10910.1.1 = {
+		holder = 191030	#Bhamanadeva
+	}
+	10942.1.1 = {
+		holder = 191031	#Shankaragana II
+	}
+	10960.1.1 = {
+		holder = 191032	#Mugdhatunga
+	}
+	10970.1.1 = {
+		holder = 191033	#Gunasagara II
+	}
+	10990.1.1 = {
+		holder = 191034	#Sivaraja
+	}
+	11010.1.1 = {
+		holder = 191035	#Bhamana
+	}
+	11020.1.1 = {
+		holder = 191036	#Shankaragana III
+	}
+	11028.1.1 = {
+		holder = 191037	#Bhima
+	}
+	11031.1.1 = {
+		holder = 191038	#Vyasa
+	}
+	11079.1.1 = {
+		holder = 191039 #Maharajadhiraja
+	}
+	11089.1.1 = {
+		holder = 190216 #Candradeva Gahadvala
+		liege = k_kosala
+	}
+	11104.1.1 = {
+		holder = 190217 #Madanacandra Gahadvala
+	}
+	11114.1.1 = {
+		holder = 190218 #Govindacandra Gahadvala
+	}
+	11168.1.1 = {
+		holder = 190219 #Vijayacandra Gahadvala
+	}
+	11170.1.1 = {
+		holder = 190220 #Jayacandra Gahadvala
+	}
+	11177.1.1 = {
+		holder = 190221 # Hariscandra
+	}
+	11193.1.1 = {
+		holder = 170190 #Battle of Chandwar
+		liege = k_delhi
+	}
+	11206.3.15 = {
+		liege = e_rajastan
+	}
+	11210.11.4 = {
+		holder = 170191 #Aram
+	}
+	11211.6.1 = {
+		holder = 170193 #Iltutmish
+	}
+	11220.1.1 = {
+		holder = 170198
+	}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+d_jejakabhukti = {
+	10700.1.1 = {
+		liege = 0
+		holder = 191018 #Karamchand
+	}
+	
+	10720.1.1 = {
+		holder = 191019 #Ranasimha
+	}
+	
+	10725.1.1 = {
+		liege = k_kosala #Yasovarman
+	}
+	
+	10730.1.1 = {
+		holder = 191020 #Naranath
+	}
+	
+	10750.1.1 = {
+		holder = 191021 #Jayasimha
+	}
+	
+	10780.1.1 = {
+		holder = 191022 #Jagannatharaya
+	}
+	
+	10790.1.1 = {
+		liege = k_bengal
+		}
+	
+	10800.1.1 = {
+		holder = 191022	#Narasimha
+	}
+	
+	10820.1.1 = {
+		holder = 191023	#Indrajit
+	}
+	
+	10831.1.1 = {
+		liege = k_kosala
+		holder = 188025 # Nannuka Chandela
+	}
+	10845.1.1 = {
+		holder = 188026 # Vakpati
+	}
+	10865.1.1 = {
+		holder = 188027 # Jayasakti
+	}
+	10875.1.1 = {
+		holder = 188028 # Vijayasakti
+	}
+	10885.1.1 = {
+		holder = 188029 # Rahila
+	}
+	10905.1.1 = {
+		holder = 188031 # Harsa
+	}
+	10925.1.1 = {
+		holder = 188033 # Yasovarma
+	}
+	10940.1.1 = {
+		liege = 0
+	}
+	10954.1.1 = {
+		holder = 188035 # Dhanga
+	}
+	11002.1.1 = {
+		holder = 188037 # Ganda
+	}
+	11015.1.1 = {
+		holder = 188038 # Vidyadhara
+	}
+	11036.1.1 = {
+		holder = 188039 # Vijayapala
+	}
+	11050.1.1 = {
+		holder = 188040 # Devavarma
+	}
+	11060.1.1 = {
+		holder = 188041 # Kirtivarman
+	}
+	11090.1.1 = {
+		holder = 188043 # Sallaksanavarma
+	}
+	11110.1.1 = {
+		holder = 188045 # Jayavarma
+	}
+	11120.1.1 = {
+		holder = 188046 # Prithvivarma
+	}
+	11128.1.1 = {
+		holder = 188048 # Madanavarma
+	}
+	11163.1.1 = {
+		holder = 188052 # Paramardi
+	}
+	11203.1.1 = {
+		holder = 188054 # Trailokyavarma
+		liege = 0
+	}
+	11211.1.1 = {
+		liege = k_gondwana
+	}
+	11245.1.1 = {
+		holder = 188056 # Viravarma I
+	}
+	11285.1.1 = {
+		holder = 188058 # Bhojavarma
+	}
+	11289.1.1 = {
+		holder = 191500 #Nanak Dev Singh
+		liege = e_rajastan
+	}
+	11307.1.1 = {
+		holder = 191501 #Prithviraj Singh
+	}
+	11339.1.1 = {
+		holder = 191502 #Ram Singh
+	}
+
+}
+
+
+c_mahoba = {
+	10700.1.1 = {
+		liege = d_jejakabhukti
+		holder = 191018 #Karamchand
+	}
+	
+	10720.1.1 = {
+		holder = 191019 #Ranasimha
+	}
+	
+	10730.1.1 = {
+		holder = 191020 #Naranath
+	}
+	
+	10750.1.1 = {
+		holder = 191021 #Jayasimha
+	}
+	
+	10780.1.1 = {
+		holder = 191022 #Jagannatharaya
+	}
+	
+	10800.1.1 = {
+		holder = 191023	#Narasimha
+	}
+	
+	10820.1.1 = {
+		holder = 191024	#Indrajit
+	}
+	
+	10831.1.1 = {
+		liege = d_jejakabhukti
+		holder = 188025 # Nannuka Chandela
+	}
+	10845.1.1 = {
+		holder = 188026 # Vakpati
+	}
+	10865.1.1 = {
+		holder = 188027 # Jayasakti
+	}
+	10875.1.1 = {
+		holder = 188028 # Vijayasakti
+	}
+	10885.1.1 = {
+		holder = 188029 # Rahila
+	}
+	10905.1.1 = {
+		holder = 188031 # Harsa
+	}
+	10925.1.1 = {
+		holder = 188033 # Yasovarma
+	}
+	10954.1.1 = {
+		holder = 188035 # Dhanga
+	}
+	11002.1.1 = {
+		holder = 188037 # Ganda
+	}
+	11015.1.1 = {
+		holder = 188038 # Vidyadhara
+	}
+	11036.1.1 = {
+		holder = 188039 # Vijayapala
+	}
+	11050.1.1 = {
+		holder = 188040 # Devavarma
+	}
+	11060.1.1 = {
+		holder = 188041 # Kirtivarma
+	}
+	11090.1.1 = {
+		holder = 188043 # Sallaksanavarma
+	}
+	11110.1.1 = {
+		holder = 188045 # Jayavarma
+	}
+	11120.1.1 = {
+		holder = 188046 # Prithvivarma
+	}
+	11128.1.1 = {
+		holder = 188048 # Madanavarma
+	}
+	11163.1.1 = {
+		holder = 188052 # Paramardi
+	}
+	11182.1.1 = {
+		holder = 191494 #Mohanpal Singh Bundela
+		liege = k_delhi
+	}
+	11184.1.1 = {
+		liege = d_jejakabhukti
+	}
+	11197.1.1 = {
+		holder = 191495 #Abhaybhupati Singh
+	}
+	11203.1.1 = {
+		liege = k_delhi#Mu'izz al-Din conquered Delhi and made Qutb-ud-din Aibak governor
+	}
+	11206.3.15 = {
+		liege = e_rajastan
+	}
+	11215.1.1 = {
+		holder = 191496 #Arjunpal Singh
+	}
+	11231.1.1 = {
+		holder = 191497 #Virpal Singh
+	}
+	11251.1.1 = {
+		holder = 191498 #Sohanpal Singh
+	}
+	11259.1.1 = {
+		holder = 191499 #Sahjendra Singh
+	}
+	11283.1.1 = {
+		holder = 191500 #Nanak Dev Singh
+	}
+	11307.1.1 = {
+		holder = 191501 #Prithviraj Singh
+	}
+	11339.1.1 = {
+		holder = 191502 #Ram Singh
+	}
+}
+
+c_kalanjara = {
+	11178.1.1 = { change_development_level = 30 }
+
+	10700.1.1 = {
+		liege = d_jejakabhukti
+		holder = 191018 #Karamchand
+	}
+	
+	10720.1.1 = {
+		holder = 191019 #Ranasimha
+	}
+	
+	10730.1.1 = {
+		holder = 191020 #Naranath
+	}
+	
+	10750.1.1 = {
+		holder = 191021 #Jayasimha
+	}
+	
+	10780.1.1 = {
+		holder = 191022 #Jagannatharaya
+	}
+	
+	10800.1.1 = {
+		holder = 191023	#Narasimha
+	}
+	
+	10820.1.1 = {
+		holder = 191024	#Indrajit
+	}
+	
+	10831.1.1 = {
+		holder = 188025 # Nannuka Chandela
+	}
+	10845.1.1 = {
+		holder = 188026 # Vakpati
+	}
+	10865.1.1 = {
+		holder = 188027 # Jayasakti
+	}
+	10875.1.1 = {
+		holder = 188028 # Vijayasakti
+	}
+	10885.1.1 = {
+		holder = 188029 # Rahila
+	}
+	10905.1.1 = {
+		holder = 188031 # Harsa
+	}
+	10925.1.1 = {
+		holder = 188033 # Yasovarman
+	}
+	10954.1.1 = {
+		holder = 188035 # Dhanga
+	}
+	11002.1.1 = {
+		holder = 188037 # Ganda
+	}
+	11015.1.1 = {
+		holder = 188038 # Vidyadhara
+	}
+	11036.1.1 = {
+		holder = 188039 # Vijayapala
+	}
+	11050.1.1 = {
+		holder = 188040 # Devavarma
+	}
+	11060.1.1 = {
+		holder = 188041 # Kirtivarma
+	}
+	11090.1.1 = {
+		holder = 188043 # Sallaksanavarma
+	}
+	11110.1.1 = {
+		holder = 188045 # Jayavarma
+	}
+	11120.1.1 = {
+		holder = 188046 # Prithvivarma
+	}
+	11128.1.1 = {
+		holder = 188048 # Madanavarma
+	}
+	11163.1.1 = {
+		holder = 188052 # Paramardi
+	}
+	11203.1.1 = {
+		holder = 170190 #Mu'izz al-Din conquered Delhi and made Qutb-ud-din Aibak governor
+		liege = k_delhi
+	}
+	11205.1.1 = {
+		holder = 188054 # Trailokyavarma retakes Kalanjara
+		liege = d_jejakabhukti
+	}
+	11245.1.1 = {
+		holder = 188056 # Viravarma I
+	}
+	11285.1.1 = {
+		holder = 188058 # Bhojavarma
+	}
+	11289.1.1 = {
+		holder = 188060 # Hammivarma
+	}
+	11305.1.1 = {
+		holder = 191431 #Dynasty remains in power locally here up to mid 16th century
+	}
+	11318.1.1 = {
+		liege = e_rajastan
+	}
+
+}
+
+
+c_damoh = {
+	10675.1.1 = {
+		holder = 191317 #Vamaraja Cedi
+		liege = d_dahala
+	}
+	10700.1.1 = {
+		holder = 191318 #? Cedi
+	}
+	10730.1.1 = {
+		holder = 191319 #? Cedi
+	}
+	10750.1.1 = {
+		holder = 191320 #Sankaragana Cedi
+	}
+	10780.1.1 = {
+		holder = 191388 #Cedi?
+	}
+	10825.1.1 = {
+		holder = 191321 #Laksmanaraja Cedi
+	}
+	10845.1.1 = {
+		holder = 190200 #Kokkala Cedi
+	}
+	10865.1.1 = {
+		liege = d_jejakabhukti
+		holder = 188027 # Jayasakti
+	}
+	10875.1.1 = {
+		holder = 188028 # Vijayasakti
+	}
+	10885.1.1 = {
+		holder = 188029 # Rahila
+	}
+	10905.1.1 = {
+		holder = 188031 # Harsa
+	}
+	10925.1.1 = {
+		holder = 188033 # Yasovarma
+	}
+	10954.1.1 = {
+		holder = 188035 # Dhanga
+	}
+	11002.1.1 = {
+		holder = 188037 # Ganda
+	}
+	11015.1.1 = {
+		holder = 188038 # Vidyadhara
+	}
+	11036.1.1 = {
+		holder = 188039 # Vijayapala
+	}
+	11050.1.1 = {
+		holder = 188040 # Devavarma
+	}
+	11060.1.1 = {
+		holder = 191430 # Gopala
+	}
+	11090.1.1 = {
+		holder = 188043 # Sallaksanavarma
+	}
+	11110.1.1 = {
+		holder = 188045 # Jayavarma
+	}
+	11120.1.1 = {
+		holder = 188046 # Prithvivarma
+	}
+	11128.1.1 = {
+		holder = 188048 # Madanavarma
+	}
+	11163.1.1 = {
+		holder = 188052 # Paramardi
+	}
+	11203.1.1 = {
+		holder = 170190 #Mu'izz al-Din conquered Delhi and made Qutb-ud-din Aibak governor
+		liege = k_delhi
+	}
+	11206.3.15 = {
+		liege = e_rajastan
+	}
+	11210.11.4 = {
+		holder = 170191 #Aram
+	}
+	11211.6.1 = {
+		holder = 170193 #Iltutmish
+	}
+	11220.1.1 = {
+		holder = 194288
+	}
+	11236.5.1 = {
+		holder = 170194 #Firuz I
+	}
+	11236.11.20 = {
+		holder = 170195 #Raziyya
+	}
+	11239.10.1 = {
+		holder = 170198 #Bahram
+	}
+	11242.5.15 = {
+		holder = 170199 #Masud
+	}
+	11246.6.11 = {
+		holder = 170201 #Mahmud
+	}
+	11266.2.19 = {
+		holder = 170204 #Ghiyasuddin Balban
+	}
+	11286.1.1 = {
+		holder = 170213 #Muizz ud-din Qaiqabad
+	}
+	11290.10.1 = {
+		holder = 170243 #Jalal ud din Firuz Khilji
+	}
+	11296.7.21 = {
+		holder = 170245 #Ibrahim
+	}
+	11296.11.1 = {
+		holder = 170246 #Ala-ud-din Muhammad
+	}
+	11316.1.3 = {
+		holder = 170247 #Umar
+	}
+	11316.4.1 = {
+		holder = 170248 #Mubarak
+	}
+	11318.1.1 = {
+		holder = 170250 #Mahmud
+	}
+	11318.6.1 = {
+		holder = 170248 #Mubarak
+	}
+	11320.6.1 = {
+		holder = 170251 #Husraw Kushru
+	}
+	11320.10.1 = {
+		holder = 170257 #Ghiyath al-Din Tughluq
+	}
+	11325.2.1 = {
+		holder = 170258 #Muhammad
+	}
+}
+
+
+c_gurgi = {
+	10700.1.1 = {
+		liege = d_jejakabhukti
+		holder = 191018 #Karamchand
+	}
+	
+	10720.1.1 = {
+		holder = 191019 #Ranasimha
+	}
+	
+	10730.1.1 = {
+		holder = 191020 #Naranath
+	}
+	
+	10750.1.1 = {
+		holder = 191021 #Jayasimha
+	}
+	
+	10780.1.1 = {
+		holder = 191022 #Jagannatharaya
+	}
+	
+	10800.1.1 = {
+		holder = 191023	#Narasimha
+	}
+	
+	10820.1.1 = {
+		holder = 191024	#Indrajit
+	}
+	
+	10831.1.1 = {
+		liege = d_jejakabhukti
+		holder = 188025 # Nannuka Chandela
+	}
+	10845.1.1 = {
+		holder = 188026 # Vakpati
+	}10859.1.1 = {
+		holder = 190111 #Ghosha
+	}
+	10859.1.1 = {
+		liege = d_kasi
+	}
+	10882.1.1 = {
+		liege = k_gujarat
+	}
+	10902.1.1 = {
+		holder = 190113 #Manava
+	}#910 return to rajastan
+	
+	10905.1.1 = {
+		holder = 188031 # Harsa
+	}
+	10925.1.1 = {
+		holder = 188033 # Yasovarma
+	}
+	10954.1.1 = {
+		holder = 188035 # Dhanga
+	}
+	11002.1.1 = {
+		holder = 188037 # Ganda
+	}
+	11015.1.1 = {
+		holder = 188038 # Vidyadhara
+	}
+	11030.1.1 = {
+		holder = 190116 #Dasaratha
+	}
+	11030.1.1 = {
+		liege = k_gondwana
+	}
+	11079.1.1 = {
+		holder = 190211 #Gayakarna Cedi
+	}
+	#c.a. 1140 to Baghelas?
+	11155.1.1 = {
+		holder = 190212 #Narasimha Cedi
+	}
+	11159.1.1 = {
+		holder = 190213 #Jayasimha Cedi
+	}
+	11177.1.1 = {
+		holder = 190213 #Vijayasimha Cedi dies 1211
+	}
+	11203.1.1 = {
+		holder = 188054 # Trailokyavarma
+		liege = d_jejakabhukti
+	}
+	11234.1.1 = {
+		holder = 191468 #Raja Vyaghra Dev Baghela
+		liege = 0
+	}
+	11250.1.1 = {
+		holder = 191470 #Karnadeva
+	}
+	11270.1.1 = {
+		holder = 191476 #Sohaga
+	}
+	11275.1.1 = {
+		holder = 191477 #Saranga
+	}
+	11280.1.1 = {
+		holder = 191478 #Bilas
+	}
+	11285.1.1 = {
+		holder = 191479 #Bhim Mal
+	}
+	11317.1.1 = {
+		holder = 191480 #Anik Dev
+	}
+	11335.1.1 = {
+		holder = 191481 #Malkeshwar Dev
+	}
+	#Baghela dynasty continues to present day
+}
+

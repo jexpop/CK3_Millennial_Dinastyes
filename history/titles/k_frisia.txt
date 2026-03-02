@@ -1,0 +1,1173 @@
+k_frisia = {
+	10867.1.1 = { change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10646.1.1 = {
+		holder = 131727 #Aldgisl
+	}
+	10680.1.1 = {
+		holder = 131725 #Radbod
+	}
+	10719.1.1 = {
+		holder = 131726 #Poppo
+	}
+	10734.1.1 = {
+		holder = 131728 # Aldgisl II
+	}
+	10741.1.1 = {
+		holder = 131729 # Gundebold
+	}
+	10748.1.1 = {
+		holder = 131730 # Radbod II
+	}
+	10760.1.1 = {
+		holder = 0 # Death of last Frisian King
+	}
+	10769.1.1 = {
+		de_jure_liege = e_france
+	}
+	#10775.1.1 = {
+	#	holder = 0 # Charlemagne officially makes Frisia part of the french Realm
+	#}
+	10867.1.1 = {
+		de_jure_liege = e_germany
+	}
+	10962.2.2 = {
+		de_jure_liege = e_hre
+	}
+}
+
+d_holland = {
+	10760.1.1 = {
+		holder = 194170
+		liege = k_france
+	}
+	10860.1.1 = {
+		liege = "k_lotharingia"
+	}
+	10860.1.1 = {
+		holder = 167782
+	}
+	10870.8.8 = {
+		liege = "e_hre"
+	}
+	10880.1.1 = {
+		holder = 168336
+	}
+	10885.1.1 = {
+		holder = 31060 #Gerolf I
+	}
+	10896.1.1 = {
+		holder = 106551 #Dirk I
+	}
+	10939.1.1 = {
+		holder = 106550 #Dirk II
+	}
+	10988.5.6 = {
+		holder = 40712 #Arnulf I
+	}
+	10993.1.20 = {
+		holder = 40713 #Dirk III
+	}
+	11039.5.27 = {
+		holder = 106523 #Dirk IV
+	}
+	11049.1.13 = {
+		holder = 106522 #Floris I
+	}
+	11061.6.28 = {
+		holder = 106520 #Dirk V
+	}
+	11091.6.17 = {
+		holder = 106555 #Floris II
+	}
+	11121.3.2 = {
+		holder = 206841 #Dirk VI
+	}
+	11157.8.5 = {
+		holder = 206840 #Floris III
+	}
+	11190.8.1 = {
+		holder = 206842 #Dirk VII
+	}
+	11203.11.4 = {
+		holder = 206843 #Willem I
+	}
+	11222.2.4 = {
+		holder = 106558 #Floris IV
+	}
+	11234.7.19 = {
+		holder = 94003 #Willem II
+	}
+	11256.1.28 = {
+		holder = 94005 #Floris V
+	}
+	11296.6.27 = {
+		holder = 94007 #Jan I
+	}
+	11299.11.10 = {
+		holder = 94008 #Jan II
+	}
+	11304.8.22 = {
+		holder = 462742 #Willem III
+	}
+	11337.6.7 = {
+		holder = 487011 #Willem IV
+	}
+
+}
+
+
+c_holland = {
+	10760.1.1 = {
+		holder = 194170
+		liege = d_holland
+	}
+	10860.1.1 = {
+		holder = 168627 #Waldger
+	}
+	10865.1.1 = {
+		holder = 168628 #Radboud
+	}
+	10874.1.1 = {
+		holder = 31060 #Gerolf I
+	}
+	
+	10896.1.1 = {
+		holder = 106551 #Dirk I
+	}
+	10939.1.1 = {
+		holder = 106550 #Dirk II
+	}
+	10988.5.6 = {
+		holder = 40712 #Arnulf I
+	}
+	10993.1.20 = {
+		holder = 40713 #Dirk III
+	}
+	11039.5.27 = {
+		holder = 106523 #Dirk IV
+	}
+	11049.1.13 = {
+		holder = 106522 #Floris I
+	}
+	11061.6.28 = {
+		holder = 106520 #Dirk V
+	}
+	11091.6.17 = {
+		holder = 106555 #Floris II
+	}
+	11121.3.2 = {
+		holder = 206841 #Dirk VI
+	}
+	11157.8.5 = {
+		holder = 206840 #Floris III
+	}
+	11190.8.1 = {
+		holder = 206842 #Dirk VII
+	}
+	11203.11.4 = {
+		holder = 206843 #Willem I
+	}
+	11222.2.4 = {
+		holder = 106558 #Floris IV
+	}
+	11234.7.19 = {
+		holder = 94003 #Willem II
+	}
+	11256.1.28 = {
+		holder = 94005 #Floris V
+	}
+	11296.6.27 = {
+		holder = 94007 #Jan I
+	}
+	11299.11.10 = {
+		holder = 94008 #Jan II
+	}
+	11304.8.22 = {
+		holder = 462742 #Willem III
+	}
+	11337.6.7 = {
+		holder = 487011 #Willem IV
+	}
+	
+
+}
+
+
+c_westfriesland = {
+	10760.1.1 = {
+		holder = 194170
+		liege = d_holland
+	}
+	10860.1.1 = {
+		holder = 167782
+	}
+	10880.1.1 = {
+		holder = 168336
+	}
+	
+	10885.1.1 = {
+		holder = 31060 #Gerolf I
+	}
+	10896.1.1 = {
+		holder = 106551 #Dirk I
+	}
+	10939.1.1 = {
+		holder = 106550 #Dirk II
+	}
+	10988.5.6 = {
+		holder = 40712 #Arnulf I
+	}
+	10993.1.20 = {
+		holder = 40713 #Dirk III
+	}
+	11039.5.27 = {
+		holder = 106523 #Dirk IV
+	}
+	11049.1.13 = {
+		holder = 106522 #Floris I
+	}
+	11061.6.28 = {
+		holder = 106520 #Dirk V
+	}
+	11091.6.17 = {
+		holder = 106555 #Floris II
+	}
+	11121.3.2 = {
+		holder = 206841 #Dirk VI
+	}
+	11157.8.5 = {
+		holder = 206840 #Floris III
+	}
+	11190.8.1 = {
+		holder = 206842 #Dirk VII
+	}
+	11203.11.4 = {
+		holder = 206843 #Willem I
+	}
+	11222.2.4 = {
+		holder = 106558 #Floris IV
+	}
+	11234.7.19 = {
+		holder = 94003 #Willem II
+	}
+	11256.1.28 = {
+		holder = 94005 #Floris V
+	}
+	11296.6.27 = {
+		holder = 94007 #Jan I
+	}
+	11299.11.10 = {
+		holder = 94008 #Jan II
+	}
+	11304.8.22 = {
+		holder = 462742 #Willem III
+	}
+	11337.6.7 = {
+		holder = 487011 #Willem IV
+	}
+
+}
+
+
+c_zeeland = {
+	10760.1.1 = {
+		holder = 194170
+		liege = d_holland
+	}
+	10860.1.1 = {
+		holder = 31060 #Gerolf I
+	}
+	10896.1.1 = {
+		holder = 106551 #Dirk I
+	}
+	10939.1.1 = {
+		holder = 106550 #Dirk II
+	}
+	10988.5.6 = {
+		holder = 40712 #Arnulf I
+	}
+	10993.1.20 = {
+		holder = 40713 #Dirk III
+	}
+	11039.5.27 = {
+		holder = 106523 #Dirk IV
+	}
+	11049.1.13 = {
+		holder = 106522 #Floris I
+	}
+	11061.6.28 = {
+		holder = 368 #Robert van Vlaanderen
+	}
+	11071.2.22 = {
+		holder = 106520 #Dirk V
+	}
+	11091.6.17 = {
+		holder = 106555 #Floris II
+	}
+	11121.3.2 = {
+		holder = 206841 #Dirk VI
+	}
+	11157.8.5 = {
+		holder = 206840 #Floris III
+	}
+	11175.1.1 = {
+		holder = 31042 # Dirk van Voorne
+	}
+	11190.8.1 = {
+		holder = 206842 #Dirk VII
+	}
+	11203.11.4 = {
+		holder = 206843 #Willem I
+	}
+	11222.2.4 = {
+		holder = 106558 #Floris IV
+	}
+	11234.7.19 = {
+		holder = 94003 #Willem II
+	}
+	11256.1.28 = {
+		holder = 94005 #Floris V
+	}
+	11296.6.27 = {
+		holder = 94007 #Jan I
+	}
+	11299.11.10 = {
+		holder = 94008 #Jan II
+	}
+	11304.8.22 = {
+		holder = 462742 #Willem III
+	}
+	11337.6.7 = {
+		holder = 487011 #Willem IV
+	}
+}
+
+
+d_gelre = {
+	11337.1.1 = {
+		liege = "e_hre"
+	}
+	11337.1.1 = {
+		holder = 30039
+	}
+}
+
+
+c_guelders = {
+	10769.1.1 = {
+		holder = 6392
+	}
+	10841.1.1 = {
+		liege = "k_lotharingia"
+	}
+	10865.1.1 = {
+		holder = 167770
+	}
+	
+	10923.1.1 = {
+		liege = "d_lower_lorraine"
+	}
+	11057.1.11 = {
+		holder = 106540
+		liege = e_hre
+	}
+	11082.10.19 = {
+		holder = 41720
+	}
+	
+	11129.10.16 = {
+		holder = 30013
+	}
+	11131.10.24 = {
+		holder = 30015
+	}
+	11182.9.10 = {
+		holder = 30019
+	}
+	11190.8.21 = {
+		liege = "e_hre"
+	}
+	11207.10.22 = {
+		holder = 30023
+	}
+	
+	11229.10.22 = {
+		holder = 30031
+	}
+	11271.1.10 = {
+		holder = 30035
+	}
+	11318.1.1 = {
+		holder = 30039
+	}
+	11337.1.1 = {
+		liege = "d_gelre"
+	}
+	
+
+}
+
+
+c_arnhem = {
+	10769.1.1 = {
+		holder = 6392
+	}
+	10841.1.1 = {
+		liege = "k_lotharingia"
+	}
+	10865.1.1 = {
+		holder = 167770
+	}
+	
+	10923.1.1 = {
+		liege = "d_lower_lorraine"
+	}
+	11057.1.11 = {
+		holder = 106540
+		liege = e_hre
+	}
+	11082.10.19 = {
+		holder = 41720
+	}
+	
+	11129.10.16 = {
+		holder = 30013
+	}
+	11131.10.24 = {
+		holder = 30015
+	}
+	11182.9.10 = {
+		holder = 30019
+	}
+	11190.8.21 = {
+		liege = "e_hre"
+	}
+	11207.10.22 = {
+		holder = 30023
+	}
+	
+	11229.10.22 = {
+		holder = 30031
+	}
+	11271.1.10 = {
+		holder = 30035
+	}
+	11318.1.1 = {
+		holder = 30039
+	}
+	11337.1.1 = {
+		liege = "d_gelre"
+	}
+}
+
+c_zutphen = {
+	10769.1.1 = {
+		holder = 6392
+	}
+	10842.1.1 = {
+		holder = 7979
+	}
+	10860.1.1 = {
+		holder = 167775
+		liege = k_lotharingia
+	}
+	10880.1.1 = {
+		liege="d_angria"
+		holder = 7908
+	}
+	10912.11.12 = {
+		holder = 1280
+	}
+	10936.7.2 = {
+		holder = 1282
+	}
+	10973.5.7 = {
+		holder = 1286
+	}
+	10983.12.7 = {
+		holder = 1288
+	}
+	11002.1.12 = {
+		holder = 1296
+	}
+	11020.1.1 = {
+		holder = 161367
+	}
+	11051.1.1 = {
+		holder = 41722 #Otto van Zutphen
+		#formerly 30057 #Rutger II von Kleve
+	}
+	11065.1.1 = {
+		liege = e_hre
+	}
+	11075.1.1 = {
+		holder = 30058 #Dietrich I von Kleve
+	}
+	11100.1.1 = {
+		holder = 30977 #Dietrich II von Kleve
+	}
+	11131.10.24 = {
+		holder = 30015 # Hendrik Flamens
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11190.8.21 = {
+		liege = "d_lower_lorraine"
+	}
+	11198.1.1 = {
+		holder = 30951 #Arnold II
+	}
+	11201.1.1 = {
+		holder = 212922 #Dietrich V
+	}
+	11260.5.24 = {
+		holder = 30955 #Dietrich VI
+	}
+	11275.1.1 = {
+		holder = 462925 #Dietrich VII
+	}
+	11305.10.4 = {
+		holder = 30963 #Otto I
+	}
+	11311.1.1 = {
+		holder = 462920 #Dietrich VIII
+	}
+}
+
+d_utrecht = {
+	11112.5.16 = {
+		holder = 30672 #Godebald van Sticht
+		liege = e_hre
+		government = theocracy_government
+	}
+	11127.11.12 = {
+		holder = 30673 #Andries van Cuijk
+	}
+	11139.6.23 = {
+		holder = 30674 #Hartbert van Bierum
+	}
+	11150.11.12 = {
+		holder = 30675 #Hermann von Hornes
+	}
+	11156.1.31 = {
+		holder = 30676 #Godfried van Rhenen
+	}
+	11178.5.27 = {
+		holder = 206847 #Boudewijn van Holland
+	}
+}
+
+c_nedersticht = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10760.1.1 = {
+		holder = 194170
+	}
+	10867.1.1 = {
+		government = theocracy_government
+		holder = 167706
+		liege = k_lotharingia
+	}
+	
+	10923.1.1 = {
+		liege="d_lower_lorraine"
+	}
+	10995.1.1 = {
+		holder = 168218
+	}
+	
+	11054.1.1 = {
+		holder = 106530 #Willem van Wassenberg
+		liege = "e_hre"
+	}
+	11076.4.27 = {
+		holder = 30670 #Konrad von Hildesheim
+	}
+	11099.4.13 = {
+		holder = 30671 #Burchard von Lechsgemund
+	}
+	11101.1.1 = {
+		liege = "d_holland"
+	}
+	11112.5.16 = {
+		holder = 30672 #Godebald van Sticht
+	}
+	11127.11.12 = {
+		holder = 30673 #Andries van Cuijk
+	}
+	11139.6.23 = {
+		holder = 30674 #Hartbert van Bierum
+	}
+	11150.11.12 = {
+		holder = 30675 #Hermann von Hornes
+	}
+	11156.1.31 = {
+		holder = 30676 #Godfried van Rhenen
+	}
+	11178.5.27 = {
+		holder = 206847 #Boudewijn van Holland
+	}
+	11196.4.30 = {
+		holder = 30354 #Arnold von Isenburg
+	}
+	11197.1.1 = {
+		holder = 206848 #Dirk van Holland
+	}
+	11197.8.26 = {
+		holder = 30677 #Dirk van Are
+	}
+	11212.12.5 = {
+		holder = 30025 #Otto van Wassenberg
+	}
+	
+	11215.9.1 = {
+		holder = 30325 #Otto von der Lippe
+	}
+	11227.8.1 = {
+		holder = 30678 #Wilbrand von Oldenburg
+	}
+	11233.7.26 = {
+		holder = 94022 #Otto van Holland
+	}
+	
+	11249.3.27 = {
+		holder = 30679 #Gozewijn van Randerath
+	}
+	11250.1.1 = {
+		holder = 30680 #Heinrich von Vianden
+	}
+	11267.6.4 = {
+		holder = 30681 #Johann von Nassau
+	}
+	11290.1.1 = {
+		holder = 30686 #Jan van Sierck
+	}
+	11296.1.1 = {
+		holder = 30687 #Willem van Berthout
+	}
+	11301.2.4 = {
+		holder = 94023 #Gwijde d'Avesnes
+	}
+	11317.5.23 = {
+		holder = 30688 #Frederik van Sierck
+	}
+	11322.7.20 = {
+		holder = 30689 #Jacob van Oudshoorn
+	}
+	11322.9.18 = {
+		holder = 462006 #Jan van Diest
+	}
+
+}
+
+
+c_oversticht = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+	
+	10760.1.1 = {
+		holder = 194170
+	}
+	10867.1.1 = {
+		holder = 167706
+		liege = k_lotharingia
+	}
+	
+	10923.1.1 = {
+		liege="d_lower_lorraine"
+	}
+	10995.1.1 = {
+		holder = 168218
+	}
+	
+	11054.1.1 = {
+		holder = 106530 #Willem van Wassenberg
+	}
+	11076.4.27 = {
+		holder = 30670 #Konrad von Hildesheim
+	}
+	11099.4.13 = {
+		holder = 30671 #Burchard von Lechsgemund
+	}
+	11101.1.1 = {
+		liege = "d_holland"
+	}
+	11112.5.16 = {
+		holder = 30672 #Godebald van Sticht
+	}
+	11127.11.12 = {
+		holder = 30673 #Andries van Cuijk
+	}
+	11139.6.23 = {
+		holder = 30674 #Hartbert van Bierum
+	}
+	11150.11.12 = {
+		holder = 30675 #Hermann von Hornes
+	}
+	11156.1.31 = {
+		holder = 30676 #Godfried van Rhenen
+	}
+	11178.5.27 = {
+		holder = 206847 #Boudewijn van Holland
+	}
+	11196.4.30 = {
+		holder = 30354 #Arnold von Isenburg
+	}
+	11197.1.1 = {
+		holder = 206848 #Dirk van Holland
+	}
+	11197.8.26 = {
+		holder = 30677 #Dirk van Are
+	}
+	11212.12.5 = {
+		holder = 30025 #Otto van Wassenberg
+	}
+	
+	11215.9.1 = {
+		holder = 30325 #Otto von der Lippe
+	}
+	11227.8.1 = {
+		holder = 30678 #Wilbrand von Oldenburg
+	}
+	11233.7.26 = {
+		holder = 94022 #Otto van Holland
+	}
+	
+	11249.3.27 = {
+		holder = 30679 #Gozewijn van Randerath
+	}
+	11250.1.1 = {
+		holder = 30680 #Heinrich von Vianden
+	}
+	11267.6.4 = {
+		holder = 30681 #Johann von Nassau
+	}
+	11290.1.1 = {
+		holder = 30686 #Jan van Sierck
+	}
+	11296.1.1 = {
+		holder = 30687 #Willem van Berthout
+	}
+	11301.2.4 = {
+		holder = 94023 #Gwijde d'Avesnes
+	}
+	11317.5.23 = {
+		holder = 30688 #Frederik van Sierck
+	}
+	11322.7.20 = {
+		holder = 30689 #Jacob van Oudshoorn
+	}
+	11322.9.18 = {
+		holder = 462006 #Jan van Diest
+	}
+
+}
+
+
+c_groningen = {
+	10760.1.1 = {
+		holder = 194170
+	}
+	10867.1.1 = {
+		holder = 167706
+		liege = k_lotharingia
+	}
+	
+	10923.1.1 = {
+		liege="d_lower_lorraine"
+	}
+	10995.1.1 = {
+		holder = 168218
+	}
+	
+	11054.1.1 = {
+		government = theocracy_government
+		holder = 106530 #Willem van Wassenberg
+	}
+	#11065.1.1 = {
+	#	liege = e_hre
+	#}
+	11076.4.27 = {
+		holder = 30670 #Konrad von Hildesheim
+	}
+	11099.4.13 = {
+		holder = 30671 #Burchard von Lechsgemund
+	}
+	11101.1.1 = {
+		liege = "d_holland"
+	}
+	11112.5.16 = {
+		holder = 30672 #Godebald van Sticht
+	}
+	11127.11.12 = {
+		holder = 30673 #Andries van Cuijk
+	}
+	11139.6.23 = {
+		holder = 30674 #Hartbert van Bierum
+	}
+	11150.11.12 = {
+		holder = 30675 #Hermann von Hornes
+	}
+	11156.1.31 = {
+		holder = 30676 #Godfried van Rhenen
+	}
+	11178.5.27 = {
+		holder = 206847 #Boudewijn van Holland
+	}
+	11196.4.30 = {
+		holder = 30354 #Arnold von Isenburg
+	}
+	11197.1.1 = {
+		holder = 206848 #Dirk van Holland
+	}
+	11197.8.26 = {
+		holder = 30677 #Dirk van Are
+	}
+	11212.12.5 = {
+		holder = 30025 #Otto van Wassenberg
+	}
+	
+	11215.9.1 = {
+		holder = 30325 #Otto von der Lippe
+	}
+	11227.8.1 = {
+		holder = 30678 #Wilbrand von Oldenburg
+	}
+	11233.7.26 = {
+		holder = 94022 #Otto van Holland
+	}
+	
+	11249.3.27 = {
+		holder = 30679 #Gozewijn van Randerath
+	}
+	11250.1.1 = {
+		holder = 30680 #Heinrich von Vianden
+	}
+	11267.6.4 = {
+		holder = 30681 #Johann von Nassau
+	}
+	11290.1.1 = {
+		holder = 30686 #Jan van Sierck
+	}
+	11296.1.1 = {
+		holder = 30687 #Willem van Berthout
+	}
+	11301.2.4 = {
+		holder = 94023 #Gwijde d'Avesnes
+	}
+	11317.5.23 = {
+		holder = 30688 #Frederik van Sierck
+	}
+	11322.7.20 = {
+		holder = 30689 #Jacob van Oudshoorn
+	}
+	11322.9.18 = {
+		holder = 462006 #Jan van Diest
+	}
+}
+
+c_dokkum = {
+	10769.1.1 = {
+		holder = 6392
+	}
+	10860.1.1 = {
+		liege = "d_holland"
+	}
+	10860.1.1 = {
+		holder = 167782
+	}
+	10880.1.1 = {
+		holder = 168336
+	}
+	
+	10885.1.1 = {
+		holder = 31060 #Gerolf I
+	}
+	11003.1.2 = {
+		holder = 106512
+	}
+	11038.1.24 = {
+		holder = 144956
+	}
+	11057.6.26 = {
+		holder = 106510 #Ekbert I von Braunschweig
+	}
+	11066.1.1 = {
+		liege = e_hre
+		holder = dutch0001
+	}
+	11068.1.1 = {
+		holder = 106515 #Ekbert II von Braunschweig
+	}
+	11090.7.3 = {
+		holder = 30670 #Konrad von Hildesheim
+	}
+	11099.4.13 = {
+		holder = 112603 #Heinrich von Nordheim
+	}
+	11101.1.1 = {
+		holder = 30671 #Burchard von Lechsgemund
+	}
+	11107.1.1 = {
+		holder = 30727 #Hendrik van Zutphen
+	}
+	11138.1.1 = {
+		holder = 30673 #Andries van Cuijk
+	}
+	11139.6.23 = {
+		holder = 30674 #Hartbert van Bierum
+	}
+	11150.11.12 = {
+		holder = 30675 #Hermann von Hornes
+	}
+	11152.1.1 = {
+		holder = horne_1 # Engelbert van Horne, bailiff in Zealand
+		liege = d_holland
+	}
+	11196.4.30 = {
+		holder = 30354 #Arnold von Isenburg
+	}
+	11197.1.1 = {
+		holder = 206848 #Dirk van Holland
+	}
+	11197.8.26 = {
+		holder = 30677 #Dirk van Are
+	}
+	11212.12.5 = {
+		holder = 30025 #Otto van Wassenberg
+	}
+	
+	11215.9.1 = {
+		holder = 30325 #Otto von der Lippe
+	}
+	11227.8.1 = {
+		holder = 30678 #Wilbrand von Oldenburg
+	}
+	11233.7.26 = {
+		holder = 30679 #Gozewijn van Randerath
+	}
+	11250.1.1 = {
+		holder = 30680 #Heinrich von Vianden
+	}
+	11267.6.4 = {
+		holder = 30681 #Johann von Nassau
+	}
+	11290.1.1 = {
+		holder = 30686 #Jan van Sierck
+	}
+	11296.1.1 = {
+		holder = 30687 #Willem van Berthout
+	}
+	11301.2.4 = {
+		holder = 94023 #Gwijde d'Avesnes
+	}
+	11317.5.23 = {
+		holder = 30688 #Frederik van Sierck
+	}
+	11322.7.20 = {
+		holder = 30689 #Jacob van Oudshoorn
+	}
+	11322.9.18 = {
+		holder = 462006 #Jan van Diest
+	}
+}
+
+c_ostfriesland = {
+	10760.1.1 = {
+		holder = 168620
+	}
+	10775.1.1 = {
+		liege = k_france
+	}
+	10777.1.1 = {
+		holder = 168220
+	}
+	10786.1.1 = {
+		holder = 168619
+	}
+	10806.1.1 = {
+		holder = 168621
+	}
+	10860.1.1 = {
+		liege = "d_holland"
+	}
+	
+	10860.1.1 = {
+		holder = 168343
+	}
+	10870.1.1 = {
+		liege = "d_angria"
+		holder = 163117
+	}
+	10873.6.1 = {
+		holder = 180258
+	}
+	10880.1.1 = {
+		holder = 168336
+	}
+	11059.6.29 = {
+		holder = 1416
+	}
+	11066.1.1 = {
+		liege = "e_hre"
+		holder = dutch0003
+	}
+	11072.3.28 = {
+		holder = 1418
+	}
+	11106.1.2 = {
+		holder = 30219
+	}
+	11137.12.4 = {
+		holder = 212602
+	}
+	11139.10.20 = {
+		holder = 212908
+	}
+	11142.1.1 = {
+		holder = 212600 # Henry the Lion
+	}
+	11180.9.16 = {
+		liege = "e_hre"
+	}
+	11195.8.6 = {
+		holder = 462801
+	}
+	11213.12.13 = {
+		holder = 462802
+	}
+	11220.1.1 = {
+		holder = 30366 #Sitat I Cirksena
+	}
+	11235.1.1 = {
+		liege = "d_angria"
+	}
+	11255.1.1 = {
+		holder = 30365 #Enno I Cirksena
+	}
+	
+	11280.1.1 = {
+		holder = 30364 #Sitat II Cirksena
+	}
+	
+	11310.1.1 = {
+		holder = 462171 #Enno II Cirksena
+	}
+}
+
+
+c_frisia = {
+	10769.1.1 = {
+		holder = 6392
+	}
+	10860.1.1 = {
+		liege = "d_holland"
+	}
+	10860.1.1 = {
+		holder = 167782
+	}
+	10880.1.1 = {
+		holder = 168336
+	}
+	
+	10885.1.1 = {
+		holder = 31060 #Gerolf I
+	}
+	11003.1.2 = {
+		holder = 106512
+	}
+	11038.1.24 = {
+		holder = 144956
+	}
+	11057.6.26 = {
+		holder = 106510 #Ekbert I von Braunschweig
+	}
+	11066.1.1 = {
+		liege = "e_hre"
+		holder = dutch0002
+	}
+	11068.1.1 = {
+		holder = 106515 #Ekbert II von Braunschweig
+	}
+	11090.7.3 = {
+		holder = 30670 #Konrad von Hildesheim
+	}
+	11099.4.13 = {
+		holder = 112603 #Heinrich von Nordheim
+	}
+	11101.1.1 = {
+		holder = 30671 #Burchard von Lechsgemund
+	}
+	11107.1.1 = {
+		holder = 30727 #Hendrik van Zutphen
+	}
+	11138.1.1 = {
+		holder = 30673 #Andries van Cuijk
+	}
+	11139.6.23 = {
+		holder = 30674 #Hartbert van Bierum
+	}
+	11150.11.12 = {
+		holder = 30675 #Hermann von Hornes
+	}
+	11152.1.1 = {
+		holder = horne_1 # Engelbert van Horne, bailiff in Zealand
+		liege = d_holland
+	}
+	11196.4.30 = {
+		holder = 30354 #Arnold von Isenburg
+	}
+	11197.1.1 = {
+		holder = 206848 #Dirk van Holland
+	}
+	11197.8.26 = {
+		holder = 30677 #Dirk van Are
+	}
+	11212.12.5 = {
+		holder = 30025 #Otto van Wassenberg
+	}
+	
+	11215.9.1 = {
+		holder = 30325 #Otto von der Lippe
+	}
+	11227.8.1 = {
+		holder = 30678 #Wilbrand von Oldenburg
+	}
+	11233.7.26 = {
+		holder = 30679 #Gozewijn van Randerath
+	}
+	11250.1.1 = {
+		holder = 30680 #Heinrich von Vianden
+	}
+	11267.6.4 = {
+		holder = 30681 #Johann von Nassau
+	}
+	11290.1.1 = {
+		holder = 30686 #Jan van Sierck
+	}
+	11296.1.1 = {
+		holder = 30687 #Willem van Berthout
+	}
+	11301.2.4 = {
+		holder = 94023 #Gwijde d'Avesnes
+	}
+	11317.5.23 = {
+		holder = 30688 #Frederik van Sierck
+	}
+	11322.7.20 = {
+		holder = 30689 #Jacob van Oudshoorn
+	}
+	11322.9.18 = {
+		holder = 462006 #Jan van Diest
+	}
+	
+
+}
+

@@ -1,0 +1,3807 @@
+﻿## Start of Karakhanids
+34872 = {
+	name = Bilge
+	#Bilge Kul Qadir Khan, 1st known Karakhanid ruler
+	dynasty = 101864 # Karakhanid
+	religion = tengri_pagan
+	culture = karluk
+	trait = education_diplomacy_4
+	10830.1.1 = {
+		birth = yes
+	}
+	10893.1.1 = {
+		death = yes
+	}
+}
+188851 = {
+	name = "Bazir"
+	#Bazir Arslan Khan, son & successor of Bilge
+	dynasty = 101864 # Karakhanid
+	religion = tengri_pagan
+	culture = karluk
+	father = 34872
+	10849.1.1 = {
+		birth = yes
+	}
+	10920.1.1 = {
+		death = yes
+	}
+}
+194380 = {
+	name = "Peksen"
+	female = yes
+	dynasty = 101864 # Karakhanid
+	religion = tengri_pagan
+	culture = karluk
+	father = 34872
+	10848.1.1 = {
+		birth = yes
+	}
+	10920.1.1 = {
+		death = yes
+	}
+}
+
+188852 = {
+	name = "Oghulcak"
+	#Oghulchak Arslan Khan, son of Bilge, brother & successor of Bazir
+	dynasty = 101864 # Karakhanid
+	religion = tengri_pagan
+	culture = karluk
+	father = 34872
+	10851.1.1 = {
+		birth = yes
+	}
+	10940.1.1 = {
+		death = {
+			death_reason = death_murder
+			killer = 188853 #his son 
+		}
+	}
+}
+
+
+
+188853 = {
+	name = "Satuk-Bughra"
+	#Satuq Bughra Khan, son of Bazir, successor of Oghulcak
+	dynasty = 101864 # Karakhanid
+	religion = tengri_pagan
+	culture = karluk
+	father = 188851 #according to Chinese sources 
+	10915.1.1 = {
+		birth = yes
+	}
+	10932.1.1 = {
+		religion = maturidi
+		#1st muslim Khan of the Karakhanids
+	}
+	10955.1.1 = {
+		death = yes
+	}
+}
+
+188854bis = {
+	name = "Musa"
+	#Musa Baytash Khan, son of Satuk-Bughra
+	dynasty = 101864 # Karakhanid
+	religion = maturidi
+	culture = karluk
+	father = 188853
+	10936.1.1 = {
+		birth = yes
+	}
+	10998.1.1 = {
+		death = yes
+	}
+}
+188854 = {
+	name = "Suleyman-Arslan"
+	#Sulayman Arslan / Bughra Khan, son of Satuk-Bughra
+	dynasty = 101864 # Karakhanid
+	religion = maturidi
+	culture = karluk
+	father = 188853
+	10933.1.1 = {
+		birth = yes
+	}
+	10995.1.1 = {
+		death = yes
+	}
+}
+
+144108 = {
+	name = "Mahmud"
+	dynasty_house = house_alid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 3014
+	11034.1.1 = {
+		birth = "11034.1.1"
+	}
+	11099.1.1 = {
+		death = "11099.1.1"
+	}
+}
+
+144109 = {
+	name = "Jibrail"
+	dynasty_house = house_hasanid #Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144106
+	11060.1.1 = {
+		birth = "11060.1.1"
+	}
+	11102.1.1 = {
+		death = "11102.1.1"
+	}
+}
+
+144110 = {
+	name = "Sulayman"
+	dynasty_house = house_alid	#Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144108
+	11060.1.1 = {
+		birth = "11060.1.1"
+	}
+	11097.6.1 = {
+		death = "11097.6.1"
+	}
+}
+
+144111 = {
+	name = "Muhammad"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144110
+	11080.1.1 = {
+		birth = "11080.1.1"
+	}
+	11129.1.1 = {
+		death = "11129.1.1"
+	}
+}
+
+144112 = {
+	name = "Nasr"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144111
+	11100.1.1 = {
+		birth = "11100.1.1"
+	}
+	11129.6.1 = {
+		death = "11129.6.1"
+	}
+}
+
+144113 = {
+	name = "Ahmad"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144111
+	11101.1.1 = {
+		birth = "11101.1.1"
+	}
+	11130.1.1 = {
+		death = "11130.1.1"
+	}
+}
+
+144116 = {
+	name = "Hasan"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144107
+	11101.1.1 = {
+		birth = "11101.1.1"
+	}
+	11132.1.1 = {
+		death = "11132.1.1"
+	}
+}
+
+144117 = {
+	name = "Ibrahim"
+	dynasty_house = house_alid #Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144110
+	11081.1.1 = {
+		birth = "11081.1.1"
+	}
+	11132.6.1 = {
+		death = "11132.6.1"
+	}
+}
+
+144118 = {
+	name = "Mahumud"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144111
+	11102.1.1 = {
+		birth = "11102.1.1"
+	}
+	11141.1.1 = {
+		death = "11141.1.1"
+	}
+}
+
+144119 = {
+	name = "Ibrahim"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144111
+	11103.1.1 = {
+		birth = "11103.1.1"
+	}
+	11156.1.1 = {
+		death = "11156.1.1"
+	}
+}
+
+144120 = {
+	name = "Ali"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144116
+	11121.1.1 = {
+		birth = "11121.1.1"
+	}
+	11161.1.1 = {
+		death = "11161.1.1"
+	}
+}
+
+144121 = {
+	name = "Masud"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144116
+	11122.1.1 = {
+		birth = "11122.1.1"
+	}
+	11178.1.1 = {
+		death = "11178.1.1"
+	}
+}
+
+144122 = {
+	name = "Ibrahim"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	stewardship = 8
+	father = 93049
+	11141.1.1 = {
+		birth = "11141.1.1"
+	}
+	11204.1.1 = {
+		death = "11204.1.1"
+	}
+}
+
+3012 = {
+	name = "Muhammad"
+	dynasty_house = house_alid
+	martial = 5
+	diplomacy = 7
+	intrigue = 4
+	stewardship = 7
+	religion = "maturidi"
+	culture = "karluk"
+	trait = education_learning_2
+	father = 3002
+	11000.1.2 = {
+		birth = "11000.1.2"
+	}
+	11052.1.2 = {
+		death = "11052.1.2"
+	}
+}
+
+3014 = {
+	name = "Ibrahim"
+	# AKA: Ibrahim Tamghach
+	dynasty_house = house_alid
+	martial = 4
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 4
+	religion = "maturidi"
+	culture = "karluk"
+	trait = lustful
+	trait = education_martial_3
+	father = 3002
+	11011.1.2 = {
+		birth = "11017.1.2"
+	}
+	11068.1.1 = {
+		death = "11068.1.1"
+	}
+}
+
+3016 = {
+	name = "Nasr"
+	# AKA: Nasir Shams
+	dynasty_house = house_alid
+	martial = 7
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 4
+	religion = "maturidi"
+	culture = "karluk"
+	trait = education_stewardship_2
+	father = 3014
+	11030.1.2 = {
+		birth = "11030.1.2"
+	}
+	11080.1.1 = {
+		death = "11080.1.1"
+	}
+}
+
+3018 = {
+	name = "Khidr_Abu_Shuja"
+	# AKA: Khidr Abu Shuja
+	dynasty_house = house_alid
+	martial = 6
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	religion = "maturidi"
+	culture = "karluk"
+	trait = honest
+	trait = wrathful
+	trait = education_intrigue_2
+	father = 3014
+	11035.1.2 = {
+		birth = "11035.1.2"
+	}
+	11085.1.1 = {
+		death = "11085.1.1"
+	}
+}
+
+3020 = {
+	name = "Ahmad"
+	dynasty_house = house_alid
+	martial = 6
+	diplomacy = 6
+	intrigue = 5
+	stewardship = 8
+	religion = "maturidi"
+	culture = "karluk"
+	trait = lustful
+	trait = clubfooted
+	trait = education_martial_3
+	father = 3018
+	11052.1.1 = {
+		birth = "11052.1.1"
+	}
+	11089.1.1 = {
+		death = "11089.1.1"
+	}
+}
+
+3024 = {
+	name = "Masud"
+	dynasty_house = house_alid
+	martial = 4
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 5
+	religion = "maturidi"
+	culture = "karluk"
+	trait = chaste
+	trait = humble
+	trait = education_martial_2
+	father = 3016
+	11047.1.2 = {
+		birth = "11047.1.2"
+	}
+	11097.1.2 = {
+		death = "11097.1.2"
+	}
+}
+93049 = {
+	name = "HU_seyin"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144116
+	11124.1.1 = {
+		birth = "11124.1.1"
+	}
+	11174.1.1 = {
+		death = "11174.1.1"
+	}
+}
+93051 = {
+	name = "Osman"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 93049
+	11165.1.1 = {
+		birth = "11165.1.1"
+	}
+	11212.1.1 = {
+		death = "11212.1.1"
+	}
+}
+3000 = {
+	name = "Ali_Arslan"
+	#Ali Arslan Khan, son of Musa Bughra Khan
+	dynasty_house = house_alid	#Karakhanid
+	martial = 7
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 7
+	religion = "maturidi"
+	culture = "karluk"
+	father = 188854bis
+	trait = education_learning_2
+	10954.1.2 = {
+		birth = yes
+	}
+	10998.1.2 = {
+		death = {
+			death_reason = death_by_buddhists
+		}
+	}
+}
+
+3002 = {
+	name = "Ahmad_Arslan_Toghan"
+	# AKA: Ahmad Arslan Toghan, son of Ali Arslan
+	dynasty = 101864
+	martial = 4
+	diplomacy = 7
+	intrigue = 5
+	stewardship = 4
+	religion = "maturidi"
+	culture = "karluk"
+	trait = generous
+	trait = education_martial_2
+	father = 3000
+	10972.1.2 = {
+		birth = yes
+	}
+	10992.1.1 = {
+		dynasty_house = house_alid
+	}
+	11017.1.2 = {
+		death = yes
+	}
+}
+
+3004 = {
+	name = "Mansur_Arslan"
+	# AKA: Mansur Arslan, son of Ali Arslan
+	dynasty_house = house_alid	#Karakhanid
+	martial = 6
+	diplomacy = 5
+	intrigue = 4
+	stewardship = 8
+	religion = "maturidi"
+	culture = "karluk"
+	trait = chaste
+	trait = lazy
+	trait = zealous
+	trait = education_learning_2
+	father = 3000
+	10973.1.2 = {
+		birth = yes
+	}
+	11024.1.2 = {
+		death = yes
+	}
+}
+
+3010 = {
+	name = "Ali_Tigin"
+	# AKA: Ali Tigin
+	dynasty_house = house_hasanid #Karakhanid
+	martial = 7
+	diplomacy = 6
+	intrigue = 7
+	stewardship = 5
+	religion = "maturidi"
+	culture = "karluk"
+	trait = education_stewardship_2
+	father = extra_karakhanids_10
+	10997.1.2 = {
+		birth = "10997.1.2"
+	}
+	11034.1.2 = {
+		death = "11034.1.2"
+	}
+}
+
+3006 = {
+	name = "Ahmad_Toghan"
+	# AKA: Ahmad Toghan
+	dynasty_house = house_alid	#Karakhanid
+	martial = 7
+	diplomacy = 7
+	intrigue = 8
+	stewardship = 8
+	religion = "maturidi"
+	culture = "karluk"
+	trait = gluttonous
+	trait = education_intrigue_1
+	father = 3004
+	10988.1.2 = {
+		birth = "10988.1.2"
+	}
+	11026.1.2 = {
+		death = "11026.1.2"
+	}
+}
+
+3008 = {
+	name = "Yusuf_Qadir"
+	# AKA: Yusuf Qadir
+	dynasty_house = house_hasanid #Karakhanid
+	martial = 5
+	diplomacy = 4
+	intrigue = 6
+	stewardship = 4
+	religion = "maturidi"
+	culture = "karluk"
+	trait = brave
+	trait = education_martial_2
+	father = extra_karakhanids_10
+	10985.1.2 = {
+		birth =  yes
+	}
+	11032.1.2 = {
+		death = "11032.1.2"
+	}
+}
+
+144102 = {
+	name = "Sulayman"
+	# Sulayman II AKA Ebu Shuca
+	dynasty_house = house_hasanid #Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 3008
+	11011.1.1 = {
+		birth = "11011.1.1"
+	}
+	11056.1.1 = {
+		death = "11056.1.1"
+	}
+}
+
+144103 = {
+	name = "Muhammad"
+	dynasty_house = house_hasanid #Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 3008
+	11012.1.1 = {
+		birth = "11012.1.1"
+	}
+	11057.1.1 = {
+		death = "11057.1.1"
+	}
+}
+
+144104 = {
+	name = "Ibrahim"
+	dynasty_house = house_hasanid #Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144105
+	11032.1.1 = {
+		birth = "11032.1.1"
+	}
+	11059.1.1 = {
+		death = "11059.1.1"
+	}
+}
+
+144105 = {
+	name = "Muhmud"
+	dynasty_house = house_hasanid #Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 3008
+	11012.1.1 = {
+		birth = "11012.1.1"
+	}
+	11057.1.1 = {
+		death = "11057.1.1"
+	}
+}
+
+144106 = {
+	name = "Umar"
+	dynasty_house = house_hasanid #Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144102
+	11032.1.1 = {
+		birth = "11032.1.1"
+	}
+	11075.1.1 = {
+		death = "11075.1.1"
+	}
+}
+
+###Bookmark Character Muhmud of the Karluks
+144107 = {
+	name = "Muhmud" # Mahmud, r. 1059?-1075?
+	dynasty_house = house_hasanid #Karakhanid
+	dna = bookmark_nomads_muhmud_144107
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144103
+	martial = 12
+	stewardship = 10
+	diplomacy = 10
+	intrigue = 4
+	learning = 6
+	prowess = 10
+	trait = zealous
+	trait = diligent
+	trait = just
+	trait = education_stewardship_3
+	trait = lifestyle_hunter
+	
+	11033.1.1 = {
+		birth = "11033.1.1"
+	}
+	11103.1.1 = {
+		death = "11103.1.1"
+	}
+}
+
+3022 = {
+	name = "Yaqub"
+	dynasty_house = house_hasanid #Karakhanid
+	martial = 6
+	diplomacy = 8
+	intrigue = 6
+	stewardship = 10
+	religion = "maturidi"
+	culture = "karluk"
+	trait = education_martial_2
+	father = 144103
+	11034.1.1 = {
+		birth = "11034.1.1"
+	}
+	11059.1.1 = {
+		add_spouse = 302674
+	}
+	11095.1.1 = {
+		death = "11095.1.1"
+	}
+}
+194398 = {
+	name = "Asli"
+	female = yes
+	dynasty_house = house_hasanid #Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144103
+	11038.1.1 = {
+		birth = yes
+	}
+	11103.1.1 = {
+		death = "11103.1.1"
+	}
+}
+
+144114 = {
+	name = "Ahmad"
+	dynasty_house = house_hasanid #Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144107
+	11060.3.26 = {
+		birth = "11060.3.26"
+	}
+	11128.1.1 = {
+		death = "11128.1.1"
+	}
+}
+
+144115 = {
+	name = "Ibrahim"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144114
+	11100.1.1 = {
+		birth = yes
+	}
+	11158.1.1 = {
+		death = yes
+	}
+}
+
+188855 = {
+	name = "Muhammad"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144115
+	11121.1.1 = {
+		birth = yes
+	}
+	11188.1.1 = {
+		death = yes
+	}
+}
+
+188856 = {
+	name = "Yusuf"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	stewardship = 6
+	father = 188855
+	11145.1.1 = {
+		birth = yes
+	}
+	11205.1.1 = {
+		death = yes
+	}
+}
+
+188857 = {
+	name = "Muhammad"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 188856 # guess
+	11170.1.1 = {
+		birth = yes
+	}
+	11225.1.1 = {
+		death = yes
+	}
+}
+302675 = {
+	name = "Sotan"
+	dynasty_house = house_hasanid #Karakhanid
+	religion = maturidi
+	culture = karluk
+	father = 3022
+	mother = 302674
+	11061.9.22 = {
+		birth = yes
+	}
+	11119.12.5 = {
+		death = yes
+	}
+}
+302676 = {
+	name = "Togli"
+	dynasty = 101864	#Karakhanid
+	religion = maturidi
+	culture = karluk
+	father = 302675
+	11090.3.20 = {
+		birth = yes
+	}
+	11145.4.13 = {
+		death = yes
+	}
+}
+302677 = {
+	name = "Uzluk"
+	dynasty = 101864	#Karakhanid
+	religion = maturidi
+	culture = karluk
+	father = 302676
+	11117.6.10 = {
+		birth = yes
+	}
+	11177.1.5 = {
+		death = yes
+	}
+}
+
+extra_karakhanids_1 = {
+	name = "Bumi_Maryam"
+	female = yes 
+	dynasty = 101864	#Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 188854bis
+	10956.4.10 = {
+		birth = yes
+	}
+	10990.1.6 = {
+		death = yes
+	}
+}
+
+extra_karakhanids_2 = {
+	name = "Nasr"
+	dynasty_house = house_alid	#Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 3000
+	10970.6.10 = {
+		birth = yes
+	}
+	11010.1.1 = {
+		death = yes
+	}
+}
+
+extra_karakhanids_3 = {
+	name = "Muhammad"
+	dynasty_house = house_alid	#Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 3000
+	10976.2.1 = {
+		birth = yes
+	}
+	11003.1.1 = {
+		death = yes
+	}
+}
+
+extra_karakhanids_4 = {
+	name = "Jafar_Tegin"
+	dynasty_house = house_alid	#Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 3000
+	10977.5.1 = {
+		birth = yes
+	}
+	11023.1.1 = {
+		death = yes
+	}
+}
+
+extra_karakhanids_5 = {
+	name = "Hasan_Bughra"
+	dynasty = 101864	#Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 188853
+	10939.5.1 = {
+		birth = yes
+	}
+	10980.6.7 = {
+		death = yes
+	}
+}
+
+extra_karakhanids_6 = {
+	name = "Husayn_Bughra"
+	dynasty = 101864	#Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 188853
+	10943.11.1 = {
+		birth = yes
+	}
+	11001.8.1 = { 
+		death = yes
+	}
+}
+
+extra_karakhanids_7 = {
+	name = "Nasab"
+	female = yes 
+	dynasty = 101864	#Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 188853
+	10935.2.3 = {
+		birth = yes
+	}
+	10960.8.1 = { 
+		death = yes
+	}
+}
+
+extra_karakhanids_8 = {
+	name = "Hadya"
+	female = yes 
+	dynasty = 101864	#Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 188853
+	10935.2.3 = {
+		birth = yes
+	}
+	10992.8.1 = { 
+		death = yes
+	}
+}
+
+extra_karakhanids_9 = {
+	name = "Ala_Nur"
+	female = yes
+	dynasty = 101864	#Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 188853
+	10950.12.3 = {
+		birth = yes
+	}
+	11023.6.1 = { 
+		death = yes
+	}
+}
+
+
+extra_karakhanids_10 = {
+	name = "Hasan_Bughra" #Bogra Khan
+	dynasty = 101864	#Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 188854
+	trait = education_martial_3
+	trait = forder 
+	10955.2.1 = {
+		birth = yes
+	}
+	10980.1.1 = {
+		dynasty_house = house_hasanid
+	}
+	10992.8.1 = { 
+		death = {
+  			death_reason = death_ill
+  		}
+	}
+}
+
+extra_karakhanids_11 = {
+	name = "Terken_Khatun"
+	female = yes 
+	dynasty_house = house_alid	#Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 3014
+	11053.7.6 = {
+		birth = yes
+	}
+	11064.1.1 = {
+		effect = {
+			create_betrothal = character:3042
+			learn_language_of_culture = culture:persian
+		}
+	}
+	11094.10.1 = { 
+		death = {
+  			death_reason = death_ill
+  		}
+	}
+}
+
+extra_karakhanids_12 = { #widow of the Ghanzavid ruler Musud, and later Alp Arslan 
+	name = "Shah_khatun"
+	female = yes 
+	dynasty_house = house_hasanid #Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 3008
+	11024.1.1 = {
+		birth = yes
+	}
+	11038.1.1 = {
+		add_spouse = 144127
+	}
+	11090.1.1 = { 
+		death = yes
+	}
+}
+
+extra_karakhanids_13 = { #wife of ghaznavid ruler Mahmud, she must have been very young at the time 
+	name = "Irge"
+	female = yes 
+	dynasty_house = house_alid	#Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = extra_karakhanids_2
+	10990.1.1 = {
+		birth = yes
+	}
+	11001.1.1 = {
+		effect = {
+			create_betrothal = character:144125
+		}
+	}
+	11070.1.1 = { 
+		death = yes
+	}
+}
+
+extra_karakhanids_14 = { #attested through patronymics, son of Khidr abu Shuja
+	name = "Shujah"
+	dynasty_house = house_alid #Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 3018
+	trait = strong #his father was named after him for some reason 
+	11055.1.1 = {
+		birth = yes
+	}
+	11090.1.1 = { 
+		death = yes
+	}
+}
+
+extra_karakhanids_15 = { #sons of Hasan Bughra
+	name = "Muhammad_Toghan"
+	dynasty_house = house_hasanid #Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = extra_karakhanids_10
+	10988.1.1 = {
+		birth = yes
+	}
+	11072.1.1 = { 
+		death = yes
+	}
+}
+
+extra_karakhanids_16 = { #sons of Hasan Bughra
+	name = "Shihab"
+	dynasty_house = house_hasanid #Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = extra_karakhanids_10
+	10989.1.1 = {
+		birth = yes
+	}
+	11051.2.6 = { #fictional 
+		death = {
+			death_reason = death_battle 
+		}
+	}
+}
+
+extra_karakhanids_17 = { #sons of Hasan Bughra
+	name = "Adod"
+	dynasty_house = house_hasanid #Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = extra_karakhanids_10
+	10991.1.1 = {
+		birth = yes
+	}
+	11034.5.6 = { 
+		death = {
+			death_reason = death_horrible_disease
+		}
+	}
+}
+
+extra_karakhanids_18 = { #Sons of Alitigin, attested but unnamed
+	name = "Mansur"
+	dynasty_house = house_hasanid #Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 3010
+	11015.1.1 = {
+		birth = yes
+	}
+	11069.1.1 = {
+		death = yes
+	}
+}
+
+extra_karakhanids_19 = { #Sons of Alitigin, attested but unnamed
+	name = "Satuk-Bughra"
+	dynasty_house = house_hasanid #Karakhanid
+	religion = maturidi 
+	culture = karluk
+	father = 3010
+	11017.1.1 = {
+		birth = yes
+	}
+	11040.7.6 = { #fictional
+		death = {
+			death_reason = death_murdered_by_rebels
+		}
+	}
+}
+
+
+
+
+
+
+## End of Karakhanids
+## Start of Karakhanid vassals
+#Karakhanid Cherchen - fictional placeholders
+karluk0001 = {
+	name="Ibrahim"
+	dynasty=2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	10980.1.1={
+		birth=yes
+	}
+	11040.1.1={
+		death=yes
+	}
+}
+
+karluk0002 = {
+	name="Qadir"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0001
+	11000.1.1={
+		birth=yes
+	}
+	11060.1.1={
+		death=yes
+	}
+}
+
+karluk0003 = {
+	name="Muhmud"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0002
+	11020.1.1={
+		birth=yes
+	}
+	11080.1.1={
+		death=yes
+	}
+}
+
+karluk0004 = {
+	name="Yaqub"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0003
+	11040.1.1={
+		birth=yes
+	}
+	11100.1.1={
+		death=yes
+	}
+}
+
+karluk0005 = {
+	name="Ahmad"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0004
+	11060.1.1={
+		birth=yes
+	}
+	11120.1.1={
+		death=yes
+	}
+}
+
+karluk0006 = {
+	name="Arslan"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0005
+	11080.1.1={
+		birth=yes
+	}
+	11140.1.1={
+		death=yes
+	}
+}
+
+karluk0007 = {
+	name="Umar"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0006
+	11100.1.1={
+		birth=yes
+	}
+	11160.1.1={
+		death=yes
+	}
+}
+
+karluk0008 = {
+	name="Yusuf"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0007
+	11120.1.1={
+		birth=yes
+	}
+	11180.1.1={
+		death=yes
+	}
+}
+
+karluk0009 = {
+	name="Muhammad"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0008
+	11140.1.1={
+		birth=yes
+	}
+	11200.1.1={
+		death=yes
+	}
+}
+
+karluk0010 = {
+	name="Uzluk"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0009
+	11160.1.1={
+		birth=yes
+	}
+	11220.1.1={
+		death=yes
+	}
+}
+
+karluk0011 = {
+	name="Hasan"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0010
+	11180.1.1={
+		birth=yes
+	}
+	11240.1.1={
+		death=yes
+	}
+}
+
+karluk0012 = {
+	name="Ituk"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0011
+	11200.1.1={
+		birth=yes
+	}
+	11260.1.1={
+		death=yes
+	}
+}
+
+karluk0013 = {
+	name="Akgul"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0012
+	11220.1.1={
+		birth=yes
+	}
+	11280.1.1={
+		death=yes
+	}
+}
+
+karluk0014 = {
+	name="Tolun"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0013
+	11240.1.1={
+		birth=yes
+	}
+	11300.1.1={
+		death=yes
+	}
+}
+
+karluk0015 = {
+	name="Arslan"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0014
+	11260.1.1={
+		birth=yes
+	}
+	11320.1.1={
+		death=yes
+	}
+}
+
+karluk0016 = {
+	name="Masud"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0015
+	11280.1.1={
+		birth=yes
+	}
+	11340.1.1={
+		death=yes
+	}
+}
+
+karluk0017 = {
+	name="Ibrahim"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0016
+	11300.1.1={
+		birth=yes
+	}
+	11360.1.1={
+		death=yes
+	}
+}
+
+karluk0018 = {
+	name="Osman"
+	dynasty= 2003124 #Cherchen
+	religion="ashari"
+	culture="karluk"
+	father=karluk0017
+	11320.1.1={
+		birth=yes
+	}
+	11380.1.1={
+		death=yes
+	}
+}
+
+#Khotan vassals - fictional placeholders
+karluk0019 = {
+	name = "Ahmad"
+	dynasty_house = house_hasanid #Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144105
+	11040.1.1 = {
+		birth=yes
+	}
+	11100.1.1 = {
+		death=yes
+	}
+}
+
+karluk0020 = {
+	name = "Ali"
+	dynasty_house = house_hasanid #Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0019
+	11060.1.1 = {
+		birth=yes
+	}
+	11120.1.1 = {
+		death=yes
+	}
+}
+
+karluk0021 = {
+	name = "Kasim"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0020
+	11080.1.1 = {
+		birth=yes
+	}
+	11140.1.1 = {
+		death=yes
+	}
+}
+
+karluk0022 = {
+	name = "Murad"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0021
+	11100.1.1 = {
+		birth=yes
+	}
+	11160.1.1 = {
+		death=yes
+	}
+}
+
+karluk0023 = {
+	name = "Mansur"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0022
+	11120.1.1 = {
+		birth=yes
+	}
+	11180.1.1 = {
+		death=yes
+	}
+}
+
+karluk0024 = {
+	name = "Muhmud"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0023
+	11140.1.1 = {
+		birth=yes
+	}
+	11200.1.1 = {
+		death=yes
+	}
+}
+
+karluk0025 = {
+	name = "Ibrahim"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0024
+	11160.1.1 = {
+		birth=yes
+	}
+	11220.1.1 = {
+		death=yes
+	}
+}
+
+karluk0026 = {
+	name = "Sulayman"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0025
+	11180.1.1 = {
+		birth=yes
+	}
+	11240.1.1 = {
+		death=yes
+	}
+}
+
+karluk0027 = {
+	name = "Yaqub"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0026
+	11200.1.1 = {
+		birth=yes
+	}
+	11260.1.1 = {
+		death=yes
+	}
+}
+
+karluk0028 = {
+	name = "Yusuf"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0027
+	11220.1.1 = {
+		birth=yes
+	}
+	11280.1.1 = {
+		death=yes
+	}
+}
+
+karluk0029 = {
+	name = "Umar"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0028
+	11240.1.1 = {
+		birth=yes
+	}
+	11300.1.1 = {
+		death=yes
+	}
+}
+
+karluk0030 = {
+	name = "Muhammad"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0029
+	11260.1.1 = {
+		birth=yes
+	}
+	11320.1.1 = {
+		death=yes
+	}
+}
+
+karluk0031 = {
+	name = "Ahmad"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0030
+	11280.1.1 = {
+		birth=yes
+	}
+	11340.1.1 = {
+		death=yes
+	}
+}
+
+karluk0032 = {
+	name = "Hasan"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0031
+	11300.1.1 = {
+		birth=yes
+	}
+	11360.1.1 = {
+		death=yes
+	}
+}
+
+karluk0034 = {
+	name = "Ali"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0033
+	11320.1.1 = {
+		birth=yes
+	}
+	11380.1.1 = {
+		death=yes
+	}
+}
+
+#Yarkand Uzgen Vassals cont. - fictional placeholders
+karluk0035 = {
+	name = "Ali"
+	dynasty = 1051119 # Uzgen
+	religion = "ashari"
+	culture = "karluk"
+	father = 217243
+	11180.1.1 = {
+		birth=yes
+	}
+	11240.1.1 = {
+		death=yes
+	}
+}
+
+karluk0036 = {
+	name = "Toghan"
+	dynasty = 1051119 # Uzgen
+	religion = "ashari"
+	culture = "karluk"
+	father = karluk0035
+	11200.1.1 = {
+		birth=yes
+	}
+	11260.1.1 = {
+		death=yes
+	}
+}
+
+karluk0037 = {
+	name = "Jibrail"
+	dynasty = 1051119 # Uzgen
+	religion = "ashari"
+	culture = "karluk"
+	father = karluk0036
+	11220.1.1 = {
+		birth=yes
+	}
+	11280.1.1 = {
+		death=yes
+	}
+}
+
+karluk0038 = {
+	name = "Nasr"
+	dynasty = 1051119 # Uzgen
+	religion = "ashari"
+	culture = "karluk"
+	father = karluk0037
+	11240.1.1 = {
+		birth=yes
+	}
+	11300.1.1 = {
+		death=yes
+	}
+}
+
+karluk0039 = {
+	name = "Hasan"
+	dynasty = 1051119 # Uzgen
+	religion = "ashari"
+	culture = "karluk"
+	father = karluk0038
+	11260.1.1 = {
+		birth=yes
+	}
+	11320.1.1 = {
+		death=yes
+	}
+}
+
+karluk0040 = {
+	name = "Mahumud"
+	dynasty = 1051119 # Uzgen
+	religion = "ashari"
+	culture = "karluk"
+	father = karluk0039
+	11280.1.1 = {
+		birth=yes
+	}
+	11340.1.1 = {
+		death=yes
+	}
+}
+
+karluk0041 = {
+	name = "Ibrahim"
+	dynasty = 1051119 # Uzgen
+	religion = "ashari"
+	culture = "karluk"
+	father = karluk0040
+	11300.1.1 = {
+		birth=yes
+	}
+	11360.1.1 = {
+		death=yes
+	}
+}
+
+karluk0042 = {
+	name = "Yusuf"
+	dynasty = 1051119 # Uzgen
+	religion = "ashari"
+	culture = "karluk"
+	father = karluk0041
+	11320.1.1 = {
+		birth=yes
+	}
+	11380.1.1 = {
+		death=yes
+	}
+}
+
+#Kashgar vassals - fictional placeholders
+karluk0043 = {
+	name = "Mahumud"
+	dynasty_house = house_alid	#Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 3006
+	11020.1.1 = {
+		birth=yes
+	}
+	11080.1.1 = {
+		death=yes
+	}
+}
+
+karluk0044 = {
+	name = "Ali"
+	dynasty_house = house_alid	#Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0043
+	11040.1.1 = {
+		birth=yes
+	}
+	11100.1.1 = {
+		death=yes
+	}
+}
+
+karluk0045 = {
+	name = "Erkin"
+	dynasty_house = house_alid #Karakhanid
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0044
+	11060.1.1 = {
+		birth=yes
+	}
+	11120.1.1 = {
+		death=yes
+	}
+}
+
+karluk0046 = {
+	name = "Ibrahim"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0045
+	11080.1.1 = {
+		birth=yes
+	}
+	11140.1.1 = {
+		death=yes
+	}
+}
+
+karluk0047 = {
+	name = "Ahmad"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0046
+	11100.1.1 = {
+		birth=yes
+	}
+	11160.1.1 = {
+		death=yes
+	}
+}
+
+karluk0048 = {
+	name = "Umar"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0047
+	11120.1.1 = {
+		birth=yes
+	}
+	11180.1.1 = {
+		death=yes
+	}
+}
+
+karluk0049 = {
+	name = "Yaqub"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0048
+	11140.1.1 = {
+		birth=yes
+	}
+	11200.1.1 = {
+		death=yes
+	}
+}
+
+karluk0050 = {
+	name = "Hasan"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0049
+	11160.1.1 = {
+		birth=yes
+	}
+	11220.1.1 = {
+		death=yes
+	}
+}
+
+karluk0051 = {
+	name = "Ali"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0050
+	11180.1.1 = {
+		birth=yes
+	}
+	11240.1.1 = {
+		death=yes
+	}
+}
+
+karluk0052 = {
+	name = "Mahumud"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0051
+	11200.1.1 = {
+		birth=yes
+	}
+	11260.1.1 = {
+		death=yes
+	}
+}
+
+karluk0053 = {
+	name = "Yusuf"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0052
+	11220.1.1 = {
+		birth=yes
+	}
+	11280.1.1 = {
+		death=yes
+	}
+}
+
+karluk0054 = {
+	name = "Yaqub"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0053
+	11240.1.1 = {
+		birth=yes
+	}
+	11300.1.1 = {
+		death=yes
+	}
+}
+
+karluk0055 = {
+	name = "Qadir"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0054
+	11260.1.1 = {
+		birth=yes
+	}
+	11320.1.1 = {
+		death=yes
+	}
+}
+
+karluk0056 = {
+	name = "Mansur"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0055
+	11280.1.1 = {
+		birth=yes
+	}
+	11340.1.1 = {
+		death=yes
+	}
+}
+
+karluk0057 = {
+	name = "Ahmad"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0056
+	11300.1.1 = {
+		birth=yes
+	}
+	11360.1.1 = {
+		death=yes
+	}
+}
+
+karluk0058 = {
+	name = "Jibrail"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karluk0057
+	11320.1.1 = {
+		birth=yes
+	}
+	11380.1.1 = {
+		death=yes
+	}
+}
+
+# Fictional - here to represent the _likely_ semi-autonomous Nestorian metropolitan see for Zhetysu.
+karluk0059 = {
+	name = "Malamir"
+	dynasty = karluk_fictional_nestorian
+	religion = "nestorian"
+	culture = "karluk"
+	# Dates selected randomly.
+	10832.1.1 = {
+		birth=yes
+	}
+	10902.1.1 = {
+		death=yes
+	}
+}
+
+## End of Karakhanid vassals
+188768 = {
+	name = "BO_nek"	# fictional
+	dynasty = 1042185 # Karlukid
+	religion = "tengri_pagan"
+	culture = "karluk"
+	10725.1.1 = {
+		birth = yes
+	}
+	10775.1.1 = {
+		death = yes
+	}
+}
+
+188769 = {
+	name = "Pulad"	# fictional
+	dynasty = 1042185 # Karlukid
+	religion = "tengri_pagan"
+	culture = "karluk"
+	father = 188768
+	10750.1.1 = {
+		birth = yes
+	}
+	10780.1.1 = {
+		religion = "maturidi"
+	}
+	10800.1.1 = {
+		death = yes
+	}
+}
+194362 = {
+	name = "Yildiz"	# fictional
+	female = yes
+	dynasty = 1042185 # Karlukid
+	religion = "tengri_pagan"
+	culture = "karluk"
+	father = 188768
+	10753.1.1 = {
+		birth = yes
+	}
+	10780.1.1 = {
+		religion = "maturidi"
+	}
+	10800.1.1 = {
+		death = yes
+	}
+}
+
+
+188770 = {
+	name = "Tolun"	# fictional
+	dynasty = 1042185 # Karlukid
+	religion = "tengri_pagan"
+	culture = "karluk"
+	father = 188769
+	10775.1.1 = {
+		birth = yes
+	}
+	10780.1.1 = {
+		religion = "maturidi"
+	}
+	10825.1.1 = {
+		death = yes
+	}
+}
+
+
+188771 = {
+	name = "EldeC_yuk"	# fictional
+	dynasty = 1042185 # Karlukid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 188770
+	10800.1.1 = {
+		birth = yes
+	}
+	10850.1.1 = {
+		death = yes
+	}
+}
+
+188772 = {
+	name = "Arslan" # fictional chief of Chigils
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	10743.1.1 = {
+		birth = yes
+	}
+	10800.1.1 = {
+		death = yes
+	}
+}
+
+188773 = {
+	name = "Kubasar" # fictional chief of Yagma
+	dynasty = 1042187 # Yagma
+	religion = "tengri_pagan" # guess
+	culture = "karluk"
+	10743.1.1 = {
+		birth = yes
+	}
+	10800.1.1 = {
+		death = yes
+	}
+}
+
+188778 = {
+	name = "SevenC_"	# fictional
+	dynasty = 1042185 # Karlukid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 188771
+	10829.1.1 = {
+		birth = yes
+	}
+	10880.1.1 = {
+		death = yes
+	}
+}
+194383 = {
+	name = "Uzur"	# fictional
+	dynasty = 1042185 # Karlukid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 188778
+	10849.1.1 = {
+		birth = yes
+	}
+	10880.1.1 = {
+		death = yes
+	}
+}
+194385 = {
+	name = "Sirma"	# fictional
+	female = yes
+	dynasty = 1042185 # Karlukid
+	religion = "maturidi"
+	culture = "karluk"
+	father = 188778
+	10851.1.1 = {
+		birth = yes
+	}
+	10880.1.1 = {
+		death = yes
+	}
+}
+
+188830 = {
+	name = "Kuntuvdi" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188772
+	10767.1.1 = {
+		birth = yes
+	}
+	10815.1.1 = {
+		death = yes
+	}
+}
+
+188831 = {
+	name = "Saru" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188830
+	10789.1.1 = {
+		birth = yes
+	}
+	10830.1.1 = {
+		death = yes
+	}
+}
+
+188832 = {
+	name = "Begluk" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188830
+	10791.1.1 = {
+		birth = yes
+	}
+	10840.1.1 = {
+		death = yes
+	}
+}
+
+188833 = {
+	name = "Tugor" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188831
+	10810.1.1 = {
+		birth = yes
+	}
+	10860.1.1 = {
+		death = yes
+	}
+}
+
+188834 = {
+	name = "Uzluk" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188833
+	10835.1.1 = {
+		birth = yes
+	}
+	10885.1.1 = {
+		death = yes
+	}
+}
+194381 = {
+	name = "Kotyan" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188834
+	10855.1.1 = {
+		birth = yes
+	}
+	10895.1.1 = {
+		death = yes
+	}
+}
+194382 = {
+	name = "Sokal" # fictional
+	female = yes
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188834
+	10857.1.1 = {
+		birth = yes
+	}
+	10895.1.1 = {
+		death = yes
+	}
+}
+
+188835 = {
+	name = "Itlar" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188833
+	10837.1.1 = {
+		birth = yes
+	}
+	10890.1.1 = {
+		death = yes
+	}
+}
+
+188836 = {
+	name = "EldeC_yuk" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188835
+	10860.1.1 = {
+		birth = yes
+	}
+	10910.1.1 = {
+		death = yes
+	}
+}
+
+188837 = {
+	name = "EldeC_yuk" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188836
+	10885.1.1 = {
+		birth = yes
+	}
+	10935.1.1 = {
+		death = yes
+	}
+}
+
+188838 = {
+	name = "Blush" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188837
+	10910.1.1 = {
+		birth = yes
+	}
+	10965.1.1 = {
+		death = yes
+	}
+}
+
+188839 = {
+	name = "Sugr" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188838
+	10935.1.1 = {
+		birth = yes
+	}
+	10985.1.1 = {
+		death = yes
+	}
+}
+
+188840 = {
+	name = "Bachman" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188839
+	10960.1.1 = {
+		birth = yes
+	}
+	11010.1.1 = {
+		death = yes
+	}
+}
+
+188841 = {
+	name = "Sotan" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188840
+	10985.1.1 = {
+		birth = yes
+	}
+	11035.1.1 = {
+		death = yes
+	}
+}
+
+188842 = {
+	name = "Sugr" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188841
+	11010.1.1 = {
+		birth = yes
+	}
+	11060.1.1 = {
+		death = yes
+	}
+}
+
+188843 = {
+	name = "Arslan" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188842
+	11035.1.1 = {
+		birth = yes
+	}
+	11085.1.1 = {
+		death = yes
+	}
+}
+
+188844 = {
+	name = "Atrak" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188843
+	11060.1.1 = {
+		birth = yes
+	}
+	11110.1.1 = {
+		death = yes
+	}
+}
+194399 = {
+	name = "Tura" # fictional
+	female = yes
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188843
+	11056.1.1 = {
+		birth = yes
+	}
+	11110.1.1 = {
+		death = yes
+	}
+}
+
+188845 = {
+	name = "Aepak" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "nestorian"
+	culture = "karluk"
+	father = 188844
+	11085.1.1 = {
+		birth = yes
+	}
+	11135.1.1 = {
+		death = yes
+	}
+}
+
+188846 = {
+	name = "Uzur" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "nestorian"
+	culture = "karluk"
+	father = 188845
+	11110.1.1 = {
+		birth = yes
+	}
+	11160.1.1 = {
+		death = yes
+	}
+}
+
+188847 = {
+	name = "Girgen" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "nestorian"
+	culture = "karluk"
+	father = 188846
+	11135.1.1 = {
+		birth = yes
+	}
+	11185.1.1 = {
+		death = yes
+	}
+}
+
+188848 = {
+	name = "Begluk" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "nestorian"
+	culture = "karluk"
+	father = 188847
+	11160.1.1 = {
+		birth = yes
+	}
+	11210.1.1 = {
+		death = yes
+	}
+}
+
+188849 = {
+	name = "Girgen" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "nestorian"
+	culture = "karluk"
+	father = 188848
+	11185.1.1 = {
+		birth = yes
+	}
+	11235.1.1 = {
+		death = yes
+	}
+}
+
+188850 = {
+	name = "Girgen" # fictional
+	dynasty = 1042186 # Chigil
+	religion = "manichean"
+	culture = "karluk"
+	father = 188849
+	11210.1.1 = {
+		birth = yes
+	}
+	11260.1.1 = {
+		death = yes
+	}
+}
+217205 = {
+	name = "Murad" # fictional
+	dynasty = 1051119 # Uzgen
+	religion = ashari
+	culture = karluk
+	10905.11.17 = {
+		birth = yes
+	}
+	10977.3.1 = {
+		death = yes
+	}
+}
+217206 = {
+	name = "Korkut" # fictional
+	dynasty = 1051119 # Uzgen
+	religion = ashari
+	culture = karluk
+	father = 217205
+	10944.5.7 = {
+		birth = yes
+	}
+	11015.5.9 = {
+		death = yes
+	}
+}
+217207 = {
+	name = "Erdem" # fictional
+	dynasty = 1051119 # Uzgen
+	religion = ashari
+	culture = karluk
+	father = 217206
+	10987.6.1 = {
+		birth = yes
+	}
+	11054.2.27 = {
+		death = yes
+	}
+}
+217208 = {
+	name = "Baturay" # fictional
+	dynasty = 1051119 # Uzgen
+	religion = ashari
+	culture = karluk
+	father = 217207
+	11024.6.12 = {
+		birth = yes
+	}
+	11047.9.9 = {
+		add_spouse = 217209
+	}
+	11096.3.27 = {
+		death = yes
+	}
+}
+217209 = {
+	name = "GulC_iC_ek" # fictional
+	religion = ashari
+	culture = karluk
+	female = yes
+	11028.9.12 = {
+		birth = yes
+	}
+	11104.7.3 = {
+		death = yes
+	}
+}
+217210 = {
+	name = "Savur" # fictional
+	dynasty = 1051119 # Uzgen
+	religion = ashari
+	culture = karluk
+	father = 217208
+	mother = 217209
+	11054.2.8 = {
+		birth = yes
+	}
+	11121.7.9 = {
+		death = yes
+	}
+}
+217211 = {
+	name = "Kaytun" # fictional
+	dynasty = 1051119 # Uzgen
+	religion = ashari
+	culture = karluk
+	father = 217208
+	mother = 217209
+	11056.7.2 = {
+		birth = yes
+	}
+	11117.7.9 = {
+		death = yes
+	}
+}
+217212 = {
+	name = Tugrul # fictional
+	dynasty = 1051119 # Uzgen
+	religion = ashari
+	culture = karluk
+	father = 217207
+	11025.7.15 = {
+		birth = yes
+	}
+	11096.2.17 = {
+		death = yes
+	}
+}
+217236 = {
+	name = Ayaz # fictional
+	dynasty = 1051122 # Bayezid
+	religion = ashari
+	culture = karluk
+	11101.2.5 = {
+		birth = yes
+	}
+	11141.2.24 = {
+		death = yes
+	}
+}
+217237 = {
+	name = UluC_ # fictional
+	dynasty = 1051122 # Bayezid
+	religion = ashari
+	culture = karluk
+	father = 217236
+	11130.7.5 = {
+		birth = yes
+	}
+	11184.5.30 = {
+		death = yes
+	}
+}
+217238 = {
+	name = Kasim # fictional
+	dynasty = 1051122 # Bayezid
+	religion = ashari
+	culture = karluk
+	father = 217237
+	11163.3.15 = {
+		birth = yes
+	}
+	11197.5.9 = {
+		death = yes
+	}
+}
+217239 = {
+	name = Timurtash # fictional
+	dynasty = 1051122 # Bayezid
+	religion = ashari
+	culture = karluk
+	father = 217238
+	11181.2.4 = {
+		birth = yes
+	}
+	11224.7.25 = {
+		death = yes
+	}
+}
+217240 = {
+	name = Nagihan # fictional
+	dynasty = 1051122 # Bayezid
+	religion = ashari
+	culture = karluk
+	father = 217238
+	female = yes
+	11183.5.17 = {
+		birth = yes
+	}
+	11227.7.24 = {
+		death = yes
+	}
+}
+217241 = {
+	name = Kemal # fictional
+	dynasty = 1051119 # Uzgen
+	religion = ashari
+	culture = karluk
+	father = 217211
+	11095.4.12 = {
+		birth = yes
+	}
+	11144.7.22 = {
+		death = yes
+	}
+}
+217242 = {
+	name = Rustem # fictional
+	dynasty = 1051119 # Uzgen
+	religion = ashari
+	culture = karluk
+	father = 217241
+	11124.5.17 = {
+		birth = yes
+	}
+	11186.3.27 = {
+		death = yes
+	}
+}
+217243 = {
+	name = Bahadir # fictional
+	dynasty = 1051119 # Uzgen
+	religion = ashari
+	culture = karluk
+	father = 217242
+	11159.2.28 = {
+		birth = yes
+	}
+	11223.5.17 = {
+		death = yes
+	}
+}
+
+#Basmyls
+302661 = {
+	name = "Kuntuvdi"
+	dynasty = 2001101	#Basmyls
+	religion = tengri_pagan
+	culture = karluk
+	10816.6.16 = {
+		birth = yes
+	}
+	10875.3.24 = {
+		death = yes
+	}
+}
+302662 = {
+	name = "Gzi"
+	dynasty = 2001101	#Basmyls
+	religion = tengri_pagan
+	culture = karluk
+	father = 302661
+	10843.1.3 = {
+		birth = yes
+	}
+	10900.8.17 = {
+		death = yes
+	}
+}
+302663 = {
+	name = "Kopti"
+	dynasty = 2001101	#Basmyls
+	religion = tengri_pagan
+	culture = karluk
+	father = 302661
+	10846.9.10 = {
+		birth = yes
+	}
+	10905.12.8 = {
+		death = yes
+	}
+}
+
+#fictional family of Yaqub Karakhanid
+302674 = {
+	name = "Yaqub"
+	female = yes
+	religion = ashari
+	culture = karluk
+	11037.8.12 = {
+		birth = yes
+	}
+	#1059 = { add_spouse = 3022 }
+	11098.6.8 = {
+		death = yes
+	}
+}
+
+#Fictional/placeholder karakhanid-dependant karluks in khuttal around 1066
+302684 = {
+	name = "C_ilbu"
+	dynasty = 2001104	#Khuzan
+	religion = ashari
+	culture = karluk
+	11036.6.3 = {
+		birth = yes
+	}
+	11091.2.12 = {
+		death = yes
+	}
+}
+302685 = {
+	name = "BO_nek"
+	dynasty = 2001104	#Khuzan
+	religion = ashari
+	culture = karluk
+	father = 302684
+	11064.3.26 = {
+		birth = yes
+	}
+	11122.1.30 = {
+		death = yes
+	}
+}
+
+#fictional Karachahnid
+302692 = {
+	name = "Mala"
+	female = yes
+	dynasty = 2001106	#Karachahnid
+	religion = ashari
+	culture = karluk
+	11043.3.13 = {
+		birth = yes
+	}
+	11102.5.22 = {
+		death = yes
+	}
+}
+302693 = {
+	name = "Pulad"
+	religion = ashari
+	culture = karluk
+	11041.1.26 = {
+		birth = yes
+	}
+	11089.4.18 = {
+		death = yes
+	}
+}
+302694 = {
+	name = "Saru"
+	dynasty = 2001106	#Karachahnid
+	religion = ashari
+	culture = karluk
+	mother = 302692
+	father = 302693
+	11068.12.5 = {
+		birth = yes
+	}
+	11109.7.14 = {
+		death = yes
+	}
+}
+302695 = {
+	name = "Ituk"
+	dynasty = 2001106	#Karachahnid
+	religion = ashari
+	culture = karluk
+	father = 302694
+	11099.6.11 = {
+		birth = yes
+	}
+	11132.7.19 = {
+		death = yes
+	}
+}
+302696 = {
+	name = "Kobyak"
+	dynasty = 2001106	#Karachahnid
+	religion = ashari
+	culture = karluk
+	father = 302695
+	11126.11.7 = {
+		birth = yes
+	}
+	11181.1.13 = {
+		death = yes
+	}
+}
+302697 = {
+	name = "KO_nC_ek"
+	dynasty = 2001106	#Karachahnid
+	religion = ashari
+	culture = karluk
+	father = 302696
+	11150.5.14 = {
+		birth = yes
+	}
+	11196.9.26 = {
+		death = yes
+	}
+}
+302698 = {
+	name = "Girgen"
+	dynasty = 2001106	#Karachahnid
+	religion = ashari
+	culture = karluk
+	father = 302697
+	11179.2.9 = {
+		birth = yes
+	}
+	11230.2.13 = {
+		death = yes
+	}
+}
+302699 = {
+	name = "Kuntuvdi"
+	dynasty = 2001106	#Karachahnid
+	religion = ashari
+	culture = karluk
+	father = 302698
+	11201.12.11 = {
+		birth = yes
+	}
+	11243.10.19 = {
+		death = yes
+	}
+}
+#
+302718 = {
+	name = "Kubasar"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	10818.4.12 = {
+		birth = yes
+	}
+	10864.1.16 = {
+		death = yes
+	}
+}
+302719 = {
+	name = "GulC_iC_ek"
+	female = yes
+	religion = tengri_pagan
+	culture = karluk
+	10819.3.28 = {
+		birth = yes
+	}
+	10890.11.21 = {
+		death = yes
+	}
+}
+302720 = {
+	name = "Ayasun"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	father = 302718
+	mother = 302719
+	10842.9.16 = {
+		birth = yes
+	}
+	10903.8.1 = {
+		death = yes
+	}
+}
+302721 = {
+	name = "Ayten"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	father = 302718
+	mother = 302719
+	10844.2.13 = {
+		birth = yes
+	}
+	10901.7.21 = {
+		death = yes
+	}
+}
+302722 = {
+	name = "Akgul"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	father = 302718
+	mother = 302719
+	10847.12.5 = {
+		birth = yes
+	}
+	10907.3.30 = {
+		death = yes
+	}
+}
+#
+302723 = {
+	name = "Bonyak"
+	dynasty = 2001112	#Jetöris
+	religion = tengri_pagan
+	culture = karluk
+	10836.3.16 = {
+		birth = yes
+	}
+	10897.8.19 = {
+		death = yes
+	}
+}
+302724 = {
+	name = "Mala"
+	female = yes
+	religion = tengri_pagan
+	culture = karluk
+	10838.1.22 = {
+		birth = yes
+	}
+	10900.5.17 = {
+		death = yes
+	}
+}
+302725 = {
+	name = "Sirin"
+	female = yes
+	dynasty = 2001112	#Jetöris
+	religion = tengri_pagan
+	culture = karluk
+	father = 302723
+	mother = 302724
+	10863.9.7 = {
+		birth = yes
+	}
+	10924.12.15 = {
+		death = yes
+	}
+}
+#
+302726 = {
+	name = "Uzur"
+	dynasty = 2001113	#Jaziqjürgis
+	religion = tengri_pagan
+	culture = karluk
+	10809.1.6 = {
+		birth = yes
+	}
+	10840.9.16 = {
+		add_spouse = 302727
+	}
+	10870.4.13 = {
+		death = yes
+	}
+}
+302727 = {
+	name = "Yasar"
+	female = yes
+	religion = tengri_pagan
+	culture = karluk
+	10821.5.8 = {
+		birth = yes
+	}
+	10890.6.5 = {
+		death = yes
+	}
+}
+302728 = {
+	name = "Sarica"
+	female = yes
+	dynasty = 2001113	#Jaziqjürgis
+	religion = tengri_pagan
+	culture = karluk
+	father = 302726
+	mother = 302727
+	10841.7.19 = {
+		birth = yes
+	}
+	10912.4.4 = {
+		death = yes
+	}
+}
+302729 = {
+	name = "Tolun"
+	dynasty = 2001113	#Jaziqjürgis
+	religion = tengri_pagan
+	culture = karluk
+	father = 302726
+	mother = 302727
+	10845.3.1 = {
+		birth = yes
+	}
+	10908.8.13 = {
+		death = yes
+	}
+}
+302730 = {
+	name = "C_iltanesi"
+	female = yes
+	dynasty = 2001113	#Jaziqjürgis
+	religion = tengri_pagan
+	culture = karluk
+	father = 302726
+	mother = 302727
+	10846.5.12 = {
+		birth = yes
+	}
+	10916.10.15 = {
+		death = yes
+	}
+}
+#
+302790 = {
+	name = "Koza"
+	dynasty = 2001113	#Jaziqjürgis
+	religion = tengri_pagan
+	culture = karluk
+	11038.1.4 = {
+		birth = yes
+	}
+	11059.3.16 = {
+		add_spouse = 302791
+	}
+	11095.8.28 = {
+		death = yes
+	}
+}
+302791 = {
+	name = "Sevindik"
+	female = yes
+	religion = tengri_pagan
+	culture = karluk
+	11038.2.6 = {
+		birth = yes
+	}
+	11106.1.30 = {
+		death = yes
+	}
+}
+302792 = {
+	name = "Gzi"
+	dynasty = 2001113	#Jaziqjürgis
+	religion = tengri_pagan
+	culture = karluk
+	father = 302790
+	mother = 302791
+	11061.5.1 = {
+		birth = yes
+	}
+	11113.7.18 = {
+		death = yes
+	}
+}
+302793 = {
+	name = "Koza"
+	dynasty = 2001113	#Jaziqjürgis
+	religion = tengri_pagan
+	culture = karluk
+	father = 302792
+	11093.4.3 = {
+		birth = yes
+	}
+	11143.9.11 = {
+		death = yes
+	}
+}
+302794 = {
+	name = "TO_rtogul"
+	dynasty = 2001113	#Jaziqjürgis
+	religion = tengri_pagan
+	culture = karluk
+	father = 302793
+	11115.11.15 = {
+		birth = yes
+	}
+	11178.7.8 = {
+		death = yes
+	}
+}
+302795 = {
+	name = "Bonyak"
+	dynasty = 2001113	#Jaziqjürgis
+	religion = tengri_pagan
+	culture = karluk
+	stewardship = 6
+	father = 302793
+	11144.12.2 = {
+		birth = yes
+	}
+	11201.1.24 = {
+		death = yes
+	}
+}
+#
+302796 = {
+	name = "Bachman"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	11016.4.27 = {
+		birth = yes
+	}
+	11043.1.8 = {
+		add_spouse = 302797
+	}
+	11066.2.22 = {
+		death = {
+			death_reason = death_murder
+			killer = 302797 # Dilek
+		}
+	}
+}
+302797 = {
+	name = "Dilek"
+	female = yes
+	religion = tengri_pagan
+	culture = karluk
+	11026.6.29 = {
+		birth = yes
+	}
+	11125.5.13 = {
+		death = yes
+	}
+}
+302798 = {
+	name = "Kutan"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	father = 302796
+	mother = 302797
+	11042.7.3 = {
+		birth = yes
+	}
+	11079.12.23 = {
+		death = {
+			death_reason = death_battle
+			killer = 302799 # Kopti
+		}
+	}
+}
+302799 = {
+	name = "Kopti"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	father = 302796
+	mother = 302797
+	11044.5.18 = {
+		birth = yes
+	}
+	11104.6.3 = {
+		death = yes
+	}
+}
+302800 = {
+	name = "Kobyak"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	father = 302796
+	mother = 302797
+	11047.10.27 = {
+		birth = yes
+	}
+	11067.1.18	= {
+		death = {
+			death_reason = death_battle
+			killer = 302798 # Kutan
+		}
+	}
+}
+302801 = {
+	name = "Kuntuvdi"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	father = 302798
+	11067.3.10 = {
+		birth = yes
+	}
+	11080.2.14 = {
+		death = {
+			death_reason = death_battle
+			killer = 302799 # Kopti
+		}
+	}
+}
+302802 = {
+	name = "Uzur"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	father = 302799
+	11068.9.30 = {
+		birth = yes
+	}
+	11124.4.17 = {
+		death = yes
+	}
+}
+302803 = {
+	name = "Kopti"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	father = 302802
+	11093.5.12 = {
+		birth = yes
+	}
+	11141.3.25 = {
+		death = yes
+	}
+}
+302804 = {
+	name = "C_ilbu"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	father = 302803
+	11115.6.10 = {
+		birth = yes
+	}
+	11203.9.1 = {
+		death = yes
+	}
+}
+302805 = {
+	name = "Uzluk"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	father = 302804
+	11137.11.25 = {
+		birth = yes
+	}
+	11157.3.3 = {
+		death = yes
+	}
+}
+302806 = {
+	name = "SevenC_"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	father = 302805
+	11156.4.3 = {
+		birth = yes
+	}
+	11173.8.14 = {
+		death = yes
+	}
+}
+302807 = {
+	name = "Bachman"
+	dynasty = 2001111	#Koktayklan
+	religion = tengri_pagan
+	culture = karluk
+	father = 302806
+	11173.11.23 = {
+		birth = yes
+	}
+	11273.11.23 = {
+		death = yes
+	}
+}
+
+
+####Urtujids, a Turkic dynasty of Abbasid generals and concubines - they hailed from rulers of Ferghana, about these rulers, more research is needed. 
+
+extra_karluks_1 = { #
+	name = "Urtuj"
+	dynasty = karluk_urtujid
+	religion = tengri_pagan
+	culture = karluk
+	10760.1.1 = {
+		birth = yes
+	}
+	10810.1.1 = { 
+		death = {
+			death_reason = death_battle 
+		}
+	}
+}
+
+extra_karluks_2 = { 
+	name = "Khaqan"
+	dynasty = karluk_urtujid
+	religion = maturidi 
+	culture = karluk
+	father = extra_karluks_1
+	10794.1.1 = {
+		birth = yes
+	}
+	10840.1.1 = { 
+		death = {
+			death_reason = death_battle 
+		}
+	}
+}
+
+extra_karluks_3 = {
+	name = "al-Fadl"
+	dynasty = karluk_urtujid
+	religion = maturidi 
+	culture = karluk
+	father = extra_karluks_2
+	trait = scholar
+	trait = education_learning_3
+	10817.1.1 = {
+		birth = yes
+	}
+	10825.1.1 = {
+		culture = levantine 
+	}
+	10833.1.1 = {
+		faith = ashari 
+		effect = {
+			set_relation_best_friend = character:34010 #Caliph al-Mutawakkil
+			learn_language_of_culture = culture:bedouin 
+		}
+	}
+	10861.12.1 = { #died trying to protect the Caliph, actually on the 11th
+		death = {
+			death_reason = death_murder
+			killer = 34012
+		}
+	}
+}
+
+extra_karluks_4 = {
+	name = "Muzahim"
+	dynasty = karluk_urtujid
+	religion = ashari
+	culture = karluk
+	father = extra_karluks_2
+	trait = education_martial_3
+	trait = zealous
+	10819.1.1 = {
+		birth = yes
+	}
+	10833.1.1 = {
+		effect = {
+			learn_language_of_culture = culture:bedouin 
+		}
+	}
+	10866.1.1 = {
+		employer = 34014 #Caliph al-Mu'tazz
+	}
+	10868.1.1 = { 
+		death = {
+			death_reason = death_ill #accurate
+		}
+	}
+}
+
+extra_karluks_5 = {
+	name = "Ahmad"
+	dynasty = karluk_urtujid
+	religion = ashari 
+	culture = karluk
+	father = extra_karluks_4
+	trait = education_stewardship_3
+	10849.1.1 = {
+		birth = yes
+	}
+	10853.1.1 = {
+		effect = {
+			learn_language_of_culture = culture:bedouin 
+		}
+	}
+	10866.1.1 = {
+		employer = 34014 #Caliph al-Mu'tazz
+	}
+	10868.3.1 = { 
+		death = {
+			death_reason = death_mysterious #accurate
+		}
+	}
+}
+
+extra_karluks_6 = {
+	name = "Fatima"
+	dynasty = karluk_urtujid
+	religion = ashari 
+	culture = levantine 
+	father = extra_karluks_3
+	female = yes 
+	10840.1.1 = {
+		birth = yes
+	}
+	10861.1.1 = {
+		effect = {
+			learn_language_of_culture = culture:karluk 
+			learn_language_of_culture = culture:persian 
+		}
+	}
+	10860.1.1 = {
+		add_spouse = 34014
+	}
+	10869.12.11 = { #seems reasonable 
+		death = {
+			death_reason = death_court_intrigue 
+		}
+	}
+}
+
+fictional_karluks_1 = { #unattested, but can represent their branch in Ferghana for now
+	name = "Etrek"
+	dynasty = karluk_urtujid
+	religion = maturidi 
+	culture = karluk
+	father = fictional_karluks_3
+	trait = one_eyed
+	10823.1.1 = {
+		birth = yes
+	}
+	10861.1.1 = {
+		effect = {
+			learn_language_of_culture = culture:sogdian
+		}
+	}
+	10870.1.1 = { 
+		death = {
+			death_reason = death_hunting_accident
+		}
+	}
+}
+
+fictional_karluks_2 = { #unattested, but can represent their branch in Ferghana for now
+	name = "Tura"
+	dynasty = karluk_urtujid
+	religion = maturidi 
+	culture = karluk
+	father = fictional_karluks_1
+	female = yes 
+	10849.1.1 = {
+		birth = yes
+	}
+	10861.1.1 = {
+		effect = {
+			learn_language_of_culture = culture:persian
+			learn_language_of_culture = culture:sogdian
+		}
+	}
+	10865.1.1 = {
+		add_spouse = extra_samanids_6
+	}
+	10898.1.1 = { 
+		death = {
+			death_reason = death_raid
+		}
+	}
+}
+
+fictional_karluks_3 = { #unattested, but can represent their branch in Ferghana for now
+	name = "BO_nek"
+	dynasty = karluk_urtujid
+	religion = maturidi 
+	culture = karluk
+	father = extra_karluks_1
+	10798.1.1 = {
+		birth = yes
+	}
+	10845.1.1 = { 
+		death = {
+			death_reason = death_raid
+		}
+	}
+}
+
+fictional_karluks_4 = { #unattested, but can represent their branch in Ferghana for now
+	name = "Samur"
+	dynasty = karluk_urtujid
+	religion = maturidi 
+	culture = karluk
+	father = fictional_karluks_1
+	female = yes 
+	10853.1.1 = {
+		birth = yes
+	}
+	10861.1.1 = {
+		effect = {
+			learn_language_of_culture = culture:sogdian
+		}
+	}
+	10904.1.1 = { 
+		death = yes
+	}
+}
+
+karakhanid_1 = {
+	name = "Nasr"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 93049
+	11143.1.1 = {
+		birth = yes
+	}
+	11199.1.1 = {
+		death = yes
+	}
+}
+
+karakhanid_2 = {
+	name = "Usman"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144122
+	11158.1.1 = {
+		birth = yes
+	}
+	11212.1.1 = {
+		death = yes
+	}
+}
+
+karakhanid_3 = {
+	name = "Ahmad"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144122
+	11159.1.1 = {
+		birth = yes
+	}
+	11210.1.1 = {
+		death = yes
+	}
+}
+
+karakhanid_4 = {
+	name = "Muhammad"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karakhanid_1
+	11160.1.1 = {
+		birth = yes
+	}
+	11202.1.1 = {
+		death = yes
+	}
+}
+
+karakhanid_5 = {
+	name = "Muhammad"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = 144121
+	11140.1.1 = {
+		birth = yes
+	}
+	11179.1.1 = {
+		death = yes
+	}
+}
+
+karakhanid_6 = {
+	name = "Muhammad"
+	dynasty = 101864
+	religion = "maturidi"
+	culture = "karluk"
+	father = karakhanid_5
+	11158.1.1 = {
+		birth = yes
+	}
+	11199.1.1 = {
+		death = yes
+	}
+}
+
+#MPO Fictional Karluks
+fictional_karluks_5 = {	#Karluks under Karakhanids in 1066
+	name = "Yusuf"
+	religion = maturidi
+	culture = karluk
+	11029.3.9 = {
+		birth = yes
+	}
+	11092.1.1 = {
+		death = yes
+	}
+}
+
+fictional_karluks_6 = {	#indep Karluks in 1066
+	name = "Sotan"
+	religion = tengri_pagan
+	culture = karluk
+	11041.7.16 = {
+		birth = yes
+	}
+	11097.1.1 = {
+		death = yes
+	}
+}
+
+fictional_karluks_7 = {	#herder Karluks in 1178
+	name = "Samur"
+	religion = maturidi
+	culture = karluk
+	female = yes
+	11121.4.9 = {
+		birth = yes
+	}
+	11197.1.1 = {
+		death = yes
+	}
+}
+
+fictional_karluks_8 = {	#herder Karluks in 1178
+	name = "Uzluk"
+	religion = maturidi
+	culture = karluk
+	11128.3.25 = {
+		birth = yes
+	}
+	11185.1.1 = {
+		death = yes
+	}
+}
+
+fictional_karluks_9 = {	#herder Karluks in 1178
+	name = "Koza"
+	religion = maturidi
+	culture = karluk
+	11157.3.24 = {
+		birth = yes
+	}
+	11192.1.1 = {
+		death = yes
+	}
+}
+
+fictional_karluks_10 = {	#herder Karluks in 1178
+	name = "Blush"
+	religion = maturidi
+	culture = karluk
+	11131.10.16 = {
+		birth = yes
+	}
+	11200.1.1 = {
+		death = yes
+	}
+}
+
+fictional_karluks_11 = {	#herder Karluks in 1066
+	name = "Kotyan"
+	religion = maturidi
+	culture = karluk
+	11019.5.13 = {
+		birth = yes
+	}
+	11092.1.1 = {
+		death = yes
+	}
+}
+
+fictional_karluks_12 = {	#herder Karluks in 1066
+	name = "Irge"
+	religion = maturidi
+	culture = karluk
+	female = yes
+	10998.3.27 = {
+		birth = yes
+	}
+	11068.1.1 = {
+		death = yes
+	}
+}
+
+fictional_karluks_13 = {	#herder Karluks in 1066
+	name = "Kuntuvdi"
+	religion = maturidi
+	culture = karluk
+	11016.2.14 = {
+		birth = yes
+	}
+	11078.1.1 = {
+		death = yes
+	}
+}
+
+fictional_karluks_14 = {	#herder Karluks in 1066
+	name = "Sugr"
+	religion = maturidi
+	culture = karluk
+	11018.12.12 = {
+		birth = yes
+	}
+	11085.1.1 = {
+		death = yes
+	}
+}
+
+fictional_karluks_15 = {	#herder Karluks in 1066
+	name = "Kobyak"
+	religion = maturidi
+	culture = karluk
+	11040.4.9 = {
+		birth = yes
+	}
+	11104.1.1 = {
+		death = yes
+	}
+}
+
+fictional_karluks_16 = {	#herder Karluks in 867
+	name = "TekC_e"
+	religion = tengri_pagan
+	culture = karluk
+	female = yes
+	10800.8.19 = {
+		birth = yes
+	}
+	10870.1.1 = {
+		death = yes
+	}
+}
+fictional_karluks_17 = {	#herder Karluks in 867
+	name = "Gundes"
+	religion = tengri_pagan
+	culture = karluk
+	female = yes
+	10829.6.8 = {
+		birth = yes
+	}
+	10873.1.1 = {
+		death = yes
+	}
+}
+fictional_karluks_18 = {	#herder Karluks in 867
+	name = "Sotan"
+	religion = tengri_pagan
+	culture = karluk
+	10835.9.9 = {
+		birth = yes
+	}
+	10902.1.1 = {
+		death = yes
+	}
+}
+fictional_karluks_19 = {	#herder Karluks in 867
+	name = "Bachman"
+	religion = tengri_pagan
+	culture = karluk
+	10849.11.15 = {
+		birth = yes
+	}
+	10884.1.1 = {
+		death = yes
+	}
+}
+fictional_karluks_20 = {	#herder Karluks in 867
+	name = "Asalup"
+	religion = tengri_pagan
+	culture = karluk
+	10815.6.29 = {
+		birth = yes
+	}
+	10871.1.1 = {
+		death = yes
+	}
+}
+fictional_karluks_21 = {	#herder Karluks in 1187
+	name = "Asalup"
+	religion = tengri_pagan
+	culture = karluk
+	11160.6.29 = {
+		birth = yes
+	}
+	11190.1.1 = {
+		death = yes
+	}
+}
+fictional_karluks_22 = {	#herder Karluks in 1187
+	name = "Sotan"
+	religion = tengri_pagan
+	culture = karluk
+	11152.6.29 = {
+		birth = yes
+	}
+	11190.1.1 = {
+		death = yes
+	}
+}
+fictional_karluks_23 = {	#herder Karluks in 1187
+	name = "Kobyak"
+	religion = tengri_pagan
+	culture = kimek
+	11160.6.29 = {
+		birth = yes
+	}
+	11190.1.1 = {
+		death = yes
+	}
+}
+fictional_karluks_24 = {	#herder Karluks in 1187
+	name = "Bachman"
+	religion = tengri_pagan
+	culture = kimek
+	11157.6.29 = {
+		birth = yes
+	}
+	11190.1.1 = {
+		death = yes
+	}
+}

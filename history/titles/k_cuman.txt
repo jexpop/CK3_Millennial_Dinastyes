@@ -1,0 +1,617 @@
+k_cuman = {
+	10867.1.1 = { change_development_level = 0 }
+	11066.1.1 = { change_development_level = 0 }
+	11178.1.1 = { change_development_level = 0 }
+	
+	#10837.1.1 = {
+	#	holder = 180262	#Sokal Andjogli
+	#}
+	11030.1.1 = {
+		holder = 90142
+		government = nomad_government
+	}
+	11060.1.1 = {
+		holder = 0
+	}
+}
+
+d_turgay = {
+	#867
+	10867.1.1 = {
+		liege = 0
+		holder = 0
+		government = nomad_government
+	}
+	
+	11150.5.10 = {	#fictional event
+		holder = 302626	#fictional Uzluk Astan
+		liege = k_caspian_steppe
+	}
+	11163.10.7 = {
+		holder = 302627 #fictional Bachman Astan
+	}
+	11202.9.14 = {
+		holder = 302628 #fictional Bonyak Astan
+	}
+}
+
+
+c_turgay = {
+	#867
+	10866.1.1 = {
+		holder = fictional_cumans_6
+		government = nomad_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = fictional_kipchaks_9	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+	
+	#1178
+	11175.1.2 = {
+		holder = fictional_kipchaks_16 #to have more chars and avoid domain overlimit
+		liege = d_kokturgay
+		government = nomad_government
+	}
+}
+
+c_chumkar_kia = {
+	#867
+	10854.7.20 = {
+		holder = fictional_cumans_3
+		government = herder_government
+	}
+	
+	#1066
+	11039.2.22 = {
+		holder = 302620	#fictional Blush Astan
+		liege = k_caspian_steppe
+		government = nomad_government
+	}
+	11064.1.14 = {
+		holder = 302621	#fictional Kotyan Astan
+	}
+	11093.7.27 = {
+		holder = 302623	#fictional Uzluk Astan
+	}
+	11121.10.21 = {
+		holder = 302625	#fictional Bachman Astan
+	}
+	11135.3.2 = {
+		holder = 302626	#fictional Uzluk Astan
+	}
+	11150.5.10 = {	#fictional
+		liege = d_turgay
+	}
+	11163.10.7 = {
+		holder = 302627 #fictional Bachman Astan
+	}
+	11202.9.14 = {
+		holder = 302628 #fictional Bonyak Astan
+	}
+}
+
+
+c_tumar = {
+	#867
+	10865.1.1 = {
+		holder = fictional_cumans_4
+		government = nomad_government
+	}
+	
+	#1066
+	11039.2.22 = {
+		holder = 302620	#fictional Blush Astan
+		government = nomad_government
+		liege = k_caspian_steppe
+	}
+	11064.1.14 = {
+		holder = 302621	#fictional Kotyan Astan
+	}
+	11093.7.27 = {
+		holder = 302623	#fictional Uzluk Astan
+	}
+	11121.10.21 = {
+		holder = 302625	#fictional Bachman Astan
+	}
+	11135.3.2 = {
+		holder = 302626	#fictional Uzluk Astan
+	}
+	11150.5.10 = {	#fictional
+		liege = d_turgay
+	}
+	11163.10.7 = {
+		holder = 302627 #fictional Bachman Astan
+	}
+	11202.9.14 = {
+		holder = 302628 #fictional Bonyak Astan
+	}
+}
+
+
+c_murun_tomis = {
+	#867
+	10865.1.1 = {
+		holder = fictional_cumans_17 #fictional herder
+		government = herder_government
+	}
+	
+	#1066
+	11039.2.22 = {
+		holder = 302620	#fictional Blush Astan
+		liege = k_caspian_steppe
+		government = nomad_government
+	}
+	11064.1.14 = {
+		holder = 302621	#fictional Kotyan Astan
+	}
+	11093.7.27 = {
+		holder = 302623	#fictional Uzluk Astan
+	}
+	11121.10.21 = {
+		holder = 302625	#fictional Bachman Astan
+	}
+	11135.3.2 = {
+		holder = 302626	#fictional Uzluk Astan
+	}
+	11150.5.10 = {	#fictional
+		liege = d_turgay
+	}
+	11163.10.7 = {
+		holder = 302627 #fictional Bachman Astan
+	}
+	11202.9.14 = {
+		holder = 302628 #fictional Bonyak Astan
+	}
+}
+
+d_kokturgay = {
+	#867
+	10867.1.1 = {
+		liege = 0
+		holder = 0
+		government = nomad_government
+	}
+	
+	11175.1.2 = {	#fictional event
+		holder = fictional_kipchaks_16 #to have more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+	}
+}
+
+c_jilali = {
+	#867
+	10863.1.1 = {
+		holder = fictional_cumans_5
+		government = nomad_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = fictional_kipchaks_25	##fictional herder
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+	
+	#1178
+	11175.1.2 = {
+		holder = fictional_kipchaks_16 #to have more chars and avoid domain overlimit
+		liege = d_kokturgay
+		government = nomad_government
+	}
+}
+
+c_achu = {
+	#867
+	10863.1.1 = {
+		holder = fictional_cumans_5
+		government = nomad_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = fictional_kipchaks_10	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+	
+	#1178
+	11160.1.2 = {
+		holder = fictional_kipchaks_18 #to have more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+}
+
+
+c_ulu_jitanjik = {
+	#867
+	10866.1.1 = {
+		holder = fictional_cumans_6
+		government = nomad_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = fictional_kipchaks_11	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+	
+	#1178
+	11175.1.2 = {
+		holder = fictional_kipchaks_16 #to have more chars and avoid domain overlimit
+		liege = d_kokturgay
+		government = nomad_government
+	}
+}
+
+d_saryarka = {
+	#867
+	10837.1.1 = {
+		holder = 0
+	}
+	
+	#1066
+	11044.3.30 = {
+		holder = 302762	#fictional Sokal Imek
+		government = nomad_government
+		liege = k_caspian_steppe
+	}
+	11071.3.4 = {
+		holder = 302766	#fictional Atrak Imek
+	}
+	11089.1.3 = {
+		holder = 302773	#fictional Sokal Imek
+	}
+	11122.5.28 = {
+		holder = 302780	#fictional C_ilbu Imek
+	}
+	11145.8.16 = {
+		holder = kimek0001	#fictional KO_nC_ek Imek
+	}
+	11174.8.8 = {
+		holder = 302782	#fictional Sotan Imek
+	}
+	11199.6.23 = {
+		holder = 302784	#fictional Tolun Imek
+	}
+}
+
+
+c_teniz = {
+	#867	
+	10847.5.10 = {
+		holder = 302702	#Tugor Imak
+		liege = 0
+		government = nomad_government
+	}
+	10860.1.9 = {
+		holder = 302704	#Tugor Imak
+	}
+	10880.10.2 = {
+		holder = 302706	#Togli Imak
+		#liege = k_kimek
+	}
+	10882.1.30 = {
+		holder = 302709	#SevenC_ Imak
+	}
+	
+	#1066
+	11044.4.30 = {
+		holder = 302762	#fictional Sokal Imek
+		government = nomad_government
+		liege = d_saryarka
+	}
+	11071.3.4 = {
+		holder = 302766	#fictional Atrak Imek
+	}
+	11089.1.3 = {
+		holder = 302773	#fictional Sokal Imek
+	}
+	11122.5.28 = {
+		holder = 302780	#fictional C_ilbu Imek
+	}
+	11145.8.16 = {
+		holder = kimek0001	#fictional KO_nC_ek Imek
+	}
+	11174.8.8 = {
+		holder = 302782	#fictional Sotan Imek
+	}
+	11199.6.23 = {
+		holder = 302784	#fictional Tolun Imek
+	}
+}
+
+c_qyzylteniz = {
+	#867
+	10837.1.1 = {
+		holder = 180262	#Sokal Andjogli
+		liege = 0
+		government = nomad_government
+	}
+	
+	#1066
+	11044.4.30 = {
+		holder = 302762	#fictional Sokal Imek
+		government = nomad_government
+		liege = d_saryarka
+	}
+	11071.3.4 = {
+		holder = 302766	#fictional Atrak Imek
+	}
+	11089.1.3 = {
+		holder = 302773	#fictional Sokal Imek
+	}
+	11122.5.28 = {
+		holder = 302780	#fictional C_ilbu Imek
+	}
+	11145.8.16 = {
+		holder = kimek0001	#fictional KO_nC_ek Imek
+	}
+	11174.8.8 = {
+		holder = 302782	#fictional Sotan Imek
+	}
+	11199.6.23 = {
+		holder = 302784	#fictional Tolun Imek
+	}
+}
+
+
+c_eghiz_kara = {
+	#867
+	10837.1.1 = {
+		holder = 180262	#Sokal Andjogli
+		liege = 0
+		government = nomad_government
+	}
+	
+	#1066
+	11044.4.30 = {
+		holder = fictional_kimeks_20	##fic ruler to add more chars and avoid domain overlimit
+		government = nomad_government
+		liege = d_saryarka
+	}
+	11071.3.4 = {
+		holder = 302766	#fictional Atrak Imek
+	}
+	11089.1.3 = {
+		holder = 302773	#fictional Sokal Imek
+	}
+	11122.5.28 = {
+		holder = 302780	#fictional C_ilbu Imek
+	}
+	11145.8.16 = {
+		holder = kimek0001	#fictional KO_nC_ek Imek
+	}
+	11174.8.8 = {
+		holder = 302782	#fictional Sotan Imek
+	}
+	11199.6.23 = {
+		holder = fictional_kimeks_52	#fictional herder
+		government = herder_government
+	}
+}
+
+
+c_ulytau = {
+	#867
+	10858.1.1 = {
+		holder = fictional_cumans_7
+		liege = 0
+		government = nomad_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = fictional_kipchaks_8	##fic ruler to add more chars and avoid domain overlimit
+		government = nomad_government
+		liege = d_saryarka
+	}
+	
+	#1178
+	11164.1.2 = {
+		holder = fictional_kipchaks_17 #to have more chars and avoid domain overlimit
+	}
+}
+
+c_jilanjik = {
+	#867
+	10858.1.1 = {
+		holder = fictional_cumans_7
+		liege = 0
+		government = nomad_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = fictional_kipchaks_8	##fic ruler to add more chars and avoid domain overlimit
+		government = nomad_government
+		liege = d_saryarka
+	}
+	
+	#1178
+	11164.1.2 = {
+		holder = fictional_kipchaks_17 #to have more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+	}
+}
+
+
+c_kaska = {
+	#867
+	10847.5.10 = {
+		holder = 302702	#Tugor Imak
+		liege = 0
+		government = nomad_government
+	}
+	10860.1.9 = {
+		holder = 302704	#Tugor Imak
+	}
+	10880.10.2 = {
+		holder = 302706	#Togli Imak
+		#liege = k_kimek
+	}
+	10882.1.30 = {
+		holder = 302709	#SevenC_ Imak
+	}
+	
+	#1066
+	11044.4.30 = {
+		holder = 302762	#fictional Sokal Imek
+		government = nomad_government
+		liege = d_saryarka
+	}
+	11071.3.4 = {
+		holder = 302766	#fictional Atrak Imek
+	}
+	11089.1.3 = {
+		holder = 302773	#fictional Sokal Imek
+	}
+	11122.5.28 = {
+		holder = 302780	#fictional C_ilbu Imek
+	}
+	11145.8.16 = {
+		holder = kimek0001	#fictional KO_nC_ek Imek
+	}
+	11174.8.8 = {
+		holder = 302782	#fictional Sotan Imek
+		government = nomad_government
+	}
+	11199.6.23 = {
+		holder = 302784	#fictional Tolun Imek
+	}
+}
+
+c_togotai = {
+	#867
+	10847.1.1 = {
+		holder = fictional_cumans_8
+		liege = 0
+		government = herder_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = fictional_kipchaks_8	##fic ruler to add more chars and avoid domain overlimit
+		liege = d_saryarka
+		government = nomad_government
+	}
+	
+	#1178
+	11174.8.8 = {
+		holder = 302782	#fictional Sotan Imek
+	}
+	11199.6.23 = {
+		holder = 302784	#fictional Tolun Imek
+	}
+}
+
+
+c_astana = {
+	#867
+	10863.1.1 = {
+		liege = 0
+		holder = fictional_kimeks_8
+		government = nomad_government
+	}
+	
+	#1066
+	11032.1.1 = {
+		holder = fictional_kimeks_30	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+	
+	#1178
+	11169.1.1 = {
+		holder = fictional_kimeks_42	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = nomad_government
+	}
+}
+
+c_astrakhanka = {
+	#867
+	10863.1.1 = {
+		liege = 0
+		holder = fictional_kimeks_8
+		government = nomad_government
+	}
+	
+	#1066
+	11032.1.1 = {
+		holder = fictional_kimeks_53	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+	
+	#1178
+	11169.1.1 = {
+		holder = fictional_kimeks_42	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = nomad_government
+	}
+}
+
+c_shchuchinsk = {
+	#867
+	10861.1.1 = {
+		liege = 0
+		holder = fictional_kimeks_9
+		government = nomad_government
+	}
+	
+	#1066
+	11032.1.1 = {
+		holder = fictional_kimeks_29	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+	
+	#1178
+	11160.1.1 = {
+		holder = fictional_kimeks_41	##fic ruler to add more chars and avoid domain overlimit
+		liege = k_caspian_steppe
+		government = herder_government
+	}
+}
+
+
+c_teke = {
+	#867
+	10860.1.12 = {
+		liege = 0
+		holder = 302608	#fictional Begluk Taiket
+		government = nomad_government
+	}
+	10884.4.12 = {
+		holder = 302609	#fictional Koza Taiket
+	}
+	
+	#1066
+	11042.8.13 = {
+		holder = 302610	#fictional Pulad Taiket
+		government = herder_government
+	}
+	11097.1.14 = {
+		holder = 302611	#fictional Koza Taiket
+		government = nomad_government
+	}
+	11118.6.16 = {
+		holder = 302612	#fictional Pulad Taiket
+	}
+	11142.8.19 = {
+		holder = 302613	#fictional SevenC_ Taiket
+	}
+	11168.7.15 = {
+		holder = 302614	#fictional TO_rtogul Taiket
+	}
+	11204.11.18 = {
+		holder = 302615	#fictional SevenC_ Taiket
+	}
+}
+

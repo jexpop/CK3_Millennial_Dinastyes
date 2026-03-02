@@ -1,0 +1,1548 @@
+k_yemen = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 20 }
+}
+
+d_sanaa = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 17 }
+
+	10630.1.1 = {
+		liege = e_arabia
+	}
+	
+	10768.1.1 = {
+		holder = 188748 # Yazid, brother-in-law of al-Mansur Abbasid (actually ruled in the 770s)
+		liege = 0 # De facto
+	}
+	10780.1.1 = {
+		holder = 0
+	}
+	
+	10847.1.1 = {
+		liege = 0
+		holder = 188735 # Yu'fir Yufirid
+	}
+		
+	10882.1.1 = {
+		holder = 159399 # Rassids
+	}
+	10911.1.1 = {
+		holder = 159400
+	}
+	10922.1.1 = {
+		holder = 159401
+	}
+	10968.1.1 = {
+		holder = 159405
+	}
+	10998.1.1 = {
+		holder = 159409
+	}
+	11010.1.1 = {
+		holder = 159410
+	}
+	11066.1.1 = {
+		holder = 45049
+	}
+	11068.1.1 = {
+		holder = 45050
+	}
+	11099.1.1 = {
+		holder = 45051
+	}
+	11109.1.1 = {
+		holder = 45052
+	}
+	11111.1.1 = {
+		holder = 45053
+	}
+	11116.1.1 = {
+		holder = 45054
+	}
+	11117.1.1 = {
+		holder = 45055
+	}
+	11137.1.1 = {
+		holder = 45058
+	}
+	11138.1.1 = {
+		holder = 45059
+	}
+	11171.1.1 = {
+		liege = "k_egypt"
+	}
+	11171.1.1 = {
+		holder = 32915
+	}
+	11174.1.1 = {
+		holder = 32916
+	}
+	11197.1.1 = {
+		holder = 144092
+	}
+	11202.1.1 = {
+		holder = 144093
+	}
+	11203.1.1 = {
+		holder = 32929
+	}
+	11229.1.1 = {
+		liege = 0
+	}
+	11229.1.1 = {
+		holder = 144094
+	}
+	11250.1.1 = {
+		holder = 144095
+	}
+	11295.1.1 = {
+		holder = 144096
+	}
+	11296.1.1 = {
+		holder = 144097
+	}
+	11322.1.1 = {
+		holder = 144098
+	}
+}
+
+c_sanaa = {
+	10867.1.1 = {	change_development_level = 12 }
+	11066.1.1 = { change_development_level = 18 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	# c_sanaa
+	
+	10630.1.1 = {
+		liege = "d_sanaa"
+	}
+	
+	10768.1.1 = {
+		holder = 188748 # Yazid, brother-in-law of al-Mansur Abbasid (actually ruled in the 770s)
+	}
+	
+	10847.1.1 = {
+		holder = 188735 # Yu'fir Yufirid
+	}
+	10872.1.1 = {
+		holder = yemeni0002 # Muhammad Yufirid
+	}
+	10876.1.1 = {
+		holder = yemeni0004 # Ibrahim Yufirid
+	}
+	
+	10882.1.1 = {
+		holder = 159399 # Rassids
+	}
+	10911.1.1 = {
+		holder = 159400
+	}
+	10922.1.1 = {
+		holder = 159401
+	}
+	10968.1.1 = {
+		holder = 159405
+	}
+	10998.1.1 = {
+		holder = 159409
+	}
+	11010.1.1 = {
+		holder = 159410
+	}
+	11066.1.1 = {
+		holder = 45049
+	}
+	11068.1.1 = {
+		holder = 45050
+	}
+	11099.1.1 = {
+		holder = 45051
+	}
+	11109.1.1 = {
+		holder = 45052
+	}
+	11111.1.1 = {
+		holder = 45053
+	}
+	11116.1.1 = {
+		holder = 45054
+	}
+	11117.1.1 = {
+		holder = 45055
+	}
+	11137.1.1 = {
+		holder = 45058
+	}
+	11138.1.1 = {
+		holder = 45059
+	}
+	11161.1.1 = {
+		holder = hamdanid_1 # Ali ibn Hatim
+	}
+	11197.1.1 = {
+		holder = 144092
+	}
+	11202.1.1 = {
+		holder = 144093
+	}
+	11203.1.1 = {
+		holder = 32929
+	}
+	11229.1.1 = {
+		holder = 144094
+	}
+	11250.1.1 = {
+		holder = 144095
+	}
+	11295.1.1 = {
+		holder = 144096
+	}
+	11296.1.1 = {
+		holder = 144097
+	}
+	11322.1.1 = {
+		holder = 144098
+	}
+}
+
+
+c_tihamat-al-yamani = {
+		
+	10847.1.1 = {
+		liege = "d_sanaa"
+		holder = 188735 # Yu'fir Yufirid
+	}
+	10872.1.1 = {
+		holder = yemeni0002 # Muhammad Yufirid
+	}
+	10876.1.1 = {
+		holder = yemeni0004 # Ibrahim Yufirid
+	}
+	
+	10882.1.1 = {
+		holder = 159399 # Rassids
+	}
+	10911.1.1 = {
+		holder = 159400
+	}
+	10922.1.1 = {
+		holder = 159401
+	}
+	10968.1.1 = {
+		holder = 159405
+	}
+	10998.1.1 = {
+		holder = 159409
+	}
+	11010.1.1 = {
+		holder = 159410
+	}
+
+	11060.1.1 = {
+		liege = d_taizz
+		holder = 45035
+	}
+	11070.1.1 = {
+		holder = 45036
+	}
+	11084.1.1 = {
+		holder = 45050
+	}
+	11099.1.1 = {
+		holder = 45051
+	}
+	11109.1.1 = {
+		holder = 45052
+	}
+	11111.1.1 = {
+		holder = 45053
+	}
+	11116.1.1 = {
+		holder = 45054
+	}
+	11117.1.1 = {
+		holder = 45055
+	}
+	11137.1.1 = {
+		holder = 45058
+	}
+	11138.1.1 = {
+		holder = 45059
+	}
+	11171.1.1 = {
+		holder = 32915
+	}
+	11174.1.1 = {
+		holder = 32916
+	}
+	11197.1.1 = {
+		holder = 144092
+	}
+	11202.1.1 = {
+		holder = 144093
+	}
+	11203.1.1 = {
+		holder = 32929
+	}
+	11229.1.1 = {
+		holder = 144094
+	}
+	11250.1.1 = {
+		holder = 144095
+	}
+	11295.1.1 = {
+		holder = 144096
+	}
+	11296.1.1 = {
+		holder = 144097
+	}
+	11322.1.1 = {
+		holder = 144098
+	}	
+}
+
+
+c_najran = {
+	# c_sanaa
+	
+	10630.1.1 = {
+		liege = "d_sanaa"
+		government = tribal_government
+	}
+	
+	10768.1.1 = {
+		holder = 188748 # Yazid, brother-in-law of al-Mansur Abbasid (actually ruled in the 770s)
+	}
+	
+	#Harb
+	10847.1.1 = {
+		holder = bedouin0085
+	}
+	10866.1.1 = {
+		holder = bedouin0086
+	}
+	10899.1.1 = {
+		holder = bedouin0088
+	}
+	10932.1.1 = {
+		holder = bedouin0089
+	}
+
+	#960's the Harb migrate northwards
+
+	11066.1.1 = {
+		holder = 45049
+	}
+	11068.1.1 = {
+		holder = 45050
+	}
+	11099.1.1 = {
+		holder = 45051
+	}
+	11109.1.1 = {
+		holder = 45052
+	}
+	11111.1.1 = {
+		holder = 45053
+	}
+	11116.1.1 = {
+		holder = 45054
+	}
+	11117.1.1 = {
+		holder = 45055
+	}
+	11137.1.1 = {
+		holder = 45058
+	}
+	11138.1.1 = {
+		holder = 45059
+	}
+	11161.1.1 = {
+		holder = hamdanid_1 # Ali ibn Hatim
+	}
+	11197.1.1 = {
+		holder = 144092
+	}
+	11202.1.1 = {
+		holder = 144093
+	}
+	11203.1.1 = {
+		holder = 32929
+	}
+	11229.1.1 = {
+		holder = 144094
+	}
+	11250.1.1 = {
+		holder = 144095
+	}
+	11295.1.1 = {
+		holder = 144096
+	}
+	11296.1.1 = {
+		holder = 144097
+	}
+	11322.1.1 = {
+		holder = 144098
+	}
+}
+
+
+c_zabid = {
+	10630.1.1 = {
+		liege = "d_sanaa"
+	}
+	
+	10768.1.1 = {
+		holder = 188742
+	}
+	
+	10818.1.1 = {
+		liege = 0
+		holder = 188736 # Muhammad Ziyadid
+	}
+	10859.1.1 = {
+		holder = 188737 # Ibrahim
+	}
+
+	10876.1.1 = {
+		holder = yemeni0004 # Ibrahim Yufirid
+	}
+	10905.1.1 = {
+		holder = yemeni0006 # Asad Yufirid
+	}
+	10955.1.1 = {
+		holder = yemeni0007 # Muhammad Yufirid
+	}
+	10956.1.1 = {
+		holder = yemeni0010 # Qahtan Yufirid
+	}
+
+	#Ziyadid
+	10997.1.1 = {
+		holder = 188740 # Abdallah
+	}
+	11012.1.1 = {
+		holder = 188741 # Ibrahim
+	}
+	11018.1.1 = {
+		liege = d_sanaa
+	}
+	
+	11060.1.1 = {
+		liege = d_taizz
+		holder = 45035
+	}
+	11070.1.1 = {
+		holder = 45036
+	}
+	11084.1.1 = {
+		holder = 45050
+	}
+	11099.1.1 = {
+		holder = 45051
+	}
+	11109.1.1 = {
+		holder = 45052
+	}
+	11111.1.1 = {
+		holder = 45053
+	}
+	11116.1.1 = {
+		holder = 45054
+	}
+	11117.1.1 = {
+		holder = 45055
+	}
+	11137.1.1 = {
+		holder = 45058
+	}
+	11138.1.1 = {
+		holder = 45059
+	}
+	11171.1.1 = {
+		holder = 32915
+	}
+	11174.1.1 = {
+		holder = 32916
+	}
+	11197.1.1 = {
+		holder = 144092
+	}
+	11202.1.1 = {
+		holder = 144093
+	}
+	11203.1.1 = {
+		holder = 32929
+	}
+	11229.1.1 = {
+		holder = 144094
+	}
+	11250.1.1 = {
+		holder = 144095
+	}
+	11295.1.1 = {
+		holder = 144096
+	}
+	11296.1.1 = {
+		holder = 144097
+	}
+	11322.1.1 = {
+		holder = 144098
+	}	
+}
+
+
+d_jawf-al-yamani = {
+	10847.1.1 = {
+		government = tribal_government
+		holder = bedouin0085
+	}
+	10866.1.1 = {
+		holder = bedouin0086
+	}
+	10899.1.1 = {
+		holder = bedouin0088
+	}
+	10932.1.1 = {
+		holder = bedouin0089
+	}
+	10940.1.1 = {
+		holder = 0
+	}
+}
+
+
+c_jawf-al-yamani = {
+	10630.1.1 = {
+		liege = "d_sanaa"
+		government = tribal_government
+	}
+	
+	10768.1.1 = {
+		holder = 188743
+	}
+	
+	#Harb
+	10847.1.1 = {
+		liege = d_jawf-al-yamani
+		holder = bedouin0085
+	}
+	10866.1.1 = {
+		holder = bedouin0087
+	}
+	10876.1.1 = {
+		holder = bedouin0098
+	}
+	10902.1.1 = {
+		holder = bedouin0099
+	}
+	10933.1.1 = {
+		holder = bedouin0100
+	}
+	#in the mid 10th century Harb migrate northwards
+	
+	11066.1.1 = {	#Fictional
+		holder = 218008
+		liege = 0
+	}
+	11081.1.1 = {
+		holder = 45036
+	}
+	11084.1.1 = {
+		holder = 45050
+	}
+	11099.1.1 = {
+		holder = 45051
+	}
+	11109.1.1 = {
+		holder = 45052
+	}
+	11111.1.1 = {
+		holder = 45053
+	}
+	11116.1.1 = {
+		holder = 45054
+	}
+	11117.1.1 = {
+		holder = 45055
+	}
+	11137.1.1 = {
+		holder = 45058
+	}
+	11138.1.1 = {
+		holder = 45059
+	}
+	11161.1.1 = {
+		holder = hamdanid_1 # Ali ibn Hatim
+	}
+	11197.1.1 = {
+		holder = 144092
+	}
+	11202.1.1 = {
+		holder = 144093
+	}
+	11203.1.1 = {
+		holder = 32929
+	}
+	11229.1.1 = {
+		holder = 144094
+	}
+	11250.1.1 = {
+		holder = 144095
+	}
+	11295.1.1 = {
+		holder = 144096
+	}
+	11296.1.1 = {
+		holder = 144097
+	}
+	11322.1.1 = {
+		holder = 144098
+	}	
+}
+
+
+c_wabar = {
+	# c_sanaa
+	
+	10630.1.1 = {
+		liege = "d_sanaa"
+		government = tribal_government
+	}
+	
+	10768.1.1 = {
+		holder = 188748 # Yazid, brother-in-law of al-Mansur Abbasid (actually ruled in the 770s)
+	}
+	
+	10847.1.1 = {
+		liege = d_jawf-al-yamani
+		holder = bedouin0085
+	}
+	10866.1.1 = {
+		holder = bedouin0086
+	}
+	10899.1.1 = {
+		holder = bedouin0088
+	}
+	10932.1.1 = {
+		holder = bedouin0089
+	}
+	10987.1.1 = {
+		holder = bedouin0090
+	}
+
+	11066.1.1 = {	#Fictional
+		holder = 218008
+		liege = 0
+	}
+	11081.1.1 = {
+		holder = 45050
+	}
+	11099.1.1 = {
+		holder = 45051
+	}
+	11109.1.1 = {
+		holder = 45052
+	}
+	11111.1.1 = {
+		holder = 45053
+	}
+	11116.1.1 = {
+		holder = 45054
+	}
+	11117.1.1 = {
+		holder = 45055
+	}
+	11137.1.1 = {
+		holder = 45058
+	}
+	11138.1.1 = {
+		holder = 45059
+	}
+	11161.1.1 = {
+		holder = hamdanid_1 # Ali ibn Hatim
+	}
+	11197.1.1 = {
+		holder = 144092
+	}
+	11202.1.1 = {
+		holder = 144093
+	}
+	11203.1.1 = {
+		holder = 32929
+	}
+	11229.1.1 = {
+		holder = 144094
+	}
+	11250.1.1 = {
+		holder = 144095
+	}
+	11295.1.1 = {
+		holder = 144096
+	}
+	11296.1.1 = {
+		holder = 144097
+	}
+	11322.1.1 = {
+		holder = 144098
+	}
+}
+
+d_taizz = {
+	10867.1.1 = {	change_development_level = 8 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 17 }
+	
+	10818.1.1 = {
+		holder = 188736 # Muhammad Ziyadid
+	}
+	10859.1.1 = {
+		holder = 188737 # Ibrahim
+	}
+	10896.1.1 = {
+		holder = 188738 # Ziyad
+	}
+	10911.1.1 = {
+		holder = 188739 # Ishaq
+	}
+	10981.1.1 = {
+		holder = 188740 # Abdallah
+	}
+	11012.1.1 = {
+		holder = 188741 # Ibrahim
+	}
+	11018.1.1 = {
+		holder = 0
+	}
+
+	11040.1.1 = {
+		holder = 45035
+	}
+	11084.1.1 = {
+		holder = 0
+	}
+}
+
+
+c_taizz = {
+	10867.1.1 = {	change_development_level = 12 }
+	11066.1.1 = { change_development_level = 18 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10768.1.1 = {
+		liege = "d_sanaa"
+		holder = 188742
+	}
+
+	10847.1.1 = {
+		holder = 188735 # Yu'fir Yufirid
+	}
+	10872.1.1 = {
+		holder = yemeni0002 # Muhammad Yufirid
+	}
+	10876.1.1 = {
+		holder = yemeni0004 # Ibrahim Yufirid
+	}
+	10905.1.1 = {
+		holder = yemeni0006 # Asad Yufirid
+	}
+	10955.1.1 = {
+		holder = yemeni0007 # Muhammad Yufirid
+	}
+	10956.1.1 = {
+		holder = yemeni0010 # Qahtan Yufirid
+	}
+
+	#Ziyadid
+	10997.1.1 = {
+		holder = 188740 # Abdallah
+	}
+	11012.1.1 = {
+		holder = 188741 # Ibrahim
+	}
+	11018.1.1 = {
+		liege = d_sanaa
+	}
+	
+	11066.1.1 = {
+		holder = 45035
+	}
+	11070.1.1 = {
+		holder = 45036
+	}
+	11084.1.1 = {
+		holder = 45050
+	}
+	11099.1.1 = {
+		holder = 45051
+	}
+	11109.1.1 = {
+		holder = 45052
+	}
+	11111.1.1 = {
+		holder = 45053
+	}
+	11116.1.1 = {
+		holder = 45054
+	}
+	11117.1.1 = {
+		holder = 45055
+	}
+	11137.1.1 = {
+		holder = 45058
+	}
+	11138.1.1 = {
+		holder = 45059
+	}
+	11171.1.1 = {
+		holder = 32915
+	}
+	11174.1.1 = {
+		holder = 32916
+	}
+	11197.1.1 = {
+		holder = 144092
+	}
+	11202.1.1 = {
+		holder = 144093
+	}
+	11203.1.1 = {
+		holder = 32929
+	}
+	11229.1.1 = {
+		holder = 144094
+	}
+	11250.1.1 = {
+		holder = 144095
+	}
+	11295.1.1 = {
+		holder = 144096
+	}
+	11296.1.1 = {
+		holder = 144097
+	}
+	11322.1.1 = {
+		holder = 144098
+	}	
+}
+
+
+c_mandab = {
+	10630.1.1 = {
+		liege = "d_sanaa"
+	}
+	
+	10760.1.1 = {
+		holder = 188744
+	}
+	
+	
+	10818.1.1 = {
+		liege = d_taizz
+		holder = 188736 # Muhammad Ziyadid
+	}
+	10859.1.1 = {
+		holder = 188737 # Ibrahim
+	}
+	10896.1.1 = {
+		holder = 188738 # Ziyad
+	}
+	10911.1.1 = {
+		holder = 188739 # Ishaq
+	}
+	10981.1.1 = {
+		holder = 188740 # Abdallah
+	}
+	11012.1.1 = {
+		holder = 188741 # Ibrahim
+	}
+	11018.1.1 = {
+		liege = d_sanaa
+	}
+	
+	11066.1.1 = {
+		holder = 45035
+	}
+	11070.1.1 = {
+		holder = 45036
+	}
+	11080.1.1 = {
+		holder = 45037
+	}
+	11084.1.1 = {
+		holder = 45039
+	}
+	11086.1.1 = {
+		holder = 45038
+	}
+	11110.1.1 = {
+		holder = 45041
+	}
+	#11120.1.1 = {
+	#	holder = 0
+	#}
+	11137.1.1 = {
+		holder = 45058
+	}
+	11138.1.1 = {
+		holder = 45043
+	}
+	11139.1.1 = {
+		holder = 45060 # 45046??
+	}
+	11140.1.1 = {
+		holder = 45047
+	}
+	11153.1.1 = {
+		holder = 45045
+	}
+	11166.1.1 = {
+		holder = 45059
+	}
+	11171.1.1 = {
+		holder = 32915
+	}
+	11174.1.1 = {
+		holder = 32916
+	}
+	11197.1.1 = {
+		holder = 144092
+	}
+	11202.1.1 = {
+		holder = 144093
+	}
+	11203.1.1 = {
+		holder = 32929
+	}
+	11229.1.1 = {
+		holder = 144094
+	}
+	11250.1.1 = {
+		holder = 144095
+	}
+	11295.1.1 = {
+		holder = 144096
+	}
+	11296.1.1 = {
+		holder = 144097
+	}
+	11322.1.1 = {
+		holder = 144098
+	}
+}
+
+
+c_dathina = {
+	10630.1.1 = {
+		liege = "d_sanaa"
+	}
+	
+	10768.1.1 = {
+		holder = 188743
+	}
+	
+	10818.1.1 = {
+		liege = d_taizz
+		holder = 188736 # Muhammad Ziyadid
+	}
+	10859.1.1 = {
+		holder = 188737 # Ibrahim
+	}
+	10896.1.1 = {
+		holder = 188738 # Ziyad
+	}
+	10911.1.1 = {
+		holder = 188739 # Ishaq
+	}
+	10981.1.1 = {
+		holder = 188740 # Abdallah
+	}
+	11012.1.1 = {
+		holder = 188741 # Ibrahim
+	}
+	
+	11066.1.1 = {
+		holder = yemeni0011
+	}
+	11089.1.1 = {
+		holder = 45050
+	}
+	11099.1.1 = {
+		holder = 45051
+	}
+	11109.1.1 = {
+		holder = 45052
+	}
+	11111.1.1 = {
+		holder = 45053
+	}
+	11116.1.1 = {
+		holder = 45054
+	}
+	11117.1.1 = {
+		holder = 45055
+	}
+	11137.1.1 = {
+		holder = 45058
+	}
+	11138.1.1 = {
+		holder = 45059
+	}
+	11171.1.1 = {
+		holder = 32915
+	}
+	11174.1.1 = {
+		holder = 32916
+	}
+	11197.1.1 = {
+		holder = 144092
+	}
+	11202.1.1 = {
+		holder = 144093
+	}
+	11203.1.1 = {
+		holder = 32929
+	}
+	11229.1.1 = {
+		holder = 144094
+	}
+	11250.1.1 = {
+		holder = 144095
+	}
+	11295.1.1 = {
+		holder = 144096
+	}
+	11296.1.1 = {
+		holder = 144097
+	}
+	11322.1.1 = {
+		holder = 144098
+	}	
+}
+
+
+c_hadramawt = {
+	
+	10630.1.1 = {
+		liege = "d_sanaa"
+		government = tribal_government
+	}
+	
+	10765.1.1 = {
+		holder = 188732 # Yufirids
+	}
+	10800.1.1 = {
+		holder = 188733 # Yufirids
+	}
+	10825.1.1 = {
+		holder = 188734 # Abd ar-Rahman Yufirid
+	}
+	10847.1.1 = {
+		holder = 188735 # Yu'fir Yufirid
+	}
+	10867.1.1 = {	#Fictional
+		holder = 218005
+		liege = 0
+	}
+	11066.1.1 = {	#Fictional
+		holder = 218007
+		liege = 0
+	}
+
+	11092.1.1 = {
+		government = clan_government
+		holder = 45050
+	}
+	11099.1.1 = {
+		holder = 45051
+	}
+	11109.1.1 = {
+		holder = 45052
+	}
+	11111.1.1 = {
+		holder = 45053
+	}
+	11116.1.1 = {
+		holder = 45054
+	}
+	11117.1.1 = {
+		holder = 45055
+	}
+	11137.1.1 = {
+		holder = 45058
+	}
+	11138.1.1 = {
+		holder = 45059
+	}
+	11171.1.1 = {
+		holder = 32915
+	}
+	11174.1.1 = {
+		holder = 32916
+	}
+	11197.1.1 = {
+		holder = 144092
+	}
+	11202.1.1 = {
+		holder = 144093
+	}
+	11203.1.1 = {
+		holder = 32929
+	}
+	11229.1.1 = {
+		holder = 144094
+	}
+	11250.1.1 = {
+		holder = 144095
+	}
+	11295.1.1 = {
+		holder = 144096
+	}
+	11296.1.1 = {
+		holder = 144097
+	}
+	11322.1.1 = {
+		holder = 144098
+	}	
+}
+
+
+c_ahqaf = {
+	
+	10630.1.1 = {
+		liege = "d_sanaa"
+		government = tribal_government
+	}
+	
+	10765.1.1 = {
+		holder = 188732 # Yufirids
+	}
+	10800.1.1 = {
+		holder = 188733 # Yufirids
+	}
+	10825.1.1 = {
+		holder = 188734 # Abd ar-Rahman Yufirid
+	}
+	10847.1.1 = {
+		holder = 188735 # Yu'fir Yufirid
+	}
+	10867.1.1 = {	#Fictional
+		holder = 218004
+		liege = 0
+	}
+
+	11066.1.1 = {	#Fictional
+		holder = 218007
+		liege = 0
+	}
+
+	11092.1.1 = {
+		government = clan_government
+		holder = 45050
+	}
+	11099.1.1 = {
+		holder = 45051
+	}
+	11109.1.1 = {
+		holder = 45052
+	}
+	11111.1.1 = {
+		holder = 45053
+	}
+	11116.1.1 = {
+		holder = 45054
+	}
+	11117.1.1 = {
+		holder = 45055
+	}
+	11137.1.1 = {
+		holder = 45058
+	}
+	11138.1.1 = {
+		holder = 45059
+	}
+	11171.1.1 = {
+		holder = 32915
+	}
+	11174.1.1 = {
+		holder = 32916
+	}
+	11197.1.1 = {
+		holder = 144092
+	}
+	11202.1.1 = {
+		holder = 144093
+	}
+	11203.1.1 = {
+		holder = 32929
+	}
+	11229.1.1 = {
+		holder = 144094
+	}
+	11250.1.1 = {
+		holder = 144095
+	}
+	11295.1.1 = {
+		holder = 144096
+	}
+	11296.1.1 = {
+		holder = 144097
+	}
+	11322.1.1 = {
+		holder = 144098
+	}	
+}
+
+
+c_kinda_sakun = {
+	# c_kathiri
+	
+	10630.1.1 = {
+		liege = "d_sanaa"
+		government = tribal_government
+	}
+	
+	10765.1.1 = {
+		holder = 188732 # Yufirids
+	}
+	10800.1.1 = {
+		holder = 188733 # Yufirids
+	}
+	10825.1.1 = {
+		holder = 188734 # Abd ar-Rahman Yufirid
+	}
+	10847.1.1 = {
+		holder = 188735 # Yu'fir Yufirid
+	}
+	10867.1.1 = {	#Fictional
+		holder = 218006
+		liege = 0
+	}
+	10881.1.1 = {
+		holder = 159399
+		government = clan_government
+	}
+	10911.1.1 = {
+		holder = 159400
+	}
+	10922.1.1 = {
+		holder = 159401
+	}
+	10968.1.1 = {
+		holder = 159405
+	}
+	10998.1.1 = {
+		holder = 159409
+	}
+	11010.1.1 = {
+		holder = 159410
+	}
+	11066.1.1 = {
+		liege = d_taizz
+		holder = yemeni0011
+	}
+	11089.1.1 = {
+		holder = 45050
+	}
+	11099.1.1 = {
+		holder = 45051
+	}
+	11109.1.1 = {
+		holder = 45052
+	}
+	11111.1.1 = {
+		holder = 45053
+	}
+	11116.1.1 = {
+		holder = 45054
+	}
+	11117.1.1 = {
+		holder = 45055
+	}
+	11137.1.1 = {
+		holder = 45058
+	}
+	11138.1.1 = {
+		holder = 45059
+	}
+	11171.1.1 = {
+		holder = 32915
+	}
+	11174.1.1 = {
+		holder = 32916
+	}
+	11197.1.1 = {
+		holder = 144092
+	}
+	11202.1.1 = {
+		holder = 144093
+	}
+	11203.1.1 = {
+		holder = 32929
+	}
+	11229.1.1 = {
+		holder = 144094
+	}
+	11250.1.1 = {
+		holder = 144095
+	}
+	11295.1.1 = {
+		holder = 144096
+	}
+	11296.1.1 = {
+		holder = 144097
+	}
+	11322.1.1 = {
+		holder = 144098
+	}	
+}
+
+
+c_mahra = {
+	10630.1.1 = {
+		liege = d_sanaa
+	}
+	
+	10768.1.1 = {
+		government = tribal_government
+		holder = 188745
+	}
+	
+	10866.1.1 = {
+		liege = 0
+		holder = 74035
+	}
+	
+	11066.1.1 = {	#Fictional
+		holder = 218009
+		liege = 0
+	}
+	11081.1.1 = {
+		liege = "d_kirman"
+		holder = 144027
+	}
+	11097.1.1 = {
+		holder = 144028
+	}
+	11101.1.1 = {
+		holder = 144034
+	}
+	11142.1.1 = {
+		holder = 144035
+	}
+	11145.1.1 = {
+		holder = manjawa_1 # Ahmad al-Manjawa
+	}
+	11154.1.1 = {
+		liege = "d_oman"
+	}
+	11200.1.1 = {
+		holder = 144561
+	}
+	11250.1.1 = {
+		holder = 144562
+	}
+	11278.1.1 = {
+		holder = 144563
+	}
+	11285.1.1 = {
+		holder = 144564
+	}
+}
+
+
+c_al-asa = {
+	10630.1.1 = {
+		liege = d_sanaa
+	}
+	
+	10768.1.1 = {
+		government = tribal_government
+		holder = 188745
+	}
+	
+	10866.1.1 = {
+		liege = 0
+		holder = 74035
+	}
+	
+	11066.1.1 = {	#Fictional
+		holder = 218009
+		liege = 0
+	}
+	11081.1.1 = {
+		liege = "d_kirman"
+		holder = 144027
+	}
+	11097.1.1 = {
+		holder = 144028
+	}
+	11101.1.1 = {
+		holder = 144034
+	}
+	11142.1.1 = {
+		holder = 144035
+	}
+	11145.1.1 = {
+		holder = manjawa_1 # Ahmad al-Manjawa
+	}
+	11154.1.1 = {
+		liege = "d_oman"
+	}
+	11200.1.1 = {
+		holder = 144561
+	}
+	11250.1.1 = {
+		holder = 144562
+	}
+	11278.1.1 = {
+		holder = 144563
+	}
+	11285.1.1 = {
+		holder = 144564
+	}
+}
+
+
+c_socotra = {
+	10867.1.1 = {	change_development_level = 7 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10757.1.1 = {
+		liege = "d_socotra"
+	holder = 145965
+	government = feudal_government
+	}
+	10789.1.1 = {
+		holder = 145966
+	}
+	10822.1.1 = {
+		holder = 145967
+	}
+	10853.4.1 = {
+		holder = 145618
+	}
+	10872.3.20 = {
+		holder = 145617
+	}
+	10897.6.3 = {
+		holder = 145616
+	}
+	11055.6.17 = {
+		holder = 145615
+	}
+	11076.7.6 = {
+		holder = 145614
+	}
+	11103.10.18 = {
+		holder = 145613
+	}
+	11141.1.4 = {
+		holder = 145612
+	}
+	11164.1.12 = {
+		holder = 145611
+	}
+	11181.11.4 = {
+		holder = 145610
+	}
+	11199.10.3 = {
+		holder = 145609
+	}
+	11228.3.1 = {
+		holder = 145608
+	}
+	11233.11.21 = {
+		holder = 145607
+	}
+	11261.12.29 = {
+		holder = 145606
+	}
+	11273.7.15 = {
+		holder = 145605
+	}
+	11289.1.30 = {
+		holder = 145604
+	}
+	11296.1.18 = {
+		holder = 145603
+	}
+	11302.7.4 = {
+		holder = 145598
+	}
+	11318.2.28 = {
+		holder = 145597
+	}
+	11320.11.16 = {
+		holder = 145598
+	}
+	11323.3.8 = {
+		holder = 145596
+	}
+}
+
+
+c_dhofar = {
+	# c_dhofar
+	10665.1.1 = {
+		liege = d_oman
+		government = tribal_government
+	}
+	
+	10767.1.1 = {
+		holder = 188765
+	}
+	
+	10867.1.1 = {
+		liege = 0
+		holder = 74036
+	}
+	
+	11066.1.1 = {
+		liege = "d_kirman"
+	}
+	11066.1.1 = {
+		holder = 3041
+	}
+	11073.1.1 = {
+		holder = 144025
+	}
+	11074.1.1 = {
+		holder = 144026
+	}
+	11075.1.1 = {
+		holder = 144027
+	}
+	11097.1.1 = {
+		holder = 144028
+	}
+	11101.1.1 = {
+		holder = 144034
+	}
+	11142.1.1 = {
+		holder = 144035
+	}
+	11145.1.1 = {
+		holder = manjawa_1 # Ahmad al-Manjawa
+	}
+	11154.1.1 = {
+		liege = "d_oman"
+	}
+	11200.1.1 = {
+		holder = 144561
+	}
+	11250.1.1 = {
+		holder = 144562
+	}
+	11278.1.1 = {
+		holder = 144563
+	}
+	11285.1.1 = {
+		holder = 144564
+	}
+}
+

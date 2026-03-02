@@ -1,0 +1,753 @@
+﻿c_bonduku = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 6 }
+
+	10840.1.1 = {
+		holder = akan0012
+		government = tribal_government
+	}
+	10866.1.1 = {
+		holder = akan0013
+	}
+	10899.1.1 = {
+		holder = akan0028
+	}
+	10915.1.1 = {
+		holder = akan0029
+	}
+	10949.1.1 = {
+		holder = akan0030
+	}
+	10960.1.1 = {
+		holder = akan0031
+	}
+	11009.1.1 = {
+		holder = akan0032
+	}
+	11043.1.1 = {
+		holder = akan0033
+	}
+	11066.1.1 = {
+		holder = akan0034
+	}
+	11103.1.1 = {
+		holder = akan0035
+	}
+	11117.1.1 = {
+		holder = akan0036
+	}
+	11153.1.1 = {
+		holder = akan0037
+	}
+	11187.1.1 = {
+		holder = akan0038
+	}
+	11203.1.1 = {
+		holder = akan0039
+	}
+}
+
+c_ndenye = {
+	10867.1.1 = {	change_development_level = 0 }
+	11066.1.1 = { change_development_level = 2 }
+	11178.1.1 = { change_development_level = 3 }
+
+	10860.1.1 = {
+		holder = akan0040
+		government = tribal_government
+	}
+	10888.1.1 = {
+		holder = akan0041
+	}
+	
+	11053.1.1 = {
+		holder = akan0042
+	}
+	11075.1.1 = {
+		holder = akan0043
+	}
+	11107.1.1 = {
+		holder = akan0044
+	}
+	11122.1.1 = {
+		holder = akan0045
+	}
+	11159.1.1 = {
+		holder = akan0046
+	}
+	11190.1.1 = {
+		holder = akan0047
+	}
+}
+
+d_brong = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 8 }
+}
+
+c_bono = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+
+	10860.1.1 = {
+		holder = akan0001
+		government = tribal_government
+	}
+	10889.1.1 = {
+		holder = akan0003
+	}
+	10912.1.1 = {
+		holder = akan0004
+	}
+	
+	11030.1.1 = {
+		holder = akan0005
+	#	government = clan_government
+	}
+	11068.1.1 = {
+		holder = akan0006
+	}
+	11093.1.1 = {
+		holder = akan0007
+	}
+	11112.1.1 = {
+		holder = akan0008
+	}
+	11153.1.1 = {
+		holder = akan0009
+	}
+	11183.1.1 = {
+		holder = akan0011
+	}
+}
+
+
+c_begho = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+
+	10840.1.1 = {
+		holder = akan0012
+		government = tribal_government
+	}
+	10879.1.1 = {
+		holder = akan0015
+	}
+	10909.1.1 = {
+		holder = akan0016
+	}
+	10940.1.1 = {
+		holder = akan0017
+	}
+	10965.1.1 = {
+		holder = akan0018
+	}
+	10997.1.1 = {
+		holder = akan0019
+	}
+	11033.1.1 = {
+		holder = akan0020
+	}
+	11060.1.1 = {
+		holder = akan0021
+	}
+	11092.1.1 = {
+		holder = akan0023
+	}
+	11120.1.1 = {
+		holder = akan0024
+	}
+	11143.1.1 = {
+		holder = akan0025
+	}
+	11190.1.1 = {
+		holder = akan0027
+	}
+}
+
+
+c_upper_bono = {
+	10861.1.1 = {
+		holder = akan0001
+		government = tribal_government
+	}
+	10889.1.1 = {
+		holder = akan0003
+	}
+	10912.1.1 = {
+		holder = akan0004
+	}
+	
+	11031.1.1 = {
+		holder = akan0005
+	#	government = clan_government
+	}
+	11068.1.1 = {
+		holder = akan0006
+	}
+	11093.1.1 = {
+		holder = akan0007
+	}
+	11112.1.1 = {
+		holder = akan0008
+	}
+	11153.1.1 = {
+		holder = akan0009
+	}
+	11183.1.1 = {
+		holder = akan0011
+	}
+}
+
+
+c_bonoso = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+
+	10840.1.1 = {
+		holder = akan0012
+		government = tribal_government
+	}
+	10879.1.1 = {
+		holder = akan0015
+	}
+	10909.1.1 = {
+		holder = akan0016
+	}
+	10940.1.1 = {
+		holder = akan0017
+	}
+	10965.1.1 = {
+		holder = akan0018
+	}
+	10997.1.1 = {
+		holder = akan0019
+	}
+	11033.1.1 = {
+		holder = akan0020
+	}
+	
+	#Bono expansion
+	11044.1.1 = {
+		holder = akan0005
+	}
+	11068.1.1 = {
+		holder = akan0006
+	}
+	11093.1.1 = {
+		holder = akan0007
+	}
+	11112.1.1 = {
+		holder = akan0008
+	}
+	11153.1.1 = {
+		holder = akan0009
+	}
+	11183.1.1 = {
+		holder = akan0011
+	}
+}
+
+d_ashanti = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 8 }
+}
+
+c_kumasi = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+
+	10800.1.1 = {
+		change_development_level = 2
+	}
+	
+	11001.1.1 = {
+		change_development_level = 5
+	}
+	
+	11101.1.1 = {
+		change_development_level = 8
+	}
+	
+	10850.1.1 = {
+		holder = akan0048
+		government = tribal_government
+	}
+	10873.1.1 = {
+		holder = akan0049
+	}
+	
+	11058.1.1 = {
+		holder = akan0050
+	}
+	11089.1.1 = {
+		holder = akan0051
+	}
+	11116.1.1 = {
+		holder = akan0052
+	}
+	11143.1.1 = {
+		holder = akan0053
+	}
+	11169.1.1 = {
+		holder = akan0054
+	}
+	11201.1.1 = {
+		holder = akan0055
+	}
+}
+
+
+c_adanse = {
+	10850.1.1 = {
+		holder = akan0048
+		government = tribal_government
+	}
+	10873.1.1 = {
+		holder = akan0049
+	}
+	
+	11058.1.1 = {
+		holder = akan0050
+	}
+	11089.1.1 = {
+		holder = akan0051
+	}
+	11116.1.1 = {
+		holder = akan0052
+	}
+	11143.1.1 = {
+		holder = akan0053
+	}
+	11169.1.1 = {
+		holder = akan0054
+	}
+	11201.1.1 = {
+		holder = akan0055
+	}
+}
+
+c_kwahu-akyem = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 4 }
+
+	10860.1.1 = {
+		holder = guan0001
+		liege = d_eweland
+		government = tribal_government
+	}
+	10899.1.1 = {
+		holder = guan0002
+	}
+	10950.1.1 = {
+		holder = guan0003
+	}
+	11005.1.1 = {
+		holder = guan0004
+	}
+	11058.1.1 = {
+		holder = guan0005
+	}
+	11102.1.1 = {
+		holder = guan0006
+	}
+	11136.1.1 = {
+		holder = guan0007
+	}
+	11178.1.1 = {
+		holder = guan0008
+	}
+	11221.1.1 = {
+		holder = guan0009
+	}
+	11263.1.1 = {
+		holder = guan0010
+	}
+}
+
+
+c_fante = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 4 }
+
+	10860.1.1 = {
+		holder = akan0064
+		government = tribal_government
+	}
+	10896.1.1 = {
+		holder = akan0065
+	}
+	10943.1.1 = {
+		holder = akan0066
+	}
+	10996.1.1 = {
+		holder = akan0067
+	}
+	11040.1.1 = {
+		holder = akan0068
+	}
+	11073.1.1 = {
+		holder = akan0069
+	}
+	11109.1.1 = {
+		holder = akan0070
+	}
+	11147.1.1 = {
+		holder = akan0071
+	}
+	11179.1.1 = {
+		holder = akan0072
+	}
+	11207.1.1 = {
+		holder = akan0073
+	}
+}
+
+c_wassa = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 4 }
+
+	10860.1.1 = {
+		holder = akan0056
+		government = tribal_government
+	}
+	10888.1.1 = {
+		holder = akan0057
+	}
+	
+	11053.1.1 = {
+		holder = akan0058
+	}
+	11075.1.1 = {
+		holder = akan0059
+	}
+	11107.1.1 = {
+		holder = akan0060
+	}
+	11122.1.1 = {
+		holder = akan0061
+	}
+	11159.1.1 = {
+		holder = akan0062
+	}
+	11190.1.1 = {
+		holder = akan0063
+	}
+}
+
+d_eweland = {
+	10867.1.1 = {	change_development_level = 0 }
+	11066.1.1 = { change_development_level = 2 }
+	11178.1.1 = { change_development_level = 5 }
+
+	10860.1.1 = {
+		holder = guan0011
+		government = tribal_government
+	}
+	10912.1.1 = {
+		holder = guan0012
+	}
+	10970.1.1 = {
+		holder = guan0013
+	}
+	11025.1.1 = {
+		holder = guan0014
+	}
+	11060.1.1 = {
+		holder = guan0015
+	}
+	11095.1.1 = {
+		holder = guan0016
+	}
+	11127.1.1 = {
+		holder = guan0017
+	}
+	11158.1.1 = {
+		holder = guan0018
+	}
+	11189.1.1 = {
+		holder = guan0019
+	}
+	11228.1.1 = {
+		holder = guan0020
+	}
+}
+
+c_ewe = {
+	10860.1.1 = {
+		holder = ewe0001
+		liege = d_eweland
+		government = tribal_government
+	}
+	10890.1.1 = {
+		holder = ewe0002
+	}
+	10933.1.1 = {
+		holder = ewe0003
+	}
+	10990.1.1 = {
+		holder = ewe0004
+	}
+	11050.1.1 = {
+		holder = ewe0005
+	}
+	11081.1.1 = {
+		holder = ewe0006
+	}
+	11120.1.1 = {
+		holder = ewe0007
+	}
+	11159.1.1 = {
+		holder = ewe0008
+	}
+	11199.1.1 = {
+		holder = ewe0009
+	}
+	11235.1.1 = {
+		holder = ewe0010
+	}
+}
+
+c_afram = {
+	10867.1.1 = {	change_development_level = 4 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 7 }
+
+	10860.1.1 = {
+		holder = guan0011
+		liege = d_eweland
+		government = tribal_government
+	}
+	10912.1.1 = {
+		holder = guan0012
+	}
+	10970.1.1 = {
+		holder = guan0013
+	}
+	11025.1.1 = {
+		holder = guan0014
+	}
+	11060.1.1 = {
+		holder = guan0015
+	}
+	11095.1.1 = {
+		holder = guan0016
+	}
+	11127.1.1 = {
+		holder = guan0017
+	}
+	11158.1.1 = {
+		holder = guan0018
+	}
+	11189.1.1 = {
+		holder = guan0019
+	}
+	11228.1.1 = {
+		holder = guan0020
+	}
+}
+
+
+c_nanumba = {
+	10860.1.1 = {
+		holder = guan0021
+		government = tribal_government
+	}
+	10897.1.1 = {
+		holder = guan0022
+	}
+	10933.1.1 = {
+		holder = guan0023
+	}
+	10978.1.1 = {
+		holder = guan0024
+	}
+	11030.1.1 = {
+		holder = guan0025
+	}
+	11070.1.1 = {
+		holder = guan0026
+	}
+	11116.1.1 = {
+		holder = guan0027
+	}
+	11145.1.1 = {
+		holder = guan0028
+	}
+	11183.1.1 = {
+		holder = guan0029
+	}
+	11217.1.1 = {
+		holder = guan0030
+	}
+}
+
+d_adiukru = {
+	10867.1.1 = {	change_development_level = 0 }
+	11066.1.1 = { change_development_level = 1 }
+	11178.1.1 = { change_development_level = 3 }
+}
+
+c_boubo = {
+	10860.1.1 = {
+		government = tribal_government
+	}
+	
+	10860.1.1 = {
+		holder = kru0031
+		government = tribal_government
+	}
+	10908.1.1 = {
+		holder = kru0032
+	}
+	10962.1.1 = {
+		holder = kru0033
+	}
+	11012.1.1 = {
+		holder = kru0034
+	}
+	11053.1.1 = {
+		holder = kru0035
+	}
+	11098.1.1 = {
+		holder = kru0036
+	}
+	11120.1.1 = {
+		holder = kru0037
+	}
+	11156.1.1 = {
+		holder = kru0038
+	}
+	11188.1.1 = {
+		holder = kru0039
+	}
+	11222.1.1 = {
+		holder = kru0040
+	}
+}
+
+
+c_attie = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 4 }
+
+	10860.1.1 = {
+		holder = kru0021
+		government = tribal_government
+	}
+	10897.1.1 = {
+		holder = kru0022
+	}
+	10933.1.1 = {
+		holder = kru0023
+	}
+	10978.1.1 = {
+		holder = kru0024
+	}
+	11030.1.1 = {
+		holder = kru0025
+	}
+	11070.1.1 = {
+		holder = kru0026
+	}
+	11116.1.1 = {
+		holder = kru0027
+	}
+	11145.1.1 = {
+		holder = kru0028
+	}
+	11183.1.1 = {
+		holder = kru0029
+	}
+	11217.1.1 = {
+		holder = kru0030
+	}
+}
+
+
+c_dabou = {
+	10860.1.1 = {
+		holder = kru0001
+		government = tribal_government
+	}
+	10899.1.1 = {
+		holder = kru0002
+	}
+	10950.1.1 = {
+		holder = kru0003
+	}
+	11005.1.1 = {
+		holder = kru0004
+	}
+	11058.1.1 = {
+		holder = kru0005
+	}
+	11102.1.1 = {
+		holder = kru0006
+	}
+	11136.1.1 = {
+		holder = kru0007
+	}
+	11178.1.1 = {
+		holder = kru0008
+	}
+	11221.1.1 = {
+		holder = kru0009
+	}
+	11263.1.1 = {
+		holder = kru0010
+	}
+}
+
+
+c_aowin = {
+	10860.1.1 = {
+		government = tribal_government
+	}
+	
+	10850.1.1 = {
+		liege = 0
+		holder = akan0074
+	}
+	10865.1.1 = {
+		holder = akan0075
+	}
+	10922.1.1 = {
+		holder = akan0076
+	}
+	10980.1.1 = {
+		holder = akan0077
+	}
+	11030.1.1 = {
+		holder = akan0078
+	}
+	11064.1.1 = {
+		holder = akan0079
+	}
+	11098.1.1 = {
+		holder = akan0080
+	}
+	11138.1.1 = {
+		holder = akan0081
+	}
+	11173.1.1 = {
+		holder = akan0082
+	}
+	11203.1.1 = {
+		holder = akan0083
+	}
+	11235.1.1 = {
+		holder = akan0084
+	}
+}

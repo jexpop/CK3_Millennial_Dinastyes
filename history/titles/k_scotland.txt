@@ -1,0 +1,3627 @@
+k_scotland = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10210.1.1 = {
+		holder = 166513
+		government = tribal_government
+	}
+	10248.1.1 = {
+		holder = 166514
+	}
+	10271.1.1 = {
+		holder = 166515
+	}
+	10295.1.1 = {
+		holder = 166516
+	}
+	10304.1.1 = {
+		holder = 166517
+	}
+	10311.1.1 = {
+		holder = 166518
+	}
+	10341.1.1 = {
+		holder = 166519
+	}
+	10345.1.1 = {
+		holder = 166520
+	}
+	10347.1.1 = {
+		holder = 166521
+	}
+	10387.1.1 = {
+		holder = 166525
+	}
+	10412.1.1 = {
+		holder = 166527
+	}
+	10452.1.1 = {
+		holder = 166524
+	}
+	10456.1.1 = {
+		holder = 166528
+	}
+	10480.1.1 = {
+		holder = 166530
+	}
+	10510.1.1 = {
+		holder = 166531
+	}
+	10522.1.1 = {
+		holder = 166533
+	}
+	10530.1.1 = {
+		holder = 166535
+	}
+	10531.1.1 = {
+		holder = 166536
+	}
+	10537.1.1 = {
+		holder = 166537
+	}
+	10538.1.1 = {
+		holder = 166540
+	}
+	10549.1.1 = {
+		holder = 166541
+	}
+	10550.1.1 = {
+		holder = 166542
+	}
+	10555.1.1 = {
+		holder = 166545
+	}
+	10584.1.1 = {
+		holder = 166547
+	}
+	10595.1.1 = {
+		holder = 166549
+	}
+	10616.1.1 = {
+		holder = 166551
+	}
+	10631.1.1 = {
+		holder = 166555
+	}
+	10635.1.1 = {
+		holder = 166556
+	}
+	10641.1.1 = {
+		holder = 166557
+	}
+	10653.1.1 = {
+		holder = 166559
+	}
+	10657.1.1 = {
+		holder = 166561
+	}
+	10663.1.1 = {
+		holder = 166562
+	}
+	10672.1.1 = {
+		holder = 166566
+	}
+	10693.1.1 = {
+		holder = 166571
+	}
+	10697.1.1 = {
+		holder = 166573
+	}
+	10706.1.1 = {
+		holder = 166574
+	}
+	10724.1.1 = {
+		holder = 166575
+	}
+	10726.1.1 = {
+		holder = 166576
+	}
+	10728.1.1 = {
+		holder = 166574
+	}
+	10729.1.1 = {
+		holder = 166597
+	}
+	10736.1.1 = {
+		holder = 166598
+	}
+	10750.1.1 = {
+		holder = 166597
+	}
+	10761.1.1 = {
+		holder = 166599
+	}
+	10763.1.1 = {
+		holder = 166583
+	}
+	10775.1.1 = {
+		holder = 166584
+	}
+	10778.1.1 = {
+		holder = 166601
+	}
+	10782.1.1 = {
+		holder = 166600
+	}
+	10783.1.1 = {
+		holder = 166602
+	}
+	10785.1.1 = {
+		holder = 166586
+	}
+	10789.1.1 = {
+		holder = 166604
+	}
+	10820.1.1 = {
+		holder = 166605
+	}
+	10834.1.1 = {
+		holder = 166606
+	}
+	10837.1.1 = {
+		holder = 166588
+	}
+	10837.7.1 = {
+		holder = 166607
+	}
+	10839.1.1 = {
+		holder = 166590
+	}
+	10842.1.1 = {
+		holder = 166592
+	}
+	10843.7.1 = {
+		holder = 166593
+	}
+	10843.7.1 = {
+		holder = 166591
+	}
+	10845.1.1 = {
+		holder = 166594
+	}
+	#Scotland
+	10848.1.1 = {
+		holder = 6018
+		succession_laws = { gaelic_elective_succession_law }
+	}
+	10858.1.2 = {
+		holder = 6022
+	}
+	10863.1.2 = {
+		holder = 6016
+	}
+	10877.1.2 = {
+		holder = 6024
+	}
+	10889.1.1 = {
+		holder = 972
+	}
+	10900.1.2 = {
+		holder = 6026
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10943.1.2 = {
+		holder = 974
+	}
+	10954.1.2 = {
+		holder = 6028
+	}
+	10962.1.2 = {
+		holder = 978
+	}
+	10967.1.1 = {
+		holder = 6030
+	}
+	10971.1.2 = {
+		holder = 976
+	}
+	10971.1.2 = {
+		holder = 166621
+	}
+	10977.1.1 = {
+		holder = 976
+	}
+	10995.1.2 = {
+		holder = 6032
+	}
+	10997.1.2 = {
+		holder = 6004
+	}
+	11005.1.2 = {
+		holder = 980	#Malcolm II
+		remove_succession_laws = yes	#Abolished the Scottish elective
+		succession_laws = {
+			equal_law	#Clearly established his female heirs as valid.
+		}
+	}
+	11034.1.2 = {
+		holder = 982
+	}
+	11040.8.14 = {
+		holder = 5996 # MacBeth
+	}
+	11057.1.2 = {
+		holder = 6006 # Luilach the Fool
+	}
+	11058.1.1 = {
+		holder = 984 # Malcolm Canmore
+	}
+	11093.1.1 = {
+		holder = 986 # Donald the White
+	}
+	11094.5.1 = {
+		holder = 988
+	}
+	11094.11.12 = {
+		holder = 986
+	}
+	11097.1.1 = {
+		holder = 202968
+	}
+	11107.1.8 = {
+		holder = 232678
+	}
+	11124.4.1 = {
+		holder = 202998
+	}
+	11153.5.24 = {
+		holder = 203000
+	}
+	11165.5.24 = {
+		holder = 202999
+	}
+	11214.12.4 = {
+		holder = 6900
+	}
+	11249.7.6 = {
+		holder = 6902
+	}
+	11286.3.19 = {
+		holder = 6907
+	}
+	11290.9.1 = {
+		holder = 230524
+		succession_laws = { male_preference_law }	#The Great Cause
+	}
+	11296.1.1 = {
+		holder = 453501
+	}
+	11329.6.7 = {
+		holder = 453500
+	}
+}
+
+
+d_albany = {
+	10555.1.1 = {
+		holder = 166542
+	}
+	10580.1.1 = {
+		holder = 166553
+	}
+	10627.1.1 = {
+		holder = 166554
+	}
+	10668.1.1 = {
+		holder = 0
+	}
+	11058.1.1 = {
+		holder = 984 # Malcolm Canmore
+	}
+	11093.1.1 = {
+		holder = 986 # Donald the White
+	}
+	11094.5.1 = {
+		holder = 988
+	}
+	11094.11.12 = {
+		holder = 986
+	}
+	11097.1.1 = {
+		holder = 202968
+	}
+	11107.1.8 = {
+		holder = 232678
+	}
+	11124.4.1 = {
+		holder = 202998
+	}
+	11153.5.24 = {
+		holder = 203000
+	}
+	11165.5.24 = {
+		holder = 202999
+	}
+}
+
+c_gowrie = {
+	10867.1.1 = { change_development_level = 4 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10695.1.1 = {
+		liege = "d_moray"
+		holder = 166595
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 166597
+	}
+	10736.1.1 = {
+		holder = 166598
+	}
+	10750.1.1 = {
+		holder = 166597
+	}
+	10761.1.1 = {
+		holder = 166599
+	}
+	10763.1.1 = {
+		holder = 166603
+	}
+	10770.1.1 = {
+		holder = 166601
+	}
+	10782.1.1 = {
+		holder = 166600
+	}
+	10783.1.1 = {
+		holder = 166602
+	}
+	10785.1.1 = {
+		holder = 166604
+	}
+	10820.1.1 = {
+		holder = 166605
+	}
+	10834.1.1 = {
+		holder = 166606
+	}
+	10837.1.1 = {
+		holder = 166607
+	}
+	10839.1.1 = {
+		liege = "k_scotland"
+	}
+	10843.1.1 = {
+		holder = 6018
+	}
+	10858.1.1 = {
+		holder = 6022
+	}
+	10863.1.1 = {
+		holder = 6016
+	}
+	10877.1.1 = {
+		holder = 6024
+	}
+	10889.1.1 = {
+		holder = 972
+	}
+	10900.1.1 = {
+		holder = 6026
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10943.1.1 = {
+		holder = 974
+	}
+	10954.1.1 = {
+		holder = 6028
+	}
+	10962.1.1 = {
+		holder = 978
+	}
+	10967.1.1 = {
+		holder = 6030
+	}
+	10971.1.1 = {
+		holder = 976
+	}
+	10997.1.1 = {
+		holder = 6004
+	}
+	11005.1.1 = {
+		holder = 980
+	}
+	11034.1.1 = {
+		holder = 982
+	}
+	11040.1.1 = {
+		holder = 5996
+	}
+	11057.1.1 = {
+		holder = 6006
+	}
+	11058.1.1 = {
+		holder = 984
+	}
+	11093.1.1 = {
+		holder = 986
+	}
+	11094.5.1 = {
+		holder = 988
+	}
+	11094.11.12 = {
+		holder = 986
+	}
+	11097.1.1 = {
+		holder = 202968
+	}
+	11107.1.8 = {
+		holder = 232678
+	}
+	11124.4.1 = {
+		holder = 202998
+	}
+	11153.5.24 = {
+		holder = 203000
+	}
+	11165.5.24 = {
+		holder = 202999
+	}
+	11214.12.4 = {
+		holder = 6900
+	}
+	11249.7.6 = {
+		holder = 6902
+	}
+	11286.3.19 = {
+		holder = 6907
+	}
+	11290.9.1 = {
+		holder = 230524
+	}
+	11296.1.1 = {
+		holder = 453501
+	}
+	11329.6.7 = {
+		holder = 453500
+	}
+}
+
+
+c_fife = {
+	10210.1.1 = {
+		liege = "k_scotland"
+		holder = 166513
+		government = tribal_government
+	}
+	10248.1.1 = {
+		holder = 166514
+	}
+	10271.1.1 = {
+		holder = 166515
+	}
+	10295.1.1 = {
+		holder = 166516
+	}
+	10304.1.1 = {
+		holder = 166517
+	}
+	10311.1.1 = {
+		holder = 166518
+	}
+	10341.1.1 = {
+		holder = 166519
+	}
+	10345.1.1 = {
+		holder = 166520
+	}
+	10347.1.1 = {
+		holder = 166521
+	}
+	10387.1.1 = {
+		holder = 166525
+	}
+	10412.1.1 = {
+		holder = 166527
+	}
+	10452.1.1 = {
+		holder = 166524
+	}
+	10456.1.1 = {
+		holder = 166528
+	}
+	10480.1.1 = {
+		holder = 166530
+	}
+	10510.1.1 = {
+		holder = 166531
+	}
+	10522.1.1 = {
+		holder = 166533
+	}
+	10530.1.1 = {
+		holder = 166535
+	}
+	10531.1.1 = {
+		holder = 166536
+	}
+	10537.1.1 = {
+		holder = 166537
+	}
+	10538.1.1 = {
+		holder = 166540
+	}
+	10549.1.1 = {
+		holder = 166541
+	}
+	10550.1.1 = {
+		holder = 166542
+	}
+	10555.1.1 = {
+		liege = "d_albany"
+	}
+	10580.1.1 = {
+		holder = 166553
+	}
+	10627.1.1 = {
+		holder = 166554
+	}
+	10668.1.1 = {
+		liege = "k_scotland"
+		holder = 166577
+	}
+	10673.1.1 = {
+		holder = 166578
+	}
+	10687.1.1 = {
+		holder = 166579
+	}
+	10712.1.1 = {
+		holder = 166580
+	}
+	10737.1.1 = {
+		holder = 166581
+	}
+	10742.1.1 = {
+		holder = 166583
+	}
+	10775.1.1 = {
+		holder = 166584
+	}
+	10780.1.1 = {
+		holder = 166585
+	}
+	10785.1.1 = {
+		holder = 166586
+	}
+	10807.1.1 = {
+		holder = 166587
+	}
+	10810.1.1 = {
+		holder = 166588
+	}
+	10837.1.1 = {
+		holder = 166589
+	}
+	10839.1.1 = {
+		holder = 166590
+	}
+	10842.1.1 = {
+		holder = 166592
+	}
+	10843.1.1 = {
+		holder = 166593
+	}
+	10844.1.1 = {
+		holder = 166591
+	}
+	10845.1.1 = {
+		holder = 166594
+	}
+	10848.1.1 = {
+		liege = "k_scotland"
+		holder = 6018
+	}
+	10858.1.1 = {
+		liege = "k_scotland"
+	}
+	10858.1.1 = {
+		holder = 183511
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 131002
+	}
+	11098.1.1 = {
+		holder = 131004
+	}
+	11128.1.1 = {
+		holder = 202978
+	}
+	11133.1.1 = {
+		holder = 202977
+	}
+	11154.1.1 = {
+		holder = 203010
+	}
+	11204.1.1 = {
+		holder = 203033
+	}
+	11228.1.1 = {
+		holder = 7398
+	}
+	11266.1.1 = {
+		holder = 7399
+	}
+	11270.1.1 = {
+		holder = 453065
+	}
+	11288.1.1 = {
+		holder = 453010
+	}
+}
+
+
+c_strathearn = {
+	10210.1.1 = {
+		liege = "k_scotland"
+		holder = 166513
+		government = tribal_government
+	}
+	10248.1.1 = {
+		holder = 166514
+	}
+	10271.1.1 = {
+		holder = 166515
+	}
+	10295.1.1 = {
+		holder = 166516
+	}
+	10304.1.1 = {
+		holder = 166517
+	}
+	10311.1.1 = {
+		holder = 166518
+	}
+	10341.1.1 = {
+		holder = 166519
+	}
+	10345.1.1 = {
+		holder = 166520
+	}
+	10347.1.1 = {
+		holder = 166521
+	}
+	10387.1.1 = {
+		holder = 166525
+	}
+	10412.1.1 = {
+		holder = 166527
+	}
+	10452.1.1 = {
+		holder = 166524
+	}
+	10456.1.1 = {
+		holder = 166528
+	}
+	10480.1.1 = {
+		holder = 166530
+	}
+	10510.1.1 = {
+		holder = 166531
+	}
+	10522.1.1 = {
+		holder = 166533
+	}
+	10530.1.1 = {
+		holder = 166535
+	}
+	10531.1.1 = {
+		holder = 166536
+	}
+	10537.1.1 = {
+		holder = 166537
+	}
+	10538.1.1 = {
+		holder = 166540
+	}
+	10549.1.1 = {
+		holder = 166541
+	}
+	10550.1.1 = {
+		holder = 166542
+	}
+	10555.1.1 = {
+		liege = "d_albany"
+	}
+	10580.1.1 = {
+		holder = 166553
+	}
+	10627.1.1 = {
+		holder = 166554
+	}
+	10668.1.1 = {
+		liege = "k_scotland"
+		holder = 166577
+	}
+	10673.1.1 = {
+		holder = 166578
+	}
+	10687.1.1 = {
+		holder = 166579
+	}
+	10712.1.1 = {
+		holder = 166580
+	}
+	10737.1.1 = {
+		holder = 166581
+	}
+	10742.1.1 = {
+		holder = 166583
+	}
+	10775.1.1 = {
+		holder = 166584
+	}
+	10780.1.1 = {
+		holder = 166585
+	}
+	10785.1.1 = {
+		holder = 166586
+	}
+	10807.1.1 = {
+		holder = 166587
+	}
+	10810.1.1 = {
+		holder = 166588
+	}
+	10837.1.1 = {
+		holder = 166589
+	}
+	10839.1.1 = {
+		holder = 166590
+	}
+	10842.1.1 = {
+		holder = 166592
+	}
+	10843.1.1 = {
+		holder = 166593
+	}
+	10844.1.1 = {
+		holder = 166591
+	}
+	10845.1.1 = {
+		holder = 166594
+	}
+	10848.1.1 = {
+		liege = "k_scotland"
+		holder = 6018
+	}
+	10858.1.1 = {
+		holder = 183528
+		liege = k_scotland
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11040.1.1 = {
+		holder = 82011
+	}
+	11085.1.2 = {
+		holder = 82012
+	}
+	11112.1.2 = {
+		holder = 82013
+	}
+	11150.1.2 = {
+		holder = 82014
+	}
+	11171.1.2 = {
+		holder = 82016
+	}
+	11223.1.1 = {
+		holder = 82023
+	}
+	11245.7.1 = {
+		holder = 82030
+	}
+	11271.9.1 = {
+		holder = 82033
+	}
+	11313.1.28 = {
+		holder = 450821
+	}
+	11329.1.1 = {
+		holder = 450820 #Mael-Iosa
+	}
+	11334.6.1 = {
+		holder = 453500
+	}
+}
+
+
+c_atholl = {
+	10760.1.1 = {
+		liege = "d_moray"
+		holder = 166618
+		government = tribal_government
+	}
+	10848.1.1 = {
+		liege = "k_scotland"
+		holder = 6018
+	}
+	10858.1.1 = {
+		holder = 183518
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11058.1.1 = {
+		liege = k_scotland
+		holder = 994
+	}
+	11130.1.1 = {
+		holder = 7390
+	}
+	11153.1.1 = {
+		holder = 7389
+	}
+	11190.1.1 = {
+		holder = 7411
+	}
+	11211.1.1 = {
+		holder = 7384
+	}
+	11235.1.1 = {
+		holder = 7383
+	}
+	11242.1.1 = {
+		holder = 7385
+	}
+	11254.1.1 = {
+		holder = 7370
+	}
+	11264.1.1 = {
+		holder = 7366
+	}
+	11270.8.6 = {
+		holder = 453038
+	}
+	11306.11.7 = {
+		holder = 453039
+	}
+	11308.1.1 = {
+		holder = 453501 # Robert de Bruce
+	}
+	11320.1.1 = {
+		holder = 453075 # John Campbell
+	}
+	11333.7.19 = {
+		holder = 453500 # David II of Scotland
+	}
+}
+
+
+c_angus = {
+	10695.1.1 = {
+		liege = "d_moray"
+		holder = 166595
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 166597
+	}
+	10736.1.1 = {
+		holder = 166598
+	}
+	10750.1.1 = {
+		holder = 166597
+	}
+	10761.1.1 = {
+		holder = 166599
+	}
+	10763.1.1 = {
+		holder = 166603
+	}
+	10770.1.1 = {
+		holder = 166601
+	}
+	10782.1.1 = {
+		holder = 166600
+	}
+	10783.1.1 = {
+		holder = 166602
+	}
+	10785.1.1 = {
+		holder = 166604
+	}
+	10820.1.1 = {
+		holder = 166605
+	}
+	10834.1.1 = {
+		holder = 166606
+	}
+	10837.1.1 = {
+		holder = 166607
+	}
+	10839.1.1 = {
+		liege = "k_scotland"
+	}
+	10843.1.1 = {
+		holder = 6018
+	}
+	10858.1.1 = {
+		holder = 6022
+	}
+	10863.1.1 = {
+		holder = 6016
+	}
+	10877.1.1 = {
+		holder = 6024
+	}
+	10889.1.1 = {
+		holder = 972
+	}
+	10900.1.1 = {
+		holder = 6026
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10943.1.1 = {
+		holder = 974
+	}
+	10954.1.1 = {
+		holder = 6028
+	}
+	10962.1.1 = {
+		holder = 978
+	}
+	10967.1.1 = {
+		holder = 6030
+	}
+	10971.1.1 = {
+		holder = 976
+	}
+	10997.1.1 = {
+		holder = 6004
+	}
+	11005.1.1 = {
+		holder = 980
+	}
+	11034.1.1 = {
+		holder = 982
+	}
+	11040.1.1 = {
+		holder = 5996
+	}
+	11057.1.1 = {
+		holder = 6006
+	}
+	11058.1.1 = {
+		liege = k_scotland
+		holder = 994
+	}
+	11093.1.1 = {
+		holder = 986
+	}
+	11094.5.1 = {
+		holder = 988
+	}
+	11094.11.12 = {
+		holder = 986
+	}
+	11097.1.1 = {
+		holder = 202968
+	}
+	11107.1.8 = {
+		holder = 232678
+	}
+	11124.4.1 = {
+		holder = 202998
+	}
+	11150.1.1 = {
+		holder = 203021 # Gille Brigte, Earl of Angus
+	}
+	11214.12.4 = {
+		holder = 6900
+	}
+	11249.7.6 = {
+		holder = 6902
+	}
+	11286.3.19 = {
+		holder = 6907
+	}
+	11290.9.1 = {
+		holder = 230524
+	}
+	11296.1.1 = {
+		holder = 453501
+	}
+	11329.6.7 = {
+		holder = 453500
+	}
+
+}
+
+
+c_mearns = {
+	10867.1.1 = { change_development_level = 4 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10695.1.1 = {
+		liege = "d_moray"
+		holder = 166595
+		government = tribal_government
+	}
+	10725.1.1 = {
+		holder = 166597
+	}
+	10736.1.1 = {
+		holder = 166598
+	}
+	10750.1.1 = {
+		holder = 166597
+	}
+	10761.1.1 = {
+		holder = 166599
+	}
+	10763.1.1 = {
+		holder = 166603
+	}
+	10770.1.1 = {
+		holder = 166601
+	}
+	10782.1.1 = {
+		holder = 166600
+	}
+	10783.1.1 = {
+		holder = 166602
+	}
+	10785.1.1 = {
+		holder = 166604
+	}
+	10820.1.1 = {
+		holder = 166605
+	}
+	10834.1.1 = {
+		holder = 166606
+	}
+	10837.1.1 = {
+		holder = 166607
+	}
+	10839.1.1 = {
+		liege = "k_scotland"
+	}
+	10843.1.1 = {
+		holder = 6018
+	}
+	10858.1.1 = {
+		holder = 6022
+	}
+	10863.1.1 = {
+		holder = 6016
+	}
+	10877.1.1 = {
+		holder = 6024
+	}
+	10889.1.1 = {
+		holder = 972
+	}
+	10900.1.1 = {
+		holder = 6026
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10943.1.1 = {
+		holder = 974
+	}
+	10954.1.1 = {
+		holder = 6028
+	}
+	10962.1.1 = {
+		holder = 978
+	}
+	10967.1.1 = {
+		holder = 6030
+	}
+	10971.1.1 = {
+		holder = 976
+	}
+	10997.1.1 = {
+		holder = 6004
+	}
+	11005.1.1 = {
+		holder = 980
+	}
+	11034.1.1 = {
+		holder = 982
+	}
+	11040.1.1 = {
+		holder = 5996
+	}
+	11057.1.1 = {
+		holder = 6006
+	}
+	11058.1.1 = {
+		liege = k_scotland
+		holder = 994
+	}
+	11093.1.1 = {
+		holder = 986
+	}
+	11094.5.1 = {
+		holder = 988
+	}
+	11094.11.12 = {
+		holder = 986
+	}
+	11097.1.1 = {
+		holder = 202968
+	}
+	11107.1.8 = {
+		holder = 232678
+	}
+	11124.4.1 = {
+		holder = 202998
+	}
+	11153.5.24 = {
+		holder = 203000
+	}
+	11165.5.24 = {
+		holder = 202999
+	}
+	11214.12.4 = {
+		holder = 6900
+	}
+	11249.7.6 = {
+		holder = 6902
+	}
+	11286.3.19 = {
+		holder = 6907
+	}
+	11290.9.1 = {
+		holder = 230524
+	}
+	11296.1.1 = {
+		holder = 453501
+	}
+	11329.6.7 = {
+		holder = 453500
+	}
+
+}
+
+
+d_the_isles = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 11 }
+	
+	10431.1.1 = {
+		holder = 159935 #Dingad ap Tudwal
+		government = tribal_government
+	}
+	10481.1.1 = {
+		holder = 159936 #Senyllt ap Dingad
+	}
+	10501.1.1 = {
+		holder = 159937 #Neithon ap Senyllt
+	}
+	10549.1.1 = {
+		holder = 159938 #Rhun ap Neithon
+	}
+	10577.1.1 = {
+		holder = 159939 #Tudwal ap Rhun
+	}
+	10598.1.1 = {
+		holder = 159940 #Anllech ap Tudwal
+	}
+	10634.1.1 = {
+		holder = 159941 #Cynin ap Anllech
+	}
+	10650.1.1 = {
+		holder = 159942 #Merfyn ap Cynin
+	}
+	10681.1.1 = {
+		holder = 159943 #Anarawd Gwalchcrwn ap Merfyn
+	}
+	10691.1.1 = {
+		holder = 159934 #Tudwal ap Anarawd
+	}
+	10720.1.1 = {
+		holder = 159029 #Sandde ap Algwyn
+	}
+	10730.1.1 = {
+		holder = 159028 #Elidyr ap Sandde
+	}
+	10800.1.1 = {
+		holder = 159026 #Gwriad ap Elidyr, King of Manaw
+	}
+	10825.1.1 = {
+		holder = 159027 #Merfyn ap Gwriad, father of Rhodri Mawr
+	}
+	10836.1.1 = {
+		holder = 0
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11164.1.1 = {
+		holder = 220021 # Gudrod Crovan
+	}
+}
+
+
+c_isle_of_man = {
+	10431.1.1 = {
+		holder = 159935 #Dingad ap Tudwal
+		government = tribal_government
+	}
+	10481.1.1 = {
+		holder = 159936 #Senyllt ap Dingad
+	}
+	10501.1.1 = {
+		holder = 159937 #Neithon ap Senyllt
+	}
+	10549.1.1 = {
+		holder = 159938 #Rhun ap Neithon
+	}
+	10577.1.1 = {
+		holder = 159939 #Tudwal ap Rhun
+	}
+	10598.1.1 = {
+		holder = 159940 #Anllech ap Tudwal
+	}
+	10634.1.1 = {
+		holder = 159941 #Cynin ap Anllech
+	}
+	10650.1.1 = {
+		holder = 159942 #Merfyn ap Cynin
+	}
+	10681.1.1 = {
+		holder = 159943 #Anarawd Gwalchcrwn ap Merfyn
+	}
+	10691.1.1 = {
+		holder = 159934 #Tudwal ap Anarawd
+	}
+	10720.1.1 = {
+		holder = 159029 #Sandde ap Algwyn
+	}
+	10730.1.1 = {
+		holder = 159028 #Elidyr ap Sandde
+	}
+	#10750.1.1 = {
+	#	de_jure_liege = "d_gwynedd"
+	#}
+	10800.1.1 = {
+		holder = 159026 #Gwriad ap Elidyr, King of Manaw
+	}
+	10825.1.1 = {
+		holder = 159027 #Merfyn ap Gwriad, father of Rhodri Mawr
+	}
+	#10839.1.1 = {
+	#	de_jure_liege = "d_western_isles"
+	#}
+	10855.1.1 = {
+		liege = "d_western_isles"
+		holder = 168610
+	}
+	10935.1.1 = {
+		liege = 0
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 131524
+	}
+	11074.1.1 = {
+		holder = 131526
+	}
+	
+	11079.1.1 = {
+		holder = 5788
+	}
+	11099.1.1 = {
+		holder = 202511
+	}
+	11103.1.25 = {
+		holder = 7395
+	}
+	11110.1.1 = {
+		holder = 220023
+	}
+	11153.1.1 = {
+		holder = 220021 # Gudrod Crovan
+	}
+	11164.1.1 = {
+		liege = 0
+	}
+	11187.11.23 = {
+		holder = 220022
+	}
+	11229.1.1 = {
+		holder = 220046
+	}
+	11237.1.1 = {
+		holder = 7394
+	}
+	11248.1.1 = {
+		holder = 7393
+	}
+	11249.1.1 = {
+		holder = 7392
+	}
+	11266.1.1 = {
+		liege = "k_scotland"
+		holder = 6902
+	}
+	11286.3.19 = {
+		liege = "k_england"
+		holder = 454520
+	}
+	11293.1.1 = {
+		liege = "k_scotland"
+		holder = 230524
+	}
+	11296.1.1 = {
+		liege = "k_england"
+		holder = 454520
+	}
+	11307.1.2 = {
+		holder = 454510
+	}
+	11317.1.1 = {
+		liege = "k_scotland"
+		holder = 453501
+	}
+	11329.6.7 = {
+		liege = "k_england"
+		holder = 420021
+	}
+
+}
+
+
+d_galloway = {
+	10355.1.1 = {
+		holder = 166466
+	}
+	10384.1.1 = {
+		holder = 166465
+	}
+	10412.1.1 = {
+		holder = 166464
+	}
+	10436.1.1 = {
+		holder = 166463
+	}
+	10488.1.1 = {
+		holder = 166462
+	}
+	10501.1.1 = {
+		holder = 166461
+	}
+	10525.1.1 = {
+		holder = 166459
+	}
+	10535.1.1 = {
+		holder = 166458
+	}
+	10562.1.1 = {
+		holder = 166457
+	}
+	10612.1.1 = {
+		holder = 166456
+	}
+	10618.1.1 = {
+		holder = 166455
+	}
+	10620.1.1 = {
+		holder = 166454
+	}
+	10627.1.1 = {
+		holder = 166453
+	}
+	10652.1.1 = {
+		holder = 166452
+	}
+	10658.1.1 = {
+		holder = 166451
+	}
+	10686.1.1 = {
+		holder = 166450
+	}
+	10694.1.1 = {
+		holder = 166449
+	}
+	10722.1.1 = {
+		holder = 166448
+	}
+	10752.1.1 = {
+		holder = 159021
+	}
+	10754.1.1 = {
+		holder = 166447
+	}
+	10760.1.1 = {
+		holder = 166446
+	}
+	10804.1.1 = {
+		holder = 166445
+	}
+	10835.1.1 = {
+		holder = 166444
+	}
+	10851.1.1 = {
+		holder = 163104
+	}
+	10872.1.1 = {
+		holder = 166442
+	}
+	10878.1.1 = {
+		holder = 166441
+	}
+	10889.1.1 = {
+		holder = 166440
+	}
+	10916.1.1 = {
+		holder = 166439
+	}
+	10934.1.1 = {
+		holder = 166438
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10937.1.1 = {
+		holder = 166439
+	}
+	10941.1.1 = {
+		holder = 166437
+	}
+	10973.1.1 = {
+		holder = 166434
+	}
+	10997.1.1 = {
+		holder = 131110
+	}
+	11018.1.2 = {
+		holder = 166433
+	}
+	11054.1.1 = {
+		liege = k_scotland
+	}
+	11098.1.1 = {
+		holder = 203560
+	}
+	11161.1.1 = {
+		holder = 203555
+	}
+	11174.1.1 = {
+		holder = 203570
+	}
+	11178.1.1 = {
+		name = GALLOWAY
+	}
+	11200.12.12 = {
+		holder = 203572
+	}
+	11236.1.2 = {
+		holder = 0
+	}
+}
+
+
+c_galloway = {
+	10765.1.1 = {
+		liege = "d_northumberland"
+		holder = 205246
+		government = tribal_government
+	}
+	10849.1.1 = {
+		liege = "d_galloway"
+	}
+	10849.1.1 = {
+		holder = 163104
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.2 = {
+		liege = "d_western_isles"
+	}
+	11066.1.3 = {
+		holder = 131525
+	}
+	11072.1.1 = {
+		holder = 131526
+	}
+	11098.1.1 = {
+		liege = "d_galloway"
+	}
+	11098.1.1 = {
+		holder = 203560
+	}
+	11161.1.1 = {
+		holder = 203555
+	}
+	11174.1.1 = {
+		holder = 203570
+	}
+	11200.12.12 = {
+		holder = 203572
+	}
+	11236.1.2 = {
+		liege = k_scotland
+		holder = 230523
+	}
+	11268.10.25 = {
+		holder = 230524
+	}
+	11296.1.1 = {
+		holder = 453501
+	}
+	11329.6.7 = {
+		holder = 453500
+	}
+}
+
+
+c_carrick = {
+	10765.1.1 = {
+		liege = "d_northumberland"
+		holder = 205246
+		government = tribal_government
+	}
+	10849.1.1 = {
+		liege = "d_galloway"
+	}
+	10849.1.1 = {
+		holder = 163104
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "d_western_isles"
+	}
+	11066.1.1 = {
+		holder = 131526
+	}
+	11093.1.1 = {
+		holder = 5788
+	}
+	11098.1.1 = {
+		liege = "d_galloway"
+	}
+	11098.1.1 = {
+		holder = 203560
+	}
+	11161.1.1 = {
+		holder = 203555
+	}
+	11174.1.1 = {
+		holder = 203550
+	}
+	11185.1.2 = {
+		holder = 203540
+	}
+	11236.1.2 = {
+		liege = k_scotland
+	}
+	11250.1.2 = {
+		holder = 203542
+	}
+	11256.1.2 = {
+		holder = 203543
+	}
+	11292.11.9 = {
+		holder = 453501
+	}
+	11314.1.1 = {
+		holder = 453515
+	}
+	11318.1.1 = {
+		holder = 453501
+	}
+	11328.1.1 = {
+		holder = 453500
+	}
+	11329.6.7 = {
+		holder = 453517
+	}
+	11333.1.1 = {
+		holder = 453518
+	}
+}
+
+
+c_ayrshire = {
+	10765.1.1 = {
+		liege = "d_northumberland"
+		holder = 205246
+		government = tribal_government
+	}
+	10849.1.1 = {
+		liege = "d_galloway"
+	}
+	10849.1.1 = {
+		holder = 163104
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11058.1.1 = {
+		holder = 984 # Malcolm Canmore
+	}
+	11066.1.1 = {
+		liege = "d_western_isles"
+	}
+	11066.1.1 = {
+		holder = 131526
+	}
+	11093.1.1 = {
+		holder = 5788
+	}
+	11098.1.1 = {
+		liege = "d_galloway"
+	}
+	11098.1.1 = {
+		holder = 203560
+	}
+	11161.1.1 = {
+		holder = 203027 # Walter Stewart
+		liege = k_scotland
+	}
+	11177.1.1 = {
+		holder = 203011 # Alan Stewart
+	}
+	11185.1.2 = {
+		holder = 203540
+	}
+	11250.1.2 = {
+		holder = 203542
+	}
+	11256.1.2 = {
+		holder = 203543
+	}
+	11292.11.9 = {
+		holder = 453501
+	}
+	11314.1.1 = {
+		holder = 453515
+	}
+	11318.1.1 = {
+		holder = 453501
+	}
+	11328.1.1 = {
+		holder = 453500
+	}
+	11329.6.7 = {
+		holder = 453517
+	}
+	11333.1.1 = {
+		holder = 453518
+	}
+	
+
+}
+
+
+c_annandale = {
+	10765.1.1 = {
+		holder = 205050
+		liege = d_northumberland
+	}
+	10862.1.1 = {
+		holder = 163103
+	}
+	10867.1.1 = {
+		holder = 6875 # Aelfgar
+	}
+	11018.1.2 = {
+		holder = 166433
+	}
+	11113.1.1 = {
+		holder = 144949 # Robert de Brus, 1st Lord of Annandale
+		liege = "k_scotland"
+	}
+	11141.1.1 = {
+		holder = 144948 # Robert de Brus, 2nd Lord of Annandale
+	}
+}
+
+
+c_lennox = {
+	10355.1.1 = {
+		holder = 166466
+	}
+	10384.1.1 = {
+		holder = 166465
+	}
+	10412.1.1 = {
+		holder = 166464
+	}
+	10436.1.1 = {
+		holder = 166463
+	}
+	10488.1.1 = {
+		holder = 166462
+	}
+	10501.1.1 = {
+		holder = 166461
+	}
+	10525.1.1 = {
+		holder = 166459
+	}
+	10535.1.1 = {
+		holder = 166458
+	}
+	10562.1.1 = {
+		holder = 166457
+	}
+	10612.1.1 = {
+		holder = 166456
+	}
+	10618.1.1 = {
+		holder = 166455
+	}
+	10620.1.1 = {
+		holder = 166454
+	}
+	10627.1.1 = {
+		holder = 166453
+	}
+	10652.1.1 = {
+		holder = 166452
+	}
+	10658.1.1 = {
+		holder = 166451
+	}
+	10686.1.1 = {
+		holder = 166450
+	}
+	10694.1.1 = {
+		holder = 166449
+	}
+	10722.1.1 = {
+		holder = 166448
+	}
+	10752.1.1 = {
+		holder = 159021
+	}
+	10754.1.1 = {
+		holder = 166447
+	}
+	10760.1.1 = {
+		holder = 166446
+	}
+	10804.1.1 = {
+		holder = 166445
+	}
+	10835.1.1 = {
+		holder = 166444
+	}
+	10851.1.1 = {
+		holder = 163104
+	}
+	10872.1.1 = {
+		holder = 166442
+	}
+	10878.1.1 = {
+		holder = 166441
+	}
+	10889.1.1 = {
+		holder = 166440
+	}
+	10916.1.1 = {
+		holder = 166439
+	}
+	10934.1.1 = {
+		holder = 166438
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	10937.1.1 = {
+		holder = 166439
+	}
+	10941.1.1 = {
+		holder = 166437
+	}
+	10973.1.1 = {
+		holder = 166434
+	}
+	10997.1.1 = {
+		holder = 131110
+	}
+	11018.1.2 = {
+		holder = 166433
+	}
+	11058.1.1 = {
+		holder = 984 # Malcolm Canmore
+	}
+	11178.1.1 = {
+		holder = 203520 # Granted to David of Scotland by his brother, King William
+		liege = "k_scotland"
+	}
+}
+
+
+d_western_isles = {
+	#Dal Riata
+	10490.1.1 = {
+		holder = 166468
+		government = tribal_government
+	}
+	10497.1.1 = {
+		holder = 83574
+	}
+	10501.1.1 = {
+		holder = 83575
+	}
+	10507.1.1 = {
+		holder = 166469
+	}
+	10540.1.1 = {
+		holder = 83576
+	}
+	10560.1.1 = {
+		holder = 166470
+	}
+	10574.1.1 = {
+		holder = 83577
+	}
+	10606.1.1 = {
+		holder = 166471
+	}
+	10622.1.1 = {
+		holder = 83578
+	}
+	10629.7.1 = {
+		holder = 83579
+	}
+	10642.1.1 = {
+		holder = 166472
+	}
+	10649.1.1 = {
+		holder = 166474
+	}
+	10654.1.1 = {
+		holder = 166475
+	}
+	10660.1.1 = {
+		holder = 83580
+	}
+	10672.1.1 = {
+		holder = 166476
+	}
+	10689.1.1 = {
+		holder = 166477
+	}
+	10696.1.1 = {
+		holder = 166484
+	}
+	10697.1.1 = {
+		holder = 83581
+	}
+	10697.7.1 = {
+		holder = 166485
+	}
+	10698.1.1 = {
+		holder = 166489
+	}
+	10700.1.1 = {
+		holder = 166490
+	}
+	10707.1.1 = {
+		holder = 166491
+	}
+	10721.1.1 = {
+		holder = 166486
+	}
+	10723.1.1 = {
+		holder = 166492
+	}
+	10726.1.1 = {
+		holder = 83582
+	}
+	10733.1.1 = {
+		holder = 166493
+	}
+	10736.1.1 = {
+		liege = "k_scotland"
+	}
+	10736.1.1 = {
+		holder = 166494
+	}
+	10738.1.1 = {
+		holder = 166495
+	}
+	10740.1.1 = {
+		holder = 166496
+	}
+	10741.1.1 = {
+		holder = 166498
+	}
+	10749.1.1 = {
+		holder = 166499
+	}
+	10762.1.1 = {
+		liege = 0
+	}
+	10762.1.1 = {
+		holder = 83583
+	}
+	10778.1.1 = {
+		holder = 166508
+	}
+	10781.1.1 = {
+		holder = 83584
+	}
+	10791.1.1 = {
+		holder = 166500
+	}
+	10792.1.1 = {
+		holder = 166509
+	}
+	10794.1.1 = {
+		holder = 166501
+	}
+	10805.1.1 = {
+		holder = 166504
+	}
+	10807.1.1 = {
+		holder = 166507
+	}
+	10811.1.1 = {
+		holder = 166510
+	}
+	10833.1.1 = {
+		holder = 166511
+	}
+	10834.1.1 = {
+		holder = 166512
+	}
+	10835.1.1 = {
+		holder = 166503
+	}
+	10836.1.1 = {
+		holder = 6020
+	}
+	10836.7.1 = {
+		holder = 6018
+	}
+	10843.1.1 = {
+		liege = "k_scotland"
+	}
+	10843.1.1 = {
+		holder = 166506
+	}
+	10855.1.1 = {
+		liege = 0
+	}
+	10855.1.1 = {
+		holder = 163111 #Ivar the Boneless
+	}
+	10873.1.6 = {
+		holder = 6814 #Barid
+	}
+	10881.1.1 = {
+		holder = 40609 #SigfroT_
+	}
+	10888.1.1 = {
+		holder = 40608 #Sigtrygg
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 5788
+	}
+	11099.1.1 = {
+		liege = "k_norway"
+	}
+	11099.1.1 = {
+		holder = 202511
+	}
+	11103.1.25 = {
+		holder = 7395
+	}
+	11110.1.1 = {
+		holder = 220023
+	}
+	11153.1.1 = {
+		holder = 220021 # Gudrod Crovan
+	}
+	11158.1.1 = {
+		holder = 220027
+	}
+	11164.1.1 = {
+		holder = 220019
+		liege = 0
+	}
+	11198.1.1 = {
+		holder = 220031
+	}
+	11249.1.1 = {
+		holder = 7391
+	}
+	11266.1.1 = {
+		liege = "k_scotland"
+	}
+	11296.1.1 = {
+		holder = 453055
+	}
+	11330.1.1 = {
+		holder = 420019
+	}
+}
+
+
+c_inner_hebrides = {
+	#Dal Riata
+	10490.1.1 = {
+		holder = 166468
+		government = tribal_government
+	}
+	10497.1.1 = {
+		holder = 83574
+	}
+	10501.1.1 = {
+		holder = 83575
+	}
+	10507.1.1 = {
+		holder = 166469
+	}
+	10540.1.1 = {
+		holder = 83576
+	}
+	10560.1.1 = {
+		holder = 166470
+	}
+	10574.1.1 = {
+		holder = 83577
+	}
+	10606.1.1 = {
+		holder = 166471
+	}
+	10622.1.1 = {
+		holder = 83578
+	}
+	10629.7.1 = {
+		holder = 83579
+	}
+	10642.1.1 = {
+		holder = 166472
+	}
+	10649.1.1 = {
+		holder = 166474
+	}
+	10654.1.1 = {
+		holder = 166475
+	}
+	10660.1.1 = {
+		holder = 83580
+	}
+	10672.1.1 = {
+		holder = 166476
+	}
+	10689.1.1 = {
+		holder = 166477
+	}
+	10696.1.1 = {
+		holder = 166484
+	}
+	10697.1.1 = {
+		holder = 83581
+	}
+	10697.7.1 = {
+		holder = 166485
+	}
+	10698.1.1 = {
+		holder = 166489
+	}
+	10700.1.1 = {
+		holder = 166490
+	}
+	10707.1.1 = {
+		holder = 166491
+	}
+	10721.1.1 = {
+		holder = 166486
+	}
+	10723.1.1 = {
+		holder = 166492
+	}
+	10726.1.1 = {
+		holder = 83582
+	}
+	10733.1.1 = {
+		holder = 166493
+	}
+	10736.1.1 = {
+		liege = "k_scotland"
+	}
+	10736.1.1 = {
+		holder = 166494
+	}
+	10738.1.1 = {
+		holder = 166495
+	}
+	10740.1.1 = {
+		holder = 166496
+	}
+	10741.1.1 = {
+		holder = 166498
+	}
+	10749.1.1 = {
+		holder = 166499
+	}
+	10762.1.1 = {
+		liege = 0
+	}
+	10762.1.1 = {
+		holder = 83583
+	}
+	10778.1.1 = {
+		holder = 166508
+	}
+	10781.1.1 = {
+		holder = 83584
+	}
+	10791.1.1 = {
+		holder = 166500
+	}
+	10792.1.1 = {
+		holder = 166509
+	}
+	10794.1.1 = {
+		holder = 166501
+	}
+	10805.1.1 = {
+		holder = 166504
+	}
+	10807.1.1 = {
+		holder = 166507
+	}
+	10811.1.1 = {
+		holder = 166510
+	}
+	10833.1.1 = {
+		holder = 166511
+	}
+	10834.1.1 = {
+		holder = 166512
+	}
+	10835.1.1 = {
+		holder = 166503
+	}
+	10836.1.1 = {
+		holder = 6020
+	}
+	10836.7.1 = {
+		holder = 6018
+	}
+	10843.1.1 = {
+		liege = "k_scotland"
+	}
+	10843.1.1 = {
+		holder = 166506
+	}
+	10855.1.1 = {
+		liege = 0
+	}
+	10855.1.1 = {
+		holder = 163111
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		holder = 5788
+	}
+	11099.1.1 = {
+		liege = "k_norway"
+	}
+	11099.1.1 = {
+		holder = 202511
+	}
+	11103.1.25 = {
+		holder = 7395
+	}
+	11110.1.1 = {
+		holder = 220023
+	}
+	11153.1.1 = {
+		holder = 220021 # Gudrod Crovan
+	}
+	11158.1.1 = {
+		holder = 220027
+	}
+	11164.1.1 = {
+		holder = 220019
+	}
+	11198.1.1 = {
+		holder = 220031
+	}
+	11249.1.1 = {
+		holder = 7391
+	}
+	11266.1.1 = {
+		liege = "k_scotland"
+	}
+	11296.1.1 = {
+		holder = 453055
+	}
+	11330.1.1 = {
+		holder = 420019
+	}
+}
+
+
+c_outer_hebrides = {
+	
+	
+	#Dal Riata
+	10490.1.1 = {
+		holder = 166468
+		government = tribal_government
+	}
+	10497.1.1 = {
+		holder = 83574
+	}
+	10501.1.1 = {
+		holder = 83575
+	}
+	10507.1.1 = {
+		holder = 166469
+	}
+	10540.1.1 = {
+		holder = 83576
+	}
+	10560.1.1 = {
+		holder = 166470
+	}
+	10574.1.1 = {
+		holder = 83577
+	}
+	10606.1.1 = {
+		holder = 166471
+	}
+	10622.1.1 = {
+		holder = 83578
+	}
+	10629.7.1 = {
+		holder = 83579
+	}
+	10642.1.1 = {
+		holder = 166472
+	}
+	10649.1.1 = {
+		holder = 166474
+	}
+	10654.1.1 = {
+		holder = 166475
+	}
+	10660.1.1 = {
+		holder = 83580
+	}
+	10672.1.1 = {
+		holder = 166476
+	}
+	10689.1.1 = {
+		holder = 166477
+	}
+	10696.1.1 = {
+		holder = 166484
+	}
+	10697.1.1 = {
+		holder = 83581
+	}
+	10697.7.1 = {
+		holder = 166485
+	}
+	10698.1.1 = {
+		holder = 166489
+	}
+	10700.1.1 = {
+		holder = 166490
+	}
+	10707.1.1 = {
+		holder = 166491
+	}
+	10721.1.1 = {
+		holder = 166486
+	}
+	10723.1.1 = {
+		holder = 166492
+	}
+	10726.1.1 = {
+		holder = 83582
+	}
+	10733.1.1 = {
+		holder = 166493
+	}
+	10736.1.1 = {
+		liege = "k_scotland"
+	}
+	10736.1.1 = {
+		holder = 166494
+	}
+	10738.1.1 = {
+		holder = 166495
+	}
+	10740.1.1 = {
+		holder = 166496
+	}
+	10741.1.1 = {
+		holder = 166498
+	}
+	10749.1.1 = {
+		holder = 166499
+	}
+	10762.1.1 = {
+		liege = 0
+	}
+	10762.1.1 = {
+		holder = 83583
+	}
+	10778.1.1 = {
+		holder = 166508
+	}
+	10781.1.1 = {
+		holder = 83584
+	}
+	10791.1.1 = {
+		holder = 166500
+	}
+	10792.1.1 = {
+		holder = 166509
+	}
+	10794.1.1 = {
+		holder = 166501
+	}
+	10805.1.1 = {
+		holder = 166504
+	}
+	10807.1.1 = {
+		holder = 166507
+	}
+	10811.1.1 = {
+		holder = 166510
+	}
+	10833.1.1 = {
+		holder = 166511
+	}
+	10834.1.1 = {
+		holder = 166512
+	}
+	10835.1.1 = {
+		holder = 166503
+	}
+	
+	10836.1.1 = {
+		holder = 6020
+	}
+	10836.7.1 = {
+		holder = 6018
+	}
+	10843.1.1 = {
+		liege = "k_scotland"
+	}
+	10843.1.1 = {
+		holder = 166506
+	}
+	10855.1.1 = {
+		liege = 0
+	}
+	10855.1.1 = {
+		holder = 163111
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	
+	}
+	11066.1.1 = {
+		holder = 131526
+	}
+	11099.1.1 = {
+		liege = "k_norway"
+	}
+	11099.1.1 = {
+		holder = 202511
+	}
+	11103.1.25 = {
+		holder = 7395
+	}
+	11110.1.1 = {
+		holder = 220023
+	}
+	11153.1.1 = {
+		holder = 220021 # Gudrod Crovan
+	}
+	11198.1.1 = {
+		holder = 220031
+	}
+	11249.1.1 = {
+		holder = 7391
+	}
+	11266.1.1 = {
+		liege = "k_scotland"
+	}
+	11296.1.1 = {
+		holder = 453055
+	}
+	11330.1.1 = {
+		holder = 420019
+	}
+	
+
+}
+
+
+c_argyll = {
+	10490.1.1 = {
+		liege = "d_western_isles"
+		government = tribal_government
+	}
+	10490.1.1 = {
+		holder = 166468
+	}
+	10497.1.1 = {
+		holder = 83574
+	}
+	10501.1.1 = {
+		holder = 83575
+	}
+	10507.1.1 = {
+		holder = 166469
+	}
+	10540.1.1 = {
+		holder = 83576
+	}
+	10560.1.1 = {
+		holder = 166470
+	}
+	10574.1.1 = {
+		holder = 83577
+	}
+	10606.1.1 = {
+		holder = 166471
+	}
+	10622.1.1 = {
+		holder = 83578
+	}
+	10629.7.1 = {
+		holder = 83579
+	}
+	10642.1.1 = {
+		holder = 166472
+	}
+	10649.1.1 = {
+		holder = 166474
+	}
+	10654.1.1 = {
+		holder = 166475
+	}
+	10660.1.1 = {
+		holder = 83580
+	}
+	10672.1.1 = {
+		holder = 166476
+	}
+	10689.1.1 = {
+		holder = 166477
+	}
+	10696.1.1 = {
+		holder = 166484
+	}
+	10697.1.1 = {
+		holder = 83581
+	}
+	10697.7.1 = {
+		holder = 166485
+	}
+	10698.1.1 = {
+		holder = 166489
+	}
+	10700.1.1 = {
+		holder = 166490
+	}
+	10707.1.1 = {
+		holder = 166491
+	}
+	10721.1.1 = {
+		holder = 166486
+	}
+	10723.1.1 = {
+		holder = 166492
+	}
+	10726.1.1 = {
+		holder = 83582
+	}
+	10733.1.1 = {
+		holder = 166493
+	}
+	10736.1.1 = {
+		holder = 166494
+	}
+	10738.1.1 = {
+		holder = 166495
+	}
+	10740.1.1 = {
+		holder = 166496
+	}
+	10741.1.1 = {
+		holder = 166498
+	}
+	10749.1.1 = {
+		holder = 166499
+	}
+	10762.1.1 = {
+		holder = 83583
+	}
+	10778.1.1 = {
+		holder = 166508
+	}
+	10781.1.1 = {
+		holder = 83584
+	}
+	10791.1.1 = {
+		holder = 166500
+	}
+	10792.1.1 = {
+		holder = 166509
+	}
+	10794.1.1 = {
+		holder = 166501
+	}
+	10805.1.1 = {
+		holder = 166504
+	}
+	10807.1.1 = {
+		holder = 166507
+	}
+	10811.1.1 = {
+		holder = 166510
+	}
+	10833.1.1 = {
+		holder = 166511
+	}
+	10834.1.1 = {
+		holder = 166512
+	}
+	10835.1.1 = {
+		holder = 166503
+	}
+	10836.1.1 = {
+		holder = 6020
+	}
+	10836.7.1 = {
+		holder = 6018
+	}
+	10843.1.1 = {
+		holder = 166506
+	}
+	10855.1.1 = {
+		holder = 163111
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.2 = {
+		holder = 131104
+	}
+	11093.1.1 = {
+		holder = 202511
+	}
+	11103.1.25 = {
+		holder = 7395
+	}
+	11110.1.1 = {
+		holder = 220023
+	}
+	11153.1.1 = {
+		holder = 220021 # Gudrod Crovan
+	}
+	11156.1.1 = {
+		holder = 220027
+	}
+	11164.1.1 = {
+		holder = 232683
+	}
+	11175.1.1 = {
+		holder = 232684
+	}
+	11237.1.1 = {
+		holder = 7278
+	}
+	11266.1.1 = {
+		holder = 7279 # Cailean MÃ³r Campbell
+		liege = k_scotland
+	}
+	11296.10.1 = {
+		holder = 453071 # Niall mac Cailean Campbell
+	}
+	11316.4.26 = {
+		holder = 453009 # Colin Og Campbell
+	}
+}
+
+
+d_lothian = {
+	10270.1.1 = {
+		holder = 159007 #Tegid
+	}
+	10300.1.1 = {
+		holder = 159008 #Padarn Beisrudd
+	}
+	10340.1.1 = {
+		holder = 159009 #Edern
+	}
+	10390.1.2 = {
+		holder = 159038 #Coel Hen
+	}
+	10420.1.1 = {
+		holder = 0
+	}
+	11066.1.1 = {
+		holder = 85018
+		liege = "k_scotland"
+	}
+	11073.1.1 = {
+		holder = 963
+	}
+	11099.5.1 = {
+		holder = 202998
+	}
+	11153.5.24 = {
+		holder = 203000
+	}
+	11165.5.24 = {
+		holder = 202999
+	}
+	11214.12.4 = {
+		holder = 6900
+	}
+	11249.7.6 = {
+		holder = 6902
+	}
+	11286.3.19 = {
+		holder = 6907
+	}
+	11290.9.1 = {
+		holder = 230524
+	}
+	11296.1.1 = {
+		holder = 453501
+	}
+	11329.6.7 = {
+		holder = 453500
+	}
+
+}
+
+
+c_lothian = {
+	10867.1.1 = { change_development_level = 4 }
+	11066.1.1 = { change_development_level = 9 }
+	11178.1.1 = { change_development_level = 20 }
+	
+	10765.1.1 = {
+		liege = "d_northumberland"
+		holder = 205250
+	}
+	10862.1.1 = {
+		holder = 163103
+	}
+	11066.1.1 = {
+		liege = "d_lothian"
+	}
+	11066.1.1 = {
+		holder = 85018
+	}
+	11070.1.1 = {
+		liege = "k_scotland"
+	}
+	11070.1.1 = {
+		holder = 984
+	}
+	11073.1.1 = {
+		holder = 203019 # Gospatric Dunbar
+	}
+	11138.1.1 = {
+		holder = 203018 # Gospatric Dunbar
+	}
+	11166.1.1 = {
+		holder = 203017 # Waldeve Dunbar
+	}
+	11214.12.4 = {
+		holder = 6900
+	}
+	11249.7.6 = {
+		holder = 6902
+	}
+	11286.3.19 = {
+		holder = 6907
+	}
+	11290.9.1 = {
+		holder = 230524
+	}
+	11296.1.1 = {
+		holder = 453501
+	}
+	11329.6.7 = {
+		holder = 453500
+	}
+}
+
+
+c_dunbar = {
+	10867.1.1 = { change_development_level = 4 }
+	11066.1.1 = { change_development_level = 10 }
+	11178.1.1 = { change_development_level = 24 }
+	
+	10765.1.1 = {
+		liege = "d_northumberland"
+		holder = 205249
+	}
+	10862.1.1 = {
+		holder = 163103
+	}
+	11066.1.1 = {
+		liege = "d_lothian"
+	}
+	11066.1.1 = {
+		holder = 85018
+	}
+	11073.1.1 = {
+		holder = 203019 # Gospatric Dunbar
+	}
+	11138.1.1 = {
+		holder = 203018 # Gospatric Dunbar
+	}
+	11166.1.1 = {
+		holder = 203017 # Waldeve Dunbar
+	}
+	11182.1.1 = {
+		holder = 203014
+	}
+	11232.1.1 = {
+		holder = 203016
+	}
+	11249.1.1 = {
+		holder = 7616
+	}
+	11289.8.24 = {
+		holder = 453063
+	}
+	11308.10.10 = {
+		holder = 453014
+	}
+
+}
+
+
+c_teviotdale = {
+	10765.1.1 = {
+		holder = 205050
+		liege = d_northumberland
+	}
+	10862.1.1 = {
+		holder = 163103
+	}
+	10867.1.1 = {
+		holder = 6875 # Aelfgar
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.2 = {
+		liege = "d_lothian"
+	}
+	11066.1.2 = {
+		holder = 82001
+	}
+	11165.5.24 = {
+		holder = 202999
+	}
+	11174.1.1 = {
+		holder = 7291
+	}
+	11214.1.1 = {
+		holder = 7290
+	}
+	11240.1.1 = {
+		holder = 7289
+	}
+	11274.1.1 = {
+		holder = 453600
+	}
+	11298.1.1 = {
+		holder = 453603
+	}
+	11330.8.25 = {
+		holder = 453605
+	}
+	11333.1.1 = {
+		holder = 453607
+	}
+
+}
+
+
+c_linlithgowshire = {
+	10858.1.1 = {
+		holder = 183528
+		liege = k_scotland
+		government = tribal_government
+	}
+	
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	
+	11058.1.1 = {
+		holder = 984 # Malcolm Canmore
+	}
+	11165.5.24 = {
+		holder = 202999 # William
+	}
+}
+
+
+c_lanarkshire = {
+	10765.1.1 = {
+		holder = 205050
+		liege = d_northumberland
+		government = tribal_government
+	}
+	10862.1.1 = {
+		holder = 163103
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.2 = {
+		liege = "d_lothian"
+	}
+	11066.1.2 = {
+		holder = 82001
+	}
+	11174.1.1 = {
+		holder = 7291
+	}
+	11214.1.1 = {
+		holder = 7290
+	}
+	11240.1.1 = {
+		holder = 7289
+	}
+	11274.1.1 = {
+		holder = 453600
+	}
+	11298.1.1 = {
+		holder = 453603
+	}
+	11330.8.25 = {
+		holder = 453605
+	}
+	11333.1.1 = {
+		holder = 453607
+	}
+
+}
+
+
+#b_cadyou = {
+#	11066.1.1 = {
+#		holder = 82001
+#	}
+#}
+
+
+#b_biggar = {
+#	11066.1.1 = {
+#		holder = 82001
+#	}
+#}
+
+
+d_moray = {
+	10867.1.1 = { change_development_level = 2 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 11 }
+	
+	10517.1.1 = {
+		holder = 166543
+		liege = "k_scotland"
+		government = tribal_government
+	}
+	10531.1.1 = {
+		holder = 166544
+	}
+	10552.1.1 = {
+		holder = 166545
+	}
+	10584.1.1 = {
+		holder = 166547
+	}
+	10595.1.1 = {
+		holder = 166549
+	}
+	10616.1.1 = {
+		holder = 166551
+	}
+	10631.1.1 = {
+		holder = 166555
+	}
+	10635.1.1 = {
+		holder = 166556
+	}
+	10641.1.1 = {
+		holder = 166557
+	}
+	10653.1.1 = {
+		holder = 166559
+	}
+	10657.1.1 = {
+		holder = 166561
+	}
+	10663.1.1 = {
+		holder = 166562
+	}
+	10672.1.1 = {
+		holder = 166566
+	}
+	10693.1.1 = {
+		holder = 166571
+	}
+	10697.1.1 = {
+		holder = 166573
+	}
+	10706.1.1 = {
+		holder = 166574
+	}
+	10724.1.1 = {
+		holder = 166575
+	}
+	10726.1.1 = {
+		holder = 166576
+	}
+	10728.1.1 = {
+		holder = 166574
+	}
+	10729.1.1 = {
+		holder = 166597
+	}
+	10736.1.1 = {
+		holder = 166598
+	}
+	10750.1.1 = {
+		holder = 166597
+	}
+	10761.1.1 = {
+		holder = 166599
+	}
+	10763.1.1 = {
+		holder = 166603
+	}
+	10770.1.1 = {
+		holder = 166601
+	}
+	10782.1.1 = {
+		holder = 166600
+	}
+	10783.1.1 = {
+		holder = 166602
+	}
+	10785.1.1 = {
+		holder = 166604
+	}
+	10820.1.1 = {
+		holder = 166605
+	}
+	10834.1.1 = {
+		holder = 166606
+	}
+	10837.1.1 = {
+		holder = 166607
+	}
+	10839.1.1 = {
+		liege = "k_scotland"
+	}
+	10858.1.2 = {
+		holder = 6024
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11005.7.1 = {
+		holder = 5998 #Findláech mac Ruaidri
+	}
+	11020.7.1 = {
+		holder = 83587 #Máel Coluim mac Maíl Brigte
+	}
+	11029.7.1 = {
+		holder = 6002 #Gille-Comgáin mac Maíl-Brigte
+	}
+	11032.7.1 = {
+		holder = 5996 #Mac Bethad mac Findlaích
+	}
+	11040.1.1 = {
+		holder = 6006 #Lulach mac Gille-Comgáin
+	}
+	11058.1.2 = {
+		holder = 6008 #Máel-Snechtai mac Lulaigh
+	}
+	11085.1.1 = {
+		holder = 6012 #Aengus mac ingine Lulaigh
+	}
+	11130.4.16 = {
+		holder = 202969 #Uilleam mac Donnchada
+	}
+	11154.1.13 = {
+		holder = 202971 #Domnall mac Uilleim
+	}
+	11187.7.1 = {
+		holder = 202973 #Gofraid mac Uilleim
+	}
+	11213.1.1 = {
+		holder = 202974 #Domnall Bán mac Uilleim
+	}
+	11215.6.15 = {
+		holder = 6900 #Alexander II
+	}
+	11249.7.6 = {
+		holder = 6902
+	}
+	11286.3.19 = {
+		holder = 6907
+	}
+	11290.9.1 = {
+		holder = 230524
+	}
+	11296.1.1 = {
+		holder = 453501
+	}
+	11329.6.7 = {
+		holder = 453500
+	}
+}
+
+
+c_moray = {
+	10517.1.1 = {
+		holder = 166543
+		liege = "d_moray"
+		government = tribal_government
+	}
+	10531.1.1 = {
+		holder = 166544
+	}
+	10552.1.1 = {
+		holder = 166545
+	}
+	10584.1.1 = {
+		holder = 166547
+	}
+	10595.1.1 = {
+		holder = 166549
+	}
+	10616.1.1 = {
+		holder = 166551
+	}
+	10631.1.1 = {
+		holder = 166555
+	}
+	10635.1.1 = {
+		holder = 166556
+	}
+	10641.1.1 = {
+		holder = 166557
+	}
+	10653.1.1 = {
+		holder = 166559
+	}
+	10657.1.1 = {
+		holder = 166561
+	}
+	10663.1.1 = {
+		holder = 166562
+	}
+	10672.1.1 = {
+		holder = 166566
+	}
+	10693.1.1 = {
+		holder = 166571
+	}
+	10697.1.1 = {
+		holder = 166573
+	}
+	10706.1.1 = {
+		holder = 166574
+	}
+	10724.1.1 = {
+		holder = 166575
+	}
+	10726.1.1 = {
+		holder = 166576
+	}
+	10728.1.1 = {
+		holder = 166574
+	}
+	10734.1.1 = {
+		holder = 166619
+	}
+	10749.1.1 = {
+		holder = 166620
+	}
+	10858.1.2 = {
+		liege = "d_moray"
+	}
+	10858.1.2 = {
+		holder = 6024
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11005.7.1 = {
+		holder = 5998 #Findláech mac Ruaidri
+	}
+	11020.7.1 = {
+		holder = 83587 #Máel Coluim mac Maíl Brigte
+	}
+	11029.7.1 = {
+		holder = 6002 #Gille-Comgáin mac Maíl-Brigte
+	}
+	11032.7.1 = {
+		holder = 5996 #Mac Bethad mac Findlaích
+	}
+	11040.1.1 = {
+		holder = 6006 #Lulach mac Gille-Comgáin
+	}
+	11058.1.2 = {
+		holder = 6008 #Máel-Snechtai mac Lulaigh
+	}
+	11085.1.1 = {
+		holder = 6012 #Aengus mac ingine Lulaigh
+	}
+	11130.4.16 = {
+		holder = 202969 #Uilleam mac Donnchada
+	}
+	11154.1.13 = {
+		holder = 202971 #Domnall mac Uilleim
+	}
+	11187.7.1 = {
+		holder = 202973 #Gofraid mac Uilleim
+	}
+	11213.1.1 = {
+		holder = 202974 #Domnall Bán mac Uilleim
+	}
+	11215.6.15 = {
+		holder = 203005 #William Comyn
+	}
+	11221.1.1 = {
+		holder = 7358
+	}
+	11249.1.1 = {
+		holder = 7362
+	}
+	11277.1.1 = {
+		holder = 7361
+	}
+	11302.1.1 = {
+		holder = 7359
+	}
+	11306.2.10 = {
+		holder = 7342
+	}
+	11314.6.24 = {
+		holder = 453058
+	}
+	11332.7.20 = {
+		holder = 7397
+	}
+	11332.8.11 = {
+		holder = 453004
+	}
+}
+
+
+c_ross = {
+	10760.1.1 = {
+		liege = "d_moray"
+		holder = 166617
+		government = tribal_government
+	}
+	10858.1.1 = {
+		liege = "d_moray"
+	}
+	10858.1.1 = {
+		holder = 183521
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11005.7.1 = {
+		holder = 5998 #Findláech mac Ruaidri
+	}
+	11020.7.1 = {
+		holder = 83587 #Máel Coluim mac Maíl Brigte
+	}
+	11029.7.1 = {
+		holder = 6002 #Gille-Comgáin mac Maíl-Brigte
+	}
+	11032.7.1 = {
+		holder = 5996 #Mac Bethad mac Findlaích
+	}
+	11040.1.1 = {
+		holder = 6006 #Lulach mac Gille-Comgáin
+	}
+	11058.1.2 = {
+		holder = 6008 #Máel-Snechtai mac Lulaigh
+	}
+	11085.1.1 = {
+		holder = 6014 #Máel-Coluim mac ingine Lulaigh
+	}
+	11116.7.1 = {
+		holder = 83588 #Aed of the Macheths
+	}
+	11129.7.1 = {
+		liege = "k_scotland"
+	}
+	11129.7.1 = {
+		holder = 83589 #Máel-Coluim Macheth
+	}
+	11168.10.23 = {
+		holder = 202971 # Domnall mac Uilleim
+	}
+	11215.7.1 = {
+		holder = 83593 #Ferchar mac in tSagairt
+	}
+	11251.7.1 = {
+		holder = 7297
+	}
+	11274.5.1 = {
+		holder = 7298
+	}
+	11323.1.28 = {
+		holder = 453052
+	}
+	11333.7.19 = {
+		holder = 453003
+	}
+}
+
+
+c_buchan = {
+	10760.1.1 = {
+		liege = "d_moray"
+		holder = 166612
+		government = tribal_government
+	}
+	10858.1.1 = {
+		liege = "d_moray"
+	}
+	10858.1.1 = {
+		holder = 183525
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "k_scotland"
+	}
+	11066.1.1 = {
+		holder = 131006
+	}
+	11101.1.1 = {
+		holder = 232598
+	}
+	11135.1.1 = {
+		holder = 232600
+	}
+	11180.1.1 = {
+		holder = 232601
+	}
+	11190.1.1 = {
+		holder = 232602
+	}
+	11210.1.1 = {
+		holder = 332001
+	}
+	11244.1.1 = {
+		holder = 7363
+	}
+	11290.5.4 = {
+		holder = 7295
+	}
+	11308.12.1 = {
+		holder = 453501
+	}
+	11329.6.7 = {
+		holder = 453500
+	}
+}
+
+
+c_sutherland = {
+	
+	
+	10760.1.1 = {
+		liege = "d_moray"
+		holder = 166614
+		government = tribal_government
+	}
+	
+	
+	10858.1.1 = {
+		liege = "d_moray"
+	}
+	10858.1.1 = {
+		holder = 183514
+	}
+	10865.1.1 = {
+		holder = 183515
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11058.1.2 = {
+		holder = 6008 #MÃ¡el-Snechtai mac Lulaigh
+	}
+	11066.1.1 = {
+		liege = "d_northern_isles"
+	}
+	11066.1.1 = {
+		holder = 102539
+	}
+	11098.1.1 = {
+		holder = 7352
+	}
+	11117.4.16 = {
+		holder = 220036
+	}
+	11123.1.1 = {
+		holder = 7351
+	}
+	11127.1.1 = {
+		holder = 7349
+	}
+	11154.1.1 = {
+		holder = 220020
+	}
+	
+	11206.1.1 = {
+		holder = 220040
+	}
+	11231.1.1 = {
+		holder = 203080
+	}
+	11239.1.1 = {
+		holder = 7347
+	}
+	11256.1.1 = {
+		holder = 7346
+	}
+	11273.1.1 = {
+		holder = 7344
+	}
+	11312.10.28 = {
+		holder = 7343
+	}
+	11321.1.1 = {
+		holder = 450820
+	}
+	
+
+}
+
+
+c_caithness = {
+	10760.1.1 = {
+		liege = "d_moray"
+		holder = 166614
+		government = tribal_government
+	}
+	10858.1.1 = {
+		liege = "d_moray"
+	}
+	10858.1.1 = {
+		holder = 183514
+	}
+	10865.1.1 = {
+		holder = 183515
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.1 = {
+		liege = "d_northern_isles"
+	}
+	11066.1.1 = {
+		holder = 102539
+	}
+	11098.1.1 = {
+		holder = 7352
+	}
+	11117.4.16 = {
+		holder = 220036
+	}
+	11123.1.1 = {
+		holder = 7351
+	}
+	11127.1.1 = {
+		holder = 7349
+	}
+	11154.1.1 = {
+		holder = 220020
+	}
+	11206.1.1 = {
+		holder = 220040
+	}
+	11231.1.1 = {
+		holder = 203080
+	}
+	11239.1.1 = {
+		holder = 7347
+	}
+	11256.1.1 = {
+		holder = 7346
+	}
+	11273.1.1 = {
+		holder = 7344
+	}
+	11312.10.28 = {
+		holder = 7343
+	}
+	11321.1.1 = {
+		holder = 450820
+	}
+}
+
+
+c_inverness = {
+	
+	10517.1.1 = {
+		holder = 166543
+		liege = "d_moray"
+		government = tribal_government
+	}
+	10531.1.1 = {
+		holder = 166544
+	}
+	10552.1.1 = {
+		holder = 166545
+	}
+	10584.1.1 = {
+		holder = 166547
+	}
+	10595.1.1 = {
+		holder = 166549
+	}
+	10616.1.1 = {
+		holder = 166551
+	}
+	10631.1.1 = {
+		holder = 166555
+	}
+	10635.1.1 = {
+		holder = 166556
+	}
+	10641.1.1 = {
+		holder = 166557
+	}
+	10653.1.1 = {
+		holder = 166559
+	}
+	10657.1.1 = {
+		holder = 166561
+	}
+	10663.1.1 = {
+		holder = 166562
+	}
+	10672.1.1 = {
+		holder = 166566
+	}
+	10693.1.1 = {
+		holder = 166571
+	}
+	10697.1.1 = {
+		holder = 166573
+	}
+	10706.1.1 = {
+		holder = 166574
+	}
+	10724.1.1 = {
+		holder = 166575
+	}
+	10726.1.1 = {
+		holder = 166576
+	}
+	10728.1.1 = {
+		holder = 166574
+	}
+	10734.1.1 = {
+		holder = 166619
+	}
+	10749.1.1 = {
+		holder = 166620
+	}
+	10858.1.2 = {
+		liege = "d_moray"
+	}
+	10858.1.2 = {
+		holder = 6024
+	}
+	10935.1.1 = {
+		government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11005.7.1 = {
+		holder = 5998 #FindlÃ¡ech mac Ruaidri
+	}
+	11020.7.1 = {
+		holder = 83587 #MÃ¡el Coluim mac MaÃ­l Brigte
+	}
+	11029.7.1 = {
+		holder = 6002 #Gille-ComgÃ¡in mac MaÃ­l-Brigte
+	}
+	11032.7.1 = {
+		holder = 5996 #Mac Bethad mac FindlaÃ­ch
+	}
+	11040.1.1 = {
+		holder = 6006 #Lulach mac Gille-ComgÃ¡in
+	}
+	11058.1.2 = {
+		holder = 6008 #MÃ¡el-Snechtai mac Lulaigh
+		government = tribal_government
+	}
+	11085.1.1 = {
+		holder = 6012 #Aengus mac ingine Lulaigh
+	}
+	11130.4.16 = {
+		holder = 202969 #Uilleam mac Donnchada
+	}
+	11154.1.13 = {
+		holder = 202971 #Domnall mac Uilleim
+	}
+	11187.7.1 = {
+		holder = 202973 #Gofraid mac Uilleim
+	}
+	11213.1.1 = {
+		holder = 202974 #Domnall BÃ¡n mac Uilleim
+	}
+	11215.6.15 = {
+		holder = 203005 #William Comyn
+	}
+	11221.1.1 = {
+		holder = 7358
+	}
+	11249.1.1 = {
+		holder = 7362
+	}
+	11277.1.1 = {
+		holder = 7361
+	}
+	11302.1.1 = {
+		holder = 7359
+	}
+	11306.2.10 = {
+		holder = 7342
+	}
+	11314.6.24 = {
+		holder = 453058
+	}
+	11332.7.20 = {
+		holder = 7397
+	}
+	11332.8.11 = {
+		holder = 453004
+	}
+	
+
+}
+

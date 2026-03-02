@@ -1,0 +1,527 @@
+k_bjarmaland = {
+	10867.1.1 = { change_development_level = 0 }
+	11066.1.1 = { change_development_level = 0 }
+	11178.1.1 = { change_development_level = 0 }
+}
+
+d_biarmia = {
+	10867.1.1 = { change_development_level = 1 }
+	11066.1.1 = { change_development_level = 2 }
+	11178.1.1 = { change_development_level = 3 }
+	
+	10935.1.1 = {
+		government = tribal_government	#Ahistorical, just for ease of bookmarks.
+	}
+	11066.1.2 = {
+		holder = 302381	#fictional Sarak Dvinok
+		liege = 0
+	}
+	11100.1.2 = {
+		holder = 0
+	}
+}
+
+c_kholmogory = {
+	#867
+	10853.3.16 = {
+		holder = 302386	# fictional Tolik Angolk
+		liege = 0
+		government = tribal_government
+	}
+	
+	#1066
+	11066.1.2 = {
+		holder = 302381	#fictional Sarak Dvinok
+		liege = d_biarmia
+	}
+	
+	#Annexed by Novgorod
+	11100.1.2 = {
+		liege = d_novgorod
+	}
+	11101.3.12 = {
+		holder = 302382	#fictional Vesei Dvinok
+	}
+	11128.2.18 = {
+		holder = 302383	#fictional Yadne Dvinok
+	}
+	11157.8.18 = {
+		holder = 302384	#fictional Nenyts Dvinok
+	}
+
+}
+
+
+c_onega_BJA = {
+	#867
+	10860.4.16 = {
+		holder = 302379	#Mandak Dvinok
+		government = tribal_government
+	}
+	
+	#1066
+	11066.1.2 = {
+		holder = 302381	#fictional Sarak Dvinok
+		liege = d_biarmia
+	}
+	
+	#Annexed by Novgorod
+	11100.1.2 = {
+		liege = d_novgorod
+	}
+	11101.3.12 = {
+		holder = 302382	#fictional Vesei Dvinok
+	}
+	11128.2.18 = {
+		holder = 302383	#fictional Yadne Dvinok
+	}
+	11157.8.18 = {
+		holder = 302384	#fictional Nenyts Dvinok
+	}
+
+}
+
+
+c_povenets = {
+	#867
+	10860.4.16 = {
+		holder = 302379	#Mandak Dvinok
+		government = tribal_government
+	}
+	
+	#1066
+	11066.1.2 = {
+		holder = 302381	#fictional Sarak Dvinok
+		liege = d_biarmia
+	}
+	
+	#Annexed by Novgorod
+	11100.1.2 = {
+		liege = d_novgorod
+	}
+	11101.3.12 = {
+		holder = 302382	#fictional Vesei Dvinok
+	}
+	11128.2.18 = {
+		holder = 302383	#fictional Yadne Dvinok
+	}
+	11157.8.18 = {
+		holder = 302384	#fictional Nenyts Dvinok
+	}
+
+}
+
+
+c_pudozh = {
+	#867
+	10860.4.16 = {
+		holder = 302379	#Mandak Dvinok
+		government = tribal_government
+	}
+	
+	#1066
+	11066.1.2 = {
+		holder = 20620	#fictional Yurak Yurakid
+		liege = d_biarmia
+	}
+	
+	#Annexed by Novgorod
+	11100.1.2 = {
+		liege = d_novgorod
+	}
+	11101.3.12 = {
+		holder = 302382	#fictional Vesei Dvinok
+	}
+	11128.2.18 = {
+		holder = 302383	#fictional Yadne Dvinok
+	}
+	11157.8.18 = {
+		holder = 302384	#fictional Nenyts Dvinok
+	}
+
+}
+
+
+c_kargopol = {
+	#867
+	10867.1.1 = {
+		holder = 302395	#fictional Everkki Chudi
+		liege = 0
+		government = tribal_government
+	}
+	10884.1.29 = {
+		holder = 302397	#fictional Niikko Chudi
+	}
+	
+	#1066
+	11060.1.2 = {
+		holder = 302398	#fictional Ignoi Chudi
+	}
+	#To Novgorod
+	11100.1.1 = {
+		liege = d_novgorod
+	}
+	11178.7.2 = {
+		holder = 302402 # Pirdoi
+	}
+}
+
+
+c_kirillov = {
+	#867
+	10867.1.1 = {
+		holder = 302395	#fictional Everkki Chudi
+		liege = 0
+		government = tribal_government
+	}
+	10884.1.29 = {
+		holder = 302397	#fictional Niikko Chudi
+	}
+	
+	#1066
+	11060.1.2 = {
+		holder = 302398	#fictional Ignoi Chudi
+	}
+	#To Novgorod
+	11100.1.1 = {
+		liege = d_novgorod
+	}
+	11178.7.2 = {
+		holder = 302402 # Pirdoi
+	}
+}
+
+
+c_totma = {
+	#867
+	10867.1.1 = {
+		holder = 302395	#fictional Everkki Chudi
+		liege = 0
+		government = tribal_government
+	}
+	10884.1.29 = {
+		holder = 302397	#fictional Niikko Chudi
+	}
+	
+	#1066
+	11060.1.2 = {
+		holder = 302398	#fictional Ignoi Chudi
+	}
+	#To Novgorod
+	11100.1.1 = {
+		liege = d_novgorod
+	}
+	11178.7.2 = {
+		holder = 302402 # Pirdoi
+	}
+}
+
+
+c_vologda = {
+	#867
+	10854.9.13 = {
+		holder = 302411	#fictional Valassi Volan
+		liege = 0
+		government = tribal_government
+	}
+	10880.2.15 = {
+		holder = 302413	#fictional Jeygi Volan
+	}
+	
+	#1066
+	11057.1.1 = {
+		holder = 302415	#fictional Pauli Volan
+	}
+	11066.1.1 = {
+		holder = 302416
+	}
+	
+	#Added to Novgorod
+	11080.1.1 = {
+		holder = 302417	#fictional Briachislav Vologdovich
+		liege = d_novgorod
+	}
+	11104.1.19 = {
+		holder = 302419	#fictional Ivan Vologdovich
+	}
+	11110.7.18 = {
+		holder = 302420	#fictional Daniil Vologdovich
+	}
+	11120.3.15 = {
+		holder = 302422	#fictional Birachislav Vologdovich
+	}
+	11122.2.13 = {
+		holder = 302420	#fictional Daniil Vologdovich
+	}
+	11132.2.4 = {
+		holder = 302422	#fictional Birachislav Vologdovich
+	}
+	11155.5.10 = {
+		holder = 302423	#fictional Ivan Vologodovich
+	}
+	11183.10.1 = {
+		holder = 302424	#fictional Vasilko Vologodovich
+	}
+}
+
+
+c_lyubim = {
+	#867
+	10854.9.13 = {
+		holder = 302411	#fictional Valassi Volan
+		liege = 0
+		government = tribal_government
+	}
+	10880.2.15 = {
+		holder = 302413	#fictional Jeygi Volan
+	}
+	
+	#1066
+	11057.1.1 = {
+		holder = 302415	#fictional Pauli Volan
+	}
+	
+	#Added to Novgorod
+	11080.1.1 = {
+		holder = 302417	#fictional Briachislav Vologdovich
+		liege = d_novgorod
+	}
+	11104.1.19 = {
+		holder = 302419	#fictional Ivan Vologdovich
+	}
+	11110.7.18 = {
+		holder = 302420	#fictional Daniil Vologdovich
+	}
+	11120.3.15 = {
+		holder = 302422	#fictional Birachislav Vologdovich
+	}
+	11122.2.13 = {
+		holder = 302420	#fictional Daniil Vologdovich
+	}
+	11132.2.4 = {
+		holder = 302422	#fictional Birachislav Vologdovich
+	}
+	11155.5.10 = {
+		holder = 302423	#fictional Ivan Vologodovich
+	}
+	11183.10.1 = {
+		holder = 302424	#fictional Vasilko Vologodovich
+	}
+}
+
+
+c_onsthia = {
+	#867
+	10854.9.13 = {
+		holder = 302411	#fictional Valassi Volan
+		liege = 0
+		government = tribal_government
+	}
+	10880.2.15 = {
+		holder = 302413	#fictional Jeygi Volan
+	}
+	
+	#1066
+	11057.1.1 = {
+		holder = 302415	#fictional Pauli Volan
+	}
+	
+	#Added to Novgorod
+	11080.1.1 = {
+		holder = 302417	#fictional Briachislav Vologdovich
+		liege = d_novgorod
+	}
+	11104.1.19 = {
+		holder = 302419	#fictional Ivan Vologdovich
+	}
+	11110.7.18 = {
+		holder = 302420	#fictional Daniil Vologdovich
+	}
+	11120.3.15 = {
+		holder = 302422	#fictional Birachislav Vologdovich
+	}
+	11122.2.13 = {
+		holder = 302420	#fictional Daniil Vologdovich
+	}
+	11132.2.4 = {
+		holder = 302422	#fictional Birachislav Vologdovich
+	}
+	11155.5.10 = {
+		holder = 302423	#fictional Ivan Vologodovich
+	}
+	11183.10.1 = {
+		holder = 302424	#fictional Vasilko Vologodovich
+	}
+}
+
+
+c_choklema = {
+	#867
+	10854.9.13 = {
+		holder = 302411	#fictional Valassi Volan
+		liege = 0
+		government = tribal_government
+	}
+	10880.2.15 = {
+		holder = 302413	#fictional Jeygi Volan
+	}
+	
+	#1066
+	11057.1.1 = {
+		holder = 302415	#fictional Pauli Volan
+	}
+	
+	#Added to Novgorod
+	11080.1.1 = {
+		holder = 302417	#fictional Briachislav Vologdovich
+		liege = d_novgorod
+	}
+	11104.1.19 = {
+		holder = 302419	#fictional Ivan Vologdovich
+	}
+	11110.7.18 = {
+		holder = 302420	#fictional Daniil Vologdovich
+	}
+	11120.3.15 = {
+		holder = 302422	#fictional Birachislav Vologdovich
+	}
+	11122.2.13 = {
+		holder = 302420	#fictional Daniil Vologdovich
+	}
+	11132.2.4 = {
+		holder = 302422	#fictional Birachislav Vologdovich
+	}
+	11155.5.10 = {
+		holder = 302423	#fictional Ivan Vologodovich
+	}
+	11183.10.1 = {
+		holder = 302424	#fictional Vasilko Vologodovich
+	}
+}
+
+
+c_ustyug = {
+	#867
+	10867.1.1 = {
+		holder = 302404	#fictional Ulljoi Ustyi
+		liege = 0
+		government = tribal_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = 302405	#fictional Jelisei Ustyi
+	}
+	
+	#Within Novgorod
+	11100.1.1 = {
+		liege = d_novgorod
+	}
+	11107.5.13 = {
+		holder = 302406	#fictional Sisoi Ustyi
+	}
+	11127.5.7 = {
+		holder = 302407	#fictional Vakko Ustyi
+	}
+	11161.10.9 = {
+		holder = 302408	#fictional Zakki Ustyi
+	}
+	11186.4.22 = {
+		holder = 302408	#fictional Johora Ustyi
+	}
+}
+
+
+c_shenkursk = {
+	#867
+	10867.1.1 = {
+		holder = 302404	#fictional Ulljoi Ustyi
+		liege = 0
+		government = tribal_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = 302405	#fictional Jelisei Ustyi
+	}
+	
+	#Within Novgorod
+	11100.1.1 = {
+		liege = d_novgorod
+	}
+	11107.5.13 = {
+		holder = 302406	#fictional Sisoi Ustyi
+	}
+	11127.5.7 = {
+		holder = 302407	#fictional Vakko Ustyi
+	}
+	11161.10.9 = {
+		holder = 302408	#fictional Zakki Ustyi
+	}
+	11186.4.22 = {
+		holder = 302408	#fictional Johora Ustyi
+	}
+}
+
+
+c_velsk = {
+	#867
+	10867.1.1 = {
+		holder = 302404	#fictional Ulljoi Ustyi
+		liege = 0
+		government = tribal_government
+	}
+	
+	#1066
+	11066.1.1 = {
+		holder = 302405	#fictional Jelisei Ustyi
+	}
+	
+	#Within Novgorod
+	11100.1.1 = {
+		liege = d_novgorod
+	}
+	11107.5.13 = {
+		holder = 302406	#fictional Sisoi Ustyi
+	}
+	11127.5.7 = {
+		holder = 302407	#fictional Vakko Ustyi
+	}
+	11161.10.9 = {
+		holder = 302408	#fictional Zakki Ustyi
+	}
+	11186.4.22 = {
+		holder = 302408	#fictional Johora Ustyi
+	}
+}
+
+
+c_kevrola = {
+	#867
+	10853.3.16 = {
+		holder = 302386	# fictional Tolik Angolk
+		liege = 0
+		government = tribal_government
+	}
+	
+	#1066
+	11051.1.2 = {
+		holder = 302389	#Somatu Angolk
+	}
+	11097.10.29 = {
+		holder = 302390	#Mandak Angolk
+	}
+	11120.12.29 = {
+		holder = 302391	#Yadne Angolk
+	}
+	11144.6.17 = {
+		holder = 302392	#Kako Angolk
+	}
+	11178.11.28 = {
+		holder = 302393	#Salinder Angolk
+	}
+	11193.8.3 = {
+		holder = 302394	#Noumea Angolk
+	}
+}
+

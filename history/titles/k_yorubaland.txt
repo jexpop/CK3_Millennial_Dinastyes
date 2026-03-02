@@ -1,0 +1,694 @@
+d_ibadan = {
+	10867.1.1 = {	change_development_level = 0 }
+	11066.1.1 = { change_development_level = 2 }
+	11178.1.1 = { change_development_level = 5 }
+}
+
+c_ibadan = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 6 }
+
+	10760.1.1 = {
+		holder = yoruba0001
+		government = tribal_government
+	}
+	10830.1.1 = {
+		holder = yoruba0003
+	}
+	10865.1.1 = {
+		liege = d_ife
+		holder = yoruba0005
+	}
+	10905.1.1 = {
+		holder = yoruba0020
+	}
+
+	#fictional rulers
+	10960.1.1 = {
+		holder = yoruba0021
+	}
+	11005.1.1 = {
+		holder = yoruba0022
+	}
+	11055.1.1 = {
+		liege = 0
+		holder = yoruba0023
+	}
+	11100.1.1 = {
+		holder = yoruba0024
+	}
+	11130.1.1 = {
+		holder = yoruba0025
+	}
+	11167.1.1 = {
+		holder = yoruba0026
+	}
+	11198.1.1 = {
+		holder = yoruba0027
+	}
+}
+
+
+c_abomey = {
+	#mythical rulers
+	10760.1.1 = {
+		holder = yoruba0001
+		government = tribal_government
+	}
+	10830.1.1 = {
+		holder = yoruba0003
+	}
+	10865.1.1 = {
+		liege = d_ife #should be tributary, not vasal of
+		holder = yoruba0006
+	}
+
+	#fictional rulers
+	10895.1.1 = {
+		holder = yoruba0045
+	}
+	10930.1.1 = {
+		holder = yoruba0037
+	}
+	10985.1.1 = {
+		holder = yoruba0038
+	}
+	11040.1.1 = {
+		liege = 0
+		holder = yoruba0039
+	}
+	11083.1.1 = {
+		holder = yoruba0040
+	}
+	11106.1.1 = {
+		holder = yoruba0041
+	}
+	11144.1.1 = {
+		holder = yoruba0042
+	}
+	11179.1.1 = {
+		holder = yoruba0043
+	}
+	11216.1.1 = {
+		holder = yoruba0044
+	}
+}
+
+
+c_ifonyin = {
+	#mythical rulers
+	10760.1.1 = {
+		holder = yoruba0001
+		government = tribal_government
+	}
+	10830.1.1 = {
+		holder = yoruba0003
+	}
+	10865.1.1 = {
+		liege = d_ife #should be tributary, not vasal of
+		holder = yoruba0006
+	}
+
+	#fictional rulers
+	10895.1.1 = {
+		holder = yoruba0045
+	}
+	10930.1.1 = {
+		holder = yoruba0037
+	}
+	10985.1.1 = {
+		holder = yoruba0038
+	}
+	11040.1.1 = {
+		liege = 0
+		holder = yoruba0039
+	}
+	11083.1.1 = {
+		holder = yoruba0040
+	}
+	11106.1.1 = {
+		holder = yoruba0041
+	}
+	11144.1.1 = {
+		holder = yoruba0042
+	}
+	11179.1.1 = {
+		holder = yoruba0043
+	}
+	11216.1.1 = {
+		holder = yoruba0044
+	}
+}
+
+
+c_ketu = {
+	#mythical rulers
+	10760.1.1 = {
+		holder = yoruba0001
+		government = tribal_government
+	}
+	10830.1.1 = {
+		holder = yoruba0003
+	}
+	10865.1.1 = {
+		liege = d_ife #should be tributary, not vasal of
+		holder = yoruba0006
+	}
+
+	#fictional rulers
+	10895.1.1 = {
+		holder = yoruba0045
+	}
+	10930.1.1 = {
+		holder = yoruba0037
+	}
+	10985.1.1 = {
+		holder = yoruba0038
+	}
+	11040.1.1 = {
+		liege = 0
+		holder = yoruba0039
+	}
+	11083.1.1 = {
+		holder = yoruba0040
+	}
+	11106.1.1 = {
+		holder = yoruba0041
+	}
+	11144.1.1 = {
+		holder = yoruba0042
+	}
+	11179.1.1 = {
+		holder = yoruba0043
+	}
+	11216.1.1 = {
+		holder = yoruba0044
+	}
+}
+
+
+d_oyo = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 20 }
+
+	11064.1.1 = {
+		government = tribal_government
+		holder = yoruba0031
+	}
+	11105.1.1 = {
+		holder = yoruba0032
+	}
+	11138.1.1 = {
+		holder = yoruba0033
+	}
+	11174.1.1 = {
+		holder = yoruba0034
+	}
+	11209.1.1 = {
+		holder = yoruba0035
+	}
+}
+
+c_oyo = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+
+	10864.1.1 = {
+		government = tribal_government
+		liege = d_ife
+		holder = yoruba0009
+	}
+	10904.1.1 = {
+		holder = yoruba0028
+	}
+	10935.1.1 = {
+		holder = yoruba0036
+	}
+	10942.1.1 = {
+		holder = yoruba0028
+	}
+	10963.1.1 = {
+		holder = yoruba0029
+	}
+	11020.1.1 = {
+		holder = yoruba0030
+	}
+	11064.1.1 = {
+		liege = d_oyo
+		holder = yoruba0031
+	}
+	11105.1.1 = {
+		holder = yoruba0032
+	}
+	11138.1.1 = {
+		holder = yoruba0033
+	}
+	11174.1.1 = {
+		holder = yoruba0034
+	}
+	11209.1.1 = {
+		holder = yoruba0035
+	}
+}
+
+
+c_igana = {
+	10864.1.1 = {
+		government = tribal_government
+		liege = d_ife
+		holder = yoruba0009
+	}
+	10904.1.1 = {
+		holder = yoruba0028
+	}
+	10935.1.1 = {
+		holder = yoruba0036
+	}
+	10942.1.1 = {
+		holder = yoruba0028
+	}
+	10963.1.1 = {
+		holder = yoruba0029
+	}
+	11020.1.1 = {
+		holder = yoruba0030
+	}
+	11064.1.1 = {
+		liege = d_oyo
+		holder = yoruba0031
+	}
+	11105.1.1 = {
+		holder = yoruba0032
+	}
+	11138.1.1 = {
+		holder = yoruba0033
+	}
+	11174.1.1 = {
+		holder = yoruba0034
+	}
+	11209.1.1 = {
+		holder = yoruba0035
+	}
+}
+
+
+c_ilorin = {
+	10864.1.1 = {
+		government = tribal_government
+		liege = d_ife
+		holder = yoruba0009
+	}
+	10904.1.1 = {
+		holder = yoruba0028
+	}
+	10935.1.1 = {
+		holder = yoruba0036
+	}
+	10942.1.1 = {
+		holder = yoruba0028
+	}
+	10963.1.1 = {
+		holder = yoruba0029
+	}
+	11020.1.1 = {
+		holder = yoruba0030
+	}
+	11064.1.1 = {
+		liege = d_oyo
+		holder = yoruba0031
+	}
+	11105.1.1 = {
+		holder = yoruba0032
+	}
+	11138.1.1 = {
+		holder = yoruba0033
+	}
+	11174.1.1 = {
+		holder = yoruba0034
+	}
+	11209.1.1 = {
+		holder = yoruba0035
+	}
+}
+
+
+c_igbomina = {
+	10760.1.1 = {
+		holder = yoruba0001
+		government = tribal_government
+	}
+	10830.1.1 = {
+		holder = yoruba0003
+	}
+	10865.1.1 = {
+		holder = yoruba0004
+	}
+	10900.1.1 = {
+		holder = yoruba0011
+	}
+
+	11055.1.1 = {
+		holder = yoruba0012
+		#government = feudal_government
+	}
+	11097.1.1 = {
+		holder = yoruba0013
+	}
+	11119.1.1 = {
+		holder = yoruba0014
+	}
+	11148.1.1 = {
+		holder = yoruba0015
+	}
+	11172.1.1 = {
+		holder = yoruba0016
+	}
+	11183.1.1 = {
+		holder = yoruba0017
+	}
+	11210.1.1 = {
+		holder = yoruba0018
+	}
+	11241.1.1 = {
+		holder = yoruba0019
+	}
+}
+
+
+c_yagba = {
+	10760.1.1 = {
+		holder = yoruba0001
+		government = tribal_government
+	}
+	10830.1.1 = {
+		holder = yoruba0003
+	}
+	10865.1.1 = {
+		holder = yoruba0004
+	}
+	10900.1.1 = {
+		holder = yoruba0011
+	}
+
+	11055.1.1 = {
+		holder = yoruba0012
+		government = feudal_government
+	}
+	11097.1.1 = {
+		holder = yoruba0013
+	}
+	11119.1.1 = {
+		holder = yoruba0014
+	}
+	11148.1.1 = {
+		holder = yoruba0015
+	}
+	11172.1.1 = {
+		holder = yoruba0016
+	}
+	11183.1.1 = {
+		holder = yoruba0017
+	}
+	11210.1.1 = {
+		holder = yoruba0018
+	}
+	11241.1.1 = {
+		holder = yoruba0019
+	}
+}
+
+
+d_ife = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 4 }
+	11178.1.1 = { change_development_level = 8 }
+
+	10865.1.1 = {
+		holder = yoruba0004
+		government = tribal_government
+	}
+	10900.1.1 = {
+		holder = yoruba0011
+	}
+
+	11055.1.1 = {
+		holder = yoruba0012
+		#government = feudal_government
+	}
+	11097.1.1 = {
+		holder = yoruba0013
+	}
+	11119.1.1 = {
+		holder = yoruba0014
+	}
+	11148.1.1 = {
+		holder = yoruba0015
+	}
+	11172.1.1 = {
+		holder = yoruba0016
+	}
+	11183.1.1 = {
+		holder = yoruba0017
+	}
+	11210.1.1 = {
+		holder = yoruba0018
+	}
+	11241.1.1 = {
+		holder = yoruba0019
+	}
+}
+
+c_ife = {
+	10867.1.1 = {	change_development_level = 6 }
+	11066.1.1 = { change_development_level = 12 }
+	11178.1.1 = { change_development_level = 14 }
+
+	10760.1.1 = {
+		holder = yoruba0001
+		government = tribal_government
+	}
+	10830.1.1 = {
+		holder = yoruba0003
+	}
+	10865.1.1 = {
+		holder = yoruba0004
+	}
+	10900.1.1 = {
+		holder = yoruba0011
+	}
+
+	11055.1.1 = {
+		holder = yoruba0012
+		government = feudal_government
+	}
+	11097.1.1 = {
+		holder = yoruba0013
+	}
+	11119.1.1 = {
+		holder = yoruba0014
+	}
+	11148.1.1 = {
+		holder = yoruba0015
+	}
+	11172.1.1 = {
+		holder = yoruba0016
+	}
+	11183.1.1 = {
+		holder = yoruba0017
+	}
+	11210.1.1 = {
+		holder = yoruba0018
+	}
+	11241.1.1 = {
+		holder = yoruba0019
+	}
+}
+
+
+c_ijebu = {
+	10760.1.1 = {
+		holder = yoruba0001
+		government = tribal_government
+	}
+	10830.1.1 = {
+		holder = yoruba0003
+	}
+	10865.1.1 = {
+		liege = d_ife
+		holder = yoruba0005
+	}
+	10905.1.1 = {
+		holder = yoruba0020
+	}
+
+	#fictional rulers
+	10960.1.1 = {
+		holder = yoruba0021
+	}
+	11005.1.1 = {
+		holder = yoruba0022
+	}
+	11055.1.1 = {
+		liege = 0
+		holder = yoruba0023
+	}
+	11100.1.1 = {
+		holder = yoruba0024
+	}
+	11130.1.1 = {
+		holder = yoruba0025
+	}
+	11167.1.1 = {
+		holder = yoruba0026
+	}
+	11198.1.1 = {
+		holder = yoruba0027
+	}
+}
+
+
+c_owu = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+
+	10760.1.1 = {
+		holder = yoruba0001
+		government = tribal_government
+	}
+	10830.1.1 = {
+		holder = yoruba0003
+	}
+	10865.1.1 = {
+		liege = d_ife
+		holder = yoruba0005
+	}
+	10905.1.1 = {
+		holder = yoruba0020
+	}
+
+	#fictional rulers
+	10960.1.1 = {
+		holder = yoruba0021
+	}
+	11005.1.1 = {
+		holder = yoruba0022
+	}
+	11055.1.1 = {
+		liege = 0
+		holder = yoruba0023
+	}
+	11100.1.1 = {
+		holder = yoruba0024
+	}
+	11130.1.1 = {
+		holder = yoruba0025
+	}
+	11167.1.1 = {
+		holder = yoruba0026
+	}
+	11198.1.1 = {
+		holder = yoruba0027
+	}
+}
+
+
+d_benin = {
+	11030.1.1 = {
+		government = tribal_government
+		holder = edo0005
+	}
+	11068.1.1 = {
+		holder = edo0006
+	}
+	11093.1.1 = {
+		holder = edo0007
+	}
+	11112.1.1 = {
+		holder = edo0008
+	}
+	11153.1.1 = {
+		holder = edo0009
+	}
+	11183.1.1 = {
+		holder = edo0011
+	}
+}
+
+c_benin = {
+	10867.1.1 = {	change_development_level = 5 }
+	11066.1.1 = { change_development_level = 8 }
+	11178.1.1 = { change_development_level = 20 }
+
+	10865.1.1 = {
+		liege = d_ife
+		holder = edo0000
+		government = tribal_government
+	}
+	10889.1.1 = {
+		holder = edo0002
+	}
+	10920.1.1 = {
+		holder = edo0003
+	}
+	10980.1.1 = {
+		holder = edo0004
+	}
+	11020.1.1 = {
+		holder = edo0005
+		government = feudal_government
+	}
+	11068.1.1 = {
+		holder = edo0006
+	}
+	11093.1.1 = {
+		holder = edo0007
+	}
+	11112.1.1 = {
+		holder = edo0008
+	}
+	11153.1.1 = {
+		holder = edo0009
+	}
+	11183.1.1 = {
+		holder = edo0011
+	}
+}
+
+
+c_edo = {
+	10867.1.1 = {	change_development_level = 2 }
+	11066.1.1 = { change_development_level = 5 }
+	11178.1.1 = { change_development_level = 6 }
+
+	10865.1.1 = {
+		liege = d_ife
+		holder = edo0011
+		government = tribal_government
+	}
+	10876.1.1 = {
+		holder = edo0012
+	}
+
+	11054.1.1 = {
+		liege = d_benin
+		holder = edo0013
+	}
+	11086.1.1 = {
+		holder = edo0014
+	}
+	11117.1.1 = {
+		holder = edo0015
+	}
+	11137.1.1 = {
+		government = feudal_government
+		holder = edo0016
+	}
+	11178.1.1 = {
+		holder = edo0017
+	}
+}
+

@@ -1,0 +1,705 @@
+k_darfur = {
+	10867.1.1 = {	change_development_level = 1 }
+	11066.1.1 = { change_development_level = 3 }
+	11178.1.1 = { change_development_level = 6 }
+}
+
+d_darfur = {
+	10867.1.1 = {	change_development_level = 3 }
+	11066.1.1 = { change_development_level = 6 }
+	11178.1.1 = { change_development_level = 20 }
+}
+
+c_el_fasher = {
+	10860.1.1 = {
+		holder = daju0001
+		government = tribal_government
+	}
+	10901.1.1 = {
+		holder = daju0002
+	}
+	10928.1.1 = {
+		holder = daju0009
+	}
+	10996.1.1 = {
+		holder = daju0010
+	}
+	11040.1.1 = {
+		holder = daju0003
+	}
+	11080.1.1 = {
+		holder = daju0004
+	}
+	11104.1.1 = {
+		holder = daju0005
+	}
+	11139.1.1 = {
+		holder = daju0006
+	}
+	11172.1.1 = {
+		holder = daju0007
+	}
+	11196.1.1 = {
+		holder = daju0008
+	}
+}
+
+
+c_dar_al-said = {
+	10865.1.1 = {
+		holder = daju0001
+		government = tribal_government
+	}
+	10901.1.1 = {
+		holder = daju0002
+	}
+	10928.1.1 = {
+		holder = daju0009
+	}
+	10996.1.1 = {
+		holder = daju0010
+	}
+	11040.1.1 = {
+		holder = daju0003
+	}
+	11080.1.1 = {
+		holder = daju0004
+	}
+	11104.1.1 = {
+		holder = daju0005
+	}
+	11139.1.1 = {
+		holder = daju0006
+	}
+	11172.1.1 = {
+		holder = daju0007
+	}
+	11196.1.1 = {
+		holder = daju0008
+	}
+}
+
+
+c_dar-al-rih = {
+	#Norea clan zaghawadyn004
+	10860.1.1 = {
+		holder = zaghawa0031
+		government = tribal_government
+	}
+	10908.1.1 = {
+		holder = zaghawa0032
+	}
+	10962.1.1 = {
+		holder = zaghawa0033
+	}
+	11012.1.1 = {
+		holder = zaghawa0034
+	}
+	11053.1.1 = {
+		holder = zaghawa0035
+	}
+	11098.1.1 = {
+		holder = zaghawa0036
+	}
+	11120.1.1 = {
+		holder = zaghawa0037
+	}
+	11156.1.1 = {
+		holder = zaghawa0038
+	}
+	11188.1.1 = {
+		holder = zaghawa0039
+	}
+	11222.1.1 = {
+		holder = zaghawa0040
+	}
+}
+
+
+c_east_darfur = {
+	10860.1.1 = {
+		holder = daju0011
+		government = tribal_government
+	}
+	10890.1.1 = {
+		holder = daju0012
+	}
+	10933.1.1 = {
+		holder = daju0013
+	}
+	10990.1.1 = {
+		holder = daju0014
+	}
+	11050.1.1 = {
+		holder = daju0015
+	}
+	11081.1.1 = {
+		holder = daju0016
+	}
+	11120.1.1 = {
+		holder = daju0017
+	}
+	11159.1.1 = {
+		holder = daju0018
+	}
+	11199.1.1 = {
+		holder = daju0019
+	}
+	11235.1.1 = {
+		holder = daju0020
+	}
+}
+
+
+c_ayn_farah = {
+	#Kreda dynasty zaghawadyn003
+	10860.1.1 = {
+		holder = zaghawa0021
+		government = tribal_government
+	}
+	10897.1.1 = {
+		holder = zaghawa0022
+	}
+	10933.1.1 = {
+		holder = zaghawa0023
+	}
+	10978.1.1 = {
+		holder = zaghawa0024
+	}
+	11030.1.1 = {
+		holder = zaghawa0025
+	}
+	11070.1.1 = {
+		holder = zaghawa0026
+	}
+	11116.1.1 = {
+		holder = zaghawa0027
+	}
+	11145.1.1 = {
+		holder = zaghawa0028
+	}
+	11183.1.1 = {
+		holder = zaghawa0029
+	}
+	11217.1.1 = {
+		holder = zaghawa0030
+	}
+}
+
+
+c_qimr = {
+	#Kreda dynasty zaghawadyn003
+	10860.1.1 = {
+		holder = zaghawa0021
+		government = tribal_government
+	}
+	10897.1.1 = {
+		holder = zaghawa0022
+	}
+	10933.1.1 = {
+		holder = zaghawa0023
+	}
+	10978.1.1 = {
+		holder = zaghawa0024
+	}
+	11030.1.1 = {
+		holder = zaghawa0025
+	}
+	11070.1.1 = {
+		holder = zaghawa0026
+	}
+	11116.1.1 = {
+		holder = zaghawa0027
+	}
+	11145.1.1 = {
+		holder = zaghawa0028
+	}
+	11183.1.1 = {
+		holder = zaghawa0029
+	}
+	11217.1.1 = {
+		holder = zaghawa0030
+	}
+}
+
+
+c_masalit = {
+	#Kreda dynasty zaghawadyn003
+	10860.1.1 = {
+		holder = zaghawa0021
+		government = tribal_government
+	}
+	10897.1.1 = {
+		holder = zaghawa0022
+	}
+	10933.1.1 = {
+		holder = zaghawa0023
+	}
+	10978.1.1 = {
+		holder = zaghawa0024
+	}
+	11030.1.1 = {
+		holder = zaghawa0025
+	}
+	11070.1.1 = {
+		holder = zaghawa0026
+	}
+	11116.1.1 = {
+		holder = zaghawa0027
+	}
+	11145.1.1 = {
+		holder = zaghawa0028
+	}
+	11183.1.1 = {
+		holder = zaghawa0029
+	}
+	11217.1.1 = {
+		holder = zaghawa0030
+	}
+}
+
+
+c_wadai = {
+	#Kayi dynasty 1059965
+	10850.1.1 = {
+		government = tribal_government
+		holder = 248769
+	}
+	10890.1.1 = {
+		holder = 248770
+	}
+	10920.1.1 = {
+		holder = 248771
+	}
+	10935.1.1 = {
+		holder = 248772
+	}
+	10960.1.1 = {
+		holder = 248773
+	}
+	11000.1.1 = {
+		holder = 248774
+	}
+	11020.1.1 = {
+		holder = 248775
+	}
+	11060.1.1 = {
+		holder = 248776
+	}
+	11081.1.1 = {
+		holder = 248777
+	}
+	11110.1.1 = {
+		holder = 248778
+	}
+	11114.1.1 = {
+		holder = 248779
+	}
+	11150.1.1 = {
+		holder = 248780
+	}
+	11170.1.1 = {
+		holder = 248781
+	}
+	11200.1.1 = {
+		holder = 248782
+	}
+	11220.1.1 = {
+		holder = 248783
+	}
+	11250.1.1 = {
+		holder = 248784
+	}
+	11280.1.1 = {
+		holder = 248785
+	}
+	11310.1.1 = {
+		holder = 248786
+	}
+	11340.1.1 = {
+		holder = 248787
+	}
+}
+
+
+c_dar_sila = {
+	#Sao culture
+	10750.1.1= {
+		liege=0
+		holder=248717
+		government = tribal_government
+	}
+	10800.1.1= {
+		holder=248718
+	}
+	10840.1.1= {
+		holder=248719
+	}
+	10880.1.1= {
+		holder=248720
+	}
+	10935.1.1= {
+		holder=248721
+	}
+	10970.1.1= {
+		holder=248722
+	}
+	11010.1.1= {
+		holder=248723
+	}
+	11066.1.1= {
+		holder=248724
+	}
+	11083.1.1= {
+		holder=248725
+	}
+	11120.1.1= {
+		holder=248726
+	}
+	11160.1.1= {
+		holder=248727
+	}
+	11190.1.1= {
+		holder=248728
+	}
+	11220.1.1= {
+		holder=248729
+	}
+	11223.1.1= {
+		#liege=k_kanem
+		holder=248754
+	}
+	11242.1.1= {
+	  holder=248755
+	}
+	11270.1.1= {
+	  holder=248756
+	}
+	11290.1.1= {
+	  holder=248757
+	}
+	11310.1.1= {
+	  holder=248758
+	}
+	11328.1.1= {
+	  holder=248759
+	}
+	11332.1.1= {
+	  holder=248760
+	}
+	11333.1.1= {
+	  holder=248761
+	}
+	11334.1.1= {
+	  holder=248762
+	}
+	11335.1.1= {
+	  holder=248763
+	}
+}
+
+
+c_kadam = {
+	#Kayi dynasty 1059965
+	10850.1.1 = {
+		government = tribal_government
+		holder = 248769
+	}
+	10890.1.1 = {
+		holder = 248770
+	}
+	10920.1.1 = {
+		holder = 248771
+	}
+	10935.1.1 = {
+		holder = 248772
+	}
+	10960.1.1 = {
+		holder = 248773
+	}
+	11000.1.1 = {
+		holder = 248774
+	}
+	11020.1.1 = {
+		holder = 248775
+	}
+	11060.1.1 = {
+		holder = 248776
+	}
+	11081.1.1 = {
+		holder = 248777
+	}
+	11110.1.1 = {
+		holder = 248778
+	}
+	11114.1.1 = {
+		holder = 248779
+	}
+	11150.1.1 = {
+		holder = 248780
+	}
+	11170.1.1 = {
+		holder = 248781
+	}
+	11200.1.1 = {
+		holder = 248782
+	}
+	11220.1.1 = {
+		holder = 248783
+	}
+	11250.1.1 = {
+		holder = 248784
+	}
+	11280.1.1 = {
+		holder = 248785
+	}
+	11310.1.1 = {
+		holder = 248786
+	}
+	11340.1.1 = {
+		holder = 248787
+	}
+}
+
+
+c_fitri = {
+	#Kayi dynasty 1059965
+	10850.1.1 = {
+		government = tribal_government
+		holder = 248769
+	}
+	10890.1.1 = {
+		holder = 248770
+	}
+	10920.1.1 = {
+		holder = 248771
+	}
+	10935.1.1 = {
+		holder = 248772
+	}
+	10960.1.1 = {
+		holder = 248773
+	}
+	11000.1.1 = {
+		holder = 248774
+	}
+	11020.1.1 = {
+		holder = 248775
+	}
+	11060.1.1 = {
+		holder = 248776
+	}
+	11081.1.1 = {
+		holder = 248777
+	}
+	11110.1.1 = {
+		holder = 248778
+	}
+	11114.1.1 = {
+		holder = 248779
+	}
+	11150.1.1 = {
+		holder = 248780
+	}
+	11170.1.1 = {
+		holder = 248781
+	}
+	11200.1.1 = {
+		holder = 248782
+	}
+	11220.1.1 = {
+		holder = 248783
+	}
+	11250.1.1 = {
+		holder = 248784
+	}
+	11280.1.1 = {
+		holder = 248785
+	}
+	11310.1.1 = {
+		holder = 248786
+	}
+	11340.1.1 = {
+		holder = 248787
+	}
+}
+
+
+c_fellata = {
+	10860.1.1 = {
+		holder = sao0011
+		government = tribal_government
+	}
+	10890.1.1 = {
+		holder = sao0012
+	}
+	10933.1.1 = {
+		holder = sao0013
+	}
+	10990.1.1 = {
+		holder = sao0014
+	}
+	11050.1.1 = {
+		holder = sao0015
+	}
+	11081.1.1 = {
+		holder = sao0016
+	}
+	11120.1.1 = {
+		holder = sao0017
+	}
+	11159.1.1 = {
+		holder = sao0018
+	}
+	11199.1.1 = {
+		holder = sao0019
+	}
+	11235.1.1 = {
+		holder = sao0020
+	}
+}
+
+
+c_ghazzal = {
+	#Koeherda dynasty zaghawadyn002
+	10860.1.1 = {
+		holder = zaghawa0011
+		government = tribal_government
+	}
+	10912.1.1 = {
+		holder = zaghawa0012
+	}
+	10970.1.1 = {
+		holder = zaghawa0013
+	}
+	11025.1.1 = {
+		holder = zaghawa0014
+	}
+	11060.1.1 = {
+		holder = zaghawa0015
+	}
+	11095.1.1 = {
+		holder = zaghawa0016
+	}
+	11127.1.1 = {
+		holder = zaghawa0017
+	}
+	11158.1.1 = {
+		holder = zaghawa0018
+	}
+	11189.1.1 = {
+		holder = zaghawa0019
+	}
+	11228.1.1 = {
+		holder = zaghawa0020
+	}
+}
+
+
+c_kordofan = {
+
+	10860.1.1 = {
+		holder = daju0021
+		government = tribal_government
+	}
+	10897.1.1 = {
+		holder = daju0022
+	}
+	10933.1.1 = {
+		holder = daju0023
+	}
+	10978.1.1 = {
+		holder = daju0024
+	}
+	11030.1.1 = {
+		holder = daju0025
+	}
+	11070.1.1 = {
+		holder = daju0026
+	}
+	11116.1.1 = {
+		holder = daju0027
+	}
+	11145.1.1 = {
+		holder = daju0028
+	}
+	11183.1.1 = {
+		holder = daju0029
+	}
+	11217.1.1 = {
+		holder = daju0030
+	}
+}
+
+
+c_west_kordofan = {
+
+	10860.1.1 = {
+		holder = daju0011
+		government = tribal_government
+	}
+	10890.1.1 = {
+		holder = daju0012
+	}
+	10933.1.1 = {
+		holder = daju0013
+	}
+	10990.1.1 = {
+		holder = daju0014
+	}
+	11050.1.1 = {
+		holder = daju0015
+	}
+	11081.1.1 = {
+		holder = daju0016
+	}
+	11120.1.1 = {
+		holder = daju0017
+	}
+	11159.1.1 = {
+		holder = daju0018
+	}
+	11199.1.1 = {
+		holder = daju0019
+	}
+	11235.1.1 = {
+		holder = daju0020
+	}
+}
+
+
+c_south_kordofan = {
+
+	10860.1.1 = {
+		holder = daju0021
+		government = tribal_government
+	}
+	10897.1.1 = {
+		holder = daju0022
+	}
+	10933.1.1 = {
+		holder = daju0023
+	}
+	10978.1.1 = {
+		holder = daju0024
+	}
+	11030.1.1 = {
+		holder = daju0025
+	}
+	11070.1.1 = {
+		holder = daju0026
+	}
+	11116.1.1 = {
+		holder = daju0027
+	}
+	11145.1.1 = {
+		holder = daju0028
+	}
+	11183.1.1 = {
+		holder = daju0029
+	}
+	11217.1.1 = {
+		holder = daju0030
+	}
+}
+

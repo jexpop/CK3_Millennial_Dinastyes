@@ -1,4 +1,4 @@
-k_kham = {
+﻿k_kham = {
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 14 }
@@ -726,7 +726,7 @@ c_banbar = {
 
 
 d_boyul = {
-	#Boyül Kingdom - offshoot of Purgyal Dynasty (fictional placeholders)
+	#Boy�l Kingdom - offshoot of Purgyal Dynasty (fictional placeholders)
 	10630.1.1={
 		liege="e_tibet"
 		holder=247077
@@ -859,7 +859,7 @@ d_boyul = {
 }
 
 c_bome = {
-	#Boyül Kingdom - offshoot of Purgyal Dynasty (fictional placeholders)
+	#Boy�l Kingdom - offshoot of Purgyal Dynasty (fictional placeholders)
 	10630.1.1={
 		holder=247077
 		liege="d_boyul"
@@ -981,7 +981,7 @@ c_bome = {
 }
 
 c_baxoi = {
-	#Boyül Kingdom - offshoot of Purgyal Dynasty (fictional placeholders)
+	#Boy�l Kingdom - offshoot of Purgyal Dynasty (fictional placeholders)
 	10630.1.1={
 		holder=247077
 		liege="d_boyul"
@@ -1104,7 +1104,7 @@ c_baxoi = {
 
 
 c_zogang = {
-	#Boyül Kingdom - offshoot of Purgyal Dynasty (fictional placeholders)
+	#Boy�l Kingdom - offshoot of Purgyal Dynasty (fictional placeholders)
 	10630.1.1={
 		holder=247077
 		liege="d_boyul"
@@ -1530,7 +1530,7 @@ c_gongbo = {
 
 
 d_nangqen = {
-	#Nangqên Kingdom
+	#Nangq�n Kingdom
 	10740.1.1={
 		liege = "e_tibet"
 		holder = 304264
@@ -1637,7 +1637,7 @@ d_nangqen = {
 
 
 c_nangqen = {
-	#Nangqên Kingdom
+	#Nangq�n Kingdom
 	10740.1.1={
 		liege="d_nangqen"
 		holder = 304264
@@ -1733,7 +1733,7 @@ c_nangqen = {
 
 
 c_gyegumdo = {
-	#Nangqên Kingdom
+	#Nangq�n Kingdom
 	10740.1.1={
 		liege="d_nangqen"
 		holder = 304264
@@ -3610,7 +3610,7 @@ c_nyagrong = {
 
 
 #d_deqen = { #DELETE
-#	#Dêqên Kingdom
+#	#D�q�n Kingdom
 #	10740.1.1={
 #		liege = "e_tibet"
 #		holder = 304384
@@ -3712,7 +3712,7 @@ c_nyagrong = {
 
 
 c_deqen = {
-	#Dêqên Kingdom
+	#D�q�n Kingdom
 	10740.1.1={
 		#liege="d_deqen"
 		holder = 304384
@@ -3808,7 +3808,7 @@ c_deqen = {
 
 
 c_gyaitang = {
-	#Dêqên Kingdom
+	#D�q�n Kingdom
 	10740.1.1={
 		#liege="d_deqen"
 		holder = 304384

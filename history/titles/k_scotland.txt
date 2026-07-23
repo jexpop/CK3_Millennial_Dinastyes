@@ -1,4 +1,4 @@
-k_scotland = {
+﻿k_scotland = {
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -2639,7 +2639,7 @@ c_argyll = {
 		holder = 7278
 	}
 	11266.1.1 = {
-		holder = 7279 # Cailean MÃ³r Campbell
+		holder = 7279 # Cailean Mór Campbell
 		liege = k_scotland
 	}
 	11296.10.1 = {
@@ -3040,22 +3040,22 @@ d_moray = {
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
 	}
 	11005.7.1 = {
-		holder = 5998 #Findláech mac Ruaidri
+		holder = 5998 #Findl�ech mac Ruaidri
 	}
 	11020.7.1 = {
-		holder = 83587 #Máel Coluim mac Maíl Brigte
+		holder = 83587 #M�el Coluim mac Ma�l Brigte
 	}
 	11029.7.1 = {
-		holder = 6002 #Gille-Comgáin mac Maíl-Brigte
+		holder = 6002 #Gille-Comg�in mac Ma�l-Brigte
 	}
 	11032.7.1 = {
-		holder = 5996 #Mac Bethad mac Findlaích
+		holder = 5996 #Mac Bethad mac Findla�ch
 	}
 	11040.1.1 = {
-		holder = 6006 #Lulach mac Gille-Comgáin
+		holder = 6006 #Lulach mac Gille-Comg�in
 	}
 	11058.1.2 = {
-		holder = 6008 #Máel-Snechtai mac Lulaigh
+		holder = 6008 #M�el-Snechtai mac Lulaigh
 	}
 	11085.1.1 = {
 		holder = 6012 #Aengus mac ingine Lulaigh
@@ -3070,7 +3070,7 @@ d_moray = {
 		holder = 202973 #Gofraid mac Uilleim
 	}
 	11213.1.1 = {
-		holder = 202974 #Domnall Bán mac Uilleim
+		holder = 202974 #Domnall B�n mac Uilleim
 	}
 	11215.6.15 = {
 		holder = 6900 #Alexander II
@@ -3169,22 +3169,22 @@ c_moray = {
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
 	}
 	11005.7.1 = {
-		holder = 5998 #Findláech mac Ruaidri
+		holder = 5998 #Findl�ech mac Ruaidri
 	}
 	11020.7.1 = {
-		holder = 83587 #Máel Coluim mac Maíl Brigte
+		holder = 83587 #M�el Coluim mac Ma�l Brigte
 	}
 	11029.7.1 = {
-		holder = 6002 #Gille-Comgáin mac Maíl-Brigte
+		holder = 6002 #Gille-Comg�in mac Ma�l-Brigte
 	}
 	11032.7.1 = {
-		holder = 5996 #Mac Bethad mac Findlaích
+		holder = 5996 #Mac Bethad mac Findla�ch
 	}
 	11040.1.1 = {
-		holder = 6006 #Lulach mac Gille-Comgáin
+		holder = 6006 #Lulach mac Gille-Comg�in
 	}
 	11058.1.2 = {
-		holder = 6008 #Máel-Snechtai mac Lulaigh
+		holder = 6008 #M�el-Snechtai mac Lulaigh
 	}
 	11085.1.1 = {
 		holder = 6012 #Aengus mac ingine Lulaigh
@@ -3199,7 +3199,7 @@ c_moray = {
 		holder = 202973 #Gofraid mac Uilleim
 	}
 	11213.1.1 = {
-		holder = 202974 #Domnall Bán mac Uilleim
+		holder = 202974 #Domnall B�n mac Uilleim
 	}
 	11215.6.15 = {
 		holder = 203005 #William Comyn
@@ -3247,25 +3247,25 @@ c_ross = {
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
 	}
 	11005.7.1 = {
-		holder = 5998 #Findláech mac Ruaidri
+		holder = 5998 #Findl�ech mac Ruaidri
 	}
 	11020.7.1 = {
-		holder = 83587 #Máel Coluim mac Maíl Brigte
+		holder = 83587 #M�el Coluim mac Ma�l Brigte
 	}
 	11029.7.1 = {
-		holder = 6002 #Gille-Comgáin mac Maíl-Brigte
+		holder = 6002 #Gille-Comg�in mac Ma�l-Brigte
 	}
 	11032.7.1 = {
-		holder = 5996 #Mac Bethad mac Findlaích
+		holder = 5996 #Mac Bethad mac Findla�ch
 	}
 	11040.1.1 = {
-		holder = 6006 #Lulach mac Gille-Comgáin
+		holder = 6006 #Lulach mac Gille-Comg�in
 	}
 	11058.1.2 = {
-		holder = 6008 #Máel-Snechtai mac Lulaigh
+		holder = 6008 #M�el-Snechtai mac Lulaigh
 	}
 	11085.1.1 = {
-		holder = 6014 #Máel-Coluim mac ingine Lulaigh
+		holder = 6014 #M�el-Coluim mac ingine Lulaigh
 	}
 	11116.7.1 = {
 		holder = 83588 #Aed of the Macheths
@@ -3274,7 +3274,7 @@ c_ross = {
 		liege = "k_scotland"
 	}
 	11129.7.1 = {
-		holder = 83589 #Máel-Coluim Macheth
+		holder = 83589 #M�el-Coluim Macheth
 	}
 	11168.10.23 = {
 		holder = 202971 # Domnall mac Uilleim
@@ -3371,7 +3371,7 @@ c_sutherland = {
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
 	}
 	11058.1.2 = {
-		holder = 6008 #MÃ¡el-Snechtai mac Lulaigh
+		holder = 6008 #Máel-Snechtai mac Lulaigh
 	}
 	11066.1.1 = {
 		liege = "d_northern_isles"
@@ -3561,22 +3561,22 @@ c_inverness = {
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
 	}
 	11005.7.1 = {
-		holder = 5998 #FindlÃ¡ech mac Ruaidri
+		holder = 5998 #Findláech mac Ruaidri
 	}
 	11020.7.1 = {
-		holder = 83587 #MÃ¡el Coluim mac MaÃ­l Brigte
+		holder = 83587 #Máel Coluim mac Maíl Brigte
 	}
 	11029.7.1 = {
-		holder = 6002 #Gille-ComgÃ¡in mac MaÃ­l-Brigte
+		holder = 6002 #Gille-Comgáin mac Maíl-Brigte
 	}
 	11032.7.1 = {
-		holder = 5996 #Mac Bethad mac FindlaÃ­ch
+		holder = 5996 #Mac Bethad mac Findlaích
 	}
 	11040.1.1 = {
-		holder = 6006 #Lulach mac Gille-ComgÃ¡in
+		holder = 6006 #Lulach mac Gille-Comgáin
 	}
 	11058.1.2 = {
-		holder = 6008 #MÃ¡el-Snechtai mac Lulaigh
+		holder = 6008 #Máel-Snechtai mac Lulaigh
 		government = tribal_government
 	}
 	11085.1.1 = {
@@ -3592,7 +3592,7 @@ c_inverness = {
 		holder = 202973 #Gofraid mac Uilleim
 	}
 	11213.1.1 = {
-		holder = 202974 #Domnall BÃ¡n mac Uilleim
+		holder = 202974 #Domnall Bán mac Uilleim
 	}
 	11215.6.15 = {
 		holder = 203005 #William Comyn

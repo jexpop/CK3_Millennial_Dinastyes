@@ -1,4 +1,4 @@
-#k_bohemia
+﻿#k_bohemia
 ##d_bohemia ###################################
 ###c_praha
 4125 = {	#PRAHA
@@ -168,6 +168,7 @@
 }
 4134 = {	#BEZDEZ
 	holding = none
+	special_building_slot = trosky_castle_01
 }
 
 ###c_hradec

@@ -1,4 +1,4 @@
-k_novgorod  = {
+﻿k_novgorod  = {
 	10867.1.1 = { change_development_level = 0 }
 	11066.1.1 = { change_development_level = 2 }
 	11178.1.1 = { change_development_level = 5 }
@@ -875,7 +875,7 @@ c_vodi = {
 d_vepsia = {
 	###Pre Kievan Rus
 	10860.1.2 = {
-		holder = 159715	#assumed fictional Karhu Vepsä
+		holder = 159715	#assumed fictional Karhu Veps�
 		liege = 0
 		government = tribal_government
 	}
@@ -1045,7 +1045,7 @@ c_beloozero = {
 c_tikhvin = {
 	###Pre Kievan Rus
 	10860.1.2 = {
-		holder = 159715	#assumed fictional Karhu Vepsä
+		holder = 159715	#assumed fictional Karhu Veps�
 		liege = d_vepsia
 		government = tribal_government
 	}
@@ -1196,7 +1196,7 @@ c_tikhvin = {
 c_vyangi = {
 	###Pre Kievan Rus
 	10860.1.2 = {
-		holder = 159715	#assumed fictional Karhu Vepsä
+		holder = 159715	#assumed fictional Karhu Veps�
 		liege = d_vepsia
 		government = tribal_government
 	}
@@ -1463,7 +1463,7 @@ c_luki = {
 c_valdai = {
 	###Pre Kievan Rus
 	10865.1.2 = {
-		holder = 302223	#fictional Kyyrö Valdii
+		holder = 302223	#fictional Kyyr� Valdii
 		liege = d_vepsia
 		government = tribal_government
 	}
@@ -1588,7 +1588,7 @@ c_valdai = {
 c_bezichi = {
 	###Pre Kievan Rus
 	10865.1.2 = {
-		holder = 302223	#fictional Kyyrö Valdii
+		holder = 302223	#fictional Kyyr� Valdii
 		liege = d_vepsia
 		government = tribal_government
 	}

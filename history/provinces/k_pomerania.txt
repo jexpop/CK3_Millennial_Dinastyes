@@ -1,4 +1,4 @@
-#k_pomerania
+﻿#k_pomerania
 ##d_pomerania ###################################
 ###c_stettin (c_szczecin)
 2823 = {	#SZCZECZIN
@@ -12,7 +12,7 @@
 		religion = catholic
 	}
 }
-2822 = {	#b_ucramund WKRA = Ueckermünde
+2822 = {	#b_ucramund WKRA = Ueckerm�nde
 	holding = none
 	10930.1.1 = {
 		holding = city_holding

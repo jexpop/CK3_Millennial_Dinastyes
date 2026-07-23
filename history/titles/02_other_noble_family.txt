@@ -778,7 +778,17 @@ c_nf_yelu = { # Yelü 耶律
 		government = meritocratic_government
 		succession_laws = { noble_family_succession_law }
 	}
-	11178.1.1 = { holder = 0 }
+	11066.9.15 = {
+		effect = { destroy_landless_title_no_tgp_dlc_effect = { DATE = 11066.9.15 } }
+	}
+	11178.1.1 = {	
+		liege = e_kara_khitai
+		holder = 188912 # Yelu Zhilugu
+		government = steppe_admin_government
+	}
+	11178.10.1 = {
+		effect = { destroy_landless_title_no_tgp_dlc_effect = { DATE = 11178.10.1 } }
+	}
 }
 
 c_nf_liao_xiao = {

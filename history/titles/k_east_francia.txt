@@ -1,4 +1,4 @@
-k_east_francia = {
+﻿k_east_francia = {
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 24 }
@@ -2642,7 +2642,7 @@ c_grisons = {
 		holder = 223597
 	}
 	11162.1.1 = {
-		holder = 33553 # Hugo II, count of Tübingen
+		holder = 33553 # Hugo II, count of T�bingen
 		liege = e_hre
 	}
 	11187.1.1 = {
@@ -3592,7 +3592,7 @@ c_grunningen = {
 	11268.10.29 = {
 		liege = "e_hre"
 	}
-	#counts of Tübingen
+	#counts of T�bingen
 	
 	11268.10.29 = {
 		holder = 33558
@@ -4197,7 +4197,7 @@ c_bremen = {
 	}
 	
 	11178.6.18 = {
-		holder = 30305 #Bertram von Köln
+		holder = 30305 #Bertram von K�ln
 		liege = "d_angria"
 	}
 	
@@ -4232,7 +4232,7 @@ c_bremen = {
 		holder = 30310 #Heinrich von Goltern
 	}
 	11308.1.1 = {
-		holder = 30311 #Bernhard von Wölpe
+		holder = 30311 #Bernhard von W�lpe
 	}
 	
 	11310.9.17 = {
@@ -7045,10 +7045,10 @@ c_orlamunde = {
 		holder = 212430
 	}
 	11167.1.1 = {
-		holder = 31793 # Hermann I of Weimar-Orlamünde
+		holder = 31793 # Hermann I of Weimar-Orlam�nde
 	}
 	11176.1.2 = {
-		holder = 31794 # Siegfried III von Weimar-Orlamünde
+		holder = 31794 # Siegfried III von Weimar-Orlam�nde
 	}
 	11190.1.1 = {
 		holder = 212431
@@ -7432,7 +7432,7 @@ c_osnabruck = {
 		holder = 20224 #Benno von Osnabruck
 	}
 	11067.12.3 = {
-		holder = 30335 #Benno von Löhningen
+		holder = 30335 #Benno von L�hningen
 	}
 	11088.7.27 = {
 		holder = 30336 #Markward von Corvey
@@ -7487,7 +7487,7 @@ c_osnabruck = {
 	11258.12.20 =
 	
 	{
-	holder = 30356 #Baldewin von Rüssel
+	holder = 30356 #Baldewin von R�ssel
 	}
 	11264.1.1 =
 	
@@ -7530,7 +7530,7 @@ c_tecklenburg = {
 		holder = 20224 #Benno von Osnabruck
 	}
 	11067.12.3 = {
-		holder = 30335 #Benno von LÃ¶hningen
+		holder = 30335 #Benno von Löhningen
 	}
 	11088.7.27 = {
 		holder = 30336 #Markward von Corvey
@@ -7621,7 +7621,7 @@ c_munster = {
 	}
 	
 	11084.4.18 = {
-		holder = 30314 #Erpho von Münster
+		holder = 30314 #Erpho von M�nster
 	}
 	
 	11097.11.9 = {

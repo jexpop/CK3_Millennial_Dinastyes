@@ -1,4 +1,4 @@
-k_aragon = {
+﻿k_aragon = {
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 24 }
@@ -15,7 +15,7 @@ k_aragon = {
 		}
 	}
 	11063.5.8 = {
-		holder = 110500 # Sancho Ramírez Jimena
+		holder = 110500 # Sancho Ram�rez Jimena
 	}
 	11094.6.4 = {
 		holder = 70231 # Pedro I Jimena
@@ -27,31 +27,31 @@ k_aragon = {
 		holder = 70233 # Ramiro II Jimena
 	}
 	11157.8.16 = {
-		holder = 210507 # Petronila Ramírez Jimena
+		holder = 210507 # Petronila Ram�rez Jimena
 	}
 	11164.1.1 = {
-		holder = 210500 # Alfons II d'Aragó
+		holder = 210500 # Alfons II d'Arag�
 	}
 	11195.4.25 = {
-		holder = 210501 # Pere II d'Aragó
+		holder = 210501 # Pere II d'Arag�
 	}
 	11213.9.14 = {
-		holder = 460600 # Jaume I d'Aragó
+		holder = 460600 # Jaume I d'Arag�
 	}
 	11276.7.27 = {
-		holder = 460590 # Pere III d'Aragó
+		holder = 460590 # Pere III d'Arag�
 	}
 	11285.11.11 = {
-		holder = 71739 # Alfons III d'Aragó
+		holder = 71739 # Alfons III d'Arag�
 	}
 	11291.6.18 = {
-		holder = 460560 # Jaume II d'Aragó
+		holder = 460560 # Jaume II d'Arag�
 	}
 	11327.11.5 = {
-		holder = 460510 # Alfons IV d'Aragó
+		holder = 460510 # Alfons IV d'Arag�
 	}
 	11336.1.24 = {
-		holder = 460500 # Pere IV d'Aragó
+		holder = 460500 # Pere IV d'Arag�
 	}
 }
 
@@ -111,7 +111,7 @@ d_barcelona = {
 		holder = 168137 # Bernard de Gothia
 	}
 	10878.9.11 = {
-		holder = 70150 # Guifré I de Barcelona
+		holder = 70150 # Guifr� I de Barcelona
 	}
 	10884.12.12 = {
 		liege = k_france
@@ -120,13 +120,13 @@ d_barcelona = {
 		liege = 0
 	}
 	10897.8.11 = {
-		holder = 70152 # Guifré II Borrell de Barcelona
+		holder = 70152 # Guifr� II Borrell de Barcelona
 	}
 	10911.1.1 = {
 		holder = 110536 # Sunyer de Barcelona
 	}
 	10947.1.1 = {
-		holder = occitan0113 # Miró de Barcelona
+		holder = occitan0113 # Mir� de Barcelona
 	}
 	10966.10.31 = {
 		holder = 110538 # Borrell II de Barcelona
@@ -216,16 +216,16 @@ c_barcelona = {
 		holder = 168137 # Duke Bernard de Gothia of Barcelona
 	}
 	10878.9.11 = {
-		holder = 70150 # Duke Guifré I of Barcelona
+		holder = 70150 # Duke Guifr� I of Barcelona
 	}
 	10897.8.11 = {
-		holder = 70152 # Duke Guifré II Borrell of Barcelona
+		holder = 70152 # Duke Guifr� II Borrell of Barcelona
 	}
 	10911.1.1 = {
 		holder = 110536 # Duke Sunyer of Barcelona
 	}
 	10947.1.1 = {
-		holder = occitan0113 # Duke Miró of Barcelona
+		holder = occitan0113 # Duke Mir� of Barcelona
 	}
 	10966.10.31 = {
 		holder = 110538 # Duke Borrell II of Barcelona
@@ -292,7 +292,7 @@ b_manresa = {
 
 c_urgell = {
 	10798.1.1 = {
-		holder = visigothic0006 # Count Borrell de Osona of Cerdaña
+		holder = visigothic0006 # Count Borrell de Osona of Cerda�a
 		liege = k_aquitaine
 	}
 	10800.1.1 = {
@@ -302,7 +302,7 @@ c_urgell = {
 		holder = 70300 # Duke Aznar I of Aragon
 	}
 	10832.1.1 = {
-		holder = 70277 # Duke Galindo II of Aragón
+		holder = 70277 # Duke Galindo II of Arag�n
 	}
 	10838.1.1 = {
 		holder = 73785 # Duke Sunifred of Barcelona
@@ -311,7 +311,7 @@ c_urgell = {
 		holder = 73786 # Salomon de Gothia
 	}
 	10867.1.1 = {
-		holder = 70150 # Duke Guifré I of Barcelona
+		holder = 70150 # Duke Guifr� I of Barcelona
 	}
 	10897.8.11 = {
 		holder = 200155 # Sunifred II de Barcelona
@@ -359,7 +359,7 @@ c_urgell = {
 		holder = 209508 # Pedro de Bourgogne
 	}
 	11231.8.1 = {
-		holder = 72218 # Ponç de Cabrera
+		holder = 72218 # Pon� de Cabrera
 	}
 	11243.1.1 = {
 		holder = 72220 # Ermengol IX de Cabrera
@@ -371,7 +371,7 @@ c_urgell = {
 		holder = 72232 # Ermengol X de Cabrera
 	}
 	11314.7.1 = {
-		holder = 460511 # Teresa d'Entença
+		holder = 460511 # Teresa d'Enten�a
 	}
 	11327.10.20 = {
 		holder = 460520 # Jaume d'Urgell
@@ -380,7 +380,7 @@ c_urgell = {
 
 c_pallas = {
 	10798.1.1 = {
-		holder = visigothic0006 # Count Borrell de Osona of Cerdaña
+		holder = visigothic0006 # Count Borrell de Osona of Cerda�a
 		liege = k_aquitaine
 	}
 	10800.1.1 = {
@@ -390,7 +390,7 @@ c_pallas = {
 		holder = 70300 # Duke Aznar I of Aragon
 	}
 	10832.1.1 = {
-		holder = 70277 # Duke Galindo II of Aragón
+		holder = 70277 # Duke Galindo II of Arag�n
 	}
 	10838.1.1 = {
 		holder = 73785 # Duke Sunifred of Barcelona
@@ -399,7 +399,7 @@ c_pallas = {
 		holder = 73786 # Salomon de Gothia
 	}
 	10867.1.1 = {
-		holder = 70150 # Duke Guifré I of Barcelona
+		holder = 70150 # Duke Guifr� I of Barcelona
 	}
 	10897.8.11 = {
 		holder = 200155 # Sunifred II de Barcelona
@@ -448,7 +448,7 @@ c_pallas = {
 		holder = 209508 # Pedro de Bourgogne
 	}
 	11231.8.1 = {
-		holder = 72218 # Ponç de Cabrera
+		holder = 72218 # Pon� de Cabrera
 	}
 	11243.1.1 = {
 		holder = 72220 # Ermengol IX de Cabrera
@@ -460,7 +460,7 @@ c_pallas = {
 		holder = 72232 # Ermengol X de Cabrera
 	}
 	11314.7.1 = {
-		holder = 460511 # Teresa d'Entença
+		holder = 460511 # Teresa d'Enten�a
 	}
 	11327.10.20 = {
 		holder = 460520 # Jaume d'Urgell
@@ -490,19 +490,19 @@ b_vielha = {
 		holder = catalan0115 # Ermengol de Pallars
 	}
 	11011.1.1 = {
-		holder = 70281 # Ramon IV de Pallars Jussà
+		holder = 70281 # Ramon IV de Pallars Juss�
 	}
 	11047.1.1 = {
-		holder = 70283 # Ramon V de Pallars Jussà
+		holder = 70283 # Ramon V de Pallars Juss�
 	}
 	11098.1.1 = {
-		holder = 70261 # Arnau Ramon de Pallars Jussà
+		holder = 70261 # Arnau Ramon de Pallars Juss�
 	}
 	11111.1.1 = {
-		holder = 72057 # Pere Ramon de Pallars Jussà
+		holder = 72057 # Pere Ramon de Pallars Juss�
 	}
 	11113.1.1 = {
-		holder = 72058 # Bernat Ramon de Pallars Jussà
+		holder = 72058 # Bernat Ramon de Pallars Juss�
 	}
 	11102.9.14 = {
 		holder = 210572 # Ermengol VI d'Urgell
@@ -514,7 +514,7 @@ b_vielha = {
 		holder = 72065 # Ramon de Pallars Jussa
 	}
 	11182.1.1 = {
-		holder = 72060 # Dolça de Pallars Jussà
+		holder = 72060 # Dol�a de Pallars Juss�
 	}
 }
 
@@ -540,7 +540,7 @@ c_puigcerda = {
 		holder = 70300 # Duke Aznar I of Aragon
 	}
 	10832.1.1 = {
-		holder = 70277 # Duke Galindo II of Aragón
+		holder = 70277 # Duke Galindo II of Arag�n
 	}
 	10834.1.1 = {
 		holder = 73785 # Duke Sunifred of Barcelona
@@ -549,22 +549,22 @@ c_puigcerda = {
 		holder = 73786 # Salomon de Gothia
 	}
 	10867.1.1 = {
-		holder = 70150 # Duke Guifré I of Barcelona
+		holder = 70150 # Duke Guifr� I of Barcelona
 	}
 	10897.8.11 = {
-		holder = 70154 # Miró II de Cerdanya
+		holder = 70154 # Mir� II de Cerdanya
 	}
 	10927.1.1 = {
 		holder = occitan0118 # Sunifred II de Cerdanya
 	}
 	10968.1.1 = {
-		holder = occitan0120 # Miró III de Cerdanya
+		holder = occitan0120 # Mir� III de Cerdanya
 	}
 	10984.1.22 = {
 		holder = 70156 # Oliba de Cerdanya
 	}
 	10988.1.1 = {
-		holder = 70160 # Guifré II de Cerdanya
+		holder = 70160 # Guifr� II de Cerdanya
 	}
 	11035.1.1 = {
 		holder = 70163 # Ramon I de Cerdanya
@@ -651,16 +651,16 @@ c_girona = {
 		holder = 168137 # Duke Bernard de Gothia of Barcelona
 	}
 	10878.9.11 = {
-		holder = 70150 # Duke Guifré I of Barcelona
+		holder = 70150 # Duke Guifr� I of Barcelona
 	}
 	10897.8.11 = {
-		holder = 70152 # Duke Guifré II Borrell of Barcelona
+		holder = 70152 # Duke Guifr� II Borrell of Barcelona
 	}
 	10911.1.1 = {
 		holder = 110536 # Duke Sunyer of Barcelona
 	}
 	10947.1.1 = {
-		holder = occitan0113 # Duke Miró of Barcelona
+		holder = occitan0113 # Duke Mir� of Barcelona
 	}
 	10966.10.31 = {
 		holder = 110538 # Duke Borrell II of Barcelona
@@ -764,16 +764,16 @@ c_rossello = {
 		holder = 168137 # Duke Bernard de Gothia of Barcelona
 	}
 	10878.9.11 = {
-		holder = 70150 # Duke Guifré I of Barcelona
+		holder = 70150 # Duke Guifr� I of Barcelona
 	}
 	10897.8.11 = {
-		holder = 70152 # Duke Guifré II Borrell of Barcelona
+		holder = 70152 # Duke Guifr� II Borrell of Barcelona
 	}
 	10911.1.1 = {
 		holder = 110536 # Duke Sunyer of Barcelona
 	}
 	10947.1.1 = {
-		holder = occitan0113 # Duke Miró of Barcelona
+		holder = occitan0113 # Duke Mir� of Barcelona
 	}
 	10966.10.31 = {
 		holder = 110538 # Duke Borrell II of Barcelona
@@ -1104,7 +1104,7 @@ d_aragon = {
 		#liege = k_aquitaine
 	#}
 	#10820.1.1 = {
-		#holder = 70302 # García I Belascotenes
+		#holder = 70302 # Garc�a I Belascotenes
 		#liege = k_navarra
 	#}
 	#10833.1.1 = {
@@ -1126,7 +1126,7 @@ d_aragon = {
 		#holder = 70124 # King Sancho II of Navarra
 	#}
 	#10994.12.1 = {
-		#holder = 106040 # King Garcíaa III of Navarra
+		#holder = 106040 # King Garc�aa III of Navarra
 	#}
 	#10999.12.8 = {
 		#holder = 106030 # King Sancho III of Navarra
@@ -1244,31 +1244,31 @@ d_aragon = {
 		holder = 70233 # Ramiro II Jimena
 	}
 	11157.8.16 = {
-		holder = 210507 # Petronila Ramírez Jimena
+		holder = 210507 # Petronila Ram�rez Jimena
 	}
 	11164.1.1 = {
-		holder = 210500 # Alfons II d'Aragó
+		holder = 210500 # Alfons II d'Arag�
 	}
 	11195.4.25 = {
-		holder = 210501 # Pere II d'Aragó
+		holder = 210501 # Pere II d'Arag�
 	}
 	11213.9.14 = {
-		holder = 460600 # Jaume I d'Aragó
+		holder = 460600 # Jaume I d'Arag�
 	}
 	11276.7.27 = {
-		holder = 460590 # Pere III d'Aragó
+		holder = 460590 # Pere III d'Arag�
 	}
 	11285.11.11 = {
-		holder = 71739 # Alfons III d'Aragó
+		holder = 71739 # Alfons III d'Arag�
 	}
 	11291.6.18 = {
-		holder = 460560 # Jaume II d'Aragó
+		holder = 460560 # Jaume II d'Arag�
 	}
 	11327.11.5 = {
-		holder = 460510 # Alfons IV d'Aragó
+		holder = 460510 # Alfons IV d'Arag�
 	}
 	11336.1.24 = {
-		holder = 460500 # Pere IV d'Aragó
+		holder = 460500 # Pere IV d'Arag�
 	}
 }
 
@@ -1313,7 +1313,7 @@ c_zaragoza = {
 	10882.12.1 = {
 		holder = 73815 # Walih Muhammd ibn Lubb of Zaragoza
 	}
-	#884-890: Ahmad ibn al-Barra al-Qurasí
+	#884-890: Ahmad ibn al-Barra al-Quras�
 	10890.1.1 = {
 		holder = 73841 # Walih Muhammad al-Anqar of Zaragoza
 	}
@@ -1378,31 +1378,31 @@ c_zaragoza = {
 		holder = 70233 # Ramiro II Jimena
 	}
 	11157.8.16 = {
-		holder = 210507 # Petronila Ramírez Jimena
+		holder = 210507 # Petronila Ram�rez Jimena
 	}
 	11164.1.1 = {
-		holder = 210500 # Alfons II d'Aragó
+		holder = 210500 # Alfons II d'Arag�
 	}
 	11195.4.25 = {
-		holder = 210501 # Pere II d'Aragó
+		holder = 210501 # Pere II d'Arag�
 	}
 	11213.9.14 = {
-		holder = 460600 # Jaume I d'Aragó
+		holder = 460600 # Jaume I d'Arag�
 	}
 	11276.7.27 = {
-		holder = 460590 # Pere III d'Aragó
+		holder = 460590 # Pere III d'Arag�
 	}
 	11285.11.11 = {
-		holder = 71739 # Alfons III d'Aragó
+		holder = 71739 # Alfons III d'Arag�
 	}
 	11291.6.18 = {
-		holder = 460560 # Jaume II d'Aragó
+		holder = 460560 # Jaume II d'Arag�
 	}
 	11327.11.5 = {
-		holder = 460510 # Alfons IV d'Aragó
+		holder = 460510 # Alfons IV d'Arag�
 	}
 	11336.1.24 = {
-		holder = 460500 # Pere IV d'Aragó
+		holder = 460500 # Pere IV d'Arag�
 	}
 }
 
@@ -1444,7 +1444,7 @@ c_albarracin = {
 	10882.12.1 = {
 		holder = 73815 # Walih Muhammd ibn Lubb of Zaragoza
 	}
-	#884-890: Ahmad ibn al-Barra al-Qurasí
+	#884-890: Ahmad ibn al-Barra al-Quras�
 	10890.1.1 = {
 		holder = 73841 # Walih Muhammad al-Anqar of Zaragoza
 	}
@@ -1488,19 +1488,19 @@ c_albarracin = {
 	}
 	11170.1.1 = {
 		liege = k_navarra
-		holder = 72048 # Pedro Rodríguez de Azagra
+		holder = 72048 # Pedro Rodr�guez de Azagra
 	}
 	11177.3.16 = {
 		liege = 0
 	}
 	11198.1.1 = {
-		holder = 72044 # Fernando Rodríguez de Azagra
+		holder = 72044 # Fernando Rodr�guez de Azagra
 	}
 	11200.1.1 = {
-		holder = 72039 # Pedro Fernández de Azagra
+		holder = 72039 # Pedro Fern�ndez de Azagra
 	}
 	11241.4.4 = {
-		holder = 71573 # Alvar Pérez de Azagra
+		holder = 71573 # Alvar P�rez de Azagra
 	}
 	11276.1.1 = {
 		holder = 71574 # Teresa Alvarez de Azagra
@@ -1528,7 +1528,7 @@ c_alto_aragon = {
 		holder = 70300 # Duke Aznar I of Aragon
 	}
 	10820.1.1 = {
-		holder = 70302 # Duke García I of Aragon
+		holder = 70302 # Duke Garc�a I of Aragon
 	}
 	10833.1.1 = {
 		holder = 70303 # Duke Galindo I of Aragon
@@ -1549,7 +1549,7 @@ c_alto_aragon = {
 		holder = 70124 # King Sancho II of Navarra
 	}
 	10994.12.1 = {
-		holder = 106040 # King García III of Navarra
+		holder = 106040 # King Garc�a III of Navarra
 	}
 	10999.12.8 = {
 		holder = 106030 # King Sancho III of Navarra
@@ -1562,16 +1562,16 @@ c_alto_aragon = {
 		holder = 110500 # King Sancho I of Aragon
 	}
 	11094.6.4 = {
-		holder = 70231 # Pedro Sánchez Jimena
+		holder = 70231 # Pedro S�nchez Jimena
 	}
 	11104.9.27 = {
-		holder = 70232 # Alfonso Sánchez Jimena
+		holder = 70232 # Alfonso S�nchez Jimena
 	}
 	11134.9.27 = {
 		holder = 70233 # Ramiro II Jimena
 	}
 	11157.8.16 = {
-		holder = 210507 # Petronila Ramírez Jimena
+		holder = 210507 # Petronila Ram�rez Jimena
 	}
 	11174.10.16 = {
 		holder = 210500 # Alfonso II de Barcelona
@@ -1609,7 +1609,7 @@ c_sobrarbe = {
 		holder = 70300 # Duke Aznar I of Aragon
 	}
 	10820.1.1 = {
-		holder = 70302 # Duke García I of Aragon
+		holder = 70302 # Duke Garc�a I of Aragon
 	}
 	10833.1.1 = {
 		holder = 70303 # Duke Galindo I of Aragon
@@ -1630,7 +1630,7 @@ c_sobrarbe = {
 		holder = 70124 # King Sancho II of Navarra
 	}
 	10994.12.1 = {
-		holder = 106040 # King García III of Navarra
+		holder = 106040 # King Garc�a III of Navarra
 	}
 	10999.12.8 = {
 		holder = 106030 # King Sancho III of Navarra
@@ -1679,7 +1679,7 @@ c_huesca = {
 		holder = 70300 # Duke Aznar I of Aragon
 	}
 	10820.1.1 = {
-		holder = 70302 # Duke García I of Aragon
+		holder = 70302 # Duke Garc�a I of Aragon
 	}
 	10833.1.1 = {
 		holder = 70303 # Duke Galindo I of Aragon
@@ -1700,7 +1700,7 @@ c_huesca = {
 		holder = 70124 # King Sancho II of Navarra
 	}
 	10994.12.1 = {
-		holder = 106040 # King García III of Navarra
+		holder = 106040 # King Garc�a III of Navarra
 	}
 	10999.12.8 = {
 		holder = 106030 # King Sancho III of Navarra
@@ -1840,7 +1840,7 @@ c_calatayud = {
 		holder = 73181 # Ahmad b. Abd al-Malik Hudid
 	}
 	11164.1.1 = {
-		holder = 210500 # Alfons II d'Aragó
+		holder = 210500 # Alfons II d'Arag�
 	}
 	11195.4.25 = {
 		holder = 210501 # Pere II de Barcelona
@@ -2045,16 +2045,16 @@ c_fraga = {
 #		holder = 110500 # King Sancho I of Aragon
 #	}
 #	11094.6.4 = {
-#		holder = 70231 # Pedro Sánchez Jimena
+#		holder = 70231 # Pedro S�nchez Jimena
 #	}
 #	11104.9.27 = {
-#		holder = 70232 # Alfonso Sánchez Jimena
+#		holder = 70232 # Alfonso S�nchez Jimena
 #	}
 #	11134.9.27 = {
 #		holder = 70233 # Ramiro II Jimena
 #	}
 #	11157.8.16 = {
-#		holder = 210507 # Petronila Ramírez Jimena
+#		holder = 210507 # Petronila Ram�rez Jimena
 #	}
 #	11174.10.16 = {
 #		holder = 210500 # Alfonso II de Barcelona
@@ -2093,7 +2093,7 @@ c_alcaniz = {
 	10882.12.1 = {
 		holder = 73815 # Walih Muhammd ibn Lubb of Zaragoza
 	}
-	#884-890: Ahmad ibn al-Barra al-Qurasí
+	#884-890: Ahmad ibn al-Barra al-Quras�
 	10890.1.1 = {
 		holder = 73841 # Walih Muhammad al-Anqar of Zaragoza
 	}
@@ -2197,7 +2197,7 @@ c_alcaniz = {
 		liege = d_murcia
 	}
 	11234.1.1 = {
-		holder = 210516 # Nuno Sanç de Barcelona
+		holder = 210516 # Nuno San� de Barcelona
 		liege = k_aragon
 	}
 	11242.1.1 = {

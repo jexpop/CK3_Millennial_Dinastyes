@@ -1,4 +1,4 @@
-k_norway = {
+﻿k_norway = {
 	20.1.1 = {
 		change_development_level = 2
 	}
@@ -51,7 +51,7 @@ k_norway = {
 		holder = 102529 #Magnus the Good
 	}
 	11047.10.25 = {
-		holder = 102531 # Harald Hardråde
+		holder = 102531 # Harald Hardr�de
 		succession_laws = { scandinavian_elective_succession_law }
 	}
 	11066.9.26 = {
@@ -61,7 +61,7 @@ k_norway = {
 		holder = 102534 # Olof Haraldson
 	}
 	11093.1.1 = {
-		holder = 102577 #  Håkon Magnuson
+		holder = 102577 #  H�kon Magnuson
 	}
 	11094.6.6 = {
 		holder = 202511 # Magnus Barfot
@@ -70,7 +70,7 @@ k_norway = {
 		holder = 222598 # Olaf Magnusson
 	}
 	11115.12.22 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -85,13 +85,13 @@ k_norway = {
 		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
 	}
 	11155.6.10 = {
-		holder = 202514 # Øystein, son of Harald Gille
+		holder = 202514 # �ystein, son of Harald Gille
 	}
 	11157.8.21 = {
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
 	}
 	11161.1.5 = {
-		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+		holder = 202507 # H�kon Herdebrei, son of Sigurd Munn
 	}
 	11162.7.7 = {
 		holder = 202051 # Magnus Erlingsson
@@ -100,25 +100,25 @@ k_norway = {
 		holder = 202500 # Sverre Sigurdsson
 	}
 	11202.3.9 = {
-		holder = 202502 # Håkon Sverreson
+		holder = 202502 # H�kon Sverreson
 	}
 	11204.1.1 = {
 		holder = 202508 # Guttorm Sigurdsson
 	}
 	11204.8.11 = {
-		holder = 202032 # Inge Bårdsson
+		holder = 202032 # Inge B�rdsson
 	}
 	11217.4.23 = {
-		holder = 202509 # Håkon Håkonsson
+		holder = 202509 # H�kon H�konsson
 	}
 	11263.12.15 = {
-		holder = 6905 # Magnus Lagaböter
+		holder = 6905 # Magnus Lagab�ter
 	}
 	11280.5.9 = {
-		holder = 6906 # Erik 'Prästhatare' Magnusson
+		holder = 6906 # Erik 'Pr�sthatare' Magnusson
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11314.1.1 = {
 		effect = {
@@ -127,9 +127,9 @@ k_norway = {
 		}
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
-	# 11343.11.18 Håkon Magnusson
+	# 11343.11.18 H�kon Magnusson
 
 }
 
@@ -181,7 +181,7 @@ c_raniriki = {
 		holder = 222598 # Olaf Magnusson
 	}
 	11115.12.22 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -208,13 +208,13 @@ c_raniriki = {
 		holder = 144250
 	}
 	11274.1.1 = {
-		holder = 6905 # Magnus Lagaböter
+		holder = 6905 # Magnus Lagab�ter
 	}
 	11280.5.9 = {
-		holder = 6906 # Erik 'Prästhatare' Magnusson
+		holder = 6906 # Erik 'Pr�sthatare' Magnusson
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11312.1.1 = {
 		liege = "d_ostergotland"
@@ -263,7 +263,7 @@ c_vingulmork = {
 		holder = 222598 # Olaf Magnusson
 	}
 	11115.12.22 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -288,28 +288,28 @@ c_vingulmork = {
 		holder = 202500 # Sverre Sigurdsson
 	}
 	11202.3.9 = {
-		holder = 202502 # Håkon Sverreson
+		holder = 202502 # H�kon Sverreson
 	}
 	11204.1.1 = {
 		holder = 202508 # Guttorm Sigurdsson
 	}
 	11204.8.11 = {
-		holder = 202032 # Inge Bårdsson
+		holder = 202032 # Inge B�rdsson
 	}
 	11217.4.23 = {
-		holder = 202509 # Håkon Håkonsson
+		holder = 202509 # H�kon H�konsson
 	}
 	11263.12.15 = {
-		holder = 6905 # Magnus Lagaböter
+		holder = 6905 # Magnus Lagab�ter
 	}
 	11280.5.9 = {
-		holder = 6906 # Erik 'Prästhatare' Magnusson
+		holder = 6906 # Erik 'Pr�sthatare' Magnusson
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 
 }
@@ -345,7 +345,7 @@ c_vestfold = {
 		holder = 222598 # Olaf Magnusson
 	}
 	11115.12.22 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -375,28 +375,28 @@ c_vestfold = {
 		holder = 202500 # Sverre Sigurdsson
 	}
 	11202.3.9 = {
-		holder = 202502 # Håkon Sverreson
+		holder = 202502 # H�kon Sverreson
 	}
 	11204.1.1 = {
 		holder = 202508 # Guttorm Sigurdsson
 	}
 	11204.8.11 = {
-		holder = 202032 # Inge Bårdsson
+		holder = 202032 # Inge B�rdsson
 	}
 	11217.4.23 = {
-		holder = 202509 # Håkon Håkonsson
+		holder = 202509 # H�kon H�konsson
 	}
 	11263.12.15 = {
-		holder = 6905 # Magnus Lagaböter
+		holder = 6905 # Magnus Lagab�ter
 	}
 	11280.5.9 = {
-		holder = 6906 # Erik 'Prästhatare' Magnusson
+		holder = 6906 # Erik 'Pr�sthatare' Magnusson
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 
 }
@@ -437,7 +437,7 @@ c_telemark = {
 		holder = 102534 # Olof Haraldson
 	}
 	11093.1.1 = {
-		holder = 102577 # Håkon Magnuson
+		holder = 102577 # H�kon Magnuson
 	}
 	11094.6.6 = {
 		holder = 202511 # Magnus Barfot
@@ -446,7 +446,7 @@ c_telemark = {
 		holder = 222598 # Olaf Magnusson
 	}
 	11115.12.22 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -461,7 +461,7 @@ c_telemark = {
 		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
 	}
 	11155.6.10 = {
-		holder = 202514 # Øystein, son of Harald Gille
+		holder = 202514 # �ystein, son of Harald Gille
 	}
 	11157.8.21 = {
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
@@ -479,31 +479,31 @@ c_telemark = {
 		holder = 202500 # Sverre Sigurdsson
 	}
 	11202.3.9 = {
-		holder = 202502 # Håkon Sverreson
+		holder = 202502 # H�kon Sverreson
 	}
 	11204.1.1 = {
 		holder = 202508 # Guttorm Sigurdsson
 	}
 	11204.8.11 = {
-		holder = 202032 # Inge Bårdsson
+		holder = 202032 # Inge B�rdsson
 	}
 	11217.4.23 = {
-		holder = 202509 # Håkon Håkonsson
+		holder = 202509 # H�kon H�konsson
 	}
 	11220.1.1 = {
 		holder = 194315
 	}
 	11263.12.15 = {
-		holder = 6905 # Magnus Lagaböter
+		holder = 6905 # Magnus Lagab�ter
 	}
 	11280.5.9 = {
-		holder = 6906 # Erik 'Prästhatare' Magnusson
+		holder = 6906 # Erik 'Pr�sthatare' Magnusson
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450740
@@ -547,7 +547,7 @@ c_nedenes = {
 		holder = 102534 # Olof Haraldson
 	}
 	11093.1.1 = {
-		holder = 102577 # Håkon Magnuson
+		holder = 102577 # H�kon Magnuson
 	}
 	11094.6.6 = {
 		holder = 202511 # Magnus Barfot
@@ -556,7 +556,7 @@ c_nedenes = {
 		holder = 222598 # Olaf Magnusson
 	}
 	11115.12.22 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -571,13 +571,13 @@ c_nedenes = {
 		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
 	}
 	11155.6.10 = {
-		holder = 202514 # Øystein, son of Harald Gille
+		holder = 202514 # �ystein, son of Harald Gille
 	}
 	11157.8.21 = {
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
 	}
 	11161.1.5 = {
-		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+		holder = 202507 # H�kon Herdebrei, son of Sigurd Munn
 	}
 	11162.7.7 = {
 		holder = 202051 # Magnus Erlingsson
@@ -592,31 +592,31 @@ c_nedenes = {
 		holder = 202500 # Sverre Sigurdsson
 	}
 	11202.3.9 = {
-		holder = 202502 # Håkon Sverreson
+		holder = 202502 # H�kon Sverreson
 	}
 	11204.1.1 = {
 		holder = 202508 # Guttorm Sigurdsson
 	}
 	11204.8.11 = {
-		holder = 202032 # Inge Bårdsson
+		holder = 202032 # Inge B�rdsson
 	}
 	11217.4.23 = {
-		holder = 202509 # Håkon Håkonsson
+		holder = 202509 # H�kon H�konsson
 	}
 	11220.1.1 = {
 		holder = 194315
 	}
 	11263.12.15 = {
-		holder = 6905 # Magnus Lagaböter
+		holder = 6905 # Magnus Lagab�ter
 	}
 	11280.5.9 = {
-		holder = 6906 # Erik 'Prästhatare' Magnusson
+		holder = 6906 # Erik 'Pr�sthatare' Magnusson
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450780
@@ -660,7 +660,7 @@ c_agdeside = {
 		holder = 102534 # Olof Haraldson
 	}
 	11093.1.1 = {
-		holder = 102577 # Håkon Magnuson
+		holder = 102577 # H�kon Magnuson
 	}
 	11094.6.6 = {
 		holder = 202511 # Magnus Barfot
@@ -669,7 +669,7 @@ c_agdeside = {
 		holder = 222598 # Olaf Magnusson
 	}
 	11115.12.22 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -684,13 +684,13 @@ c_agdeside = {
 		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
 	}
 	11155.6.10 = {
-		holder = 202514 # Øystein, son of Harald Gille
+		holder = 202514 # �ystein, son of Harald Gille
 	}
 	11157.8.21 = {
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
 	}
 	11161.1.5 = {
-		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+		holder = 202507 # H�kon Herdebrei, son of Sigurd Munn
 	}
 	11162.7.7 = {
 		holder = 202051 # Magnus Erlingsson
@@ -708,31 +708,31 @@ c_agdeside = {
 		holder = 202500 # Sverre Sigurdsson
 	}
 	11202.3.9 = {
-		holder = 202502 # Håkon Sverreson
+		holder = 202502 # H�kon Sverreson
 	}
 	11204.1.1 = {
 		holder = 202508 # Guttorm Sigurdsson
 	}
 	11204.8.11 = {
-		holder = 202032 # Inge Bårdsson
+		holder = 202032 # Inge B�rdsson
 	}
 	11217.4.23 = {
-		holder = 202509 # Håkon Håkonsson
+		holder = 202509 # H�kon H�konsson
 	}
 	11220.1.1 = {
 		holder = 194315
 	}
 	11263.12.15 = {
-		holder = 6905 # Magnus Lagaböter
+		holder = 6905 # Magnus Lagab�ter
 	}
 	11280.5.9 = {
-		holder = 6906 # Erik 'Prästhatare' Magnusson
+		holder = 6906 # Erik 'Pr�sthatare' Magnusson
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450780
@@ -782,31 +782,31 @@ c_rogalandi = {
 		holder = 202500 # Sverre Sigurdsson
 	}
 	11202.3.9 = {
-		holder = 202502 # Håkon Sverreson
+		holder = 202502 # H�kon Sverreson
 	}
 	11204.1.1 = {
 		holder = 202508 # Guttorm Sigurdsson
 	}
 	11204.8.11 = {
-		holder = 202032 # Inge Bårdsson
+		holder = 202032 # Inge B�rdsson
 	}
 	11217.4.23 = {
-		holder = 202509 # Håkon Håkonsson
+		holder = 202509 # H�kon H�konsson
 	}
 	11220.1.1 = {
 		holder = 194314
 	}
 	11263.12.15 = {
-		holder = 6905 # Magnus Lagaböter
+		holder = 6905 # Magnus Lagab�ter
 	}
 	11280.5.9 = {
-		holder = 6906 # Erik 'Prästhatare' Magnusson
+		holder = 6906 # Erik 'Pr�sthatare' Magnusson
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450730
@@ -834,7 +834,7 @@ c_hordalandi = {
 		government = tribal_government
 	}
 	10867.1.1 = {
-		holder = 166329 # Eirikr Horðalandi, from the Sagas
+		holder = 166329 # Eirikr Hor�alandi, from the Sagas
 	}
 	10935.1.1 = {
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
@@ -852,31 +852,31 @@ c_hordalandi = {
 		holder = 202500 # Sverre Sigurdsson
 	}
 	11202.3.9 = {
-		holder = 202502 # Håkon Sverreson
+		holder = 202502 # H�kon Sverreson
 	}
 	11204.1.1 = {
 		holder = 202508 # Guttorm Sigurdsson
 	}
 	11204.8.11 = {
-		holder = 202032 # Inge Bårdsson
+		holder = 202032 # Inge B�rdsson
 	}
 	11217.4.23 = {
-		holder = 202509 # Håkon Håkonsson
+		holder = 202509 # H�kon H�konsson
 	}
 	11220.1.1 = {
 		holder = 194314
 	}
 	11263.12.15 = {
-		holder = 6905 # Magnus Lagaböter
+		holder = 6905 # Magnus Lagab�ter
 	}
 	11280.5.9 = {
-		holder = 6906 # Erik 'Prästhatare' Magnusson
+		holder = 6906 # Erik 'Pr�sthatare' Magnusson
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		liege = "d_trandalog"
@@ -923,31 +923,31 @@ c_sogn = {
 		holder = 202500 # Sverre Sigurdsson
 	}
 	11202.3.9 = {
-		holder = 202502 # Håkon Sverreson
+		holder = 202502 # H�kon Sverreson
 	}
 	11204.1.1 = {
 		holder = 202508 # Guttorm Sigurdsson
 	}
 	11204.8.11 = {
-		holder = 202032 # Inge Bårdsson
+		holder = 202032 # Inge B�rdsson
 	}
 	11217.4.23 = {
-		holder = 202509 # Håkon Håkonsson
+		holder = 202509 # H�kon H�konsson
 	}
 	11220.1.1 = {
 		holder = 194314
 	}
 	11263.12.15 = {
-		holder = 6905 # Magnus Lagaböter
+		holder = 6905 # Magnus Lagab�ter
 	}
 	11280.5.9 = {
-		holder = 6906 # Erik 'Prästhatare' Magnusson
+		holder = 6906 # Erik 'Pr�sthatare' Magnusson
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		liege = "d_trandalog"
@@ -964,7 +964,7 @@ b_stolsheimen = {	#Fictional, to allow character placement.
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
 	}
 	11161.1.5 = {
-		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+		holder = 202507 # H�kon Herdebrei, son of Sigurd Munn
 	}
 	11162.7.7 = {
 		holder = 202050 # Erling Skakke
@@ -1001,7 +1001,7 @@ c_trandheim = {
 	}
 	11047.1.1 = {
 		liege = k_norway
-		holder = 102531 # Harald Hardråde
+		holder = 102531 # Harald Hardr�de
 	}
 	11066.9.26 = {
 		holder = 102532 # Magnus Haraldson
@@ -1013,13 +1013,13 @@ c_trandheim = {
 		holder = 202500 # Sverre Sigurdsson
 	}
 	11202.3.9 = {
-		holder = 202502 # Håkon Sverreson
+		holder = 202502 # H�kon Sverreson
 	}
 	11204.1.1 = {
 		holder = 202508 # Guttorm Sigurdsson
 	}
 	11204.8.11 = {
-		holder = 202032 # Inge Bårdsson
+		holder = 202032 # Inge B�rdsson
 	}
 	11217.4.23 = {
 		holder = 202034
@@ -1034,10 +1034,10 @@ c_trandheim = {
 		holder = 6906
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450790
@@ -1051,7 +1051,7 @@ b_eynafylki = {	#Fictional, to allow character placement.
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
 	}
 	11161.1.5 = {
-		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+		holder = 202507 # H�kon Herdebrei, son of Sigurd Munn
 	}
 	11162.7.7 = {
 		holder = 202051 # Magnus Erlingsson
@@ -1092,7 +1092,7 @@ c_norwegian_more = {
 	}
 	11047.1.1 = {
 		liege = k_norway
-		holder = 102531 # Harald Hardråde
+		holder = 102531 # Harald Hardr�de
 	}
 	11066.9.26 = {
 		holder = 102532 # Magnus Haraldson
@@ -1104,13 +1104,13 @@ c_norwegian_more = {
 		holder = 202500 # Sverre Sigurdsson
 	}
 	11202.3.9 = {
-		holder = 202502 # Håkon Sverreson
+		holder = 202502 # H�kon Sverreson
 	}
 	11204.1.1 = {
 		holder = 202508 # Guttorm Sigurdsson
 	}
 	11204.8.11 = {
-		holder = 202032 # Inge Bårdsson
+		holder = 202032 # Inge B�rdsson
 	}
 	11217.4.23 = {
 		holder = 202034
@@ -1125,10 +1125,10 @@ c_norwegian_more = {
 		holder = 6906
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450790
@@ -1174,31 +1174,31 @@ c_firdafylki = {
 		holder = 202500 # Sverre Sigurdsson
 	}
 	11202.3.9 = {
-		holder = 202502 # Håkon Sverreson
+		holder = 202502 # H�kon Sverreson
 	}
 	11204.1.1 = {
 		holder = 202508 # Guttorm Sigurdsson
 	}
 	11204.8.11 = {
-		holder = 202032 # Inge Bårdsson
+		holder = 202032 # Inge B�rdsson
 	}
 	11217.4.23 = {
-		holder = 202509 # Håkon Håkonsson
+		holder = 202509 # H�kon H�konsson
 	}
 	11220.1.1 = {
 		holder = 194314
 	}
 	11263.12.15 = {
-		holder = 6905 # Magnus Lagaböter
+		holder = 6905 # Magnus Lagab�ter
 	}
 	11280.5.9 = {
-		holder = 6906 # Erik 'Prästhatare' Magnusson
+		holder = 6906 # Erik 'Pr�sthatare' Magnusson
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		liege = "d_trandalog"
@@ -1237,7 +1237,7 @@ d_dalir = {
 		holder = 144248
 	}
 	11120.1.1 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -1252,13 +1252,13 @@ d_dalir = {
 		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
 	}
 	11155.6.10 = {
-		holder = 202514 # Øystein, son of Harald Gille
+		holder = 202514 # �ystein, son of Harald Gille
 	}
 	11157.8.21 = {
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
 	}
 	11161.1.5 = {
-		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+		holder = 202507 # H�kon Herdebrei, son of Sigurd Munn
 	}
 	11162.7.7 = {
 		holder = 202051 # Magnus Erlingsson
@@ -1276,7 +1276,7 @@ d_dalir = {
 		holder = 202034
 	}
 	11217.4.23 = {
-		holder = 202509 # Håkon Håkonsson
+		holder = 202509 # H�kon H�konsson
 	}
 	11240.5.24 = {
 		holder = 202035
@@ -1288,10 +1288,10 @@ d_dalir = {
 		holder = 6906
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450670
@@ -1335,7 +1335,7 @@ c_hedmork = {
 		holder = 144248
 	}
 	11120.1.1 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -1350,13 +1350,13 @@ c_hedmork = {
 		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
 	}
 	11155.6.10 = {
-		holder = 202514 # Øystein, son of Harald Gille
+		holder = 202514 # �ystein, son of Harald Gille
 	}
 	11157.8.21 = {
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
 	}
 	11161.1.5 = {
-		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+		holder = 202507 # H�kon Herdebrei, son of Sigurd Munn
 	}
 	11162.7.7 = {
 		holder = 202051 # Magnus Erlingsson
@@ -1378,7 +1378,7 @@ c_hedmork = {
 		holder = 202034
 	}
 	11217.4.23 = {
-		holder = 202509 # Håkon Håkonsson
+		holder = 202509 # H�kon H�konsson
 	}
 	11240.5.24 = {
 		holder = 202035
@@ -1390,10 +1390,10 @@ c_hedmork = {
 		holder = 6906
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450670
@@ -1427,7 +1427,7 @@ c_gudbrandsdalir = {
 		holder = 144248
 	}
 	11120.1.1 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -1442,13 +1442,13 @@ c_gudbrandsdalir = {
 		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
 	}
 	11155.6.10 = {
-		holder = 202514 # Øystein, son of Harald Gille
+		holder = 202514 # �ystein, son of Harald Gille
 	}
 	11157.8.21 = {
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
 	}
 	11161.1.5 = {
-		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+		holder = 202507 # H�kon Herdebrei, son of Sigurd Munn
 	}
 	11162.7.7 = {
 		holder = 202051 # Magnus Erlingsson
@@ -1470,7 +1470,7 @@ c_gudbrandsdalir = {
 		holder = 202034
 	}
 	11217.4.23 = {
-		holder = 202509 # Håkon Håkonsson
+		holder = 202509 # H�kon H�konsson
 	}
 	11240.5.24 = {
 		holder = 202035
@@ -1482,10 +1482,10 @@ c_gudbrandsdalir = {
 		holder = 6906
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450670
@@ -1519,7 +1519,7 @@ c_eystridalir = {
 		holder = 144248
 	}
 	11120.1.1 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -1534,13 +1534,13 @@ c_eystridalir = {
 		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
 	}
 	11155.6.10 = {
-		holder = 202514 # Øystein, son of Harald Gille
+		holder = 202514 # �ystein, son of Harald Gille
 	}
 	11157.8.21 = {
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
 	}
 	11161.1.5 = {
-		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+		holder = 202507 # H�kon Herdebrei, son of Sigurd Munn
 	}
 	11162.7.7 = {
 		holder = 202051 # Magnus Erlingsson
@@ -1562,7 +1562,7 @@ c_eystridalir = {
 		holder = 202034
 	}
 	11217.4.23 = {
-		holder = 202509 # Håkon Håkonsson
+		holder = 202509 # H�kon H�konsson
 	}
 	11240.5.24 = {
 		holder = 202035
@@ -1574,10 +1574,10 @@ c_eystridalir = {
 		holder = 6906
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450670
@@ -1603,7 +1603,7 @@ c_gauldala = {
 	}
 	11047.1.1 = {
 		liege = k_norway
-		holder = 102531 # Harald Hardråde
+		holder = 102531 # Harald Hardr�de
 	}
 	11066.9.26 = {
 		holder = 102532 # Magnus Haraldson
@@ -1612,7 +1612,7 @@ c_gauldala = {
 		holder = 102534 # Olof Haraldson
 	}
 	11093.1.1 = {
-		holder = 102577 # Håkon Magnuson
+		holder = 102577 # H�kon Magnuson
 	}
 	11094.6.6 = {
 		holder = 202511 # Magnus Barfot
@@ -1621,7 +1621,7 @@ c_gauldala = {
 		holder = 222598 # Olaf Magnusson
 	}
 	11115.12.22 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -1636,13 +1636,13 @@ c_gauldala = {
 		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
 	}
 	11155.6.10 = {
-		holder = 202514 # Øystein, son of Harald Gille
+		holder = 202514 # �ystein, son of Harald Gille
 	}
 	11157.8.21 = {
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
 	}
 	11161.1.5 = {
-		holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+		holder = 202507 # H�kon Herdebrei, son of Sigurd Munn
 	}
 	11162.7.7 = {
 		holder = 202051 # Magnus Erlingsson
@@ -1655,13 +1655,13 @@ c_gauldala = {
 		holder = 202500 # Sverre Sigurdsson
 	}
 	11202.3.9 = {
-		holder = 202502 # Håkon Sverreson
+		holder = 202502 # H�kon Sverreson
 	}
 	11204.1.1 = {
 		holder = 202508 # Guttorm Sigurdsson
 	}
 	11204.8.11 = {
-		holder = 202032 # Inge Bårdsson
+		holder = 202032 # Inge B�rdsson
 	}
 	11217.4.23 = {
 		holder = 202034
@@ -1676,10 +1676,10 @@ c_gauldala = {
 		holder = 6906
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450790
@@ -1703,7 +1703,7 @@ d_halogaland = {
 		holder = 222598 # Olaf Magnusson
 	}
 	11115.12.22 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -1718,7 +1718,7 @@ d_halogaland = {
 		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
 	}
 	11155.6.10 = {
-		holder = 202514 # Øystein, son of Harald Gille
+		holder = 202514 # �ystein, son of Harald Gille
 	}
 	11157.8.21 = {
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
@@ -1749,10 +1749,10 @@ d_halogaland = {
 		holder = 6906
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450780
@@ -1791,7 +1791,7 @@ c_vastvag = {
 		holder = 222598 # Olaf Magnusson
 	}
 	11115.12.22 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -1806,7 +1806,7 @@ c_vastvag = {
 		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
 	}
 	11155.6.10 = {
-		holder = 202514 # Øystein, son of Harald Gille
+		holder = 202514 # �ystein, son of Harald Gille
 	}
 	11157.8.21 = {
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
@@ -1836,10 +1836,10 @@ c_vastvag = {
 		holder = 6906
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450780
@@ -1878,7 +1878,7 @@ c_bothin = {
 		holder = 222598 # Olaf Magnusson
 	}
 	11115.12.22 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -1893,7 +1893,7 @@ c_bothin = {
 		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
 	}
 	11155.6.10 = {
-		holder = 202514 # Øystein, son of Harald Gille
+		holder = 202514 # �ystein, son of Harald Gille
 	}
 	11157.8.21 = {
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
@@ -1923,10 +1923,10 @@ c_bothin = {
 		holder = 6906
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450780
@@ -1952,7 +1952,7 @@ c_namdalfylki = {
 	}
 	11047.1.1 = {
 		liege = k_norway
-		holder = 102531 # Harald Hardråde
+		holder = 102531 # Harald Hardr�de
 	}
 	11066.9.26 = {
 		holder = 102532 # Magnus Haraldson
@@ -1961,7 +1961,7 @@ c_namdalfylki = {
 		holder = 102534 # Olof Haraldson
 	}
 	11093.1.1 = {
-		holder = 102577 # Håkon Magnuson
+		holder = 102577 # H�kon Magnuson
 	}
 	11094.6.6 = {
 		holder = 202511 # Magnus Barfot
@@ -1970,7 +1970,7 @@ c_namdalfylki = {
 		holder = 222598 # Olaf Magnusson
 	}
 	11115.12.22 = {
-		holder = 222597 # Øystein Magnusson
+		holder = 222597 # �ystein Magnusson
 	}
 	11123.8.29 = {
 		holder = 222595 # Sigurd Magnusson
@@ -1985,7 +1985,7 @@ c_namdalfylki = {
 		holder = 202501 # Sigurd Munn, son of Harald Gille, actually co-regent with 202514 and 202512
 	}
 	11155.6.10 = {
-		holder = 202514 # Øystein, son of Harald Gille
+		holder = 202514 # �ystein, son of Harald Gille
 	}
 	11157.8.21 = {
 		holder = 202512 # Inge Krokrygg, son of Harald Gille
@@ -2001,13 +2001,13 @@ c_namdalfylki = {
 		holder = 202500 # Sverre Sigurdsson
 	}
 	11202.3.9 = {
-		holder = 202502 # Håkon Sverreson
+		holder = 202502 # H�kon Sverreson
 	}
 	11204.1.1 = {
 		holder = 202508 # Guttorm Sigurdsson
 	}
 	11204.8.11 = {
-		holder = 202032 # Inge Bårdsson
+		holder = 202032 # Inge B�rdsson
 	}
 	11217.4.23 = {
 		holder = 202034
@@ -2022,10 +2022,10 @@ c_namdalfylki = {
 		holder = 6906
 	}
 	11299.7.15 = {
-		holder = 452510 # Håkon Magnusson
+		holder = 452510 # H�kon Magnusson
 	}
 	11319.5.8 = {
-		holder = 450500 # Magnus Eriksson (Bjälbo)
+		holder = 450500 # Magnus Eriksson (Bj�lbo)
 	}
 	11337.1.1 = {
 		holder = 450790

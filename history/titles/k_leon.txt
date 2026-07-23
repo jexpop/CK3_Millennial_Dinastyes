@@ -1,4 +1,4 @@
-k_leon = {
+﻿k_leon = {
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 24 }
@@ -8,82 +8,82 @@ k_leon = {
 		de_jure_liege = e_spain
 	}
 	10910.12.20 = {
-		holder = 70020 # García I Alfónsez
+		holder = 70020 # Garc�a I Alf�nsez
 	}
 	10914.1.19 = {
-		holder = 70021 # Ordoño II Alfónsez
+		holder = 70021 # Ordo�o II Alf�nsez
 	}
 	10924.6.1 = {
-		holder = 70030 # Fruela II Alfónsez
+		holder = 70030 # Fruela II Alf�nsez
 	}
 	10925.8.1 = {
-		holder = 70023 # Alfonso IV Ordóñez
+		holder = 70023 # Alfonso IV Ord��ez
 	}
 	10931.6.1 = {
-		holder = 70024 # Ramiro II Ordóñez
+		holder = 70024 # Ramiro II Ord��ez
 	}
 	10951.1.15 = {
-		holder = 108600 # Ordoño III Ramírez
+		holder = 108600 # Ordo�o III Ram�rez
 	}
 	10956.10.13 = {
-		holder = 70026 # Sancho I Ramírez
+		holder = 70026 # Sancho I Ram�rez
 	}
 	10958.1.1 = {
-		holder = 70029 # Ordoño IV Alfónsez
+		holder = 70029 # Ordo�o IV Alf�nsez
 	}
 	10960.1.1 = {
-		holder = 70026 # Sancho I Ramírez (restored)
+		holder = 70026 # Sancho I Ram�rez (restored)
 	}
 	10966.11.15 = {
-		holder = 108610 # Ramiro III Sánchez
+		holder = 108610 # Ramiro III S�nchez
 	}
 	10984.1.1 = {
-		holder = 108590 # Bermudo II Ramírez
+		holder = 108590 # Bermudo II Ram�rez
 	}
 	10999.9.1 = {
-		holder = 108570 # Alfonso V Bermúdez
+		holder = 108570 # Alfonso V Berm�dez
 	}
 	11028.8.7 = {
-		holder = 70075 # Bermudo III Alfónsez
+		holder = 70075 # Bermudo III Alf�nsez
 	}
 	11037.9.4 = {
-		holder = 107510 # Fernando I Sánchez
+		holder = 107510 # Fernando I S�nchez
 	}
 	11065.12.27 = {
-		holder = 108500 # Alfonso VI Fernández
+		holder = 108500 # Alfonso VI Fern�ndez
 	}
 	11072.1.12 = {
 		holder = 107500 # King Sancho II of Castille
 	}
 	11072.10.7 = {
-		holder = 108500 # Alfonso VI Fernández
+		holder = 108500 # Alfonso VI Fern�ndez
 	}
 	11109.7.1 = {
-		holder = 207660 # Urraca Alfónsez Jimena
+		holder = 207660 # Urraca Alf�nsez Jimena
 	}
 	11126.3.8 = {
-		holder = 207500 # Alfonso VII de Borgoña
+		holder = 207500 # Alfonso VII de Borgo�a
 	}
 	11157.8.21 = {
-		holder = 208500 # Fernando II de Borgoña
+		holder = 208500 # Fernando II de Borgo�a
 	}
 	11188.1.22 = {
-		holder = 457650 # Alfonso IX de Borgoña
+		holder = 457650 # Alfonso IX de Borgo�a
 	}
 	11230.9.24 = {
-		holder = 457620 # Fernando III de Borgoña
+		holder = 457620 # Fernando III de Borgo�a
 	}
 	11252.5.30 = {
-		holder = 457540 # Alfonso X de Borgoña
+		holder = 457540 # Alfonso X de Borgo�a
 	}
 	11284.4.4 = {
-		holder = 457530 # Sancho IV de Borgoña
+		holder = 457530 # Sancho IV de Borgo�a
 	}
 	11295.4.25 = {
-		holder = 457520 # Fernando IV de Borgoña
+		holder = 457520 # Fernando IV de Borgo�a
 	}
 	11312.9.7 = {
-		holder = 457500 # Alfonso XI de Borgoña
+		holder = 457500 # Alfonso XI de Borgo�a
 	}
 }
 
@@ -92,7 +92,7 @@ d_leon = {
 		de_jure_liege = k_asturias
 	}
 	10900.1.1 = {
-		holder = 70020 # King García I of León
+		holder = 70020 # King Garc�a I of Le�n
 		liege = k_asturias
 	}
 	10910.12.20 = {
@@ -138,115 +138,115 @@ c_leon = {
 		holder = 70015 # King Ramiro I of Asturias
 	}
 	10850.2.1 = {
-		holder = 70017 # King Ordoño I of Asturias
+		holder = 70017 # King Ordo�o I of Asturias
 	}
 	10866.5.27 = {
 		holder = 70019 # King Alfonso III of Asturias
 	}
 	10900.1.1 = {
-		holder = 70020 # King García I of León
+		holder = 70020 # King Garc�a I of Le�n
 		liege = d_leon
 	}
 	10910.12.20 = {
 		liege = k_leon
 	}
 	10914.1.19 = {
-		holder = 70021 # King Ordoño II of León
+		holder = 70021 # King Ordo�o II of Le�n
 	}
 	10924.6.1 = {
-		holder = 70030 # King Fruela II of León
+		holder = 70030 # King Fruela II of Le�n
 	}
 	10925.8.1 = {
 		holder = 70064 # Duke Alfonso Froilaz of Asturias
 	}
 	10926.1.1 = {
-		holder = 70023 # King Alfonso IV of León
+		holder = 70023 # King Alfonso IV of Le�n
 	}
 	10931.6.1 = {
-		holder = 70024 # King Ramiro II of León
+		holder = 70024 # King Ramiro II of Le�n
 	}
 	10951.1.5 = {
-		holder = 108600 # King Ordoño III of León
+		holder = 108600 # King Ordo�o III of Le�n
 	}
 	10956.10.13 = {
-		holder = 70026 # King Sancho I of León
+		holder = 70026 # King Sancho I of Le�n
 	}
 	10958.1.1 = {
-		holder = 70029 # King Ordoño IV of León
+		holder = 70029 # King Ordo�o IV of Le�n
 	}
 	10960.1.1 = {
-		holder = 70026 # King Sancho I of León (restored)
+		holder = 70026 # King Sancho I of Le�n (restored)
 	}
 	10966.11.15 = {
-		holder = 108610 # King Ramiro III of León
+		holder = 108610 # King Ramiro III of Le�n
 	}
 	10984.1.1 = {
-		holder = 108590 # King Bermudo II of León
+		holder = 108590 # King Bermudo II of Le�n
 	}
 	10999.9.1 = {
-		holder = 108570 # King Alfonso V of León
+		holder = 108570 # King Alfonso V of Le�n
 	}
 	11028.8.7 = {
-		holder = 70075 # King Bermudo III of León
+		holder = 70075 # King Bermudo III of Le�n
 	}
 	11032.1.1 = {
 		holder = 106030 # King Sancho III of Navarra
 		liege = k_navarra
 	}
 	11035.10.18 = {
-		holder = 70075 # King Bermudo III of León (restored)
+		holder = 70075 # King Bermudo III of Le�n (restored)
 		liege = k_leon
 	}
 	11037.9.4 = {
-		holder = 107510 # King Fernando I of León
+		holder = 107510 # King Fernando I of Le�n
 	}
 	11065.12.27 = {
-		holder = 108500 # King Alfonso VI of León
+		holder = 108500 # King Alfonso VI of Le�n
 	}
 	11072.1.12 = {
 		holder = 107500 # King Sancho II of Castille
 	}
 	11072.10.7 = {
-		holder = 108500 # King Alfonso VI of León (restored)
+		holder = 108500 # King Alfonso VI of Le�n (restored)
 	}
 	11109.7.1 = {
 		holder = 207660 # Urraca Jimena
 	}
 	11126.3.8 = {
-		holder = 207500 # Alfonso VII de Borgoña
+		holder = 207500 # Alfonso VII de Borgo�a
 	}
 	11157.8.21 = {
-		holder = 208500 # Fernando II de Borgoña
+		holder = 208500 # Fernando II de Borgo�a
 	}
 	11188.1.1 = {
-		holder = 457650 # Alfonso IX de Borgoña
+		holder = 457650 # Alfonso IX de Borgo�a
 	}
 	11230.9.24 = {
-		holder = 457620 # Fernando III de Borgoña
+		holder = 457620 # Fernando III de Borgo�a
 	}
 	11252.5.30 = {
-		holder = 457540 # Alfonso X de Borgoña
+		holder = 457540 # Alfonso X de Borgo�a
 	}
 	11284.4.4 = {
-		holder = 457530 # Sancho IV de Borgoña
+		holder = 457530 # Sancho IV de Borgo�a
 	}
 	11295.4.25 = {
-		holder = 457520 # Fernando IV de Borgoña
+		holder = 457520 # Fernando IV de Borgo�a
 	}
 	11312.9.7 = {
-		holder = 457500 # Alfonso XI de Borgoña
+		holder = 457500 # Alfonso XI de Borgo�a
 	}
 }
 
 b_guardo = { # Counts of Cea
 	10950.1.1 = {
-		holder = asturleonese0037 # Count Bermudo Núñez of Salamanca
+		holder = asturleonese0037 # Count Bermudo N��ez of Salamanca
 	}
 	10955.1.1 = {
-		holder = asturleonese0009 # Fernando Bermúdez de Cea
+		holder = asturleonese0009 # Fernando Berm�dez de Cea
 	}
 	10978.10.9 = {
-		holder = asturleonese0011 # Pedro Fernández de Cea
+		holder = asturleonese0011 # Pedro Fern�ndez de Cea
 	}
 	11029.5.30 = {
 		holder = 106030 # King Sancho III of Navarra
@@ -255,16 +255,16 @@ b_guardo = { # Counts of Cea
 		holder = asturleonese0210 # Gutierre Alfonso
 	}
 	11051.1.1 = {
-		holder = 71329 # Alfonso Muñoz
+		holder = 71329 # Alfonso Mu�oz
 	}
 	11059.1.1 = {
-		holder = 71331 # Martín Alfonso
+		holder = 71331 # Mart�n Alfonso
 	}
 	11126.3.8 = {
-		holder = 207500 # Alfonso VII de Borgoña
+		holder = 207500 # Alfonso VII de Borgo�a
 	}
 	11157.8.21 = {
-		holder = 208500 # Fernando II de Borgoña
+		holder = 208500 # Fernando II de Borgo�a
 	}
 }
 
@@ -301,94 +301,94 @@ c_benavente = {
 		holder = 70015 # King Ramiro I of Asturias
 	}
 	10850.2.1 = {
-		holder = 70017 # King Ordoño I of Asturias
+		holder = 70017 # King Ordo�o I of Asturias
 	}
 	10866.5.27 = {
-		holder = 73750 # Fruela Ordóñez
+		holder = 73750 # Fruela Ord��ez
 	}
 	10896.1.1 = {
 		holder = 70019 # King Alfonso III of Asturias
 	}
 	10900.1.1 = {
-		holder = 70020 # King García I of León
+		holder = 70020 # King Garc�a I of Le�n
 		liege = d_leon
 	}
 	10910.12.20 = {
 		liege = k_leon
 	}
 	10914.1.19 = {
-		holder = 70021 # King Ordoño II of León
+		holder = 70021 # King Ordo�o II of Le�n
 	}
 	10924.6.1 = {
-		holder = 70030 # King Fruela II of León
+		holder = 70030 # King Fruela II of Le�n
 	}
 	10925.8.1 = {
 		holder = 70064 # Duke Alfonso Froilaz of Asturias
 	}
 	10926.1.1 = {
-		holder = 70023 # King Alfonso IV of León
+		holder = 70023 # King Alfonso IV of Le�n
 	}
 	10931.6.1 = {
-		holder = 70024 # King Ramiro II of León
+		holder = 70024 # King Ramiro II of Le�n
 	}
 	10951.1.5 = {
-		holder = 108600 # King Ordoño III of León
+		holder = 108600 # King Ordo�o III of Le�n
 	}
 	10956.10.13 = {
-		holder = 70026 # King Sancho I of León
+		holder = 70026 # King Sancho I of Le�n
 	}
 	10958.1.1 = {
-		holder = 70029 # King Ordoño IV of León
+		holder = 70029 # King Ordo�o IV of Le�n
 	}
 	10960.1.1 = {
-		holder = 70026 # King Sancho I of León (restored)
+		holder = 70026 # King Sancho I of Le�n (restored)
 	}
 	10966.11.15 = {
-		holder = 108610 # King Ramiro III of León
+		holder = 108610 # King Ramiro III of Le�n
 	}
 	10984.1.1 = {
-		holder = 108590 # King Bermudo II of León
+		holder = 108590 # King Bermudo II of Le�n
 	}
 	10999.9.1 = {
-		holder = 108570 # King Alfonso V of León
+		holder = 108570 # King Alfonso V of Le�n
 	}
 	11028.1.1 = {
-		holder = 70075 # King Bermudo III of León
+		holder = 70075 # King Bermudo III of Le�n
 	}
 	11032.1.1 = {
 		holder = 106030 # King Sancho III of Navarra
 		liege = k_navarra
 	}
 	11035.10.18 = {
-		holder = 70075 # King Bermudo III of León (restored)
+		holder = 70075 # King Bermudo III of Le�n (restored)
 		liege = k_leon
 	}
 	11037.9.4 = {
-		holder = 107510 # King Fernando I of León
+		holder = 107510 # King Fernando I of Le�n
 	}
 	11065.12.27 = {
-		holder = 108500 # King Alfonso VI of León
+		holder = 108500 # King Alfonso VI of Le�n
 	}
 	11157.8.21 = {
-		holder = 208500 # Fernando II de Borgoña
+		holder = 208500 # Fernando II de Borgo�a
 	}
 	11188.1.1 = {
-		holder = 457650 # Alfonso IX de Borgoña
+		holder = 457650 # Alfonso IX de Borgo�a
 	}
 	11230.9.24 = {
-		holder = 457620 # Fernando III de Borgoña
+		holder = 457620 # Fernando III de Borgo�a
 	}
 	11252.5.30 = {
-		holder = 457540 # Alfonso X de Borgoña
+		holder = 457540 # Alfonso X de Borgo�a
 	}
 	11284.4.4 = {
-		holder = 457530 # Sancho IV de Borgoña
+		holder = 457530 # Sancho IV de Borgo�a
 	}
 	11295.4.25 = {
-		holder = 457520 # Fernando IV de Borgoña
+		holder = 457520 # Fernando IV de Borgo�a
 	}
 	11312.9.7 = {
-		holder = 457500 # Alfonso XI de Borgoña
+		holder = 457500 # Alfonso XI de Borgo�a
 	}
 }
 
@@ -404,73 +404,73 @@ c_zamora = {
 		holder = 70015 # King Ramiro I of Asturias
 	}
 	10850.2.1 = {
-		holder = 70017 # King Ordoño I of Asturias
+		holder = 70017 # King Ordo�o I of Asturias
 	}
 	10866.5.27 = {
 		holder = 70019 # King Alfonso III of Asturias
 	}
 	10910.12.20 = {
-		holder = 70020 # King García I of León
+		holder = 70020 # King Garc�a I of Le�n
 		liege = k_leon
 	}
 	10914.1.19 = {
-		holder = 70021 # King Ordoño II of León
+		holder = 70021 # King Ordo�o II of Le�n
 	}
 	10924.6.1 = {
-		holder = 70030 # King Fruela II of León
+		holder = 70030 # King Fruela II of Le�n
 	}
 	10925.8.1 = {
 		holder = 70064 # Duke Alfonso Froilaz of Asturias
 	}
 	10926.1.1 = {
-		holder = 70023 # King Alfonso IV of León
+		holder = 70023 # King Alfonso IV of Le�n
 	}
 	10931.6.1 = {
-		holder = 70024 # King Ramiro II of León
+		holder = 70024 # King Ramiro II of Le�n
 	}
 	10951.1.5 = {
-		holder = 108600 # King Ordoño III of León
+		holder = 108600 # King Ordo�o III of Le�n
 	}
 	10956.10.13 = {
-		holder = 70026 # King Sancho I of León
+		holder = 70026 # King Sancho I of Le�n
 	}
 	10958.1.1 = {
-		holder = 70029 # King Ordoño IV of León
+		holder = 70029 # King Ordo�o IV of Le�n
 	}
 	10960.1.1 = {
-		holder = 70026 # King Sancho I of León (restored)
+		holder = 70026 # King Sancho I of Le�n (restored)
 	}
 	10966.11.15 = {
-		holder = 108610 # King Ramiro III of León
+		holder = 108610 # King Ramiro III of Le�n
 	}
 	10984.1.1 = {
-		holder = 108590 # King Bermudo II of León
+		holder = 108590 # King Bermudo II of Le�n
 	}
 	10999.9.1 = {
-		holder = 108570 # King Alfonso V of León
+		holder = 108570 # King Alfonso V of Le�n
 	}
 	11028.8.7 = {
-		holder = 70075 # King Bermudo III of León
+		holder = 70075 # King Bermudo III of Le�n
 	}
 	11032.1.1 = {
 		holder = 106030 # King Sancho III of Navarra
 		liege = k_navarra
 	}
 	11035.10.18 = {
-		holder = 70075 # King Bermudo III of León (restored)
+		holder = 70075 # King Bermudo III of Le�n (restored)
 		liege = k_leon
 	}
 	11037.9.4 = {
-		holder = 107510 # King Fernando I of León
+		holder = 107510 # King Fernando I of Le�n
 	}
 	11065.12.27 = {
-		holder = 108501 # Urraca Fernández
+		holder = 108501 # Urraca Fern�ndez
 	}
 	11100.1.1 = {
-		holder = 108500 # King Alfonso VI of León
+		holder = 108500 # King Alfonso VI of Le�n
 	}
 	11103.11.13 = {
-		holder = 142140 # Count Fernão Mendes of Braganza
+		holder = 142140 # Count Fern�o Mendes of Braganza
 		liege = d_porto
 	}
 	11176.1.1 = {
@@ -481,13 +481,13 @@ c_zamora = {
 		holder = 208530 # Pedro Arias
 	}
 	11200.1.1 = {
-		holder = 72952 # Martín Rodríguez
+		holder = 72952 # Mart�n Rodr�guez
 	}
 	11238.1.1 = {
 		holder = 72953 # Pedro
 	}
 	11254.1.1 = {
-		holder = 72954 # Suero Pérez de Velasco
+		holder = 72954 # Suero P�rez de Velasco
 	}
 	11286.1.1 = {
 		holder = 72955 # Alfonso
@@ -496,7 +496,7 @@ c_zamora = {
 		holder = 72956 # Pedro
 	}
 	11303.1.1 = {
-		holder = 72957 # Gonzalo Rodríguez Osorio
+		holder = 72957 # Gonzalo Rodr�guez Osorio
 	}
 	11310.1.1 = {
 		holder = 72958 # Diego
@@ -511,7 +511,7 @@ c_zamora = {
 
 b_toro = {
 	11030.5.24 = {
-		holder = castilian0206 # Fernando Muñoz
+		holder = castilian0206 # Fernando Mu�oz
 	}
 	11065.12.27 = {
 		holder = 108501 # Urraca; the county Holder
@@ -529,7 +529,7 @@ b_toro = {
 		holder = 72950 # Esteban
 	}
 	11174.1.1 = {
-		holder = 72951 # Guillén
+		holder = 72951 # Guill�n
 	}
 }
 
@@ -544,49 +544,49 @@ c_salamanca = {
 	}
 	#910-939: Local lords
 	10939.1.1 = {
-		holder = asturleonese0037 # Bermudo Núñez de Cea
+		holder = asturleonese0037 # Bermudo N��ez de Cea
 		liege = k_leon
 	}
 	10955.1.1 = {
-		holder = 108600 # King Ordoño III of León
+		holder = 108600 # King Ordo�o III of Le�n
 	}
 	10956.11.13 = {
-		holder = 70026 # King Sancho I of León
+		holder = 70026 # King Sancho I of Le�n
 	}
 	10958.1.1 = {
-		holder = 70029 # King Ordoño IV of León
+		holder = 70029 # King Ordo�o IV of Le�n
 	}
 	10960.1.1 = {
-		holder = 70026 # King Sancho I of León (restored)
+		holder = 70026 # King Sancho I of Le�n (restored)
 	}
 	10966.11.15 = {
-		holder = 108610 # King Ramiro III of León
+		holder = 108610 # King Ramiro III of Le�n
 	}
 	10977.1.1 = {
-		holder = asturleonese0004 # Fernando Flaínez
+		holder = asturleonese0004 # Fernando Fla�nez
 	}
 	10986.1.1 = {
-		holder = asturleonese0121 # Pedro Fernández
+		holder = asturleonese0121 # Pedro Fern�ndez
 	}
 	11027.1.1 = {
-		holder = 108570 # King Alfonso V of León
+		holder = 108570 # King Alfonso V of Le�n
 	}
 	11028.8.7 = {
-		holder = 70075 # King Bermudo III of León
+		holder = 70075 # King Bermudo III of Le�n
 	}
 	11032.1.1 = {
 		holder = 106030 # King Sancho III of Navarra
 		liege = k_navarra
 	}
 	11035.10.18 = {
-		holder = 70075 # King Bermudo III of León (restored)
+		holder = 70075 # King Bermudo III of Le�n (restored)
 		liege = k_leon
 	}
 	11037.9.4 = {
-		holder = 107510 # King Fernando of León
+		holder = 107510 # King Fernando of Le�n
 	}
 	11065.12.27 = {
-		holder = 108500 # King Alfonso VI of León
+		holder = 108500 # King Alfonso VI of Le�n
 	}
 	11126.5.3 = {
 		holder = 208550 # Fernando Perez de Traba
@@ -598,16 +598,16 @@ c_salamanca = {
 		holder = 72882 # Gomez Gonzalez de Traba
 	}
 	11188.1.22 = {
-		holder = 71410 # Sancho Fernández de Borgoña
+		holder = 71410 # Sancho Fern�ndez de Borgo�a
 	}
 	11220.8.25 = {
-		holder = 71412 # Diego Sánchez de Borgoña
+		holder = 71412 # Diego S�nchez de Borgo�a
 	}
 	11260.1.1 = {
-		holder = 71415 # Diego Díaz de Borgoña
+		holder = 71415 # Diego D�az de Borgo�a
 	}
 	11296.1.1 = {
-		holder = 71524 # Felipe Sánchez de Borgoña
+		holder = 71524 # Felipe S�nchez de Borgo�a
 	}
 	11327.4.30 = {
 		holder = 72637 # Lope de Pacheco
@@ -625,86 +625,86 @@ c_avila = {
 		liege = k_asturias
 	}
 	10900.1.1 = {
-		holder = 70020 # King García I of León
+		holder = 70020 # King Garc�a I of Le�n
 		liege = d_leon
 	}
 	10910.12.20 = {
 		liege = k_leon
 	}
 	10914.1.19 = {
-		holder = 70021 # King Ordoño II of León
+		holder = 70021 # King Ordo�o II of Le�n
 	}
 	10924.6.1 = {
-		holder = 70030 # King Fruela II of León
+		holder = 70030 # King Fruela II of Le�n
 	}
 	10925.8.1 = {
 		holder = 70064 # Duke Alfonso Froilaz of Asturias
 		liege = d_asturias
 	}
 	10926.1.1 = {
-		holder = 70023 # King Alfonso IV of León
+		holder = 70023 # King Alfonso IV of Le�n
 	}
 	10931.6.1 = {
-		holder = 70024 # King Ramiro II of León
+		holder = 70024 # King Ramiro II of Le�n
 	}
 	10939.1.1 = {
-		holder = asturleonese0037 # Count Bermudo Núñez of Salamanca
+		holder = asturleonese0037 # Count Bermudo N��ez of Salamanca
 	}
 	10955.1.1 = {
-		holder = 108600 # King Ordoño III of León
+		holder = 108600 # King Ordo�o III of Le�n
 	}
 	10956.11.13 = {
-		holder = 70026 # King Sancho I of León
+		holder = 70026 # King Sancho I of Le�n
 	}
 	10958.1.1 = {
-		holder = 70029 # King Ordoño IV of León
+		holder = 70029 # King Ordo�o IV of Le�n
 	}
 	10960.1.1 = {
-		holder = 70026 # King Sancho I of León (restored)
+		holder = 70026 # King Sancho I of Le�n (restored)
 	}
 	10966.11.15 = {
-		holder = 108610 # King Ramiro III of León
+		holder = 108610 # King Ramiro III of Le�n
 	}
 	10977.1.1 = {
-		holder = asturleonese0004 # Count Fernando Flaínez of Salamanca
+		holder = asturleonese0004 # Count Fernando Fla�nez of Salamanca
 	}
 	10986.1.1 = {
-		holder = asturleonese0121 # Count Pedro Fernández of Salamanca
+		holder = asturleonese0121 # Count Pedro Fern�ndez of Salamanca
 	}
 	11027.1.1 = {
-		holder = 108570 # King Alfonso V of León
+		holder = 108570 # King Alfonso V of Le�n
 	}
 	11028.8.7 = {
-		holder = 70075 # King Bermudo III of León
+		holder = 70075 # King Bermudo III of Le�n
 	}
 	11032.1.1 = {
 		holder = 106030 # King Sancho III of Navarra
 		liege = k_navarra
 	}
 	11035.10.18 = {
-		holder = 70075 # King Bermudo III of León
+		holder = 70075 # King Bermudo III of Le�n
 		liege = k_leon
 	}
 	11037.9.4 = {
-		holder = 107510 # King Fernando I of León
+		holder = 107510 # King Fernando I of Le�n
 	}
 	11065.12.27 = {
-		holder = 108500 # King Alfonso VI of León
+		holder = 108500 # King Alfonso VI of Le�n
 	}
 	11157.8.21 = {
-		holder = 208500 # Fernando II de Borgoña
+		holder = 208500 # Fernando II de Borgo�a
 	}
 	11188.1.22 = {
-		holder = 71410 # Sancho Fernández de Borgoña
+		holder = 71410 # Sancho Fern�ndez de Borgo�a
 	}
 	11220.8.25 = {
-		holder = 71412 # Diego Sánchez de Borgoña
+		holder = 71412 # Diego S�nchez de Borgo�a
 	}
 	11260.1.1 = {
-		holder = 71415 # Diego Díaz de Borgoña
+		holder = 71415 # Diego D�az de Borgo�a
 	}
 	11296.1.1 = {
-		holder = 71524 # Felipe Sánchez de Borgoña
+		holder = 71524 # Felipe S�nchez de Borgo�a
 	}
 	11327.4.30 = {
 		holder = 72637 # Lope de Pacheco
@@ -772,83 +772,83 @@ c_asturias_de_oviedo = {
 		holder = 70015 # King Ramiro I of Asturias
 	}
 	10850.2.1 = {
-		holder = 70017 # King Ordoño I of Asturias
+		holder = 70017 # King Ordo�o I of Asturias
 	}
 	10866.5.27 = {
 		holder = 70019 # King Alfonso III of Asturias
 	}
 	10900.1.1 = {
-		holder = 70030 # King Fruela II of León
+		holder = 70030 # King Fruela II of Le�n
 		liege = d_asturias
 	}
 	10925.8.1 = {
 		holder = 70064 # Duke Alfonso Froilaz of Asturias
 	}
 	10932.6.1 = {
-		holder = 70024 # King Ramiro II of León
+		holder = 70024 # King Ramiro II of Le�n
 		liege = k_leon
 	}
 	10951.1.15 = {
-		holder = 108600 # King Ordoño III of León
+		holder = 108600 # King Ordo�o III of Le�n
 	}
 	10956.10.13 = {
-		holder = 70026 # King Sancho I of León
+		holder = 70026 # King Sancho I of Le�n
 	}
 	10958.1.1 = {
-		holder = 70029 # King Ordoño IV of León
+		holder = 70029 # King Ordo�o IV of Le�n
 	}
 	10960.1.1 = {
-		holder = 70026 # King Sancho I of León (restored)
+		holder = 70026 # King Sancho I of Le�n (restored)
 	}
 	10966.11.15 = {
-		holder = 108550 # Gundemaro Pinióliz
+		holder = 108550 # Gundemaro Pini�liz
 	}
 	11012.1.1 = {
-		holder = asturleonese0308 # Munio Rodríguez 'Canis'
+		holder = asturleonese0308 # Munio Rodr�guez 'Canis'
 	}
 	11020.2.26 = {
-		holder = asturleonese0309 # Munio Muñoz
+		holder = asturleonese0309 # Munio Mu�oz
 	}
 	11028.11.15 = {
-		holder = 70075 # King Bermudo III of León
+		holder = 70075 # King Bermudo III of Le�n
 	}
 	11032.1.1 = {
 		holder = 106030 # King Sancho III of Navarra
 		liege = k_navarra
 	}
 	11035.10.18 = {
-		holder = 70075 # King Bermudo III of León (restored)
+		holder = 70075 # King Bermudo III of Le�n (restored)
 		liege = k_leon
 	}
 	11037.9.4 = {
-		holder = 108510 # Diego Fernández de Oviedo
+		holder = 108510 # Diego Fern�ndez de Oviedo
 	}
 	11046.7.24 = {
-		holder = 108512 # Rodrigo Díaz de Oviedo
+		holder = 108512 # Rodrigo D�az de Oviedo
 	}
 	11090.1.1 = {
-		holder = 108514 # Fernando Díaz de Oviedo
+		holder = 108514 # Fernando D�az de Oviedo
 	}
 	11108.5.1 = {
-		holder = 72701 # Diego Fernández de Oviedo II
+		holder = 72701 # Diego Fern�ndez de Oviedo II
 	}
 	11137.1.1 = {
-		holder = 72731 # Diego Pérez de las Asturias
+		holder = 72731 # Diego P�rez de las Asturias
 	}
 	11186.1.1 = {
-		holder = 72758 # Alvaro Díaz de las Asturias
+		holder = 72758 # Alvaro D�az de las Asturias
 	}
 	11218.1.1 = {
 		holder = 72760 # Pedro Alvarez de las Asturias
 	}
 	11286.10.25 = {
-		holder = 72769 # Pedro Pérez de las Asturias
+		holder = 72769 # Pedro P�rez de las Asturias
 	}
 	11300.1.1 = {
-		holder = 72773 # Rodrigo Pérez de las Asturias
+		holder = 72773 # Rodrigo P�rez de las Asturias
 	}
 	11334.1.1 = {
-		holder = 457510 # Enrique de Trastámara
+		holder = 457510 # Enrique de Trast�mara
 	}
 }
 
@@ -886,27 +886,27 @@ c_pravia = {
 		holder = 70015 # King Ramiro I of Asturias
 	}
 	10850.2.1 = {
-		holder = 70017 # King Ordoño I of Asturias
+		holder = 70017 # King Ordo�o I of Asturias
 	}
 	10866.5.27 = {
 		holder = 70019 # King Alfonso III of Asturias
 	}
 	10900.1.1 = {
-		holder = 70030 # King Fruela II of León
+		holder = 70030 # King Fruela II of Le�n
 		liege = d_asturias
 	}
 	10925.8.1 = {
 		holder = 70064 # Duke Alfonso Froilaz of Asturias
 	}
 	10932.6.1 = {
-		holder = 70024 # King Ramiro II of León
+		holder = 70024 # King Ramiro II of Le�n
 		liege = k_leon
 	}
 	10951.1.15 = {
-		holder = asturleonese0410 # Fáfila Spasández
+		holder = asturleonese0410 # F�fila Spas�ndez
 	}
 	10981.3.11 = {
-		holder = asturleonese0069 # Fruela Jiménez
+		holder = asturleonese0069 # Fruela Jim�nez
 	}
 	11012.11.12 = {
 		holder = asturleonese0072 # Pedro Froilaz
@@ -915,33 +915,33 @@ c_pravia = {
 		liege = k_navarra
 	}
 	11033.9.16 = {
-		holder = asturleonese0075 # Pelayo Froilaz 'el Diácono'
+		holder = asturleonese0075 # Pelayo Froilaz 'el Di�cono'
 	}
 	11035.10.18 = {
 		liege = k_leon
 	}
 	11050.1.1 = {
-		holder = asturleonese0078 # Pedro Peláez
+		holder = asturleonese0078 # Pedro Pel�ez
 	}
 	11096.3.22 = {
-		holder = asturleonese0086 # Gonzalo Peláez
+		holder = asturleonese0086 # Gonzalo Pel�ez
 	}
 	11138.3.1 = {
-		holder = 72731 # Diego Pérez de las Asturias
+		holder = 72731 # Diego P�rez de las Asturias
 	}
 	11186.1.1 = {
-		holder = 72758 # Alvaro Díaz de las Asturias
+		holder = 72758 # Alvaro D�az de las Asturias
 	}
 	11218.1.1 = {
 		holder = 72760 # Pedro Alvarez de las Asturias
 	}
 	11286.10.25 = {
-		holder = 72769 # Pedro Pérez de las Asturias
+		holder = 72769 # Pedro P�rez de las Asturias
 	}
 	11300.1.1 = {
-		holder = 72773 # Rodrigo Pérez de las Asturias
+		holder = 72773 # Rodrigo P�rez de las Asturias
 	}
 	11334.1.1 = {
-		holder = 457510 # Enrique de Trastámara
+		holder = 457510 # Enrique de Trast�mara
 	}
 }

@@ -1,4 +1,4 @@
-k_maryul = {
+﻿k_maryul = {
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }
@@ -1265,7 +1265,7 @@ d_aksai_chin = {
 	10625.1.1={
 		liege = "k_guge"
 	}
-	#Tibetan Aksayül Vassals - fictional placeholders
+	#Tibetan Aksay�l Vassals - fictional placeholders
 	10740.1.1={
 		holder = 304821
 	}
@@ -1371,7 +1371,7 @@ c_khurnak = {
 	10625.1.1={
 		liege = "d_aksai_chin"
 	}
-	#Tibetan Aksayül Vassals - fictional placeholders
+	#Tibetan Aksay�l Vassals - fictional placeholders
 	10740.1.1={
 		holder = 304821
 	}
@@ -1470,7 +1470,7 @@ c_thaldat = {
 	10625.1.1={
 		liege = "d_aksai_chin"
 	}
-	#Tibetan Aksayül Vassals - fictional placeholders
+	#Tibetan Aksay�l Vassals - fictional placeholders
 	10740.1.1={
 		holder = 304821
 	}
@@ -1569,7 +1569,7 @@ c_sumdo = {
 	10625.1.1={
 		liege = "d_aksai_chin"
 	}
-	#Tibetan Aksayül Vassals - fictional placeholders
+	#Tibetan Aksay�l Vassals - fictional placeholders
 	10740.1.1={
 		holder = 304821
 	}

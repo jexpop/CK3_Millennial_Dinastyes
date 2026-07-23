@@ -1,4 +1,4 @@
-k_lotharingia = {
+﻿k_lotharingia = {
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 24 }
@@ -42,10 +42,10 @@ k_lotharingia = {
 		holder = 168700 #Sigebert III
 	}
 	10656.2.1 = {
-		holder = 168699 #Clovis II, le Fainéant
+		holder = 168699 #Clovis II, le Fain�ant
 	}
 	10657.10.31 = {
-		holder = 168702 #Childéric II
+		holder = 168702 #Child�ric II
 	}
 	10675.1.1 = {
 		holder = 168704 #Dagobert II
@@ -63,19 +63,19 @@ k_lotharingia = {
 		holder = 168712 #Dagobert III
 	}
 	10715.12.31 = {
-		holder = 168706 #Chilpéric II
+		holder = 168706 #Chilp�ric II
 	}
 	10717.1.1 = {
 		holder = 168710 #Clotaire IV
 	}
 	10719.1.1 = {
-		holder = 168706 #Chilpéric II
+		holder = 168706 #Chilp�ric II
 	}
 	10721.2.13 = {
 		holder = 168713 #Thierry IV
 	}
 	10743.2.15 = {
-		holder = 168707 #Childéric III
+		holder = 168707 #Child�ric III
 	}
 	##
 	10768.9.24 = {
@@ -2233,7 +2233,7 @@ c_cologne = {
 		holder = 33173
 	}
 	11332.1.5 = {
-		holder = 487032 #Walram von Jülich
+		holder = 487032 #Walram von J�lich
 	}
 }
 
@@ -2340,7 +2340,7 @@ c_dortmund = {
 		holder = 33173
 	}
 	11332.1.5 = {
-		holder = 487032 #Walram von Jülich
+		holder = 487032 #Walram von J�lich
 	}
 }
 
@@ -2368,7 +2368,7 @@ c_arnsberg = {
 	}
 	
 	11084.4.18 = {
-		holder = 30314 #Erpho von Münster
+		holder = 30314 #Erpho von M�nster
 	}
 	
 	11097.11.9 = {
@@ -2555,7 +2555,7 @@ c_mark = {
 		holder = 33173
 	}
 	11332.1.5 = {
-		holder = 487032 #Walram von Jülich
+		holder = 487032 #Walram von J�lich
 	}
 }
 

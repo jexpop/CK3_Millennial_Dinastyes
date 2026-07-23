@@ -1,4 +1,4 @@
-k_amdo = {
+﻿k_amdo = {
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 7 }
@@ -3319,7 +3319,7 @@ c_chindu = {
 	10200.1.1={
 		liege="d_nangqen"
 	}
-	#Nangqên Kingdom
+	#Nangq�n Kingdom
 	10740.1.1={
 		holder = 304264
 	}

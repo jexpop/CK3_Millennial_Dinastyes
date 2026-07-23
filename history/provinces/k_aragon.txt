@@ -1,4 +1,4 @@
-# Visigothic culture break-up moved backwards in time to around ~800; probably still being a bit overly-generous at that, but it's a decent date for it.
+﻿# Visigothic culture break-up moved backwards in time to around ~800; probably still being a bit overly-generous at that, but it's a decent date for it.
 
 ###c_barcelona
 1862 = {	# BARCELONA
@@ -112,7 +112,7 @@
 }
 
 ###c_rossello
-1866 = {	# PERPIGNAN/Perpinyà
+1866 = {	# PERPIGNAN/Perpiny�
 	# Misc
 	culture = visigothic
 	religion = catholic
@@ -310,7 +310,7 @@
 }
 
 ###c_fraga
-8795 = {	# MONZON/Monzón
+8795 = {	# MONZON/Monz�n
 	#Misc
 	culture = basque
 	religion = mozarabic_church

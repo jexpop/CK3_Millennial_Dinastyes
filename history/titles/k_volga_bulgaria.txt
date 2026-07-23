@@ -1,4 +1,4 @@
-k_volga_bulgaria = {
+﻿k_volga_bulgaria = {
 	10867.1.1 = { change_development_level = 0 }
 	11066.1.1 = { change_development_level = 0 }
 	11178.1.1 = { change_development_level = 0 }
@@ -1296,7 +1296,7 @@ c_jalmat = {
 		holder = 302314		#fictional Organa Jalyaman
 	}
 	11118.1.2 = {
-		holder = 302315		#fictional Yençepi Jalyaman
+		holder = 302315		#fictional Yen�epi Jalyaman
 	}
 	11147.1.2 = {
 		holder = 302316		#fictional Sondoke Jalyaman
@@ -1380,7 +1380,7 @@ c_bugurslan = {
 		holder = 302314		#fictional Organa Jalyaman
 	}
 	11118.1.2 = {
-		holder = 302315		#fictional Yençepi Jalyaman
+		holder = 302315		#fictional Yen�epi Jalyaman
 	}
 	11147.1.2 = {
 		holder = 302316		#fictional Sondoke Jalyaman

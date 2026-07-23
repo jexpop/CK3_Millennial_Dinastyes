@@ -1,4 +1,4 @@
-#k_serbia
+﻿#k_serbia
 ##
 #Serbs convert from paganism to Orthodoxy in ~870
 ##
@@ -15,7 +15,7 @@
 3592 = {	#Budlimlje
 	holding = none
 }
-3588 = {	#ica
+3588 = {	#�ica
 	holding = none
 	#XIIIth century
 }
@@ -43,7 +43,7 @@
 }
 
 ###c_sumadija
-3598 = {	#Kruevac
+3598 = {	#Kru�evac
 	culture = serbian
 	religion = orthodox
 	holding = castle_holding
@@ -67,17 +67,17 @@
 		religion = orthodox
 	}
 }
-3585 = {	#Brenica
+3585 = {	#Bre�nica
 	holding = none
 }
-3581 = {	#Viegrad
+3581 = {	#Vi�egrad
 	holding = city_holding
 	#culture = avar
 	#religion = tengri_pagan
 	#10890.1.1 = { religion = catholic }
 	#10950.1.1 = { culture = hungarian }
 }
-3582 = {	#Gorade
+3582 = {	#Gora�de
 	holding = none
 	11066.1.1 = {
 		holding = church_holding
@@ -102,7 +102,7 @@
 }
 
 ###c_hvosno
-3596 = {	#Pritina
+3596 = {	#Pri�tina
 	culture = serbian
 	religion = orthodox
 	holding = castle_holding
@@ -150,7 +150,7 @@
 	holding = none
 	#First mention in 1417
 }
-3607 = {	#Uice
+3607 = {	#U�ice
 	holding = castle_holding
 	#Occupied by slavs even before 867
 }
@@ -208,7 +208,7 @@
 		holding = city_holding
 	}
 }
-3580 = {	#Skadar AKA Shköder
+3580 = {	#Skadar AKA Shk�der
 	holding = castle_holding
 	#Inhabitted since Antiquity
 }
@@ -244,7 +244,7 @@
 		religion = orthodox
 	}
 }
-3571 = {	#Onogot
+3571 = {	#Onogo�t
 	holding = city_holding
 	#Existed already before the Xth century
 }

@@ -1,4 +1,4 @@
-#k_volga_bulgaria
+﻿#k_volga_bulgaria
 ##d_volga_bulgaria ###################################
 ###c_bolghar
 610 = {		#Bolghar
@@ -22,13 +22,13 @@
 		}
 	}
 }
-613 = {		#Bilyar	AKA Bilär
+613 = {		#Bilyar	AKA Bil�r
 	holding = none
 	10922.1.1 = {
 		holding = castle_holding
 	}
 }
-5405 = {	#Cukataw	AKA Cükätaw AKA Juketau
+5405 = {	#Cukataw	AKA C�k�taw AKA Juketau
 	holding = church_holding
 }
 5406 = {	#Suvar	AKA Suar AKA Suwar

@@ -1,4 +1,4 @@
-k_bashkiria = {
+﻿k_bashkiria = {
 	10867.1.1 = { change_development_level = 0 }
 	11066.1.1 = { change_development_level = 0 }
 	11178.1.1 = { change_development_level = 0 }
@@ -371,12 +371,12 @@ c_uraltau = {
 		government = nomad_government
 	}
 	10902.1.2 = {
-		holder = 302295		#fictional Lärkka Oralai
+		holder = 302295		#fictional L�rkka Oralai
 	}
 	
 	#1066
 	11065.1.1 = {
-		holder = 302296		#fictional Çilen Oralai
+		holder = 302296		#fictional �ilen Oralai
 	}
 	11111.1.1 = {
 		holder = 302297		#fictional Kurt Oralai
@@ -433,12 +433,12 @@ c_duvan = {
 		government = nomad_government
 	}
 	10902.1.2 = {
-		holder = 302295		#fictional Lärkka Oralai
+		holder = 302295		#fictional L�rkka Oralai
 	}
 	
 	#1066
 	11065.1.1 = {
-		holder = 302296		#fictional Çilen Oralai
+		holder = 302296		#fictional �ilen Oralai
 	}
 	11111.1.1 = {
 		holder = 302297		#fictional Kurt Oralai
@@ -496,12 +496,12 @@ c_karabash = {
 		government = nomad_government
 	}
 	10902.1.2 = {
-		holder = 302295		#fictional Lärkka Oralai
+		holder = 302295		#fictional L�rkka Oralai
 	}
 	
 	#1066
 	11065.1.1 = {
-		holder = 302296		#fictional Çilen Oralai
+		holder = 302296		#fictional �ilen Oralai
 	}
 	11111.1.1 = {
 		holder = 302297		#fictional Kurt Oralai
@@ -559,13 +559,13 @@ c_uiska = {
 		government = herder_government
 	}
 	10902.1.2 = {
-		holder = 302295		#fictional Lärkka Oralai
+		holder = 302295		#fictional L�rkka Oralai
 		government = nomad_government
 	}
 	
 	#1066
 	11065.1.1 = {
-		holder = 302296		#fictional Çilen Oralai
+		holder = 302296		#fictional �ilen Oralai
 	}
 	11111.1.1 = {
 		holder = 302297		#fictional Kurt Oralai
@@ -625,13 +625,13 @@ c_yekaterinburg = {
 	
 	#1066
 	11065.1.1 = {
-		holder = 302301		#fictional Paväl Mugelid
+		holder = 302301		#fictional Pav�l Mugelid
 	}
 	11109.1.1 = {
 		holder = 302302		#fictional Tiradin Mugelid
 	}
 	11133.1.1 = {
-		holder = 302303		#fictional Timër Mugelid
+		holder = 302303		#fictional Tim�r Mugelid
 	}
 	11162.1.1 = {
 		holder = 302304		#fictional Tsul Mugelid
@@ -683,14 +683,14 @@ c_chadrinsk = {
 	
 	#1066
 	11065.1.1 = {
-		holder = 302301		#fictional Paväl Mugelid
+		holder = 302301		#fictional Pav�l Mugelid
 		# government = nomad_government
 	}
 	11109.1.1 = {
 		holder = 302302		#fictional Tiradin Mugelid
 	}
 	11133.1.1 = {
-		holder = 302303		#fictional Timër Mugelid
+		holder = 302303		#fictional Tim�r Mugelid
 	}
 	11162.1.1 = {
 		holder = 302304		#fictional Tsul Mugelid
@@ -746,14 +746,14 @@ c_chelabinsk = {
 	
 	#1066
 	11065.1.1 = {
-		holder = 302301		#fictional Paväl Mugelid
+		holder = 302301		#fictional Pav�l Mugelid
 		government = nomad_government
 	}
 	11109.1.1 = {
 		holder = 302302		#fictional Tiradin Mugelid
 	}
 	11133.1.1 = {
-		holder = 302303		#fictional Timër Mugelid
+		holder = 302303		#fictional Tim�r Mugelid
 	}
 	11162.1.1 = {
 		holder = 302304		#fictional Tsul Mugelid

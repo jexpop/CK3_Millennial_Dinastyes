@@ -1,4 +1,4 @@
-k_tuva = {
+﻿k_tuva = {
 	10867.1.1 = { change_development_level = 0 }
 	11066.1.1 = { change_development_level = 0 }
 	11178.1.1 = { change_development_level = 0 }
@@ -84,14 +84,14 @@ c_arzhan = {
 	#Added to Oirat sphere of influence
 	11140.1.2 = {
 		liege = d_khovsgol	#Oirats
-		holder = 303021	#fictional Kitbugha Dörbet
+		holder = 303021	#fictional Kitbugha D�rbet
 	}
 	11153.7.15 = {
-		holder = 303022	#fictional Kundelung Dörbet
+		holder = 303022	#fictional Kundelung D�rbet
 		government = herder_government
 	}
 	11180.12.24 = {
-		holder = 303023	#fictional IshtO_mO_r Dörbet
+		holder = 303023	#fictional IshtO_mO_r D�rbet
 		# government = nomad_government
 	}
 }
@@ -169,7 +169,7 @@ c_azas = {
 		holder = 303025	#fictional Sengge Kolyokod
 	}
 	11195.4.18 = {
-		holder = 303026	#fictional Bembö Kolyokod
+		holder = 303026	#fictional Bemb� Kolyokod
 	}
 }
 

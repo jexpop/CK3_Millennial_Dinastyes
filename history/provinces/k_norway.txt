@@ -1,4 +1,4 @@
-#k_norway
+﻿#k_norway
 ##d_viken ###################################
 ###c_vingulmork
 234 = {	#OSLOSYSLAR	- Oslo
@@ -20,13 +20,13 @@
 		}
 	}
 }
-231 = { #AUSTFOLD	western Østfold
+231 = { #AUSTFOLD	western �stfold
 	holding = none
 	11016.1.1 = {
 		holding = city_holding
 	}
 }
-285 = { #BORGARSYSLAR	eastern Østfold
+285 = { #BORGARSYSLAR	eastern �stfold
 	holding = none
 }
 232 = { #ROMERRIKI	- Romerike
@@ -46,7 +46,7 @@
 }
 
 ###c_raniriki	-	Ranrike, old name of Viken
-229 = {	#BAGAHUS	aka Bohus Fortress, Baahus, Båhus
+229 = {	#BAGAHUS	aka Bohus Fortress, Baahus, B�hus
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -65,7 +65,7 @@
 }
 
 ###c_vestfold
-286 = {	#TUNSBERG	aka Tønsberg
+286 = {	#TUNSBERG	aka T�nsberg
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -148,7 +148,7 @@
 
 ##d_vestlandi ###################################
 ###c_rogalandi
-252 = {	#JATHARR	aka Jæren, linked city = Stavanger
+252 = {	#JATHARR	aka J�ren, linked city = Stavanger
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -273,14 +273,14 @@
 		holding = castle_holding
 	}
 }
-269 = { #NORTHRI_MORE	aka Nordmøre
+269 = { #NORTHRI_MORE	aka Nordm�re
 	holding = none
 	11066.1.1 = {
 		holding = city_holding
 		#Kristiansund, the major settlement of the area, was populated and relevant in Viking/Middle Age
 	}
 }
-267 = { #SUNNMORE	aka Sunnmøre
+267 = { #SUNNMORE	aka Sunnm�re
 	holding = none
 }
 
@@ -570,7 +570,7 @@
 
 ##d_jamtland ###################################
 ###c_jamtfir
-386 = {	#FROSO	aka Frösön
+386 = {	#FROSO	aka Fr�s�n
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -578,7 +578,7 @@
 		culture = norwegian
 		religion = catholic
 		holding = castle_holding
-		#Runestone from 1030-1050 erected in honour of Austmaðr's christianization of Jamtland
+		#Runestone from 1030-1050 erected in honour of Austma�r's christianization of Jamtland
 	}
 }
 282 = { #GRAFTAVALLEN
@@ -588,7 +588,7 @@
 	holding = none
 	11020.1.1 = {
 		holding = city_holding
-		#Was on the main road to Trondheim from Jämtland
+		#Was on the main road to Trondheim from J�mtland
 		#Set as city to reflect the probable relative importance of the place at the time
 	}
 }

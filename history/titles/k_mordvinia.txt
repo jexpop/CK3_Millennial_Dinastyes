@@ -1,4 +1,4 @@
-k_mordvinia = {
+﻿k_mordvinia = {
 	10867.1.1 = { change_development_level = 0 }
 	11066.1.1 = { change_development_level = 0 }
 	11178.1.1 = { change_development_level = 0 }
@@ -913,7 +913,7 @@ d_chuvashia = {
 		government = tribal_government
 	}
 	11095.1.2 = {
-		holder = 302279		#fictional Söbuk
+		holder = 302279		#fictional S�buk
 	}
 	11110.1.2 = {
 		holder = 302280		#fictional Baytas
@@ -947,7 +947,7 @@ c_saratov = {
 		government = tribal_government
 	}
 	11095.1.2 = {
-		holder = 302279		#fictional Söbuk
+		holder = 302279		#fictional S�buk
 	}
 	11110.1.2 = {
 		holder = 302280		#fictional Baytas
@@ -1147,7 +1147,7 @@ c_petrovsk = {
 		government = tribal_government
 	}
 	11095.1.2 = {
-		holder = 302279		#fictional Söbuk
+		holder = 302279		#fictional S�buk
 	}
 	11110.1.2 = {
 		holder = 302280		#fictional Baytas
@@ -1565,7 +1565,7 @@ c_durovka = {
 		government = tribal_government
 	}
 	11095.1.2 = {
-		holder = 302279		#fictional Söbuk
+		holder = 302279		#fictional S�buk
 		government = tribal_government
 	}
 	11110.1.2 = {

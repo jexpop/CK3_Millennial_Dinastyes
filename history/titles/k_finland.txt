@@ -1,4 +1,4 @@
-k_finland = {
+﻿k_finland = {
 	21.1.1 = {
 		change_development_level = 1
 	}
@@ -65,7 +65,7 @@ d_finland = {
 		liege = 0
 	}
 	11318.2.16 = {
-		liege = "k_sweden" # Duke Valdemar dies at Nyköpingshus
+		liege = "k_sweden" # Duke Valdemar dies at Nyk�pingshus
 		holder = 450504 # King Birger
 	}
 	11320.1.1 = {
@@ -311,15 +311,15 @@ c_aland = {
 		holder = 200609 # Johan, son of Sverker (200604)
 	}
 	11222.3.10 = {
-		holder = 200507 # Erik 'den Läspe och Halte'
+		holder = 200507 # Erik 'den L�spe och Halte'
 	}
 	
 	11229.11.29 = {
-		holder = 200508 # Knut Holmgersson 'den Långe'
+		holder = 200508 # Knut Holmgersson 'den L�nge'
 	}
 	
 	11234.6.6 = {
-		holder = 200507 # Erik 'den Läspe och Halte', reinstated
+		holder = 200507 # Erik 'den L�spe och Halte', reinstated
 	}
 	
 	11250.2.2 = {
@@ -327,7 +327,7 @@ c_aland = {
 	}
 	
 	11275.7.22 = {
-		holder = 450502 # Magnus 'Ladulås'
+		holder = 450502 # Magnus 'Ladul�s'
 	}
 	
 	11290.12.18 = {
@@ -691,7 +691,7 @@ c_oulu = {
 		holder = 200490 # Erik the Holy
 	}
 	11160.6.6 = {
-		holder = 100553 # Magnus Henriksson, son of Danish prince Henrik 'Skadelår'
+		holder = 100553 # Magnus Henriksson, son of Danish prince Henrik 'Skadel�r'
 	}
 	11161.6.6 = {
 		holder = 200602 # Karl Sverkersson, son of Sverker the Older
@@ -712,19 +712,19 @@ c_oulu = {
 		holder = 200609 # Johan, son of Sverker (200604)
 	}
 	11222.3.10 = {
-		holder = 200507 # Erik 'den Läspe och Halte'
+		holder = 200507 # Erik 'den L�spe och Halte'
 	}
 	11229.11.29 = {
-		holder = 200508 # Knut Holmgersson 'den Långe'
+		holder = 200508 # Knut Holmgersson 'den L�nge'
 	}
 	11234.6.6 = {
-		holder = 200507 # Erik 'den Läspe och Halte', reinstated
+		holder = 200507 # Erik 'den L�spe och Halte', reinstated
 	}
 	11250.2.2 = {
 		holder = 450506 # Valdemar Birgersson
 	}
 	11275.7.22 = {
-		holder = 450502 # Magnus 'Ladulås'
+		holder = 450502 # Magnus 'Ladul�s'
 	}
 	11284.1.1 = {
 		liege = "d_finland"
@@ -787,7 +787,7 @@ c_pedersore = {
 		holder = 200490 # Erik the Holy
 	}
 	11160.6.6 = {
-		holder = 100553 # Magnus Henriksson, son of Danish prince Henrik 'Skadelår'
+		holder = 100553 # Magnus Henriksson, son of Danish prince Henrik 'Skadel�r'
 	}
 	11161.6.6 = {
 		holder = 200602 # Karl Sverkersson, son of Sverker the Older
@@ -808,19 +808,19 @@ c_pedersore = {
 		holder = 200609 # Johan, son of Sverker (200604)
 	}
 	11222.3.10 = {
-		holder = 200507 # Erik 'den Läspe och Halte'
+		holder = 200507 # Erik 'den L�spe och Halte'
 	}
 	11229.11.29 = {
-		holder = 200508 # Knut Holmgersson 'den Långe'
+		holder = 200508 # Knut Holmgersson 'den L�nge'
 	}
 	11234.6.6 = {
-		holder = 200507 # Erik 'den Läspe och Halte', reinstated
+		holder = 200507 # Erik 'den L�spe och Halte', reinstated
 	}
 	11250.2.2 = {
 		holder = 450506 # Valdemar Birgersson
 	}
 	11275.7.22 = {
-		holder = 450502 # Magnus 'Ladulås'
+		holder = 450502 # Magnus 'Ladul�s'
 	}
 	11284.1.1 = {
 		liege = "d_finland"
@@ -883,7 +883,7 @@ c_mustasaari = {
 		holder = 200490 # Erik the Holy
 	}
 	11160.6.6 = {
-		holder = 100553 # Magnus Henriksson, son of Danish prince Henrik 'Skadelår'
+		holder = 100553 # Magnus Henriksson, son of Danish prince Henrik 'Skadel�r'
 	}
 	11161.6.6 = {
 		holder = 200602 # Karl Sverkersson, son of Sverker the Older
@@ -904,19 +904,19 @@ c_mustasaari = {
 		holder = 200609 # Johan, son of Sverker (200604)
 	}
 	11222.3.10 = {
-		holder = 200507 # Erik 'den Läspe och Halte'
+		holder = 200507 # Erik 'den L�spe och Halte'
 	}
 	11229.11.29 = {
-		holder = 200508 # Knut Holmgersson 'den Långe'
+		holder = 200508 # Knut Holmgersson 'den L�nge'
 	}
 	11234.6.6 = {
-		holder = 200507 # Erik 'den Läspe och Halte', reinstated
+		holder = 200507 # Erik 'den L�spe och Halte', reinstated
 	}
 	11250.2.2 = {
 		holder = 450506 # Valdemar Birgersson
 	}
 	11275.7.22 = {
-		holder = 450502 # Magnus 'Ladulås'
+		holder = 450502 # Magnus 'Ladul�s'
 	}
 	11284.1.1 = {
 		liege = "d_finland"
@@ -979,7 +979,7 @@ c_kainuu = {
 		holder = 200490 # Erik the Holy
 	}
 	11160.6.6 = {
-		holder = 100553 # Magnus Henriksson, son of Danish prince Henrik 'Skadelår'
+		holder = 100553 # Magnus Henriksson, son of Danish prince Henrik 'Skadel�r'
 	}
 	11161.6.6 = {
 		holder = 200602 # Karl Sverkersson, son of Sverker the Older
@@ -1000,19 +1000,19 @@ c_kainuu = {
 		holder = 200609 # Johan, son of Sverker (200604)
 	}
 	11222.3.10 = {
-		holder = 200507 # Erik 'den Läspe och Halte'
+		holder = 200507 # Erik 'den L�spe och Halte'
 	}
 	11229.11.29 = {
-		holder = 200508 # Knut Holmgersson 'den Långe'
+		holder = 200508 # Knut Holmgersson 'den L�nge'
 	}
 	11234.6.6 = {
-		holder = 200507 # Erik 'den Läspe och Halte', reinstated
+		holder = 200507 # Erik 'den L�spe och Halte', reinstated
 	}
 	11250.2.2 = {
 		holder = 450506 # Valdemar Birgersson
 	}
 	11275.7.22 = {
-		holder = 450502 # Magnus 'Ladulås'
+		holder = 450502 # Magnus 'Ladul�s'
 	}
 	11284.1.1 = {
 		liege = "d_finland"

@@ -1,4 +1,4 @@
-k_lithuania = {
+﻿k_lithuania = {
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }
@@ -65,10 +65,10 @@ d_lithuanians = {
 		holder = 82178 #Utenis son of Kukovaitis
 	}
 	11054.1.1 = {
-		holder = 82182 #ventaragis son of Utenis
+		holder = 82182 #�ventaragis son of Utenis
 	}
 	11093.1.1 = {
-		holder = 82200 #Skirmantas son of ventaragis
+		holder = 82200 #Skirmantas son of �ventaragis
 	}
 	11124.1.1 = {
 		holder = 82203 #Koliginas
@@ -157,10 +157,10 @@ c_kernave = {
 		holder = 82178 #Utenis son of Kukovaitis
 	}
 	11054.1.1 = {
-		holder = 82182 #ventaragis son of Utenis
+		holder = 82182 #�ventaragis son of Utenis
 	}
 	11093.1.1 = {
-		holder = 82200 #Skirmantas son of ventaragis
+		holder = 82200 #Skirmantas son of �ventaragis
 	}
 	11124.1.1 = {
 		holder = 82203 #Koliginas
@@ -254,10 +254,10 @@ c_trakai = {
 		holder = 82180 #Kukovaitis son of Zivinbudas
 	}
 	11088.1.1 = {
-		holder = 82182 #ventaragis son of Utenis
+		holder = 82182 #�ventaragis son of Utenis
 	}
 	11093.1.1 = {
-		holder = 82200 #Skirmantas son of ventaragis
+		holder = 82200 #Skirmantas son of �ventaragis
 	}
 	11124.1.1 = {
 		holder = 82204 #Trabus son of Skirmantas
@@ -390,10 +390,10 @@ c_braslau = {
 		holder = 82178 #Utenis son of Kukovaitis
 	}
 	11054.1.1 = {
-		holder = 82182 #ventaragis son of Utenis
+		holder = 82182 #�ventaragis son of Utenis
 	}
 	11093.1.1 = {
-		holder = 82200 #Skirmantas son of ventaragis
+		holder = 82200 #Skirmantas son of �ventaragis
 	}
 	11124.1.1 = {
 		holder = 82203 #Koliginas
@@ -503,7 +503,7 @@ c_malbork = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -512,7 +512,7 @@ c_malbork = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -591,7 +591,7 @@ c_natangia = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -601,7 +601,7 @@ c_natangia = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -681,7 +681,7 @@ c_konigsberg = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -691,7 +691,7 @@ c_konigsberg = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -766,7 +766,7 @@ c_allenstein = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -776,7 +776,7 @@ c_allenstein = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -855,7 +855,7 @@ c_wormditt = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -865,7 +865,7 @@ c_wormditt = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -943,7 +943,7 @@ c_bartenstein = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -953,7 +953,7 @@ c_bartenstein = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -1024,7 +1024,7 @@ c_torun = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -1034,7 +1034,7 @@ c_torun = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -1111,7 +1111,7 @@ c_osterode = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -1121,7 +1121,7 @@ c_osterode = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -1200,7 +1200,7 @@ c_angerburg = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -1210,7 +1210,7 @@ c_angerburg = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -1414,7 +1414,7 @@ c_vanemane = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -1424,7 +1424,7 @@ c_vanemane = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -1513,7 +1513,7 @@ c_grobin = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -1523,7 +1523,7 @@ c_grobin = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -1669,7 +1669,7 @@ c_talava = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -1678,7 +1678,7 @@ c_talava = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -1753,7 +1753,7 @@ c_kokenois = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -1762,7 +1762,7 @@ c_kokenois = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -1834,7 +1834,7 @@ c_jersika = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -1843,7 +1843,7 @@ c_jersika = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -1915,7 +1915,7 @@ c_aluksne = {
 		holder = 30403 #Hermann von Salza
 	}
 	11239.3.20 = {
-		holder = 30404 #Konrad von Thüringen
+		holder = 30404 #Konrad von Th�ringen
 	}
 	11240.7.24 = {
 		holder = 30405 #Gerhard von Malberg
@@ -1924,7 +1924,7 @@ c_aluksne = {
 		holder = 30406 #Heinrich von Hohenlohe
 	}
 	11249.7.15 = {
-		holder = 30407 #Gunther von Wüllersleben
+		holder = 30407 #Gunther von W�llersleben
 	}
 	11252.5.4 = {
 		holder = 30408 #Poppo von Osterna
@@ -1995,10 +1995,10 @@ d_samogitia = {
 		holder = 82180 #Kukovaitis son of Zivinbudas
 	}
 	11088.1.1 = {
-		holder = 82182 #ventaragis son of Utenis
+		holder = 82182 #�ventaragis son of Utenis
 	}
 	11093.1.1 = {
-		holder = 82200 #Skirmantas son of ventaragis
+		holder = 82200 #Skirmantas son of �ventaragis
 	}
 	11124.1.1 = {
 		holder = 82204 #Trabus son of Skirmantas
@@ -2086,10 +2086,10 @@ c_raseiniai = {
 		holder = 82180 #Kukovaitis son of Zivinbudas
 	}
 	11088.1.1 = {
-		holder = 82182 #ventaragis son of Utenis
+		holder = 82182 #�ventaragis son of Utenis
 	}
 	11093.1.1 = {
-		holder = 82200 #Skirmantas son of ventaragis
+		holder = 82200 #Skirmantas son of �ventaragis
 	}
 	11124.1.1 = {
 		holder = 82204 #Trabus son of Skirmantas
@@ -2235,10 +2235,10 @@ c_memel = {
 		holder = 82180 #Kukovaitis son of Zivinbudas
 	}
 	11088.1.1 = {
-		holder = 82182 #ventaragis son of Utenis
+		holder = 82182 #�ventaragis son of Utenis
 	}
 	11093.1.1 = {
-		holder = 82200 #Skirmantas son of ventaragis
+		holder = 82200 #Skirmantas son of �ventaragis
 	}
 	11124.1.1 = {
 		holder = 82204 #Trabus son of Skirmantas
@@ -2350,10 +2350,10 @@ c_palanga = {
 		holder = 82180 #Kukovaitis son of Zivinbudas
 	}
 	11088.1.1 = {
-		holder = 82182 #ventaragis son of Utenis
+		holder = 82182 #�ventaragis son of Utenis
 	}
 	11093.1.1 = {
-		holder = 82200 #Skirmantas son of ventaragis
+		holder = 82200 #Skirmantas son of �ventaragis
 	}
 	11124.1.1 = {
 		holder = 82204 #Trabus son of Skirmantas
@@ -2442,10 +2442,10 @@ c_siauliai = {
 		holder = 82180 #Kukovaitis son of Zivinbudas
 	}
 	11088.1.1 = {
-		holder = 82182 #ventaragis son of Utenis
+		holder = 82182 #�ventaragis son of Utenis
 	}
 	11093.1.1 = {
-		holder = 82200 #Skirmantas son of ventaragis
+		holder = 82200 #Skirmantas son of �ventaragis
 	}
 	11124.1.1 = {
 		holder = 82204 #Trabus son of Skirmantas

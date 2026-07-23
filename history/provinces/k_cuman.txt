@@ -1,4 +1,4 @@
-###MAPS REFERENCES
+﻿###MAPS REFERENCES
 #AAA : https://www.wdl.org/fr/item/11753/view/1/1/
 #BBB : https://www.wdl.org/fr/item/15037/view/1/1/
 #CCC : https://upload.wikimedia.org/wikipedia/commons/3/38/Zakaukazie-Turkestan1903.jpg
@@ -8,7 +8,7 @@
 ##d_turgay #Aqturgay ###################################
 ###c_turgay
 1273 = {	#Turgay
-	#As "Tourgaï" on map BBB, north-east of Aral Sea
+	#As "Tourga�" on map BBB, north-east of Aral Sea
 	culture = cuman
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -23,14 +23,14 @@
 	}
 }
 7260 = {	#Jaman Akkul
-	#As "Djaman Ak Koul" on map BBB, south of "Tourgaï"
+	#As "Djaman Ak Koul" on map BBB, south of "Tourga�"
 	holding = none
 }
 
 
 ###c_chumkar_kia
 7261 = {	#Chumkar Kia
-	#As "Choumkar Kia" on map BBB, between Aral Sea & "Tourgaï"
+	#As "Choumkar Kia" on map BBB, between Aral Sea & "Tourga�"
 	culture = cuman
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -46,13 +46,13 @@
 	}
 }
 7259 = {	#Tusum Kul
-	#As "Tousoum Koum", on map BBB, south-west of "Tourgaï"
+	#As "Tousoum Koum", on map BBB, south-west of "Tourga�"
 	holding = none
 }
 
 ###c_tumar
 7256 = {	#Tumar
-	#As "Toumar", on map BBB, between "Tourgaï" and "Irgiz"
+	#As "Toumar", on map BBB, between "Tourga�" and "Irgiz"
 	culture = cuman
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -61,7 +61,7 @@
 	}
 }
 7254 = {	#Tibis Sor
-	#On map BBB, west-north-west of "Tourgaï"
+	#On map BBB, west-north-west of "Tourga�"
 	holding = none
 }
 7255 = {	#Kyzyl Yar
@@ -71,7 +71,7 @@
 
 ###c_murun_tomis
 7257 = {	#Murun Tomis
-	#As "L. Kos Mouroun Tomis", on map BBB, just west of "Tourgaï"
+	#As "L. Kos Mouroun Tomis", on map BBB, just west of "Tourga�"
 	culture = cuman
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -86,14 +86,14 @@
 	}
 }
 7258 = {	#Tatyr Kul
-	#As "Tatyr Koul", on map BBB, north of "Tourgaï"
+	#As "Tatyr Koul", on map BBB, north of "Tourga�"
 	holding = none
 }
 
 ##d_kokturgay ###################################
 ###c_jilali
 7263 = {	#Jilali
-	#River "Djilali" on map BBB, between "Tourgaï" and "Djanaï Tchekou"
+	#River "Djilali" on map BBB, between "Tourga�" and "Djana� Tchekou"
 	culture = cuman
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -108,13 +108,13 @@
 	}
 }
 7262 = {	#Janai Cheku
-	#As "Djanaï Tchekou", on map BBB, south of "Tourgaï"
+	#As "Djana� Tchekou", on map BBB, south of "Tourga�"
 	holding = none
 }
 
 ###c_achu
 7267 = {	#Achu
-	#River "Achou" or "Achou Chouchan" on map BBB, south-east of "Tourgaï"
+	#River "Achou" or "Achou Chouchan" on map BBB, south-east of "Tourga�"
 	culture = cuman
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -126,13 +126,13 @@
 	}
 }
 7268 = {	#Kyzyl Cheku
-	#As "Kyzyl Tchekou", on map BBB, south-east of "Tourgaï"
+	#As "Kyzyl Tchekou", on map BBB, south-east of "Tourga�"
 	holding = none
 }
 
 ###c_ulu_jitanjik
 7266 = {	#Ulu Jitanjik
-	#River "Oulou Djitantchik" on map BBB, south-east of "Tourgaï"
+	#River "Oulou Djitantchik" on map BBB, south-east of "Tourga�"
 	culture = cuman
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -147,11 +147,11 @@
 	}
 }
 7264 = {	#Karalbak
-	#On map BBB, just south of "Tourgaï"
+	#On map BBB, just south of "Tourga�"
 	holding = none
 }
 7265 = {	#Sor Kuduk
-	#As "Sor Koudouk" on map BBB, east of "Tourgaï"
+	#As "Sor Koudouk" on map BBB, east of "Tourga�"
 	holding = none
 }
 
@@ -209,7 +209,7 @@
 
 ###c_togotai
 7275 = {	#Kaptadyr
-	#As "Kaptadyrskoï" on map BBB, south-west of lake Teniz
+	#As "Kaptadyrsko�" on map BBB, south-west of lake Teniz
 	culture = cuman
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -227,7 +227,7 @@
 	}
 }
 7273 = {	#Ajutasty
-	#River Achoutastai on map BBB, between "Tourgaï" and lake Teniz
+	#River Achoutastai on map BBB, between "Tourga�" and lake Teniz
 	holding = none
 }
 
@@ -256,7 +256,7 @@
 
 ###c_ulytau
 7272 = {	#Ulytau
-	#As "Oulou Taou" mountains on map BBB, south-east of "Tourgaï"
+	#As "Oulou Taou" mountains on map BBB, south-east of "Tourga�"
 	culture = cuman
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -265,7 +265,7 @@
 	}
 }
 7271 = {	#Tamdins
-	#As "Tamdinskoï", just north of "Oulou Taou" mountains
+	#As "Tamdinsko�", just north of "Oulou Taou" mountains
 	holding = none
 }
 7276 = {	#Jaman Arganaty
@@ -275,7 +275,7 @@
 
 ###c_jilanjik
 7270 = {	#Jilanjik
-	#Mountains "Djilantchik" south-east of "Tourgaï"
+	#Mountains "Djilantchik" south-east of "Tourga�"
 	culture = cuman
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -284,7 +284,7 @@
 	}
 }
 7269 = {	#Tuzdyn
-	#As "Touzdyn", between "Tourgaï" and "Oulou Taou"
+	#As "Touzdyn", between "Tourga�" and "Oulou Taou"
 	holding = none
 }
 

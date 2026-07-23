@@ -1,4 +1,4 @@
-# Visigothic culture break-up moved backwards in time to around ~800; probably still being a bit overly-generous at that, but it's a decent date for it.
+﻿# Visigothic culture break-up moved backwards in time to around ~800; probably still being a bit overly-generous at that, but it's a decent date for it.
 
 ###c_moura
 1837 = {	# MOURA
@@ -201,14 +201,14 @@
 1944 = {	# ZURITA/Zorita
 	holding = none
 }
-1945 = {	# ALTO TAJO/Huélamo
+1945 = {	# ALTO TAJO/Hu�lamo
 	holding = city_holding
 }
 1951 = {	# HUETE
 	holding = none
 }
 
-###c_mora/Ucles/Uclés
+###c_mora/Ucles/Ucl�s
 1952 = {	# UCLES
 	# Misc
 	culture = visigothic
@@ -408,7 +408,7 @@
 1841 = {	# ALMONTE
 	holding = city_holding
 }
-1993 = {	# TRIANA/Aznalcóllar
+1993 = {	# TRIANA/Aznalc�llar
 	holding = church_holding
 }
 
@@ -454,7 +454,7 @@
 		religion = catholic
 	}
 }
-1989 = {	# ALMADER/Almadén
+1989 = {	# ALMADER/Almad�n
 	holding = city_holding
 }
 

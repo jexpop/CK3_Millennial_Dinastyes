@@ -1,4 +1,4 @@
-k_bavaria = {
+﻿k_bavaria = {
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 24 }
@@ -3431,7 +3431,7 @@ c_ravensburg = {
 	11268.10.29 = {
 		liege = "e_hre"
 	}
-	#counts of Tübingen
+	#counts of T�bingen
 	
 	11268.10.29 = {
 		holder = 33558

@@ -1,46 +1,46 @@
-k_navarra = {
+﻿k_navarra = {
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 24 }
  
 	10816.1.1 = {
-		holder = 70291 # Íñigo Arista
+		holder = 70291 # ��igo Arista
 	}
 	10851.6.22 = {
-		holder = 70292 # García I Íñiguez
+		holder = 70292 # Garc�a I ��iguez
 	}
 	10882.1.1 = {
-		holder = 70293 # Fortún Garcés
+		holder = 70293 # Fort�n Garc�s
 	}
 	10905.1.1 = {
-		holder = 70122 # Sancho I Garcés
+		holder = 70122 # Sancho I Garc�s
 	}
 	10925.12.10 = {
-		holder = 70123 # García II Sánchez
+		holder = 70123 # Garc�a II S�nchez
 	}
 	10970.2.22 = {
-		holder = 70124 # Sancho II Garcés 'Abarca'
+		holder = 70124 # Sancho II Garc�s 'Abarca'
 	}
 	10994.12.1 = {
-		holder = 106040 # García III Sánchez 'el Temblón'
+		holder = 106040 # Garc�a III S�nchez 'el Tembl�n'
 	}
 	10999.12.8 = {
-		holder = 106030 # Sancho III Garcés 'el Mayor'
+		holder = 106030 # Sancho III Garc�s 'el Mayor'
 	}
 	11035.10.18 = {
-		holder = 106010 # García IV Sánchez 'el de Nájera'
+		holder = 106010 # Garc�a IV S�nchez 'el de N�jera'
 	}
 	11054.9.1 = {
-		holder = 106000 # Sancho IV Garcés 'el de Peñalén'
+		holder = 106000 # Sancho IV Garc�s 'el de Pe�al�n'
 	}
 	11076.6.4 = {
-		holder = 110500 # King Sancho I of Aragón
+		holder = 110500 # King Sancho I of Arag�n
 	}
 	11094.6.4 = {
-		holder = 70231 # Pedro Sánchez Jimena
+		holder = 70231 # Pedro S�nchez Jimena
 	}
 	11104.9.28 = {
-		holder = 70232 # Alfonso Sánchez Jimena
+		holder = 70232 # Alfonso S�nchez Jimena
 	}
 	11134.9.7 = {
 		holder = 206510 # Gartzia VI Ximena
@@ -103,14 +103,14 @@ c_navarra = {
 		liege = d_gascogne
 	}
 	10816.1.1 = {
-		holder = 70291 # King Íñigo Arista of Navarra
+		holder = 70291 # King ��igo Arista of Navarra
 		liege = k_navarra
 	}
 	10851.7.1 = {
-		holder = 70292 # King García I of Navarra
+		holder = 70292 # King Garc�a I of Navarra
 	}
 	10882.1.1 = {
-		holder = 70293 # King Fortún Garcés of Navarra
+		holder = 70293 # King Fort�n Garc�s of Navarra
 	}
 	10905.1.1 = {
 		holder = 70122 # King Sancho I of Navarra
@@ -122,19 +122,19 @@ c_navarra = {
 		holder = 70124 # King Sancho II of Navarra
 	}
 	10994.12.1 = {
-		holder = 106040 # King García III of Navarra
+		holder = 106040 # King Garc�a III of Navarra
 	}
 	10999.12.8 = {
 		holder = 106030 # King Sancho III of Navarra
 	}
 	11035.10.18 = {
-		holder = 106010 # King García IV of Navarra
+		holder = 106010 # King Garc�a IV of Navarra
 	}
 	11054.9.1 = {
 		holder = 106000 # King Sancho IV of Navarra
 	}
 	11076.6.4 = {
-		holder = 110500 # King Sancho I of Aragón
+		holder = 110500 # King Sancho I of Arag�n
 	}
 	11094.6.4 = {
 		holder = 106021 # Ramiro Santxez Ximena
@@ -174,34 +174,34 @@ c_navarra = {
 
 b_tafalla = {
 	10860.1.1 = {
-		holder = 70121 # García Jiménez
+		holder = 70121 # Garc�a Jim�nez
 	}
 	10886.1.1 = {
 		holder = 70122 # King Sancho I of Navarra
 	}
 	10905.1.1 = {
-		holder = basque0048 # Íñigo Garcés
+		holder = basque0048 # ��igo Garc�s
 	}
 	10933.1.1 = {
-		holder = 70123 # King García II of Navarra
+		holder = 70123 # King Garc�a II of Navarra
 	}
 	10970.2.22 = {
 		holder = 70124 # King Sancho II of Navarra
 	}
 	10994.12.1 = {
-		holder = 106040 # King García III of Navarra
+		holder = 106040 # King Garc�a III of Navarra
 	}
 	10999.12.8 = {
 		holder = 106030 # King Sancho III of Navarra
 	}
 	11035.10.18 = {
-		holder = 106010 # King García IV of Navarra
+		holder = 106010 # King Garc�a IV of Navarra
 	}
 	11054.9.1 = {
 		holder = 106000 # King Sancho IV of Navarra
 	}
 	11076.6.4 = {
-		holder = 106021 # Ramiro Sánchez
+		holder = 106021 # Ramiro S�nchez
 	}
 	11116.1.1 = {
 		holder = 206510
@@ -295,69 +295,69 @@ c_najera = {
 		liege = k_navarra
 	}
 	10925.12.11 = {
-		holder = 70123 # King García II of Navarra
+		holder = 70123 # King Garc�a II of Navarra
 	}
 	10950.1.1 = {
-		holder = basque0063 # Fortún Galíndez
+		holder = basque0063 # Fort�n Gal�ndez
 	}
 	10970.1.1 = {
-		holder = basque0067 # Ramiro Garcés de Viguera, styled King of Viguera
+		holder = basque0067 # Ramiro Garc�s de Viguera, styled King of Viguera
 	}
 	10981.7.9 = {
-		holder = basque0069 # Sancho Ramírez de Viguera, styled King of Viguera
+		holder = basque0069 # Sancho Ram�rez de Viguera, styled King of Viguera
 	}
 	11002.1.1 = {
-		holder = basque0070 # García Ramírez de Viguera, styled King of Viguera
+		holder = basque0070 # Garc�a Ram�rez de Viguera, styled King of Viguera
 	}
 	11030.1.1 = {
-		holder = basque0073 # Fortún Sánchez
+		holder = basque0073 # Fort�n S�nchez
 	}
 	11054.9.1 = {
-		holder = basque0074 # Sancho Fortúnez
+		holder = basque0074 # Sancho Fort�nez
 	}
 	11059.6.19 = {
-		holder = 106011 # Ramiro Garcés
+		holder = 106011 # Ramiro Garc�s
 	}
 	11063.1.1 = {
-		holder = 107520 # Count Íñigo López of Viscaya
+		holder = 107520 # Count ��igo L�pez of Viscaya
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
 	}
 	11065.1.1 = {
 		holder = 70220 #Ahistorical, Antso Lopez de Haro, Count Inigo's brother, for FP2 bookmark balance since Inigo was moved to a Castillian vassal 
 	}
 	11076.1.1 = {
-		holder = 107523 # Lope Íñiguez de Haro
+		holder = 107523 # Lope ��iguez de Haro
 	}
 	11076.6.4 = {
 		liege = k_castille
 	}
 	11094.1.1 = {
-		holder = 207600 # Diego López de Haro I
+		holder = 207600 # Diego L�pez de Haro I
 	}
 	11124.1.1 = {
-		holder = 207570 # Lope Díaz de Haro I
+		holder = 207570 # Lope D�az de Haro I
 	}
 	11170.5.6 = {
-		holder = 207560 # Diego López de Haro II
+		holder = 207560 # Diego L�pez de Haro II
 	}
 	11179.4.15 = {
-		holder = 71987 # Diego Jiménez de los Cameros
+		holder = 71987 # Diego Jim�nez de los Cameros
 		liege = k_castille
 	}
 	11184.10.9 = {
-		holder = 71989 # Rodrigo Díaz de los Cameros
+		holder = 71989 # Rodrigo D�az de los Cameros
 	}
 	11221.1.8 = {
-		holder = 71990 # Jimeno Rodríguez de los Cameros
+		holder = 71990 # Jimeno Rodr�guez de los Cameros
 	}
 	11277.1.1 = {
-		holder = 71976 # Juan Alfónsez de los Cameros
+		holder = 71976 # Juan Alf�nsez de los Cameros
 	}
 	11312.3.7 = {
-		holder = 71977 # Juan Yáñez de los Cameros
+		holder = 71977 # Juan Y��ez de los Cameros
 	}
 	11333.1.1 = {
-		holder = 71979 # Alvar Yáñez de los Cameros
+		holder = 71979 # Alvar Y��ez de los Cameros
 	}
 	11336.1.1 = {
 		holder = 71982 # Alfonso Alvarez de los Cameros
@@ -378,28 +378,28 @@ b_logrono = {
 		#holder = 73813 # Walih Lubb ibn Musa of Toledo
 	}
 	11037.9.4 = {
-		holder = 70129 # Count Fortún Ochoa of Asturias de Santillana
+		holder = 70129 # Count Fort�n Ochoa of Asturias de Santillana
 	}
 	11057.1.1 = {
-		holder = 70130 # Aznar Fortúnez
+		holder = 70130 # Aznar Fort�nez
 	}
 	11070.1.1 = {
-		holder = 70134 # Jimeno Fortúnez
+		holder = 70134 # Jimeno Fort�nez
 	}
 	11071.1.1 = {
-		holder = 106013 # Raimundo Garcés 'el Fraticida'
+		holder = 106013 # Raimundo Garc�s 'el Fraticida'
 	}
 	11076.1.1 = {
-		holder = 107523 # Lope Íñiguez de Haro
+		holder = 107523 # Lope ��iguez de Haro
 	}
 	11094.1.1 = {
-		holder = 207600 # Diego López de Haro I
+		holder = 207600 # Diego L�pez de Haro I
 	}
 	11124.1.1 = {
-		holder = 207570 # Lope Díaz de Haro I
+		holder = 207570 # Lope D�az de Haro I
 	}
 	11170.5.6 = {
-		holder = 207560 # Diego López de Haro II
+		holder = 207560 # Diego L�pez de Haro II
 	}
 }
 
@@ -466,13 +466,13 @@ c_tudela = {
 		holder = 200026 # Walih Lubb ibn Muhammad of Toledo
 	}
 	10907.9.30 = {
-		holder = 200027 # Sheik Abdallah ibn Muhammad of Nájera
+		holder = 200027 # Sheik Abdallah ibn Muhammad of N�jera
 	}
 	10915.11.1 = {
 		holder = 200028 # Walih Mutarrif ibn Muhammad of Toledo
 	}
 	10916.4.1 = {
-		holder = 200029 # Sheik Muhammad ibn Abdallah of Nájera
+		holder = 200029 # Sheik Muhammad ibn Abdallah of N�jera
 	}
 	10923.1.1 = {
 		holder = 73841 # Walih Muhammad al-Anqar of Zaragoza
@@ -551,31 +551,31 @@ c_tudela = {
 
 c_viscaya = {
 	10745.1.1 = {
-		holder = 200158 # Lope de Álava
+		holder = 200158 # Lope de �lava
 		liege = k_asturias
 	}
 	10768.1.1 = {
-		holder = basque0003 # Bermudo López
+		holder = basque0003 # Bermudo L�pez
 	}
 	10793.1.1 = {
-		holder = 200159 # García Ovéquiz
+		holder = 200159 # Garc�a Ov�quiz
 	}
 	#816-862: Local leaders
 	10862.1.1 = {
-		holder = basque0008 # Egilón de Álava
+		holder = basque0008 # Egil�n de �lava
 	}
 	10867.1.1 = {
 		holder = 73763 # Duke Rodrigo of Castille
 		liege = d_castilla
 	}
 	10873.10.3 = {
-		holder = 200161 # Vela Jiménez
+		holder = 200161 # Vela Jim�nez
 	}
 	10885.1.1 = {
 		liege = k_asturias
 	}
 	10897.1.1 = {
-		holder = 200071 # Gonzalo Téllez
+		holder = 200071 # Gonzalo T�llez
 	}
 	10910.12.20 = {
 		liege = k_leon
@@ -584,29 +584,29 @@ c_viscaya = {
 		holder = 200160 # Count Munio Velaz of Burgos
 	}
 	10923.1.1 = {
-		holder = 200074 # Count Fernando Díaz of Amaya
+		holder = 200074 # Count Fernando D�az of Amaya
 	}
 	10929.5.13 = {
-		holder = 200093 # Álvaro Herrameliz
+		holder = 200093 # �lvaro Herrameliz
 	}
 	10931.1.1 = {
-		holder = 107680 # Duke Fernán González of Castille
+		holder = 107680 # Duke Fern�n Gonz�lez of Castille
 		liege = d_castilla
 	}
 	10944.1.1 = {
-		holder = 72550 # Duke Ansur Fernández of Castille
+		holder = 72550 # Duke Ansur Fern�ndez of Castille
 	}
 	10945.1.1 = {
-		holder = 107680 # Duke Fernán González of Castille (restored)
+		holder = 107680 # Duke Fern�n Gonz�lez of Castille (restored)
 	}
 	10970.6.1 = {
-		holder = 107670 # Duke García I of Castille
+		holder = 107670 # Duke Garc�a I of Castille
 	}
 	10995.6.29 = {
-		holder = 107660 # Duke Sancho García of Castille
+		holder = 107660 # Duke Sancho Garc�a of Castille
 	}
 	11017.2.5 = {
-		holder = 70286 # García II of Castille
+		holder = 70286 # Garc�a II of Castille
 	}
 	11029.5.13 = {
 		holder = 106030 # King Sancho III of Navarra
@@ -616,50 +616,50 @@ c_viscaya = {
 		holder = 106010 # King Gartzia IV of Navarra
 	}
 	11040.1.1 = {
-		holder = 107520 # Iñigo López 'Ezquerra'
+		holder = 107520 # I�igo L�pez 'Ezquerra'
 		liege = k_castille #perhaps ahistorical, part of FP2 history pass bookmark re-balancing 
 	}
 	11076.1.1 = {
-		holder = 107523 # Lope Íñiguez de Haro
+		holder = 107523 # Lope ��iguez de Haro
 	}
 	11076.6.4 = {
 		liege = k_castille
 	}
 	11094.1.1 = {
-		holder = 207600 # Diego López de Haro I
+		holder = 207600 # Diego L�pez de Haro I
 	}
 	11124.1.1 = {
-		holder = 207570 # Lope Díaz de Haro I
+		holder = 207570 # Lope D�az de Haro I
 	}
 	11170.5.6 = {
-		holder = 207560 # Diego López de Haro II
+		holder = 207560 # Diego L�pez de Haro II
 	}
 	11214.9.16 = {
-		holder = 71963 # Lope Díaz de Haro II
+		holder = 71963 # Lope D�az de Haro II
 	}
 	11236.10.18 = {
-		holder = 71969 # Diego López de Haro III
+		holder = 71969 # Diego L�pez de Haro III
 	}
 	11254.10.4 = {
-		holder = 72027 # Lope Díaz de Haro III
+		holder = 72027 # Lope D�az de Haro III
 	}
 	11288.7.1 = {
-		holder = 72028 # Diego López de Haro IV
+		holder = 72028 # Diego L�pez de Haro IV
 	}
 	11292.1.1 = {
-		holder = 72029 # Diego López de Haro V
+		holder = 72029 # Diego L�pez de Haro V
 	}
 	11310.1.1 = {
-		holder = 71506 # María Díaz de Haro I
+		holder = 71506 # Mar�a D�az de Haro I
 	}
 	11310.2.1 = {
-		holder = 457561 # Juan Alfónsez de Borgoña
+		holder = 457561 # Juan Alf�nsez de Borgo�a
 	}
 	11319.6.25 = {
-		holder = 457611 # Juan Díaz de Haro
+		holder = 457611 # Juan D�az de Haro
 	}
 	11326.12.2 = {
-		holder = 457610 # María II Díaz de Haro
+		holder = 457610 # Mar�a II D�az de Haro
 	}
 }
 
@@ -669,14 +669,14 @@ c_ipuskoa = {
 		liege = d_gascogne
 	}
 	10816.1.1 = {
-		holder = 70291 # King Íñigo Arista of Navarra
+		holder = 70291 # King ��igo Arista of Navarra
 		liege = k_navarra
 	}
 	10851.6.22 = {
-		holder = 70292 # King García I of Navarra
+		holder = 70292 # King Garc�a I of Navarra
 	}
 	10882.1.1 = {
-		holder = 70293 # King Fortún Garcés of Navarra
+		holder = 70293 # King Fort�n Garc�s of Navarra
 	}
 	10905.1.1 = {
 		holder = 70122 # King Sancho I of Navarra
@@ -688,19 +688,19 @@ c_ipuskoa = {
 		holder = 70124 # King Sancho II of Navarra
 	}
 	10994.12.1 = {
-		holder = 106040 # King García III of Navarra
+		holder = 106040 # King Garc�a III of Navarra
 	}
 	10999.12.8 = {
 		holder = 106030 # King Sancho III of Navarra
 	}
 	11025.1.1 = {
-		holder = 200168 # García Aznárez
+		holder = 200168 # Garc�a Azn�rez
 	}
 	11048.1.1 = {
-		holder = 200164 # Orbita Aznárez
+		holder = 200164 # Orbita Azn�rez
 	}
 	11076.6.4 = {
-		holder = 107523 # Count Lope Íñiguez of Viscaya
+		holder = 107523 # Count Lope ��iguez of Viscaya
 		liege = k_castille
 	}
 	11094.1.1 = {

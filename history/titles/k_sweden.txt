@@ -1,4 +1,4 @@
-k_sweden = {
+﻿k_sweden = {
 	20.1.1 = {
 		change_development_level = 2
 	}
@@ -13,14 +13,14 @@ k_sweden = {
 	11178.1.1 = { change_development_level = 24 }
 	
 	10970.1.1 = {
-		holder = 100504 # Erik Segersäll
+		holder = 100504 # Erik Segers�ll
 		succession_laws = { scandinavian_elective_succession_law }
 	}
 	10995.1.2 = {
-		holder = 100506 # Olof Skötkonung
+		holder = 100506 # Olof Sk�tkonung
 	}
 	11022.1.7 = {
-		holder = 100508 # Anund Jakob "Kolbränna"
+		holder = 100508 # Anund Jakob "Kolbr�nna"
 	}
 	11050.6.16 = {
 		holder = 100509 # Emund den Gamle, aka "Emund Slemme"
@@ -80,15 +80,15 @@ k_sweden = {
 		holder = 200609 # Johan, son of Sverker (200604)
 	}
 	11222.3.10 = {
-		holder = 200507 # Erik 'den Läspe och Halte'
+		holder = 200507 # Erik 'den L�spe och Halte'
 	}
 	
 	11229.11.29 = {
-		holder = 200508 # Knut Holmgersson 'den Långe'
+		holder = 200508 # Knut Holmgersson 'den L�nge'
 	}
 	
 	11234.6.6 = {
-		holder = 200507 # Erik 'den Läspe och Halte', reinstated
+		holder = 200507 # Erik 'den L�spe och Halte', reinstated
 	}
 	
 	11250.2.2 = {
@@ -96,7 +96,7 @@ k_sweden = {
 	}
 	
 	11275.7.22 = {
-		holder = 450502 # Magnus 'Ladulås'
+		holder = 450502 # Magnus 'Ladul�s'
 	}
 	
 	11290.12.18 = {
@@ -155,10 +155,10 @@ d_svealand = {
 		liege = "k_sweden"
 	}
 	10995.1.2 = {
-		holder = 100506 # Olof Skötkonung
+		holder = 100506 # Olof Sk�tkonung
 	}
 	11022.1.7 = {
-		holder = 100508 # Anund Jakob "Kolbränna"
+		holder = 100508 # Anund Jakob "Kolbr�nna"
 	}
 	11050.1.16 = {
 		holder = 100509 # Emund den Gamle, aka "Emund Slemme"
@@ -186,15 +186,15 @@ d_svealand = {
 		holder = 200609 # Johan, son of Sverker (200604)
 	}
 	11222.3.10 = {
-		holder = 200507 # Erik 'den Läspe och Halte'
+		holder = 200507 # Erik 'den L�spe och Halte'
 	}
 	
 	11229.11.29 = {
-		holder = 200508 # Knut Holmgersson 'den Långe'
+		holder = 200508 # Knut Holmgersson 'den L�nge'
 	}
 	
 	11234.6.6 = {
-		holder = 200507 # Erik 'den Läspe och Halte', reinstated
+		holder = 200507 # Erik 'den L�spe och Halte', reinstated
 	}
 	
 	11250.2.2 = {
@@ -202,7 +202,7 @@ d_svealand = {
 	}
 	
 	11275.7.22 = {
-		holder = 450502 # Magnus 'Ladulås'
+		holder = 450502 # Magnus 'Ladul�s'
 	}
 	
 	11290.12.18 = {
@@ -250,10 +250,10 @@ c_upland = {
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
 	}
 	10995.1.2 = {
-		holder = 100506 # Olof Skötkonung
+		holder = 100506 # Olof Sk�tkonung
 	}
 	11022.1.7 = {
-		holder = 100508 # Anund Jakob "Kolbränna"
+		holder = 100508 # Anund Jakob "Kolbr�nna"
 	}
 	11050.1.16 = {
 		holder = 100509 # Emund den Gamle, aka "Emund Slemme"
@@ -277,15 +277,15 @@ c_upland = {
 		holder = 200609 # Johan, son of Sverker (200604)
 	}
 	11222.3.10 = {
-		holder = 200507 # Erik 'den Läspe och Halte'
+		holder = 200507 # Erik 'den L�spe och Halte'
 	}
 	
 	11229.11.29 = {
-		holder = 200508 # Knut Holmgersson 'den Långe'
+		holder = 200508 # Knut Holmgersson 'den L�nge'
 	}
 	
 	11234.6.6 = {
-		holder = 200507 # Erik 'den Läspe och Halte', reinstated
+		holder = 200507 # Erik 'den L�spe och Halte', reinstated
 	}
 	
 	11250.2.2 = {
@@ -293,7 +293,7 @@ c_upland = {
 	}
 	
 	11275.7.22 = {
-		holder = 450502 # Magnus 'Ladulås'
+		holder = 450502 # Magnus 'Ladul�s'
 	}
 	
 	11290.12.18 = {
@@ -335,10 +335,10 @@ c_sodermannaland = {
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
 	}
 	10995.1.2 = {
-		holder = 100506 # Olof Skötkonung
+		holder = 100506 # Olof Sk�tkonung
 	}
 	11022.1.7 = {
-		holder = 100508 # Anund Jakob "Kolbränna"
+		holder = 100508 # Anund Jakob "Kolbr�nna"
 	}
 	11050.1.16 = {
 		holder = 100509 # Emund den Gamle, aka "Emund Slemme"
@@ -562,15 +562,15 @@ d_vastergotland = {
 		holder = 200609 # Johan, son of Sverker (200604)
 	}
 	11222.3.10 = {
-		holder = 200507 # Erik 'den Läspe och Halte'
+		holder = 200507 # Erik 'den L�spe och Halte'
 	}
 	
 	11229.11.29 = {
-		holder = 200508 # Knut Holmgersson 'den Långe'
+		holder = 200508 # Knut Holmgersson 'den L�nge'
 	}
 	
 	11234.6.6 = {
-		holder = 200507 # Erik 'den Läspe och Halte', reinstated
+		holder = 200507 # Erik 'den L�spe och Halte', reinstated
 	}
 	
 	11250.2.2 = {
@@ -578,7 +578,7 @@ d_vastergotland = {
 	}
 	
 	11284.1.1 = {
-		holder = 450502 # Magnus 'Ladulås'
+		holder = 450502 # Magnus 'Ladul�s'
 	}
 	
 	11290.12.18 = {
@@ -592,7 +592,7 @@ d_vastergotland = {
 	}
 	
 	11318.2.16 = {
-		liege = "k_sweden" # Duke Erik dies at Nyköpingshus
+		liege = "k_sweden" # Duke Erik dies at Nyk�pingshus
 		holder = 450504 # King Birger
 	}
 	
@@ -743,16 +743,16 @@ c_skara = {
 		holder = 242508 # Hervard
 	}
 	11120.1.1={
-		holder = 242509 # Styrbjörn
+		holder = 242509 # Styrbj�rn
 	}
 	11130.1.1={
-		holder = 242510 # Ödgrim
+		holder = 242510 # �dgrim
 	}
 	11150.1.1={
 		holder = 242511 # Bengt
 	}
 	11190.1.1={
-		holder = 242512 # Järpulf
+		holder = 242512 # J�rpulf
 	}
 	11201.1.1={
 		holder = 242513 # Jon Hyrne
@@ -847,7 +847,7 @@ c_dal = {
 	}
 	
 	
-	## Lilliehöök ancestors
+	## Lillieh��k ancestors
 	11200.1.1 = {
 		holder = 194247
 	}
@@ -932,7 +932,7 @@ c_varmland = {
 	}
 	
 	11318.2.16 = {
-		liege = "k_sweden" # Duke Erik dies at Nyköpingshus
+		liege = "k_sweden" # Duke Erik dies at Nyk�pingshus
 		holder = 450504 # King Birger
 	}
 	
@@ -999,7 +999,7 @@ c_nordmark = {
 	}
 	
 	11318.2.16 = {
-		liege = "k_sweden" # Duke Erik dies at Nyköpingshus
+		liege = "k_sweden" # Duke Erik dies at Nyk�pingshus
 		holder = 450504 # King Birger
 	}
 	
@@ -1062,7 +1062,7 @@ d_ostergotland = {
 		liege = 0
 	}
 	11318.2.16 = {
-		liege = "k_sweden" # Duke Erik dies at Nyköpingshus
+		liege = "k_sweden" # Duke Erik dies at Nyk�pingshus
 		holder = 450504 # King Birger
 	}
 	11319.7.8 = {
@@ -1229,10 +1229,10 @@ c_narke = {
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
 	}
 	10995.1.2 = {
-		holder = 100506 # Olof Skötkonung
+		holder = 100506 # Olof Sk�tkonung
 	}
 	11022.1.7 = {
-		holder = 100508 # Anund Jakob "Kolbränna"
+		holder = 100508 # Anund Jakob "Kolbr�nna"
 	}
 	11050.1.16 = {
 		holder = 100509 # Emund den Gamle, aka "Emund Slemme"
@@ -1248,7 +1248,7 @@ c_narke = {
 		holder = 100523 # Halsten
 	}
 	11070.12.1 = {
-		holder = 100526 # Håkan Röde
+		holder = 100526 # H�kan R�de
 	}
 	11080.12.1 = {
 		holder = 100524 # Inge the Older
@@ -1379,7 +1379,7 @@ c_gutland = {
 	11285.1.1 = {
 		de_jure_liege = d_smaland
 		liege = k_sweden
-		holder = 450502 # Magnus 'Ladulås'
+		holder = 450502 # Magnus 'Ladul�s'
 	}
 	
 	11290.12.18 = {
@@ -1395,7 +1395,7 @@ c_gutland = {
 
 
 d_smaland = {
-	# Duchy of Småland
+	# Duchy of Sm�land
 	10860.1.1 = {
 		holder = 41266 # Fictional local chief
 		government = tribal_government
@@ -1473,7 +1473,7 @@ c_more = {
 	}
 	
 	11318.2.16 = {
-		liege = "k_sweden" # Duke Valdemar dies at Nyköpingshus
+		liege = "k_sweden" # Duke Valdemar dies at Nyk�pingshus
 		holder = 450504 # King Birger
 	}
 	
@@ -1546,7 +1546,7 @@ c_sevede = {
 	}
 	
 	11318.2.16 = {
-		liege = "k_sweden" # Duke Valdemar dies at Nyköpingshus
+		liege = "k_sweden" # Duke Valdemar dies at Nyk�pingshus
 		holder = 450504 # King Birger
 	}
 	
@@ -1558,7 +1558,7 @@ c_sevede = {
 
 
 c_varend = {
-	# Värend (formerly Småland)
+	# V�rend (formerly Sm�land)
 	
 	10769.1.1 = {
 		holder = 194051
@@ -1575,7 +1575,7 @@ c_varend = {
 		liege = "k_sweden"
 	}
 	11066.1.1 = {
-		holder = 20020 # Toke Värending
+		holder = 20020 # Toke V�rending
 	}
 	
 	## Bonde
@@ -1628,7 +1628,7 @@ c_njudung = {
 		liege = "k_sweden"
 	}
 	11066.1.1 = {
-		holder = 20020 # Toke Värending
+		holder = 20020 # Toke V�rending
 	}
 	
 	## Bonde
@@ -1681,7 +1681,7 @@ c_finnveden = {
 		liege = "k_sweden"
 	}
 	11066.1.1 = {
-		holder = 20020 # Toke Värending
+		holder = 20020 # Toke V�rending
 	}
 	
 	## Bonde
@@ -1779,7 +1779,7 @@ c_oland = {
 	}
 	
 	11318.2.16 = {
-		liege = "k_sweden" # Duke Valdemar dies at Nyköpingshus
+		liege = "k_sweden" # Duke Valdemar dies at Nyk�pingshus
 		holder = 450504 # King Birger
 	}
 	
@@ -1837,15 +1837,15 @@ c_gastrikland = {
 		holder = 200609 # Johan, son of Sverker (200604)
 	}
 	11222.3.10 = {
-		holder = 200507 # Erik 'den Läspe och Halte'
+		holder = 200507 # Erik 'den L�spe och Halte'
 	}
 	
 	11229.11.29 = {
-		holder = 200508 # Knut Holmgersson 'den Långe'
+		holder = 200508 # Knut Holmgersson 'den L�nge'
 	}
 	
 	11234.6.6 = {
-		holder = 200507 # Erik 'den Läspe och Halte', reinstated
+		holder = 200507 # Erik 'den L�spe och Halte', reinstated
 	}
 	
 	11250.2.2 = {
@@ -1853,7 +1853,7 @@ c_gastrikland = {
 	}
 	
 	11275.7.22 = {
-		holder = 450502 # Magnus 'Ladulås'
+		holder = 450502 # Magnus 'Ladul�s'
 	}
 	
 	11290.12.18 = {
@@ -1990,14 +1990,14 @@ c_angermanland = {
 	}
 	11229.1.1 = {
 		liege = "k_sweden"
-		holder = 200507 # Erik 'den Läspe och Halte'
+		holder = 200507 # Erik 'den L�spe och Halte'
 	}
 	11229.11.29 = {
-		holder = 200508 # Knut Holmgersson 'den Långe'
+		holder = 200508 # Knut Holmgersson 'den L�nge'
 	}
 	
 	11234.6.6 = {
-		holder = 200507 # Erik 'den Läspe och Halte', reinstated
+		holder = 200507 # Erik 'den L�spe och Halte', reinstated
 	}
 	
 	11250.2.2 = {
@@ -2005,7 +2005,7 @@ c_angermanland = {
 	}
 	
 	11275.7.22 = {
-		holder = 450502 # Magnus 'Ladulås'
+		holder = 450502 # Magnus 'Ladul�s'
 	}
 	
 	11290.12.18 = {

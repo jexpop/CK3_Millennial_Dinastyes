@@ -1,4 +1,4 @@
-k_denmark = {
+﻿k_denmark = {
 	21.1.1 = { change_development_level = 2 }
 	11001.1.1 = { change_development_level = 7 }
 	11101.1.1 = { change_development_level = 12 }
@@ -12,10 +12,10 @@ k_denmark = {
 		holder = 101500 # Gorm the Old
 	}
 	10958.12.1 = {
-		holder = 101502 # Harald Blåtand
+		holder = 101502 # Harald Bl�tand
 	}
 	10986.11.1 = {
-		holder = 101505 # Svend Tveskägg
+		holder = 101505 # Svend Tvesk�gg
 	}
 	11014.2.3 = {
 		holder = 101507 # Harald II
@@ -153,10 +153,10 @@ c_sjaelland = {
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
 	}
 	10958.1.1 = {
-		holder = 101502 # Harald Blåtand
+		holder = 101502 # Harald Bl�tand
 	}
 	10986.1.1 = {
-		holder = 101505 # Svend Tveskägg
+		holder = 101505 # Svend Tvesk�gg
 	}
 	11014.2.3 = {
 		holder = 101507 # Harald II
@@ -330,10 +330,10 @@ c_lolland_falster = {
 		government = feudal_government	#Ahistorical, just for ease of bookmarks.
 	}
 	10958.1.1 = {
-		holder = 101502 # Harald Blåtand
+		holder = 101502 # Harald Bl�tand
 	}
 	10986.1.1 = {
-		holder = 101505 # Svend Tveskägg
+		holder = 101505 # Svend Tvesk�gg
 	}
 	11014.2.3 = {
 		holder = 101507 # Harald II
@@ -348,7 +348,7 @@ c_lolland_falster = {
 		holder = 102529 # Magnus den Gode
 	}
 	11047.10.25 = {
-		holder = 101536 # Asbjørn Jarl Ulfson - Granted Lolland to make the character landed and playable due to historical significance.
+		holder = 101536 # Asbj�rn Jarl Ulfson - Granted Lolland to make the character landed and playable due to historical significance.
 	}
 	11157.10.23 = {
 		holder = 30551 # Prislaw Niklotid
@@ -562,7 +562,7 @@ c_halland = {
 		liege = "d_skane"
 	}
 	11178.1.1 = {
-		holder = 201500 # Knud Valdemarsøn
+		holder = 201500 # Knud Valdemars�n
 		liege = k_denmark
 	}
 	11201.3.21 = {
@@ -736,7 +736,7 @@ c_blekinge = {
 
 d_jylland = {
 	10852.1.1 = {
-		holder = 6866 # Hårik II
+		holder = 6866 # H�rik II
 		government = tribal_government
 	}
 	10860.1.1 = {
@@ -747,7 +747,7 @@ d_jylland = {
 	}
 	11066.1.1 = {
 		liege = "k_denmark"
-		holder = 101542 # Thrugot Ulfssøn Fagerskind, Thrugotsønnerne - Granted land to make the character landed and playable due to historical significance.
+		holder = 101542 # Thrugot Ulfss�n Fagerskind, Thrugots�nnerne - Granted land to make the character landed and playable due to historical significance.
 	}
 	11070.1.2 = {
 		holder = 0
@@ -831,10 +831,10 @@ c_aarhus = {
 	#	liege = "k_denmark"
 	#}
 	11066.1.1 = {
-		holder = 101542 # Thrugot Ulfssøn Fagerskind, Thrugotsønnerne - Granted land to make the character landed and playable due to historical significance.
+		holder = 101542 # Thrugot Ulfss�n Fagerskind, Thrugots�nnerne - Granted land to make the character landed and playable due to historical significance.
 	}
 	11070.1.2 = {
-		holder = 151000 # Svend Thrugotsøn
+		holder = 151000 # Svend Thrugots�n
 	}
 	11086.1.1 = {
 		liege = "k_denmark"
@@ -913,7 +913,7 @@ c_viborg = {
 	#	liege = "k_denmark"
 	#}
 	11066.1.2 = {
-		holder = 151000 # Svend Thrugotsøn
+		holder = 151000 # Svend Thrugots�n
 	}
 	11086.1.1 = {
 		liege = "k_denmark"
@@ -992,7 +992,7 @@ c_ringkobing = {
 	#	liege = "k_denmark"
 	#}
 	11066.1.2 = {
-		holder = 151000 # Svend Thrugotsøn
+		holder = 151000 # Svend Thrugots�n
 	}
 	11086.1.1 = {
 		liege = "k_denmark"
@@ -1071,10 +1071,10 @@ c_aalborg = {
 	#	liege = "k_denmark"
 	#}
 	11066.1.1 = {
-		holder = 101542 # Thrugot Ulfssøn Fagerskind, Thrugotsønnerne - Granted land to make the character landed and playable due to historical significance.
+		holder = 101542 # Thrugot Ulfss�n Fagerskind, Thrugots�nnerne - Granted land to make the character landed and playable due to historical significance.
 	}
 	11070.1.2 = {
-		holder = 151000 # Svend Thrugotsøn
+		holder = 151000 # Svend Thrugots�n
 	}
 	11086.1.1 = {
 		liege = "k_denmark"
@@ -1462,7 +1462,7 @@ c_lubeck = {
 		holder = 167220 #Dietrich Vorrade
 	}
 	11291.1.1 = {
-		holder = 167237 #Alexander Lüneburg
+		holder = 167237 #Alexander L�neburg
 	}
 	11303.1.1 = {
 		holder = 167104 #Albrecht von Bardewik
@@ -1490,7 +1490,7 @@ c_lubeck = {
 
 b_lubeck = {
 	# Imperial Free City - seed of the Hansa
-	# Mayors of Lübeck
+	# Mayors of L�beck
 	11227.1.1 = {
 		holder = 167102 #Gottschalk von Bardewik
 	}
@@ -1507,7 +1507,7 @@ b_lubeck = {
 		holder = 167220 #Dietrich Vorrade
 	}
 	11291.1.1 = {
-		holder = 167237 #Alexander Lüneburg
+		holder = 167237 #Alexander L�neburg
 	}
 	11303.1.1 = {
 		holder = 167104 #Albrecht von Bardewik
@@ -1627,7 +1627,7 @@ c_stade = {
 		holder = 30310 #Heinrich von Goltern
 	}
 	11308.1.1 = {
-		holder = 30311 #Bernhard von Wölpe
+		holder = 30311 #Bernhard von W�lpe
 	}
 	
 	11310.9.17 = {

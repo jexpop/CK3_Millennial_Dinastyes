@@ -1,4 +1,4 @@
-#k_lotharingia
+﻿#k_lotharingia
 ##d_luxembourg ###################################
 ###c_luxembourg
 2082 = {	#LUXEMBOURG
@@ -234,7 +234,7 @@
 2078 = {	#EPINAL
 	holding = church_holding
 }
-2713 = {	#BLANKENBERG = LÜNSTADT / LUNEVILLE
+2713 = {	#BLANKENBERG = L�NSTADT / LUNEVILLE
 	holding = none
 	10950.1.1 = {
 		holding = city_holding

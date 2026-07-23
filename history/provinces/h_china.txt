@@ -1,4 +1,5 @@
-﻿##d_aksay ###################################
+﻿# k_viet, k_dali have their own file
+##d_aksay ###################################
 ###c_aksay # AKSAY
 9472 = {	# Aksay (Gonghe)
 	# Misc
@@ -10,7 +11,7 @@
 	# History
 }
 9471 = {	# TUANJIE
-	holding = city_holding
+	holding = none
 }
 ###c_haltang # HALTANG
 9469 = {	# Haltang (Dahaleteng)
@@ -23,7 +24,7 @@
 	# History
 }
 9470 = {	# TAKOERPASITAO
-	holding = city_holding
+	holding = none
 }
 
 ##d_baqu ###################################
@@ -424,37 +425,6 @@
 	holding = church_holding
 }
 
-##d_dali ###################################
-###c_dali # DALI
-10869 = {	# DALI 1
-	culture = bai
-	religion = acharya
-	holding = castle_holding
-}
-12863 = {	# NINGBEI
-	holding = city_holding
-}
-11490 = {	# YUNNAN
-	holding = church_holding
-}
-###c_nongdong # NONGDONG
-10865 = {	# NONGDONG
-	culture = bai
-	religion = acharya
-	holding = castle_holding
-}
-10866 = {	# SHENLI
-	holding = city_holding
-}
-###c_weichu # WEICHU
-10863 = {	# ELU
-	culture = bai
-	religion = acharya
-	holding = castle_holding
-}
-10867 = {	# MOYU
-	holding = city_holding
-}
 
 ##d_yunshuo ###################################
 ###c_lingzhou_2 # LINGZHOU 2
@@ -505,18 +475,6 @@
 }
 12405 = {	# CIRLXJ JINSHAN
 	holding = none
-}
-###c_lxj_yangchengzhou # LXJ YANGCHENGZHOU
-12406 = {	# CIRLXJ YANGCHENG
-	culture = khitan
-	religion = avatamsaka
-	holding = castle_holding
-}
-12407 = {	# CIRLXJ YUNYUDI
-	holding = city_holding
-}
-12408 = {	# CIRLXJ LILINGTAIYI
-	holding = church_holding
 }
 ###c_jiushijiuquan # LXJ YUNZHOU
 12394 = {	# CIRLXJ WULANCHABU
@@ -1065,18 +1023,16 @@
 	culture = han
 	religion = sukhavati
 	holding = castle_holding
-}
-9491 = {	# Chijin
-	# Misc
-	culture = han
-	religion = avatamsaka
-	
-	holding = castle_holding
-	
+
 	# History
 	10894.1.1 = {
 		culture = yughur
 	}
+}
+9491 = {	# Chijin
+	# Misc
+	# religion = avatamsaka
+	holding = city_holding
 }
 9492 = {	# DUDENG
 	holding = church_holding
@@ -1190,9 +1146,20 @@
 	11150.1.1 = {
 		culture = tangut
 	}
-	special_building_slot = generic_university
-	10900.1.1 = { #Mogao Cave Temples
-		special_building = generic_university
+	
+	#special_building_slot = generic_university
+	#10900.1.1 = { #Mogao Cave Temples
+	#	special_building = generic_university
+	#}
+	
+	effect = {
+		if = {
+			limit = {
+				has_tgp_dlc_trigger = yes
+			}
+			add_special_building_slot = dunhuang_market_01
+			add_special_building = dunhuang_market_01
+		}
 	}
 }
 9477 = {	# MOGAO
@@ -1359,38 +1326,6 @@
 	holding = city_holding
 }
 10277 = {	# LONGPIMG
-	holding = church_holding
-}
-
-##d_hai_dong ###################################
-###c_binh_nguyen # BINH NGUYEN
-10852 = {	# BINH NGUYEN
-	culture = han
-	religion = dhyana
-	holding = tribal_holding
-}
-10853 = {	# VI LONG
-	holding = tribal_holding
-}
-10854 = {	# THUONG NGUYEN
-	holding = none
-}
-10851 = {	# QUANG NGUYEN
-	holding = none
-}
-10850 = {	# NUNG
-	holding = none
-}
-###c_hai_dong # HAI DONG
-10847 = {	# HAI DONG
-	culture = han
-	religion = dhyana
-	holding = castle_holding
-}
-10848 = {	# LAN SONG
-	holding = city_holding
-}
-10849 = {	# VAN ASIA
 	holding = church_holding
 }
 
@@ -1862,29 +1797,6 @@
 	holding = none
 }
 
-##d_huichuan ###################################
-###c_huichuan # HUICHUAN
-10868 = {	# HUICHUAN 1
-	culture = yi
-	religion = acharya
-	holding = castle_holding
-}
-10883 = {	# NUODAN
-	holding = city_holding
-}
-10871 = {	# XITUO
-	holding = church_holding
-}
-###c_jianchang_1 # JIANCHANG 1
-10877 = {	# YUEXI
-	culture = bai
-	religion = acharya
-	holding = castle_holding
-}
-10881 = {	# TAIDENG
-	holding = city_holding
-}
-
 ##d_huixun ###################################
 ###c_chaozhou # CHAOZHOU
 8894 = {	# HAIYANG
@@ -2070,44 +1982,6 @@
 }
 13144 = {	# XIANGXIANG
 	holding = none
-}
-
-##d_jianchuan ###################################
-###c_chengji # CHENGJI
-10874 = {	# CHENGJI 1
-	culture = bai
-	religion = acharya
-	holding = castle_holding
-}
-10888 = {	# LUOGONG
-	holding = city_holding
-}
-10887 = {	# SONGWAI
-	holding = church_holding
-}
-###c_jianchuan # JIANCHUAN
-10875 = {	# JIANCHUAN
-	culture = bai
-	religion = acharya
-	holding = castle_holding
-}
-10876 = {	# LANXI
-	holding = city_holding
-}
-10870 = {	# YUNLONG
-	holding = church_holding
-}
-###c_xiangcheng # XIANGCHENG
-10884 = {	# KUNMIMG
-	culture = bai
-	religion = acharya
-	holding = castle_holding
-}
-10885 = {	# LIDOU
-	holding = city_holding
-}
-10886 = {	# DALAN
-	holding = church_holding
 }
 
 ##d_jiangdong ###################################
@@ -2601,7 +2475,7 @@
 	}#Tangut culture begins to be absorbed
 }
 9504 = {	# HEIHE
-	holding = tribal_holding
+	holding = none
 }
 ###c_mazongshan # MAZONGSHAN
 9489 = {	#  Mazongshan
@@ -2609,7 +2483,7 @@
 	culture = yughur
 	religion = manichean
 	
-	holding = tribal_holding #nomad
+	holding = tribal_holding
 	
 	# History
 	11032.1.1 = {
@@ -2622,7 +2496,7 @@
 	}#Tangut culture begins to be absorbed
 }
 9508 = {	# SAIHANTAOLAI
-	holding = city_holding
+	holding = none
 }
 ###c_tongcheng # TONGCHENG
 9506 = {	# Yijinai
@@ -2644,7 +2518,10 @@
 	}#Tangut culture begins to be absorbed
 }
 9507 = {	# SOGO
-	holding = city_holding
+	holding = none
+	11032.1.1 = {
+		holding = city_holding
+	}
 }
 ###c_wentugaole # WENTUGAOLE
 9510 = {	# Wentugaole
@@ -2652,7 +2529,7 @@
 	culture = yughur
 	religion = manichean
 	
-	holding = tribal_holding #nomad
+	holding = tribal_holding
 	
 	# History
 	11032.1.1 = {
@@ -2665,7 +2542,7 @@
 	}#Tangut culture begins to be absorbed
 }
 9548 = {	# GURINAI
-	holding = city_holding
+	holding = none
 }
 
 ##d_kuizhong ###################################
@@ -2724,38 +2601,6 @@
 	holding = church_holding
 }
 
-##d_lam_tay ###################################
-###c_lam_tay # LAM TAY
-10855 = {	# LAM TAY
-	culture = han
-	religion = dhyana
-	holding = castle_holding
-}
-10859 = {	# TAM GIANG
-	holding = city_holding
-}
-10862 = {	# CHAU PHONG
-	holding = church_holding
-}
-11499 = {	# VI LONG WEST
-	holding = none
-}
-###c_quoc_oai # QUOC OAI
-10860 = {	# QUOC OAI
-	culture = han
-	religion = dhyana
-	holding = castle_holding
-}
-10858 = {	# HOANG GIANG
-	holding = city_holding
-}
-11445 = {	# SON LA
-	holding = church_holding
-}
-11500 = {	# SON LA WEST
-	holding = none
-}
-
 ##d_langshan ###################################
 ###c_hequ # HEQU
 12974 = {	# HEQU
@@ -2799,7 +2644,10 @@
 	}#Tanguts flee the capital region
 }
 9541 = {	# WULIJI
-	holding = city_holding
+	holding = none
+	11050.1.1 = {
+		holding = city_holding
+	}
 }
 ###c_langshan # LANGSHAN
 9537 = {	# Wuluhai
@@ -2819,10 +2667,16 @@
 	}
 }
 9539 = {	# DENGKOU
-	holding = city_holding
+	holding = none
+	11050.1.1 = {
+		holding = city_holding
+	}
 }
 12961 = {	# HELAN
-	holding = church_holding
+	holding = none
+	11050.1.1 = {
+		holding = church_holding
+	}
 }
 
 ##d_lilang ###################################
@@ -3140,21 +2994,16 @@
 	holding = tribal_holding
 }
 10435 = {	# LAINAN
-	holding = tribal_holding
+	holding = none
 }
 ###c_yanchuan # PUNING
-10230 = {	# PUNING
-	culture = yi
-	religion = dhyana
-	holding = tribal_holding
-}
 10191 = {	# YANCHUAN 1
 	culture = yi
 	religion = bimoism
 	holding = tribal_holding
 }
 13153 = {	# JIANGZHOU
-	holding = tribal_holding
+	holding = none
 }
 ###c_yanzhou_3 # YANZHOU 3
 13152 = {	# WUHOU
@@ -3163,7 +3012,7 @@
 	holding = tribal_holding
 }
 13150 = {	# JIANGKUN
-	holding = tribal_holding
+	holding = none
 }
 13151 = {	# QINGLAN
 	holding = none
@@ -3180,7 +3029,7 @@
 	holding = tribal_holding
 }
 10204 = {	# NAZHOU
-	holding = tribal_holding
+	holding = none
 }
 10205 = {	# XIYUAN
 	holding = none
@@ -3192,7 +3041,7 @@
 	holding = tribal_holding
 }
 13057 = {	# YUJING
-	holding = tribal_holding
+	holding = none
 }
 13058 = {	# FENGZHOU
 	holding = none
@@ -3207,67 +3056,25 @@
 	holding = tribal_holding
 }
 13055 = {	# HAOZHOU
-	holding = tribal_holding
+	holding = none
 }
 13056 = {	# GONGZHOU
 	holding = none
 }
-###c_zongzhou # ZONGZHOU
-10202 = {	# YANQUAN
-	culture = yi
-	religion = bimoism
-	holding = tribal_holding
+10230 = {	# PUNING
+	holding = none
 }
+###c_zongzhou # ZONGZHOU
 10411 = {	# MANGBU
 	culture = yi
 	religion = bimoism
 	holding = tribal_holding
 }
+10202 = {	# YANQUAN
+	holding = none
+}
 10386 = {	# BOLING
 	holding = none
-}
-
-##d_nghe_an ###################################
-###c_nam_dinh # NAM DINH
-10843 = {	# NAM DINH
-	culture = han
-	religion = theravada
-	holding = castle_holding
-}
-10841 = {	# THANH HOA
-	holding = city_holding
-}
-11492 = {	# LAM SON
-	holding = church_holding
-}
-10842 = {	# TRUONG YEN
-	holding = none
-}
-###c_nghe_an # NGHE AN
-10839 = {	# NGHE AN
-	culture = han
-	religion = theravada
-	holding = castle_holding
-}
-10840 = {	# DIEN CHAU
-	holding = city_holding
-}
-12509 = {	# NGHE AN 2
-	holding = church_holding
-}
-12545 = {	# TRA LAN
-	holding = none
-}
-###c_sam_nuea # SAM NUEA
-11446 = {	# SAM NUEA
-	culture = viet
-	religion = dhyana
-	holding = castle_holding
-	special_building_slot = plain_of_jars_01
-	special_building = plain_of_jars_01
-}
-11491 = {	# SAM NUEA NORTH
-	holding = city_holding
 }
 
 ##d_pinghai ###################################
@@ -3332,7 +3139,7 @@
 	holding = tribal_holding
 }
 10013 = {	# DAISHUI
-	holding = tribal_holding
+	holding = none
 }
 ###c_nanzhou # NANZHOU
 10414 = {	# NANCHUAN
@@ -3341,7 +3148,7 @@
 	holding = tribal_holding
 }
 10416 = {	# SANXI
-	holding = tribal_holding
+	holding = none
 }
 ###c_qianzhou_1 # QIANZHOU 1
 9828 = {	# PENGSHUI
@@ -3380,7 +3187,7 @@
 	holding = tribal_holding
 }
 9831 = {	# QIONG
-	holding = tribal_holding
+	holding = none
 }
 9832 = {	# FUCHUAN
 	holding = none
@@ -3395,7 +3202,7 @@
 	holding = tribal_holding
 }
 10004 = {	# YANGCHUAN
-	holding = tribal_holding
+	holding = none
 }
 10005 = {	# YIQUAN
 	holding = none
@@ -3407,7 +3214,7 @@
 	holding = tribal_holding
 }
 10009 = {	# LEYUAN
-	holding = tribal_holding
+	holding = none
 }
 10011 = {	# YELANG
 	holding = none
@@ -3429,7 +3236,7 @@
 	}
 }
 9512 = {	# SEMNYI
-	holding = city_holding
+	holding = none
 }
 ###c_yalong # YALONG
 9490 = {	# Yalong
@@ -3449,7 +3256,7 @@
 	}
 }
 9497 = {	# YENIUGOU
-	holding = city_holding
+	holding = none
 }
 
 ##d_qincheng ###################################
@@ -3776,15 +3583,13 @@
 
 ##d_shimen ###################################
 ###c_quzhou_1 # QUZHOU 1
-10415 = {	# ZHUTI
-	culture = yi
-	religion = bimoism
-	holding = tribal_holding
-}
 10882 = {	# LANGCHUAN
 	culture = yi
 	religion = bimoism
 	holding = tribal_holding
+}
+10415 = {	# ZHUTI
+	holding = none
 }
 ###c_jingzhou_2 # XIEZHOU
 10201 = {	# DONGAN 1
@@ -3792,8 +3597,11 @@
 	religion = bimoism
 	holding = tribal_holding
 }
+10880 = { #b_jianchang_adu
+	holding = none
+}
 13060 = {	# SHIMEN 1
-	holding = tribal_holding
+	holding = none
 }
 ###c_yinzhou_1 # YINZHOU 1
 10197 = {	# YINZHOU
@@ -3802,7 +3610,7 @@
 	holding = tribal_holding
 }
 10200 = {	# KAIBIAN
-	holding = tribal_holding
+	holding = none
 }
 13059 = {	# MUYUAN
 	holding = none
@@ -3911,32 +3719,6 @@
 	holding = none
 }
 
-##d_thang_long ###################################
-###c_long_hung # LONG HUNG
-10844 = {	# LONG HUNG
-	culture = han
-	religion = dhyana
-	holding = castle_holding
-}
-10845 = {	# KIEN XUONG
-	holding = city_holding
-}
-10846 = {	# TAN HUNG
-	holding = church_holding
-}
-###c_thang_long # THANG LONG
-10861 = {	# THANG LONG
-	culture = han
-	religion = dhyana
-	holding = castle_holding
-}
-10857 = {	# HA BAC
-	holding = city_holding
-}
-10856 = {	# PHU LUONG
-	holding = church_holding
-}
-
 ##d_tiande ###################################
 ###c_lxj_fengzhou # LXJ FENGZHOU
 9538 = {	# JIUYUAN
@@ -3959,85 +3741,6 @@
 	holding = city_holding
 }
 
-##d_tonghai ###################################
-###c_muze # MUZE
-11478 = {	# MUZE
-	culture = bai
-	religion = acharya
-	holding = castle_holding
-}
-12508 = {	# AYUE
-	holding = city_holding
-}
-10889 = {	# MENGPENG
-	holding = church_holding
-}
-###c_tonghai # TONGHAI
-10891 = {	# TONGHAI
-	culture = bai
-	religion = acharya
-	holding = castle_holding
-}
-11489 = {	# XIE
-	holding = city_holding
-}
-10890 = {	# SHIPING
-	holding = church_holding
-}
-11477 = {	# JIANSHUI
-	holding = none
-}
-###c_zuining # ZUINING
-10450 = {	# HAMI 2
-	religion = acharya
-	culture = yi
-
-	holding = castle_holding
-}
-10907 = {	# HUIME
-	holding = city_holding
-}
-
-##d_tuodong ###################################
-###c_dongchuan # DONGCHUAN
-10872 = {	# BIPAN
-	culture = bai
-	religion = acharya
-	holding = castle_holding
-}
-10437 = {	# LULU
-	holding = city_holding
-
-}
-11487 = {	# YILONG
-	holding = church_holding
-}
-###c_shanchan # SHANCHAN
-10873 = {	# TUODONG
-	culture = bai
-	religion = acharya
-	holding = castle_holding
-}
-11474 = {	# ANNING
-	holding = city_holding
-}
-10445 = {	# QUE
-	holding = church_holding
-
-}
-###c_shicheng # SHICHENG
-11475 = {	# SHICHENG 1
-	culture = bai
-	religion = acharya
-	holding = castle_holding
-}
-10444 = {	# YUSHI
-	holding = city_holding
-}
-10448 = {	# SHIZONG
-	holding = church_holding
-
-}
 
 ##d_weibo ###################################
 ###c_beizhou # BEIZHOU
@@ -4142,7 +3845,7 @@
 13148 = {	# XUANGU
 	holding = none
 }
-10409 = {	# CHIPENG
+10001 = {	# ZIJIANG
 	holding = none
 }
 ###c_yezhou # JIANGZHOU 1
@@ -4151,10 +3854,10 @@
 	religion = dab_qhuas
 	holding = tribal_holding
 }
-10001 = {	# ZIJIANG
-	holding = tribal_holding
-}
 10407 = {	# WEIYANG
+	holding = none
+}
+10409 = {	# CHIPENG
 	holding = none
 }
 ###c_luyang # JINZHOU 2
@@ -4164,10 +3867,10 @@
 	holding = tribal_holding
 }
 9835 = {	# CHANGFENG
-	holding = tribal_holding
+	holding = none
 }
 9834 = {	# ZHAOYU
-	holding = tribal_holding
+	holding = none
 }
 ###c_shangxi # SHANGXI
 13145 = {	# SHANXI
@@ -4176,7 +3879,7 @@
 	holding = tribal_holding
 }
 13146 = {	# WUKOU
-	holding = tribal_holding
+	holding = none
 }
 13147 = {	# BAOSHUN
 	holding = none
@@ -4188,7 +3891,7 @@
 	holding = tribal_holding
 }
 9841 = {	# DANTING
-	holding = tribal_holding
+	holding = none
 }
 13149 = {	# HUIXI
 	holding = none
@@ -4200,7 +3903,7 @@
 	holding = tribal_holding
 }
 9999 = {	# TANYANG
-	holding = tribal_holding
+	holding = none
 }
 9998 = {	# LANGXI
 	holding = none
@@ -4706,7 +4409,7 @@
 	culture = tuyuhun
 	religion = tengri_pagan
 	
-	holding = tribal_holding #nomad
+	holding = tribal_holding
 	
 	# History
 	11032.1.1 = {
@@ -4719,23 +4422,23 @@
 	}#Tangut culture begins to be absorbed
 }
 9520 = {	# YABULAI
-	holding = city_holding
+	holding = none
 }
 9549 = {	# TAMUSUBULAGE
-	holding = church_holding
+	holding = none
 }
 ###c_tengger # TENGGER
 9533 = {	# CHAOGETUHURE
 	culture = han
 	religion = yogacara
-	holding = castle_holding
+	holding = tribal_holding
 	11038.1.1 = {
 		culture = tangut
 		religion = avatamsaka
 	}
 }
 9535 = {
-	holding = city_holding
+	holding = none
 }
 ###c_zhenfan # ZHENFAN
 9518 = {	# Zhenfan/Sogo Khoto (Minqin)
@@ -4743,12 +4446,13 @@
 	culture = bodpa
 	religion = yogacara
 	
-	holding = tribal_holding #farmlands
+	holding = tribal_holding
 	
 	# History
 	11032.1.1 = {
 		culture = tangut
 		religion = avatamsaka
+		holding = castle_holding
 	}
 	11250.1.1 = {
 		culture = mongol
@@ -4756,7 +4460,10 @@
 	}#Tangut culture begins to be absorbed
 }
 9519 = {	# JIAHE
-	holding = city_holding
+	holding = none
+	11032.1.1 = {
+		holding = city_holding
+	}
 }
 
 ##d_xiyuan ###################################
@@ -4767,7 +4474,7 @@
 	holding = tribal_holding
 }
 10189 = {	# LENGZHOU
-	holding = tribal_holding
+	holding = none
 }
 13092 = {	# SHUANGCHENG
 	holding = none
@@ -4779,7 +4486,7 @@
 	holding = tribal_holding
 }
 10449 = {	# TEMO
-	holding = tribal_holding
+	holding = none
 }
 ###c_wulong # WULONG
 9837 = {	# WULONG 1
@@ -4788,7 +4495,10 @@
 	holding = tribal_holding
 }
 9838 = {	# DONGJIAN
-	holding = tribal_holding
+	holding = none
+}
+11468 = {
+	holding = none
 }
 
 ##d_xuanshe ###################################
@@ -5045,29 +4755,6 @@
 	holding = city_holding
 }
 
-##d_yanyun_yuyi ###################################
-###c_lxj_huanzhou # LXJ HUANZHOU
-12411 = {	# CIRLXJ HUANZHOU
-	culture = khitan
-	religion = avatamsaka
-	holding = castle_holding
-}
-12409 = {	# CIRLXJ DONGTING
-	holding = city_holding
-}
-12410 = {	# CIRLXJ NANPO
-	holding = church_holding
-}
-###c_lxj_yuyidong # LXJ YUYIDONG
-12428 = {	# CIRLZJ CAODANGZHEN
-	culture = khitan
-	religion = avatamsaka
-	holding = castle_holding
-}
-12430 = {	# CIRLZJ YUDAOKOU
-	holding = city_holding
-}
-
 ##d_yideng ###################################
 ###c_dingzhou # DINGZHOU
 10085 = {	# ANXI
@@ -5136,48 +4823,8 @@
 	holding = church_holding
 }
 
-##d_yinsheng ###################################
-###c_buri # BURI
-10904 = {	# BURI 2
-	culture = bai
-	religion = acharya
-	holding = tribal_holding
 
-	11066.1.1 = {
-		holding = castle_holding
-	}
-}
-10902 = {	# BUTENG
-	holding = tribal_holding
 
-	11066.1.1 = {
-		holding = city_holding
-	}
-}
-10906 = {	# FENGYI
-	holding = none
-}
-###c_weiyuan # WEIYUAN
-10864 = {	# WEIYUAN 1
-	culture = bai
-	religion = acharya
-	holding = castle_holding
-}
-10903 = {	# LUOTUO
-	holding = city_holding
-}
-###c_yinsheng # YINSHENG
-11476 = {	# MENGGU
-	culture = bai
-	religion = acharya
-	holding = castle_holding
-}
-11488 = {	# KAINAN
-	holding = city_holding
-}
-10905 = {	# HEPU
-	holding = church_holding
-}
 
 ##d_yongguan ###################################
 ###c_binzhou_1 # BINZHOU 1
@@ -5391,29 +5038,6 @@
 9698 = {	# JIZHOU 1
 	holding = city_holding
 }
-###c_lnj_liaoxi # LNJ LIAOXI
-12422 = {	# CIRLZJ QINHUANGDAO
-	culture = khitan
-	religion = avatamsaka
-	holding = castle_holding
-}
-12420 = {	# CIRLZJ QINGLONGHE
-	holding = city_holding
-}
-12421 = {	# CIRLZJ LONGTAN
-	holding = church_holding
-}
-###c_lnj_liaoxibei # LNJ LIAOXIBEI
-12423 = {	# CIRLZJ FUSU
-	culture = han
-	religion = avatamsaka
-	holding = castle_holding
-}
-12424 = {	# CIRLZJ YUHEJING
-	culture = khitan
-	religion = avatamsaka
-	holding = castle_holding
-}
 ###c_tanzhou_2 # LNJ TANZHOU
 12176 = {	# YANLE
 	culture = han
@@ -5428,11 +5052,6 @@
 	holding = city_holding
 }
 ###c_lnj_youzhou # LNJ YOUZHOU
-12172 = {	# CIRLNJ CHANGPING
-	culture = khitan
-	religion = avatamsaka
-	holding = castle_holding
-}
 12174 = {	# CIRLNJ XINGTANG
 	culture = khitan
 	religion = vinaya
@@ -5448,52 +5067,7 @@
 9699 = {	# GUISHUNZHOU
 	holding = church_holding
 }
-###c_lzj_chaolijiang # LZJ CHAOLIJIANG
-12415 = {	# CIRLZJ CHAOLIJIANG
-	culture = khitan
-	religion = avatamsaka
-	holding = castle_holding
-}
-12416 = {	# CIRLZJ XUEFANG
-	holding = city_holding
-}
-###c_lzj_chengde # LZJ CHENGDE
-12426 = {	# CIRLZJ CHENGDE
-	culture = khitan
-	religion = avatamsaka
-	holding = castle_holding
-}
-12427 = {	# CIRLZJ JIANTING
-	holding = city_holding
-}
-12425 = {	# CIRLZJ LUEXIATING
-	culture = han
-	religion = avatamsaka
-	holding = castle_holding
-}
-12419 = {	# CIRLZJ LUANHE
-	holding = none
-}
-###c_lzj_chengdexi # LZJ CHENGDEXI
-12429 = {	# CIRLZJ BEIAN
-	culture = khitan
-	religion = avatamsaka
-	holding = castle_holding
-}
-12417 = {	# CIRLZJ LIUHETING
-	culture = han
-	religion = avatamsaka
-	holding = castle_holding
-}
-12418 = {	# CIRLZJ XINGHUA
-	holding = church_holding
-}
 ###c_pingzhou # PINGZHOU
-9694 = {	# PINGZHOU
-	culture = khitan
-	religion = avatamsaka
-	holding = castle_holding
-}
 13017 = {	# PINGZHOU 1
 	culture = han
 	religion = vinaya
@@ -5531,8 +5105,14 @@
 9700 = {	# YOUZHOU 1
 	holding = city_holding
 }
+12172 = {	# CIRLNJ CHANGPING
+	holding = church_holding
+}
 9701 = {	# YOUZHOU 2
 	holding = church_holding
+}
+12419 = {	# ZUNHUA
+	holding = none
 }
 ###c_zhuozhou # ZHUOZHOU
 9703 = {	# ZHUOZHOU
@@ -5625,7 +5205,7 @@
 	holding = tribal_holding
 }
 10240 = {	# LEXING
-	holding = tribal_holding
+	holding = none
 }
 10241 = {	# GUSHU
 	holding = none
@@ -5637,7 +5217,7 @@
 	holding = tribal_holding
 }
 10427 = {	# TONGGU 1
-	holding = tribal_holding
+	holding = none
 }
 ###c_juzhou # JUZHOU
 10290 = {	# PINGAN
@@ -5646,7 +5226,7 @@
 	holding = tribal_holding
 }
 10289 = {	# BINHUA 1
-	holding = tribal_holding
+	holding = none
 }
 10288 = {	# SHINIU
 	holding = none
@@ -5661,7 +5241,7 @@
 	holding = tribal_holding
 }
 10286 = {	# MAOLONG
-	holding = tribal_holding
+	holding = none
 }
 10194 = {	# YINGJIANG
 	holding = none
@@ -5676,7 +5256,7 @@
 	holding = tribal_holding
 }
 10195 = {	# TUOLONG
-	holding = tribal_holding
+	holding = none
 }
 13102 = {	# POLAN
 	holding = none

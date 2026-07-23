@@ -1,4 +1,4 @@
-k_romagna = {
+﻿k_romagna = {
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 14 }
@@ -367,7 +367,7 @@ d_romagna = {
 		holder = 70700 # Rinaldo 
 	}
 	11335.12.31 = {
-		holder = 70709 # NiccolÃ² I
+		holder = 70709 # Niccolò I
 	}
 }
 
@@ -545,7 +545,7 @@ c_bologna = {
 		holder = 213011
 	}
 	11190.1.1 = {
-		holder = cisalpine0781 # Orlando Rossi II of Parma, PodestÃ 
+		holder = cisalpine0781 # Orlando Rossi II of Parma, Podest� 
 	}
 	11212.1.1 = {
 		holder = 73516
@@ -626,24 +626,24 @@ c_ferrara = {
 	}
 	11115.7.24 = {
 		government = republic_government
-		holder = cisalpine0137 # Guglielmo I Adelardi, PodestÃ 
+		holder = cisalpine0137 # Guglielmo I Adelardi, Podest� 
 		liege = k_papal_state
 	}
 	11116.1.1 = {
-		holder = cisalpine0138 # Bulgaro, PodestÃ 
+		holder = cisalpine0138 # Bulgaro, Podest� 
 	}
 	11139.1.1 = {
-		holder = cisalpine0139 # Guglielmo II, PodestÃ 
+		holder = cisalpine0139 # Guglielmo II, Podest� 
 	}
 	11144.1.1 = {
-		holder = cisalpine0140 # Guglielmo III, PodestÃ 
+		holder = cisalpine0140 # Guglielmo III, Podest� 
 	}
 	11178.1.1 = {
-		holder = cisalpine0153 # Salinguerra I Torelli, PodestÃ 
+		holder = cisalpine0153 # Salinguerra I Torelli, Podest� 
 		liege = 0
 	}
 	11194.1.1 = {
-		holder = 73505 # Salinguerra II, PodestÃ 
+		holder = 73505 # Salinguerra II, Podest� 
 	}
 	11196.1.1 = {
 		liege = 0
@@ -706,7 +706,7 @@ c_ferrara = {
 		holder = 70700 # Rinaldo of Romagna
 	}
 	11335.12.31 = {
-		holder = 70709 # NiccolÃ² I of Romagna
+		holder = 70709 # Niccolò I of Romagna
 	}
 }
 

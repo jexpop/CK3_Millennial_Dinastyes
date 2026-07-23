@@ -1,4 +1,4 @@
-k_lhomon = {
+﻿k_lhomon = {
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }
@@ -1449,7 +1449,7 @@ c_mainling = {
 
 
 c_pemako = {
-	#Pemakö Vassals - fictional placeholders
+	#Pemak� Vassals - fictional placeholders
 	10740.1.1={
 		liege="d_boyul"
 		holder=304414

@@ -1,4 +1,4 @@
-k_tsang = {
+﻿k_tsang = {
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 14 }
@@ -8,7 +8,7 @@ d_xigaze = {
 	10619.1.1={
 		liege = "e_tibet"
 	}
-	#Chonggyé Dynasty - fictional placeholders
+	#Chonggy� Dynasty - fictional placeholders
 	10740.1.1={
 		holder = 305231
 	}
@@ -117,7 +117,7 @@ c_xigaze = {
 	10619.1.1={
 		liege = "d_xigaze"
 	}
-	#Chonggyé Dynasty - fictional placeholders
+	#Chonggy� Dynasty - fictional placeholders
 	10740.1.1={
 		holder = 305231
 	}
@@ -810,7 +810,7 @@ c_gyirong = {
 	11000.1.1 = {
 		holder = 301011
 	}
-	#Mangyül Gungthang - Pugyel Dynasty
+	#Mangy�l Gungthang - Pugyel Dynasty
 	11020.1.1={
 		holder = 304882
 	}
@@ -904,7 +904,7 @@ c_kyakyaru = {
 	11000.1.1 = {
 		holder = 301011
 	}
-	#Mangyül Gungthang - Pugyel Dynasty
+	#Mangy�l Gungthang - Pugyel Dynasty
 	11020.1.1={
 		holder = 304882
 	}
@@ -1263,7 +1263,7 @@ c_xaitongmoin = {
 	10619.1.1={
 		liege = "d_ngamring"
 	}
-	#Jétanak dynasty - fictional placeholders
+	#J�tanak dynasty - fictional placeholders
 	10740.1.1={
 		holder = 305291
 	}

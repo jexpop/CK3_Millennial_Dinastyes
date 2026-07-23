@@ -1,4 +1,4 @@
-###MAPS REFERENCES
+﻿###MAPS REFERENCES
 #AAA : https://www.wdl.org/fr/item/11753/view/1/1/
 #BBB : https://www.wdl.org/fr/item/15037/view/1/1/
 #CCC : https://upload.wikimedia.org/wikipedia/commons/3/38/Zakaukazie-Turkestan1903.jpg
@@ -19,7 +19,7 @@
 
 ###c_jangyztau
 7357 = {	#Jangyztau
-	#As "Djangyz Taou" on map BBB, north of Atbasar, latitude 49°
+	#As "Djangyz Taou" on map BBB, north of Atbasar, latitude 49�
 	culture = kimek
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -82,12 +82,12 @@
 	}
 }
 5895 = {	#Tobol_BIS
-	#Named after Tobol river on map BBB, the river flows through "Koustanaï"
+	#Named after Tobol river on map BBB, the river flows through "Koustana�"
 	holding = none
 }
 
 ###c_kostanay
-5893 = {	#Kostanay	AKA Koustanaï
+5893 = {	#Kostanay	AKA Koustana�
 	culture = bashkir
 	religion = tengri_pagan
 	holding = nomad_holding
@@ -114,7 +114,7 @@
 	holding = none
 }
 7253 = {	#Kamichly Kul
-	#Lake "Kamychly Koul" on map BBB, south-west of "Koustanaï"
+	#Lake "Kamychly Koul" on map BBB, south-west of "Koustana�"
 	holding = none
 }
 

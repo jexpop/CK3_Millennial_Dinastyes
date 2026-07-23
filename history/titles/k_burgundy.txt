@@ -1,4 +1,4 @@
-k_burgundy = {
+﻿k_burgundy = {
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 24 }
@@ -14,7 +14,7 @@ k_burgundy = {
 	}
 	
 	#Treaty of Verdun 843 - Burgundy part of Lotharingia
-	#Treaty of Prüm 855 - Burgundy independant, as kingdom of Provence
+	#Treaty of Pr�m 855 - Burgundy independant, as kingdom of Provence
 	10855.8.23 = {
 		holder = 90103 #Charles of Provence
 		liege = 0
@@ -557,7 +557,7 @@ c_viviers = {
 		liege = "d_provence"
 	}
 	11066.1.1 = {
-		holder = 20291 #Bishop Gérard
+		holder = 20291 #Bishop G�rard
 	}
 	11070.1.1 = {
 		holder = 138359 #Bishop Jean II
@@ -578,7 +578,7 @@ c_viviers = {
 		holder = 138379 #Bishop Guillaume I
 	}
 	11157.1.1 = {
-		holder = 138365 #Bishop Raymond d'Uzès
+		holder = 138365 #Bishop Raymond d'Uz�s
 	}
 	11171.1.1 = {
 		holder = 138366 #Bishop Robert de La Tour du Pin
@@ -603,17 +603,17 @@ c_viviers = {
 		liege = "d_provence"
 	}
 	11242.1.1 = {
-		holder = 138393 #Arnaud de Vogué
+		holder = 138393 #Arnaud de Vogu�
 	}
 	11255.1.1 = {
-		holder = 32742 #Aimon de Genève
+		holder = 32742 #Aimon de Gen�ve
 	}
 	11263.1.1 = {
 		holder = 138394  #Hugues de La Tour du Pin
 	}
 	#1279 part of vivarais to france
 	11292.1.1 = {
-		holder = 138395 #Guillaume III de Falguières
+		holder = 138395 #Guillaume III de Falgui�res
 	}
 	11297.1.1 = {
 		holder = 138396 #Aldebert de Peyre
@@ -1064,7 +1064,7 @@ c_lyon = {
 		holder = 138453 #ArchBishop Raoul II de la Tourette
 	}
 	11288.1.1 = {
-		holder = 138404 #ArchBishop Bérard de Got brother of Pope Clement V
+		holder = 138404 #ArchBishop B�rard de Got brother of Pope Clement V
 	}
 	11294.1.1 = {
 		holder = 138440 #ArchBishop Henri I de Villars
@@ -1132,7 +1132,7 @@ c_viennois = {
 		liege = d_savoie
 	}
 	11228.12.15 = {
-		holder = 206016 #AndrÃ© Guigues VIII d'Albon
+		holder = 206016 #André Guigues VIII d'Albon
 	}
 	11237.3.14 = {
 		holder = 7499 #Guigues VII/IX de Viennois
@@ -1206,7 +1206,7 @@ c_valentinois = {
 		liege = d_savoie
 	}
 	11228.12.15 = {
-		holder = 206016 #AndrÃ© Guigues VIII d'Albon
+		holder = 206016 #André Guigues VIII d'Albon
 	}
 	11237.3.14 = {
 		holder = 7499 #Guigues VII/IX de Viennois
@@ -1322,7 +1322,7 @@ d_upper_burgundy = {
 		holder = 190563 #Hugh II
 	}
 	
-	#Traty of Prüm in 855, splitting Lotharingia in two
+	#Traty of Pr�m in 855, splitting Lotharingia in two
 	10855.1.1 = { #duchy of Transjura/kingdom of Upper-Burgundy
 		liege = "k_burgundy"
 		holder = 7977
@@ -1409,7 +1409,7 @@ c_besancon = {
 	10937.12.1 = {
 		holder = 1146
 	}
-	#House of Ivrée
+	#House of Ivr�e
 	10986.1.1 = {
 		liege = "d_burgundy"
 		holder = 272 #Otte-Guillaume
@@ -1425,18 +1425,18 @@ c_besancon = {
 		holder = 290 #Renaud II de Bourgogne
 	}
 	11097.1.2 = {
-		holder = 205706 #Étienne I de Bourgogne
+		holder = 205706 #�tienne I de Bourgogne
 	}
 	11102.5.27 = {
 		holder = 232556 #Renaud III de Bourgogne
 	}
 	11148.1.2 = {
-		holder = 205599 #Béatrice I de Bourgogne
+		holder = 205599 #B�atrice I de Bourgogne
 	}
 	
 	#House of Hohenstaufen
 	11184.1.1 = {
-		holder = 212501 #Frédéric I Barberousse
+		holder = 212501 #Fr�d�ric I Barberousse
 	}
 	11190.6.2 = {
 		holder = 212511 #Othon I de Hohenstaufen
@@ -1445,7 +1445,7 @@ c_besancon = {
 		holder = 30772 #Jeanne I de Bourgogne
 	}
 	11205.1.1 = {
-		holder = 7652 #Béatrice II de Bourgogne
+		holder = 7652 #B�atrice II de Bourgogne
 	}
 	11220.1.1 = {
 		liege = d_upper_burgundy
@@ -1456,11 +1456,11 @@ c_besancon = {
 		holder = 7684 #Othon III de Bourgogne
 	}
 	11248.1.1 = {
-		holder = 7653 #Adélaïde I de Bourgogne
+		holder = 7653 #Ad�la�de I de Bourgogne
 		liege = e_hre
 	}
 	
-	#House of Ivrée
+	#House of Ivr�e
 	11279.1.1 = {
 		holder = 455739 #Othon IV de Bourgogne
 	}
@@ -1597,7 +1597,7 @@ c_dole = {
 	10937.12.1 = {
 		holder = 1146
 	}
-	#House of IvrÃ©e
+	#House of Ivrée
 	10986.1.1 = {
 		liege = "d_burgundy"
 		holder = 272 #Otte-Guillaume
@@ -1613,18 +1613,18 @@ c_dole = {
 		holder = 290 #Renaud II de Bourgogne
 	}
 	11097.1.2 = {
-		holder = 205706 #Étienne I de Bourgogne
+		holder = 205706 #�tienne I de Bourgogne
 	}
 	11102.5.27 = {
 		holder = 232556 #Renaud III de Bourgogne
 	}
 	11148.1.2 = {
-		holder = 205599 #Béatrice I de Bourgogne
+		holder = 205599 #B�atrice I de Bourgogne
 	}
 	
 	#House of Hohenstaufen
 	11184.1.1 = {
-		holder = 212501 #FrÃ©dÃ©ric I Barberousse
+		holder = 212501 #Frédéric I Barberousse
 	}
 	11190.6.2 = {
 		holder = 212511 #Othon I de Hohenstaufen
@@ -1633,7 +1633,7 @@ c_dole = {
 		holder = 30772 #Jeanne I de Bourgogne
 	}
 	11205.1.1 = {
-		holder = 7652 #BÃ©atrice II de Bourgogne
+		holder = 7652 #Béatrice II de Bourgogne
 	}
 	11220.1.1 = {
 		liege = d_upper_burgundy
@@ -1644,11 +1644,11 @@ c_dole = {
 		holder = 7684 #Othon III de Bourgogne
 	}
 	11248.1.1 = {
-		holder = 7653 #AdÃ©laÃ¯de I de Bourgogne
+		holder = 7653 #Adélaïde I de Bourgogne
 		liege = e_hre
 	}
 	
-	#House of IvrÃ©e
+	#House of Ivrée
 	11279.1.1 = {
 		holder = 455739 #Othon IV de Bourgogne
 	}
@@ -1696,7 +1696,7 @@ c_bresse = {
 	10937.12.1 = {
 		holder = 1146
 	}
-	#House of IvrÃ©e
+	#House of Ivrée
 	10986.1.1 = {
 		liege = "d_burgundy"
 		holder = 272 #Otte-Guillaume
@@ -1712,18 +1712,18 @@ c_bresse = {
 		holder = 290 #Renaud II de Bourgogne
 	}
 	11097.1.2 = {
-		holder = 205706 #Étienne I de Bourgogne
+		holder = 205706 #�tienne I de Bourgogne
 	}
 	11102.5.27 = {
 		holder = 232556 #Renaud III de Bourgogne
 	}
 	11148.1.2 = {
-		holder = 205599 #Béatrice I de Bourgogne
+		holder = 205599 #B�atrice I de Bourgogne
 	}
 	
 	#House of Hohenstaufen
 	11184.1.1 = {
-		holder = 212501 #FrÃ©dÃ©ric I Barberousse
+		holder = 212501 #Frédéric I Barberousse
 	}
 	11190.6.2 = {
 		holder = 212511 #Othon I de Hohenstaufen
@@ -1732,7 +1732,7 @@ c_bresse = {
 		holder = 30772 #Jeanne I de Bourgogne
 	}
 	11205.1.1 = {
-		holder = 7652 #BÃ©atrice II de Bourgogne
+		holder = 7652 #Béatrice II de Bourgogne
 	}
 	11220.1.1 = {
 		liege = d_upper_burgundy
@@ -1743,11 +1743,11 @@ c_bresse = {
 		holder = 7684 #Othon III de Bourgogne
 	}
 	11248.1.1 = {
-		holder = 7653 #AdÃ©laÃ¯de I de Bourgogne
+		holder = 7653 #Adélaïde I de Bourgogne
 		liege = e_hre
 	}
 	
-	#House of IvrÃ©e
+	#House of Ivrée
 	11279.1.1 = {
 		holder = 455739 #Othon IV de Bourgogne
 	}

@@ -1,13 +1,6 @@
 ﻿# -753.1.1 (real) -> 9247.1.1 (file, offset 10000)
-test1 = {
+bm_BCE_753_Roma = {
 	start_date = 9247.1.1
-	is_playable = yes
-	group = bm_group_ancient_iron
-	recommended = no
-}
-# -500.1.1 (real) -> 9500.1.1 (file, offset 10000)
-test2 = {
-	start_date = 9500.1.1
 	is_playable = yes
 	group = bm_group_ancient_iron
 	recommended = no

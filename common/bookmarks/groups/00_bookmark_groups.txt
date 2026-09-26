@@ -1,43 +1,44 @@
-﻿bm_group_ancient_iron = {
-	default_start_date = 9248.1.1 # 753 – 501 a. C.
+﻿# -753.1.1 (real) -> 9247.1.1 (file, offset 10000)
+bm_group_ancient_iron = {
+	default_start_date = 9247.1.1
 }
-
+# -500.1.1 (real) -> 9500.1.1 (file, offset 10000)
 bm_group_classic_iron = {
-	default_start_date = 9501.1.1 # 500 – 201 a. C.
+	default_start_date = 9500.1.1
 }
-
+# -200.1.1 (real) -> 9800.1.1 (file, offset 10000)
 bm_group_classic_ancient = {
-	default_start_date = 9801.1.1 # 200 a. C. – 499 d. C.
+	default_start_date = 9800.1.1
 }
-
+# 500.1.1 (real) -> 10500.1.1 (file, offset 10000)
 bm_group_last_ancient = {
-	default_start_date = 10500.1.1 # 500 – 649
+	default_start_date = 10500.1.1
 }
-
+# 650.1.1 (real) -> 10650.1.1 (file, offset 10000)
 bm_group_early_middle_ages = {
-	default_start_date = 10650.1.1 # 650 – 999
+	default_start_date = 10650.1.1
 }
-
+# 1000.1.1 (real) -> 11000.1.1 (file, offset 10000)
 bm_group_high_middle_ages = {
-	default_start_date = 11000.1.1 # 1000 – 1299
+	default_start_date = 11000.1.1
 }
-
-bm_group_late_middle_ages  = {
-	default_start_date = 11300.1.1 # 1300 – 1499
+# 1300.1.1 (real) -> 11300.1.1 (file, offset 10000)
+bm_group_late_middle_ages = {
+	default_start_date = 11300.1.1
 }
-
+# 1500.1.1 (real) -> 11500.1.1 (file, offset 10000)
 bm_group_renaissance = {
-	default_start_date = 11500.1.1 # 1500 – 1599
+	default_start_date = 11500.1.1
 }
-
+# 1600.1.1 (real) -> 11600.1.1 (file, offset 10000)
 bm_group_absolutism = {
-	default_start_date = 11600.1.1 # 1600 – 1699
+	default_start_date = 11600.1.1
 }
-
+# 1700.1.1 (real) -> 11700.1.1 (file, offset 10000)
 bm_group_illustration = {
-	default_start_date = 11700.1.1 # 1700 – 1799
+	default_start_date = 11700.1.1
 }
-
+# 1800.1.1 (real) -> 11800.1.1 (file, offset 10000)
 bm_group_industrialisation = {
-	default_start_date = 11800.1.1 # 1800-1871
+	default_start_date = 11800.1.1
 }

@@ -1,0 +1,11 @@
+﻿1609 = {	#Bamburgh
+	culture = anglo_saxon
+	religion = catholic
+	holding = castle_holding
+	10122.1.1 = {
+		special_building = hadrians_wall_01
+	}
+	11100.11.11 = {
+		culture = english
+	}
+}

@@ -1,0 +1,15 @@
+﻿1583 = {	#Lincoln
+	culture = anglo_saxon
+	religion = catholic
+	holding = castle_holding
+	11066.1.1 = {
+		buildings = {
+			cereal_fields_01
+			barracks_01
+			#hunting_grounds_01
+		}
+	}
+	11100.11.11 = {
+		culture = english
+	}
+}

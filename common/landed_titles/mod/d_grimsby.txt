@@ -1,0 +1,19 @@
+﻿d_grimsby = { #d_york
+	c_grimsby = { #c_lincolnshire
+		capital = 1587
+		cultural_names = {
+		name_list_anglo_saxon = cn_lindsey
+		}
+		color = { 80 102 226 }
+		b_bolingsbroke = {
+			province = 1586
+			
+			color = { 80 102 226 }
+		}
+		b_grimsby = {
+			province = 1587
+			
+			color = { 80 102 226 }
+		}
+	}
+}

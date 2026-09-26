@@ -1,0 +1,15 @@
+﻿1595 = {	# York
+	culture = anglo_saxon
+	religion = catholic
+	holding = castle_holding
+	11066.1.1 = {
+		buildings = {
+			cereal_fields_01
+			hunting_grounds_02
+			#military_camps_01
+		}
+	}
+	11100.11.11 = {
+		culture = english
+	}
+}

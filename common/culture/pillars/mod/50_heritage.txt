@@ -1,0 +1,9 @@
+﻿heritage_celt = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_celt
+		}
+	}
+	audio_parameter = european
+}

@@ -1,0 +1,15 @@
+﻿d_thetford = { #d_norfolk
+	c_thetford = { #c_norfolk
+		capital = 1523
+		cultural_names = {
+		name_list_norse = cn_jarnamoda
+		name_list_norwegian = cn_jarnamoda
+		}
+		color = { 0 128 0 }
+		b_thetford = {
+			province = 1523
+			
+			color = { 0 128 0 }
+		}
+	}
+}

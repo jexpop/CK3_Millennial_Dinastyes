@@ -1,0 +1,12 @@
+﻿1558 = {	#Oxford
+	culture = anglo_saxon
+	religion = catholic
+	holding = castle_holding
+	special_building_slot = generic_university
+	11096.1.1 = {
+		special_building = generic_university
+	}
+	11100.11.11 = {
+		culture = english
+	}
+}

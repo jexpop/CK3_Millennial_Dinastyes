@@ -1,0 +1,20 @@
+﻿1544 = {	#Winchester
+	culture = anglo_saxon
+	religion = catholic
+	holding = castle_holding
+	10867.1.1 = {
+		buildings = {
+			common_tradeport_01
+		}
+	}
+	11066.1.1 = {
+		buildings = {
+			common_tradeport_01
+			curtain_walls_02
+			#cereal_fields_01
+		}
+	}
+	11100.11.11 = {
+		culture = english
+	}
+}

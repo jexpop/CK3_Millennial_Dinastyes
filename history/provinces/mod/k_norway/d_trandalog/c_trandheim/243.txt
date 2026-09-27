@@ -1,0 +1,7 @@
+﻿243 = { #VERDALA	aka Verdal, we're linking it to the old town of Levanger
+	holding = none
+	10997.1.1 = {
+		holding = city_holding
+		#Levanger was an old and important trade town
+	}
+}

@@ -1,0 +1,11 @@
+﻿286 = {	#TUNSBERG	aka T�nsberg
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	special_building_slot = heddal_stave_church_01 #Should probably be in SKIRINGSSAL, but placed here for balance and county holder access
+	11020.1.1 = {
+		culture = norwegian
+		religion = catholic
+		holding = castle_holding	#founded before that, in VIIIth, but set here for balance
+	}
+}

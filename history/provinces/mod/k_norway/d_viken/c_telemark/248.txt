@@ -1,0 +1,12 @@
+﻿248 = {	#TELEMARK
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	11020.1.1 = {
+		culture = norwegian
+		religion = catholic
+		holding = castle_holding
+		#City of Skien, center of Telemark, founded in viking age
+		#Set as castle here, so it upgrades from tribal at the same time as the reste of Norway
+	}
+}

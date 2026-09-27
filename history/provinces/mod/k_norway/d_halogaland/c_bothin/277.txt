@@ -1,0 +1,12 @@
+﻿277 = {	#BOTHIN
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	11020.1.1 = {
+		culture = norwegian
+		#religion = catholic
+	}
+	11070.1.1 = {
+		religion = catholic
+	}
+}

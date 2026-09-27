@@ -1,0 +1,11 @@
+﻿280 = {	#VASTVAGBORG
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	11020.1.1 = {
+		culture = norwegian
+	}
+	11070.1.1 = {
+		religion = catholic
+	}
+}

@@ -1,0 +1,19 @@
+﻿270 = {	#NIDAROS	aka Trondheim
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	10997.1.1 = {
+		holding = castle_holding
+	}
+	11066.1.1 = {
+		culture = norwegian
+		religion = catholic
+	}
+	11066.1.1 = {
+		buildings = {
+			common_tradeport_01
+			#hunting_grounds_01
+			barracks_01
+		}
+	}
+}

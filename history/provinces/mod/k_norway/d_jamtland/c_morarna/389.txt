@@ -1,0 +1,10 @@
+﻿389 = {	#MORARNA
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	11020.1.1 = {
+		culture = norwegian
+		religion = catholic
+		holding = castle_holding
+	}
+}

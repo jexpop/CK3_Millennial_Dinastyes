@@ -1,0 +1,8 @@
+﻿293 = { #DOVRE
+	holding = none
+	11020.1.1 = {
+		holding = city_holding
+		#There was a viking petty kingdom there
+		#Set as city when county converts to feudal to reflect importance of the place
+	}
+}

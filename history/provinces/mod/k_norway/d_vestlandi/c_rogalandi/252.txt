@@ -1,0 +1,17 @@
+﻿252 = {	#JATHARR	aka J�ren, linked city = Stavanger
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	11020.1.1 = {
+		culture = norwegian
+		religion = catholic
+		holding = castle_holding
+	}
+	11066.1.1 = {
+		buildings = {
+			common_tradeport_01
+			hunting_grounds_01
+			#military_camps_01
+		}
+	}
+}

@@ -8,3 +8,12 @@
 	audio_parameter = european
 }
 
+heritage_unknown = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_unknown
+		}
+	}
+	audio_parameter = byzantine
+}

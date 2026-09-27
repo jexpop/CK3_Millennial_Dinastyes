@@ -1,0 +1,15 @@
+﻿7 = {	#SCALLOWAY
+	culture = pictish
+	religion = catholic
+	holding = tribal_holding
+	10855.1.1 = {
+		culture = norse
+		religion = norse_pagan
+	}
+	11000.1.1 = {
+		religion = catholic
+		holding = castle_holding
+	}
+	11066.1.1 = { culture = norwegian }
+	11334.1.1 = { culture = scottish }
+}

@@ -149,6 +149,9 @@ d_sauvira = {
 }
 
 c_debul = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = k_sindh
 		holder = 188287 # Lakho Ghuraro Samma
@@ -212,6 +215,9 @@ c_debul = {
 
 
 c_sonda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = k_sindh
 		holder = 188287 # Lakho Ghuraro Samma
@@ -272,6 +278,9 @@ c_sonda = {
 
 
 c_mansura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10711.1.1 = {
 		liege = k_sindh
 	}
@@ -369,6 +378,9 @@ c_mansura = {
 
 
 c_ranikot = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10711.1.1 = {
 		liege = k_sindh
 	}
@@ -474,6 +486,9 @@ c_ranikot = {
 }
 
 c_siwistan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10711.1.1 = {
 		liege = k_sindh
 	}
@@ -593,6 +608,9 @@ d_bhakkar = {
 
 
 c_bhakkar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10711.1.1 = {
 		liege = k_sindh
 	}
@@ -715,6 +733,9 @@ c_bhakkar = {
 }
 
 c_aror = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10711.1.1 = {
 		liege = k_sindh
 	}
@@ -830,6 +851,9 @@ c_aror = {
 
 
 c_rajanpur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10711.1.1 = {
 		liege = k_sindh
 	}
@@ -940,6 +964,9 @@ c_rajanpur = {
 
 
 c_vijnot = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10711.1.1 = {
 		liege = k_sindh
 	}
@@ -1063,6 +1090,9 @@ c_vijnot = {
 
 
 c_sibi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10711.1.1 = {
 		liege = k_sindh
 	}

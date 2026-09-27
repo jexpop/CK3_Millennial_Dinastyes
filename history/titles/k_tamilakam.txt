@@ -172,6 +172,9 @@ d_pandya_nadu = {
 }
 
 c_madurai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 18 }
 	11066.1.1 = { change_development_level = 25 }
 	
@@ -252,6 +255,9 @@ c_madurai = {
 
 
 c_kongu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 189065
 	}
@@ -326,6 +332,9 @@ c_kongu = {
 
 
 c_uraiyur = {	
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 189065
 	}
@@ -481,6 +490,9 @@ d_chola_nadu = {
 }
 
 c_cholamandalam = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 18 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 30 }
@@ -566,6 +578,9 @@ c_cholamandalam = {
 
 
 c_tagadur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_tondai_nadu
 		holder = 189421
@@ -649,6 +664,9 @@ c_tagadur = {
 
 
 c_tiruvannamalai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		liege = d_tondai_nadu
 		holder = 189072
@@ -790,6 +808,9 @@ d_chera_nadu = {
 
 
 c_kerala = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 189410
 		liege = d_pandya_nadu
@@ -856,6 +877,9 @@ c_kerala = {
 
 
 c_venadu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 189405
 		liege = d_pandya_nadu
@@ -922,6 +946,9 @@ c_venadu = {
 
 
 c_alupa = { #Kolathunad
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 74689
 		liege = d_gangavadi
@@ -1066,6 +1093,9 @@ b_udayavara = {
 }
 
 c_eranad = { #Eranadu
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 74689
 		liege = d_gangavadi
@@ -1132,6 +1162,9 @@ c_eranad = { #Eranadu
 }
 
 c_maldives = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1214,6 +1247,9 @@ d_tondai_nadu = {
 }
 
 c_kanchipuram = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	#Pallava kingdom
@@ -1282,6 +1318,9 @@ c_kanchipuram = {
 }
 
 c_candragiri = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		liege = d_tondai_nadu
 		holder = 189072
@@ -1301,6 +1340,9 @@ c_candragiri = {
 
 
 c_penugonda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		holder = 192010 #Jayandivarman Bana
 	}
@@ -1400,6 +1442,9 @@ c_penugonda = {
 }
 
 c_muluvagil = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		liege = d_tondai_nadu
 		holder = 189072
@@ -1494,6 +1539,9 @@ c_muluvagil = {
 
 
 c_nellore = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_tondai_nadu
 		holder = 189423
@@ -1572,6 +1620,9 @@ c_nellore = {
 
 
 c_renandu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		holder = 192010 #Jayandivarman Bana
 		liege = d_tondai_nadu

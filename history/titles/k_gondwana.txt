@@ -143,6 +143,9 @@ d_dahala = {
 
 
 c_tripuri = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10675.1.1 = {
 		holder = 191317 #Vamaraja Cedi
 		liege = d_dahala
@@ -234,6 +237,9 @@ c_tripuri = {
 
 
 c_chauragarh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10675.1.1 = {
 		holder = 191317 #Vamaraja Cedi
 		liege = d_dahala
@@ -397,6 +403,9 @@ d_ratanpur = {
 
 
 c_ratanpur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 191295 #Nandivarman
 		liege = d_ratanpur
@@ -490,6 +499,9 @@ c_ratanpur = {
 
 
 c_tummana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10690.1.1 = {
 		holder = 191385#Jayavardhana I Sailavamsa
 	}
@@ -594,6 +606,9 @@ c_tummana = {
 
 
 c_bandhugadha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Baland Tribe
 	10750.1.1 = {
 		holder = 191482 # Patel

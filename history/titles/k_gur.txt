@@ -1,5 +1,8 @@
 ﻿
 c_dagomba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10800.1.1 = {
 		change_development_level = 2
 	}
@@ -48,6 +51,9 @@ c_dagomba = {
 
 
 c_gonja = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10800.1.1 = {
 		change_development_level = 3
 	}
@@ -96,6 +102,9 @@ c_gonja = {
 
 
 c_daboya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10800.1.1 = {
 		change_development_level = 1
 	}
@@ -144,6 +153,9 @@ c_daboya = {
 
 
 c_wagadugu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10800.1.1 = {
 		change_development_level = 3
 	}
@@ -209,6 +221,9 @@ c_wagadugu = {
 
 
 c_po = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10800.1.1 = {
 		change_development_level = 1
 	}
@@ -260,6 +275,9 @@ c_po = {
 
 
 c_mamprusi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		holder = gur0093
 		government = tribal_government
@@ -305,6 +323,9 @@ c_mamprusi = {
 
 
 c_kuisugu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		holder = gur0093
 		government = tribal_government
@@ -350,6 +371,9 @@ c_kuisugu = {
 
 
 c_pendjari = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		holder = 942069
 	}

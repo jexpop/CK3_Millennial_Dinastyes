@@ -156,6 +156,9 @@ d_oultrejourdain = {
 
 
 c_kerak = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -275,6 +278,9 @@ c_kerak = {
 
 
 c_negev = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		liege = "d_damascus"
 		holder = 146023
@@ -499,6 +505,9 @@ d_palestine = {
 
 
 c_jerusalem = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 34 }
@@ -630,6 +639,9 @@ b_hebron = {
 }
 
 c_ghazza = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10690.1.1 = {
 		liege = "d_palestine"
 		holder = 146022
@@ -726,6 +738,9 @@ c_ghazza = {
 
 
 c_jaffa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10690.1.1 = {
 		liege = "d_palestine"
 		holder = 146022
@@ -959,6 +974,9 @@ d_urdunn = {
 
 
 c_tiberias = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10733.1.1 = {
 		liege = "d_urdunn"
 		holder = 146027
@@ -1081,6 +1099,9 @@ c_tiberias = {
 }
 
 c_acre = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 12 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 34 }
@@ -1194,6 +1215,9 @@ c_acre = {
 
 
 c_irbid = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10661.2.28 = {
 		liege = "d_damascus"
 		holder = 163029

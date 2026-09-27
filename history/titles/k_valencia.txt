@@ -94,6 +94,9 @@ d_valencia = {
 
 
 c_valencia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 13 }
 
 	10798.1.1 = {
@@ -226,6 +229,9 @@ c_valencia = {
 
 
 c_castellon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10798.1.1 = {
 		holder = levantine0023 # Walih Suleyman ibn Hisham of Valencia
 		government = clan_government
@@ -366,6 +372,9 @@ c_castellon = {
 
 
 c_teruel = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10798.1.1 = {
 		holder = levantine0023 # Walih Suleyman ibn Hisham of Valencia
 		government = clan_government
@@ -484,6 +493,9 @@ c_teruel = {
 
 
 c_denia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10798.1.1 = {
 		holder = levantine0023 # Walih Suleyman ibn Hisham of Valencia
 		government = clan_government
@@ -608,6 +620,9 @@ c_denia = {
 
 
 c_alicante = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10695.1.1 = {
 		holder = 73901 # Teodomiro de Orihuela
 		liege = d_murcia
@@ -845,6 +860,9 @@ d_murcia = {
 
 
 c_murcia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10695.1.1 = {
 		holder = 73901 # Duke Conde Teodomiro of Murcia
 		liege = d_murcia
@@ -988,6 +1006,9 @@ c_murcia = {
 
 
 c_alcaraz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10695.1.1 = {
 		holder = 73901 # Duke Conde Teodomiro of Murcia
 		liege = d_murcia
@@ -1130,6 +1151,9 @@ c_alcaraz = {
 
 
 c_alarcon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10851.1.1 = {
 		holder = levantine0035 # Walih al-Mutarrif of Toledo
 		liege = k_andalusia
@@ -1347,6 +1371,9 @@ d_mallorca = {
 
 
 c_mallorca = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10801.4.3 = {
 		holder = 70140 # Duke Bera of Barcelona
 		liege = d_barcelona
@@ -1477,6 +1504,9 @@ c_mallorca = {
 
 
 c_menorca = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10801.4.3 = {
 		holder = 70140 # Duke Bera of Barcelona
 		liege = d_barcelona
@@ -1595,6 +1625,9 @@ c_menorca = {
 
 
 c_iviza = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10801.4.3 = {
 		holder = 70140 # Duke Bera of Barcelona
 		liege = d_barcelona

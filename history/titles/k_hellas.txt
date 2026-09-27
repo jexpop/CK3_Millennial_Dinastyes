@@ -102,6 +102,9 @@ d_athens = {
 }
 
 c_attica = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 27 }
 
 	10330.1.1 = {
@@ -172,6 +175,9 @@ c_attica = {
 
 
 c_boeotia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_athens"
 	}
@@ -240,6 +246,9 @@ c_boeotia = {
 
 
 c_euboea = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_aegean_islands"
 		government = administrative_government
@@ -437,6 +446,9 @@ d_achaia = {
 
 
 c_achaia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_achaia"
 		government = administrative_government
@@ -530,6 +542,9 @@ c_achaia = {
 
 
 c_korinthos = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 26 }
 
 	10330.1.1 = {
@@ -636,6 +651,9 @@ c_korinthos = {
 
 
 c_messenia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_achaia"
 		government = administrative_government
@@ -722,6 +740,9 @@ c_messenia = {
 }
 
 c_laconia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }

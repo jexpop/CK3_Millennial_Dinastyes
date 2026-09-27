@@ -243,6 +243,9 @@ d_maru = {
 
 
 c_mandavyapura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10550.1.1 = {
 		holder = 191605 #Harichandra
 		liege = d_maru
@@ -400,6 +403,9 @@ c_mandavyapura = {
 
 
 c_medantaka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10550.1.1 = {
 		holder = 191605 #Harichandra
 		liege = d_maru
@@ -553,6 +559,9 @@ c_medantaka = {
 
 
 c_godwad = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10550.1.1 = {
 		holder = 191605 #Harichandra
 		liege = d_maru
@@ -700,6 +709,9 @@ c_godwad = {
 
 
 c_naddula = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10550.1.1 = {
 		holder = 191605 #Harichandra
 		liege = d_maru
@@ -902,6 +914,9 @@ d_jangladesh = {
 
 
 c_vikramapura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10530.1.1 = {
 		liege = d_stravani
 		holder = 188320 #Jaisimha
@@ -982,6 +997,9 @@ c_vikramapura = {
 
 
 c_reni = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 191011	#Balan Singh Burdak
 		liege = d_jangladesh
@@ -1062,6 +1080,9 @@ c_reni = {
 
 
 c_nagauda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10551.1.1 = {
 		liege = d_jangladesh
 		holder = 188100 # Vasudeva
@@ -1298,6 +1319,9 @@ b_jaisalmer = {
 }
 
 c_ludrava = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10530.1.1 = {
 		liege = d_stravani
 		holder = 188320 #Jaisimha
@@ -1387,6 +1411,9 @@ c_ludrava = {
 
 
 c_satyapura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10530.1.1 = {
 		liege = d_stravani
 		holder = 188320 #Jaisimha
@@ -1607,6 +1634,9 @@ d_medapata = {
 
 
 c_medapata = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10734.1.1 = {
 		liege = d_medapata
 		holder = 188470 # Kalbhoj Guhilot
@@ -1723,6 +1753,9 @@ c_medapata = {
 
 
 c_chitrakut = { #Chittor
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10734.1.1 = {
 		liege = d_medapata
 		holder = 188470 # Kalbhoj Guhilot
@@ -1865,6 +1898,9 @@ c_chitrakut = { #Chittor
 
 
 c_kota = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 191685 #Simhavarman Chaulukya (Mattamayura branch)
 		liege = k_malwa
@@ -2116,6 +2152,9 @@ d_ajmer = {
 
 
 c_ajayameru = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10551.1.1 = {
 		liege = d_jangladesh
 		holder = 188100 # Vasudeva
@@ -2287,6 +2326,9 @@ c_ajayameru = {
 
 
 c_ranthambore = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10743.1.1 = {
 		holder = 188105 # Chandraraja I
 		liege = d_jangladesh
@@ -2399,6 +2441,9 @@ c_ranthambore = {
 
 
 c_vairata = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 191866 #Auka Guhila
 		liege = 0
@@ -2496,6 +2541,9 @@ c_vairata = {
 
 
 c_gwalior = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		holder = 191000 #Yasovarman
 		liege = d_kanyakubja
@@ -2669,6 +2717,9 @@ b_gwalior = {
 
 
 c_sakarai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 191866 #Auka Guhila
 		liege = 0

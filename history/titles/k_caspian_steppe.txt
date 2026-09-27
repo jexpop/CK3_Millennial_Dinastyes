@@ -165,6 +165,9 @@ d_itil = {
 
 
 c_itil = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 13 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 7 }
@@ -291,6 +294,9 @@ c_itil = {
 
 
 c_saqsin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10691.1.1 = {
 		liege = e_caspian-pontic_steppe
 		holder = 74007
@@ -415,6 +421,9 @@ c_saqsin = {
 
 
 c_uzen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	20.1.1 = {
 		government = nomad_government
 	}
@@ -499,6 +508,9 @@ c_uzen = {
 }
 
 c_ukek = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	20.1.1 = {
 		government = nomad_government
 	}
@@ -597,6 +609,9 @@ d_pecheneg = {
 
 
 c_pecheneg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	20.1.1 = {
 		government = nomad_government
 	}
@@ -658,6 +673,9 @@ c_pecheneg = {
 
 
 c_jambalar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	20.1.1 = {
 		government = nomad_government
 	}
@@ -766,6 +784,9 @@ c_jambalar = {
 
 
 c_yaitsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	20.1.1 = {
 		government = nomad_government
 	}
@@ -847,6 +868,9 @@ c_yaitsk = {
 }
 
 c_qyzylyaitsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	20.1.1 = {
 		government = nomad_government
 	}
@@ -936,6 +960,9 @@ d_mugodzhar_hills = {
 
 
 c_mugodzhar_hills = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10852.1.1 = {
 		holder = fictional_cumans_1	#fic to add more chars and avoid domain overlimit
@@ -958,6 +985,9 @@ c_mugodzhar_hills = {
 
 
 c_jitikul = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10864.1.1 = {
 		holder = fictional_pechenegs_4
@@ -979,6 +1009,9 @@ c_jitikul = {
 }
 
 c_kosh_kurbay = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10864.1.1 = {
 		holder = fictional_pechenegs_4
@@ -1002,6 +1035,9 @@ c_kosh_kurbay = {
 
 
 c_kos_uba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10860.1.1 = {
 		holder = fictional_cumans_2	#fic to add more chars and avoid domain overlimit
@@ -1024,6 +1060,9 @@ c_kos_uba = {
 
 
 c_aqtobe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10856.5.6 = {
 		holder = 302717	#fictional Yavdi Aqton
@@ -1046,6 +1085,9 @@ c_aqtobe = {
 
 
 c_orenburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10856.5.6 = {
 		holder = 302717	#fictional Yavdi Aqton
@@ -1072,6 +1114,9 @@ c_orenburg = {
 }
 
 c_ilek = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10856.5.6 = {
 		holder = 302717	#fictional Yavdi Aqton
@@ -1099,6 +1144,9 @@ c_ilek = {
 
 
 c_atamansku = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10850.1.1 = {
 		holder = fictional_pechenegs_3
@@ -1122,6 +1170,9 @@ c_atamansku = {
 }
 
 c_kbumak = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10850.1.1 = {
 		holder = fictional_pechenegs_3
@@ -1156,6 +1207,9 @@ d_atyrau = {
 
 
 c_atyrau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10691.1.1 = {
 		liege = e_caspian-pontic_steppe
 		holder = 74007
@@ -1254,6 +1308,9 @@ c_atyrau = {
 
 
 c_sagiz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10864.1.1 = {
 		holder = fictional_turkish_35
@@ -1284,6 +1341,9 @@ c_sagiz = {
 }
 
 c_kainar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10864.1.1 = {
 		holder = fictional_turkish_1
@@ -1320,6 +1380,9 @@ c_kainar = {
 
 
 c_manatau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10864.1.1 = {
 		holder = fictional_turkish_3
@@ -1349,6 +1412,9 @@ c_manatau = {
 }
 
 c_jaksybai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10864.1.1 = {
 		holder = fictional_turkish_3
@@ -1381,6 +1447,9 @@ c_jaksybai = {
 
 
 c_baisary = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10864.1.1 = {
 		holder = fictional_turkish_2
@@ -1411,6 +1480,9 @@ c_baisary = {
 
 
 c_basagha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10864.1.1 = {
 		holder = fictional_turkish_2

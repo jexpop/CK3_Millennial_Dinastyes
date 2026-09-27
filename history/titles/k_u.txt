@@ -245,6 +245,9 @@ d_yarlung = {
 
 
 c_zetang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Yarlung Kingdom
 
 	42.1.1={
@@ -443,6 +446,9 @@ c_zetang = {
 
 
 c_nagarze = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Yarlung Kingdom
 
 	42.1.1={
@@ -642,6 +648,9 @@ c_nagarze = {
 
 
 c_comai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Yarlung Kingdom
 	42.1.1={
 		liege = "d_yarlung"
@@ -740,6 +749,9 @@ c_comai = {
 }
 
 c_gyaca = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Yarlung Kingdom
 	42.1.1={
 		liege = "d_yarlung" #d_dakpo
@@ -839,6 +851,9 @@ c_gyaca = {
 
 
 c_nang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Yarlung Kingdom
 	42.1.1={
 		liege = "d_yarlung" #d_dakpo
@@ -1075,6 +1090,9 @@ d_lhasa = {
 }
 
 c_lhasa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 34 }
 
 	10606.1.1={
@@ -1203,6 +1221,9 @@ c_lhasa = {
 
 
 c_gyama = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10606.1.1={
 		liege = "d_lhasa"
 	}
@@ -1301,6 +1322,9 @@ c_gyama = {
 
 
 c_lhunzhub = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10606.1.1={
 		liege = "d_lhasa"
 		holder = 247073
@@ -1427,6 +1451,9 @@ c_lhunzhub = {
 }
 
 c_nyemo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10606.1.1={
 		liege="d_lhasa"
 		holder = 247073
@@ -1557,6 +1584,9 @@ c_nyemo = {
 
 
 c_damxung = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10606.1.1={
 		liege="d_lhasa"
 	}
@@ -1770,6 +1800,9 @@ d_nagchu = {
 
 
 c_nagchu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_nagchu"
@@ -1869,6 +1902,9 @@ c_nagchu = {
 
 
 c_baingoin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_nagchu"
@@ -1990,6 +2026,9 @@ c_baingoin = {
 
 
 c_lhari = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_nagchu"
@@ -2204,6 +2243,9 @@ d_conyi = {
 
 
 c_cozhelhoma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung Kingdom conquered by Tibetan Empire
 	10625.1.1={
 		liege = "d_conyi"
@@ -2302,6 +2344,9 @@ c_cozhelhoma = {
 }
 
 c_garco = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_nagchu"

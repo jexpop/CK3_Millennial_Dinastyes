@@ -141,6 +141,9 @@ d_cyprus = {
 }
 
 c_nicosia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_cyprus"
 	}
@@ -233,6 +236,9 @@ c_nicosia = {
 
 
 c_famagusta = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }

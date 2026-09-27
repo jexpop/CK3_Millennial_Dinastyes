@@ -1,4 +1,7 @@
 ﻿c_bonduku = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 6 }
@@ -49,6 +52,9 @@
 }
 
 c_ndenye = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 0 }
 	11066.1.1 = { change_development_level = 2 }
 	11178.1.1 = { change_development_level = 3 }
@@ -88,6 +94,9 @@ d_brong = {
 }
 
 c_bono = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -126,6 +135,9 @@ c_bono = {
 
 
 c_begho = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -171,6 +183,9 @@ c_begho = {
 
 
 c_upper_bono = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10861.1.1 = {
 		holder = akan0001
 		government = tribal_government
@@ -205,6 +220,9 @@ c_upper_bono = {
 
 
 c_bonoso = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -260,6 +278,9 @@ d_ashanti = {
 }
 
 c_kumasi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -306,6 +327,9 @@ c_kumasi = {
 
 
 c_adanse = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		holder = akan0048
 		government = tribal_government
@@ -335,6 +359,9 @@ c_adanse = {
 }
 
 c_kwahu-akyem = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }
@@ -375,6 +402,9 @@ c_kwahu-akyem = {
 
 
 c_fante = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }
@@ -413,6 +443,9 @@ c_fante = {
 }
 
 c_wassa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }
@@ -484,6 +517,9 @@ d_eweland = {
 }
 
 c_ewe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = ewe0001
 		liege = d_eweland
@@ -519,6 +555,9 @@ c_ewe = {
 }
 
 c_afram = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 4 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 7 }
@@ -559,6 +598,9 @@ c_afram = {
 
 
 c_nanumba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = guan0021
 		government = tribal_government
@@ -599,6 +641,9 @@ d_adiukru = {
 }
 
 c_boubo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		government = tribal_government
 	}
@@ -638,6 +683,9 @@ c_boubo = {
 
 
 c_attie = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }
@@ -677,6 +725,9 @@ c_attie = {
 
 
 c_dabou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = kru0001
 		government = tribal_government
@@ -712,6 +763,9 @@ c_dabou = {
 
 
 c_aowin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		government = tribal_government
 	}

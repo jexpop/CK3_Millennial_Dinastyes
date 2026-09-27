@@ -373,6 +373,9 @@ d_romagna = {
 
 
 c_ravenna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10763.1.1 = {
 		liege = k_italy
 	}
@@ -480,6 +483,9 @@ c_ravenna = {
 
 
 c_bologna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 32 }
 
 	10750.1.1 = {
@@ -587,6 +593,9 @@ c_bologna = {
 
 
 c_ferrara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 14 }
 
 	10747.1.1 = {
@@ -712,6 +721,9 @@ c_ferrara = {
 
 
 c_casentino = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10763.1.1 = {
 		liege = k_italy
 	}
@@ -874,6 +886,9 @@ d_ancona = {
 
 
 c_ancona = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = d_spoleto
 	}
@@ -961,6 +976,9 @@ c_ancona = {
 
 
 c_urbino = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = d_spoleto
 	}
@@ -1050,6 +1068,9 @@ c_urbino = {
 
 
 c_fermo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = d_benevento
 	}
@@ -1377,6 +1398,9 @@ d_spoleto = {
 
 
 c_spoleto = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10763.1.1 = {
 		liege = k_italy
 	}
@@ -1544,6 +1568,9 @@ c_spoleto = {
 
 
 c_orvieto = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10758.1.1 = {
 		liege = k_italy
 	}
@@ -1597,6 +1624,9 @@ c_orvieto = {
 }
 
 c_teramo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = d_benevento
 	}
@@ -1727,6 +1757,9 @@ c_teramo = {
 }
 
 c_lanciano = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10571.1.1 = {
 		liege = k_italy
 	}
@@ -1897,6 +1930,9 @@ c_lanciano = {
 
 
 c_abruzzi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = d_benevento
 	}
@@ -2036,6 +2072,9 @@ d_latium = {
 }
 
 c_roma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 25 }
 	11066.1.1 = { change_development_level = 30 }
 	11178.1.1 = { change_development_level = 34 }
@@ -2648,6 +2687,9 @@ c_roma = {
 
 
 c_viterbo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	42.1.1 = {
 	 holder = 145292
 	} # Peter's first visit to Rome
@@ -3256,6 +3298,9 @@ c_viterbo = {
 
 
 c_tivoli = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	42.1.1 = {
 	 holder = 145292
 	} # Peter's first visit to Rome

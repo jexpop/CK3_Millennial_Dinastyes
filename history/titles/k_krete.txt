@@ -125,6 +125,9 @@ d_krete = {
 
 
 c_chandax = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_krete"
 	}
@@ -223,6 +226,9 @@ c_chandax = {
 
 
 c_chania = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_krete"
 	}

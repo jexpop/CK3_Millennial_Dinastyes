@@ -133,6 +133,9 @@ d_aleppo = {
 
 
 c_aleppo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 34 }
@@ -232,6 +235,9 @@ c_aleppo = {
 }
 
 c_suriya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10706.1.1 = {
 		liege = "d_lebanon"
 		holder = 146014
@@ -336,6 +342,9 @@ c_suriya = {
 
 
 c_syrrusafa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10706.1.1 = {
 		liege = "d_lebanon"
 		holder = 146014
@@ -431,6 +440,9 @@ c_syrrusafa = {
 
 
 c_qinnasrin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10706.1.1 = {
 		liege = "d_lebanon"
 		holder = 146014
@@ -636,6 +648,9 @@ d_edessa = {
 
 
 c_samosata = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10637.1.1 = {
 		liege = "d_antioch"
 	}
@@ -758,6 +773,9 @@ c_samosata = {
 
 
 c_marash = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10637.1.1 = {
 		liege = "d_antioch"
 	}
@@ -880,6 +898,9 @@ c_marash = {
 
 
 c_aintab = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10637.1.1 = {
 		liege = "d_antioch"
 	}
@@ -1007,6 +1028,9 @@ d_homs = {
 }
 
 c_homs = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -1115,6 +1139,9 @@ c_homs = {
 
 
 c_shayzar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10706.1.1 = {
 		liege = "d_lebanon"
 		holder = 146014
@@ -1210,6 +1237,9 @@ c_shayzar = {
 }
 
 c_hama = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10706.1.1 = {
 		liege = "d_lebanon"
 		holder = 146014
@@ -1457,6 +1487,9 @@ d_antioch = {
 }
 
 c_antiocheia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 12 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 34 }
@@ -1578,6 +1611,9 @@ c_antiocheia = {
 
 
 c_alexandretta = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_antioch"
 	}
@@ -1806,6 +1842,9 @@ d_lebanon = {
 }
 
 c_beirut = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		liege = "d_damascus"
 		holder = 146060
@@ -1911,6 +1950,9 @@ b_saida = {
 }
 
 c_tripoli = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 12 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 20 }
@@ -2209,6 +2251,9 @@ d_damascus = {
 }
 
 c_damascus = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 44 }
@@ -2399,6 +2444,9 @@ c_damascus = {
 
 
 c_juwair = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -2589,6 +2637,9 @@ c_juwair = {
 }
 
 c_baalbek = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10706.1.1 = {
 		liege = "d_lebanon"
 		holder = 146014
@@ -2696,6 +2747,9 @@ c_baalbek = {
 
 
 c_hauran = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -2872,6 +2926,9 @@ d_palmyra = {
 
 
 c_palmyra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10706.1.1 = {
 		liege = "d_lebanon"
 		holder = 146014
@@ -2977,6 +3034,9 @@ c_palmyra = {
 
 
 c_sukhna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -3038,6 +3098,9 @@ c_sukhna = {
 }
 
 c_qaryatan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }

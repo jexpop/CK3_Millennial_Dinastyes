@@ -72,6 +72,9 @@ d_adrar = {
 }
 
 c_zammour = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 273107
 		government = tribal_government
@@ -126,6 +129,9 @@ c_zammour = {
 
 
 c_tindouf = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10842.1.1 = {
 		government = tribal_government
 		holder = butr0007
@@ -169,6 +175,9 @@ c_tindouf = {
 
 
 c_tiris = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10835.1.1 = {
 		liege = d_adrar	
 		holder = 273072
@@ -248,6 +257,9 @@ c_tiris = {
 
 
 c_wadan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -331,6 +343,9 @@ c_wadan = {
 
 
 c_azukki = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10835.1.1 = {
 		liege = d_adrar
 		holder = 273072
@@ -413,6 +428,9 @@ c_azukki = {
 
 
 c_amatlus = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10835.1.1 = {
 		liege = d_adrar
 		holder = 273101 #Guddala
@@ -486,6 +504,9 @@ c_amatlus = {
 
 
 c_touat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		government = tribal_government
 		holder = tagelmust0012
@@ -514,6 +535,9 @@ c_touat = {
 
 
 c_tamentit = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -577,6 +601,9 @@ d_taghaza = {
 
 
 c_taghaza = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -626,6 +653,9 @@ c_taghaza = {
 
 
 c_saoura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		government = tribal_government
 		holder = 273110

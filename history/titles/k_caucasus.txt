@@ -79,6 +79,9 @@ d_khazaria = {
 }
 
 c_sarkel = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10691.1.1 = {
 		liege = e_caspian-pontic_steppe
 		holder = 74007
@@ -184,6 +187,9 @@ c_sarkel = {
 
 
 c_astrakhan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 9 }
 	11066.1.1 = { change_development_level = 2 }
 	11178.1.1 = { change_development_level = 15 }
@@ -298,6 +304,9 @@ c_astrakhan = {
 
 
 c_beksima = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10691.1.1 = {
 		liege = e_caspian-pontic_steppe
 		holder = 74007
@@ -476,6 +485,9 @@ d_azov = {
 }
 
 c_tmutarakan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 6 }
@@ -624,6 +636,9 @@ c_tmutarakan = {
 
 
 c_khumar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10822.1.1= {
 		liege=d_azov
 		government = nomad_government
@@ -695,6 +710,9 @@ c_khumar = {
 
 
 c_azov = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10822.1.1= {
 		liege = d_azov
 		government = herder_government
@@ -836,6 +854,9 @@ d_alania = {
 
 
 c_cabardinia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Alans tributaries to Khazars
 	10741.1.1 = {
 		holder = 146205	#Buriberdi Zmbalani
@@ -904,6 +925,9 @@ c_cabardinia = {
 }
 
 c_besinada = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Alans tributaries to Khazars
 	10741.1.1 = {
 		holder = 146205	#Buriberdi Zmbalani
@@ -974,6 +998,9 @@ c_besinada = {
 
 
 c_maghas = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 6 }
@@ -1044,6 +1071,9 @@ c_maghas = {
 
 
 c_zichia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Alans tributaries to Khazars
 	10741.1.1 = {
 		holder = 146205	#Buriberdi Zmbalani
@@ -1112,6 +1142,9 @@ c_zichia = {
 
 
 c_derbent = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 39 }
@@ -1295,6 +1328,9 @@ c_derbent = {
 
 
 c_samander = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10691.1.1 = {
 		liege = e_caspian-pontic_steppe
 		holder = 74007
@@ -1377,6 +1413,9 @@ c_samander = {
 
 
 c_samiran = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10691.1.1 = {
 		liege = e_caspian-pontic_steppe
 		holder = 74007
@@ -1491,6 +1530,9 @@ c_samiran = {
 }
 
 c_anket = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10691.1.1 = {
 		liege = e_caspian-pontic_steppe
 		holder = 74007

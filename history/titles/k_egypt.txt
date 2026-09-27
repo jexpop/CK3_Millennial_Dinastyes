@@ -199,6 +199,9 @@ d_cyrenaica = {
 
 
 c_barqa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -252,6 +255,9 @@ c_barqa = {
 
 
 c_awjila = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		government = tribal_government
 		holder = 210034
@@ -302,6 +308,9 @@ c_awjila = {
 
 
 c_derna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 210034
 		liege = "d_cyrenaica"
@@ -349,6 +358,9 @@ c_derna = {
 
 
 c_tobruk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		government = tribal_government
 		holder = 210034
@@ -472,6 +484,9 @@ d_alexandria = {
 }
 
 c_alexandria = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 13 }
 	11066.1.1 = { change_development_level = 20 }
 	11178.1.1 = { change_development_level = 35 }
@@ -550,6 +565,9 @@ c_alexandria = {
 
 
 c_sullum = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "d_alexandria"
 	}
@@ -624,6 +642,9 @@ c_sullum = {
 
 
 c_siwa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	
 	10762.1.1 = {
 		liege = "d_alexandria"
@@ -718,6 +739,9 @@ d_delta = {
 }
 
 c_damietta = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 13 }
 	11066.1.1 = { change_development_level = 20 }
 	11178.1.1 = { change_development_level = 50 }
@@ -841,6 +865,9 @@ c_damietta = {
 
 
 c_al-buhaira = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "k_egypt"
 	}
@@ -963,6 +990,9 @@ c_al-buhaira = {
 
 
 c_al-gharbiya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "k_egypt"
 	}
@@ -1082,6 +1112,9 @@ c_al-gharbiya = {
 
 
 c_sharkiya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "k_egypt"
 	}
@@ -1203,6 +1236,9 @@ d_cairo = {
 }
 
 c_cairo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 15 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 56 }
@@ -1303,6 +1339,9 @@ c_cairo = {
 
 
 c_giza = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "d_alexandria"
 	}
@@ -1374,6 +1413,9 @@ c_giza = {
 
 
 c_fayyum = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "d_alexandria"
 	}
@@ -1449,6 +1491,9 @@ c_fayyum = {
 
 
 c_bahriya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "d_al-said"
 	}
@@ -1521,6 +1566,9 @@ c_bahriya = {
 
 
 c_farafra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "d_al-said"
 	}
@@ -1592,6 +1640,9 @@ c_farafra = {
 
 
 c_dakhla = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "d_al-said"
 	}
@@ -1663,6 +1714,9 @@ c_dakhla = {
 
 
 c_kharga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "d_al-said"
 	}
@@ -1810,6 +1864,9 @@ d_al-said = {
 
 
 c_qus = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 12 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 36 }
@@ -1932,6 +1989,9 @@ c_qus = {
 }
 
 c_bahnasa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "d_al-said"
 	}
@@ -2051,6 +2111,9 @@ c_bahnasa = {
 
 
 c_ushmun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "d_al-said"
 	}
@@ -2170,6 +2233,9 @@ c_ushmun = {
 
 
 c_asyut = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 29 }
@@ -2292,6 +2358,9 @@ c_asyut = {
 }
 
 c_aswan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "d_al-said"
 	}
@@ -2412,6 +2481,9 @@ c_aswan = {
 
 
 c_qusayr = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -2619,6 +2691,9 @@ d_eastern_desert = {
 
 
 c_jabal_quzlum = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 8 }
@@ -2706,6 +2781,9 @@ d_sinai = {
 
 
 c_farama = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "k_egypt"
 	}
@@ -2823,6 +2901,9 @@ c_farama = {
 
 
 c_sinai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -2943,6 +3024,9 @@ c_sinai = {
 
 
 c_firaun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "k_egypt"
 	}

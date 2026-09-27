@@ -27,6 +27,9 @@ d_baguirmi = {
 }
 
 c_baguirmi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 4 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -67,6 +70,9 @@ c_baguirmi = {
 
 
 c_banre = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 6 }
@@ -107,6 +113,9 @@ c_banre = {
 
 
 c_barma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = sao0011
 		government = tribal_government
@@ -142,6 +151,9 @@ c_barma = {
 
 
 c_masa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 6 }
@@ -181,6 +193,9 @@ c_masa = {
 
 
 c_kuku = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = sao0061
 		government = tribal_government
@@ -216,6 +231,9 @@ c_kuku = {
 
 
 c_tumak = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = sao0071
 		government = tribal_government
@@ -251,6 +269,9 @@ c_tumak = {
 
 
 c_salamat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sao culture
 	10750.1.1= {
 		liege=0
@@ -329,6 +350,9 @@ c_salamat = {
 
 
 c_dar_rashid = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = sao0071
 		government = tribal_government
@@ -367,6 +391,9 @@ c_dar_rashid = {
 
 
 c_wandala = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 6 }
@@ -406,6 +433,9 @@ c_wandala = {
 
 
 c_kotoko = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 4 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 28 }
@@ -445,6 +475,9 @@ c_kotoko = {
 
 
 c_diamare = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 6 }
@@ -484,6 +517,9 @@ c_diamare = {
 
 
 c_garoua = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		government = tribal_government
 		holder = sao0041
@@ -519,6 +555,9 @@ c_garoua = {
 
 
 c_kera = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 6 }

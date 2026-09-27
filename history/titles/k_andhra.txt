@@ -18,6 +18,9 @@ d_udayagiri = {
 
 
 c_palakka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_tondai_nadu
 		holder = 189422
@@ -98,6 +101,9 @@ c_palakka = {
 
 
 c_cumbum = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_tondai_nadu
 		holder = 189422
@@ -117,6 +123,9 @@ c_cumbum = {
 
 
 c_nallamala = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10732.1.1 = {
 		holder = 189073
 	}
@@ -269,6 +278,9 @@ d_vengi = {
 
 
 c_vengipura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10624.1.1 = {
 		holder = 189074 #Vishnuvardhana I
 		liege = d_vengi
@@ -381,6 +393,9 @@ c_vengipura = {
 }
 
 c_mosala = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10624.1.1 = {
 		holder = 189074 #Vishnuvardhana I
 		liege = d_vengi

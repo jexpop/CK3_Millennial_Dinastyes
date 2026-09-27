@@ -5,6 +5,9 @@
 }
 
 c_gilan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = d_azerbaijan
 		holder = 180750 # Justan I
@@ -111,6 +114,9 @@ c_gilan = {
 
 
 c_zanjan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -199,6 +205,9 @@ c_zanjan = {
 
 
 c_qazwin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -441,6 +450,9 @@ d_tabaristan = {
 
 
 c_mazandaran = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -518,6 +530,9 @@ c_mazandaran = {
 
 
 c_ruyan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10755.1.1 = {
 		liege = d_azerbaijan
 		holder = 160290 # Surkhab Bavand II
@@ -591,6 +606,9 @@ c_ruyan = {
 
 
 c_baduspan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10755.1.1 = {
 		liege = d_azerbaijan
 		holder = 160290 # Surkhab Bavand II
@@ -666,6 +684,9 @@ d_gurgan = {
 
 
 c_gurgan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -747,6 +768,9 @@ c_gurgan = {
 
 
 c_dihistan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 8 }
@@ -900,6 +924,9 @@ d_azerbaijan = {
 
 
 c_talish = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_azerbaijan
 		holder = 188644 # Yahya Barmakid
@@ -999,6 +1026,9 @@ c_talish = {
 
 
 c_tabriz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 29 }
@@ -1098,6 +1128,9 @@ c_tabriz = {
 }
 
 c_ardabil = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 38 }
@@ -1202,6 +1235,9 @@ c_ardabil = {
 
 
 c_maragha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_azerbaijan
 		holder = 188644 # Yahya Barmakid
@@ -1298,6 +1334,9 @@ c_maragha = {
 
 
 c_bailaqan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_azerbaijan
 		holder = 188658
@@ -1397,6 +1436,9 @@ c_bailaqan = {
 
 
 c_urmiya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_azerbaijan
 		holder = 188658
@@ -1615,6 +1657,9 @@ d_shirvan = {
 }
 
 c_shirvan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1753,6 +1798,9 @@ c_shirvan = {
 
 
 c_shaki = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1891,6 +1939,9 @@ c_shaki = {
 
 
 c_aran = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -2003,6 +2054,9 @@ c_aran = {
 
 
 c_mugan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#10635.1.1 = {
 	#	liege = "d_albania"
 	#}

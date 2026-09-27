@@ -277,6 +277,9 @@ d_mesopotamia = {
 
 
 c_melitene = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10714.1.1 = {
 		liege = "d_greater_armenia"
 	}
@@ -362,6 +365,9 @@ c_melitene = {
 
 
 c_theodosiopolis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_chaldia"
 	}
@@ -438,6 +444,9 @@ c_theodosiopolis = {
 
 
 c_mesopotamia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10714.1.1 = {
 		liege = "d_greater_armenia"
 	}
@@ -682,6 +691,9 @@ d_vaspurakan = {
 
 
 c_turuberan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10646.1.1 = {
 		liege = d_vaspurakan
 	}
@@ -812,6 +824,9 @@ c_turuberan = {
 
 
 c_apahunik = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10646.1.1 = {
 		liege = d_vaspurakan
 	}
@@ -939,6 +954,9 @@ c_apahunik = {
 
 
 c_vaspurakan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10646.1.1 = {
 		liege = d_vaspurakan
 	}
@@ -1176,6 +1194,9 @@ d_greater_armenia = {
 
 
 c_hayk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 44 }
@@ -1256,6 +1277,9 @@ c_hayk = {
 
 
 c_bagrewand = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10646.1.1 = {
 		liege = d_greater_armenia
 	}
@@ -1330,6 +1354,9 @@ c_bagrewand = {
 
 
 c_vanand = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10646.1.1 = {
 		liege = d_greater_armenia
 	}
@@ -1399,6 +1426,9 @@ c_vanand = {
 }
 
 c_khachen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#VIIth century onwards : Arab rule
 	10654.1.1 = {
 		liege = e_arabia
@@ -1468,6 +1498,9 @@ c_khachen = {
 
 
 c_suenik = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10646.1.1 = {
 		liege = "d_greater_armenia"
 		holder = 160008
@@ -1581,6 +1614,9 @@ c_suenik = {
 
 
 c_dvin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }

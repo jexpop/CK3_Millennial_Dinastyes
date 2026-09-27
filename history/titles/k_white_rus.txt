@@ -5,6 +5,9 @@
 }
 
 c_grodno = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#rulers of Grodno or Novgorodok
 	10750.1.1 = {
 		holder = 194116
@@ -106,6 +109,9 @@ c_grodno = {
 
 
 c_volkovysk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre-Kievan Rus'
 	10500.1.1 = {
 		liege = 0
@@ -289,6 +295,9 @@ c_volkovysk = {
 
 
 c_novogrudok = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre-Kievan Rus'
 	10500.1.1 = {
 		liege = 0
@@ -478,6 +487,9 @@ c_novogrudok = {
 
 
 c_pinsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -517,6 +529,9 @@ c_pinsk = {
 
 
 c_slutsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Pre Kievan Rus' / Dregovichi tribes
 	10856.3.20 = {
 		holder = 302200		#Fictional Dregovichi
@@ -552,6 +567,9 @@ c_slutsk = {
 
 
 c_kletsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Pre Kievan Rus' / Dregovichi tribes
 	10856.3.20 = {
 		holder = 302200		#Fictional Dregovichi
@@ -587,6 +605,9 @@ c_kletsk = {
 
 
 c_babruysk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Res
 	10859.1.1 = {
 		liege = 0
@@ -662,6 +683,9 @@ d_minsk = {
 
 
 c_minsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -729,6 +753,9 @@ c_minsk = {
 
 
 c_orsha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre-Kievan Rus
 	10825.12.3 = {
 		holder = 302209		#Fictional Krivichi
@@ -858,6 +885,9 @@ d_polotsk = {
 
 
 c_polotsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -941,6 +971,9 @@ c_polotsk = {
 
 
 c_lukoml = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre-Kievan Rus
 	10825.12.3 = {
 		holder = 302209		#Fictional Krivichi
@@ -1018,6 +1051,9 @@ c_lukoml = {
 
 
 c_vitebsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre-Kievan Rus
 	10825.12.3 = {
 		holder = 302209		#Fictional Krivichi
@@ -1158,6 +1194,9 @@ d_smolensk = {
 
 
 c_smolensk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 20 }
 
 	###Pre-Kievan Rus
@@ -1260,6 +1299,9 @@ c_smolensk = {
 
 
 c_gnezdovo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 6 }
@@ -1364,6 +1406,9 @@ c_gnezdovo = {
 
 
 c_roslavl = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Res
 	10859.1.1 = {
 		liege = 0
@@ -1461,6 +1506,9 @@ c_roslavl = {
 
 
 c_mozhaysk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Pre-Kievan Rus
 	10867.1.1 = {
 		liege = 0
@@ -1555,6 +1603,9 @@ c_mozhaysk = {
 
 
 c_toropets = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre-Kievan Rus
 	10833.8.11 = {
 		holder = 302245		#Fictional Krivichi

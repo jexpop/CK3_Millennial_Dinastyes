@@ -75,6 +75,9 @@ d_finland = {
 
 
 c_finland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		holder = 170309
 		liege = "d_finland"
@@ -151,6 +154,9 @@ c_finland = {
 
 
 c_nyland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 170313
 		government = tribal_government
@@ -205,6 +211,9 @@ c_nyland = {
 
 
 c_satakunta = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10755.1.1 = {
 		holder = 170306
 		liege = "d_finland"
@@ -274,6 +283,9 @@ c_satakunta = {
 
 
 c_aland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		holder = 194060
 		liege = d_svealand
@@ -349,6 +361,9 @@ c_aland = {
 
 
 c_messukyla = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10755.1.1 = {
 		holder = 170306
 		liege = "d_finland"
@@ -418,6 +433,9 @@ c_messukyla = {
 
 
 c_tavasts = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 170313
 		government = tribal_government
@@ -476,6 +494,9 @@ c_tavasts = {
 
 
 c_olavinlinna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		holder = 170320
 		#liege = "d_kexholm"
@@ -535,6 +556,9 @@ c_olavinlinna = {
 
 
 c_sysma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 170313
 		government = tribal_government
@@ -593,6 +617,9 @@ c_sysma = {
 
 
 c_pielinen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		holder = 170320
 		#liege = "d_kexholm"
@@ -652,6 +679,9 @@ c_pielinen = {
 
 
 c_oulu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		holder = 170329
 		government = tribal_government
@@ -748,6 +778,9 @@ c_oulu = {
 
 
 c_pedersore = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		holder = 170329
 		government = tribal_government
@@ -844,6 +877,9 @@ c_pedersore = {
 
 
 c_mustasaari = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		holder = 170329
 		government = tribal_government
@@ -940,6 +976,9 @@ c_mustasaari = {
 
 
 c_kainuu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		holder = 170329
 		government = tribal_government
@@ -1222,6 +1261,9 @@ d_karelia = {
 
 
 c_kakisalmi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		holder = 170316
 		#liege = "d_kexholm"
@@ -1337,6 +1379,9 @@ c_kakisalmi = {
 
 
 c_viipuri = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		holder = 170316
 		#liege = "d_kexholm"
@@ -1452,6 +1497,9 @@ c_viipuri = {
 
 
 c_sortavala = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		holder = 170316
 		#liege = "d_kexholm"
@@ -1567,6 +1615,9 @@ c_sortavala = {
 
 
 c_salinis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10747.1.1 = {
 		holder = 170324
 		liege = "d_karelia"
@@ -1757,6 +1808,9 @@ c_salinis = {
 
 
 c_onega = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10747.1.1 = {
 		holder = 170324
 		liege = "d_karelia"
@@ -1946,6 +2000,9 @@ c_onega = {
 
 
 c_viena = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10747.1.1 = {
 		holder = 170324
 		liege = "d_karelia"
@@ -2135,6 +2192,9 @@ c_viena = {
 
 
 c_kontupohja = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10747.1.1 = {
 		holder = 170324
 		liege = "d_karelia"

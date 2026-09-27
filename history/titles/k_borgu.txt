@@ -51,6 +51,9 @@
 
 
 c_nikki = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 20 }
@@ -103,6 +106,9 @@ c_nikki = {
 
 
 c_bussa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 28 }
 
 	10860.1.1 = {
@@ -141,6 +147,9 @@ c_bussa = {
 
 
 c_ilo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		government = tribal_government
 		holder = sorko0001
@@ -177,6 +186,9 @@ c_ilo = {
 
 
 c_ilesa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		holder = 942069
 	}
@@ -224,6 +236,9 @@ c_ilesa = {
 
 
 c_djugu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		holder = 942069
 	}
@@ -275,6 +290,9 @@ d_savalu = {
 }
 
 c_savalu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = ewe0021
 		government = tribal_government
@@ -310,6 +328,9 @@ c_savalu = {
 
 
 c_sokode = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = ewe0021
 		government = tribal_government
@@ -345,6 +366,9 @@ c_sokode = {
 
 
 c_todo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = ewe0011
 		government = tribal_government
@@ -380,6 +404,9 @@ c_todo = {
 
 
 c_shabe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		holder = 942069
 	}

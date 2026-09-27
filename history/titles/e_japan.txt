@@ -222,6 +222,9 @@ d_ruucuu = { # Ruucuu/Ryukyu
 # Counties / Provinces
 
 c_yamashiro = { # Yamashiro (Kyoto)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 20 }
 	11178.1.1 = { change_development_level = 33 }
@@ -236,6 +239,9 @@ c_yamashiro = { # Yamashiro (Kyoto)
 	11167.1.1 = { holder = japanese_taira_kanmu_34 } # Kiyomori
 }
 c_settsu = { # Settsu
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 17 }
 	11178.1.1 = { change_development_level = 28 }
@@ -275,6 +281,9 @@ c_settsu = { # Settsu
 	11178.1.1 = { holder = japanese_minamoto_seiwa_59 } # Yorimasa
 }
 c_yamato = { # Yamato
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 11 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 30 }
@@ -310,6 +319,9 @@ c_yamato = { # Yamato
 	11178.1.1 = { holder = japanese_minamoto_seiwa_279 } # Chikaharu
 }
 c_awa = { # Awa
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 17 }
@@ -346,6 +358,9 @@ c_awa = { # Awa
 	}
 }
 c_iyo = { # Iyo
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 19 }
@@ -398,6 +413,9 @@ c_iyo = { # Iyo
 	11153.1.1 = { holder = japanese_kono_2 } # Michikiyo
 }
 c_awaji = { # Awaji
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 14 }
@@ -413,6 +431,9 @@ c_awaji = { # Awaji
 	11178.1.1 = { holder = japanese_fujiwara_595 } # Mitsuyoshi
 }
 c_kii = { # Kii
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 20 }
@@ -444,6 +465,9 @@ c_kii = { # Kii
 	}
 }
 c_sanuki = { # Sanuki
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 18 }
@@ -472,6 +496,9 @@ c_sanuki = { # Sanuki
 	11177.6.28 = { holder = japanese_fujiwara_645 } # Sueyoshi
 }
 c_tosa = { # Tosa
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 15 }
@@ -495,6 +522,9 @@ c_tosa = { # Tosa
 	11178.1.1 = { holder = japanese_fujiwara_625 } # Tsunemune
 }
 c_bungo = { # Bungo
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 19 }
@@ -523,6 +553,9 @@ c_bungo = { # Bungo
 	}
 }
 c_buzen = { # Buzen
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 22 }
@@ -546,6 +579,9 @@ c_buzen = { # Buzen
 	}
 }
 c_chikugo = { # Chikugo
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 19 }
@@ -571,6 +607,9 @@ c_chikugo = { # Chikugo
 	}
 }
 c_chikuzen = { # Chikuzen
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 9 }
 	11066.1.1 = { change_development_level = 15 }
 	11178.1.1 = { change_development_level = 24 }
@@ -603,6 +642,9 @@ c_chikuzen = { # Chikuzen
 	}
 }
 c_higo = { # Higo
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 20 }
@@ -642,6 +684,9 @@ c_higo = { # Higo
 	11177.1.1 = { holder = japanese_kikuchi_6 } # Takanao
 }
 c_hizen = { # Hizen
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 13 }
 	11178.1.1 = { change_development_level = 20 }
@@ -672,6 +717,9 @@ c_hizen = { # Hizen
 	11178.1.1 = { holder = japanese_matsura_10 } # Takatoshi
 }
 c_hyuga = { # Hyuga
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 17 }
@@ -695,6 +743,9 @@ c_hyuga = { # Hyuga
 	11175.1.1 = { holder = japanese_kusakabe_4 } # Morihira_2
 }
 c_osumi = { # Osumi
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 16 }
@@ -719,6 +770,9 @@ c_osumi = { # Osumi
 	11156.1.1 = { holder = japanese_kimotsuki_5 } # Kanesuke
 }
 c_satsuma = { # Satsuma
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 17 }
@@ -743,6 +797,9 @@ c_satsuma = { # Satsuma
 	11174.1.1 = { holder = japanese_taira_kanmu_562 } # Nobuzumi
 }
 c_tsushima = { # Tsushima
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 12 }
@@ -763,6 +820,9 @@ c_tsushima = { # Tsushima
 	11176.1.1 = { holder = japanese_abiru_6 } # Kiyoyoshi
 }
 c_hoki = { # Hoki
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 14 }
@@ -785,6 +845,9 @@ c_hoki = { # Hoki
 	11176.1.1 = { holder = japanese_taira_kanmu_114 } # Tokitada 
 }
 c_inaba = { # Inaba
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 14 }
@@ -806,6 +869,9 @@ c_inaba = { # Inaba
 	11178.1.1 = { holder = japanese_fujiwara_600 } # Takasue
 }
 c_iwami = { # Iwami
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 13 }
@@ -824,6 +890,9 @@ c_iwami = { # Iwami
 	11178.1.1 = { holder = japanese_fujiwara_776 } # Mitsumasa
 }
 c_izumo = { # Izumo
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 17 }
@@ -849,6 +918,9 @@ c_izumo = { # Izumo
 	11178.1.1 = { holder = japanese_fujiwara_1263 } # Tomokata
 }
 c_oki = { # Oki
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 11 }
@@ -864,6 +936,9 @@ c_oki = { # Oki
 	11178.1.1 = { holder = japanese_fujiwara_511 } # Motofusa
 }
 c_tajima = { # Tajima
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 15 }
@@ -902,6 +977,9 @@ c_tajima = { # Tajima
 	11178.1.1 = { holder = japanese_minamoto_uda_56 } # Nobutaka
 }
 c_tanba = { # Tanba
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 19 }
@@ -931,6 +1009,9 @@ c_tanba = { # Tanba
 	11178.1.28 = { holder =  japanese_fujiwara_572 } # Kanemasa
 }
 c_tango = { # Tango
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 14 }
@@ -953,6 +1034,9 @@ c_tango = { # Tango
 	}
 }
 c_aki = { # Aki
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 18 }
@@ -976,6 +1060,9 @@ c_aki = { # Aki
 	}
 }
 c_bingo = { # Bingo
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 17 }
@@ -1006,6 +1093,9 @@ c_bingo = { # Bingo
 	11178.1.1 = { holder = japanese_fujiwara_927 } # Nagataka
 }
 c_bitchu = { # Bitchu
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 17 }
@@ -1045,6 +1135,9 @@ c_bitchu = { # Bitchu
 	}
 }
 c_bizen = { # Bizen
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 19 }
@@ -1076,6 +1169,9 @@ c_bizen = { # Bizen
 }
 
 c_harima = { # Harima - 播磨 (播州)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 13 }
 	11178.1.1 = { change_development_level = 20 }
@@ -1116,6 +1212,9 @@ c_harima = { # Harima - 播磨 (播州)
 	}
 }
 c_mimasaka = { # Mimasaka
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 16 }
@@ -1138,6 +1237,9 @@ c_mimasaka = { # Mimasaka
 	11178.1.1 = { holder = japanese_fujiwara_514 } # Kujo Kanezane
 }
 c_nagato = { # Nagato
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 16 }
@@ -1159,6 +1261,9 @@ c_nagato = { # Nagato
 	}
 }
 c_suo = { # Suo
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 16 }
@@ -1193,6 +1298,9 @@ c_suo = { # Suo
 	}
 }
 c_echigo = { # Echigo
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 17 }
@@ -1223,6 +1331,9 @@ c_echigo = { # Echigo
 	}
 }
 c_hida = { # Hida
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 13 }
@@ -1240,6 +1351,9 @@ c_hida = { # Hida
 	}
 }
 c_shinano = { # Shinano
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 17 }
@@ -1271,6 +1385,9 @@ c_shinano = { # Shinano
 	11178.1.1 = { holder = japanese_minamoto_seiwa_207 } # Yoshinaka
 }
 c_shimotsuke = { # Shimotsuke
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 16 }
@@ -1302,6 +1419,9 @@ c_shimotsuke = { # Shimotsuke
 	}
 }
 c_kozuke = { # Kozuke
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 16 }
@@ -1324,6 +1444,9 @@ c_kozuke = { # Kozuke
 	}
 }
 c_noto = { # Noto
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 13 }
@@ -1346,6 +1469,9 @@ c_noto = { # Noto
 	}
 }
 c_etchu = { # Etchu
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 16 }
@@ -1368,6 +1494,9 @@ c_etchu = { # Etchu
 	}
 }
 c_kaga = { # Kaga
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 17 }
@@ -1390,6 +1519,9 @@ c_kaga = { # Kaga
 	11178.1.1 = { holder = japanese_taira_kanmu_310 } # Chikamune
 }
 c_kai = { # Kai
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 16 }
@@ -1415,6 +1547,9 @@ c_kai = { # Kai
 	}
 }
 c_suruga = { # Suruga
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 19 }
@@ -1439,6 +1574,9 @@ c_suruga = { # Suruga
 	}
 }
 c_totomi = { # Totomi
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 17 }
@@ -1464,6 +1602,9 @@ c_totomi = { # Totomi
 	#}
 }
 c_hitachi = { # Hitachi
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 19 }
@@ -1491,6 +1632,9 @@ c_hitachi = { # Hitachi
 	}
 }
 c_musashi = { # Musashi
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 22 }
@@ -1516,6 +1660,9 @@ c_musashi = { # Musashi
 	}
 }
 c_echizen = { # Echizen
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 19 }
@@ -1545,6 +1692,9 @@ c_echizen = { # Echizen
 	}
 }
 c_omi = { # Omi
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 22 }
@@ -1585,6 +1735,9 @@ c_omi = { # Omi
 	}
 }
 c_mino = { # Mino
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 20 }
@@ -1618,6 +1771,9 @@ c_mino = { # Mino
 	}
 }
 c_mikawa = { # Mikawa
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 19 }
@@ -1642,6 +1798,9 @@ c_mikawa = { # Mikawa
 	}
 }
 c_owari = { # Owari
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 22 }
@@ -1667,6 +1826,9 @@ c_owari = { # Owari
 	}
 }
 c_ise = { # Ise
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 19 }
@@ -1690,6 +1852,9 @@ c_ise = { # Ise
 	11178.1.1 = { holder = japanese_fujiwara_793 } # Tadakiyo
 }
 c_kazusa = { # Kazusa
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 16 }
@@ -1720,6 +1885,9 @@ c_kazusa = { # Kazusa
 	11178.1.1 = { holder = japanese_taira_kanmu_236 } # Hirotsune
 }
 c_izu = { # Izu
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 17 }
@@ -1742,6 +1910,9 @@ c_izu = { # Izu
 	11178.1.1 = { holder = japanese_minamoto_seiwa_10 } # Yoritomo, technically in exile
 }
 c_sagami = { # Sagami
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 20 }
@@ -1765,6 +1936,9 @@ c_sagami = { # Sagami
 	11178.1.1 = { holder = japanese_taira_kanmu_160 } # Yoshiaki
 }
 c_shimosa = { # Shimosa
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 17 }
@@ -1791,6 +1965,9 @@ c_shimosa = { # Shimosa
 	}
 }
 c_kawachi = { # Kawachi
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 22 }
@@ -1823,6 +2000,9 @@ c_kawachi = { # Kawachi
 	11178.1.1 = { holder = japanese_minamoto_seiwa_345 } # Ishikawa Yoshimoto
 }
 c_tsugaru = { # Tsugaru
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 12 }
@@ -1845,6 +2025,9 @@ c_tsugaru = { # Tsugaru
 	}
 }
 c_isawa = { # Isawa
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 13 }
@@ -1879,6 +2062,9 @@ c_isawa = { # Isawa
 	11157.4.29 = { holder = japanese_fujiwara_497 } # Hidehira
 }
 c_korehari = { # Korehari/Taga c_taga
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 11 }
@@ -1923,6 +2109,9 @@ c_korehari = { # Korehari/Taga c_taga
 	#11176.1.1 = { holder = japanese_fujiwara_981 } # Noriyuki
 }
 c_iwase = { # Iwase
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 11 }
@@ -1944,6 +2133,9 @@ c_iwase = { # Iwase
 	}
 }
 c_iwaki = { # Iwaki
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1970,6 +2162,9 @@ c_iwaki = { # Iwaki
 	}
 }
 c_nushiro = { # Nushiro/Akita
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 11 }
@@ -1994,6 +2189,9 @@ c_nushiro = { # Nushiro/Akita
 	11178.1.1 = { holder = japanese_okawa_1 } # Kaneto
 }
 c_tokisara = { # Tokisara/Dewa
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -2022,6 +2220,9 @@ k_ruucuu = {
 	11066.1.1 = { holder = 0 }
 }
 c_ucinaa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 11 }
@@ -2033,6 +2234,9 @@ c_ucinaa = {
 	11178.1.1 = { holder = ryukyu_tinsun_1 } # Umikanimaci
 }
 c_amami = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }

@@ -303,6 +303,9 @@ d_zhetysu = {
 
 
 c_qayaliq = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 188768
 		government = nomad_government
@@ -370,6 +373,9 @@ c_qayaliq = {
 
 
 c_almaty = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 20 }
@@ -439,6 +445,9 @@ c_almaty = {
 
 
 c_kopathal = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10766.1.1 = {
 		holder = 188768
 		government = nomad_government
@@ -594,6 +603,9 @@ c_kopathal = {
 
 
 c_kaskelen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10766.1.1 = {
 		holder = 188768
 		government = nomad_government
@@ -749,6 +761,9 @@ c_kaskelen = {
 
 
 c_aksuyek = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10766.1.1 = {
 		holder = 188768
 		government = nomad_government
@@ -906,6 +921,9 @@ c_aksuyek = {
 
 
 c_uchkul = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 188768
 		government = nomad_government
@@ -974,6 +992,9 @@ c_uchkul = {
 
 
 c_chuguchak = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867 - Kimeks
 	10867.1.1 = {
 		liege = 0
@@ -1005,6 +1026,9 @@ c_chuguchak = {
 
 
 c_kokpekty = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867 - Kimeks
 	10867.1.1 = {
 		liege = 0
@@ -1035,6 +1059,9 @@ c_kokpekty = {
 }
 
 c_bazarka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867 - Kimeks
 	10867.1.1 = {
 		liege = 0
@@ -1068,6 +1095,9 @@ c_bazarka = {
 
 
 c_guzkol = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 188768
 		government = nomad_government
@@ -1139,6 +1169,9 @@ c_guzkol = {
 
 
 c_lepsink = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 188768
 		government = nomad_government
@@ -1297,6 +1330,9 @@ c_lepsink = {
 
 
 c_emil = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10843.1.19 = {
 		holder = fictional_karluks_17	#fictional herder
@@ -1337,6 +1373,9 @@ c_emil = {
 
 
 c_jinsko = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867 - Basmyls
 	10867.1.1 = {
 		liege = 0
@@ -1371,6 +1410,9 @@ c_jinsko = {
 }
 
 c_ebi-nor = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867 - Basmyls
 	10867.1.1 = {
 		liege = 0
@@ -1406,6 +1448,9 @@ c_ebi-nor = {
 
 
 c_karamay = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10843.1.19 = {
 		holder = 302726	#fictional Uzur Jazaiqj�rgis
@@ -1447,6 +1492,9 @@ c_karamay = {
 
 
 c_iliq = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#10766.1.1 = {
 	#	holder = 188773 # Yagma
 	#}
@@ -1605,6 +1653,9 @@ c_iliq = {
 
 
 c_ghulja = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867 - Basmyls
 	10867.1.1 = {
 		liege = 0
@@ -1713,6 +1764,9 @@ c_ghulja = {
 
 
 c_kash = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867 - Basmyls
 	10867.1.1 = {
 		liege = 0

@@ -216,6 +216,9 @@ d_bavaria = {
 
 
 c_munchen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10548.1.1 = {
 		holder = 190178 #Garibald I
 	}
@@ -395,6 +398,9 @@ c_munchen = {
 
 
 c_eschenlohe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10548.1.1 = {
 		holder = 190178 #Garibald I
 	}
@@ -575,6 +581,9 @@ c_eschenlohe = {
 
 
 c_regensburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 31 }
@@ -759,6 +768,9 @@ c_regensburg = {
 
 
 c_rothenburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10548.1.1 = {
 		holder = 190178 #Garibald I
 	}
@@ -917,6 +929,9 @@ c_rothenburg = {
 
 
 c_geisenhausen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10548.1.1 = {
 		holder = 190178 #Garibald I
 	}
@@ -1096,6 +1111,9 @@ c_geisenhausen = {
 }
 
 c_frontenhausen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10548.1.1 = {
 		holder = 190178 #Garibald I
 	}
@@ -1279,6 +1297,9 @@ c_frontenhausen = {
 
 
 c_falkenstein = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10548.1.1 = {
 		holder = 190178 #Garibald I
 	}
@@ -1458,6 +1479,9 @@ c_falkenstein = {
 
 
 c_ingolstadt = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10548.1.1 = {
 		holder = 190178 #Garibald I
 	}
@@ -1634,6 +1658,9 @@ c_ingolstadt = {
 
 
 c_passau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10751.1.1 = {
 		liege = k_bavaria
 	}
@@ -1931,6 +1958,9 @@ d_nordgau = {
 
 
 c_eichstadt = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10548.1.1={
 		holder = 190178 #Garibald I
 	}
@@ -2108,6 +2138,9 @@ c_eichstadt = {
 
 
 c_leuchtenburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10548.1.1={
 		holder = 190178 #Garibald I
 	}
@@ -2285,6 +2318,9 @@ c_leuchtenburg = {
 
 
 c_parsberg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10548.1.1={
 		holder = 190178 #Garibald I
 	}
@@ -2462,6 +2498,9 @@ c_parsberg = {
 
 
 c_hohenburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10548.1.1={
 		liege = d_nordgau
 		holder = 190178 #Garibald I
@@ -2723,6 +2762,9 @@ d_salzburg = {
 
 
 c_salzburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10753.1.1 = {
 		holder = 190368 #Fagulf
 	}
@@ -2783,6 +2825,9 @@ c_salzburg = {
 
 
 c_berchtesgaden = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10753.1.1 = {
 		holder = 190368 #Fagulf
 	}
@@ -2843,6 +2888,9 @@ c_berchtesgaden = {
 
 
 c_hallstatt = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10753.1.1 = {
 		holder = 190368 #Fagulf
 	}
@@ -2897,6 +2945,9 @@ c_hallstatt = {
 
 
 c_linz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -2952,6 +3003,9 @@ c_linz = {
 
 
 c_schaumberg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10753.1.1 = {
 		holder = 190368 #Fagulf
 	}
@@ -3006,6 +3060,9 @@ c_schaumberg = {
 
 
 c_augsburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 22 }
@@ -3123,6 +3180,9 @@ c_augsburg = {
 
 
 c_alpsee = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		liege = k_bavaria
 	}
@@ -3246,6 +3306,9 @@ c_alpsee = {
 
 
 c_kempten = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		liege = k_bavaria
 	}
@@ -3359,6 +3422,9 @@ c_kempten = {
 
 
 c_ravensburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10693.1.1 = {
 		holder = 190335 #Gotfrid
 	}
@@ -3452,6 +3518,9 @@ c_ravensburg = {
 
 
 c_burgau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		liege = k_bavaria
 	}
@@ -3639,6 +3708,9 @@ d_steyermark = {
 
 
 c_graz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		liege = k_bavaria
 	}
@@ -3762,6 +3834,9 @@ c_graz = {
 
 
 c_pitten = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		liege = k_bavaria
 	}
@@ -3883,6 +3958,9 @@ c_pitten = {
 
 
 c_liebnitz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		liege = k_bavaria
 	}
@@ -4006,6 +4084,9 @@ c_liebnitz = {
 
 
 c_murzzuschlag = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		liege = k_bavaria
 	}
@@ -4197,6 +4278,9 @@ d_osterreich = {
 
 
 c_vienna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 22 }
@@ -4325,6 +4409,9 @@ c_vienna = {
 
 
 c_hohenau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10758.1.1 = {
 		liege = k_bavaria
 	}
@@ -4449,6 +4536,9 @@ c_hohenau = {
 
 
 c_sankt_polten = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10758.1.1 = {
 		liege = k_bavaria
 	}
@@ -4576,6 +4666,9 @@ c_sankt_polten = {
 
 
 c_freistadt = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10758.1.1 = {
 		liege = k_bavaria
 	}
@@ -4703,6 +4796,9 @@ c_freistadt = {
 
 
 c_amstetten = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10758.1.1 = {
 		liege = k_bavaria
 	}
@@ -4831,6 +4927,9 @@ c_amstetten = {
 
 
 c_krems = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10758.1.1 = {
 		liege = k_bavaria
 	}
@@ -4969,6 +5068,9 @@ d_tyrol = {
 
 
 c_innsbruck = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -5116,6 +5218,9 @@ c_innsbruck = {
 }
 
 c_brixen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		liege = k_bavaria
 	}
@@ -5241,6 +5346,9 @@ c_brixen = {
 
 
 c_lienz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		liege = k_bavaria
 	}
@@ -5495,6 +5603,9 @@ d_carinthia = {
 
 
 c_karnten = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -5574,6 +5685,9 @@ c_karnten = {
 
 
 c_kammersberg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		liege = k_bavaria
 	}
@@ -5648,6 +5762,9 @@ c_kammersberg = {
 }
 
 c_knittelfeld = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		liege = k_bavaria
 	}
@@ -5726,6 +5843,9 @@ c_knittelfeld = {
 
 
 c_villach = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -5903,6 +6023,9 @@ d_krain = {
 
 
 c_kranj = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		liege = k_bavaria
 	}
@@ -6000,6 +6123,9 @@ c_kranj = {
 
 
 c_ljubljana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		liege = k_bavaria
 	}
@@ -6100,6 +6226,9 @@ d_istria = {
 }
 
 c_pula = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10569.1.1 = {
 		liege = k_italy
 	}

@@ -153,6 +153,9 @@
 }
 
 c_kasmira = {	
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10600.1.1 = {
 		liege = k_kashmir
 		holder = 188373 # Durlabhavardhana Karkota
@@ -303,6 +306,9 @@ c_kasmira = {
 
 
 c_allai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10600.1.1 = {
 		holder = 188373 # Durlabhavardhana Karkota
 	}
@@ -452,6 +458,9 @@ c_allai = {
 
 
 c_astore = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Palolashahi Dynasty of Palolo Kingdom (c.400-727)
 	#Conquered by Tibetan Empire
 	10727.1.1={
@@ -557,6 +566,9 @@ d_pamir = {
 }
 
 c_gilgit = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10600.1.1 = {
 		liege = k_kashmir
 		holder = 188373 # Durlabhavardhana Karkota
@@ -689,6 +701,9 @@ c_gilgit = {
 
 
 c_yasin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10600.1.1 = {
 		liege = k_kashmir
 		holder = 188373 # Durlabhavardhana Karkota
@@ -823,6 +838,9 @@ c_yasin = {
 
 
 c_golaghmuli = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10600.1.1 = {
 		liege = k_kashmir
 		holder = 188373 # Durlabhavardhana Karkota

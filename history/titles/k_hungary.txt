@@ -208,6 +208,9 @@ d_visegrad = {
 }
 
 c_visegrad = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "k_hungary"
 		holder = 146154
@@ -336,6 +339,9 @@ c_visegrad = {
 }
 
 c_komarom = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10801.1.1 = {
 		change_development_level = 4
 	}
@@ -481,6 +487,9 @@ c_komarom = {
 }
 
 c_esztergom = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 26 }
@@ -592,6 +601,9 @@ c_esztergom = {
 }
 
 c_szekesfehervar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10801.1.1 = {
 		change_development_level = 4
 	}
@@ -737,6 +749,9 @@ c_szekesfehervar = {
 }
 
 c_hewes = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "k_hungary"
 		holder = 146156
@@ -859,6 +874,9 @@ d_somogy = {
 }
 
 c_somogy = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "k_hungary"
 		holder = 146154
@@ -967,6 +985,9 @@ c_somogy = {
 }
 
 c_kolon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "k_hungary"
 		holder = 146154
@@ -1075,6 +1096,9 @@ c_kolon = {
 }
 
 c_tolna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "k_hungary"
 		holder = 146154
@@ -1181,6 +1205,9 @@ c_tolna = {
 }
 
 c_baranya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "k_hungary"
 		holder = 146154
@@ -1375,6 +1402,9 @@ d_nyitra = {
 }
 
 c_nyitra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1436,6 +1466,9 @@ c_nyitra = {
 }
 
 c_gemer = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = "d_moravia"
 		holder = 187000
@@ -1502,6 +1535,9 @@ c_gemer = {
 }
 
 c_orava = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = "d_moravia"
 		holder = 187000
@@ -1571,6 +1607,9 @@ c_orava = {
 }
 
 c_trenscen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = "d_moravia"
 		holder = 187000
@@ -1643,6 +1682,9 @@ c_trenscen = {
 }
 
 c_lipto = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = "d_moravia"
 		holder = 187000
@@ -1706,6 +1748,9 @@ c_lipto = {
 }
 
 c_zolyom = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = "d_moravia"
 		holder = 187000
@@ -1769,6 +1814,9 @@ c_zolyom = {
 }
 
 c_bars = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = "d_moravia"
 		holder = 187000
@@ -1826,6 +1874,9 @@ c_bars = {
 }
 
 c_hont = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "k_hungary"
 		holder = 146154
@@ -1934,6 +1985,9 @@ c_hont = {
 }
 
 c_poszony = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -2159,6 +2213,9 @@ d_ungvar = {
 }
 
 c_ungvar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10739.1.1 = {
 		liege = d_ungvar
 		holder = 146184
@@ -2215,6 +2272,9 @@ c_ungvar = {
 }
 
 c_zemplen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10739.1.1 = {
 		liege = d_ungvar
 		holder = 146184
@@ -2280,6 +2340,9 @@ c_zemplen = {
 }
 
 c_borsod = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = "d_moravia"
 		holder = 187000
@@ -2343,6 +2406,9 @@ c_borsod = {
 }
 
 c_saris = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10739.1.1 = {
 		liege = d_ungvar
 		holder = 146184
@@ -2409,6 +2475,9 @@ c_saris = {
 }
 
 c_spis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -2480,6 +2549,9 @@ c_spis = {
 }
 
 c_abauj = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10739.1.1 = {
 		liege = d_ungvar
 		holder = 146184
@@ -2665,6 +2737,9 @@ d_transcarpathia = {
 }
 
 c_marmaros = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -2724,6 +2799,9 @@ c_marmaros = {
 }
 
 c_bereg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10739.1.1 = {
 		liege = d_ungvar
 		holder = 146184
@@ -2882,6 +2960,9 @@ d_transylvania = {
 }
 
 c_feher = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -2948,6 +3029,9 @@ c_feher = {
 }
 
 c_szekelyfold = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -3025,6 +3109,9 @@ c_szekelyfold = {
 }
 
 c_barcasag = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -3103,6 +3190,9 @@ c_barcasag = {
 }
 
 c_fogaras = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -3165,6 +3255,9 @@ c_fogaras = {
 }
 
 c_torda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -3225,6 +3318,9 @@ c_torda = {
 }
 
 c_beszterce = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -3303,6 +3399,9 @@ c_beszterce = {
 }
 
 c_hunyad = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -3389,6 +3488,9 @@ d_bihar = {
 }
 
 c_bihar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -3465,6 +3567,9 @@ c_bihar = {
 }
 
 c_zarand = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -3540,6 +3645,9 @@ c_zarand = {
 }
 
 c_bekes = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -3615,6 +3723,9 @@ c_bekes = {
 }
 
 c_szabolcs = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "k_hungary"
 		holder = 146156
@@ -3692,6 +3803,9 @@ c_szabolcs = {
 }
 
 c_szatmar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -3796,6 +3910,9 @@ d_temes = {
 }
 
 c_temes = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -3872,6 +3989,9 @@ c_temes = {
 }
 
 c_arad = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -3947,6 +4067,9 @@ c_arad = {
 }
 
 c_krasso = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -4029,6 +4152,9 @@ c_krasso = {
 }
 
 c_keve = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -4111,6 +4237,9 @@ c_keve = {
 }
 
 c_csanad = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "k_hungary"
 		holder = 146155
@@ -4246,6 +4375,9 @@ d_bacs = {
 }
 
 c_bacs = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -4302,6 +4434,9 @@ c_bacs = {
 }
 
 c_bodrog = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "d_transylvania"
 		holder = 146143
@@ -4358,6 +4493,9 @@ c_bodrog = {
 }
 
 c_csongrad = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "k_hungary"
 		holder = 146155
@@ -4503,6 +4641,9 @@ d_gyor = {
 }
 
 c_gyor = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "k_hungary"
 		holder = 146154
@@ -4608,6 +4749,9 @@ c_gyor = {
 }
 
 c_sopron = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "k_hungary"
 		holder = 146154
@@ -4713,6 +4857,9 @@ c_sopron = {
 }
 
 c_vas = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "k_hungary"
 		holder = 146154
@@ -4821,6 +4968,9 @@ c_vas = {
 }
 
 c_veszprem = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10685.1.1 = {
 		liege = "k_hungary"
 		holder = 146154
@@ -4955,6 +5105,9 @@ d_syrmia = {
 }
 
 c_szerem = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_vidin"
 	}
@@ -5042,6 +5195,9 @@ c_szerem = {
 }
 
 c_vukovar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = "d_slavonia"
 		holder = 168292

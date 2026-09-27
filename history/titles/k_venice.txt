@@ -191,6 +191,9 @@ d_venice = {
 
 
 c_venezia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 41 }
@@ -363,6 +366,9 @@ c_venezia = {
 
 
 c_veneto = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10540.1.1 = {
 		liege = e_byzantium
 	}

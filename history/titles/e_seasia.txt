@@ -126,6 +126,9 @@
 }
 
 c_shicheng = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 13 }
 	11178.1.1 = { change_development_level = 12 }
@@ -153,6 +156,9 @@ d_nghe_an = {
 }
 
 c_nghe_an = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 15 }
@@ -171,6 +177,9 @@ c_nghe_an = {
 	}
 }
 c_nam_dinh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 20 }
@@ -190,6 +199,9 @@ c_nam_dinh = {
 	}
 }
 c_long_hung = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 } 
 	11066.1.1 = { change_development_level = 9 } 
 	11178.1.1 = { change_development_level = 17 }
@@ -220,6 +232,9 @@ d_hai_dong = {
 }
 
 c_hai_dong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 } 
 	11066.1.1 = { change_development_level = 11 } 
 	11178.1.1 = { change_development_level = 19 }
@@ -239,6 +254,9 @@ c_hai_dong = {
 }
 
 c_binh_nguyen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 } 
 	11066.1.1 = { change_development_level = 7 } 
 	11178.1.1 = { change_development_level = 12 }
@@ -269,6 +287,9 @@ d_lam_tay = {
 }
 
 c_lam_tay = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }
@@ -287,6 +308,9 @@ c_lam_tay = {
 	}
 }
 c_quoc_oai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 16 }
@@ -305,6 +329,9 @@ c_quoc_oai = {
 	}
 }
 c_thang_long = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 20 }
 	11178.1.1 = { change_development_level = 40 }
@@ -322,6 +349,9 @@ c_thang_long = {
 	}
 }
 c_dali = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 11 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 32 }
@@ -352,6 +382,9 @@ d_tuodong = {
 }
 
 c_dongchuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 11 }
@@ -382,6 +415,9 @@ d_jianchuan = {
 }
 
 c_chengji = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -412,6 +448,9 @@ d_huichuan = {
 }
 
 c_jianchang_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 13 }
@@ -427,6 +466,9 @@ c_jianchang_1 = {
 	}
 }
 c_xiangcheng = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }
@@ -458,6 +500,9 @@ d_yongchang = {
 }
 
 c_yongchang_jingmadian = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 16 }
@@ -474,6 +519,9 @@ c_yongchang_jingmadian = {
 	}
 }
 c_yongchang_yongchang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 24 }
@@ -490,6 +538,9 @@ c_yongchang_yongchang = {
 	}
 }
 c_buri = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }
@@ -507,6 +558,9 @@ c_buri = {
 }
 
 c_nyaungshwe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -532,6 +586,9 @@ c_nyaungshwe = {
 	}
 }
 c_mongnai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 12 }
@@ -549,6 +606,9 @@ c_mongnai = {
 	}
 }
 c_hsenwi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 15 }
@@ -610,6 +670,9 @@ d_tengchong = {
 }
 
 c_putao = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 2 }
 	11178.1.1 = { change_development_level = 4 }
@@ -626,6 +689,9 @@ c_putao = {
 	}
 }
 c_monyin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 6 }
@@ -642,6 +708,9 @@ c_monyin = {
 	}
 }
 c_myitkyina = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 2 }
 	11178.1.1 = { change_development_level = 5 }
@@ -658,6 +727,9 @@ c_myitkyina = {
 	}
 }
 c_momauk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 11 }
@@ -675,6 +747,9 @@ c_momauk = {
 }
 
 c_sam_nuea = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 8 }
@@ -707,6 +782,9 @@ d_tonghai = {
 }
 
 c_muze = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 12 }
@@ -722,6 +800,9 @@ c_muze = {
 	}
 }
 c_moeng_laem = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 11 }
@@ -740,6 +821,9 @@ c_moeng_laem = {
 	}
 }
 c_nandian = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 13 }
@@ -757,6 +841,9 @@ c_nandian = {
 }
 
 c_weiyuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 6 }
@@ -858,6 +945,9 @@ k_viet = {
 }
 
 c_nongdong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = nanzhao_meng_1
 	}
@@ -870,6 +960,9 @@ c_nongdong = {
 }
 
 c_weichu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = nanzhao_meng_1
 	}
@@ -882,6 +975,9 @@ c_weichu = {
 }
 
 c_jianchuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = bai_du_1
 	}
@@ -894,6 +990,9 @@ c_jianchuan = {
 }
 
 c_huichuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = dali_duan_0
 	}
@@ -920,6 +1019,9 @@ d_yinsheng = {
 }
 
 c_yinsheng = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = bai_dong_4
 	}
@@ -932,6 +1034,9 @@ c_yinsheng = {
 }
 
 c_shanchan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = bai_yang_3_1
 	}
@@ -944,6 +1049,9 @@ c_shanchan = {
 }
 
 c_tonghai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = dali_gao_36
 	}
@@ -956,6 +1064,9 @@ c_tonghai = {
 }
 
 c_zuining = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = dali_gao_36
 	}

@@ -110,6 +110,9 @@ d_manding = {
 
 
 c_niani = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 20 }
@@ -180,6 +183,9 @@ c_niani = {
 
 
 c_dakajalan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 20 }
@@ -280,6 +286,9 @@ c_dakajalan = {
 
 
 c_kankan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1={
 		government = tribal_government
 		liege="d_manding"
@@ -347,6 +356,9 @@ c_kankan = {
 
 
 c_sibi_mali = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 20 }
@@ -445,6 +457,9 @@ c_sibi_mali = {
 }
 
 c_tabon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 20 }
@@ -544,6 +559,9 @@ c_tabon = {
 
 
 c_bure = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 20 }
@@ -614,6 +632,9 @@ c_bure = {
 
 
 c_bambuk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 20 }
@@ -698,6 +719,9 @@ c_bambuk = {
 
 
 c_gangaran = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 20 }
@@ -782,6 +806,9 @@ c_gangaran = {
 
 
 c_konko = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = tribal_government
 		holder = malinke0051
@@ -817,6 +844,9 @@ c_konko = {
 
 
 c_bundu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#fictional Soninke rulers
 	10850.1.1 = {
 		government = tribal_government
@@ -859,6 +889,9 @@ c_bundu = {
 
 
 c_futa_jalon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = malinke0041
 		government = tribal_government
@@ -894,6 +927,9 @@ c_futa_jalon = {
 
 
 c_timbi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = mel0071
 		government = tribal_government
@@ -929,6 +965,9 @@ c_timbi = {
 
 
 c_kokoli = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = wolof0091
 		government = tribal_government
@@ -969,6 +1008,9 @@ d_loma = {
 }
 
 c_toma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 0 }
 	11066.1.1 = { change_development_level = 2 }
 	11178.1.1 = { change_development_level = 4 }
@@ -1008,6 +1050,9 @@ c_toma = {
 
 
 c_kuranko = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = tribal_government
 		holder = malinke0007
@@ -1052,6 +1097,9 @@ c_kuranko = {
 
 
 c_kisi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		government = tribal_government
 		holder = malinke0007
@@ -1099,6 +1147,9 @@ c_kisi = {
 
 
 c_solimana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = malinke0041
 		government = tribal_government

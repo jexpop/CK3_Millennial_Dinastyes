@@ -118,6 +118,9 @@ d_bedford = {
 
 
 c_middlesex = {	
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 9 }
 	11066.1.1 = { change_development_level = 13 }
 	11178.1.1 = { change_development_level = 37 }
@@ -237,6 +240,9 @@ b_southwark = {	#Fictional, to allow character placement.
 }
 
 c_essex = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 18 }
 
 	10758.1.1 = {
@@ -305,6 +311,9 @@ c_essex = {
 
 
 c_bedford = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 14 }
 
 	10745.1.1 = {
@@ -370,6 +379,9 @@ c_bedford = {
 
 
 c_hertfordshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10758.1.1 = {
 		holder = 205265
 	}
@@ -485,6 +497,9 @@ c_hertfordshire = {
 }
 
 c_buckinghamshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10758.1.1 = {
 		holder = 205265
 	}
@@ -638,6 +653,9 @@ d_northumberland = {
 
 
 c_northumberland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 24 }
@@ -715,6 +733,9 @@ c_northumberland = {
 }
 
 c_durham = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = "d_northumberland"
 		holder = 194104
@@ -792,6 +813,9 @@ c_durham = {
 }
 
 c_cumberland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 205237
 		liege = d_northumberland
@@ -920,6 +944,9 @@ d_lancaster = {
 }
 
 c_lancashire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = "d_northumberland"
 		holder = 205228
@@ -975,6 +1002,9 @@ c_lancashire = {
 
 
 c_westmorland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = "d_northumberland"
 		holder = 205228
@@ -1042,6 +1072,9 @@ c_westmorland = {
 
 
 c_cheshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10758.1.1 = {
 		liege = "d_hereford"
 		holder = 205081
@@ -1111,6 +1144,9 @@ c_cheshire = {
 }
 
 c_derby = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10758.1.1 = {
 		liege = "d_hereford"
 		holder = 205081
@@ -1222,6 +1258,9 @@ d_york = {
 }
 
 c_north_riding = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 20 }
@@ -1306,6 +1345,9 @@ c_north_riding = {
 }
 
 c_east_riding = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Earls of Richmond used for this title
 	10765.1.1 = {
 		liege = "d_northumberland"
@@ -1367,6 +1409,9 @@ c_east_riding = {
 
 
 c_west_riding = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Earls of Richmond used for this title
 	10765.1.1 = {
 		liege = "d_northumberland"
@@ -1439,6 +1484,9 @@ c_west_riding = {
 }
 
 c_lincolnshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1537,6 +1585,9 @@ d_norfolk = {
 
 
 c_norfolk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 21 }
@@ -1600,6 +1651,9 @@ c_norfolk = {
 
 
 c_suffolk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 205015
 	}
@@ -1668,6 +1722,9 @@ c_suffolk = {
 
 
 c_cambridgeshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 205015
 	}
@@ -1762,6 +1819,9 @@ d_hereford = { # Mercia
 
 
 c_warwickshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 16 }
@@ -1830,6 +1890,9 @@ c_warwickshire = {
 
 
 c_leicestershire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 20 }
@@ -1881,6 +1944,9 @@ c_leicestershire = {
 
 
 c_nottinghamshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10758.1.1 = {
 		holder = 205072
 	}
@@ -1933,6 +1999,9 @@ c_nottinghamshire = {
 
 
 c_staffordshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10758.1.1 = {
 		holder = 205072
 	}
@@ -1985,6 +2054,9 @@ c_staffordshire = {
 
 
 c_worcestershire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10758.1.1 = {
 		liege = "d_hereford"
 		holder = 205080
@@ -2087,6 +2159,9 @@ c_worcestershire = {
 
 
 c_huntingdonshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 13 }
 
 	10758.1.1 = {
@@ -2153,6 +2228,9 @@ c_huntingdonshire = {
 
 
 c_northamptonshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 17 }
 
 	10758.1.1 = {
@@ -2219,6 +2297,9 @@ c_northamptonshire = {
 
 
 c_shropshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10844.1.1 = {
 		holder = 81831 #Rhodri Mawr the Great
 	}
@@ -2237,6 +2318,9 @@ c_shropshire = {
 
 
 c_hereford = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 14 }
 
 	10740.1.1 = {
@@ -2346,6 +2430,9 @@ d_gloucester = {
 
 
 c_gloucestershire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 24 }
 
 	10759.1.1 = {
@@ -2423,6 +2510,9 @@ c_gloucestershire = {
 
 
 c_wiltshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		holder = 205180
 	}
@@ -2467,6 +2557,9 @@ c_wiltshire = {
 
 
 c_oxfordshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 15 }
 
 	10745.1.1 = {
@@ -2526,6 +2619,9 @@ c_oxfordshire = {
 
 
 c_berkshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	
 	
 	10745.1.1 = {
@@ -2640,6 +2736,9 @@ d_canterbury = {
 
 
 c_kent = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 19 }
@@ -2909,6 +3008,9 @@ b_canterbury = {
 
 
 c_surrey = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 14 }
 
 	10760.1.1 = {
@@ -2949,6 +3051,9 @@ c_surrey = {
 }
 
 c_sussex = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 205268
 	}
@@ -3036,6 +3141,9 @@ d_somerset = {
 
 
 c_hampton = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 24 }
@@ -3110,6 +3218,9 @@ c_hampton = {
 
 
 c_isle_of_wight = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		holder = 205180
 	}
@@ -3188,6 +3299,9 @@ c_isle_of_wight = {
 }
 
 c_dorset = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		holder = 205180
 	}
@@ -3224,6 +3338,9 @@ c_dorset = {
 
 
 c_somerset = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 18 }
@@ -3381,6 +3498,9 @@ d_cornwall = {
 
 
 c_devon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10360.1.1 = {
 		holder = 159431 #Conan Meriadoc
 	}
@@ -3513,6 +3633,9 @@ c_devon = {
 
 
 c_cornwall = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10360.1.1 = {
 		holder = 159431 #Conan Meriadoc
 	}

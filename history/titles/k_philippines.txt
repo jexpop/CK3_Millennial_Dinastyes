@@ -5,6 +5,9 @@
 
 #d_PHI_tondo
 c_PHI_tondo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 22 }
@@ -22,6 +25,9 @@ c_PHI_tondo = {
 }
 
 c_PHI_kalilayan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }
@@ -39,6 +45,9 @@ c_PHI_kalilayan = {
 }
 
 c_PHI_ibalong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 11 }
@@ -56,6 +65,9 @@ c_PHI_ibalong = {
 }
 
 c_PHI_ma-i = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 18 }
@@ -73,6 +85,9 @@ c_PHI_ma-i = {
 }
 
 c_PHI_masbate = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -91,6 +106,9 @@ c_PHI_masbate = {
 
 #d_PHI_sandao
 c_PHI_taytay = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }
@@ -108,6 +126,9 @@ c_PHI_taytay = {
 }
 
 c_PHI_south_palawan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -126,6 +147,9 @@ c_PHI_south_palawan = {
 
 #d_PHI_ilocana
 c_PHI_pangasinan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 16 }
@@ -143,6 +167,9 @@ c_PHI_pangasinan = {
 }
 
 c_PHI_samtoy = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 12 }
@@ -160,6 +187,9 @@ c_PHI_samtoy = {
 }
 
 c_PHI_ivatan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 2 }
 	11178.1.1 = { change_development_level = 4 }
@@ -177,6 +207,9 @@ c_PHI_ivatan = {
 }
 
 c_PHI_igorot = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 6 }
@@ -195,6 +228,9 @@ c_PHI_igorot = {
 
 #d_PHI_cagayan
 c_PHI_cagayan_valley = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 12 }
@@ -212,6 +248,9 @@ c_PHI_cagayan_valley = {
 }
 
 c_PHI_kasiguranin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -232,6 +271,9 @@ c_PHI_kasiguranin = {
 
 #d_PHI_visayas
 c_PHI_panay = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 17 }
@@ -254,6 +296,9 @@ c_PHI_panay = {
 }
 
 c_PHI_buglas = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }
@@ -271,6 +316,9 @@ c_PHI_buglas = {
 }
 
 c_PHI_bool_and_cebu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 22 }
@@ -288,6 +336,9 @@ c_PHI_bool_and_cebu = {
 }
 
 c_PHI_tandaya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 11 }
@@ -305,6 +356,9 @@ c_PHI_tandaya = {
 }
 
 c_PHI_samar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -323,6 +377,9 @@ c_PHI_samar = {
 
 #d_PHI_maguindanao
 c_PHI_lanao = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 11 }
@@ -340,6 +397,9 @@ c_PHI_lanao = {
 }
 
 c_PHI_cotabato = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 14 }
@@ -357,6 +417,9 @@ c_PHI_cotabato = {
 }
 
 c_PHI_zamboanga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }
@@ -379,6 +442,9 @@ c_PHI_zamboanga = {
 }
 
 c_PHI_maguindanao = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 17 }
@@ -396,6 +462,9 @@ c_PHI_maguindanao = {
 }
 
 c_PHI_sulu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 22 }
@@ -433,6 +502,9 @@ d_PHI_butuan = {
 	}
 }
 c_PHI_butuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 20 }
@@ -462,6 +534,9 @@ c_PHI_butuan = {
 }
 
 c_PHI_calagan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 11 }
@@ -491,6 +566,9 @@ c_PHI_calagan = {
 }
 
 c_PHI_mandaya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 7 }
@@ -508,6 +586,9 @@ c_PHI_mandaya = {
 }
 
 c_PHI_sarangani = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }

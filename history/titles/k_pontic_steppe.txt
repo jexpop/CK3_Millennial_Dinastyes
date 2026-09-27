@@ -89,6 +89,9 @@ d_kizilyedisan = {
 }
 
 c_ladyzyn = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		holder = 146214
 		government = nomad_government
@@ -137,6 +140,9 @@ c_ladyzyn = {
 }
 
 c_uman = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		holder = 146214
 		government = nomad_government
@@ -188,6 +194,9 @@ c_uman = {
 }
 
 c_cherkassy = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		holder = 146214
 		government = nomad_government
@@ -236,6 +245,9 @@ c_cherkassy = {
 }
 
 c_odessa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		holder = 146214
 		government = nomad_government
@@ -285,6 +297,9 @@ c_odessa = {
 }
 
 c_kherson = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		holder = 146214
 		government = nomad_government
@@ -336,6 +351,9 @@ c_kherson = {
 
 
 c_dnipro = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		holder = 146214
 		government = nomad_government
@@ -384,6 +402,9 @@ c_dnipro = {
 }
 
 c_lower_dniepr = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		holder = 146214
 		government = nomad_government
@@ -504,6 +525,9 @@ d_levedia = {
 }
 
 c_oleshye = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10691.1.1 = {
 		liege = d_levedia
 		holder = 74007
@@ -612,6 +636,9 @@ c_oleshye = {
 
 
 c_khortytsia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10691.1.1 = {
 		liege = d_levedia
 		holder = 74007
@@ -714,6 +741,9 @@ c_khortytsia = {
 
 
 c_bakhmut = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10691.1.1 = {
 		liege = d_levedia
 		holder = 74007
@@ -821,6 +851,9 @@ c_bakhmut = {
 }
 
 c_lozova = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10691.1.1 = {
 		liege = d_levedia
 		holder = 74007
@@ -928,6 +961,9 @@ c_lozova = {
 
 
 c_samar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10691.1.1 = {
 		liege = d_levedia
 		holder = 74007
@@ -1105,6 +1141,9 @@ d_don_valley = {
 
 
 c_tana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10654.1.1 = {
 		liege = "d_levedia"
 		holder = 74004
@@ -1212,6 +1251,9 @@ c_tana = {
 }
 
 c_kuzeytorg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10654.1.1 = {
 		liege = "d_levedia"
 		holder = 74004
@@ -1320,6 +1362,9 @@ c_kuzeytorg = {
 
 
 c_golden_hills = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10654.1.1 = {
 		liege = "d_don_valley"
 		holder = 74004
@@ -1419,6 +1464,9 @@ c_golden_hills = {
 
 
 c_kazanskaya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10654.1.1 = {
 		liege = "d_don_valley"
 		holder = 74004
@@ -1519,6 +1567,9 @@ c_kazanskaya = {
 }
 
 c_millerovo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10654.1.1 = {
 		liege = "d_don_valley"
 		holder = 74004
@@ -1623,6 +1674,9 @@ c_millerovo = {
 
 
 c_sarysyn = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10654.1.1 = {
 		liege = "d_don_valley"
 		holder = 74004
@@ -1734,6 +1788,9 @@ c_sarysyn = {
 }
 
 c_kerch = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1809,6 +1866,9 @@ c_kerch = {
 }
 
 c_kalos_limen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10691.1.1 = {
 		liege = d_levedia
 		holder = 74007
@@ -1956,6 +2016,9 @@ c_kalos_limen = {
 
 
 c_perekop = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10691.1.1 = {
 		liege = d_levedia
 		holder = 74007

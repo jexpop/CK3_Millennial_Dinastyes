@@ -264,6 +264,9 @@ d_gurjara_mandala = {
 
 
 c_sarasvata_mandala = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10745.1.1 = {
@@ -352,6 +355,9 @@ c_sarasvata_mandala = {
 }
 
 c_khetaka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10475.1.1 = {
@@ -496,6 +502,9 @@ c_khetaka = {
 
 
 c_mohadavasaka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 191920 #Hunas
 		liege = d_dadhipadra
@@ -605,6 +614,9 @@ b_mohadavasaka = {
 
 
 c_dhamalpur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10745.1.1 = {
 		liege = d_saurashtra
 		holder = 188063 # Vanaraja Capa
@@ -687,6 +699,9 @@ d_anartta = {
 }
 
 c_dvaraka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		liege = d_saurashtra
 		holder = 188265 # Pushyadeva Saindhava
@@ -804,6 +819,9 @@ c_dvaraka = {
 
 
 c_kutch = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kathis of Kanthakota
 	10768.1.1 = {
 		holder = 191682
@@ -1019,6 +1037,9 @@ d_saurashtra = {
 
 
 c_bhumilka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		liege = d_saurashtra
 		holder = 188265 # Pushyadeva Saindhava
@@ -1137,6 +1158,9 @@ c_bhumilka = {
 
 
 c_somnath = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10740.1.1 = {
@@ -1255,6 +1279,9 @@ c_somnath = {
 
 
 c_vardhamana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10502.1.1 = {
 		holder = 191645 #Dronasimha
 		liege = d_saurashtra
@@ -1379,6 +1406,9 @@ c_vardhamana = {
 
 
 c_valabhi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10475.1.1 = {
 		holder = 191643 #Bhatarka Maitraka
 	}
@@ -1628,6 +1658,9 @@ d_lata = {
 
 
 c_navasarika = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10570.1.1 = {
 		holder = 191624 #Dadda I Pratihara
 		liege = d_lata
@@ -1790,6 +1823,9 @@ b_navasarika = {
 }
 
 c_daman = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Up to 670 under the Sendrakas and then the Maitrakas
 	10670.1.1 = {
 		holder = 191632 #Jayasimha Chalukya (of Lata)
@@ -1910,6 +1946,9 @@ c_daman = {
 
 
 c_vadodara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10570.1.1 = {
 		holder = 191624 #Dadda I Pratihara
 		liege = d_lata

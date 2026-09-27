@@ -257,6 +257,9 @@ d_kalyani = {
 }
 
 c_kalyani = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10543.1.1 = {
@@ -449,6 +452,9 @@ c_kalyani = {
 
 
 c_sagar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		holder = 192035 #Bhimasakti Sendraka
 		liege = k_karnata
@@ -657,6 +663,9 @@ d_gangavadi = {
 }
 
 c_parivi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Nidugal Cholas
 	10750.1.1 = {
 		holder = nidugal_cholas_1 #Dhananjaya
@@ -729,6 +738,9 @@ c_parivi = {
 }
 
 c_srirangapatna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10350.1.1 = {
 		holder = 74676
 		liege = d_gangavadi
@@ -846,6 +858,9 @@ c_srirangapatna = {
 
 
 c_mahishaka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 192016 #Mangala Nolambadhiraja
 		liege = d_nulambavadi
@@ -921,6 +936,9 @@ c_mahishaka = {
 
 
 c_talakad = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10350.1.1 = {
 		holder = 74676
 		liege = d_gangavadi
@@ -1091,6 +1109,9 @@ d_nulambavadi = {
 
 
 c_uchangidurga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 192016 #Mangala Nolambadhiraja
 		liege = d_nulambavadi
@@ -1194,6 +1215,9 @@ c_uchangidurga = {
 
 
 c_gutti = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 192019 #Ganda Sankili Vaidumba
 		liege = k_karnata
@@ -1254,6 +1278,9 @@ c_gutti = {
 
 
 c_adoni = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 192016 #Mangala Nolambadhiraja
 		liege = d_nulambavadi
@@ -1346,6 +1373,9 @@ c_adoni = {
 
 
 c_banavasi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10610.1.1 = {
 		holder = 192001 #Aluvarasa I Alupa
 		liege = k_karnata
@@ -1497,6 +1527,9 @@ d_raichur_doab = {
 
 
 c_idatarainadu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 74712
 		liege = d_kalyani
@@ -1574,6 +1607,9 @@ c_idatarainadu = {
 
 
 c_vatapi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		holder = 192035 #Bhimasakti Sendraka
 		liege = k_karnata
@@ -1655,6 +1691,9 @@ c_vatapi = {
 
 
 c_vaijayanti = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 74712
 		liege = d_kalyani
@@ -1736,6 +1775,9 @@ c_vaijayanti = {
 
 
 c_koppam = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 74712
 		liege = d_kalyani

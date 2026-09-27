@@ -141,6 +141,9 @@ d_soghd = {
 
 
 c_bukhara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 41 }
@@ -218,6 +221,9 @@ c_bukhara = {
 
 
 c_kishsh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -256,6 +262,9 @@ c_kishsh = {
 }
 
 c_kalif = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -295,6 +304,9 @@ c_kalif = {
 
 
 c_nakhshab = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		holder = sogdian0109 #Abu Ishaq Ibrahim, last Bukhara Khuda (it is unclear whether he still held any lands historically at this point, I gave him this for gameplay reasons, to give Ismail Samani a landed rival.)
 		liege = k_transoxiana
@@ -336,6 +348,9 @@ c_nakhshab = {
 
 
 c_firabr = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		holder = 163157 #Ismail Samani 
 		liege = "k_transoxiana"
@@ -380,6 +395,9 @@ c_firabr = {
 
 
 c_dabusiya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		holder = 163099  
 	}
@@ -422,6 +440,9 @@ c_dabusiya = {
 
 
 c_samarkand = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 12 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 30 }
@@ -595,6 +616,9 @@ d_badakhshan = {
 }
 
 c_badakhshan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		liege = "k_transoxiana"
 		holder = extra_badakshanshah_1
@@ -679,6 +703,9 @@ c_badakhshan = {
 
 
 c_munjan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		liege = "k_transoxiana"
 		holder = extra_badakshanshah_1
@@ -763,6 +790,9 @@ c_munjan = {
 
 
 c_wakhan = { #the fictional rulers here represent unnamed local lords that were referenced by Arabic chroniclers 
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 8 }
@@ -818,6 +848,9 @@ c_wakhan = { #the fictional rulers here represent unnamed local lords that were 
 
 
 c_shughnan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 8 }
@@ -907,6 +940,9 @@ c_shughnan = {
 
 
 c_karran = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		liege = "k_transoxiana"
 		holder = extra_badakshanshah_1
@@ -1057,6 +1093,9 @@ d_khuttal = {
 
 
 c_khuttal = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10650.1.1 = {
 		liege = d_merv
 	}
@@ -1103,6 +1142,9 @@ c_khuttal = {
 
 
 c_wakhsh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10650.1.1 = {
 		liege = d_merv
 	}
@@ -1148,6 +1190,9 @@ c_wakhsh = {
 }
 
 c_chaghaniyan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10650.1.1 = {
 		liege = d_merv
 	}
@@ -1194,6 +1239,9 @@ c_chaghaniyan = {
 
 
 c_rasht = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10650.1.1 = {
 		liege = d_merv
 	}
@@ -1238,6 +1286,9 @@ c_rasht = {
 }
 
 c_oshrusana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1358,6 +1409,9 @@ c_oshrusana = {
 
 
 c_zarafshan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		holder = 217327
 		government = clan_government
@@ -1429,6 +1483,9 @@ d_ferghana = {
 
 
 c_ferghana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1516,6 +1573,9 @@ c_ferghana = {
 
 
 c_khojand = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1594,6 +1654,9 @@ c_khojand = {
 }
 
 c_isfara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1666,6 +1729,9 @@ c_isfara = {
 
 
 c_nasaiya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10718.1.1 =  {
 		liege = d_ferghana
 		holder = 248312
@@ -1741,6 +1807,9 @@ c_nasaiya = {
 }
 
 c_uzgend = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10718.1.1 =  {
 		liege = d_ferghana
 		holder = 248312
@@ -1817,6 +1886,9 @@ c_uzgend = {
 
 
 c_nasrabad = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10718.1.1={
 		liege=d_ferghana
 		holder=248312
@@ -1998,6 +2070,9 @@ d_khorezm = {
 
 
 c_gurganj = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -2094,6 +2169,9 @@ c_gurganj = {
 }
 
 c_zamakhshar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -2187,6 +2265,9 @@ c_zamakhshar = {
 
 
 c_darghan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Samanids
 	10300.1.1 = {
 		liege = d_khorezm
@@ -2276,6 +2357,9 @@ c_darghan = {
 
 
 c_kath = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Samanids
 	10300.1.1 = {
 		liege = d_khorezm
@@ -2364,6 +2448,9 @@ c_kath = {
 }
 
 c_ghardaman = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Samanids
 	10300.1.1 = {
 		liege = d_khorezm
@@ -2452,6 +2539,9 @@ c_ghardaman = {
 }
 
 c_khiva = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -2545,6 +2635,9 @@ c_khiva = {
 
 
 c_kurdar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Samanids
 	10300.1.1 = {
 		liege = d_khorezm
@@ -2662,6 +2755,9 @@ d_uzboy = {
 
 
 c_sarykamysh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 188680 # fictitious assignment
 		government = tribal_government
@@ -2718,6 +2814,9 @@ c_sarykamysh = {
 }
 
 c_kurtysh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 188680 # fictitious assignment
 		government = tribal_government
@@ -2775,6 +2874,9 @@ c_kurtysh = {
 
 
 c_uzboy = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 188680 # fictitious assignment
 		government = tribal_government
@@ -2827,6 +2929,9 @@ c_uzboy = {
 }
 
 c_nebit_dag = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 188680 # fictitious assignment
 		government = tribal_government

@@ -114,6 +114,9 @@ d_xigaze = {
 }
 
 c_xigaze = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10619.1.1={
 		liege = "d_xigaze"
 	}
@@ -212,6 +215,9 @@ c_xigaze = {
 
 
 c_gyangze = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10619.1.1={
 		liege = "d_xigaze"
 	}
@@ -327,6 +333,9 @@ c_gyangze = {
 
 
 c_kangmar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10400.1.1={
 		liege = "d_sagya"
 	}
@@ -557,6 +566,9 @@ d_sagya = {
 
 
 c_sagya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10400.1.1={
 		liege="d_sagya"
 	}
@@ -671,6 +683,9 @@ c_sagya = {
 }
 
 c_nyalam = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10400.1.1={
 		liege = "d_sagya"
 	}
@@ -769,6 +784,9 @@ c_nyalam = {
 
 
 c_gyirong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung conquered by Tibet
 	10625.1.1 = {
 		liege = "d_sagya"
@@ -863,6 +881,9 @@ c_gyirong = {
 
 
 c_kyakyaru = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung conquered by Tibet
 	10625.1.1={
 		liege = "d_sagya"
@@ -1065,6 +1086,9 @@ d_ngamring = {
 }
 
 c_kagar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10619.1.1={
 		liege = "d_ngamring"
 	}
@@ -1163,6 +1187,9 @@ c_kagar = {
 
 
 c_caze = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10619.1.1={
 		liege = "d_ngamring"
 	}
@@ -1260,6 +1287,9 @@ c_caze = {
 }
 
 c_xaitongmoin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10619.1.1={
 		liege = "d_ngamring"
 	}
@@ -1467,6 +1497,9 @@ d_nyima = {
 }
 
 c_nyima = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung Kingdom conquered by Tibetan Empire
 	10625.1.1={
 		liege = "d_nyima"
@@ -1676,6 +1709,9 @@ c_nyima = {
 
 
 c_aso = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung Kingdom conquered by Tibetan Empire
 	10625.1.1={
 		liege = "d_nyima"
@@ -1775,6 +1811,9 @@ c_aso = {
 
 
 c_xainza = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung Kingdom conquered by Tibetan Empire
 	10625.1.1={
 		liege = "d_nyima"

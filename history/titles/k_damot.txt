@@ -55,6 +55,9 @@
 
 
 c_damot = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10763.1.1 = {
 		liege = "d_damot"
 	holder = 145970
@@ -106,6 +109,9 @@ c_damot = {
 
 
 c_berta = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -146,6 +152,9 @@ c_berta = {
 
 
 c_wellega = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -188,6 +197,9 @@ c_wellega = {
 
 
 c_innarya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10763.1.1 = {
 		liege = "d_damot"
 	holder = 145970
@@ -239,6 +251,9 @@ c_innarya = {
 
 
 c_kaffa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 6 }
@@ -281,6 +296,9 @@ c_kaffa = {
 
 
 c_welamo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 6 }
@@ -320,6 +338,9 @@ c_welamo = {
 
 
 c_gamo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -359,6 +380,9 @@ c_gamo = {
 
 
 c_sharka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 8 }
@@ -417,6 +441,9 @@ c_sharka = {
 
 
 c_burji = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -456,6 +483,9 @@ c_burji = {
 
 
 c_dara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -515,6 +545,9 @@ c_dara = {
 
 
 c_hadya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 8 }

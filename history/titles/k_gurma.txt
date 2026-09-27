@@ -58,6 +58,9 @@
 }
 
 c_gurma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		government = tribal_government
 		holder = gur0067
@@ -115,6 +118,9 @@ c_gurma = {
 
 
 c_bura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 6 }
@@ -171,6 +177,9 @@ c_bura = {
 
 
 c_say = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 6 }
@@ -225,6 +234,9 @@ c_say = {
 
 
 c_biun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		government = tribal_government
 		holder = gur0027
@@ -281,6 +293,9 @@ d_upper_gurma = {
 }
 
 c_oudalan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		government = tribal_government
 		holder = gur0072
@@ -336,6 +351,9 @@ c_oudalan = {
 
 
 c_kurumba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		government = tribal_government
 		holder = gur0072
@@ -391,6 +409,9 @@ c_kurumba = {
 
 
 c_upper_gurma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		government = tribal_government
 		holder = gur0058
@@ -447,6 +468,9 @@ d_yatenga = {
 }
 
 c_yatenga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		government = tribal_government
 		holder = marka0013
@@ -492,6 +516,9 @@ c_yatenga = {
 
 
 c_gondo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		government = tribal_government
 		holder = gur0058
@@ -546,6 +573,9 @@ c_gondo = {
 }
 
 c_seno = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 6 }
@@ -595,6 +625,9 @@ c_seno = {
 
 
 c_bandiagara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 6 }

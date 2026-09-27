@@ -1077,6 +1077,9 @@ d_dongji = {
 }
 
 c_henan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 16 }
 	11066.1.1 = { change_development_level = 25 }
 
@@ -1096,6 +1099,9 @@ c_henan = {
 }
 
 c_ruzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -1136,6 +1142,9 @@ d_biansong = {
 }
 
 c_bianzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 40 }
 
@@ -1156,6 +1165,9 @@ c_bianzhou = {
 }
 
 c_songzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 25 }
 
@@ -1177,6 +1189,9 @@ c_songzhou = {
 }
 
 c_shanzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -1198,6 +1213,9 @@ c_shanzhou = {
 }
 
 c_bozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -1219,6 +1237,9 @@ c_bozhou = {
 }
 
 c_yingzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 
 	10867.1.1 = {
@@ -1257,6 +1278,9 @@ d_shanguo = {
 }
 
 c_shanzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 16 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -1277,6 +1301,9 @@ c_shanzhou_2 = {
 }
 
 c_guozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 16 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -1316,6 +1343,9 @@ d_zhenghua = {
 }
 
 c_huazhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -1336,6 +1366,9 @@ c_huazhou = {
 }
 
 c_zhengzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 25 }
 
@@ -1375,6 +1408,9 @@ d_chenxu = {
 }
 
 c_yingchuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 25 }
 
@@ -1396,6 +1432,9 @@ c_yingchuan = {
 }
 
 c_huaining = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 25 }
 
@@ -1418,6 +1457,9 @@ c_huaining = {
 }
 
 c_caizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -1439,6 +1481,9 @@ c_caizhou = {
 }
 
 c_shenzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2905
 		liege = d_chenxu
@@ -1472,6 +1517,9 @@ d_ziqing = {
 }
 
 c_qingzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1492,6 +1540,9 @@ c_qingzhou = {
 }
 
 c_zichuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1515,6 +1566,9 @@ c_zichuan = {
 }
 
 c_weizhou_4 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 
 	10867.1.1 = {
@@ -1536,6 +1590,9 @@ c_weizhou_4 = {
 }
 
 c_dengzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 10 }
 
 	10867.1.1 = {
@@ -1557,6 +1614,9 @@ c_dengzhou = {
 }
 
 c_laizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 10 }
 
 	10867.1.1 = {
@@ -1597,6 +1657,9 @@ d_yanhai = {
 }
 
 c_yanzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 20 }
 
@@ -1618,6 +1681,9 @@ c_yanzhou = {
 }
 
 c_langya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 
 	10867.1.1 = {
@@ -1639,6 +1705,9 @@ c_langya = {
 }
 
 c_mizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 
 	10867.1.1 = {
@@ -1660,6 +1729,9 @@ c_mizhou = {
 }
 
 c_haizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3033
 		liege = d_yanhai
@@ -1697,6 +1769,9 @@ d_xusi = {
 }
 
 c_xuzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -1717,6 +1792,9 @@ c_xuzhou_1 = {
 }
 
 c_huaiyang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2528
 		liege = d_xusi
@@ -1735,6 +1813,9 @@ c_huaiyang = {
 }
 
 c_suzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -1756,6 +1837,9 @@ c_suzhou = {
 }
 
 c_sizhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3024
 		liege = d_xusi
@@ -1792,6 +1876,9 @@ d_yuncao = {
 }
 
 c_yunzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 20 }
@@ -1813,6 +1900,9 @@ c_yunzhou = {
 }
 
 c_qizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1835,6 +1925,9 @@ c_qizhou = {
 }
 
 c_puzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 16 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -1857,6 +1950,9 @@ c_puzhou_2 = {
 }
 
 c_caozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 16 }
 	11066.1.1 = { change_development_level = 25 }
 
@@ -1896,6 +1992,9 @@ d_weibo = {
 }
 
 c_weizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1918,6 +2017,9 @@ c_weizhou = {
 }
 
 c_bozhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 20 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1940,6 +2042,9 @@ c_bozhou_1 = {
 }
 
 c_beizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 20 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1980,6 +2085,9 @@ d_xingming = {
 }
 
 c_xingzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 20 }
 
@@ -2000,6 +2108,9 @@ c_xingzhou = {
 }
 
 c_mingzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 20 }
 
@@ -2022,6 +2133,9 @@ c_mingzhou = {
 }
 
 c_xiangzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 20 }
 
@@ -2061,6 +2175,9 @@ d_chengde = {
 }
 
 c_zhenzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 20 }
 
@@ -2081,6 +2198,9 @@ c_zhenzhou = {
 }
 
 c_zhaozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 20 }
 
@@ -2102,6 +2222,9 @@ c_zhaozhou = {
 }
 
 c_jizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 20 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 24 }
@@ -2125,6 +2248,9 @@ c_jizhou = {
 }
 
 c_shenzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 24 }
 
@@ -2165,6 +2291,9 @@ d_yideng = {
 }
 
 c_dingzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 20 }
@@ -2187,6 +2316,9 @@ c_dingzhou = {
 }
 
 c_yizhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 20 }
 
@@ -2228,6 +2360,9 @@ d_cangjing = {
 }
 
 c_cangzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 
 	10867.1.1 = {
@@ -2247,6 +2382,9 @@ c_cangzhou = {
 }
 
 c_dezhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 20 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 24 }
@@ -2269,6 +2407,9 @@ c_dezhou = {
 }
 
 c_dizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 24 }
 
@@ -2309,6 +2450,9 @@ d_heyang = {
 }
 
 c_huaizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 
 	10867.1.1 = {
@@ -2328,6 +2472,9 @@ c_huaizhou = {
 }
 
 c_weizhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 24 }
 
@@ -2368,6 +2515,9 @@ d_hedong = {
 }
 
 c_taiyuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 
 	10867.1.1 = {
@@ -2389,6 +2539,9 @@ c_taiyuan = {
 }
 
 c_liaozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3115
 		liege = d_hedong
@@ -2407,6 +2560,9 @@ c_liaozhou = {
 }
 
 c_lanzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3096
 		liege = d_hedong
@@ -2425,6 +2581,9 @@ c_lanzhou = {
 }
 
 c_shizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3128
 		liege = d_hedong
@@ -2443,6 +2602,9 @@ c_shizhou = {
 }
 
 c_fenzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 
 	10867.1.1 = {
@@ -2481,6 +2643,9 @@ d_yanmen = {
 }
 
 c_daizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2704
 		liege = d_yanmen
@@ -2499,6 +2664,9 @@ c_daizhou = {
 }
 
 c_xinzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2704
 		liege = d_yanmen
@@ -2536,6 +2704,9 @@ d_hezhong = {
 }
 
 c_hezhong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -2557,6 +2728,9 @@ c_hezhong = {
 }
 
 c_jiangzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2711
 		liege = d_hezhong
@@ -2576,6 +2750,9 @@ c_jiangzhou_2 = {
 }
 
 c_xizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3208
 		liege = d_hezhong
@@ -2594,6 +2771,9 @@ c_xizhou = {
 }
 
 c_pingyang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3203
 		liege = d_hezhong
@@ -2612,6 +2792,9 @@ c_pingyang = {
 }
 
 c_cizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3200
 		liege = d_hezhong
@@ -2648,6 +2831,9 @@ d_zelu = {
 }
 
 c_longde = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2709
 		liege = d_zelu
@@ -2665,6 +2851,9 @@ c_longde = {
 }
 
 c_zezhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2709
 		liege = d_zelu
@@ -2683,6 +2872,9 @@ c_zezhou = {
 }
 
 c_yangcheng = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2709
 		liege = d_zelu
@@ -2719,6 +2911,9 @@ d_yanyun_yuyi = {
 }
 
 c_lxj_huanzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = nn_yelu_shulan
 		government = nomad_government
@@ -2735,6 +2930,9 @@ c_lxj_huanzhou = {
 }
 
 c_lxj_yuyidong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = nn_yelu_shulan
 		government = nomad_government
@@ -2771,6 +2969,9 @@ d_yingmo = {
 }
 
 c_hejian = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 24 }
@@ -2793,6 +2994,9 @@ c_hejian = {
 }
 
 c_mozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 24 }
@@ -2815,6 +3019,9 @@ c_mozhou = {
 }
 
 c_yuzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2770
 		liege = d_yunshuo
@@ -2834,6 +3041,9 @@ c_yuzhou = {
 }
 
 c_shuozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3217
 		liege = d_yunshuo
@@ -2852,6 +3062,9 @@ c_shuozhou = {
 }
 
 c_lxj_yangchengzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = nn_yelu_shulan
 		government = nomad_government
@@ -2884,6 +3097,9 @@ d_youzhou = {
 }
 
 c_jizhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 24 }
 
@@ -2906,6 +3122,9 @@ c_jizhou_1 = {
 }
 
 c_youzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -2925,6 +3144,9 @@ c_youzhou = {
 }
 
 c_zhuozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 24 }
 
@@ -2947,6 +3169,9 @@ c_zhuozhou = {
 }
 
 c_tanzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 24 }
 
@@ -2969,6 +3194,9 @@ c_tanzhou_2 = {
 }
 
 c_lzj_chengdexi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = nn_yelu_shulan
 		government = nomad_government
@@ -3000,6 +3228,9 @@ d_liaoxi = {
 }
 
 c_lnj_liaoxi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = nn_shulu_pogu
 		government = nomad_government
@@ -3017,6 +3248,9 @@ c_lnj_liaoxi = {
 }
 
 c_lnj_liaoxibei = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = nn_shulu_pogu
 		government = nomad_government
@@ -3033,6 +3267,9 @@ c_lnj_liaoxibei = {
 }
 
 c_lzj_chengde = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = nn_shulu_pogu
 		government = nomad_government
@@ -3067,6 +3304,9 @@ d_yongxing = {
 }
 
 c_jingzhao = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 30 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -3086,6 +3326,9 @@ c_jingzhao = {
 }
 
 c_huayin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 20 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -3108,6 +3351,9 @@ c_huayin = {
 }
 
 c_tongzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -3129,6 +3375,9 @@ c_tongzhou = {
 }
 
 c_yaozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 20 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -3168,6 +3417,9 @@ d_fengxiang = {
 }
 
 c_fengxiang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 20 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -3188,6 +3440,9 @@ c_fengxiang = {
 }
 
 c_longzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2775
 		liege = d_fengxiang
@@ -3224,6 +3479,9 @@ d_jinshang = {
 }
 
 c_jinzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2827
 		liege = d_jinshang
@@ -3242,6 +3500,9 @@ c_jinzhou_1 = {
 }
 
 c_shangzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2827
 		liege = d_jinshang
@@ -3280,6 +3541,9 @@ d_binning = {
 }
 
 c_binzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 20 }
 	11066.1.1 = { change_development_level = 16 }
 
@@ -3301,6 +3565,9 @@ c_binzhou = {
 }
 
 c_jinzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2815
 		liege = d_binning
@@ -3319,6 +3586,9 @@ c_jinzhou = {
 }
 
 c_qingyang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2447
 		liege = d_binning
@@ -3337,6 +3607,9 @@ c_qingyang = {
 }
 
 c_huanzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2507
 		liege = d_binning
@@ -3373,6 +3646,9 @@ d_fufang = {
 }
 
 c_fuzhou_5 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2808
 		liege = d_fufang
@@ -3391,6 +3667,9 @@ c_fuzhou_5 = {
 }
 
 c_yan_an = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2499
 		liege = d_fufang
@@ -3409,6 +3688,9 @@ c_yan_an = {
 }
 
 c_danzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2543
 		liege = d_fufang
@@ -3427,6 +3709,9 @@ c_danzhou = {
 }
 
 c_fangzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 16 }
 
 	10867.1.1 = {
@@ -3465,6 +3750,9 @@ d_jingyuan = {
 }
 
 c_jingzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2852
 		liege = d_jingyuan
@@ -3482,6 +3770,9 @@ c_jingzhou = {
 }
 
 c_yuanzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2852
 		liege = d_jingyuan
@@ -3501,6 +3792,9 @@ c_yuanzhou_2 = {
 }
 
 c_xiaoguan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2582
 		liege = d_jingyuan
@@ -3538,6 +3832,9 @@ d_qincheng = {
 }
 
 c_qinzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2851
 		liege = d_qincheng
@@ -3556,6 +3853,9 @@ c_qinzhou_1 = {
 }
 
 c_weizhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2607
 		liege = d_qincheng
@@ -3575,6 +3875,9 @@ c_weizhou_2 = {
 }
 
 c_chengzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2851
 		liege = d_qincheng
@@ -3592,6 +3895,9 @@ c_chengzhou = {
 }
 
 c_minzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2851
 		liege = d_qincheng
@@ -3609,6 +3915,9 @@ c_minzhou = {
 }
 
 c_jiezhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2606
 		liege = d_qincheng
@@ -3643,6 +3952,9 @@ d_xingfeng = {
 }
 
 c_fengzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2840
 		liege = d_xingfeng
@@ -3659,6 +3971,9 @@ c_fengzhou = {
 }
 
 c_xingqing = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2840
 		liege = d_xingfeng
@@ -3692,6 +4007,9 @@ d_hexi = {
 }
 
 c_liangzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_40026
 		government = celestial_government
@@ -3707,6 +4025,9 @@ c_liangzhou = {
 }
 
 c_fanhe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_40026
 		government = celestial_government
@@ -3722,6 +4043,9 @@ c_fanhe = {
 }
 
 c_baishan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = wamo_1
 	}
@@ -3736,6 +4060,9 @@ c_baishan = {
 }
 
 c_zhanyin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_40026
 		government = celestial_government
@@ -3751,6 +4078,9 @@ c_zhanyin = {
 }
 
 c_guangwu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_40026
 		government = celestial_government
@@ -3781,6 +4111,9 @@ d_longyou = {
 }
 
 c_xiningzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 305080
 		liege = d_longyou
@@ -3797,6 +4130,9 @@ c_xiningzhou = {
 }
 
 c_kuozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 305080
 		liege = d_longyou
@@ -3813,6 +4149,9 @@ c_kuozhou = {
 }
 
 c_lanzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 305080
 		liege = d_longyou
@@ -3831,6 +4170,9 @@ c_lanzhou_1 = {
 }
 
 c_hezhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 305080
 		liege = d_longyou
@@ -3864,6 +4206,9 @@ d_gansu = {
 }
 
 c_ganzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 244004
 		liege = d_gansu
@@ -3880,6 +4225,9 @@ c_ganzhou = {
 }
 
 c_liaoquan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 244004
 		liege = d_gansu
@@ -3896,6 +4244,9 @@ c_liaoquan = {
 }
 
 c_jiankang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2685
 		liege = d_gansu
@@ -3912,6 +4263,9 @@ c_jiankang = {
 }
 
 c_zhenwu_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2669
 		liege = d_gansu
@@ -3928,6 +4282,9 @@ c_zhenwu_1 = {
 }
 
 c_jiuquan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = guiyi_character_9
 		liege = d_gansu
@@ -3944,6 +4301,9 @@ c_jiuquan = {
 }
 
 c_yumen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2652
 		liege = d_gansu
@@ -3976,6 +4336,9 @@ d_guasha = {
 }
 
 c_shazhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 304191
 		liege = d_guasha
@@ -3992,6 +4355,9 @@ c_shazhou = {
 }
 
 c_guazhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 304191
 		liege = d_guasha
@@ -4008,6 +4374,9 @@ c_guazhou = {
 }
 
 c_xincheng = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 304191
 		liege = d_guasha
@@ -4024,6 +4393,9 @@ c_xincheng = {
 }
 
 c_hehe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 304191
 		liege = d_guasha
@@ -4040,6 +4412,9 @@ c_hehe = {
 }
 
 c_shouchang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 304191
 		liege = d_guasha
@@ -4056,6 +4431,9 @@ c_shouchang = {
 }
 
 c_ziting = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 304191
 		liege = d_guasha
@@ -4085,6 +4463,9 @@ d_aksay = {
 }
 
 c_aksay = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tuyuhun0006
 		liege = d_aksay
@@ -4101,6 +4482,9 @@ c_aksay = {
 }
 
 c_haltang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tuyuhun0006
 		liege = d_aksay
@@ -4135,6 +4519,9 @@ d_jiangdong = {
 }
 
 c_jiangning = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 16 }
 	11066.1.1 = { change_development_level = 20 }
 	11178.1.1 = { change_development_level = 40 }
@@ -4157,6 +4544,9 @@ c_jiangning = {
 }
 
 c_runzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 16 }
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 40 }
@@ -4179,6 +4569,9 @@ c_runzhou = {
 }
 
 c_changzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 16 }
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 40 }
@@ -4201,6 +4594,9 @@ c_changzhou = {
 }
 
 c_suzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 16 }
 	11066.1.1 = { change_development_level = 20 }
 	11178.1.1 = { change_development_level = 40 }
@@ -4241,6 +4637,9 @@ d_xuanshe = {
 }
 
 c_xuanzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 30 }
 	11178.1.1 = { change_development_level = 40 }
@@ -4263,6 +4662,9 @@ c_xuanzhou = {
 }
 
 c_chizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 24 }
@@ -4285,6 +4687,9 @@ c_chizhou = {
 }
 
 c_shezhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 24 }
 
 	10867.1.1 = {
@@ -4305,6 +4710,9 @@ c_shezhou = {
 }
 
 c_guangde = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 20 }
 	11178.1.1 = { change_development_level = 40 }
@@ -4343,6 +4751,9 @@ d_zhexi = {
 }
 
 c_hangzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 60 }
@@ -4363,6 +4774,9 @@ c_hangzhou = {
 }
 
 c_xiuzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 20 }
 	11178.1.1 = { change_development_level = 40 }
@@ -4385,6 +4799,9 @@ c_xiuzhou = {
 }
 
 c_huzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 16 }
 	11066.1.1 = { change_development_level = 20 }
 	11178.1.1 = { change_development_level = 40 }
@@ -4407,6 +4824,9 @@ c_huzhou = {
 }
 
 c_muzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10867.1.1 = {
@@ -4445,6 +4865,9 @@ d_zhedong = {
 }
 
 c_yuezhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -4466,6 +4889,9 @@ c_yuezhou = {
 }
 
 c_mingzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -4487,6 +4913,9 @@ c_mingzhou_1 = {
 }
 
 c_wuzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10867.1.1 = {
@@ -4507,6 +4936,9 @@ c_wuzhou = {
 }
 
 c_taizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -4528,6 +4960,9 @@ c_taizhou = {
 }
 
 c_chuzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10867.1.1 = {
@@ -4548,6 +4983,9 @@ c_chuzhou = {
 }
 
 c_xin_an = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 20 }
 
 	10867.1.1 = {
@@ -4568,6 +5006,9 @@ c_xin_an = {
 }
 
 c_wenzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -4607,6 +5048,9 @@ d_weiwu = {
 }
 
 c_fuzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 40 }
@@ -4629,6 +5073,9 @@ c_fuzhou_1 = {
 }
 
 c_funing = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10867.1.1 = {
@@ -4667,6 +5114,9 @@ d_pinghai = {
 }
 
 c_quanzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 24 }
 
 	10867.1.1 = {
@@ -4687,6 +5137,9 @@ c_quanzhou = {
 }
 
 c_zhangzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3060
 		liege = d_pinghai
@@ -4705,6 +5158,9 @@ c_zhangzhou = {
 }
 
 c_xinghua = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 20 }
 
@@ -4744,6 +5200,9 @@ d_jianning = {
 }
 
 c_jian_an = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -4765,6 +5224,9 @@ c_jian_an = {
 }
 
 c_nanjian = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -4786,6 +5248,9 @@ c_nanjian = {
 }
 
 c_shaowu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 20 }
 
 	10867.1.1 = {
@@ -4806,6 +5271,9 @@ c_shaowu = {
 }
 
 c_tingzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2915
 		liege = d_jianning
@@ -4842,6 +5310,9 @@ d_huainan = {
 }
 
 c_yangzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 20 }
 
 	10867.1.1 = {
@@ -4862,6 +5333,9 @@ c_yangzhou = {
 }
 
 c_taizhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 20 }
 
 	10867.1.1 = {
@@ -4882,6 +5356,9 @@ c_taizhou_1 = {
 }
 
 c_chuzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 20 }
 
 	10867.1.1 = {
@@ -4902,6 +5379,9 @@ c_chuzhou_1 = {
 }
 
 c_chuzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 14 }
 
 	10867.1.1 = {
@@ -4940,6 +5420,9 @@ d_huaixi = {
 }
 
 c_shouzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 20 }
 
@@ -4961,6 +5444,9 @@ c_shouzhou = {
 }
 
 c_lujiang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 14 }
 
 	10867.1.1 = {
@@ -4981,6 +5467,9 @@ c_lujiang = {
 }
 
 c_liyang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -5002,6 +5491,9 @@ c_liyang = {
 }
 
 c_haozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 14 }
 
 	10867.1.1 = {
@@ -5022,6 +5514,9 @@ c_haozhou = {
 }
 
 c_guangzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2943
 		liege = d_huaixi
@@ -5040,6 +5535,9 @@ c_guangzhou = {
 }
 
 c_shuzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2939
 		liege = d_huaixi
@@ -5076,6 +5574,9 @@ d_jiangxi = {
 }
 
 c_hongzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -5097,6 +5598,9 @@ c_hongzhou = {
 }
 
 c_yunzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -5118,6 +5622,9 @@ c_yunzhou_2 = {
 }
 
 c_yuanzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 24 }
 
@@ -5139,6 +5646,9 @@ c_yuanzhou = {
 }
 
 c_fuzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10867.1.1 = {
@@ -5159,6 +5669,9 @@ c_fuzhou_2 = {
 }
 
 c_jianchang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -5180,6 +5693,9 @@ c_jianchang = {
 }
 
 c_jizhou_3 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -5201,6 +5717,9 @@ c_jizhou_3 = {
 }
 
 c_linjiang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -5240,6 +5759,9 @@ d_dingjiang = {
 }
 
 c_yunyang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -5261,6 +5783,9 @@ c_yunyang = {
 }
 
 c_raozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -5282,6 +5807,9 @@ c_raozhou = {
 }
 
 c_nankang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 30 }
@@ -5304,6 +5832,9 @@ c_nankang = {
 }
 
 c_xinhzou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -5343,6 +5874,9 @@ d_zhaoxin = {
 }
 
 c_qianzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 20 }
 
 	10867.1.1 = {
@@ -5363,6 +5897,9 @@ c_qianzhou = {
 }
 
 c_nanan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 24 }
 
@@ -5384,6 +5921,9 @@ c_nanan = {
 }
 
 c_shaozhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 24 }
 
 	10867.1.1 = {
@@ -5423,6 +5963,9 @@ d_xiangdeng = {
 }
 
 c_xiangyang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2486
 		liege = d_xiangdeng
@@ -5441,6 +5984,9 @@ c_xiangyang = {
 }
 
 c_junzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2996
 		liege = d_xiangdeng
@@ -5459,6 +6005,9 @@ c_junzhou = {
 }
 
 c_fangzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3055
 		liege = d_xiangdeng
@@ -5477,6 +6026,9 @@ c_fangzhou_1 = {
 }
 
 c_yingzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 20 }
 
 	10867.1.1 = {
@@ -5497,6 +6049,9 @@ c_yingzhou_2 = {
 }
 
 c_suizhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3042
 		liege = d_xiangdeng
@@ -5515,6 +6070,9 @@ c_suizhou_1 = {
 }
 
 c_dengzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3034
 		liege = d_xiangdeng
@@ -5533,6 +6091,9 @@ c_dengzhou_1 = {
 }
 
 c_tangzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3076
 		liege = d_xiangdeng
@@ -5569,6 +6130,9 @@ d_jingnan = {
 }
 
 c_jiangling = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 24 }
 
@@ -5590,6 +6154,9 @@ c_jiangling = {
 }
 
 c_hanyang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 24 }
 
@@ -5611,6 +6178,9 @@ c_hanyang = {
 }
 
 c_fuzhou_3 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 24 }
 
@@ -5632,6 +6202,9 @@ c_fuzhou_3 = {
 }
 
 c_xiazhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3228
 		liege = d_jingnan
@@ -5650,6 +6223,9 @@ c_xiazhou_1 = {
 }
 
 c_guizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 12 }
 
 	10867.1.1 = {
@@ -5670,6 +6246,9 @@ c_guizhou = {
 }
 
 c_langzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3059
 		liege = d_jingnan
@@ -5706,6 +6285,9 @@ d_eyue = {
 }
 
 c_ezhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 30 }
 
@@ -5727,6 +6309,9 @@ c_ezhou = {
 }
 
 c_anzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 20 }
 
 	10867.1.1 = {
@@ -5747,6 +6332,9 @@ c_anzhou = {
 }
 
 c_yuezhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 30 }
@@ -5769,6 +6357,9 @@ c_yuezhou_1 = {
 }
 
 c_huangzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3099
 		liege = d_eyue
@@ -5787,6 +6378,9 @@ c_huangzhou = {
 }
 
 c_qizhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 24 }
 
 	10867.1.1 = {
@@ -5825,6 +6419,9 @@ d_hunan = {
 }
 
 c_tanzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 24 }
@@ -5847,6 +6444,9 @@ c_tanzhou = {
 }
 
 c_hengzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 24 }
@@ -5869,6 +6469,9 @@ c_hengzhou = {
 }
 
 c_chenzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 
 	10867.1.1 = {
@@ -5889,6 +6492,9 @@ c_chenzhou_1 = {
 }
 
 c_guiyang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 14 }
 
 	10867.1.1 = {
@@ -5909,6 +6515,9 @@ c_guiyang = {
 }
 
 c_lianzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 
 	10867.1.1 = {
@@ -5947,6 +6556,9 @@ d_lingling = {
 }
 
 c_yongzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10867.1.1 = {
@@ -5967,6 +6579,9 @@ c_yongzhou = {
 }
 
 c_quanzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10867.1.1 = {
@@ -5987,6 +6602,9 @@ c_quanzhou_2 = {
 }
 
 c_shaozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10867.1.1 = {
@@ -6007,6 +6625,9 @@ c_shaozhou = {
 }
 
 c_daozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2631
 		liege = d_lingling
@@ -6043,6 +6664,9 @@ d_xichuan = {
 }
 
 c_chengdu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 16 }
 	11066.1.1 = { change_development_level = 30 }
 	11178.1.1 = { change_development_level = 24 }
@@ -6065,6 +6689,9 @@ c_chengdu = {
 }
 
 c_pengzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3144
 		liege = d_xichuan
@@ -6083,6 +6710,9 @@ c_pengzhou = {
 }
 
 c_hanzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3173
 		liege = d_xichuan
@@ -6101,6 +6731,9 @@ c_hanzhou = {
 }
 
 c_jianyang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6123,6 +6756,9 @@ c_jianyang = {
 }
 
 c_lingzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6145,6 +6781,9 @@ c_lingzhou_1 = {
 }
 
 c_maozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3227
 		liege = d_xichuan
@@ -6181,6 +6820,9 @@ d_qiongnan = {
 }
 
 c_qiongzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2682
 		liege = d_qiongnan
@@ -6199,6 +6841,9 @@ c_qiongzhou = {
 }
 
 c_meizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2682
 		liege = d_qiongnan
@@ -6217,6 +6862,9 @@ c_meizhou = {
 }
 
 c_jiazhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6239,6 +6887,9 @@ c_jiazhou = {
 }
 
 c_hanyuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3220
 		liege = d_qiongnan
@@ -6257,6 +6908,9 @@ c_hanyuan = {
 }
 
 c_qiongbu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3262
 		liege = d_qiongnan
@@ -6293,6 +6947,9 @@ d_xingyuan = {
 }
 
 c_xingyuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3015
 		liege = d_xingyuan
@@ -6311,6 +6968,9 @@ c_xingyuan = {
 }
 
 c_yangzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3261
 		liege = d_xingyuan
@@ -6329,6 +6989,9 @@ c_yangzhou_1 = {
 }
 
 c_bizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6351,6 +7014,9 @@ c_bizhou = {
 }
 
 c_jizhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 20 }
 
@@ -6390,6 +7056,9 @@ d_lilang = {
 }
 
 c_lizhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 20 }
 
@@ -6411,6 +7080,9 @@ c_lizhou_2 = {
 }
 
 c_langzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6433,6 +7105,9 @@ c_langzhou_1 = {
 }
 
 c_wenzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2680
 		liege = d_lilang
@@ -6451,6 +7126,9 @@ c_wenzhou = {
 }
 
 c_guozhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6473,6 +7151,9 @@ c_guozhou_1 = {
 }
 
 c_pengzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6513,6 +7194,9 @@ d_baqu = {
 }
 
 c_bazhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6535,6 +7219,9 @@ c_bazhou = {
 }
 
 c_quzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6557,6 +7244,9 @@ c_quzhou = {
 }
 
 c_tongzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6579,6 +7269,9 @@ c_tongzhou_1 = {
 }
 
 c_kaizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6619,6 +7312,9 @@ d_kuizhong = {
 }
 
 c_kuizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 18 }
@@ -6641,6 +7337,9 @@ c_kuizhou = {
 }
 
 c_zhongzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -6663,6 +7362,9 @@ c_zhongzhou = {
 }
 
 c_wanzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -6685,6 +7387,9 @@ c_wanzhou = {
 }
 
 c_fuzhou_4 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -6725,6 +7430,9 @@ d_dongchuan = {
 }
 
 c_tongchuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6747,6 +7455,9 @@ c_tongchuan = {
 }
 
 c_mianzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3364
 		liege = d_dongchuan
@@ -6765,6 +7476,9 @@ c_mianzhou = {
 }
 
 c_longzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3361
 		liege = d_dongchuan
@@ -6783,6 +7497,9 @@ c_longzhou = {
 }
 
 c_jianzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6805,6 +7522,9 @@ c_jianzhou_1 = {
 }
 
 c_puzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6827,6 +7547,9 @@ c_puzhou = {
 }
 
 c_zizhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6867,6 +7590,9 @@ d_wuxin = {
 }
 
 c_suining = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6889,6 +7615,9 @@ c_suining = {
 }
 
 c_changzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6911,6 +7640,9 @@ c_changzhou_1 = {
 }
 
 c_yuzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6933,6 +7665,9 @@ c_yuzhou_2 = {
 }
 
 c_rongzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6955,6 +7690,9 @@ c_rongzhou = {
 }
 
 c_luzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 20 }
@@ -6977,6 +7715,9 @@ c_luzhou_2 = {
 }
 
 c_nanxi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 20 }
 
@@ -7016,6 +7757,9 @@ d_qianzhong = {
 }
 
 c_qianzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2665
 		liege = d_qianzhong
@@ -7034,6 +7778,9 @@ c_qianzhou_1 = {
 }
 
 c_shizhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3404
 		liege = d_qianzhong
@@ -7052,6 +7799,9 @@ c_shizhou_1 = {
 }
 
 c_zhenxi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_zhenxi
 		liege = d_qianzhong
@@ -7068,6 +7818,9 @@ c_zhenxi = {
 }
 
 c_nanzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
 
@@ -7087,6 +7840,9 @@ c_nanzhou = {
 }
 
 c_sizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_sizhou
 		liege = d_qianzhong
@@ -7104,6 +7860,9 @@ c_sizhou = {
 }
 
 c_bochuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_bozhou
 		liege = d_qianzhong
@@ -7120,6 +7879,9 @@ c_bochuan = {
 }
 
 c_yizhou_3 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_yizhou
 		liege = d_qianzhong
@@ -7154,6 +7916,9 @@ d_wuxi = {
 }
 
 c_luxi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2702
 		liege = d_wuxi
@@ -7172,6 +7937,9 @@ c_luxi = {
 }
 
 c_lingxi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_lingxi 
 		liege = d_wuxi
@@ -7188,6 +7956,9 @@ c_lingxi = {
 }
 
 c_shangxi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_shangxi
 		liege = d_wuxi
@@ -7204,6 +7975,9 @@ c_shangxi = {
 }
 
 c_tanyang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_tanyang
 		liege = d_wuxi
@@ -7220,6 +7994,9 @@ c_tanyang = {
 }
 
 c_luyang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_luyang
 		liege = d_wuxi
@@ -7236,6 +8013,9 @@ c_luyang = {
 }
 
 c_yezhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_yezhou
 		liege = d_wuxi
@@ -7267,6 +8047,9 @@ d_luodian = {
 }
 
 c_luodian = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_luodian_puli_1
 		government = tribal_government
@@ -7282,6 +8065,9 @@ c_luodian = {
 }
 
 c_yanchuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_yanxun_zhao
 		government = tribal_government
@@ -7297,6 +8083,9 @@ c_yanchuan = {
 }
 
 c_yanzhou_3 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_yanxun_zhao
 		government = tribal_government
@@ -7327,6 +8116,9 @@ d_luoshi = {
 }
 
 c_sie = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_lunan_dou_1
 		government = tribal_government
@@ -7342,6 +8134,9 @@ c_sie = {
 }
 
 c_shunzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_lunan_dou_1
 		government = tribal_government
@@ -7357,6 +8152,9 @@ c_shunzhou = {
 }
 
 c_zongzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_kunmingyi_lulu
 		government = tribal_government
@@ -7372,6 +8170,9 @@ c_zongzhou = {
 }
 
 c_shaoqing = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_kunmingyi_lulu
 		government = tribal_government
@@ -7402,6 +8203,9 @@ d_shimen = {
 }
 
 c_yinzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_rongnan_rongnan
 		government = tribal_government
@@ -7417,6 +8221,9 @@ c_yinzhou_1 = {
 }
 
 c_jingzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_kunmingyi_lulu
 		government = tribal_government
@@ -7432,6 +8239,9 @@ c_jingzhou_2 = {
 }
 
 c_quzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_kunmingyi_lulu
 		government = tribal_government
@@ -7462,6 +8272,9 @@ d_zangke = {
 }
 
 c_juzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_manzhou_song_1
 		government = tribal_government
@@ -7477,6 +8290,9 @@ c_juzhou = {
 }
 
 c_yingzhou_4 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_zangying_xie_1
 		government = tribal_government
@@ -7492,6 +8308,9 @@ c_yingzhou_4 = {
 }
 
 c_nanping = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_zangying_xie_1
 		government = tribal_government
@@ -7507,6 +8326,9 @@ c_nanping = {
 }
 
 c_huangzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_zangying_xie_1
 		government = tribal_government
@@ -7522,6 +8344,9 @@ c_huangzhou_1 = {
 }
 
 c_guzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_zangying_xie_1
 		government = tribal_government
@@ -7552,6 +8377,9 @@ d_xiyuan = {
 }
 
 c_siyuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_siyuanguicheng_nong_1
 		government = tribal_government
@@ -7567,6 +8395,9 @@ c_siyuan = {
 }
 
 c_guile = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_tianguile_huang_1
 		government = tribal_government
@@ -7582,6 +8413,9 @@ c_guile = {
 }
 
 c_wulong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_tianguile_huang_1
 		government = tribal_government
@@ -7615,6 +8449,9 @@ d_lingnan = {
 }
 
 c_guangzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 30 }
@@ -7637,6 +8474,9 @@ c_guangzhou_1 = {
 }
 
 c_duanzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2821
 		liege = d_lingnan
@@ -7655,6 +8495,9 @@ c_duanzhou = {
 }
 
 c_yingde = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 24 }
 
 	10867.1.1 = {
@@ -7675,6 +8518,9 @@ c_yingde = {
 }
 
 c_kangzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2821
 		liege = d_lingnan
@@ -7693,6 +8539,9 @@ c_kangzhou = {
 }
 
 c_xinzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 
 	10867.1.1 = {
@@ -7713,6 +8562,9 @@ c_xinzhou_1 = {
 }
 
 c_shuangzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2821
 		liege = d_lingnan
@@ -7731,6 +8583,9 @@ c_shuangzhou = {
 }
 
 c_chunzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2821
 		liege = d_lingnan
@@ -7749,6 +8604,9 @@ c_chunzhou = {
 }
 
 c_enzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2821
 		liege = d_lingnan
@@ -7785,6 +8643,9 @@ d_huixun = {
 }
 
 c_huizhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 20 }
 
 	10867.1.1 = {
@@ -7805,6 +8666,9 @@ c_huizhou_1 = {
 }
 
 c_xunzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2748
 		liege = d_huixun
@@ -7823,6 +8687,9 @@ c_xunzhou = {
 }
 
 c_chaozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 24 }
 
 	10867.1.1 = {
@@ -7843,6 +8710,9 @@ c_chaozhou = {
 }
 
 c_meizhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2748
 		liege = d_huixun
@@ -7861,6 +8731,9 @@ c_meizhou_1 = {
 }
 
 c_dongguan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 24 }
 
 	10867.1.1 = {
@@ -7899,6 +8772,9 @@ d_gaoliang = {
 }
 
 c_gaozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2776
 		liege = d_gaoliang
@@ -7917,6 +8793,9 @@ c_gaozhou = {
 }
 
 c_leizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2776
 		liege = d_gaoliang
@@ -7935,6 +8814,9 @@ c_leizhou = {
 }
 
 c_luozhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2776
 		liege = d_gaoliang
@@ -7971,6 +8853,9 @@ d_qiongguan = {
 }
 
 c_yazhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2811
 		liege = d_qiongguan
@@ -7989,6 +8874,9 @@ c_yazhou = {
 }
 
 c_danzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2811
 		liege = d_qiongguan
@@ -8007,6 +8895,9 @@ c_danzhou_1 = {
 }
 
 c_yazhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2811
 		liege = d_qiongguan
@@ -8025,6 +8916,9 @@ c_yazhou_1 = {
 }
 
 c_wanan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2811
 		liege = d_qiongguan
@@ -8043,6 +8937,9 @@ c_wanan = {
 }
 
 c_lidong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2811
 		liege = d_qiongguan
@@ -8079,6 +8976,9 @@ d_guiguan = {
 }
 
 c_guizhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10867.1.1 = {
@@ -8099,6 +8999,9 @@ c_guizhou_1 = {
 }
 
 c_liuzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2916
 		liege = d_guiguan
@@ -8117,6 +9020,9 @@ c_liuzhou = {
 }
 
 c_rongshui = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2916
 		liege = d_guiguan
@@ -8135,6 +9041,9 @@ c_rongshui = {
 }
 
 c_xiangshan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2916
 		liege = d_guiguan
@@ -8153,6 +9062,9 @@ c_xiangshan = {
 }
 
 c_qingyuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2916
 		liege = d_guiguan
@@ -8189,6 +9101,9 @@ d_jingjiang = {
 }
 
 c_zhaozhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2807
 		liege = d_jingjiang
@@ -8207,6 +9122,9 @@ c_zhaozhou_1 = {
 }
 
 c_wuzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2807
 		liege = d_jingjiang
@@ -8225,6 +9143,9 @@ c_wuzhou_1 = {
 }
 
 c_gongzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2807
 		liege = d_jingjiang
@@ -8261,6 +9182,9 @@ d_rongguan = {
 }
 
 c_rongzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2893
 		liege = d_rongguan
@@ -8279,6 +9203,9 @@ c_rongzhou_2 = {
 }
 
 c_tengzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2893
 		liege = d_rongguan
@@ -8297,6 +9224,9 @@ c_tengzhou = {
 }
 
 c_lianzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2893
 		liege = d_rongguan
@@ -8315,6 +9245,9 @@ c_lianzhou_1 = {
 }
 
 c_baizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2893
 		liege = d_rongguan
@@ -8333,6 +9266,9 @@ c_baizhou = {
 }
 
 c_yulin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2893
 		liege = d_rongguan
@@ -8369,6 +9305,9 @@ d_yongguan = {
 }
 
 c_yongzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2870
 		liege = d_yongguan
@@ -8387,6 +9326,9 @@ c_yongzhou_1 = {
 }
 
 c_binzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2870
 		liege = d_yongguan
@@ -8405,6 +9347,9 @@ c_binzhou_1 = {
 }
 
 c_hengzhou_1 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2870
 		liege = d_yongguan
@@ -8423,6 +9368,9 @@ c_hengzhou_1 = {
 }
 
 c_qinzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2870
 		liege = d_yongguan
@@ -8441,6 +9389,9 @@ c_qinzhou_2 = {
 }
 
 c_rangzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2870
 		liege = d_yongguan
@@ -8459,6 +9410,9 @@ c_rangzhou = {
 }
 
 c_xunzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2870
 		liege = d_yongguan
@@ -8477,6 +9431,9 @@ c_xunzhou_2 = {
 }
 
 c_tianzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_tianguile_huang_1
 		government = tribal_government
@@ -8492,6 +9449,9 @@ c_tianzhou = {
 }
 
 c_shukunzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = tribal_tianguile_huang_1
 		government = tribal_government
@@ -8508,6 +9468,9 @@ c_shukunzhou = {
 
 ###Taiwan
 c_hoanya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -8525,6 +9488,9 @@ c_hoanya = {
 }
 
 c_siraya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -8542,6 +9508,9 @@ c_siraya = {
 }
 
 c_amis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -8559,6 +9528,9 @@ c_amis = {
 }
 
 c_woye = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10867.1.1 = {
 		holder = nn_yelu_saladi
@@ -8576,6 +9548,9 @@ c_woye = {
 	}
 }
 c_pinzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 24 }
 
 	10867.1.1 = {
@@ -8596,6 +9571,9 @@ c_pinzhou = {
 
 }
 c_guizhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10867.1.1 = {
 		holder = han_2309
@@ -8615,6 +9593,9 @@ c_guizhou_2 = {
 
 }
 c_liyang_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = { change_development_level = 14 }
 
 	10867.1.1 = {
@@ -8634,6 +9615,9 @@ c_liyang_2 = {
 	}
 }
 c_ningduzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 20 }
 	
 	10867.1.1 = {
@@ -8653,6 +9637,9 @@ c_ningduzhou = {
 	}
 }
 c_yazhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10867.1.1 = {
 		holder = han_2682
@@ -8690,6 +9677,9 @@ d_xinan = {
 }
 
 c_fuzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 
 	10867.1.1 = {
@@ -8711,6 +9701,9 @@ c_fuzhou = {
 }
 
 c_linzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = li_674E_zhuye_1
 		liege = d_xinan
@@ -8730,6 +9723,9 @@ c_linzhou = {
 }
 
 c_qingshan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2287
 		liege = d_xinan
@@ -8749,6 +9745,9 @@ c_qingshan = {
 }
 
 c_shengzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10867.1.1 = {
 		holder = han_2634
@@ -8769,6 +9768,9 @@ c_shengzhou = {
 }
 
 c_lxj_yunneizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10867.1.1 = {
 		holder = han_3295
@@ -8805,6 +9807,9 @@ d_yunshuo = {
 }
 
 c_datong_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10867.1.1 = {
 		holder = han_3330
@@ -8824,6 +9829,9 @@ c_datong_2 = {
 }
 
 c_hongzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10867.1.1 = {
 		holder = han_3330
@@ -8843,6 +9851,9 @@ c_hongzhou_2 = {
 }
 
 c_yingzhou_5 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10867.1.1 = {
 		holder = han_3066
@@ -8880,6 +9891,9 @@ d_sanggan = {
 }
 
 c_huaian = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10867.1.1 = {
 		holder = han_3475
@@ -8899,6 +9913,9 @@ c_huaian = {
 }
 
 c_jiushijiuquan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10867.1.1 = {
 		holder = han_3475
@@ -8918,6 +9935,9 @@ c_jiushijiuquan = {
 }
 
 c_rouyuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10867.1.1 = {
 		holder = han_3475
@@ -8937,6 +9957,9 @@ c_rouyuan = {
 }
 
 c_yongxing = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10867.1.1 = {
 		holder = han_3313

@@ -26,6 +26,9 @@ d_aarjetje = {
 
 
 c_jahkamakke = {	#(=Lule)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194025
 		government = tribal_government
@@ -66,6 +69,9 @@ c_jahkamakke = {	#(=Lule)
 
 
 c_sjeltie = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194025
 		government = tribal_government
@@ -105,6 +111,9 @@ c_sjeltie = {
 
 
 c_ubmejeiednuo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194025
 		government = tribal_government
@@ -144,6 +153,9 @@ c_ubmejeiednuo = {
 }
 
 c_pite = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194025
 		government = tribal_government
@@ -184,6 +196,9 @@ c_pite = {
 
 
 c_biton = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194025
 		government = tribal_government
@@ -224,6 +239,9 @@ c_biton = {
 
 
 c_julevadno = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = 0
 		holder = sami_000013
@@ -247,6 +265,9 @@ c_julevadno = {
 }
 
 c_torne = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = 0
 		holder = sami_000013
@@ -261,6 +282,9 @@ c_torne = {
 }
 
 c_kittila = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = 0
 		holder = sami_000015
@@ -276,6 +300,9 @@ c_kittila = {
 
 
 c_siggevara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = sami_000003
 		government = tribal_government
@@ -298,6 +325,9 @@ c_siggevara = {
 }
 
 c_suondavara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = sami_000003
 		government = tribal_government
@@ -320,6 +350,9 @@ c_suondavara = {
 }
 
 c_rounala = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194026
 		government = tribal_government
@@ -407,6 +440,9 @@ c_rounala = {
 }
 
 c_aviovara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194026
 		government = tribal_government
@@ -492,6 +528,9 @@ c_aviovara = {
 
 
 c_karasjohka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194018
 		government = tribal_government
@@ -577,6 +616,9 @@ c_karasjohka = {
 }
 
 c_kitka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = sami_000004
 		government = tribal_government
@@ -599,6 +641,9 @@ c_kitka = {
 }
 
 c_peaccam = {	#= Kemi
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = sami_000004
 		government = tribal_government
@@ -621,6 +666,9 @@ c_peaccam = {	#= Kemi
 }
 
 c_inari = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = 0
 		holder = sami_000009
@@ -645,6 +693,9 @@ c_inari = {
 
 
 c_skolt = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = 0
 		holder = sami_000009
@@ -669,6 +720,9 @@ c_skolt = {
 
 
 c_sombio = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = 0
 		holder = sami_000011
@@ -683,6 +737,9 @@ c_sombio = {
 }
 
 c_akkel = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = 0
 		holder = sami_000011
@@ -697,6 +754,9 @@ c_akkel = {
 }
 
 c_east_kiilt = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10755.1.1 = {
 		liege = "d_guoldat"
 		holder = 170333
@@ -826,6 +886,9 @@ c_east_kiilt = {
 
 
 c_jovvkuj = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10755.1.1 = {
 		liege = "d_guoldat"
 		holder = 170333
@@ -954,6 +1017,9 @@ c_jovvkuj = {
 }
 
 c_kintus = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10755.1.1 = {
 		liege = "d_guoldat"
 		holder = 170333
@@ -1081,6 +1147,9 @@ c_kintus = {
 }
 
 c_ter = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10755.1.1 = {
 		liege = "d_guoldat"
 		holder = 170333
@@ -1210,6 +1279,9 @@ c_ter = {
 
 
 c_koutajoki = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10747.1.1 = {
 		holder = 170324
 		liege = "d_karelia"

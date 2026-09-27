@@ -19,6 +19,9 @@ d_bukovina = {
 }
 
 c_suceava = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = 256043 #Fictional mstislav
 		liege = 0
@@ -47,6 +50,9 @@ c_suceava = {
 }
 
 c_neamnt = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = 256043 #Fictional mstislav
 		liege = 0
@@ -74,6 +80,9 @@ c_neamnt = {
 }
 
 c_dorohoi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = 256043 #Fictional mstislav
 		liege = 0
@@ -99,6 +108,9 @@ c_dorohoi = {
 }
 
 c_hotin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = 256043 #Fictional mstislav
 		liege = 0
@@ -137,6 +149,9 @@ d_moldova = {
 }
 
 c_iasi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Dridu tribe under Magyar rule
 	10867.1.1 = {
 		holder = 302124	#Bajan Dridusi
@@ -161,6 +176,9 @@ c_iasi = {
 }
 
 c_orhei = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = 256043 #Fictional mstislav
 		liege = 0
@@ -190,6 +208,9 @@ c_orhei = {
 }
 
 c_soroca = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = 256043 #Fictional mstislav
 		liege = 0
@@ -218,6 +239,9 @@ c_soroca = {
 }
 
 c_barlad = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Dridu tribe
 	10867.1.1 = {
 		holder = 302124	#Bajan Dridusi
@@ -242,6 +266,9 @@ c_barlad = {
 }
 
 c_galati = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Under Bulgarian Empire
 	10867.1.1 = {
 		holder = 302119	#Mihai Brodnici
@@ -271,6 +298,9 @@ c_galati = {
 }
 
 c_stoenesti = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Under Bulgarian Empire
 	10867.1.1 = {
 		holder = 302119	#Mihai Brodnici
@@ -315,6 +345,9 @@ d_bugeac = {
 }
 
 c_tigheci = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tigheci Republic
 	10867.1.1 = {
 		holder = 302117
@@ -333,6 +366,9 @@ c_tigheci = {
 }
 
 c_cetatea_alba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tigheci Republic
 	10867.1.1 = {
 		holder = 302117
@@ -356,6 +392,9 @@ c_cetatea_alba = {
 }
 
 c_chilia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tigheci Republic
 	10867.1.1 = {
 		holder = 302117
@@ -373,6 +412,9 @@ c_chilia = {
 }
 
 c_lapusna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = 256043 #Fictional mstislav
 		liege = 0

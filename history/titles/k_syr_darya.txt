@@ -71,6 +71,9 @@ d_syr_darya = {
 }
 
 c_jend = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -112,6 +115,9 @@ c_jend = {
 }
 
 c_sighnaq = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		liege = d_syr_darya
 		holder = 1000230101	#Bozoq, representing the Kinik/the proto-Seljuk
@@ -149,6 +155,9 @@ c_sighnaq = {
 
 
 c_uzgend_KARA = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		liege = d_syr_darya
 		holder = 1000230101	#Bozoq, representing the Kinik/the proto-Seljuk
@@ -306,6 +315,9 @@ d_chah = {
 
 
 c_chah = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -430,6 +442,9 @@ c_chah = {
 
 
 c_otrar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Chah within the Samanid in 867
 	10849.1.2 = {
 		holder = 302686	#fictional Aksonqor Shahn
@@ -547,6 +562,9 @@ c_otrar = {
 
 
 c_shavgar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		liege = k_oghuz_il
 		holder = 302642	#fictional Yunus Shavgari
@@ -664,6 +682,9 @@ c_shavgar = {
 
 
 c_sutkend = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Chah within the Samanid in 867
 	10849.1.2 = {
 		holder = 188639	#Yahya Samanid 
@@ -940,6 +961,9 @@ d_muyunkum = {
 
 
 c_balashagun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 4 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 36 }
@@ -1092,6 +1116,9 @@ c_balashagun = {
 
 
 c_suyab = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#As Karakhanid Khanate from year 840
 	10840.1.1 = {
 		#holder = 34872	#Bilge Khan
@@ -1225,6 +1252,9 @@ c_suyab = {
 
 
 c_taraz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#As Karakhanid Khanate from year 840
 	10840.1.1 = {
 		holder = 34872	#Bilge Khan
@@ -1365,6 +1395,9 @@ c_taraz = {
 
 
 c_shelji = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#As Karakhanid Khanate from year 840
 	10840.1.1 = {
 		holder = 34872	#Bilge Khan
@@ -1497,6 +1530,9 @@ c_shelji = {
 
 
 c_quriltay = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		liege = 0
 		holder = 74029	#fictional
@@ -1526,6 +1562,9 @@ c_quriltay = {
 }
 
 c_mushun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		liege = 0
 		holder = 74029	#fictional
@@ -1557,6 +1596,9 @@ c_mushun = {
 
 
 c_cherik = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#As Karakhanid Khanate from year 840
 	10840.1.1 = {
 		holder = 34872	#Bilge Khan

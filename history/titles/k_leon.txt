@@ -102,6 +102,9 @@ d_leon = {
 }
 
 c_leon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 34 }
@@ -269,6 +272,9 @@ b_guardo = { # Counts of Cea
 }
 
 c_benavente = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10754.1.1 = {
 		holder = 70003 # King Alfonso I of Asturias
 		liege = k_asturias
@@ -393,6 +399,9 @@ c_benavente = {
 }
 
 c_zamora = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10794.1.1 = {
 		holder = 70006 # King Alfonso II of Asturias
 		liege = k_asturias
@@ -534,6 +543,9 @@ b_toro = {
 }
 
 c_salamanca = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = 73989 # Boutros, placeholder
 		# Nominally under al-Andalus, but in practice very much a frontier.
@@ -615,6 +627,9 @@ c_salamanca = {
 }
 
 c_avila = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10854.1.1 = {
 		holder = 200156 # Ulyan, placeholder
 		# Nominally under al-Andalus, but in practice very much a frontier.
@@ -734,6 +749,9 @@ d_asturias = {
 
 
 c_asturias_de_oviedo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10718.1.1 = {
 		holder = 70000 # King Pelayo of Asturias
 		liege = k_asturias
@@ -854,6 +872,9 @@ c_asturias_de_oviedo = {
 
 
 c_pravia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10718.1.1 = {
 		holder = 70000 # King Pelayo of Asturias
 		liege = k_asturias

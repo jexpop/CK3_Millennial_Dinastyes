@@ -106,6 +106,9 @@ d_galicia = {
 }
 
 c_coruna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.5.27 = {
 		holder = 73855 # Gutierre Alóitez
 		liege = k_asturias
@@ -179,6 +182,9 @@ c_coruna = {
 }
 
 c_santiago = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -333,6 +339,9 @@ c_santiago = {
 }
 
 c_tui = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		holder = 200058 # Luifredo de Suevonia
 		liege = d_galicia
@@ -454,6 +463,9 @@ c_tui = {
 }
 
 c_astorga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10854.1.1 = {
 		holder = 73755 # Gatón del Bierzo
 		liege = k_asturias
@@ -551,6 +563,9 @@ c_astorga = {
 }
 
 c_monterrei = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10815.1.1 = {
 		holder = visigothic0015 # Alamundo Vitíciz
 		liege = k_asturias
@@ -640,6 +655,9 @@ d_coimbra = {
 }
 
 c_coimbra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10848.1.1 = {
 		holder = danis0005 # Walih Adanis ibn Awsaga of Beja
 		liege = d_beja
@@ -734,6 +752,9 @@ c_coimbra = {
 }
 
 c_viseu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10848.1.1 = {
 		holder = danis0005 # Walih Adanis ibn Awsaga of Beja
 		liege = d_beja
@@ -819,6 +840,9 @@ c_viseu = {
 }
 
 c_aveiro = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10854.1.1 = {
 		holder = surunbaqi0001 # Walih Sa'dun al-Surunbaqi of Portucale
 		liege = d_porto
@@ -899,6 +923,9 @@ c_aveiro = {
 }
 
 c_castelo_branco = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 73928 # al-Hakam ibn Muhammad
 		liege = k_andalusia
@@ -1057,6 +1084,9 @@ d_porto = {
 }
 
 c_porto = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10851.1.1 = {
 		holder = surunbaqi0001 # Walih Sa'dun al-Surunbaqi of Portucale
 		liege = d_porto
@@ -1183,6 +1213,9 @@ b_guimaraes = {
 }
 
 c_braganza = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10851.1.1 = {
 		holder = surunbaqi0001 # Walih Sa'dun al-Surunbaqi of Portucale
 		liege = d_porto

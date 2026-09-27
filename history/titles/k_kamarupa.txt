@@ -322,6 +322,9 @@ d_kamarupanagara = {
 
 
 c_kamarupanagara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10350.1.1 = {
 		holder = 190054 #Pusyavarman
 		liege = d_kamarupanagara
@@ -469,6 +472,9 @@ c_kamarupanagara = {
 
 
 c_kamatapur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10350.1.1 = {
 		holder = 190054 #Pusyavarman
 		liege = d_kamarupanagara
@@ -801,6 +807,9 @@ d_sutiya = {
 
 
 c_haruppeswara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10350.1.1 = {
 		holder = 190054 #Pusyavarman
 		liege = d_kamarupanagara
@@ -948,6 +957,9 @@ c_haruppeswara = {
 
 
 c_charaideo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10350.1.1 = {
 		holder = 190054 #Pusyavarman
 		liege = d_sutiya
@@ -1083,6 +1095,9 @@ c_charaideo = {
 
 
 c_kundina = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10350.1.1 = {
 		holder = 190054 #Pusyavarman
 		liege = d_sutiya
@@ -1359,6 +1374,9 @@ d_para_lauhitya = {
 
 
 c_goalpara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10350.1.1 = {
 		holder = 190054 #Pusyavarman
 		liege = d_para_lauhitya
@@ -1479,6 +1497,9 @@ c_goalpara = {
 
 
 c_dimapur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10350.1.1 = {
 		holder = 190054 #Pusyavarman
 		liege = d_para_lauhitya
@@ -1601,6 +1622,9 @@ c_dimapur = {
 
 
 c_srihatta = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10645.1.1 = {
 		holder = 191100 #Khadgodyama
 		liege = d_vanga
@@ -1668,6 +1692,9 @@ c_srihatta = {
 
 
 c_manipur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10100.1.1 = {
 		holder = manipur001 #Ningthouja
 	}

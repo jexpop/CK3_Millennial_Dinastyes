@@ -6,6 +6,9 @@
 
 #d_SuMa_halmahera
 c_SuMa_ternate = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 15 }
@@ -23,6 +26,9 @@ c_SuMa_ternate = {
 }
 
 c_SuMa_tidore = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 14 }
@@ -40,6 +46,9 @@ c_SuMa_tidore = {
 }
 
 c_SuMa_bacan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 11 }
@@ -58,6 +67,9 @@ c_SuMa_bacan = {
 
 #d_IDO_lesser_sunda
 c_IDO_nusa_nipa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }
@@ -75,6 +87,9 @@ c_IDO_nusa_nipa = {
 }
 
 c_IDO_humba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }
@@ -92,6 +107,9 @@ c_IDO_humba = {
 }
 
 c_IDO_galiyao = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 9 }
@@ -110,6 +128,9 @@ c_IDO_galiyao = {
 
 #d_SuMa_maluku
 c_SuMa_seram = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -127,6 +148,9 @@ c_SuMa_seram = {
 }
 
 c_SuMa_raja_ampat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 7 }
@@ -144,6 +168,9 @@ c_SuMa_raja_ampat = {
 }
 
 c_SuMa_buru-sula = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }
@@ -162,6 +189,9 @@ c_SuMa_buru-sula = {
 
 #d_papua
 c_kepala_burung = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 7 }
@@ -179,6 +209,9 @@ c_kepala_burung = {
 }
 
 c_aru = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 6 }
@@ -196,6 +229,9 @@ c_aru = {
 }
 
 c_sran = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -213,6 +249,9 @@ c_sran = {
 }
 
 c_papua_selatan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -231,6 +270,9 @@ c_papua_selatan = {
 
 #d_IDO_timor
 c_IDO_barat_daya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 7 }
@@ -248,6 +290,9 @@ c_IDO_barat_daya = {
 }
 
 c_IDO_sonba_i = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 9 }
@@ -265,6 +310,9 @@ c_IDO_sonba_i = {
 }
 
 c_IDO_wehale = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }

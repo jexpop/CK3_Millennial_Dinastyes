@@ -144,6 +144,9 @@ d_gwynedd = {
 
 
 c_cardiganshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10390.1.1 = {
 		holder = 159010 #Cunedda
 	}
@@ -293,6 +296,9 @@ c_cardiganshire = {
 
 
 c_merioneth = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10844.1.1 = {
 		holder = 81831 #Rhodri Mawr the Great
 	}
@@ -308,6 +314,9 @@ c_merioneth = {
 
 
 c_caernarfonshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10844.1.1 = {
 		holder = 81831 #Rhodri Mawr the Great
 	}
@@ -325,6 +334,9 @@ c_caernarfonshire = {
 
 
 c_anglesey = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10844.1.1 = {
 		holder = 81831 #Rhodri Mawr the Great
 	}
@@ -339,6 +351,9 @@ c_anglesey = {
 
 
 c_denbighshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10844.1.1 = {
 		holder = 81831 #Rhodri Mawr the Great
 	}
@@ -450,6 +465,9 @@ d_powys = {
 
 
 c_maldwyn = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10844.1.1 = {
 		holder = 81831 #Rhodri Mawr the Great
 	}
@@ -472,6 +490,9 @@ c_maldwyn = {
 
 
 c_sir_faesyfed = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10844.1.1 = {
 		holder = 81831 #Rhodri Mawr the Great
 	}
@@ -683,6 +704,9 @@ d_deheubarth = {
 
 
 c_carmarthenshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = 159801 #Gwgan
 	}
@@ -696,6 +720,9 @@ c_carmarthenshire = {
 
 
 c_pembrokeshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 		#Demetia
 	10360.1.1 = {
 		liege = d_deheubarth
@@ -879,6 +906,9 @@ c_pembrokeshire = {
 
 
 c_glamorgan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10360.1.1 = {
 		holder = 159807 #Macsen Wledig
 	}
@@ -1003,6 +1033,9 @@ c_glamorgan = {
 
 
 c_monmouthshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10840.1.1 = {
 		liege = 0
 		holder = 160258 #Meurig Morgan
@@ -1020,6 +1053,9 @@ c_monmouthshire = {
 
 
 c_brecknockshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Brycheiniog
 	10420.1.1 = {
 		holder = 159320 # Anlach mac Cormac

@@ -144,6 +144,9 @@ d_brittany = {
 }
 
 c_vannes = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10831.1.1 = {
 		holder = 159694	#Nomino�
 		liege = d_brittany
@@ -222,6 +225,9 @@ c_vannes = {
 
 
 c_nantes = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10851.1.1 = {
 		holder = 159965
 		liege = d_brittany
@@ -338,6 +344,9 @@ c_nantes = {
 
 
 c_cornouaille = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		holder = 159673 # Alfrond of Cornouaille
 		liege = "d_brittany"
@@ -413,6 +422,9 @@ c_cornouaille = {
 
 
 c_french_leon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10824.1.1 = {
 		holder = 159687 # Guyomarch of Leon
 		liege = 0
@@ -474,6 +486,9 @@ c_french_leon = {
 }
 
 c_penthievre = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10848.1.1 = {
 		holder = 159694 #Nomino�
 		liege = d_brittany
@@ -544,6 +559,9 @@ c_penthievre = {
 
 
 c_rennes = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10851.1.1 = {
 		liege = "d_brittany"
 		holder = 159696 # Gurvand of Rennes

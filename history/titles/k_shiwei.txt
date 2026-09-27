@@ -21,6 +21,9 @@ d_SW_heicheziguo = {
 }
 
 c_SW_zhongcheziguo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = heichezi_1
 	}
@@ -33,6 +36,9 @@ c_SW_zhongcheziguo = {
 }
 
 c_SW_dongcheziguo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = heichezi_1
 	}
@@ -45,6 +51,9 @@ c_SW_dongcheziguo = {
 }
 
 c_SW_hulunbuir = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mongol_herder_24
 		government = herder_government
@@ -60,6 +69,9 @@ c_SW_hulunbuir = {
 }
 
 c_SW_hongxingan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mongol_herder_25
 		government = herder_government
@@ -75,6 +87,9 @@ c_SW_hongxingan = {
 }
 
 c_SW_mengwuo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = mongol_herder_25
@@ -93,6 +108,9 @@ c_SW_mengwuo = {
 }
 
 c_SW_heiergun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = mengwu_1
@@ -123,6 +141,9 @@ d_SW_dashiweiguo = {
 }
 
 c_SW_pibeihe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mongol_dashiweiguo_1
 	}
@@ -135,6 +156,9 @@ c_SW_pibeihe = {
 }
 
 c_SW_ergunia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mongol_dashiweiguo_1
 	}
@@ -147,6 +171,9 @@ c_SW_ergunia = {
 }
 
 c_SW_hailar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mongol_herder_26
 		government = herder_government
@@ -179,6 +206,9 @@ d_SW_lingxiguo = {
 }
 
 c_SW_lingxiguo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = lingxi_1
@@ -194,6 +224,9 @@ c_SW_lingxiguo = {
 }
 
 c_SW_heiheguo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = shiwei_herder_11
@@ -212,6 +245,9 @@ c_SW_heiheguo = {
 }
 
 c_SW_powoguo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = lingxi_1
@@ -243,6 +279,9 @@ d_SW_qingxingan = {
 }
 
 c_SW_huangtouguo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = shiwei_herder_12
 		government = herder_government
@@ -260,6 +299,9 @@ c_SW_huangtouguo = {
 }
 
 c_SW_xinghuangtou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = shiwei_herder_13
 		government = herder_government
@@ -277,6 +319,9 @@ c_SW_xinghuangtou = {
 }
 
 c_SW_nabeiguo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = shiwei_qingxingan_1
 	}
@@ -291,6 +336,9 @@ c_SW_nabeiguo = {
 }
 
 c_SW_xingnabei = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = shiwei_qingxingan_1
 	}
@@ -305,6 +353,9 @@ c_SW_xingnabei = {
 }
 
 c_SW_luotuoguo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = shiwei_herder_14
 		government = herder_government
@@ -340,6 +391,9 @@ d_SW_ruzheguo = {
 }
 
 c_SW_jiqin_hari = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = ruzhe_1
@@ -358,6 +412,9 @@ c_SW_jiqin_hari = {
 }
 
 c_SW_ruzhejiang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = ruzhe_1
@@ -377,6 +434,9 @@ c_SW_ruzhejiang = {
 }
 
 c_SW_dongruzhe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = ruzhe_1
@@ -411,6 +471,9 @@ d_SW_puyudao = {
 }
 
 c_SW_puyuzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = shiwei_herder_15
@@ -429,6 +492,9 @@ c_SW_puyuzhou = {
 }
 
 c_SW_damoguo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = poho_1
@@ -444,6 +510,9 @@ c_SW_damoguo = {
 }
 
 c_SW_shanbeiguo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = poho_1
@@ -459,6 +528,9 @@ c_SW_shanbeiguo = {
 }
 
 c_SW_heilonghean = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = shiwei_herder_16
@@ -492,6 +564,9 @@ d_SW_sushenguo = {
 	}
 }
 c_SW_suihua = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_shiwei
 		holder = shiwei_sushen_1
@@ -510,6 +585,9 @@ c_SW_suihua = {
 }
 
 c_SW_heilonglin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = shiwei_herder_20
 		government = herder_government
@@ -528,6 +606,9 @@ c_SW_heilonglin = {
 }
 
 c_SW_lupingyuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = shiwei_herder_19
 		government = herder_government
@@ -546,6 +627,9 @@ c_SW_lupingyuan = {
 }
 
 c_SW_fancao = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_shiwei
 		holder = shiwei_sushen_1
@@ -563,6 +647,9 @@ c_SW_fancao = {
 }
 
 c_SW_gonghejiang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_shiwei
 		holder = shiwei_sushen_1

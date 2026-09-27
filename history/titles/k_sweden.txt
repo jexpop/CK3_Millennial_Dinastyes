@@ -217,6 +217,9 @@ d_svealand = {
 
 
 c_upland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -308,6 +311,9 @@ c_upland = {
 
 
 c_sodermannaland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -378,6 +384,9 @@ c_sodermannaland = {
 
 
 c_vastmanland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -432,6 +441,9 @@ c_vastmanland = {
 
 
 c_dalarna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194015
 		government = tribal_government
@@ -473,6 +485,9 @@ c_dalarna = {
 }
 
 c_dalabergslagen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194015
 		government = tribal_government
@@ -603,6 +618,9 @@ d_vastergotland = {
 
 
 c_vastergotland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -679,6 +697,9 @@ c_vastergotland = {
 }
 
 c_skara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -801,6 +822,9 @@ c_skara = {
 
 
 c_dal = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -880,6 +904,9 @@ c_dal = {
 
 
 c_varmland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -947,6 +974,9 @@ c_varmland = {
 }
 
 c_nordmark = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -1073,6 +1103,9 @@ d_ostergotland = {
 
 
 c_ostergotland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -1138,6 +1171,9 @@ c_ostergotland = {
 }
 
 c_kinda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -1204,6 +1240,9 @@ c_kinda = {
 
 
 c_narke = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -1288,6 +1327,9 @@ c_narke = {
 
 
 c_gutland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1411,6 +1453,9 @@ d_smaland = {
 
 
 c_more = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -1484,6 +1529,9 @@ c_more = {
 }
 
 c_sevede = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -1558,6 +1606,9 @@ c_sevede = {
 
 
 c_varend = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# V�rend (formerly Sm�land)
 	
 	10769.1.1 = {
@@ -1611,6 +1662,9 @@ c_varend = {
 
 
 c_njudung = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# Njudung
 	
 	10769.1.1 = {
@@ -1664,6 +1718,9 @@ c_njudung = {
 
 
 c_finnveden = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# Finnveden
 	
 	10769.1.1 = {
@@ -1717,6 +1774,9 @@ c_finnveden = {
 
 
 c_oland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -1803,6 +1863,9 @@ c_oland = {
 
 
 c_gastrikland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		holder = 194054
 		liege = d_svealand
@@ -1871,6 +1934,9 @@ c_gastrikland = {
 
 
 c_halsingland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194020
 		government = tribal_government
@@ -1914,6 +1980,9 @@ c_halsingland = {
 
 
 c_medelpad = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194022
 		government = tribal_government
@@ -1964,6 +2033,9 @@ c_medelpad = {
 
 
 c_angermanland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194022
 		government = tribal_government

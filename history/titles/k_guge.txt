@@ -293,6 +293,9 @@ d_ngari = {
 
 
 c_tsaparang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 24 }
 
 	#Zhangzhung conquered by Tibet
@@ -471,6 +474,9 @@ c_tsaparang = {
 
 
 c_kyunglung = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung Kingdom
 	10400.1.1={
 		liege = "k_guge"
@@ -657,6 +663,9 @@ c_kyunglung = {
 
 
 c_gar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung conquered by Tibet
 	10625.1.1={
 		liege = "d_ngari"
@@ -762,6 +771,9 @@ c_gar = {
 
 
 c_gegyai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung conquered by Tibet
 	10625.1.1={
 		liege = "d_ngari"
@@ -867,6 +879,9 @@ c_gegyai = {
 
 
 c_gerze = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung conquered by Tibet
 	10625.1.1={
 		liege = "d_ngari"
@@ -966,6 +981,9 @@ c_gerze = {
 
 
 c_gomoco = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung conquered by Tibet
 	10625.1.1={
 		liege = "d_ngari"
@@ -1065,6 +1083,9 @@ c_gomoco = {
 
 
 c_garkung = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung Kingdom conquered by Tibetan Empire
 	10625.1.1={
 		liege = "d_conyi"
@@ -1164,6 +1185,9 @@ c_garkung = {
 
 
 c_kamru = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung conquered by Tibetan Empire
 	10625.1.1={
 		liege = "d_ngari"
@@ -1267,6 +1291,9 @@ c_kamru = {
 
 
 c_dhankar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10400.1.1={
 		liege="k_guge"
 	}#Zhangzhung Kingdom
@@ -1618,6 +1645,9 @@ d_purang = {
 
 
 c_purang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung conquered by Tibet
 	10625.1.1={
 		liege="d_purang"
@@ -1790,6 +1820,9 @@ c_purang = {
 
 
 c_cuonaco = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung conquered by Tibet
 	10625.1.1={
 		liege = "d_ngari"
@@ -1889,6 +1922,9 @@ c_cuonaco = {
 
 
 c_lunggar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung Kingdom conqered by Tibetan Empire
 	10625.1.1={
 		liege = "d_purang"
@@ -1988,6 +2024,9 @@ c_lunggar = {
 
 
 c_zhongba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10400.1.1={
 		liege="k_guge"
 	}#Zhangzhung Kingdom
@@ -2167,6 +2206,9 @@ c_zhongba = {
 
 
 c_manthang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung Conquered by the Tibetan Empire
 	10625.1.1={
 		liege = "e_tibet"
@@ -2237,6 +2279,9 @@ c_manthang = {
 
 
 c_coqen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung Kingdom conqered by Tibetan Empire
 	10625.1.1={
 		liege = "d_purang"

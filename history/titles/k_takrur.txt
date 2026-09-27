@@ -38,6 +38,9 @@
 }
 
 c_takrur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 27 }
 
 	10860.1.1 = {
@@ -78,6 +81,9 @@ c_takrur = {
 
 
 c_podor = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		government = tribal_government
 		liege = d_takrur
@@ -116,6 +122,9 @@ c_podor = {
 
 
 c_dhraina = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 6 }
@@ -158,6 +167,9 @@ c_dhraina = {
 
 
 c_silla = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -197,6 +209,9 @@ c_silla = {
 
 
 c_jowol = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 8 }
@@ -237,6 +252,9 @@ c_jowol = {
 
 
 c_galam = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 8 }
@@ -309,6 +327,9 @@ d_djolof = {
 }
 
 c_jolof = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		government = tribal_government
 		holder = wolof0011
@@ -347,6 +368,9 @@ c_jolof = {
 
 
 c_namandiru = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		government = tribal_government
 		holder = wolof0011
@@ -383,6 +407,9 @@ c_namandiru = {
 
 
 c_kayor = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# fictional or anachronistic rulers
 	10865.1.1 = {
 		government = tribal_government
@@ -432,6 +459,9 @@ c_kayor = {
 
 
 c_baol = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Fictional holders
 	10866.1.1 = {
 		holder = wolof0067

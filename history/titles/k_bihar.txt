@@ -328,6 +328,9 @@ d_magadha = {
 }
 
 c_magadha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10490.1.1 = {
 		holder = 191088	#Krisnagupta
 		liege = d_magadha
@@ -500,6 +503,9 @@ c_magadha = {
 
 
 c_mudgagiri = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10755.1.1 = {
 		holder = 190027 #Gopala Pala
 	}
@@ -647,6 +653,9 @@ c_mudgagiri = {
 
 
 c_gaya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 191510
 		liege = k_bihar
@@ -699,6 +708,9 @@ c_gaya = {
 
 
 c_sasaram = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 191518 #Bhars
 		liege = d_kasi
@@ -846,6 +858,9 @@ d_tirabhukti = {
 
 
 c_mithila = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		holder = 191303	#Ramagupta
 		liege = k_bihar
@@ -964,6 +979,9 @@ c_mithila = {
 
 
 c_simaramapura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		holder = 191303	#Ramagupta
 		liege = k_bihar
@@ -1007,6 +1025,9 @@ c_simaramapura = {
 
 
 c_kusinagara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 191298 #Jayaditya I
 	}
@@ -1143,6 +1164,9 @@ c_kusinagara = {
 
 
 c_bangaon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		holder = 191303	#Ramagupta
 		liege = k_bihar
@@ -1308,6 +1332,9 @@ d_kasi = {
 
 
 c_jaunpur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 191518 #Bhars
 		liege = d_kasi
@@ -1411,6 +1438,9 @@ c_jaunpur = {
 
 
 c_varanasi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10750.1.1 = {
@@ -1516,6 +1546,9 @@ c_varanasi = {
 }
 
 c_chunar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10700.1.1 = {
@@ -1681,6 +1714,9 @@ d_jharkand = {
 
 
 c_jharkand = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 191522 #Tribal Cheifs
 	}
@@ -1744,6 +1780,9 @@ c_jharkand = {
 
 
 c_rothas = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 191518 #Bhars
 		liege = d_kasi
@@ -1834,6 +1873,9 @@ c_rothas = {
 
 
 c_rajrappa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 191525
 	}
@@ -1874,6 +1916,9 @@ c_rajrappa = {
 
 
 c_munda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 191421 #Pasna
 	}
@@ -1927,6 +1972,9 @@ c_munda = {
 
 
 c_damin_i_koh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 191405 #Varnamana
 		liege = k_bihar

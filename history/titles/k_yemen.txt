@@ -110,6 +110,9 @@ d_sanaa = {
 }
 
 c_sanaa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 12 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 20 }
@@ -210,6 +213,9 @@ c_sanaa = {
 
 
 c_tihamat-al-yamani = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 		
 	10847.1.1 = {
 		liege = "d_sanaa"
@@ -306,6 +312,9 @@ c_tihamat-al-yamani = {
 
 
 c_najran = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# c_sanaa
 	
 	10630.1.1 = {
@@ -391,6 +400,9 @@ c_najran = {
 
 
 c_zabid = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10630.1.1 = {
 		liege = "d_sanaa"
 	}
@@ -516,6 +528,9 @@ d_jawf-al-yamani = {
 
 
 c_jawf-al-yamani = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10630.1.1 = {
 		liege = "d_sanaa"
 		government = tribal_government
@@ -606,6 +621,9 @@ c_jawf-al-yamani = {
 
 
 c_wabar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# c_sanaa
 	
 	10630.1.1 = {
@@ -728,6 +746,9 @@ d_taizz = {
 
 
 c_taizz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 12 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 20 }
@@ -831,6 +852,9 @@ c_taizz = {
 
 
 c_mandab = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10630.1.1 = {
 		liege = "d_sanaa"
 	}
@@ -936,6 +960,9 @@ c_mandab = {
 
 
 c_dathina = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10630.1.1 = {
 		liege = "d_sanaa"
 	}
@@ -1025,6 +1052,9 @@ c_dathina = {
 
 
 c_hadramawt = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	
 	10630.1.1 = {
 		liege = "d_sanaa"
@@ -1111,6 +1141,9 @@ c_hadramawt = {
 
 
 c_ahqaf = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	
 	10630.1.1 = {
 		liege = "d_sanaa"
@@ -1198,6 +1231,9 @@ c_ahqaf = {
 
 
 c_kinda_sakun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# c_kathiri
 	
 	10630.1.1 = {
@@ -1302,6 +1338,9 @@ c_kinda_sakun = {
 
 
 c_mahra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10630.1.1 = {
 		liege = d_sanaa
 	}
@@ -1355,6 +1394,9 @@ c_mahra = {
 
 
 c_al-asa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10630.1.1 = {
 		liege = d_sanaa
 	}
@@ -1408,6 +1450,9 @@ c_al-asa = {
 
 
 c_socotra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1487,6 +1532,9 @@ c_socotra = {
 
 
 c_dhofar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# c_dhofar
 	10665.1.1 = {
 		liege = d_oman

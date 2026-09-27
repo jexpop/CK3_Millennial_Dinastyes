@@ -29,6 +29,9 @@ d_em_tataria = {
 }
 
 c_em_zhen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = tutukliud_1
@@ -44,6 +47,9 @@ c_em_zhen = {
 }
 
 c_em_gobidada = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = tutukliud_1
@@ -59,6 +65,9 @@ c_em_gobidada = {
 }
 
 c_em_dutulun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = tutukliud_1
@@ -74,6 +83,9 @@ c_em_dutulun = {
 }
 
 c_em_kherulendada = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = mongol_herder_26
@@ -107,6 +119,9 @@ d_em_wuguguo = {
 }
 
 c_em_hepung = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = wugu_1
@@ -123,6 +138,9 @@ c_em_hepung = {
 }
 
 c_em_karakopi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = wugu_1
@@ -139,6 +157,9 @@ c_em_karakopi = {
 }
 
 c_em_akhulun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = mongol_herder_16
@@ -156,6 +177,9 @@ c_em_akhulun = {
 }
 
 c_em_khartereg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = wugu_1
@@ -187,6 +211,9 @@ d_gobi_dadaels = {
 }
 
 c_em_dadaels = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = zubu_1
 	}
@@ -199,6 +226,9 @@ c_em_dadaels = {
 }
 
 c_gobi_ulaantatar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = zubu_1
 	}
@@ -212,6 +242,9 @@ c_gobi_ulaantatar = {
 
 #d_gobi_shatuoguo
 c_gobi_dorngovi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = zubu_1
 	}
@@ -224,6 +257,9 @@ c_gobi_dorngovi = {
 }
 
 c_gobi_sonkhot = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mongol_herder_27
 		government = herder_government
@@ -237,6 +273,9 @@ c_gobi_sonkhot = {
 }
 
 c_gobi_maominggan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = zubu_1
 	}
@@ -249,6 +288,9 @@ c_gobi_maominggan = {
 }
 
 c_gobi_abga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mongol_herder_29
 		government = herder_government
@@ -263,6 +305,9 @@ c_gobi_abga = {
 }
 
 c_gobi_abakhai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mongol_herder_28
 		government = herder_government
@@ -291,6 +336,9 @@ d_gobi_ongi = {
 }
 
 c_gobi_ongi_gol = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = kerait_ongi_1
 	}
@@ -303,6 +351,9 @@ c_gobi_ongi_gol = {
 }
 
 c_gobi_ulaan_nuur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = kerait_ongi_1
 	}
@@ -315,6 +366,9 @@ c_gobi_ulaan_nuur = {
 }
 
 c_gobi_ulaan_govi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = kerait_ongi_1
 	}

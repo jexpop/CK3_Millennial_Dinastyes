@@ -273,6 +273,9 @@ d_langshan = {
 }
 
 c_langshan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Uraqai Vassals - fictional placeholders
 	10740.1.1={
 		liege = "d_langshan"
@@ -368,6 +371,9 @@ c_langshan = {
 }
 
 c_keyimen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Uraqai Vassals - fictional placeholders
 	10740.1.1={
 		liege = "d_langshan"
@@ -571,6 +577,9 @@ d_xiutu = {
 }
 
 c_zhenfan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuoba Vassals - fictional placeholders
 	10740.1.1={
 		liege = "d_xiutu"
@@ -666,6 +675,9 @@ c_zhenfan = {
 }
 
 c_tengger = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuoba Vassals - fictional placeholders
 	10740.1.1={
 		liege = "d_xiutu"
@@ -761,6 +773,9 @@ c_tengger = {
 }
 
 c_alxa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuoba Vassals - fictional placeholders
 	10740.1.1={
 		liege = "d_xiutu"
@@ -856,6 +871,9 @@ c_alxa = {
 }
 
 c_qilin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Qilin commander (Guiyi) - fictional placeholders
 	10861.1.1 = {
 		holder = 305950
@@ -954,6 +972,9 @@ c_qilin = {
 
 
 c_yalong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Qilin commander (Guiyi) - fictional placeholders
 	10861.1.1 = {
 		liege="d_gansu"
@@ -1132,6 +1153,9 @@ d_juyan = {
 }
 
 c_tongcheng = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Uyghurs flee the fall of the Khanate
 	10840.1.1 = {
 		liege = "d_juyan"
@@ -1220,6 +1244,9 @@ c_tongcheng = {
 
 
 c_wentugaole = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Uyghurs flee the fall of the Khanate
 	10840.1.1 = {
 		liege = "d_juyan"
@@ -1308,6 +1335,9 @@ c_wentugaole = {
 
 
 c_heihe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Ganzhou commander (Guiyi) - fictional placeholder
 	10850.1.1 = {
 		liege = "d_gansu"
@@ -1394,6 +1424,9 @@ c_heihe = {
 
 
 c_mazongshan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Uyghurs flee the fall of the Khanate
 	10840.1.1 = {
 		liege = "d_juyan"
@@ -1539,6 +1572,9 @@ k_guiyi = {
 }
 
 c_lingzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3269
 	}
@@ -1626,6 +1662,9 @@ c_lingzhou = {
 }
 
 c_huaiyuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3269
 	}
@@ -1713,6 +1752,9 @@ c_huaiyuan = {
 }
 
 c_weizhou_3 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3269
 	}
@@ -1800,6 +1842,9 @@ c_weizhou_3 = {
 }
 
 c_wulan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3269
 	}
@@ -1887,6 +1932,9 @@ c_wulan = {
 }
 
 c_xiongzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3269
 	}
@@ -1974,6 +2022,9 @@ c_xiongzhou = {
 }
 
 c_huizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_3269
 	}
@@ -2045,6 +2096,9 @@ c_huizhou = {
 }
 
 c_xiazhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2591
 	}
@@ -2138,6 +2192,9 @@ c_xiazhou = {
 }
 
 c_suizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2591
 	}
@@ -2231,6 +2288,9 @@ c_suizhou = {
 }
 
 c_yinzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2591
 	}
@@ -2324,6 +2384,9 @@ c_yinzhou = {
 }
 
 c_wuyuan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2591
 	}
@@ -2414,6 +2477,9 @@ c_wuyuan = {
 }
 
 c_youzhou_2 = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = han_2591
 	}
@@ -2520,6 +2586,9 @@ d_xiasui = {
 }
 
 c_quye = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = li_674E_zhuye_1
 	}
@@ -2624,6 +2693,9 @@ d_tiande = {
 }
 
 c_tiande = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1={
 		holder = han_3025
 		liege = d_tiande
@@ -2712,6 +2784,9 @@ c_tiande = {
 }
 
 c_lxj_fengzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1={
 		holder = han_3025
 		liege = d_tiande
@@ -2800,6 +2875,9 @@ c_lxj_fengzhou = {
 }
 
 c_hequ = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1={
 		holder = li_674E_zhuye_1
 	}

@@ -193,6 +193,9 @@ d_tao-klarjeti = {
 
 
 c_tao = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10646.1.1 = {
 		liege = d_greater_armenia
 	}
@@ -273,6 +276,9 @@ c_tao = {
 
 
 c_klarjeti = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10646.1.1 = {
 		liege = d_greater_armenia
 	}
@@ -353,6 +359,9 @@ c_klarjeti = {
 
 
 c_kartli = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 20 }
@@ -438,6 +447,9 @@ c_kartli = {
 
 
 c_acampse = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10646.1.1 = {
 		liege = "d_greater_armenia"
 	}
@@ -656,6 +668,9 @@ d_abkhazia = {
 
 
 c_abkhazia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10500.1.1 = {
 		holder = 160021
 		liege = "d_abkhazia"
@@ -766,6 +781,9 @@ c_abkhazia = {
 
 
 c_odishi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10500.1.1 = {
 		holder = 160021
 		liege = "d_abkhazia"
@@ -880,6 +898,9 @@ c_odishi = {
 
 
 c_svaneti = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10500.1.1 = {
 		holder = 160021
 		liege = "d_abkhazia"
@@ -990,6 +1011,9 @@ c_svaneti = {
 
 
 c_guria = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1108,6 +1132,9 @@ c_guria = {
  }
 
 c_tbilisi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 43 }
@@ -1349,6 +1376,9 @@ c_tbilisi = {
 
 
 c_lori = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10646.1.1 = {
 		liege = "d_greater_armenia"
 	}
@@ -1419,6 +1449,9 @@ c_lori = {
 
 
 c_kakheti = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	50.1.1 = {
 		holder = 159909
 	}
@@ -1591,6 +1624,9 @@ c_kakheti = {
 
 
 c_hereti = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10270.1.1 = {
 		#liege = "d_albania"
 		holder = 159580

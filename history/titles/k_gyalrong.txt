@@ -115,6 +115,9 @@ d_gyalrong = {
 }
 
 c_barkam = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Qiang Tribes
 	10500.1.1={
 		liege = "d_gyalrong"
@@ -214,6 +217,9 @@ c_barkam = {
 
 
 c_ngawa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Qiang Tribes
 	10500.1.1={
 		liege = "d_gyalrong"
@@ -312,6 +318,9 @@ c_ngawa = {
 }
 
 c_sungqu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Qiang Tribes
 	10500.1.1={
 		liege = "d_gyalrong"
@@ -411,6 +420,9 @@ c_sungqu = {
 
 
 c_zoige = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Qiang Tribes
 	10500.1.1={
 		liege = "d_gyalrong"
@@ -510,6 +522,9 @@ c_zoige = {
 
 
 c_quqen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Qiang Tribes
 	10500.1.1={
 		liege = "d_gyalrong"
@@ -719,6 +734,9 @@ d_chakla = {
 
 
 c_chakla = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Qiang Tribes
 	10500.1.1={
 		liege="d_chakla"
@@ -818,6 +836,9 @@ c_chakla = {
 
 
 c_lhagang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Qiang Tribes
 	10500.1.1={
 		liege="d_chakla"
@@ -917,6 +938,9 @@ c_lhagang = {
 
 
 c_dawu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Qiang Tribes
 	10500.1.1={
 		liege = "d_chakla"
@@ -1115,6 +1139,9 @@ c_dawu = {
 
 
 c_sertar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Qiang Tribes
 	10500.1.1={
 		liege = "d_chakla"
@@ -1326,6 +1353,9 @@ d_golog = {
 }
 
 c_maqen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_golog"
@@ -1425,6 +1455,9 @@ c_maqen = {
 
 
 c_madoi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_qumarleb"
@@ -1524,6 +1557,9 @@ c_madoi = {
 
 
 c_baima = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_golog"
@@ -1735,6 +1771,9 @@ d_malho = {
 }
 
 c_rebgong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_xining"
@@ -1839,6 +1878,9 @@ c_rebgong = {
 
 
 c_mangra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_malho"
@@ -1938,6 +1980,9 @@ c_mangra = {
 
 
 c_zekog = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_malho"
@@ -2149,6 +2194,9 @@ d_gainlho = {
 }
 
 c_jone = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_gainlho"
@@ -2248,6 +2296,9 @@ c_jone = {
 
 
 c_sangqu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_gainlho"
@@ -2347,6 +2398,9 @@ c_sangqu = {
 
 
 c_tewo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_gainlho"
@@ -2446,6 +2500,9 @@ c_tewo = {
 
 
 c_maqu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_malho"

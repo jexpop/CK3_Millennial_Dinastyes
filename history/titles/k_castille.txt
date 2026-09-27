@@ -75,6 +75,9 @@ d_cantabria = {
 
 
 c_asturias_de_santillana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10702.1.1 = {
 		holder = 70010 # Duke Pedro of Cantabria
 		liege = d_cantabria
@@ -207,6 +210,9 @@ c_asturias_de_santillana = {
 }
 
 c_amaya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10702.1.1 = {
 		holder = 70010 # Duke Pedro of Cantabria
 		liege = d_cantabria
@@ -378,6 +384,9 @@ d_castilla = {
 
 
 c_burgos = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -523,6 +532,9 @@ b_palencia = {
 }
 
 c_valladolid = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10865.1.1 = {
 		holder = 200225 # Ya'qub, placeholder
 		# Nominally under al-Andalus, but in practice very much a frontier.
@@ -623,6 +635,9 @@ c_valladolid = {
 
 
 c_soria = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10857.1.1 = {
 		holder = 73988 # Urdun, placeholder
 		# Nominally under al-Andalus, but in practice very much a frontier.
@@ -691,6 +706,9 @@ c_soria = {
 
 
 c_cuellar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		holder = 73990 # Sabariquh, placeholder
 		# Nominally under al-Andalus, but in practice very much a frontier.
@@ -753,6 +771,9 @@ c_cuellar = {
 
 
 c_olmedo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 73991 # Adfuns, placeholder
 		# Nominally under al-Andalus, but in practice very much a frontier.

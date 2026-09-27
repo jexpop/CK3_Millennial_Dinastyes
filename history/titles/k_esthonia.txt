@@ -56,6 +56,9 @@ d_esthonia = {
 
 
 c_reval = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 20 }
@@ -108,6 +111,9 @@ c_reval = {
 
 
 c_narva = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		liege = "d_esthonia"
 		holder = 170348
@@ -156,6 +162,9 @@ c_narva = {
 
 
 c_osel = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10763.1.1 = {
 		holder = 170350
 		liege = "d_livonia"
@@ -231,6 +240,9 @@ b_hiiumaa = {
 
 
 c_wiek = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 170349
 		liege = "d_livonia"
@@ -355,6 +367,9 @@ d_livonia = {
 
 
 c_vidzeme = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 170349
 		liege = "d_livonia"
@@ -436,6 +451,9 @@ c_vidzeme = {
 
 
 c_livs = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 170349
 		liege = "d_livonia"
@@ -526,6 +544,9 @@ c_livs = {
 
 
 c_dorpat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = "d_livonia"
 		holder = 170352

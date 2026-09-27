@@ -339,6 +339,9 @@ d_albany = {
 }
 
 c_gowrie = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 20 }
@@ -487,6 +490,9 @@ c_gowrie = {
 
 
 c_fife = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10210.1.1 = {
 		liege = "k_scotland"
 		holder = 166513
@@ -663,6 +669,9 @@ c_fife = {
 
 
 c_strathearn = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10210.1.1 = {
 		liege = "k_scotland"
 		holder = 166513
@@ -840,6 +849,9 @@ c_strathearn = {
 
 
 c_atholl = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = "d_moray"
 		holder = 166618
@@ -902,6 +914,9 @@ c_atholl = {
 
 
 c_angus = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10695.1.1 = {
 		liege = "d_moray"
 		holder = 166595
@@ -1045,6 +1060,9 @@ c_angus = {
 
 
 c_mearns = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 20 }
@@ -1255,6 +1273,9 @@ d_the_isles = {
 
 
 c_isle_of_man = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10431.1.1 = {
 		holder = 159935 #Dingad ap Tudwal
 		government = tribal_government
@@ -1514,6 +1535,9 @@ d_galloway = {
 
 
 c_galloway = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = "d_northumberland"
 		holder = 205246
@@ -1569,6 +1593,9 @@ c_galloway = {
 
 
 c_carrick = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = "d_northumberland"
 		holder = 205246
@@ -1638,6 +1665,9 @@ c_carrick = {
 
 
 c_ayrshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = "d_northumberland"
 		holder = 205246
@@ -1710,6 +1740,9 @@ c_ayrshire = {
 
 
 c_annandale = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 205050
 		liege = d_northumberland
@@ -1734,6 +1767,9 @@ c_annandale = {
 
 
 c_lennox = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10355.1.1 = {
 		holder = 166466
 	}
@@ -2061,6 +2097,9 @@ d_western_isles = {
 
 
 c_inner_hebrides = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Dal Riata
 	10490.1.1 = {
 		holder = 166468
@@ -2262,6 +2301,9 @@ c_inner_hebrides = {
 
 
 c_outer_hebrides = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	
 	
 	#Dal Riata
@@ -2463,6 +2505,9 @@ c_outer_hebrides = {
 
 
 c_argyll = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10490.1.1 = {
 		liege = "d_western_isles"
 		government = tribal_government
@@ -2706,6 +2751,9 @@ d_lothian = {
 
 
 c_lothian = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 20 }
@@ -2760,6 +2808,9 @@ c_lothian = {
 
 
 c_dunbar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -2806,6 +2857,9 @@ c_dunbar = {
 
 
 c_teviotdale = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 205050
 		liege = d_northumberland
@@ -2854,6 +2908,9 @@ c_teviotdale = {
 
 
 c_linlithgowshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10858.1.1 = {
 		holder = 183528
 		liege = k_scotland
@@ -2874,6 +2931,9 @@ c_linlithgowshire = {
 
 
 c_lanarkshire = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 205050
 		liege = d_northumberland
@@ -3094,6 +3154,9 @@ d_moray = {
 
 
 c_moray = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10517.1.1 = {
 		holder = 166543
 		liege = "d_moray"
@@ -3232,6 +3295,9 @@ c_moray = {
 
 
 c_ross = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = "d_moray"
 		holder = 166617
@@ -3298,6 +3364,9 @@ c_ross = {
 
 
 c_buchan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = "d_moray"
 		holder = 166612
@@ -3349,6 +3418,9 @@ c_buchan = {
 
 
 c_sutherland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	
 	
 	10760.1.1 = {
@@ -3422,6 +3494,9 @@ c_sutherland = {
 
 
 c_caithness = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = "d_moray"
 		holder = 166614
@@ -3485,6 +3560,9 @@ c_caithness = {
 
 
 c_inverness = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	
 	10517.1.1 = {
 		holder = 166543

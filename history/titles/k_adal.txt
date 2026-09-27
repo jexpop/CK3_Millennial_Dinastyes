@@ -5,6 +5,9 @@
 }
 
 c_dawaro = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "d_aksum"
 		holder = 145991
@@ -99,6 +102,9 @@ c_dawaro = {
 
 
 c_gabal = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "d_aksum"
 		holder = 145991
@@ -193,6 +199,9 @@ c_gabal = {
 
 
 c_arusi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "d_aksum"
 		holder = 145991
@@ -395,6 +404,9 @@ d_adal = {
 }
 
 c_dakkar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = "d_adal"
 		holder = 145968
@@ -496,6 +508,9 @@ c_dakkar = {
 }
 
 c_harar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -604,6 +619,9 @@ c_harar = {
 
 
 c_hargaya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = "d_adal"
 		holder = 145968
@@ -708,6 +726,9 @@ c_hargaya = {
 
 
 c_fafan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = somali0096
 		government = tribal_government
@@ -738,6 +759,9 @@ c_fafan = {
 
 
 c_awssa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		government = tribal_government
 		liege = 0
@@ -820,6 +844,9 @@ c_awssa = {
 
 
 c_sitti = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = "d_aksum"
 		holder = 145991
@@ -919,6 +946,9 @@ c_sitti = {
 
 
 c_danakil = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		government = tribal_government
 		liege = 0
@@ -949,6 +979,9 @@ c_danakil = {
 
 
 c_edd = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		government = tribal_government
 		liege = 0
@@ -979,6 +1012,9 @@ c_edd = {
 
 
 c_afar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		government = tribal_government
 		liege = 0
@@ -1026,6 +1062,9 @@ d_zaila = {
 }
 
 c_zaila = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = "d_adal"
 		holder = 145968
@@ -1128,6 +1167,9 @@ c_zaila = {
 
 
 c_tadjoura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		government = tribal_government
 		liege = 0
@@ -1203,6 +1245,9 @@ c_tadjoura = {
 
 
 c_berbera = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = somali0096
 		government = tribal_government
@@ -1247,6 +1292,9 @@ d_sanaag = {
 }
 
 c_mait = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -1294,6 +1342,9 @@ c_mait = {
 
 
 c_makhir = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = somali0096
 		government = tribal_government
@@ -1324,6 +1375,9 @@ c_makhir = {
 
 
 c_busaso = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Darood clan
 	10865.1.1 = {
 		holder = somali0107

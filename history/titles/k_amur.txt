@@ -14,6 +14,9 @@ d_eman_boli = {
 }
 
 c_eman_boli = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_boli_01_fic	#fictional
 	}
@@ -30,6 +33,9 @@ c_eman_boli = {
 }
 
 c_eman_molihewen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_molihewen_01_fic	#fictional
 	}
@@ -42,6 +48,9 @@ c_eman_molihewen = {
 }
 
 c_eman_mohean = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_mohewan_01_fic	#fictional
 	}
@@ -58,6 +67,9 @@ c_eman_mohean = {
 }
 
 c_eman_choripi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_choripi_01_fic	#fictional
 	}
@@ -71,6 +83,9 @@ c_eman_choripi = {
 
 #d_eman_sikhotebei
 c_eman_yerenhe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_yerenhe_01_fic	#fictional
 	}
@@ -86,6 +101,9 @@ c_eman_yerenhe = {
 }
 
 c_eman_wuguihai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_wuguihai_01_fic	#fictional
 	}
@@ -98,6 +116,9 @@ c_eman_wuguihai = {
 }
 
 c_eman_heishuiyang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_heishuiyang_01_fic	#fictional
 	}
@@ -110,6 +131,9 @@ c_eman_heishuiyang = {
 }
 
 c_eman_beihean = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_beihean_01_fic	#fictional
 	}
@@ -123,6 +147,9 @@ c_eman_beihean = {
 
 #d_eman_samagero
 c_eman_tudali = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = tribal_government
 		holder = nivkh_tudali_01_fic	#fictional
@@ -136,6 +163,9 @@ c_eman_tudali = {
 }
 
 c_eman_yam_alin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = tribal_government
 		holder = nivkh_yamalin_01_fic	#fictional
@@ -149,6 +179,9 @@ c_eman_yam_alin = {
 }
 
 c_eman_khadul = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = tribal_government
 		holder = nivkh_khadul_01_fic	#fictional
@@ -162,6 +195,9 @@ c_eman_khadul = {
 }
 
 c_eman_kerin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = tribal_government
 		holder = nivkh_kerin_01_fic	#fictional
@@ -176,6 +212,9 @@ c_eman_kerin = {
 
 #d_eman_nivkhia
 c_eman_nurgan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = tribal_government
 		holder = nivkh_nurgan_01_fic	#fictional
@@ -189,6 +228,9 @@ c_eman_nurgan = {
 }
 
 c_eman_amgun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = tribal_government
 		holder = nivkh_amgun_01_fic	#fictional
@@ -202,6 +244,9 @@ c_eman_amgun = {
 }
 
 c_eman_tugur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = tribal_government
 		holder = nivkh_tugur_01_fic	#fictional
@@ -216,6 +261,9 @@ c_eman_tugur = {
 
 #d_eman_amar
 c_eman_murkonno = {	
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_murkonno_01_fic	#fictional
 	}
@@ -232,6 +280,9 @@ c_eman_murkonno = {
 }
 
 c_eman_urmi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_urmi_01_fic	#fictional
 	}
@@ -244,6 +295,9 @@ c_eman_urmi = {
 }
 
 c_eman_vanda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_vanda_01_fic	#fictional
 	}
@@ -256,6 +310,9 @@ c_eman_vanda = {
 }
 
 c_eman_nimen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_nimen_01_fic	#fictional
 	}
@@ -270,6 +327,9 @@ c_eman_nimen = {
 
 #d_eman_bureya
 c_eman_turma = {	
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_bureya_01_fic	#fictional
 	}
@@ -282,6 +342,9 @@ c_eman_turma = {
 }
 
 c_eman_birija = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_birija_01_fic	#fictional
 	}
@@ -294,6 +357,9 @@ c_eman_birija = {
 }
 
 c_eman_urehokto = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mohe_urehokto_01_fic	#fictional
 	}

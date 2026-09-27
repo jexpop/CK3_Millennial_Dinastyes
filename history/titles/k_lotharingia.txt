@@ -207,6 +207,9 @@ d_luxembourg = {
 
 
 c_luxembourg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 131717 #Agnerald de Chaumontis
 		liege = k_france
@@ -293,6 +296,9 @@ c_luxembourg = {
 
 
 c_bouillon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 131717 #Agnerald de Chaumontis
 		liege = k_france
@@ -381,6 +387,9 @@ c_bouillon = {
 }
 
 c_liege = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 20 }
 
 	10721.1.1 = {
@@ -493,6 +502,9 @@ c_liege = {
 
 
 c_namur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10721.1.1 = {
 		holder = 91000 #Robert Capet
 		liege = k_france
@@ -640,6 +652,9 @@ d_brabant = {
 
 
 c_brabant = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -718,6 +733,9 @@ c_brabant = {
 
 
 c_antwerpen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -839,6 +857,9 @@ c_antwerpen = {
 
 
 c_hainaut = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 194170
 		liege = d_brabant
@@ -928,6 +949,9 @@ c_hainaut = {
 
 
 c_cambray = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 194170
 		liege = d_brabant
@@ -1015,6 +1039,9 @@ c_cambray = {
 }
 
 c_aachen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 25 }
 
 	21.1.1 = {
@@ -1126,6 +1153,9 @@ c_aachen = {
 
 
 c_cleves = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 6392
 	}
@@ -1206,6 +1236,9 @@ c_cleves = {
 
 
 c_maastricht = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 131717 #Agnerald de Chaumontis
 		liege = k_france
@@ -1391,6 +1424,9 @@ d_upper_lorraine = {
 
 
 c_trier = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 13 }
 	11178.1.1 = { change_development_level = 27 }
@@ -1469,6 +1505,9 @@ c_trier = {
 
 
 c_nancy = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10732.1.1 = {
 		liege = d_swabia
 	}
@@ -1565,6 +1604,9 @@ c_nancy = {
 
 
 c_metz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 9 }
 	11066.1.1 = { change_development_level = 13 }
 	11178.1.1 = { change_development_level = 30 }
@@ -1686,6 +1728,9 @@ c_metz = {
 
 
 c_saarbrucken = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10598.1.1 = {
 		liege = d_west_franconia
 	}
@@ -1828,6 +1873,9 @@ c_saarbrucken = {
 
 
 c_puttlingen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10755.1.1 = {
 		liege = "k_lotharingia"
 		holder = 91501 #Wido, historical as placeholder
@@ -1947,6 +1995,9 @@ c_puttlingen = {
 
 
 c_neufchateau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10732.1.1 = {
 		liege = d_swabia
 	}
@@ -2127,6 +2178,9 @@ d_lower_lorraine = {
 
 
 c_cologne = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 15 }
 	11178.1.1 = { change_development_level = 32 }
@@ -2239,6 +2293,9 @@ c_cologne = {
 
 
 c_dortmund = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10759.1.1 = {
 		liege = k_france
 	}
@@ -2346,6 +2403,9 @@ c_dortmund = {
 
 
 c_arnsberg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = d_westfalen
 	}
@@ -2453,6 +2513,9 @@ c_arnsberg = {
 
 
 c_mark = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10759.1.1 = {
 		liege = k_france
 	}
@@ -2561,6 +2624,9 @@ c_mark = {
 
 
 c_koblenz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10755.1.1 = {
 		liege = "k_lotharingia"
 		holder = 91501 #Wido, historical as placeholder
@@ -2639,6 +2705,9 @@ c_koblenz = {
 
 
 c_bergh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10759.1.1={
 		liege=k_france
 	}
@@ -2692,6 +2761,9 @@ c_bergh = {
 
 
 c_sayn = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10754.1.1 = {
 		liege = k_france
 	}

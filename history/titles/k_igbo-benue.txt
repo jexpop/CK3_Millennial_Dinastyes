@@ -5,6 +5,9 @@
 }
 
 c_igbo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 6 }
@@ -55,6 +58,9 @@ c_igbo = {
 
 
 c_idoma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = igbo0019
 		government = tribal_government
@@ -82,6 +88,9 @@ c_idoma = {
 
 
 c_igala = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = igbo0026
 		government = tribal_government
@@ -112,6 +121,9 @@ c_igala = {
 
 
 c_ijaw = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 6 }
@@ -162,6 +174,9 @@ c_ijaw = {
 
 
 c_ibibo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = igbo0015
 		government = tribal_government
@@ -212,6 +227,9 @@ d_nupe = {
 }
 
 c_nupe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = nupe0009
 		government = tribal_government
@@ -242,6 +260,9 @@ c_nupe = {
 
 
 c_guwari = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 6 }
@@ -290,6 +311,9 @@ c_guwari = {
 
 
 c_opanda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = nupe0001
 		government = tribal_government
@@ -321,6 +345,9 @@ c_opanda = {
 
 
 c_kyadya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = nupe0030
 		government = tribal_government
@@ -362,6 +389,9 @@ c_kyadya = {
 
 
 c_kwararafa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 6 }
@@ -401,6 +431,9 @@ c_kwararafa = {
 
 
 c_keffi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = nupe0001
 		government = tribal_government
@@ -432,6 +465,9 @@ c_keffi = {
 
 
 c_bauchi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 6 }

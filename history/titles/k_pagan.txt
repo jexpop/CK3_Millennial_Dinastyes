@@ -47,6 +47,9 @@ d_pagan = {
 }
 
 c_pagan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 9 }
 	11066.1.1 = { change_development_level = 13 }
 	11178.1.1 = { change_development_level = 53 }
@@ -84,6 +87,9 @@ c_pagan = {
 }
 
 c_ava = { #fictional tributary split-out
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10846.1.1 = {
 		holder = pagan_vassal_01 #fictional Kyawswa
 		government = mandala_government
@@ -126,6 +132,9 @@ c_ava = { #fictional tributary split-out
 }
 
 c_kyaukse = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = pagan_tributary_02
 		tributary_of = {
@@ -147,6 +156,9 @@ c_kyaukse = {
 }
 
 c_minbu = { #fictional vassal split-out
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10846.1.1 = {
 		holder = pagan_tributary_01 #fictional Thihathu
 		government = mandala_government
@@ -182,6 +194,9 @@ c_minbu = { #fictional vassal split-out
 }
 
 c_sagaing = { #fictional tributary split-out
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10846.1.1 = {
 		holder = pagan_vassal_01 #fictional Kyawswa
 		government = mandala_government
@@ -200,6 +215,9 @@ c_sagaing = { #fictional tributary split-out
 }
 
 c_yamethin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10846.1.1 = {
 		holder = earlyburman001 #Pyinbya
 	}
@@ -237,6 +255,9 @@ c_yamethin = {
 }
 
 c_takon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = burman010 #Maha Thanbawa - Fictional ruler
 		government = mandala_government
@@ -261,6 +282,9 @@ c_takon = {
 }
 
 c_madaya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = burman010 #Maha Thanbawa - Fictional ruler
 	}
@@ -275,6 +299,9 @@ c_madaya = {
 }
 
 c_hanlan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = burman012 #Thihanu - Fictional ruler
 		tributary_of = {
@@ -293,6 +320,9 @@ c_hanlan = {
 }
 
 c_kale = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = burman012 #Thihanu - Fictional ruler
 	}
@@ -307,6 +337,9 @@ c_kale = {
 }
 
 c_sriksetra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = burman014 #Thumondari - Fictional ruler
 		government = mandala_government
@@ -326,6 +359,9 @@ c_sriksetra = {
 }
 
 c_magwe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = burman014 #Thumondari - Fictional ruler
 	}
@@ -340,6 +376,9 @@ c_magwe = {
 }
 
 c_hinthada = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = mon051 #Athinkha - Fictional ruler to split up the Irrawaddy Delta
 		government = mandala_government
@@ -365,6 +404,9 @@ c_hinthada = {
 
 
 c_toungoo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = burman014 #Thumondari - Fictional ruler
 	}
@@ -470,6 +512,9 @@ d_arakan = {
 }
 
 c_vaisali = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10788.1.1 = {
 		holder = arakan001 #Mahataingchandra
 	}
@@ -546,6 +591,9 @@ c_vaisali = {
 }
 
 c_ramu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		holder = arakan_minor_3
 		tributary_of = {
@@ -570,6 +618,9 @@ c_ramu = {
 }
 
 c_thabeik_taung = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		holder = arakan_minor_1
 		tributary_of = {
@@ -594,6 +645,9 @@ c_thabeik_taung = {
 }
 
 c_sandoway = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10788.1.1 = {
 		holder = arakan001 #Mahataingchandra
 	}
@@ -708,6 +762,9 @@ d_ramannadesa = {
 }
 
 c_thaton = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 15 }
 	11178.1.1 = { change_development_level = 18 }
@@ -749,6 +806,9 @@ c_thaton = {
 }
 
 c_sittaung = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10820.1.1 = {
 		holder = mon022 #Dhamma
 	}
@@ -786,6 +846,9 @@ c_sittaung = {
 }
 
 c_pegu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10825.1.1 = {
 		holder = mon002 #Thamala
 	}
@@ -851,6 +914,9 @@ c_pegu = {
 }
 
 c_dagon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 15 }
 	11178.1.1 = { change_development_level = 18 }
@@ -915,6 +981,9 @@ c_dagon = {
 }
 
 c_kusumi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = mon051 #Athinkha - Fictional ruler to split up the Irrawaddy Delta
 		tributary_of = {

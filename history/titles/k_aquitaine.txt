@@ -166,6 +166,9 @@ d_gascogne = {	#AKA Vasconia
 }
 
 c_bordeaux = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 15 }
 	11178.1.1 = { change_development_level = 24 }
@@ -277,6 +280,9 @@ c_bordeaux = {
 }
 
 c_labourd = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 9 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -380,6 +386,9 @@ c_labourd = {
 }
 
 c_albret = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10735.1.1 = {
 		holder = 190483 #Hatto
 	}
@@ -468,6 +477,9 @@ c_albret = {
 }
 
 c_marsan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 190499 #Guillaume
 	}
@@ -557,6 +569,9 @@ c_marsan = {
 }
 
 c_agenais = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		government = theocracy_government
 		holder = 168144 #Concordius
@@ -792,6 +807,9 @@ d_aquitaine = {
 }
 
 c_angouleme = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 190504 #Wulgrin
 		liege = d_aquitaine
@@ -914,6 +932,9 @@ c_angouleme = {
 }
 
 c_perigord = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 190504 #Wulgrin
 		liege = d_aquitaine
@@ -1015,6 +1036,9 @@ c_perigord = {
 }
 
 c_limousin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10865.1.1 = {
 		liege = d_toulouse
 		holder = 127007 #Bernard de Toulouse
@@ -1090,6 +1114,9 @@ c_limousin = {
 }
 
 c_saintonge = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10678.1.1 = {
 		holder = 190478 #Boggis
 		liege = k_france
@@ -1182,6 +1209,9 @@ c_saintonge = {
 }
 
 c_aunis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10678.1.1 = {
 		holder = 190478 #Boggis
 	}
@@ -1371,6 +1401,9 @@ d_toulouse = {
 }
 
 c_toulouse = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 27 }
@@ -1477,6 +1510,9 @@ c_toulouse = {
 }
 
 c_quercy = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 190514 #Guillaume
 	}
@@ -1582,6 +1618,9 @@ c_quercy = {
 }
 
 c_gevaudan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10688.1.1 = {
 		liege = d_aquitaine
 	}
@@ -1663,6 +1702,9 @@ c_gevaudan = {
 }
 
 c_rouergue = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#840 - Foucaud
 	10850.1.1 = {
 		holder = 127006 #Fredelo de Toulouse
@@ -1697,6 +1739,9 @@ c_rouergue = {
 }
 
 c_millau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#840 - Foucaud
 	10850.1.1 = {
 		holder = 127006 #Fredelo de Toulouse
@@ -1731,6 +1776,9 @@ c_millau = {
 }
 
 c_albi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		holder = 127007 #Bernard de Toulouse
 		liege = d_toulouse
@@ -1764,6 +1812,9 @@ c_albi = {
 }
 
 c_uses = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10865.1.1 = {
 		# Bernard of Gothia is moved to Gothia & Septimania.
 		holder = 168137
@@ -1810,6 +1861,9 @@ c_uses = {
 }
 
 c_montpellier = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 23 }
 
 	10865.1.1 = {
@@ -1857,6 +1911,9 @@ c_montpellier = {
 }
 
 c_carcassonne = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1960,6 +2017,9 @@ c_carcassonne = {
 }
 
 c_beziers = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 24 }
 
 	10865.1.1 = {
@@ -1999,6 +2059,9 @@ c_beziers = {
 }
 
 c_foix = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10759.1.1 = {
 		holder = 190495 #Icterius
 		liege = d_gascogne
@@ -2079,6 +2142,9 @@ d_armagnac = {
 }
 
 c_armagnac = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10759.1.1 = {
 		holder = 190494 #Artgarius
 	}
@@ -2177,6 +2243,9 @@ c_armagnac = {
 }
 
 c_bigorre = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10735.1.1 = {
 		holder = 190483 #Hatto
 	}
@@ -2313,6 +2382,9 @@ c_bigorre = {
 }
 
 c_bearn = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10735.1.1 = {
 		holder = 190483 #Hatto
 		liege = 0
@@ -2431,6 +2503,9 @@ c_bearn = {
 }
 
 c_comminges = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10759.1.1 = {
 		holder = 190494 #Artgarius
 	}
@@ -2550,6 +2625,9 @@ d_auvergne = {
 }
 
 c_auvergne = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		liege = d_aquitaine
 		holder = 127019	#Bernard I
@@ -2626,6 +2704,9 @@ c_auvergne = {
 }
 
 c_clermont_sur_allier = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		liege = d_aquitaine
 		holder = 127021	#Bernard I
@@ -2702,6 +2783,9 @@ c_clermont_sur_allier = {
 }
 
 c_thiers = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		liege = d_aquitaine
 		holder = 127021	#Bernard I
@@ -2778,6 +2862,9 @@ c_thiers = {
 }
 
 c_velay = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10688.1.1 = {
 		liege = d_aquitaine
 	}
@@ -2868,6 +2955,9 @@ d_bourbon = {
 }
 
 c_bourbon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10834.1.1 = {
 		liege = k_france
 		holder = 163065
@@ -2932,6 +3022,9 @@ c_bourbon = {
 }
 
 c_bellac = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 190561 #Geofrey
 		liege = k_lotharingia
@@ -3040,6 +3133,9 @@ c_bellac = {
 }
 
 c_jaligny = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10834.1.1 = {
 		liege = k_france
 		holder = 163065
@@ -3104,6 +3200,9 @@ c_jaligny = {
 }
 
 c_la_marche = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 190561 #Geofrey
 		liege = k_lotharingia
@@ -3327,6 +3426,9 @@ d_poitou = {
 }
 
 c_poitiers = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 11 }
@@ -3385,6 +3487,9 @@ c_poitiers = {
 }
 
 c_lusignan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10678.1.1 = {
 		holder = 190478 #Boggis
 		liege = k_france
@@ -3478,6 +3583,9 @@ c_lusignan = {
 }
 
 c_montaigu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10865.1.1 = {
 		liege = 0
 		holder = 6878 # Hastein, the feared Viking chieftain
@@ -3595,6 +3703,9 @@ c_montaigu = {
 }
 
 c_thouars = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 144964	#Geoffrey de Thouars
 		liege = k_france

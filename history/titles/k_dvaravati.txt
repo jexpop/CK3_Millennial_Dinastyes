@@ -102,6 +102,9 @@ d_lop_buri = {
 }
 
 c_lop_buri = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 21 }
@@ -146,6 +149,9 @@ c_lop_buri = {
 }
 
 c_khu_bua = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 14 }
@@ -175,6 +181,9 @@ c_khu_bua = {
 }
 
 c_nakhon_pathom = {	#Suphannabhum = Suvarnabhumi = Suphan Buri = Xian
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 9 }
 	11066.1.1 = { change_development_level = 15 }
 	11178.1.1 = { change_development_level = 27 }
@@ -205,6 +214,9 @@ c_nakhon_pathom = {	#Suphannabhum = Suvarnabhumi = Suphan Buri = Xian
 
 ######## d_muang_sua
 c_luang_prabang = {	#aka Muang Sua
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 13 }
 	11178.1.1 = { change_development_level = 23 }
@@ -222,6 +234,9 @@ c_luang_prabang = {	#aka Muang Sua
 }
 
 c_chiang_khaeng = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 14 }
@@ -239,6 +254,9 @@ c_chiang_khaeng = {
 }
 
 c_nan_asia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 14 }
@@ -266,6 +284,9 @@ c_nan_asia = {
 }
 
 c_ngoenyang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 19 }
@@ -345,6 +366,9 @@ c_ngoenyang = {
 
 ######## d_sukhothai
 c_chakangrao = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 13 }
@@ -371,6 +395,9 @@ c_chakangrao = {
 }
 
 c_phetchabun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 12 }
@@ -396,6 +423,9 @@ c_phetchabun = {
 }
 
 c_sukhothai = {	#Chaliang
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 24 }
@@ -425,6 +455,9 @@ c_sukhothai = {	#Chaliang
 }
 
 c_lampang = {	#Phayao
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 15 }
@@ -479,6 +512,9 @@ b_phayao = {	# within c_lampang
 
 ######## d_tun_sun
 c_THAI_phetchaburi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -505,6 +541,9 @@ c_THAI_phetchaburi = {
 }
 
 c_THAI_tenasserim = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -531,6 +570,9 @@ c_THAI_tenasserim = {
 }
 
 c_thanbyuzayat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -661,6 +703,9 @@ d_haripunjaya = {
 }
 
 c_hlaingbwe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }
@@ -773,6 +818,9 @@ c_hlaingbwe = {
 }
 
 c_haripunjaya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 9 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 26 }
@@ -885,6 +933,9 @@ c_haripunjaya = {
 }
 
 c_mae_hong_son = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 7 }
@@ -919,6 +970,9 @@ d_sipsongpanna = { #Moang Lü
 }
 
 c_chiang_rung = { # AKA Jinglong
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 15 }
@@ -937,6 +991,9 @@ c_chiang_rung = { # AKA Jinglong
 }
 
 c_moeng_long = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }

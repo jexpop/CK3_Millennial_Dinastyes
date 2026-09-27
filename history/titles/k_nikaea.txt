@@ -60,6 +60,9 @@
 }
 
 c_nikaea = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 15 }
 	11178.1.1 = { change_development_level = 18 }
@@ -127,6 +130,9 @@ c_nikaea = {
 
 
 c_mysia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_opsikion"
 	}
@@ -190,6 +196,9 @@ c_mysia = {
 
 
 c_prusa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_opsikion"
 		government = administrative_government
@@ -266,6 +275,9 @@ c_prusa = {
 
 
 c_phrygia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_opsikion"
 	}
@@ -410,6 +422,9 @@ d_ephese = {
 
 
 c_ionia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1={
 		liege="d_ephese"
 	}
@@ -455,6 +470,9 @@ c_ionia = {
 
 
 c_aeolis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1={
 		liege="d_ephese"
 		government = administrative_government
@@ -596,6 +614,9 @@ d_thracesia = {
 }
 
 c_lydia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -676,6 +697,9 @@ c_lydia = {
 
 
 c_thyatira = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1={
 		liege="d_thracesia"
 	}
@@ -732,6 +756,9 @@ c_thyatira = {
 }
 
 c_hadrianeia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1={
 		liege="d_thracesia"
 	}
@@ -791,6 +818,9 @@ c_hadrianeia = {
 }
 
 c_chonae = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -927,6 +957,9 @@ d_optimatoi = {
 
 
 c_bithynia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_optimatoi"
 	}
@@ -974,6 +1007,9 @@ c_bithynia = {
 
 
 c_tarsos = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_optimatoi"
 	}
@@ -1051,6 +1087,9 @@ d_bucellaria = {
 }
 
 c_honorias = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1135,6 +1174,9 @@ c_honorias = {
 
 
 c_galatia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1219,6 +1261,9 @@ c_galatia = {
 
 
 c_hadrianopolis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1={
 		liege="d_bucellaria"
 	}

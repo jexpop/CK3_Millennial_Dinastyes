@@ -127,6 +127,9 @@ d_sjaelland = {
 
 
 c_sjaelland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10700.1.1 = {
 		holder = 194035
 		government = tribal_government
@@ -239,6 +242,9 @@ c_sjaelland = {
 
 
 c_fyn = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10700.1.1 = {
 		holder = 194035
 		government = tribal_government
@@ -304,6 +310,9 @@ c_fyn = {
 }
 
 c_lolland_falster = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10700.1.1 = {
 		holder = 194035
 		government = tribal_government
@@ -444,6 +453,9 @@ d_skane = {
 }
 
 c_skane = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 194037
 		liege = d_sjaelland
@@ -535,6 +547,9 @@ c_skane = {
 }
 
 c_halland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 194050
 		liege = d_vastergotland
@@ -620,6 +635,9 @@ c_halland = {
 
 
 c_bornholm = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		holder = 194061
 		liege = d_svealand
@@ -677,6 +695,9 @@ c_bornholm = {
 }
 
 c_blekinge = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 194037
 		liege = d_sjaelland
@@ -813,6 +834,9 @@ d_jylland = {
 
 
 c_aarhus = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194036
 		liege = d_sjaelland
@@ -895,6 +919,9 @@ c_aarhus = {
 
 
 c_viborg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194036
 		liege = d_sjaelland
@@ -974,6 +1001,9 @@ c_viborg = {
 
 
 c_ringkobing = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194036
 		liege = d_sjaelland
@@ -1053,6 +1083,9 @@ c_ringkobing = {
 
 
 c_aalborg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194036
 		liege = d_sjaelland
@@ -1135,6 +1168,9 @@ c_aalborg = {
 
 
 c_slesvig = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1198,6 +1234,9 @@ c_slesvig = {
 
 
 c_vorbasse = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194036
 		liege = d_sjaelland
@@ -1281,6 +1320,9 @@ c_vorbasse = {
 
 
 c_ribe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1390,6 +1432,9 @@ d_holstein = {
 
 
 c_lubeck = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 18 }
 
 	###867 Polabian tribes
@@ -1554,6 +1599,9 @@ b_kiel = {
 
 
 c_stade = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = d_holstein
 	}

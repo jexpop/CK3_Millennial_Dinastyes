@@ -62,6 +62,9 @@ d_meath = {
 
 
 c_dublin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 26 }
@@ -165,6 +168,9 @@ c_dublin = {
 
 
 c_athlone = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Replacing & copied from c_kildare
 	
 	10430.1.1 = {
@@ -387,6 +393,9 @@ d_ulster = {
 
 
 c_ulster = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 160194
 		government = tribal_government
@@ -442,6 +451,9 @@ c_ulster = {
 }
 
 c_oriel = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -527,6 +539,9 @@ c_oriel = {
 
 
 c_ailech = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Replacing tyrone & tyrconell, copied from tyrone
 	
 	10430.1.1 = {
@@ -769,6 +784,9 @@ d_connacht = {
 
 
 c_connacht = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10622.7.1 = {
 		holder = 83397 #Rogallach mac Uatach
 		government = tribal_government
@@ -995,6 +1013,9 @@ c_connacht = {
 }
 
 c_mayo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10622.7.1 = {
 		holder = 83397 #Rogallach mac Uatach
 		government = tribal_government
@@ -1221,6 +1242,9 @@ c_mayo = {
 }
 
 c_breifne = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10743.1.1 = {
 		holder = 83531
 		government = tribal_government
@@ -1356,6 +1380,9 @@ d_leinster = {
 
 
 c_leinster = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10430.1.1 = {
 		holder = 83160 #�nna Cennsalach
 		government = tribal_government
@@ -1476,6 +1503,9 @@ c_leinster = {
 
 
 c_ossory = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10556.1.1 = {
 		holder = 166001 #Feradach Finn mac Duach
 		government = tribal_government
@@ -1713,6 +1743,9 @@ d_munster = {
 
 
 c_thomond = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10370.1.1 = {
 		holder = 83607 #Conall Corc
 	government = tribal_government
@@ -1913,6 +1946,9 @@ c_thomond = {
 }
 
 c_ennis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10370.1.1 = {
 		holder = 83607 #Conall Corc
 	government = tribal_government
@@ -2114,6 +2150,9 @@ c_ennis = {
 
 
 c_ormond = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10370.1.1 = {
 		holder = 83607 #Conall Corc
 	government = tribal_government
@@ -2261,6 +2300,9 @@ c_ormond = {
 
 
 c_desmond = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 20 }

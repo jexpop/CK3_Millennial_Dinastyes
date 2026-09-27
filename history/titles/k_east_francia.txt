@@ -233,6 +233,9 @@ d_west_franconia = {
 
 
 c_mainz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 29 }
@@ -365,6 +368,9 @@ b_katzenelnbogen = {
 
 
 c_frankfurt = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10754.1.1 = {
 		liege = k_france
 	}
@@ -451,6 +457,9 @@ b_limburg = {
 }
 
 c_klingenberg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10598.1.1 = {
 		liege = d_west_franconia
 	}
@@ -601,6 +610,9 @@ c_klingenberg = {
 
 
 c_erbach = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10754.1.1 = {
 		liege = k_france
 	}
@@ -674,6 +686,9 @@ c_erbach = {
 
 
 c_worms = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 30 }
@@ -829,6 +844,9 @@ c_worms = {
 
 
 c_speyer = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 9 }
 	11066.1.1 = { change_development_level = 13 }
 	11178.1.1 = { change_development_level = 31 }
@@ -984,6 +1002,9 @@ c_speyer = {
 
 
 c_vaihingen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10598.1.1 = {
 		liege = d_west_franconia
 	}
@@ -1131,6 +1152,9 @@ c_vaihingen = {
 
 
 c_durne = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10598.1.1 = {
 		liege = d_west_franconia
 	}
@@ -1278,6 +1302,9 @@ c_durne = {
 
 
 c_kaiserslautern = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10598.1.1 = {
 		liege = d_west_franconia
 	}
@@ -1535,6 +1562,9 @@ d_east_franconia = {
 
 
 c_wurzburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10637.1.1 = {
 		liege = k_east_francia
 	}
@@ -1659,6 +1689,9 @@ c_wurzburg = {
 
 
 c_ansbach = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = d_swabia
 	}
@@ -1718,6 +1751,9 @@ c_ansbach = {
 
 
 c_coburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10637.1.1 = {
 		liege = k_east_francia
 	}
@@ -1838,6 +1874,9 @@ b_lichtenfels = {
 
 
 c_hohenlohe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = d_swabia
 	}
@@ -1898,6 +1937,9 @@ c_hohenlohe = {
 
 
 c_nurnberg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10548.1.1 = {
 		holder = 190178 #Garibald I
 	}
@@ -2082,6 +2124,9 @@ c_nurnberg = {
 
 
 c_bamberg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10637.1.1 = {
 		liege = k_east_francia
 	}
@@ -2158,6 +2203,9 @@ c_bamberg = {
 
 
 c_nordlingen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		holder = 168188 #Eberhard
 	}
@@ -2217,6 +2265,9 @@ c_nordlingen = {
 
 
 c_wiltberg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10637.1.1 = {
 		liege = k_east_francia
 	}
@@ -2338,6 +2389,9 @@ c_wiltberg = {
 }
 
 c_kassel = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = d_angria
 	}
@@ -2416,6 +2470,9 @@ c_kassel = {
 
 
 c_fulda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = d_angria
 	}
@@ -2486,6 +2543,9 @@ c_fulda = {
 
 
 c_nassau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_east_franconia
 	}
@@ -2550,6 +2610,9 @@ c_nassau = {
 
 
 c_marburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_east_franconia
 	}
@@ -2622,6 +2685,9 @@ d_currezia = {
 
 
 c_grisons = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = d_swabia
 	}
@@ -2708,6 +2774,9 @@ c_grisons = {
 }
 
 c_sankt_gallen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		liege = d_swabia
 		holder = 190365 #Berthilo
@@ -2797,6 +2866,9 @@ c_sankt_gallen = {
 
 
 c_zurich = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		liege = d_swabia
 	}
@@ -2938,6 +3010,9 @@ d_alsace = {
 
 
 c_strassburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	
 	
 	10670.1.1 = {
@@ -3045,6 +3120,9 @@ c_strassburg = {
 
 
 c_breisgau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = d_swabia
 	}
@@ -3095,6 +3173,9 @@ c_breisgau = {
 }
 
 c_colmar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10598.1.1 = {
 		liege = d_west_franconia
 	}
@@ -3242,6 +3323,9 @@ c_colmar = {
 
 
 c_sundgau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10732.1.1 = {
 		liege = d_swabia
 	}
@@ -3436,6 +3520,9 @@ d_swabia = {
 
 
 c_ulm = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10693.1.1 = {
 		holder = 190335 #Gotfrid
 	}
@@ -3519,6 +3606,9 @@ c_ulm = {
 }
 
 c_grunningen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10693.1.1 = {
 		holder = 190335 #Gotfrid
 	}
@@ -3613,6 +3703,9 @@ c_grunningen = {
 
 
 c_wurttemberg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = d_swabia
 	}
@@ -3679,6 +3772,9 @@ c_wurttemberg = {
 
 
 c_baden = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = d_swabia
 	}
@@ -3724,6 +3820,9 @@ c_baden = {
 
 
 c_zollern = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = d_swabia
 	}
@@ -3767,6 +3866,9 @@ c_zollern = {
 
 
 c_hohenberg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10693.1.1 = {
 		holder = 190335 #Gotfrid
 	}
@@ -3851,6 +3953,9 @@ c_hohenberg = {
 
 
 c_furstenberg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10693.1.1 = {
 		holder = 190335 #Gotfrid
 	}
@@ -4009,6 +4114,9 @@ d_angria = {
 }
 
 c_minden = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		holder = 190457 #Bruno
 	}
@@ -4079,6 +4187,9 @@ c_minden = {
 
 
 c_lippe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = d_ostfalen
 	}
@@ -4150,6 +4261,9 @@ c_lippe = {
 
 
 c_bremen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 24 }
@@ -4246,6 +4360,9 @@ c_bremen = {
 
 
 c_wolpe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = d_angria
 	}
@@ -4348,6 +4465,9 @@ c_wolpe = {
 
 
 c_hannover = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = d_angria
 	}
@@ -4432,6 +4552,9 @@ c_hannover = {
 
 
 c_hildesheim = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = d_angria
 	}
@@ -4508,6 +4631,9 @@ c_hildesheim = {
 
 
 c_oldenburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10762.1.1 = {
 		liege = d_angria
 	}
@@ -4585,6 +4711,9 @@ d_anhalt = {
 
 
 c_dessau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 184007
 		liege = 0
@@ -4628,6 +4757,9 @@ c_dessau = {
 
 
 c_halberstadt = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		holder = 190457 #Bruno
 	}
@@ -4696,6 +4828,9 @@ c_halberstadt = {
 
 
 c_magdeburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -4743,6 +4878,9 @@ c_magdeburg = {
 
 
 c_blankenburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		holder = 190457 #Bruno
 	}
@@ -4822,6 +4960,9 @@ c_blankenburg = {
 
 
 c_mansfeld = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		holder = 190457 #Bruno
 	}
@@ -4901,6 +5042,9 @@ c_mansfeld = {
 
 
 c_mersenburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -5085,6 +5229,9 @@ d_lausitz = {
 
 
 c_juterbog = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 190455 #Theoderic
 
@@ -5175,6 +5322,9 @@ c_juterbog = {
 
 
 c_wittenberg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 190455 #Theoderic
 
@@ -5261,6 +5411,9 @@ c_wittenberg = {
 
 
 c_brene = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 190455 #Theoderic
 	}
@@ -5343,6 +5496,9 @@ c_brene = {
 
 
 c_spreewald = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 190455 #Theoderic
 	}
@@ -5427,6 +5583,9 @@ c_spreewald = {
 
 
 c_naumberg = {	#Lubsko
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 190455 #Theoderic
 
@@ -5609,6 +5768,9 @@ d_meissen = {
 
 
 c_meissen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10720.1.1 = {
 		liege = "d_bohemia"
 		holder = 168345
@@ -5680,6 +5842,9 @@ c_meissen = {
 
 
 c_dresden = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 24 }
@@ -5755,6 +5920,9 @@ c_dresden = {
 
 
 c_wolkenstein = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10756.1.1 = {
 		liege = d_thuringia
 		holder = 190387 #Hardrad
@@ -5801,6 +5969,9 @@ c_wolkenstein = {
 
 
 c_osterland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10720.1.1 = {
 		liege = "d_bohemia"
 		holder = 168345
@@ -5873,6 +6044,9 @@ c_osterland = {
 
 
 c_naumburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10720.1.1 = {
 		liege = "d_bohemia"
 		holder = 168345
@@ -5948,6 +6122,9 @@ c_naumburg = {
 
 
 c_vogtland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10756.1.1 = {
 		liege = d_thuringia
 		holder = 190387 #Hardrad
@@ -5994,6 +6171,9 @@ c_vogtland = {
 
 
 c_cottbus = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10720.1.1 = {
 		liege = "d_bohemia"
 		holder = 168345
@@ -6066,6 +6246,9 @@ c_cottbus = {
 
 
 c_gorlitz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867 tribes
 	10750.1.1 = {
 		holder = 194084
@@ -6255,6 +6438,9 @@ d_ostfalen = {
 
 
 c_luneburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 24 }
@@ -6334,6 +6520,9 @@ c_luneburg = {
 
 
 c_brunswick = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 11 }
 
 	10761.1.1 = {
@@ -6417,6 +6606,9 @@ c_brunswick = {
 
 
 c_hamburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -6493,6 +6685,9 @@ c_hamburg = {
 
 
 c_dannenberg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 24 }
@@ -6564,6 +6759,9 @@ c_dannenberg = {
 
 
 c_stendal = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 24 }
@@ -6778,6 +6976,9 @@ d_thuringia = {
 
 
 c_gottingen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = d_ostfalen
 	}
@@ -6862,6 +7063,9 @@ c_gottingen = {
 
 
 c_gleichenstein = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = d_angria
 	}
@@ -6965,6 +7169,9 @@ c_gleichenstein = {
 
 
 c_orlamunde = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10460.1.1 = {
 		holder = 190375 #Basinus
 	}
@@ -7091,6 +7298,9 @@ c_orlamunde = {
 
 
 c_schmalkalden = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10460.1.1 = {
 		holder = 190375 #Basinus
 	}
@@ -7211,6 +7421,9 @@ c_schmalkalden = {
 
 
 c_lobdaburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10460.1.1 = {
 		holder = 190375 #Basinus
 	}
@@ -7411,6 +7624,9 @@ d_westfalen = {
 
 
 c_osnabruck = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = d_westfalen
 	}
@@ -7513,6 +7729,9 @@ c_osnabruck = {
 
 
 c_tecklenburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = d_westfalen
 	}
@@ -7599,6 +7818,9 @@ b_bentheim = {
 
 
 c_munster = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = d_westfalen
 	}
@@ -7706,6 +7928,9 @@ c_munster = {
 
 
 c_waldeck = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = d_westfalen
 	}
@@ -7774,6 +7999,9 @@ c_waldeck = {
 
 
 c_paderborn = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = d_westfalen
 	}
@@ -7847,6 +8075,9 @@ c_paderborn = {
 }
 
 c_ditmarschen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10761.1.1 = {
 		liege = d_holstein
 		government = tribal_government

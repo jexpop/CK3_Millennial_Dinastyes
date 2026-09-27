@@ -152,6 +152,9 @@ d_sicily = {
 
 
 c_palermo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 53 }
@@ -288,6 +291,9 @@ c_palermo = {
 }
 
 c_messina = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 32 }
 
 	10536.1.1 = {
@@ -410,6 +416,9 @@ c_messina = {
 }
 
 c_siracusa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10536.1.1 = {
 		liege = d_sicily
 		government = administrative_government
@@ -567,6 +576,9 @@ c_siracusa = {
 }
 
 c_agrigento = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10536.1.1 = {
 		liege = d_sicily
 	}
@@ -678,6 +690,9 @@ c_agrigento = {
 }
 
 c_malta = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10536.1.1 = {
 		liege = d_sicily
 		government = administrative_government
@@ -988,6 +1003,9 @@ d_benevento = {
 }
 
 c_benevento = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10571.1.1 = {
 		liege = d_benevento
 		holder = 190127 # Zotto of Benevento
@@ -1265,6 +1283,9 @@ b_isernia = {
 }
 
 c_foggia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10571.1.1 = {
 		liege = d_benevento
 		holder = 190127 # Zotto of Benevento
@@ -1624,6 +1645,9 @@ d_capua = {
 
 
 c_capua = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = d_benevento
 		holder = 190332 # Pando di Capua
@@ -1828,6 +1852,9 @@ c_capua = {
 }
 
 c_napoli = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 13 }
 	11066.1.1 = { change_development_level = 20 }
 	11178.1.1 = { change_development_level = 31 }
@@ -2238,6 +2265,9 @@ d_apulia = {
 }
 
 c_apulia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 13 }
 	11178.1.1 = { change_development_level = 15 }
@@ -2350,6 +2380,9 @@ c_apulia = {
 }
 
 c_bari = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10742.1.1 = {
 		liege = d_benevento
 		holder = 190303 # Gandulf Gandulfingi
@@ -2446,6 +2479,9 @@ c_bari = {
 }
 
 c_lecce = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10536.1.1 = {
 		liege = e_byzantium
 		government = administrative_government
@@ -2602,6 +2638,9 @@ d_salerno = {
 }
 
 c_salerno = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 36 }
@@ -2751,6 +2790,9 @@ c_salerno = {
 }
 
 c_camarda = { # Principality of Taranto
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10763.1.1 = {
 		liege = d_benevento
 	}
@@ -2877,6 +2919,9 @@ d_calabria = {
 }
 
 c_cosenza = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10536.1.1 = {
 		liege = d_calabria
 	}
@@ -2954,6 +2999,9 @@ c_cosenza = {
 
 
 c_rossano = { # County of Catanzaro
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		liege = d_benevento
 	}
@@ -3020,6 +3068,9 @@ c_rossano = { # County of Catanzaro
 
 
 c_reggio_calabria = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10536.1.1 = {
 		liege = d_calabria
 	}

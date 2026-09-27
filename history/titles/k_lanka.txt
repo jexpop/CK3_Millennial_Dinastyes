@@ -245,6 +245,9 @@ d_ruhunu = {
 
 
 c_dakhina_desa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 189006
 		liege = k_lanka
@@ -370,6 +373,9 @@ c_dakhina_desa = {
 
 
 c_kotte = { #Pacinadesa
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 189006
 		liege = k_lanka
@@ -495,6 +501,9 @@ c_kotte = { #Pacinadesa
 }
 
 c_rohana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 189007
 		liege = k_lanka
@@ -620,6 +629,9 @@ c_rohana = {
 
 
 c_batticaloa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 189007
 		liege = k_lanka
@@ -787,6 +799,9 @@ d_sinhala = {
 
 
 c_phiti = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		holder = 189005
 	}
@@ -903,6 +918,9 @@ c_phiti = {
 
 
 c_kandy = { #Malaya
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		holder = 189005
 	}
@@ -1016,6 +1034,9 @@ c_kandy = { #Malaya
 }
 
 c_trincomalee = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10741.1.1 = {
@@ -1140,6 +1161,9 @@ c_trincomalee = {
 
 
 c_jaffna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		holder = 189005
 	}

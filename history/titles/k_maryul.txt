@@ -149,6 +149,9 @@ d_ladakh = {
 
 
 c_leh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Moloso Kingdom conquered by Tibetan Empire
 	10635.1.1={
 		liege = "d_ladakh"
@@ -240,6 +243,9 @@ c_leh = {
 
 
 c_demchok = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Moloso Kingdom conquered by Tibetan Empire
 	10635.1.1={
 		liege = "d_ladakh"
@@ -331,6 +337,9 @@ c_demchok = {
 
 
 c_diskit = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Moloso Kingdom conquered by Tibetan Empire
 	10635.1.1={
 		liege = "d_ladakh"
@@ -537,6 +546,9 @@ d_zanskar = {
 }
 
 c_padum = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10625.1.1={
 		liege="d_zanskar"
 	}
@@ -648,6 +660,9 @@ c_padum = {
 
 
 c_darcha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10625.1.1={
 		liege = "d_zanskar"
 	}
@@ -759,6 +774,9 @@ c_darcha = {
 
 
 c_purig = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10625.1.1={
 		liege = "d_zanskar"
 	}
@@ -972,6 +990,9 @@ d_baltiyul = {
 }
 
 c_skardu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Palolashahi Dynasty of Palolo Kingdom (c.400-727)
 	#Conquered by Tibetan Empire
 	10727.1.1={
@@ -1067,6 +1088,9 @@ c_skardu = {
 
 
 c_shigar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Palolashahi Dynasty of Palolo Kingdom (c.400-727)
 	#Conquered by Tibetan Empire
 	10727.1.1={
@@ -1162,6 +1186,9 @@ c_shigar = {
 
 
 c_khaplu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Palolashahi Dynasty of Palolo Kingdom (c.400-727)
 	#Conquered by Tibetan Empire
 	10727.1.1={
@@ -1367,6 +1394,9 @@ d_aksai_chin = {
 }
 
 c_khurnak = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung conquered by Tibetan Empire
 	10625.1.1={
 		liege = "d_aksai_chin"
@@ -1466,6 +1496,9 @@ c_khurnak = {
 
 
 c_thaldat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung conquered by Tibetan Empire
 	10625.1.1={
 		liege = "d_aksai_chin"
@@ -1565,6 +1598,9 @@ c_thaldat = {
 
 
 c_sumdo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung conquered by Tibetan Empire
 	10625.1.1={
 		liege = "d_aksai_chin"
@@ -1743,6 +1779,9 @@ d_rutog = {
 }
 
 c_rutog = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung conquered by Tibetan Empire
 	10625.1.1={
 		liege="d_rutog"
@@ -1819,6 +1858,9 @@ c_rutog = {
 
 
 c_memar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung conquered by Tibetan Empire
 	10625.1.1={
 		liege = "d_rutog"

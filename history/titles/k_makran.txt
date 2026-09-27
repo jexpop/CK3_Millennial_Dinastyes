@@ -33,6 +33,9 @@ d_makran = {
 
 
 c_panjgur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 188605
 	}
@@ -115,6 +118,9 @@ c_panjgur = {
 
 
 c_kiz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = clan_government
 		holder = 302700	#Placeholder Feraz
@@ -196,6 +202,9 @@ c_kiz = {
 
 
 c_sanij = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = tribal_government
 		holder = 163164	#Amr Saffarid
@@ -287,6 +296,9 @@ c_sanij = {
 
 
 c_khawr = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -370,6 +382,9 @@ c_khawr = {
 
 
 c_turan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -474,6 +489,9 @@ d_jabal_kufs = {
 
 
 c_bampur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = clan_government
 		holder = 302700	#Placeholder Feraz
@@ -562,6 +580,9 @@ c_bampur = {
 
 
 c_jabal_kufs = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -651,6 +672,9 @@ c_jabal_kufs = {
 
 
 c_riqan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = clan_government
 		holder = 302700	#Placeholder Feraz
@@ -903,6 +927,9 @@ d_sistan = {
 
 
 c_zaranj = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1014,6 +1041,9 @@ c_zaranj = {
 
 
 c_nih = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10661.2.28 = {
 		liege = d_sistan
 	}
@@ -1092,6 +1122,9 @@ c_nih = {
 
 
 c_farah = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10680.1.1 = {
 		liege = d_sistan
 	}
@@ -1197,6 +1230,9 @@ c_farah = {
 }
 
 c_rudbar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -1304,6 +1340,9 @@ c_rudbar = {
 
 
 c_bost = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 34 }
 
 	10680.1.1 = {

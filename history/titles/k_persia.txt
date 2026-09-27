@@ -173,6 +173,9 @@ d_isfahan = {
 
 
 c_isfahan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 15 }
 	11066.1.1 = { change_development_level = 20 }
 	11178.1.1 = { change_development_level = 46 }
@@ -244,6 +247,9 @@ c_isfahan = {
 
 
 c_ardestan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		liege = d_hamadan
 	}
@@ -304,6 +310,9 @@ c_ardestan = {
 
 
 c_qumisha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		liege = d_hamadan
 	}
@@ -364,6 +373,9 @@ c_qumisha = {
 
 
 c_luristan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		liege = d_hamadan
 	}
@@ -529,6 +541,9 @@ d_kirman = {
 }
 
 c_kirman = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -646,6 +661,9 @@ c_kirman = {
 
 
 c_behabad = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -757,6 +775,9 @@ c_behabad = {
 
 
 c_bam = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10644.1.1 = {
 		liege = d_sistan
 	}
@@ -871,6 +892,9 @@ c_bam = {
 
 
 c_sirjan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10644.1.1 = {
 		liege = d_fars
 	}
@@ -971,6 +995,9 @@ c_sirjan = {
 
 
 c_jiruft = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10644.1.1 = {
 		liege = d_sistan
 	}
@@ -1090,6 +1117,9 @@ d_yazd = {
 }
 
 c_yazd = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -1156,6 +1186,9 @@ c_yazd = {
 
 
 c_mafaza = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10644.1.1 = {
 		liege = d_fars
 	}
@@ -1243,6 +1276,9 @@ c_mafaza = {
 
 
 c_shahre-babak = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10644.1.1 = {
 		liege = d_fars
 	}
@@ -1326,6 +1362,9 @@ c_shahre-babak = {
 }
 
 c_rayy = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 43 }
@@ -1433,6 +1472,9 @@ c_rayy = {
 
 
 c_khuwar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10661.2.28 = {
 		liege = d_hamadan
 	}
@@ -1531,6 +1573,9 @@ c_khuwar = {
 }
 
 c_qom = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 36 }
 
 	10750.1.1 = {
@@ -1749,6 +1794,9 @@ d_hamadan = {
 
 
 c_hamadan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 34 }
@@ -1866,6 +1914,9 @@ c_hamadan = {
 
 
 c_nihawand = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -1978,6 +2029,9 @@ c_nihawand = {
 
 
 c_dinawar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_azerbaijan
 		holder = 188659
@@ -2176,6 +2230,9 @@ d_fars = {
 
 
 c_shiraz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 12 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 37 }
@@ -2259,6 +2316,9 @@ c_shiraz = {
 
 
 c_lar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10644.1.1 = {
 		liege = d_fars
 	}
@@ -2339,6 +2399,9 @@ c_lar = {
 
 
 c_darabjerd = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10644.1.1 = {
 		liege = d_fars
 	}
@@ -2418,6 +2481,9 @@ c_darabjerd = {
 
 
 c_arrajan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10644.1.1 = {
 		liege = d_fars
 	}
@@ -2496,6 +2562,9 @@ c_arrajan = {
 
 
 c_istakhr = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10644.1.1 = {
 		liege = d_fars
 	}
@@ -2574,6 +2643,9 @@ c_istakhr = {
 
 
 c_mandestan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10644.1.1 = {
 		liege = d_fars
 	}
@@ -2653,6 +2725,9 @@ c_mandestan = {
 
 
 c_irahistan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -2743,6 +2818,9 @@ d_hormuz = {
 }
 
 c_hormuz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -2851,6 +2929,9 @@ c_hormuz = {
 
 
 c_sif-i-umara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10644.1.1 = {
 		liege = "d_kirman"
 	}
@@ -2971,6 +3052,9 @@ d_khuzestan = {
 
 
 c_sardan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -3083,6 +3167,9 @@ c_sardan = {
 
 
 c_ramhurmuz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10644.1.1 = {
 		liege = "d_kirman"
 	}
@@ -3191,6 +3278,9 @@ c_ramhurmuz = {
 
 
 c_tustar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -3303,6 +3393,9 @@ c_tustar = {
 
 
 c_ahvaz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -3387,6 +3480,9 @@ c_ahvaz = {
 
 
 c_abbadan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		liege = d_wasit
 	}
@@ -3458,6 +3554,9 @@ c_abbadan = {
 
 
 c_dawraq = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		liege = d_wasit
 	}
@@ -3646,6 +3745,9 @@ d_kermanshah = {
 
 
 c_kermanshah = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -3715,6 +3817,9 @@ c_kermanshah = {
 
 
 c_masabadhan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		liege = d_hamadan
 	}
@@ -3776,6 +3881,9 @@ c_masabadhan = {
 }
 
 c_saimara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }

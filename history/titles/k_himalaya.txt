@@ -159,6 +159,9 @@ d_kurmanchal = {
 
 
 c_kumaon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10600.1.1={
 		liege="d_kurmanchal"
 	}
@@ -308,6 +311,9 @@ c_kumaon = {
 
 
 c_garwhal = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10600.1.1={
 		liege="d_kurmanchal"
 	}
@@ -456,6 +462,9 @@ c_garwhal = {
 
 
 c_kali_kumaon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10600.1.1={
 		liege="d_kurmanchal"
 	}
@@ -595,6 +604,9 @@ c_kali_kumaon = {
 
 
 c_doti = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10625.1.1={
 		liege="d_kurmanchal"
 		holder=247478 #Vashudev
@@ -799,6 +811,9 @@ d_khasa = {
 
 
 c_jumla = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10400.1.1={
 		liege="k_guge"
 	}
@@ -928,6 +943,9 @@ c_jumla = {
 
 
 c_bajura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10400.1.1={
 		liege="k_guge"
 	}
@@ -1057,6 +1075,9 @@ c_bajura = {
 
 
 c_jagatipur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10400.1.1={
 		liege="k_guge"
 	}
@@ -1186,6 +1207,9 @@ c_jagatipur = {
 
 
 c_dang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10400.1.1={
 		liege="k_guge"
 	}
@@ -1315,6 +1339,9 @@ c_dang = {
 
 
 c_lumbini = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10400.1.1={
 		liege="k_guge"
 	}
@@ -1444,6 +1471,9 @@ c_lumbini = {
 
 
 c_kaski = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10400.1.1={
 		liege="k_guge"
 	}
@@ -1803,6 +1833,9 @@ d_nepal = {
 
 
 c_kathmandu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Licchavi Dynasty
 	10425.1.1 = {
 		liege="d_nepal"
@@ -2029,6 +2062,9 @@ c_kathmandu = {
 
 
 c_bhaktapur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Licchavi Dynasty
 	10425.1.1 = {
 		liege="d_nepal"
@@ -2255,6 +2291,9 @@ c_bhaktapur = {
 
 
 c_janakpur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Licchavi Dynasty
 	10425.1.1 = {
 		liege="d_nepal"
@@ -2525,6 +2564,9 @@ d_limbuwan = {
 
 
 c_ilam = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege="d_limbuwan"
 	}
@@ -2631,6 +2673,9 @@ c_ilam = {
 
 
 c_yangwarok = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege="d_limbuwan"
 	}
@@ -2817,6 +2862,9 @@ c_yangwarok = {
 
 
 c_khotang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege="d_limbuwan"
 	}

@@ -255,6 +255,9 @@ d_kiev = {
 }
 
 c_kiev = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 15 }
 	11178.1.1 = { change_development_level = 36 }
@@ -460,6 +463,9 @@ c_kiev = {
 
 
 c_zhytomyr = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre-Kievan Rus'
 	10750.1.1 = {
 		holder = 194139
@@ -664,6 +670,9 @@ c_zhytomyr = {
 
 
 c_zvyahel = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre-Kievan Rus'
 	10750.1.1 = {
 		holder = 194139
@@ -862,6 +871,9 @@ c_zvyahel = {
 
 
 c_chornobyl = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre-Kievan Rus'
 	10750.1.1 = {
 		holder = 194139
@@ -1063,6 +1075,9 @@ c_chornobyl = {
 
 
 c_ushytsia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre-Kievan Rus'
 	10500.1.1 = {
 		liege = 0
@@ -1267,6 +1282,9 @@ c_ushytsia = {
 
 
 c_korsun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre-Kievan Rus'
 	10750.1.1 = {
 		holder = 194139
@@ -1577,6 +1595,9 @@ d_turov = {
 
 
 c_turov = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -1680,6 +1701,9 @@ c_turov = {
 
 
 c_korosten = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Independent Drevlians / pre-Kievan Rus'
 	10850.1.1 = {
 		holder = 302154
@@ -1849,6 +1873,9 @@ c_korosten = {
 
 
 c_dubrovytsia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Independent Drevlians / pre-Kievan Rus'
 	10850.1.1 = {
 		holder = 302154
@@ -2097,6 +2124,9 @@ d_pereyaslavl = {
 
 
 c_pereyaslavl = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -2214,6 +2244,9 @@ c_pereyaslavl = {
 
 
 c_hradyzk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10800.1.1 = {
 		liege = 0
@@ -2327,6 +2360,9 @@ c_hradyzk = {
 
 
 c_romen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10800.1.1 = {
 		liege = 0
@@ -2440,6 +2476,9 @@ c_romen = {
 
 
 c_voin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10800.1.1 = {
 		liege = 0
@@ -2628,6 +2667,9 @@ d_chernigov = {
 
 
 c_chernigov = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 13 }
 
 	###Pre Kievan Rus
@@ -2731,6 +2773,9 @@ c_chernigov = {
 
 
 c_starodub = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10800.1.1 = {
 		liege = 0
@@ -2832,6 +2877,9 @@ c_starodub = {
 
 
 c_novgorod_seversky = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10800.1.1 = {
 		liege = 0
@@ -2933,6 +2981,9 @@ c_novgorod_seversky = {
 
 
 c_putyvl = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10800.1.1 = {
 		liege = 0
@@ -3039,6 +3090,9 @@ c_putyvl = {
 
 
 c_kursk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10799.1.1 = {
 		liege = 0
@@ -3145,6 +3199,9 @@ d_karachev = {
 }
 
 c_karachev = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10799.1.1 = {
 		liege = 0
@@ -3223,6 +3280,9 @@ c_karachev = {
 
 
 c_kozelsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10799.1.1 = {
 		liege = 0
@@ -3299,6 +3359,9 @@ c_kozelsk = {
 }
 
 c_sevsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10799.1.1 = {
 		liege = 0
@@ -3408,6 +3471,9 @@ d_novosil = {
 }
 
 c_novosil = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10809.3.16 = {
 		liege = 0
@@ -3486,6 +3552,9 @@ c_novosil = {
 
 
 c_odoyev = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10809.3.16 = {
 		liege = 0

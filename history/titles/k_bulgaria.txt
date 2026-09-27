@@ -309,6 +309,9 @@ d_vidin = {
 
 
 c_vidin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 20 }
@@ -421,6 +424,9 @@ c_vidin = {
 
 
 c_branicevo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_vidin"
 		government = tribal_government
@@ -686,6 +692,9 @@ d_turnovo = {
 }
 
 c_turnovo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 34 }
@@ -852,6 +861,9 @@ c_turnovo = {
 
 
 c_sredets = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 20 }
@@ -979,6 +991,9 @@ c_sredets = {
 
 
 c_nikopolis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1146,6 +1161,9 @@ c_nikopolis = {
 
 
 c_dorostorum = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1325,6 +1343,9 @@ b_dorostorum = {
 }
 
 c_vratsa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_turnovo"
 	}
@@ -1491,6 +1512,9 @@ c_vratsa = {
 
 
 c_aytos = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_turnovo"
 	}
@@ -1812,6 +1836,9 @@ d_dobrudja = {
 
 
 c_constanta = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1935,6 +1962,9 @@ c_constanta = {
 
 
 c_mesembria = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_dobrudja"
 	}
@@ -2157,6 +2187,9 @@ d_bulgaria = {
 
 
 c_naissus = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 20 }
@@ -2291,6 +2324,9 @@ c_naissus = {
 
 
 c_pomoravlje = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_dyrrachion"
 		government = administrative_government
@@ -2412,6 +2448,9 @@ c_pomoravlje = {
 
 
 c_velbazhd = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_dyrrachion"
 	}
@@ -2519,6 +2558,9 @@ c_velbazhd = {
 
 
 c_pirin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_dyrrachion"
 		government = administrative_government
@@ -2634,6 +2676,9 @@ c_pirin = {
 
 
 c_strumica = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_dyrrachion"
 	}
@@ -2721,6 +2766,9 @@ c_strumica = {
 
 
 c_skopje = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_dyrrachion"
 	}
@@ -2812,6 +2860,9 @@ c_skopje = {
 }
 
 c_ohrid = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 34 }
 
 	10330.1.1 = {
@@ -3074,6 +3125,9 @@ d_philippopolis = {
 
 
 c_philippopolis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_strymon"
 	}
@@ -3164,6 +3218,9 @@ c_philippopolis = {
 
 
 c_kran = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_turnovo"
 	}
@@ -3323,6 +3380,9 @@ c_kran = {
 
 
 c_beroe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_strymon"
 	}
@@ -3413,6 +3473,9 @@ c_beroe = {
 
 
 c_burgas = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -3480,6 +3543,9 @@ c_burgas = {
 
 
 c_adrianopolis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 24 }
@@ -3559,6 +3625,9 @@ c_adrianopolis = {
 
 
 c_zherkovo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_strymon"
 	}
@@ -3649,6 +3718,9 @@ c_zherkovo = {
 
 
 c_rhodopes = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_strymon"
 	}

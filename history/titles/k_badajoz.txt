@@ -69,6 +69,9 @@ d_beja = {
 
 
 c_lisboa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 9 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 24 }
@@ -147,6 +150,9 @@ c_lisboa = {
 }
 
 c_beja = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10852.1.1 = {
 		holder = levantine0078 # Sheik Ibrahim ibn Jalid of Elvas
 		liege = k_andalusia
@@ -275,6 +281,9 @@ b_beja = {
 
 
 c_alcacer_do_sal = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10840.1.1 = {
 		holder = danis0005 # Walih Adanis ibn Awsaga of Beja
 		liege = d_beja
@@ -390,6 +399,9 @@ c_alcacer_do_sal = {
 
 
 c_elvas = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10852.1.1 = {
 		holder = levantine0078 # Ibrahim ibn Jalid
 		liege = k_andalusia
@@ -581,6 +593,9 @@ d_badajoz = {
 
 
 c_badajoz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10778.1.1 = {
 		holder = 73680 # Sultan Hisham I of Andalusia
 		liege = d_badajoz
@@ -672,6 +687,9 @@ c_badajoz = {
 
 
 c_plasencia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10778.1.1 = {
 		holder = 73680 # Sultan Hisham I of Andalusia
 		liege = d_badajoz
@@ -753,6 +771,9 @@ c_plasencia = {
 
 
 c_caceres = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10778.1.1 = {
 		holder = 73680 # Sultan Hisham I of Andalusia
 		liege = d_badajoz
@@ -852,6 +873,9 @@ c_caceres = {
 
 
 c_merida = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10778.1.1 = {
 		holder = 73680 # Sultan Hisham I of Andalusia
 		liege = d_badajoz
@@ -960,6 +984,9 @@ c_merida = {
 
 
 c_medellin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10778.1.1 = {
 		holder = 73680 # Sultan Hisham I of Andalusia
 		liege = d_badajoz
@@ -1072,6 +1099,9 @@ d_algarve = {
 
 
 c_faro = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10827.1.1 = {
 		holder = khali0003 # Walih Bakr ibn Khali of Algarve
 		liege = d_algarve
@@ -1174,6 +1204,9 @@ c_faro = {
 
 
 c_silves = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10827.1.1 = {
 		holder = khali0003 # Walih Bakr ibn Khali of Algarve
 		liege = d_algarve

@@ -59,6 +59,9 @@ d_naqis = {
 }
 
 c_allaqi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -117,6 +120,9 @@ c_allaqi = {
 
 
 c_aydhab = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -172,6 +178,9 @@ c_aydhab = {
 
 
 c_naqis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10830.1.1 = {
 		liege = d_naqis
 		government = tribal_government
@@ -223,6 +232,9 @@ c_naqis = {
 
 
 c_wadi_amur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10830.1.1 = {
 		liege = d_naqis
 		government = tribal_government
@@ -284,6 +296,9 @@ d_bazin = {
 }
 
 c_suakin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -326,6 +341,9 @@ c_suakin = {
 
 
 c_bazin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		government = tribal_government
 		liege = 0
@@ -370,6 +388,9 @@ c_bazin = {
 
 
 c_badi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -427,6 +448,9 @@ d_baqlin = {
 
 
 c_baqlin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		liege = 0
 	holder = 145962
@@ -469,6 +493,9 @@ c_baqlin = {
 }
 
 c_djarin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		liege = 0
 		holder = 145962
@@ -513,6 +540,9 @@ c_djarin = {
 
 
 c_qataa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		liege = 0
 	holder = 145962
@@ -552,6 +582,9 @@ c_qataa = {
 
 
 c_kassala = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		holder = 145963
 		government = tribal_government
@@ -596,6 +629,9 @@ c_kassala = {
 
 
 c_showak = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		liege = 0
 		holder = 145963
@@ -646,6 +682,9 @@ c_showak = {
 
 
 c_wolqayt = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		liege = 0
 	holder = 145963

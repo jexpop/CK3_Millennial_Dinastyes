@@ -136,6 +136,9 @@ d_devagiri = {
 
 
 c_devagiri = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -237,6 +240,9 @@ c_devagiri = {
 
 
 c_mulaka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 74415
 		liege = k_karnata
@@ -344,6 +350,9 @@ c_mulaka = {
 
 
 c_vatsagulma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10720.1.1 = {
 		holder = 74410
 		liege = k_karnata
@@ -470,6 +479,9 @@ c_vatsagulma = {
 
 
 c_mahur = { #Sirpur
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10720.1.1 = {
 		holder = 74410
 		liege = k_karnata
@@ -565,6 +577,9 @@ d_vidharba = {
 
 
 c_acalapura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10720.1.1 = {
 		holder = 74410
 		liege = d_vidharba
@@ -660,6 +675,9 @@ c_acalapura = {
 
 
 c_ramagiri = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10700.1.1 = {
 		holder = 191362	#Fictional Pandits
 		liege = d_dahala
@@ -711,6 +729,9 @@ c_ramagiri = {
 
 
 c_canda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10650.1.1 = {
 		holder = 191323 #Kurumpruhoda Mana
 		liege = d_ratanpur
@@ -784,6 +805,9 @@ c_canda = {
 
 
 c_vairagara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10650.1.1 = {
 		holder = 191323 #Kurumpruhoda Mana
 		liege = d_ratanpur
@@ -899,6 +923,9 @@ d_konkana = {
 
 
 c_surparaka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10670.1.1 = {
 		holder = 191632 #Jayasimha Chalukya (of Lata)
 		liege = d_nasikya
@@ -1030,6 +1057,9 @@ c_surparaka = {
 
 
 c_panaji = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 74526	#Sanahapulla
 		liege = k_karnata
@@ -1125,6 +1155,9 @@ c_panaji = {
 
 
 c_kanara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 74526	#Sanaphulla
 		liege = d_konkana
@@ -1249,6 +1282,9 @@ d_nasikya = {
 
 
 c_trikuta = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10670.1.1 = {
 		holder = 191632 #Jayasimha Chalukya (of Lata)
 		liege = d_nasikya
@@ -1352,6 +1388,9 @@ c_trikuta = {
 
 
 c_kondana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10766.1.1 = {
 		holder = 191989 #Munja Sinda
 		liege = k_karnata
@@ -1499,6 +1538,9 @@ d_rattapadi = {
 
 
 c_taradavadi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10766.1.1 = {
 		holder = 191989 #Munja Sinda
 		liege = k_karnata
@@ -1611,6 +1653,9 @@ c_taradavadi = {
 }
 
 c_karahataka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10766.1.1 = {
 		holder = 191989 #Munja Sinda
 		liege = k_karnata
@@ -1684,6 +1729,9 @@ c_karahataka = {
 
 
 c_ashmaka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10543.1.1 = {
 		holder = 74721
 		liege = k_karnata
@@ -1856,6 +1904,9 @@ c_ashmaka = {
 
 
 c_naldurg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 74415
 		liege = k_karnata
@@ -1947,6 +1998,9 @@ c_naldurg = {
 
 
 c_kolhapur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10766.1.1 = {
 		holder = 191989 #Munja Sinda
 		liege = k_karnata

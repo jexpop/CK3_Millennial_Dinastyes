@@ -27,6 +27,9 @@ d_salair = {
 }
 
 c_ob = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -68,6 +71,9 @@ c_ob = {
 
 
 c_biia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = d_salair
@@ -107,6 +113,9 @@ c_biia = {
 
 
 c_torema = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -146,6 +155,9 @@ c_torema = {
 
 
 c_sorok = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -187,6 +199,9 @@ c_sorok = {
 
 
 c_kondoma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -225,6 +240,9 @@ c_kondoma = {
 
 
 c_kyin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = d_salair
@@ -263,6 +281,9 @@ c_kyin = {
 
 
 c_aley = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = d_kulyndy_steppe
@@ -305,6 +326,9 @@ c_aley = {
 
 
 c_korgon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -349,6 +373,9 @@ c_korgon = {
 
 
 c_terektai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -393,6 +420,9 @@ c_terektai = {
 
 
 c_tavan_bogd = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -429,6 +459,9 @@ c_tavan_bogd = {
 
 
 c_tomsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -474,6 +507,9 @@ c_tomsk = {
 
 
 c_kiia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = d_ala_tau
@@ -516,6 +552,9 @@ c_kiia = {
 
 
 c_taskyl = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -579,6 +618,9 @@ d_ala_tau = {
 }
 
 c_kojuk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -617,6 +659,9 @@ c_kojuk = {
 
 
 c_chulym = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -653,6 +698,9 @@ c_chulym = {
 
 
 c_narim = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10865.1.2 = {
 		holder = 302863	#fictional Seitek Karakar
@@ -693,6 +741,9 @@ c_narim = {
 
 
 c_sochur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -732,6 +783,9 @@ c_sochur = {
 
 
 c_yenisei = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -772,6 +826,9 @@ c_yenisei = {
 
 
 c_vasyugan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10859.9.16 = {
 		holder = 302931	#fictional Zhuneg Yuga
@@ -799,6 +856,9 @@ c_vasyugan = {
 
 
 c_umiai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10859.9.16 = {
 		holder = 302931	#fictional Zhuneg Yuga
@@ -826,6 +886,9 @@ c_umiai = {
 
 
 c_tartas_SIB = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10858.5.9 = {
 		holder = 302926	#fictional Uchva Avran
@@ -850,6 +913,9 @@ c_tartas_SIB = {
 
 
 c_chich = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10858.5.9 = {
 		holder = 302926	#fictional Uchva Avran
@@ -874,6 +940,9 @@ c_chich = {
 
 
 c_kolyvan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -913,6 +982,9 @@ c_kolyvan = {
 
 
 c_sartlan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -950,6 +1022,9 @@ c_sartlan = {
 
 
 c_ubins = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -994,6 +1069,9 @@ c_ubins = {
 
 
 c_igaran = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = d_salair
@@ -1040,6 +1118,9 @@ c_igaran = {
 
 
 c_konda_ob = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = d_salair
@@ -1096,6 +1177,9 @@ d_kulyndy_steppe = {
 
 
 c_kulunda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -1133,6 +1217,9 @@ c_kulunda = {
 
 
 c_barnaul = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -1171,6 +1258,9 @@ c_barnaul = {
 
 
 c_kachu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -1207,6 +1297,9 @@ c_kachu = {
 
 
 c_kuchuk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate

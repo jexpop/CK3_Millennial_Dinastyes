@@ -150,6 +150,9 @@ d_marrakesh = {
 
 
 c_marrakesh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 53 }
@@ -255,6 +258,9 @@ c_marrakesh = {
 
 
 c_tadla = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 210039
 	}
@@ -359,6 +365,9 @@ c_tadla = {
 
 
 c_fazaz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 210039
 	}
@@ -462,6 +471,9 @@ c_fazaz = {
 
 
 c_tamasna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		government = clan_government
 		holder = 168276
@@ -553,6 +565,9 @@ c_tamasna = {
 
 
 c_asfi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -664,6 +679,9 @@ c_asfi = {
 
 
 c_tinmallal = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -775,6 +793,9 @@ d_sous = {
 }
 
 c_sous = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10842.1.1 = {
 		government = tribal_government
 		holder = butr0007
@@ -860,6 +881,9 @@ c_sous = {
 
 
 c_agadir = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 273107
 		government = tribal_government
@@ -957,6 +981,9 @@ c_agadir = {
 
 
 c_ifni = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 273107
 		government = tribal_government
@@ -1011,6 +1038,9 @@ c_ifni = {
 
 
 c_draa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10842.1.1 = {
 		government = tribal_government
 		holder = butr0007
@@ -1059,6 +1089,9 @@ d_canarias = {
 }
 
 c_canarias = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 210040
 	government = tribal_government
@@ -1130,6 +1163,9 @@ c_canarias = {
 }
 
 c_fuerteventura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 210041
 		government = tribal_government
@@ -1143,6 +1179,9 @@ c_fuerteventura = {
 }
 
 c_madeira = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 1 }
 	11178.1.1 = { change_development_level = 2 }
@@ -1170,6 +1209,9 @@ d_tafilalt = {
 }
 
 c_sijilmasa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 31 }
@@ -1263,6 +1305,9 @@ c_sijilmasa = {
 }
 
 c_tudgha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10842.1.1 = {
 		government = tribal_government
 		holder = butr0007
@@ -1350,6 +1395,9 @@ c_tudgha = {
 
 
 c_ziz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10824.1.1 = {
 		government = clan_government
 		holder = 1228835
@@ -1564,6 +1612,9 @@ d_fes = {
 }
 
 c_fes = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 14 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 54 }
@@ -1681,6 +1732,9 @@ c_fes = {
 
 
 c_muluya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1787,6 +1841,9 @@ c_muluya = {
 
 
 c_taza = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 210037
 	}
@@ -1892,6 +1949,9 @@ c_taza = {
 
 
 c_meknes = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 34 }
 
 	10767.1.1 = {
@@ -2003,6 +2063,9 @@ c_meknes = {
 
 
 c_gharb = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10767.1.1 = {
 		holder = 210038
@@ -2121,6 +2184,9 @@ d_rif = {
 }
 
 c_tangiers = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -2216,6 +2282,9 @@ c_tangiers = {
 
 
 c_ceuta = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 34 }
@@ -2343,6 +2412,9 @@ c_ceuta = {
 
 
 c_melilla = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10710.1.1 = {
 		government = clan_government
 		holder = 168254

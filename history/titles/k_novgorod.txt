@@ -167,6 +167,9 @@ d_novgorod = {
 
 
 c_novgorod = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 31 }
 
 	###Pre Kievan Rus
@@ -312,6 +315,9 @@ c_novgorod = {
 
 
 c_rusa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10862.1.2 = {
 		holder = 40605	#Rurik
@@ -458,6 +464,9 @@ c_rusa = {
 
 
 c_pskov = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10860.1.2 = {
 		holder = 302222	#Truvor
@@ -606,6 +615,9 @@ c_pskov = {
 
 
 c_sebezh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10860.1.2 = {
 		holder = 302222	#Truvor
@@ -750,6 +762,9 @@ c_sebezh = {
 
 
 c_vodi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre-Kievan Rus
 	10764.1.1 = {
 		holder = 170338
@@ -893,6 +908,9 @@ d_vepsia = {
 
 
 c_beloozero = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10860.1.2 = {
 		holder = 302221	#Sineus
@@ -1043,6 +1061,9 @@ c_beloozero = {
 
 
 c_tikhvin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10860.1.2 = {
 		holder = 159715	#assumed fictional Karhu Veps�
@@ -1194,6 +1215,9 @@ c_tikhvin = {
 
 
 c_vyangi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10860.1.2 = {
 		holder = 159715	#assumed fictional Karhu Veps�
@@ -1341,6 +1365,9 @@ c_vyangi = {
 
 
 c_luki = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10862.1.2 = {
 		holder = 40605	#Rurik
@@ -1461,6 +1488,9 @@ c_luki = {
 
 
 c_valdai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10865.1.2 = {
 		holder = 302223	#fictional Kyyr� Valdii
@@ -1586,6 +1616,9 @@ c_valdai = {
 
 
 c_bezichi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10865.1.2 = {
 		holder = 302223	#fictional Kyyr� Valdii

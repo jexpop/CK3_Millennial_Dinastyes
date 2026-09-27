@@ -5,6 +5,9 @@
 }
 
 c_kaabu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = wolof0091
 		government = tribal_government
@@ -40,6 +43,9 @@ c_kaabu = {
 
 
 c_jara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Bainunk
 	10850.1.1 = {
 		government = tribal_government
@@ -88,6 +94,9 @@ d_wuli = {
 }
 
 c_wuli = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		holder = wolof0080
 		government = tribal_government
@@ -126,6 +135,9 @@ c_wuli = {
 
 
 c_saalum = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Serer tribe
 	10850.1.1 = {
 		government = tribal_government
@@ -168,6 +180,9 @@ c_saalum = {
 
 
 c_niomi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -220,6 +235,9 @@ d_kasa = {
 }
 
 c_kasa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = mel0061
 		government = tribal_government
@@ -255,6 +273,9 @@ c_kasa = {
 
 
 c_jame = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Bainunk
 	10850.1.1 = {
 		government = tribal_government
@@ -297,6 +318,9 @@ c_jame = {
 
 
 c_geba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = mel0061
 		government = tribal_government

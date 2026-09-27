@@ -1,5 +1,8 @@
 ﻿
 c_ras_hafun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }
@@ -30,6 +33,9 @@ c_ras_hafun = {
 
 
 c_barbacadle = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 5 }
@@ -66,6 +72,9 @@ c_barbacadle = {
 
 
 c_nugaal = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }
@@ -102,6 +111,9 @@ c_nugaal = {
 
 
 c_mudug = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }
@@ -130,6 +142,9 @@ c_mudug = {
 
 
 c_mogadishu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -210,6 +225,9 @@ c_mogadishu = {
 
 
 c_hobyo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 5 }
@@ -246,6 +264,9 @@ c_hobyo = {
 
 
 c_mareeg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }
@@ -278,6 +299,9 @@ c_mareeg = {
 
 
 c_hiraab = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }
@@ -336,6 +360,9 @@ c_hiraab = {
 
 
 c_jubba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }
@@ -389,6 +416,9 @@ c_jubba = {
 
 
 c_baydhabo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }
@@ -439,6 +469,9 @@ c_baydhabo = {
 
 
 c_qalaafe = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }
@@ -485,6 +518,9 @@ c_qalaafe = {
 
 
 c_jilib = { # Qoryoley
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }
@@ -535,6 +571,9 @@ c_jilib = { # Qoryoley
 
 
 c_luuq = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }

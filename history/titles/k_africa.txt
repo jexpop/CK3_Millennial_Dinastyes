@@ -151,6 +151,9 @@ d_kairouan = {
 }
 
 c_kairwan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 31 }
@@ -272,6 +275,9 @@ c_kairwan = {
 
 
 c_west_qamuda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {	
 		government = clan_government
 		liege = k_africa
@@ -388,6 +394,9 @@ c_west_qamuda = {
 
 
 c_tabassa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {	
 		liege = k_africa
 		holder = 210014
@@ -575,6 +584,9 @@ d_tunis = {
 }
 
 c_tunis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 31 }
@@ -703,6 +715,9 @@ c_tunis = {
 
 
 c_satfura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {	
 		liege = "k_africa"
 	}
@@ -800,6 +815,9 @@ c_satfura = {
 
 
 c_medjerda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {	
 		government = clan_government
 		liege = k_africa
@@ -888,6 +906,9 @@ c_medjerda = {
 
 
 c_mahdiya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 31 }
@@ -1010,6 +1031,9 @@ d_kroumerie = {
 }
 
 c_constantine = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 31 }
 
 	10767.1.1 = {	
@@ -1099,6 +1123,9 @@ c_constantine = {
 
 
 c_annaba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1171,6 +1198,9 @@ c_annaba = {
 
 
 c_sfax = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {	
 		government = clan_government
 		liege = "k_africa"
@@ -1302,6 +1332,9 @@ d_gabes = {
 }
 
 c_gabes = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		government = clan_government
 		liege = k_africa
@@ -1411,6 +1444,9 @@ c_gabes = {
 
 
 c_qashtiliya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {	
 		government = clan_government
 		liege = k_africa
@@ -1536,6 +1572,9 @@ d_jerid = {
 }
 
 c_souf = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {	
 		government = tribal_government
 		liege = k_africa
@@ -1664,6 +1703,9 @@ c_souf = {
 }
 
 c_bir_amir = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		government = tribal_government
 		liege = k_africa
@@ -1798,6 +1840,9 @@ c_bir_amir = {
 
 
 c_ghadames = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {	
 		#liege = k_africa
 		holder = 210014
@@ -2020,6 +2065,9 @@ d_tripolitania = {
 
 
 c_tripolitana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -2108,6 +2156,9 @@ c_tripolitana = {
 
 
 c_djerba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {	
 		government = clan_government
 		liege = d_tripolitania
@@ -2182,6 +2233,9 @@ c_djerba = {
 
 
 c_jafara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {	
 		government = clan_government
 		liege = d_tripolitania
@@ -2277,6 +2331,9 @@ d_syrte = {
 
 
 c_syrte = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {	
 		government = clan_government
 		liege = d_tripolitania
@@ -2330,6 +2387,9 @@ c_syrte = {
 
 
 c_labda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {	
 		government = clan_government
 		liege = "d_tripolitania"
@@ -2414,6 +2474,9 @@ c_labda = {
 
 
 c_waddan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {	
 		liege = "d_tripolitania"
 		government = tribal_government

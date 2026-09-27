@@ -148,6 +148,9 @@ d_cilicia = {
 
 
 c_cilicia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -252,6 +255,9 @@ c_cilicia = {
 
 
 c_seleucia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -347,6 +353,9 @@ c_seleucia = {
 
 
 c_lycandus = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_cilicia"
 		government = administrative_government
@@ -511,6 +520,9 @@ c_lycandus = {
 
 
 c_tall_hamid = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -696,6 +708,9 @@ d_cibyrrhaeot = {
 
 
 c_lycia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -794,6 +809,9 @@ c_lycia = {
 
 
 c_caria = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -879,6 +897,9 @@ c_caria = {
 
 
 c_pamphylia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1010,6 +1031,9 @@ d_anatolia = {
 
 
 c_lycaonia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 41 }
@@ -1108,6 +1132,9 @@ c_lycaonia = {
 }
 
 c_pacatiana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1={
 		liege="d_anatolia"
 		government = administrative_government
@@ -1200,6 +1227,9 @@ c_pacatiana = {
 
 
 c_pisidia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1={
 		liege="d_anatolia"
 	}
@@ -1276,6 +1306,9 @@ c_pisidia = {
 
 
 c_selge = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1={
 		liege="d_anatolia"
 		government = administrative_government
@@ -1381,6 +1414,9 @@ c_selge = {
 
 
 c_galatia_salutaris = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1={
 		liege="d_anatolia"
 	}
@@ -1463,6 +1499,9 @@ c_galatia_salutaris = {
 
 
 c_philomelium = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_anatolia"
 	}
@@ -1545,6 +1584,9 @@ c_philomelium = {
 
 
 c_isauria = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_anatolia"
 	}
@@ -1678,6 +1720,9 @@ d_cappadocia = {
 
 
 c_cappadocia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10823.1.2 = {
 		liege = d_cappadocia
 		holder = 302341 #fictional Alexandros Maleios
@@ -1770,6 +1815,9 @@ c_cappadocia = {
 
 
 c_lower_galatia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10823.1.2 = {
 		liege = d_cappadocia
 		holder = 302341 #fictional Alexandros Maleios

@@ -87,6 +87,9 @@
 }
 
 c_navarra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -240,6 +243,9 @@ b_tafalla = {
 
 
 c_najera = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10716.1.1 = {
 		holder = 73808 # Count Casio of Tudela
 		liege = k_andalusia
@@ -404,6 +410,9 @@ b_logrono = {
 }
 
 c_tudela = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10710.1.1 = {
 		holder = 73808 # Conde Casio
 	}
@@ -550,6 +559,9 @@ c_tudela = {
 }
 
 c_viscaya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10745.1.1 = {
 		holder = 200158 # Lope de �lava
 		liege = k_asturias
@@ -664,6 +676,9 @@ c_viscaya = {
 }
 
 c_ipuskoa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10806.1.1 = {
 		holder = 200190 # Count Velasco Belascotenes of Navarra
 		liege = d_gascogne

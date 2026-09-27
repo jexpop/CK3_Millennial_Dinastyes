@@ -16,6 +16,9 @@ d_MAL_langkasuka = {
 }
 
 c_MAL_patani = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 17 }
@@ -34,6 +37,9 @@ c_MAL_patani = {
 }
 
 c_MAL_kelantan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 16 }
@@ -53,6 +59,9 @@ c_MAL_kelantan = {
 }
 
 c_MAL_kedah = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 19 }
@@ -78,6 +87,9 @@ c_MAL_kedah = {
 }
 
 c_THAI_tambralinga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 19 }
@@ -95,6 +107,9 @@ c_THAI_tambralinga = {
 }
 
 c_THAI_takua_pa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 16 }
@@ -113,6 +128,9 @@ c_THAI_takua_pa = {
 
 #d_MAL_pahang
 c_MAL_pahang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 14 }
@@ -130,6 +148,9 @@ c_MAL_pahang = {
 }
 
 c_MAL_gelanggi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 11 }
@@ -147,6 +168,9 @@ c_MAL_gelanggi = {
 }
 
 c_MAL_johor = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 17 }
@@ -164,6 +188,9 @@ c_MAL_johor = {
 }
 
 c_MAL_gangganegara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 14 }
@@ -181,6 +208,9 @@ c_MAL_gangganegara = {
 }
 
 c_MAL_semantan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 12 }
@@ -198,6 +228,9 @@ c_MAL_semantan = {
 }
 
 c_riau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 15 }

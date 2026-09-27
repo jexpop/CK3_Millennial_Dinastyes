@@ -6,6 +6,9 @@ d_menas = {
 	10867.1.1 = { change_development_level = 8 }
 }
 c_iskar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -18,6 +21,9 @@ c_iskar = {
 	11178.1.1 = { holder = ainu_iskar_11 }
 }
 c_uskes = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -30,6 +36,9 @@ c_uskes = {
 	11178.1.1 = { holder = ainu_uskes_11 }
 }
 c_ioci = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -42,6 +51,9 @@ c_ioci = {
 	11178.1.1 = { holder = ainu_ioci_11 }
 }
 c_simenas = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -54,6 +66,9 @@ c_simenas = {
 	11178.1.1 = { holder = ainu_simenas_11 }
 }
 c_menas = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -66,6 +81,9 @@ c_menas = {
 	11178.1.1 = { holder = ainu_menas_12 }
 }
 c_soya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 2 }
 	11178.1.1 = { change_development_level = 3 }
@@ -74,6 +92,9 @@ c_soya = {
 	11178.1.1 = { holder = ainu_repunmosir_12 }
 }
 c_sum = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -86,6 +107,9 @@ c_sum = {
 	11178.1.1 = { holder = ainu_sum_11 }
 }
 c_chupka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 2 }
 	11178.1.1 = { change_development_level = 3 }
@@ -98,6 +122,9 @@ c_chupka = {
 	11178.1.1 = { holder = ainu_chupka_11 }
 }
 c_tarayka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 0 }
 	11066.1.1 = { change_development_level = 0 }
 	11178.1.1 = { change_development_level = 0 }
@@ -106,6 +133,9 @@ c_tarayka = {
 	11178.1.1 = { holder = nivkh_tarayka_11 }
 }
 c_pogibi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 0 }
 	11066.1.1 = { change_development_level = 0 }
 	11178.1.1 = { change_development_level = 0 }
@@ -114,6 +144,9 @@ c_pogibi = {
 	11178.1.1 = { holder = nivkh_pogibi_11 }
 }
 c_kusunkotan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }

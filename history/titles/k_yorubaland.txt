@@ -5,6 +5,9 @@
 }
 
 c_ibadan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 6 }
@@ -51,6 +54,9 @@ c_ibadan = {
 
 
 c_abomey = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#mythical rulers
 	10760.1.1 = {
 		holder = yoruba0001
@@ -97,6 +103,9 @@ c_abomey = {
 
 
 c_ifonyin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#mythical rulers
 	10760.1.1 = {
 		holder = yoruba0001
@@ -143,6 +152,9 @@ c_ifonyin = {
 
 
 c_ketu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#mythical rulers
 	10760.1.1 = {
 		holder = yoruba0001
@@ -212,6 +224,9 @@ d_oyo = {
 }
 
 c_oyo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -256,6 +271,9 @@ c_oyo = {
 
 
 c_igana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		government = tribal_government
 		liege = d_ife
@@ -296,6 +314,9 @@ c_igana = {
 
 
 c_ilorin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		government = tribal_government
 		liege = d_ife
@@ -336,6 +357,9 @@ c_ilorin = {
 
 
 c_igbomina = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = yoruba0001
 		government = tribal_government
@@ -379,6 +403,9 @@ c_igbomina = {
 
 
 c_yagba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = yoruba0001
 		government = tribal_government
@@ -462,6 +489,9 @@ d_ife = {
 }
 
 c_ife = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 6 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -509,6 +539,9 @@ c_ife = {
 
 
 c_ijebu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = yoruba0001
 		government = tribal_government
@@ -551,6 +584,9 @@ c_ijebu = {
 
 
 c_owu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -619,6 +655,9 @@ d_benin = {
 }
 
 c_benin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -660,6 +699,9 @@ c_benin = {
 
 
 c_edo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 6 }

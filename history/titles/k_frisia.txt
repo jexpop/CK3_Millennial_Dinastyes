@@ -120,6 +120,9 @@ d_holland = {
 
 
 c_holland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194170
 		liege = d_holland
@@ -197,6 +200,9 @@ c_holland = {
 
 
 c_westfriesland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194170
 		liege = d_holland
@@ -273,6 +279,9 @@ c_westfriesland = {
 
 
 c_zeeland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194170
 		liege = d_holland
@@ -357,6 +366,9 @@ d_gelre = {
 
 
 c_guelders = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 6392
 	}
@@ -412,6 +424,9 @@ c_guelders = {
 
 
 c_arnhem = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 6392
 	}
@@ -464,6 +479,9 @@ c_arnhem = {
 }
 
 c_zutphen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 6392
 	}
@@ -562,6 +580,9 @@ d_utrecht = {
 }
 
 c_nedersticht = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -668,6 +689,9 @@ c_nedersticht = {
 
 
 c_oversticht = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -772,6 +796,9 @@ c_oversticht = {
 
 
 c_groningen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194170
 	}
@@ -874,6 +901,9 @@ c_groningen = {
 }
 
 c_dokkum = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 6392
 	}
@@ -980,6 +1010,9 @@ c_dokkum = {
 }
 
 c_ostfriesland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 168620
 	}
@@ -1064,6 +1097,9 @@ c_ostfriesland = {
 
 
 c_frisia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		holder = 6392
 	}

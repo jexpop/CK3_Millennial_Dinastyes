@@ -255,6 +255,9 @@ d_dalmatia = {
 
 
 c_zadar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10536.7.1 = {
 		liege = "d_dalmatia"
 	}
@@ -311,6 +314,9 @@ c_zadar = {
 
 
 c_knin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10536.7.1 = {
 		liege = "d_dalmatia"
 	}
@@ -368,6 +374,9 @@ c_knin = {
 
 
 c_cetina = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10536.7.1 = {
 		liege = "d_dalmatia"
 	}
@@ -458,6 +467,9 @@ c_cetina = {
 }
 
 c_pagania = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 24 }
@@ -694,6 +706,9 @@ d_croatia = {
 
 
 c_gacka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10536.7.1 = {
 		liege = "d_croatia"
 	}
@@ -753,6 +768,9 @@ c_gacka = {
 
 
 c_lika = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10536.7.1 = {
 		liege = "d_dalmatia"
 	}
@@ -812,6 +830,9 @@ c_lika = {
 
 
 c_cherso = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 24 }
@@ -898,6 +919,9 @@ c_cherso = {
 
 
 c_pset = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		liege = "d_croatia"
 		holder = 146008
@@ -1012,6 +1036,9 @@ c_pset = {
 
 
 c_modrus = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10536.7.1 = {
 		liege = "d_croatia"
 	}
@@ -1190,6 +1217,9 @@ d_slavonia = {
 
 
 c_zagreb = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = "d_slavonia"
 	holder = 168292
@@ -1307,6 +1337,9 @@ c_zagreb = {
 
 
 c_zagorje = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = "d_slavonia"
 	holder = 168292
@@ -1460,6 +1493,9 @@ c_zagorje = {
 
 
 c_pozega = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = "d_slavonia"
 		holder = 168292
@@ -1606,6 +1642,9 @@ c_pozega = {
 
 
 c_vodica = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = "d_slavonia"
 	holder = 168292
@@ -1722,6 +1761,9 @@ c_vodica = {
 
 
 c_vrbas = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = "d_slavonia"
 		holder = 168292
@@ -1880,6 +1922,9 @@ d_bosna = {
 
 
 c_rama = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10539.1.1 = {
 		liege = "d_rashka"
 	}
@@ -1948,6 +1993,9 @@ c_rama = {
 
 
 c_zavrsje = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10536.7.1 = {
 		liege = "d_dalmatia"
 	}
@@ -2005,6 +2053,9 @@ c_zavrsje = {
 
 
 c_donjikraji = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		liege = "d_croatia"
 		holder = 146008
@@ -2068,6 +2119,9 @@ c_donjikraji = {
 
 
 c_vhrbosna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10539.1.1 = {
 		liege = "d_rashka"
 	}
@@ -2131,6 +2185,9 @@ c_vhrbosna = {
 
 
 c_zachlumia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = 0
 		holder = 303447	#Fictional Pavel
@@ -2201,6 +2258,9 @@ c_zachlumia = {
 }
 
 c_zelengora = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = 0
 		holder = 303447	#Fictional Pavel
@@ -2276,6 +2336,9 @@ c_zelengora = {
 
 
 c_usora = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10539.1.1 = {
 		liege = "d_rashka"
 	}
@@ -2432,6 +2495,9 @@ c_usora = {
 
 
 c_soli = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10539.1.1 = {
 		liege = "d_rashka"
 	}
@@ -2598,6 +2664,9 @@ d_ragusa = {
 }
 
 c_ragusa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = 0
 		holder = 303447	#Fictional Pavel

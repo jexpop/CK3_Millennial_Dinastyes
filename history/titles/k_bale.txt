@@ -5,6 +5,9 @@
 }
 
 c_gode = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Garen dynasty - fictional placeholders
 	10840.1.1 = {
 		holder = somali0031
@@ -49,6 +52,9 @@ c_gode = {
 
 
 c_ganale = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = "d_adal"
 		holder = 145968
@@ -133,6 +139,9 @@ c_ganale = {
 
 
 c_gidaya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		liege = "d_adal"
 		holder = 145968
@@ -218,6 +227,9 @@ c_gidaya = {
 
 
 c_sidamo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sidamo confederation fictional leaders
 	10860.1.1 = {
 		holder = welayta0021
@@ -254,6 +266,9 @@ c_sidamo = {
 
 
 c_bali = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 6 }
@@ -342,6 +357,9 @@ c_bali = {
 
 
 c_marsabit = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 0 }
 	11066.1.1 = { change_development_level = 2 }
 	11178.1.1 = { change_development_level = 3 }
@@ -382,6 +400,9 @@ c_marsabit = {
 
 
 c_fudalhi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 0 }
 	11066.1.1 = { change_development_level = 2 }
 	11178.1.1 = { change_development_level = 3 }
@@ -422,6 +443,9 @@ c_fudalhi = {
 
 
 c_el_waak = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 0 }
 	11066.1.1 = { change_development_level = 2 }
 	11178.1.1 = { change_development_level = 3 }
@@ -462,6 +486,9 @@ c_el_waak = {
 
 
 c_lag_dera = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 0 }
 	11066.1.1 = { change_development_level = 2 }
 	11178.1.1 = { change_development_level = 3 }

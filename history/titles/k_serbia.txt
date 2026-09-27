@@ -166,6 +166,9 @@ d_rashka = {
 
 
 c_rashka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10539.1.1 = {
 		liege = "d_rashka"
 	}
@@ -237,6 +240,9 @@ c_rashka = {
 }
 
 c_zlatibor = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10539.1.1 = {
 		liege = "d_rashka"
 	}
@@ -308,6 +314,9 @@ c_zlatibor = {
 }
 
 c_sumadija = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_dyrrachion"
 	}
@@ -397,6 +406,9 @@ c_sumadija = {
 
 
 c_podrinje = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10539.1.1 = {
 		liege = "d_rashka"
 	}
@@ -462,6 +474,9 @@ c_podrinje = {
 
 
 c_hvosno = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_dyrrachion"
 	}
@@ -663,6 +678,9 @@ d_macva = {
 
 
 c_macva = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10539.1.1 = {
 		liege = "d_rashka"
 	}
@@ -743,6 +761,9 @@ c_macva = {
 }
 
 c_beograd = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -944,6 +965,9 @@ d_duklja = {
 
 
 c_duklja = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#10330.1.1 = {
 	#	liege = "d_duklja"
 	#}
@@ -1026,6 +1050,9 @@ c_duklja = {
 
 
 c_pomorje = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#10330.1.1 = {
 	#	liege = "d_duklja"
 	#}
@@ -1108,6 +1135,9 @@ c_pomorje = {
 
 
 c_travunia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#10330.1.1 = {
 	#	liege = "d_duklja"
 	#}

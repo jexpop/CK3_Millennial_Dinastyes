@@ -3,6 +3,9 @@
 # BAK/PARK - 박
 
 c_nf_park_juksan = { # Juksan Park
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = {
 		liege = e_goryeo
 		holder = korean_bak_juksan_2 # Yuk_hwa
@@ -17,6 +20,9 @@ c_nf_park_juksan = { # Juksan Park
 }
 
 c_nf_park_milyang = { # Milyang Park
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_bak_milyang_11 # Eon_bu
@@ -37,6 +43,9 @@ c_nf_park_milyang = { # Milyang Park
 }
 
 c_nf_park_pyeongsan = { # Pyeongsan Park
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_bak_pyeongsan_2 # Jeok_oh
@@ -66,6 +75,9 @@ c_nf_park_pyeongsan = { # Pyeongsan Park
 }
 
 c_nf_park_silla = { # Silla Park
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_bak_silla_6 # Ye_gyeom
@@ -83,6 +95,9 @@ c_nf_park_silla = { # Silla Park
 }
 
 c_nf_korean_o_naju = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_o_naju_1
@@ -98,6 +113,9 @@ c_nf_korean_o_naju = {
 }
 
 c_nf_korean_ryu_jeongju = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_ryu_jeongju_1
@@ -122,6 +140,9 @@ c_nf_korean_ryu_jeongju = {
 }
 
 c_nf_korean_ryu_yeomju = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_ryu_yeomju_1
@@ -137,6 +158,9 @@ c_nf_korean_ryu_yeomju = {
 }
 
 c_nf_korean_hwangbo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_hwangbo_3
@@ -152,6 +176,9 @@ c_nf_korean_hwangbo = {
 }
 
 c_nf_korean_myeong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_myeong_1
@@ -167,6 +194,9 @@ c_nf_korean_myeong = {
 }
 
 c_nf_korean_jang_andong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_jang_andong_2 # Jeong_cheol
@@ -182,6 +212,9 @@ c_nf_korean_jang_andong = {
 }
 
 c_nf_korean_yu_chungju = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_yu_chungju_1
@@ -197,6 +230,9 @@ c_nf_korean_yu_chungju = {
 }
 
 c_nf_korean_bak_seungju = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_bak_seungju_1
@@ -214,6 +250,9 @@ c_nf_korean_bak_seungju = {
 # BOK - 복
 
 c_nf_bok_myeoncheon = { # Myeoncheon Bok - 沔川卜 (면천복)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_bok_myeoncheon_1 # Hak_sa
@@ -233,6 +272,9 @@ c_nf_bok_myeoncheon = { # Myeoncheon Bok - 沔川卜 (면천복)
 # CHAE - 채
 
 c_nf_chae_pyeonggang = { # Pyeonggang Chae 
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = {
 		liege = d_gyoju
 		holder = korean_chae_pyeonggang_1 # Yeong
@@ -249,6 +291,9 @@ c_nf_chae_pyeonggang = { # Pyeonggang Chae
 # CHEOK - 척
 
 c_nf_cheok_goksan = { # Gokju Cheok
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_cheok_goksan_1 # Wi_gong
@@ -266,6 +311,9 @@ c_nf_cheok_goksan = { # Gokju Cheok
 # CHOE - 최
 
 c_nf_choe_dongju = { # Dongju (Cheorwon) Choe 
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_choe_dongju_1 # Seok
@@ -291,6 +339,9 @@ c_nf_choe_dongju = { # Dongju (Cheorwon) Choe
 }
 
 c_nf_choe_gyeongju = { # Gyeongju Choe 
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_choe_gyeongju_1 # Ji_won
@@ -320,6 +371,9 @@ c_nf_choe_gyeongju = { # Gyeongju Choe
 }
 
 c_nf_choe_haeju = { # Haeju Choe 
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_choe_haeju_2 # Chung
@@ -340,6 +394,9 @@ c_nf_choe_haeju = { # Haeju Choe
 }
 
 c_nf_choe_jiksan = { # Jiksan Choe 
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_choe_jiksan_1 # ?
@@ -362,6 +419,9 @@ c_nf_choe_jiksan = { # Jiksan Choe
 }
 
 c_nf_choe_suwon = { # Suju Choe 
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		government = meritocratic_government
@@ -379,6 +439,9 @@ c_nf_choe_suwon = { # Suju Choe
 }
 
 c_nf_choe_ubong = { # Ubong Choe 
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = {
 		liege = e_goryeo
 		holder = korean_choe_ubong_4 # Chung-heong
@@ -395,6 +458,9 @@ c_nf_choe_ubong = { # Ubong Choe
 # GIM/KIM - 김
 
 c_nf_gim_eonyang = { # Eon-yang Gim
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_gim_eonyang_5 # Gyeong-suk
@@ -415,6 +481,9 @@ c_nf_gim_eonyang = { # Eon-yang Gim
 }
 
 c_nf_gim_gangneung = { # Gang-neung Gim - 강릉김
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_gim_gangneung_24 # Dong_jeong
@@ -432,6 +501,9 @@ c_nf_gim_gangneung = { # Gang-neung Gim - 강릉김
 }
 
 c_nf_gim_gimhae = { # Gim-hae Gim - 김해김
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_gim_gimhae_4 # Gyeong_ju
@@ -463,6 +535,9 @@ c_nf_gim_gimhae = { # Gim-hae Gim - 김해김
 }
 
 c_nf_gim_gwangsan = { # Gwangsan Gim - 광산김
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_gim_gwangsan_5 # Jeong_jun
@@ -480,6 +555,9 @@ c_nf_gim_gwangsan = { # Gwangsan Gim - 광산김
 }
 
 c_nf_gim_gyeongju = { # Silla (Gyeongju) Gim - 경주김
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = e_goryeo
 		holder = korean_gim_silla_33 # King Eung_ryeom
@@ -513,6 +591,9 @@ c_nf_gim_gyeongju = { # Silla (Gyeongju) Gim - 경주김
 }
 
 c_nf_gim_ulleong = { # Ulleong Gim
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = {
 		liege = e_goryeo
 		holder = korean_gim_ulleong_1 # Yu_rip
@@ -527,6 +608,9 @@ c_nf_gim_ulleong = { # Ulleong Gim
 }
 
 c_nf_gim_yeonggwang = { # Yeong-gwang Gim 
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_gim_yeonggwang_3 # Haeng-geong
@@ -551,6 +635,9 @@ c_nf_gim_yeonggwang = { # Yeong-gwang Gim
 # GWAK - 곽
 
 c_nf_gwak_cheongju = { # Cheongju Gwak
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_gwak_cheongju_3 # Sang_5C19
@@ -573,6 +660,9 @@ c_nf_gwak_cheongju = { # Cheongju Gwak
 # GWON - 권
 
 c_nf_gwon_andong = { # Andong Gwon
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_gwon_andong_1 # In_su
@@ -604,6 +694,9 @@ c_nf_gwon_andong = { # Andong Gwon
 # GYEONG - 경
 
 c_nf_gyeong_cheongju = { # Cheong-ju Gyeong 
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = {
 		liege = d_chungju
 		holder = korean_gyeong_cheongju_2 # Dae-seung
@@ -620,6 +713,9 @@ c_nf_gyeong_cheongju = { # Cheong-ju Gyeong
 # YANG - 양
 
 c_nf_yang_wonju = { # Wonju Yang
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_yang_wonju_2 # Gil
@@ -637,6 +733,9 @@ c_nf_yang_wonju = { # Wonju Yang
 }
 
 c_nf_yang_anak = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_yang_anak_2 # Dae_chun
@@ -659,6 +758,9 @@ c_nf_yang_anak = {
 # GYEON - 견
 
 c_nf_gyeon_gaeunhyeon = { # Sangju / Gaeunhyeon Gyeon
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_gyeon_gaeunhyeon_1 # A_ja_gae
@@ -678,6 +780,9 @@ c_nf_gyeon_gaeunhyeon = { # Sangju / Gaeunhyeon Gyeon
 # GO - 고
 
 c_nf_go_jeju = { # Jeju Go - 제주고
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_go_jeju_1 # Il
@@ -702,6 +807,9 @@ c_nf_go_jeju = { # Jeju Go - 제주고
 # HAN - 한
 
 c_nf_han_daeheung = { # Daeheung Han 
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = {
 		liege = e_goryeo
 		holder = korean_han_daeheung_8 # Mun-jun
@@ -718,6 +826,9 @@ c_nf_han_daeheung = { # Daeheung Han
 # HEO - 허
 
 c_nf_heo_gongam = { # Gongam Heo 
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_heo_gongam_2 # Won
@@ -742,6 +853,9 @@ c_nf_heo_gongam = { # Gongam Heo
 # HONG - 홍
 
 c_nf_hong_namyang = { # Nam-yang Hong - 南陽洪 (남양홍)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_hong_namyang_6 # ?
@@ -766,6 +880,9 @@ c_nf_hong_namyang = { # Nam-yang Hong - 南陽洪 (남양홍)
 # I/LEE/YI - 이
 
 c_nf_yi_gyeongwon = { # Gyeong-won (In-cheon) Yi - 仁川李 (인천이)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_i_gyeongwon_27 # Jeong
@@ -788,6 +905,9 @@ c_nf_yi_gyeongwon = { # Gyeong-won (In-cheon) Yi - 仁川李 (인천이)
 }
 
 c_nf_yi_jeonju = { # Jeon-ju Yi - 全州李 (전주이)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_i_jeonju_5 # Geung-hyu
@@ -819,6 +939,9 @@ c_nf_yi_jeonju = { # Jeon-ju Yi - 全州李 (전주이)
 }
 
 c_nf_yi_jeongseon = { # Jeong-seon Yi - 旌善李 (정선이)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = {
 		liege = e_goryeo
 		holder = korean_i_jeongseon_4 # Ui-min
@@ -833,6 +956,9 @@ c_nf_yi_jeongseon = { # Jeong-seon Yi - 旌善李 (정선이)
 }
 
 c_nf_yi_suju = { # Su-ju Yi - 수주이
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_i_suju_1 # Seo
@@ -852,6 +978,9 @@ c_nf_yi_suju = { # Su-ju Yi - 수주이
 # IM - 임
 
 c_nf_im_jangheung = { # Jang-heung (Jeon-gan) Im - 장흥임
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_im_jangheung_2 # Ho
@@ -874,6 +1003,9 @@ c_nf_im_jangheung = { # Jang-heung (Jeon-gan) Im - 장흥임
 # JEONG - 정
 
 c_nf_jeong_dongrae = { # Dong-rae Jeong 
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_jeong_dongnae_2 # Mun_do
@@ -894,6 +1026,9 @@ c_nf_jeong_dongrae = { # Dong-rae Jeong
 }
 
 c_nf_jeong_haeju = { # Hae-ju Jeong - 해주정
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = {
 		holder = korean_jeong_haeju_1 # Jung-bu
 		government = meritocratic_government
@@ -909,6 +1044,9 @@ c_nf_jeong_haeju = { # Hae-ju Jeong - 해주정
 # SIN - 신
 
 c_nf_sin_pyeongsan = { # Pyeongsan Sin - 평산신
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = e_goryeo
 		holder = korean_sin_pyeongsan_1 # 
@@ -941,6 +1079,9 @@ c_nf_sin_pyeongsan = { # Pyeongsan Sin - 평산신
 # JO - 조
 
 c_nf_jo_hoengcheon = { # Hoengcheon Jo - 횡천조
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = {
 		liege = e_goryeo
 		holder = korean_jo_wonju_1 # Yeong_in
@@ -957,6 +1098,9 @@ c_nf_jo_hoengcheon = { # Hoengcheon Jo - 횡천조
 # DU - 두
 
 c_nf_du_dureung = { # Dureung Du - 杜陵杜 (두릉두)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_du_dureung_4 # Su_chong
@@ -982,6 +1126,9 @@ c_nf_du_dureung = { # Dureung Du - 杜陵杜 (두릉두)
 # U/WU - 우
 
 c_nf_wu_mokcheon = { # Mokcheon Wu - 木川于 (목천우)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = {
 		liege = e_goryeo
 		holder = korean_wu_mokcheon_2 # Hak_yu
@@ -998,6 +1145,9 @@ c_nf_wu_mokcheon = { # Mokcheon Wu - 木川于 (목천우)
 # MUN - 문
 
 c_nf_mun_gangneung = { # Gang-neung Mun
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = {
 		liege = e_goryeo
 		holder = korean_mun_gangneung_4 # Jang-pil
@@ -1012,6 +1162,9 @@ c_nf_mun_gangneung = { # Gang-neung Mun
 }
 
 c_nf_mun_nampyeong = { # Namp-yeong Mun - 남평문
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_mun_nampyeong_2 # Chak
@@ -1036,6 +1189,9 @@ c_nf_mun_nampyeong = { # Namp-yeong Mun - 남평문
 # WANG - 왕
 
 c_nf_wang_goryeo = { # Goryeo Wang
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_wang_goryeo_43 # Jak_je_geon
@@ -1067,6 +1223,9 @@ c_nf_wang_goryeo = { # Goryeo Wang
 }
 
 c_nf_wang_seohae = { # Seohae Wang
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_wang_seohae_6 # Yu_5112
@@ -1084,6 +1243,9 @@ c_nf_wang_seohae = { # Seohae Wang
 # YEOM - 염
 
 c_nf_yeom_paju = { # Paju Yeom - 坡州廉 (파주염)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_yeom_paju_1 # Gwang_jong
@@ -1115,6 +1277,9 @@ c_nf_yeom_paju = { # Paju Yeom - 坡州廉 (파주염)
 # YUN - 윤
 
 c_nf_yun_papyeong = { # Papyeong Yun - 坡平尹 (파평윤)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_yun_papyeong_4 # Ji_hyung
@@ -1139,6 +1304,9 @@ c_nf_yun_papyeong = { # Papyeong Yun - 坡平尹 (파평윤)
 # YU - 유
 
 c_nf_yu_pyeongsan = { # Pyeongsan Yu - 平山庾 (평산유)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_yu_pyeongsan_1 #
@@ -1165,6 +1333,9 @@ c_nf_yu_pyeongsan = { # Pyeongsan Yu - 平山庾 (평산유)
 # SEO - 이
 
 c_nf_seo_icheon = { # Icheon (Yeongchang) Seo - 이천서
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_seo_icheon_17 # Sin_il
@@ -1196,6 +1367,9 @@ c_nf_seo_icheon = { # Icheon (Yeongchang) Seo - 이천서
 # TAK - 탁
 
 c_nf_tak = { # 卓 (탁)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_tak_3 # Ji_yeop
@@ -1213,6 +1387,9 @@ c_nf_tak = { # 卓 (탁)
 # SONG - 송
 
 c_nf_song = { # 宋 (송)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = {
 		liege = e_goryeo
 		holder = korean_song_1 # Yu_in
@@ -1229,6 +1406,9 @@ c_nf_song = { # 宋 (송)
 # GANG - 강
 
 c_nf_gang_sincheon = { # Sincheon Gang - 信川康 (신천강)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_gang_sincheon_121 # Man_ru
@@ -1250,6 +1430,9 @@ c_nf_gang_sincheon = { # Sincheon Gang - 信川康 (신천강)
 }
 
 c_nf_gang_geumcheon = { # Geumcheon Gang - 衿川姜 (금천강)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_gang_geumcheon_4 # Won_gwang
@@ -1267,6 +1450,9 @@ c_nf_gang_geumcheon = { # Geumcheon Gang - 衿川姜 (금천강)
 }
 
 c_nf_gang_jinju = { # Jinju Gang - 晉州姜 (진주강)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11066.1.1 = {
 		liege = e_goryeo
 		holder = korean_gang_jinju_3 # Dan
@@ -1288,6 +1474,9 @@ c_nf_gang_jinju = { # Jinju Gang - 晉州姜 (진주강)
 # DAE - 대
 
 c_nf_dae = { # Balhae Dae - 渤海大 (발해대)
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_dae_12 # King Geon_hwang
@@ -1319,6 +1508,9 @@ c_nf_dae = { # Balhae Dae - 渤海大 (발해대)
 # GEUM - 검
 
 c_nf_geom_nakrang = { # Nakrang Geom
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_silla
 		holder = korean_geom_nakrang_1 # 
@@ -1336,6 +1528,9 @@ c_nf_geom_nakrang = { # Nakrang Geom
 }
 
 c_nf_go_balhae = { # Go - 고
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_go_1 #
@@ -1362,6 +1557,9 @@ c_nf_go_balhae = { # Go - 고
 # MIN - 민
 
 c_nf_min_hwangryeo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = {
 		liege = e_goryeo
 		holder = korean_min_hwangryeo_2 # Yeong_mo
@@ -1376,6 +1574,9 @@ c_nf_min_hwangryeo = {
 }
 
 c_nf_balhae_nan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_nan_1
@@ -1389,6 +1590,9 @@ c_nf_balhae_nan = {
 }
 
 c_nf_balhae_yeon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_yeon_1
@@ -1402,6 +1606,9 @@ c_nf_balhae_yeon = {
 }
 
 c_nf_balhae_baek = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_baek_1
@@ -1415,6 +1622,9 @@ c_nf_balhae_baek = {
 }
 
 c_nf_balhae_ye = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_ye_2
@@ -1428,6 +1638,9 @@ c_nf_balhae_ye = {
 }
 
 c_nf_balhae_mun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_mun_1
@@ -1441,6 +1654,9 @@ c_nf_balhae_mun = {
 }
 
 c_nf_balhae_mok = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_mok_1
@@ -1454,6 +1670,9 @@ c_nf_balhae_mok = {
 }
 
 c_nf_o_balhae = { # O - 오
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_o_1 # Heung
@@ -1471,6 +1690,9 @@ c_nf_o_balhae = { # O - 오
 }
 
 c_nf_wi_balhae = { # Wi - 위
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_wi_1 # 
@@ -1488,6 +1710,9 @@ c_nf_wi_balhae = { # Wi - 위
 }
 
 c_nf_yeol_balhae = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_yeol_1 # 
@@ -1505,6 +1730,9 @@ c_nf_yeol_balhae = {
 }
 
 c_nf_mohe_baishan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = mohe_baishan_1
@@ -1518,6 +1746,9 @@ c_nf_mohe_baishan = {
 }
 
 c_nf_balhae_dongseong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_dongseong_1
@@ -1531,6 +1762,9 @@ c_nf_balhae_dongseong = {
 }
 
 c_nf_mohe_boduo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = mohe_boduo_1
@@ -1544,6 +1778,9 @@ c_nf_mohe_boduo = {
 }
 
 c_nf_balhae_seop = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_seop_1
@@ -1557,6 +1794,9 @@ c_nf_balhae_seop = {
 }
 
 c_nf_mohe_sumo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = mohe_sumo_1
@@ -1570,6 +1810,9 @@ c_nf_mohe_sumo = {
 }
 
 c_nf_balhae_yang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_yang_2
@@ -1583,6 +1826,9 @@ c_nf_balhae_yang = {
 }
 
 c_nf_korean_baek_daeheung = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.2 = {
 		holder = korean_baek_daeheung_2
 		government = meritocratic_government
@@ -1596,6 +1842,9 @@ c_nf_korean_baek_daeheung = {
 }
 
 c_nf_korean_jo_hanyang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = {
 		holder = korean_jo_hanyang_1
 		government = meritocratic_government

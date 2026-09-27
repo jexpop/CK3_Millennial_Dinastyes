@@ -5,6 +5,9 @@
 }
 
 c_al_jawf = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10627.1.1 = {
 		liege = e_arabia
 		government = tribal_government
@@ -55,6 +58,9 @@ c_al_jawf = {
 
 
 c_thalabiya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -114,6 +120,9 @@ c_thalabiya = {
 
 
 c_sirhan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10690.1.1 = {
 		liege = "d_palestine"
 		holder = 146022
@@ -175,6 +184,9 @@ d_amman = {
 }
 
 c_balqa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		liege = "d_damascus"
 		holder = 146061
@@ -292,6 +304,9 @@ c_balqa = {
 }
 
 c_maab = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -410,6 +425,9 @@ c_maab = {
 
 
 c_jilat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10690.1.1 = {
 		liege = "d_palestine"
 		holder = 146022
@@ -547,6 +565,9 @@ d_shammar = {
 }
 
 c_tabuk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -595,6 +616,9 @@ c_tabuk = {
 
 
 c_al_aqabah = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -649,6 +673,9 @@ c_al_aqabah = {
 }
 
 c_maan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -718,6 +745,9 @@ c_maan = {
 
 
 c_tayma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -864,6 +894,9 @@ d_medina = {
 
 
 c_medina = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -938,6 +971,9 @@ c_medina = {
 
 
 c_wajh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1013,6 +1049,9 @@ c_wajh = {
 
 
 c_khaybar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1087,6 +1126,9 @@ c_khaybar = {
 
 
 c_yanbu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1161,6 +1203,9 @@ c_yanbu = {
 
 
 c_harrat_rahat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1250,6 +1295,9 @@ d_mecca = {
 }
 
 c_mecca = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 12 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 34 }
@@ -1321,6 +1369,9 @@ c_mecca = {
 
 
 c_taif = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1385,6 +1436,9 @@ c_taif = {
 
 
 c_tihama = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		liege = d_medina
 		holder = 188610 # Muhammad b Ibrahim
@@ -1452,6 +1506,9 @@ c_tihama = {
 
 
 c_bisha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		government = tribal_government
 		liege = "d_medina"
@@ -1511,6 +1568,9 @@ c_bisha = {
 
 
 c_aqiq = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = d_najd
 		holder = 188612 # Qutham Abbasid
@@ -1583,6 +1643,9 @@ d_asir = {
 
 
 c_asir = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		government = tribal_government
 		liege = "d_medina"
@@ -1682,6 +1745,9 @@ d_najd = {
 
 
 c_sharaf = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1753,6 +1819,9 @@ c_sharaf = {
 
 
 c_subay = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		government = tribal_government
 		liege = d_medina
@@ -1816,6 +1885,9 @@ c_subay = {
 
 
 c_hail = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10627.1.1 = {
 		liege = e_arabia
 		government = tribal_government
@@ -1867,6 +1939,9 @@ c_hail = {
 
 
 c_shaqiq = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10627.1.1 = {
 		liege = e_arabia
 		government = tribal_government
@@ -1937,6 +2012,9 @@ c_shaqiq = {
 
 
 c_qasim = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10627.1.1 = {
 		liege = e_arabia
 		government = tribal_government
@@ -1991,6 +2069,9 @@ c_qasim = {
 
 
 c_surrah = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10627.1.1 = {
 		liege = e_arabia
 		government = tribal_government
@@ -2093,6 +2174,9 @@ d_yamama = {
 
 
 c_yamama = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = d_najd
 		holder = 188612 # Qutham Abbasid
@@ -2160,6 +2244,9 @@ c_yamama = {
 
 
 c_al-arid = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = d_najd #d_nefoud
 		holder = 188612 # Qutham Abbasid
@@ -2233,6 +2320,9 @@ c_al-arid = {
 
 
 c_falaj = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = d_najd
 		holder = 188612 # Qutham Abbasid
@@ -2298,6 +2388,9 @@ c_falaj = {
 
 
 c_al-hasa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 44 }
 
 	10661.2.28 = {
@@ -2373,6 +2466,9 @@ c_al-hasa = {
 
 
 c_dhafra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# c_dhu_zabi
 	10665.1.1 = {
 		liege = d_oman
@@ -2440,6 +2536,9 @@ c_dhafra = {
 
 
 c_uqayr = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -2516,6 +2615,9 @@ c_uqayr = {
 
 
 c_yabrin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10661.2.28 = {
 		liege = d_bahrain
 	}
@@ -2658,6 +2760,9 @@ d_bahrain = {
 }
 
 c_qatif = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -2735,6 +2840,9 @@ c_qatif = {
 
 
 c_uwal = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10661.2.28 = {
 		liege = d_bahrain
 	}
@@ -2799,6 +2907,9 @@ c_uwal = {
 
 
 c_samman = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10764.1.1 = {
 		liege = e_arabia
 		holder = 188608 # Jabir b Tubah al-Kibani
@@ -2981,6 +3092,9 @@ d_oman = {
 
 
 c_nizwa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 8 }
@@ -3064,6 +3178,9 @@ c_nizwa = {
 
 
 c_julfar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10665.1.1 = {
 		government = tribal_government
 		liege = d_oman
@@ -3132,6 +3249,9 @@ c_julfar = {
 
 
 c_batina = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -3195,6 +3315,9 @@ c_batina = {
 
 
 c_az-dhahira = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10665.1.1 = {
 		government = tribal_government
 		liege = d_oman
@@ -3251,6 +3374,9 @@ c_az-dhahira = {
 
 
 c_muscat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -3334,6 +3460,9 @@ c_muscat = {
 
 
 c_duqm = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 8 }

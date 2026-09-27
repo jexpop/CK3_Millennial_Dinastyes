@@ -69,6 +69,9 @@ d_opolye = {
 
 
 c_yaroslavl = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Pre-Kievan Rus
 	10822.1.1 = {
 		liege = d_opolye
@@ -157,6 +160,9 @@ c_yaroslavl = {
 
 
 c_vladimir = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10809.3.16 = {
 		liege = 0
@@ -251,6 +257,9 @@ c_vladimir = {
 
 
 c_suzdal = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Pre-Kievan Rus
 	10822.1.1 = {
 		liege = d_opolye
@@ -345,6 +354,9 @@ c_suzdal = {
 
 
 c_tver = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Pre-Kievan Rus
 	10822.1.1 = {
 		liege = d_opolye
@@ -426,6 +438,9 @@ c_tver = {
 
 
 c_moskva = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10809.3.16 = {
 		liege = 0
@@ -547,6 +562,9 @@ d_ryazan = {
 
 
 c_ryazan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10809.3.16 = {
 		liege = 0
@@ -624,6 +642,9 @@ c_ryazan = {
 
 
 c_tula = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10809.3.16 = {
 		liege = 0
@@ -703,6 +724,9 @@ c_tula = {
 
 
 c_murom = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10866.1.1 = {
 		holder = 159708		#Varaka Muromid, assumed fictional
@@ -789,6 +813,9 @@ c_murom = {
 
 
 c_nizhny_novgorod = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	###Pre Kievan Rus
 	10839.1.1 = {
 		holder = 160114		#Shumat Cheremesid, assumed fictional
@@ -871,6 +898,9 @@ c_nizhny_novgorod = {
 
 
 c_plyos = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Pre-Kievan Rus
 	10822.1.1 = {
 		liege = d_opolye
@@ -959,6 +989,9 @@ c_plyos = {
 
 
 c_manturovo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Pre-Kievan Rus
 	10850.7.23 = {
 		liege = d_opolye

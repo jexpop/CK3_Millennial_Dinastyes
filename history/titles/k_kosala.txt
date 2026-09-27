@@ -161,6 +161,9 @@ d_kanyakubja = {
 }
 
 c_kanyakubja = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 18 }
 	11066.1.1 = { change_development_level = 30 }
 	11178.1.1 = { change_development_level = 30 }
@@ -307,6 +310,9 @@ c_kanyakubja = {
 
 
 c_lakhnau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		holder = 191000 #Yasovarman
 		liege = d_kanyakubja
@@ -431,6 +437,9 @@ c_lakhnau = {
 
 
 c_kalpi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		holder = 191000 #Yasovarman
 		liege = d_kanyakubja
@@ -585,6 +594,9 @@ c_kalpi = {
 
 
 c_manikpur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		holder = 191000 #Yasovarman
 		liege = d_kanyakubja
@@ -731,6 +743,9 @@ c_manikpur = {
 
 
 c_asni = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		holder = 191000 #Yasovarman
 		liege = d_kanyakubja
@@ -859,6 +874,9 @@ c_asni = {
 
 
 c_prayaga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		holder = 191000 #Yasovarman
 		liege = d_kanyakubja
@@ -1049,6 +1067,9 @@ d_saryupara = {
 }
 
 c_ayodhya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1222,6 +1243,9 @@ c_ayodhya = {
 
 
 c_naimisa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		holder = 191025	#Rajaputra
 		liege = d_saryupara
@@ -1358,6 +1382,9 @@ c_naimisa = {
 
 
 c_sravasti = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 191298 #Jayaditya I
 	}
@@ -1617,6 +1644,9 @@ d_jejakabhukti = {
 
 
 c_mahoba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10700.1.1 = {
 		liege = d_jejakabhukti
 		holder = 191018 #Karamchand
@@ -1741,6 +1771,9 @@ c_mahoba = {
 }
 
 c_kalanjara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10700.1.1 = {
@@ -1854,6 +1887,9 @@ c_kalanjara = {
 
 
 c_damoh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10675.1.1 = {
 		holder = 191317 #Vamaraja Cedi
 		liege = d_dahala
@@ -1996,6 +2032,9 @@ c_damoh = {
 
 
 c_gurgi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10700.1.1 = {
 		liege = d_jejakabhukti
 		holder = 191018 #Karamchand

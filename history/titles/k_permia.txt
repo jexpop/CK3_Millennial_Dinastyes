@@ -40,6 +40,9 @@ d_perm = {
 
 
 c_perm = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# c_perm
 	10768.1.1 = {
 		holder = 188803
@@ -76,6 +79,9 @@ c_perm = {
 
 
 c_sebur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# c_perm
 	10768.1.1 = {
 		holder = 188803
@@ -112,6 +118,9 @@ c_sebur = {
 
 
 c_lysva = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#860
 	10867.1.1 = {
 		holder = 302336		#fictional Anava Lysvvel
@@ -137,6 +146,9 @@ c_lysva = {
 
 
 c_kumych = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#860
 	10867.1.1 = {
 		holder = 302336		#fictional Anava Lysvvel
@@ -177,6 +189,9 @@ d_ural = {
 
 
 c_ural = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#860
 	10860.1.2 = {
 		holder = 302330		#Onika of Kerken
@@ -205,6 +220,9 @@ c_ural = {
 
 
 c_votkinsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# c_perm
 	10768.1.1 = {
 		holder = 188803
@@ -244,6 +262,9 @@ c_votkinsk = {
 
 
 c_kerken = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#860
 	10860.1.2 = {
 		holder = 302330		#Onika of Kerken
@@ -298,6 +319,9 @@ d_udmurtia = {
 
 
 c_kargadan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#860
 	10859.1.2 = {
 		holder = 302319		#fictional Kuaz Palniks
@@ -321,6 +345,9 @@ c_kargadan = {
 
 
 c_palniki = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#860
 	10859.1.2 = {
 		holder = 302319		#fictional Kuaz Palniks
@@ -344,6 +371,9 @@ c_palniki = {
 
 
 c_glazov = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#860
 	10863.1.2 = {
 		holder = 302324		#fictional Nylog Udmurt
@@ -367,6 +397,9 @@ c_glazov = {
 
 
 c_kolyn = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#860
 	10863.1.2 = {
 		holder = 302324		#fictional Nylog Udmurt

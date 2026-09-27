@@ -293,6 +293,9 @@
 }
 
 c_byzantion = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 25 }
 	11066.1.1 = { change_development_level = 35 }
 	11178.1.1 = { change_development_level = 58 }
@@ -613,6 +616,9 @@ c_byzantion = {
 
 
 c_kalliopolis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_thrace"
 		government = administrative_government
@@ -703,6 +709,9 @@ c_kalliopolis = {
 
 
 c_brysis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_thrace"
 	}
@@ -845,6 +854,9 @@ d_strymon = {
 
 
 c_mosynopolis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_thessalonika"
 		government = administrative_government
@@ -936,6 +948,9 @@ c_mosynopolis = {
 }
 
 c_serres = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_thessalonika"
 	}
@@ -1096,6 +1111,9 @@ d_aegean_islands = {
 
 
 c_naxos = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_aegean_islands"
 		government = administrative_government
@@ -1161,6 +1179,9 @@ c_naxos = {
 
 
 c_abydos = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1252,6 +1273,9 @@ c_abydos = {
 
 
 c_lesbos = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_aegean_islands"
 		government = administrative_government
@@ -1350,6 +1374,9 @@ c_lesbos = {
 }
 
 c_chios = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_ephese"
 		government = administrative_government
@@ -1448,6 +1475,9 @@ c_chios = {
 
 
 c_rhodos = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1651,6 +1681,9 @@ d_thessalonika = {
 }
 
 c_thessalonika = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 34 }
 
 	10330.1.1 = {
@@ -1724,6 +1757,9 @@ c_thessalonika = {
 
 
 c_chalkidike = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1804,6 +1840,9 @@ c_chalkidike = {
 
 
 c_veria = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_thessalonika"
 	}
@@ -1929,6 +1968,9 @@ d_thessaly = {
 
 
 c_thessalia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_thessalonika"
 		government = administrative_government
@@ -2018,6 +2060,9 @@ c_thessalia = {
 
 
 c_demetrias = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_athens"
 		government = administrative_government
@@ -2100,6 +2145,9 @@ c_demetrias = {
 
 
 c_neopatras = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_athens"
 	}
@@ -2169,6 +2217,9 @@ c_neopatras = {
 
 
 c_thessaliotis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_thessalonika"
 	}

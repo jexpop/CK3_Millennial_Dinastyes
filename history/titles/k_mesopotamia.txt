@@ -21,6 +21,9 @@ d_samarra = {
 }
 
 c_samarra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Bagdad
 	10750.1.1 = {
 		liege = "d_baghdad"
@@ -142,6 +145,9 @@ c_samarra = {
 
 
 c_hulwan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_azerbaijan
 		holder = 188659
@@ -224,6 +230,9 @@ c_hulwan = {
 }
 
 c_kirkuk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_azerbaijan
 		holder = 188659
@@ -307,6 +316,9 @@ c_kirkuk = {
 }
 
 c_takrit = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_diyarrabia
 		holder = 188643 # Khalid Barmakid
@@ -411,6 +423,9 @@ d_wasit = {
 
 
 c_wasit = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = e_arabia
 		holder = 188609 # Muhammad b Sulayman b Ali
@@ -463,6 +478,9 @@ c_wasit = {
 
 
 c_tib = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10661.2.28 = {
 		liege = e_arabia
 	}
@@ -553,6 +571,9 @@ d_kufa = {
 }
 
 c_kufa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 12 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 20 }
@@ -620,6 +641,9 @@ c_kufa = {
 
 
 c_safata = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = e_arabia
 		holder = 188609 # Muhammad b Sulayman b Ali
@@ -682,6 +706,9 @@ c_safata = {
 
 
 c_qadisiya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = e_arabia
 		holder = 188609 # Muhammad b Sulayman b Ali
@@ -736,6 +763,9 @@ c_qadisiya = {
 
 
 c_batiha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		liege = d_wasit
 	}
@@ -799,6 +829,9 @@ c_batiha = {
 
 
 c_akhadid = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = e_arabia
 		holder = 188609 # Muhammad b Sulayman b Ali
@@ -853,6 +886,9 @@ c_akhadid = {
 
 
 c_waqisa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = e_arabia
 		holder = 188609 # Muhammad b Sulayman b Ali
@@ -999,6 +1035,9 @@ d_basra = {
 
 
 c_basra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 12 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 39 }
@@ -1088,6 +1127,9 @@ c_basra = {
 
 
 c_ubulla = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = e_arabia
 		holder = 188609 # Muhammad b Sulayman b Ali
@@ -1174,6 +1216,9 @@ c_ubulla = {
 
 
 c_rusafa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10661.2.28 = {
 		liege = e_arabia
 	}
@@ -1419,6 +1464,9 @@ d_baghdad = {
 
 
 c_baghdad = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Bagdad
 	10867.1.1 = {	change_development_level = 20 }
 	11066.1.1 = { change_development_level = 25 }
@@ -1570,6 +1618,9 @@ c_baghdad = {
 
 
 c_iskaf = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Bagdad
 	10750.1.1 = {
 		liege = "d_baghdad"
@@ -1685,6 +1736,9 @@ c_iskaf = {
 
 
 c_anbar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Bagdad
 	10750.1.1 = {
 		liege = "d_baghdad"
@@ -1803,6 +1857,9 @@ c_anbar = {
 
 
 c_karbala = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Bagdad
 	10750.1.1 = {
 		liege = "d_baghdad"
@@ -1931,6 +1988,9 @@ c_karbala = {
 
 
 c_badaraya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Bagdad
 	10750.1.1 = {
 		liege = "d_baghdad"

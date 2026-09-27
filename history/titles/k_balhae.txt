@@ -96,6 +96,9 @@ d_BAL_parhae = {
 }
 
 c_BAL_yongcheon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 15 }
@@ -121,6 +124,9 @@ c_BAL_yongcheon = {
 }
 
 c_BAL_west_hyeondeok = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 15 }
@@ -147,6 +153,9 @@ c_BAL_west_hyeondeok = {
 }
 
 c_BAL_east_hyeondeok = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = meritocratic_government
 		holder = balhae_dongseong_1
@@ -166,6 +175,9 @@ c_BAL_east_hyeondeok = {
 }
 
 c_BAL_dongju = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 15 }
@@ -192,6 +204,9 @@ c_BAL_dongju = {
 }
 
 c_BAL_yeongju = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = nomad_government
 		holder = jurchen_odoli_01_fic
@@ -246,6 +261,9 @@ d_BAL_moe_su = {
 }
 
 c_BAL_makhil = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 15 }
@@ -288,6 +306,9 @@ c_BAL_makhil = {
 }
 
 c_BAL_west_makhil = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }
@@ -330,6 +351,9 @@ c_BAL_west_makhil = {
 }
 
 c_BAL_sokju = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = meritocratic_government
 		holder = mohe_sumo_1
@@ -372,6 +396,9 @@ d_BAL_buyeo = {
 }
 
 c_BAL_fuzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = d_BAL_buyeo
 		holder = balhae_o_1 # Heung
@@ -390,6 +417,9 @@ c_BAL_fuzhou = {
 }
 
 c_BAL_changchun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = meritocratic_government
 		holder = balhae_o_1 # Heung
@@ -409,6 +439,9 @@ c_BAL_changchun = {
 }
 
 c_BAL_yizhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = meritocratic_government
 		holder = balhae_o_1 # Heung
@@ -428,6 +461,9 @@ c_BAL_yizhou = {
 }
 
 c_BAL_xinzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }
@@ -467,6 +503,9 @@ d_BAL_amnok_jangryeong = {
 	}
 }
 c_BAL_east_amnok = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = balhae_yang_2 # Seong_gyu
 		government = meritocratic_government
@@ -485,6 +524,9 @@ c_BAL_east_amnok = {
 }
 
 c_BAL_west_amnok = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = balhae_yang_2 # Seong_gyu
 		government = meritocratic_government
@@ -503,6 +545,9 @@ c_BAL_west_amnok = {
 }
 
 c_BAL_east_jangryeong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }
@@ -525,6 +570,9 @@ c_BAL_east_jangryeong = {
 }
 
 c_BAL_west_jangryeong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = meritocratic_government
 		holder = balhae_yeon_1
@@ -555,6 +603,9 @@ d_BAL_southern_balhae = {
 }
 
 c_BAL_namhae = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		liege = k_balhae
 		holder = balhae_yeol_1 # 
@@ -574,6 +625,9 @@ c_BAL_namhae = {
 }
 
 c_BAL_fengzhou = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }
@@ -596,6 +650,9 @@ c_BAL_fengzhou = {
 }
 
 c_BAL_southyongwon = {	
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		government = meritocratic_government
 		liege = k_balhae
@@ -615,6 +672,9 @@ c_BAL_southyongwon = {
 }
 
 c_BAL_northyongwon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }

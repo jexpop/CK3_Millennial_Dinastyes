@@ -223,6 +223,9 @@ d_friuli = {
 
 
 c_aquileia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10569.1.1 = {
 		liege = k_italy
 	}
@@ -353,6 +356,9 @@ c_aquileia = {
 
 
 c_friuli = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10763.1.1 = {
 		liege = k_italy
 	}
@@ -436,6 +442,9 @@ c_friuli = {
 
 
 c_gorz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10569.1.1 = {
 		liege = k_italy
 	}
@@ -716,6 +725,9 @@ d_verona = {
 
 
 c_verona = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 29 }
@@ -834,6 +846,9 @@ c_verona = {
 
 
 c_treviso = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10763.1.1 = {
 		liege = k_italy
 	}
@@ -939,6 +954,9 @@ c_treviso = {
 }
 
 c_padua = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 24 }
 
 	10569.1.1 = {
@@ -1100,6 +1118,9 @@ c_padua = {
 
 
 c_polesine = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10569.1.1 = {
 		holder = 190126 #Gisulf I
 	}
@@ -1254,6 +1275,9 @@ c_polesine = {
 
 
 c_monferrato = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		liege = k_italy
 		holder = 190324 # Liutfred Liutfredidi
@@ -1414,6 +1438,9 @@ d_piedmonte = {
 }
 
 c_turin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10575.1.1 = {
 		holder = 190170 # Agilolf of Italy
 		liege = d_piedmonte
@@ -1569,6 +1596,9 @@ c_turin = {
 }
 
 c_novara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10756.1.1 = {
 		liege = k_italy
 		holder = 190330 # Liutprand of Cuneo
@@ -1710,6 +1740,9 @@ c_novara = {
 }
 
 c_cuneo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10756.1.1 = {
 		liege = k_italy
 	}
@@ -1865,6 +1898,9 @@ d_lombardia = {
 
 
 c_lombardia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 13 }
 	11066.1.1 = { change_development_level = 20 }
 	11178.1.1 = { change_development_level = 39 }
@@ -2041,6 +2077,9 @@ b_monza = {
 
 
 c_brescia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10603.1.1 = {
 		liege = k_italy
 		holder = 190175 # Nandinig Arodingi
@@ -2185,6 +2224,9 @@ c_brescia = {
 
 
 c_como = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10766.1.1 = {
 		liege = k_italy
 		holder = 190320 # Paldo of Lombardia
@@ -2310,6 +2352,9 @@ c_como = {
 }
 
 c_trent = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10678.1.1 = {
 		liege = k_italy
 		holder = 190354 # Alachis of Italy
@@ -2406,6 +2451,9 @@ c_trent = {
 
 
 c_pavia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 15 }
 	11178.1.1 = { change_development_level = 16 }
@@ -2666,6 +2714,9 @@ c_pavia = {
 
 
 c_cremona = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 13 }
 
 	10590.9.5 = {
@@ -2907,6 +2958,9 @@ c_cremona = {
 
 
 c_parma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10769.1.1 = {
 		liege = k_italy
 	}
@@ -3084,6 +3138,9 @@ c_parma = {
 }
 
 c_tortona = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10565.1.1 = {
 		holder = 190124 # Alboin  of Italy
 		liege = k_italy
@@ -3247,6 +3304,9 @@ d_genoa = {
 }
 
 c_genoa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 31 }
@@ -3492,6 +3552,9 @@ b_savona = {
 
 
 c_luni = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = k_italy
 		holder = 190274 # Adalpert of Genoa
@@ -3564,6 +3627,9 @@ c_luni = {
 }
 
 c_modena = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 21 }
 
 	10761.1.1 = {
@@ -3706,6 +3772,9 @@ b_reggio_emilia = {
 
 
 c_mantua = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10756.1.1 = {
 		liege = k_italy
 	}
@@ -3956,6 +4025,9 @@ d_pisa = {
 
 
 c_pisa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 31 }
@@ -4273,6 +4345,9 @@ d_toscana = {
 
 
 c_firenze = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 31 }
 
 	10565.1.1 = {
@@ -4498,6 +4573,9 @@ c_firenze = {
 }
 
 c_lucca = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10713.1.1 = {
 		liege = k_italy
 		holder = 190278
@@ -4630,6 +4708,9 @@ c_lucca = {
 
 
 c_arezzo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10713.1.1 = {
 		liege = k_italy
 	}
@@ -4744,6 +4825,9 @@ c_arezzo = {
 
 
 c_siena = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 24 }
 
 	10765.1.1 = {
@@ -4876,6 +4960,9 @@ c_siena = {
 
 
 c_orbetello = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		liege = k_papal_state
 	}

@@ -80,6 +80,9 @@ d_orkhon = {
 
 
 c_karakorum = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10848.1.2 = {
 		liege = d_ovorkhangai
@@ -131,6 +134,9 @@ c_karakorum = {
 
 
 c_karabalgasun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 8 }
@@ -199,6 +205,9 @@ c_karabalgasun = {
 
 
 c_mumo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -262,6 +271,9 @@ c_mumo = {
 }
 
 c_khanjargalant = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -367,6 +379,9 @@ d_ogrash = {
 
 
 c_ulaanbaatar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -418,6 +433,9 @@ c_ulaanbaatar = {
 
 
 c_khentii = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -496,6 +514,9 @@ c_khentii = {
 
 
 c_naushki = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -570,6 +591,9 @@ c_naushki = {
 }
 
 c_EM_khaldun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = mongol_herder_30
@@ -647,6 +671,9 @@ d_selenga_valley = {
 
 
 c_selenga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10831.4.18 = {
 		liege = d_selenga_valley
@@ -688,6 +715,9 @@ c_selenga = {
 
 
 c_baibalik = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10831.4.18 = {
 		liege = d_selenga_valley
@@ -731,6 +761,9 @@ c_baibalik = {
 
 
 c_khokhoo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10831.4.18 = {
 		liege = d_selenga_valley
@@ -774,6 +807,9 @@ c_khokhoo = {
 
 
 c_karatsagaan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10831.4.18 = {
 		liege = d_selenga_valley
@@ -814,6 +850,9 @@ c_karatsagaan = {
 
 
 c_tunka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10831.4.18 = {
 		liege = d_selenga_valley
@@ -870,6 +909,9 @@ d_EM_onon = {
 }
 
 c_EM_jiangbian = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = saljiut_1
@@ -883,6 +925,9 @@ c_EM_jiangbian = {
 }
 
 c_EM_ononum = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = saljiut_1
@@ -896,6 +941,9 @@ c_EM_ononum = {
 }
 
 c_EM_kizilkhentii = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = mongol_herder_17
@@ -912,6 +960,9 @@ c_EM_kizilkhentii = {
 }
 
 c_EM_doodonon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10867.1.1 = {
 		holder = mongol_herder_18
@@ -929,6 +980,9 @@ c_EM_doodonon = {
 
 #d_EM_yujuelu
 c_EM_yujuelu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mongol_herder_19
 		government = herder_government
@@ -944,6 +998,9 @@ c_EM_yujuelu = {
 }
 
 c_EM_tsetsen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mongol_herder_20
 		government = herder_government
@@ -959,6 +1016,9 @@ c_EM_tsetsen = {
 }
 
 c_EM_urtolgod = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mongol_herder_21
 		government = herder_government
@@ -988,6 +1048,9 @@ d_EM_wajiezi = {
 }
 
 c_EM_shilka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = jalair_1
 	}
@@ -1000,6 +1063,9 @@ c_EM_shilka = {
 }
 
 c_SW_talbai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = jalair_1
 	}
@@ -1012,6 +1078,9 @@ c_SW_talbai = {
 }
 
 c_EM_khiltsaiz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mongol_herder_22
 		government = herder_government
@@ -1027,6 +1096,9 @@ c_EM_khiltsaiz = {
 }
 
 c_EM_khoyorgol = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = mongol_herder_23
 		government = herder_government
@@ -1094,6 +1166,9 @@ d_ovorkhangai = {
 
 
 c_tovkhon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10848.1.2 = {
 		liege = d_ovorkhangai
@@ -1132,6 +1207,9 @@ c_tovkhon = {
 
 
 c_ongi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10848.1.2 = {
 		liege = d_ovorkhangai
@@ -1170,6 +1248,9 @@ c_ongi = {
 
 
 c_ikh_bogd = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10864.5.16 = {
 		liege = d_ovorkhangai
@@ -1206,6 +1287,9 @@ c_ikh_bogd = {
 
 
 c_bombogor = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10864.5.16 = {
 		liege = d_ovorkhangai
@@ -1239,6 +1323,9 @@ c_bombogor = {
 
 
 c_khasagt_khairkhan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10864.5.16 = {
 		liege = d_ovorkhangai
@@ -1279,6 +1366,9 @@ c_khasagt_khairkhan = {
 
 
 c_tarvagatai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -1321,6 +1411,9 @@ c_tarvagatai = {
 
 
 c_oigon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -1367,6 +1460,9 @@ c_oigon = {
 }
 
 c_telmen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -1410,6 +1506,9 @@ c_telmen = {
 
 
 c_uliastai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -1515,6 +1614,9 @@ d_khovsgol = {
 
 
 c_darkhad_valley = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10843.3.22 = {
 		liege = d_khovsgol
@@ -1548,6 +1650,9 @@ c_darkhad_valley = {
 
 
 c_tomorbulag = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10843.3.22 = {
 		liege = d_khovsgol
@@ -1584,6 +1689,9 @@ c_tomorbulag = {
 
 
 c_ulantaiga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10843.3.22 = {
 		liege = d_khovsgol
@@ -1662,6 +1770,9 @@ d_gobi_altai = {
 
 
 c_tseel = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10850.1.15 = {
 		liege = d_gobi_altai
@@ -1690,6 +1801,9 @@ c_tseel = {
 
 
 c_sharga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10863.1.1 = {
 		liege = d_gobi_altai
@@ -1720,6 +1834,9 @@ c_sharga = {
 
 
 c_zarman = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10850.1.15 = {
 		liege = d_gobi_altai
@@ -1748,6 +1865,9 @@ c_zarman = {
 
 
 c_uvs_nuur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -1796,6 +1916,9 @@ c_uvs_nuur = {
 
 
 c_ulaangom = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -1847,6 +1970,9 @@ c_ulaangom = {
 
 
 c_tesiin_gol = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -1897,6 +2023,9 @@ c_tesiin_gol = {
 
 
 c_urgamal = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -1946,6 +2075,9 @@ c_urgamal = {
 
 
 c_khar_us = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10863.1.1 = {
 		liege = d_gobi_altai
@@ -1983,6 +2115,9 @@ c_khar_us = {
 
 
 c_harhiraa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -2031,6 +2166,9 @@ c_harhiraa = {
 
 
 c_tsambagarau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10852.1.15 = {
 		liege = d_gobi_altai

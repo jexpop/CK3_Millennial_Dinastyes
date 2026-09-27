@@ -82,6 +82,9 @@
 
 
 c_nicopolis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_epirus"
 		government = administrative_government
@@ -155,6 +158,9 @@ c_nicopolis = {
 
 
 c_epeiros = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_epirus"
 	}
@@ -220,6 +226,9 @@ c_epeiros = {
 
 
 c_aetolia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_athens"
 		government = administrative_government
@@ -292,6 +301,9 @@ c_aetolia = {
 
 
 c_metzovo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_epirus"
 	}
@@ -485,6 +497,9 @@ d_dyrrachion = {
 }
 
 c_dyrrachion = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -618,6 +633,9 @@ c_dyrrachion = {
 }
 
 c_arbanon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_dyrrachion"
 	}
@@ -734,6 +752,9 @@ c_arbanon = {
 }
 
 c_debar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_dyrrachion"
 	}
@@ -841,6 +862,9 @@ c_debar = {
 }
 
 c_antipatreia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_epirus"
 	}
@@ -908,6 +932,9 @@ c_antipatreia = {
 }
 
 c_avlonas = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_epirus"
 	}
@@ -982,6 +1009,9 @@ d_cephalonia = {
 }
 
 c_cephalonia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_epirus"
 		government = administrative_government
@@ -1068,6 +1098,9 @@ c_cephalonia = {
 
 
 c_buthrotum = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_epirus"
 	}

@@ -95,6 +95,9 @@ d_tlemcen = {
 }
 
 c_tlemcen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 31 }
@@ -184,6 +187,9 @@ c_tlemcen = {
 
 
 c_wajda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 210037
 	}
@@ -295,6 +301,9 @@ c_wajda = {
 
 
 c_orania = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -379,6 +388,9 @@ c_orania = {
 
 
 c_hunyan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = "d_tlemcen"
 		holder = 210032
@@ -479,6 +491,9 @@ c_hunyan = {
 #}
 
 c_tahert = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 18 }
@@ -537,6 +552,9 @@ c_tahert = {
 
 
 c_yalala = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -622,6 +640,9 @@ c_yalala = {
 
 
 c_ashir = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		government = clan_government
 		holder = 210029
@@ -678,6 +699,9 @@ c_ashir = {
 
 
 c_figuig = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		government = tribal_government
 		holder = 210029
@@ -750,6 +774,9 @@ d_alger = {
 
 
 c_algier = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		liege = "d_alger"
 		holder = 210035
@@ -856,6 +883,9 @@ c_algier = {
 
 
 c_tanas = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = "210036"
 	}
@@ -989,6 +1019,9 @@ d_bejaia = {
 }
 
 c_bejaia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 36 }
@@ -1102,6 +1135,9 @@ c_bejaia = {
 
 
 c_satif = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		government = clan_government
 		liege = "d_alger"
@@ -1226,6 +1262,9 @@ d_zab = {
 
 
 c_hodna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {	
 		government = clan_government
 		liege = "d_alger"
@@ -1338,6 +1377,9 @@ c_hodna = {
 
 
 c_biskra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {	
 		government = clan_government
 		liege = "d_alger"
@@ -1437,6 +1479,9 @@ c_biskra = {
 }
 
 c_bilizma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {	
 		government = clan_government
 		liege = "d_alger"
@@ -1555,6 +1600,9 @@ d_mzab = {
 }
 
 c_wargla = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10866.1.1 = {	
 		government = tribal_government
@@ -1653,6 +1701,9 @@ c_wargla = {
 }
 
 c_laghwat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {	
 		liege = "d_alger"
 		holder = 210035
@@ -1756,6 +1807,9 @@ c_laghwat = {
 
 
 c_ghardaia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {	
 		liege = "d_alger"
 		holder = 210035
@@ -1855,6 +1909,9 @@ c_ghardaia = {
 
 
 c_arigh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {	
 		liege = "d_alger"
 		holder = 210035

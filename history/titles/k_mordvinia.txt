@@ -40,6 +40,9 @@ d_mordvinia = {
 
 
 c_cheboksary = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194147
 		liege = 0
@@ -146,6 +149,9 @@ c_cheboksary = {
 
 
 c_kozlov = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194147
 		liege = d_mordvinia
@@ -218,6 +224,9 @@ c_kozlov = {
 
 
 c_lachyk-uba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194147
 		liege = 0
@@ -288,6 +297,9 @@ c_lachyk-uba = {
 }
 
 c_rakcha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194147
 		liege = 0
@@ -359,6 +371,9 @@ c_rakcha = {
 
 
 c_saran = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194147
 		liege = d_mordvinia
@@ -434,6 +449,9 @@ c_saran = {
 }
 
 c_serdosk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194147
 		liege = d_mordvinia
@@ -511,6 +529,9 @@ c_serdosk = {
 
 
 c_voronezh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194147
 		liege = d_mordvinia
@@ -588,6 +609,9 @@ c_voronezh = {
 
 
 c_karatayak = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#865
 	10750.1.1 = {
 		holder = 194152
@@ -659,6 +683,9 @@ c_karatayak = {
 
 
 c_oskol = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#865
 	10654.1.1 = {
 		liege = "d_don_valley"
@@ -776,6 +803,9 @@ c_oskol = {
 }
 
 c_khursa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#865
 	10654.1.1 = {
 		liege = "d_don_valley"
@@ -931,6 +961,9 @@ d_chuvashia = {
 
 
 c_saratov = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Burtas
 	10840.1.2 = {
 		holder = 302275		#fictional Kutlug
@@ -965,6 +998,9 @@ c_saratov = {
 
 
 c_penza = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Burtas
 	10840.1.2 = {
 		holder = 302275		#fictional Kutlug
@@ -1066,6 +1102,9 @@ c_penza = {
 
 
 c_atkarsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Burtas
 	10840.1.2 = {
 		holder = 302275		#fictional Kutlug
@@ -1131,6 +1170,9 @@ c_atkarsk = {
 
 
 c_petrovsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Burtas
 	10840.1.2 = {
 		holder = 302275		#fictional Kutlug
@@ -1167,6 +1209,9 @@ c_petrovsk = {
 
 
 c_khopyor = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194152
 		liege = e_caspian-pontic_steppe
@@ -1240,6 +1285,9 @@ c_khopyor = {
 
 
 c_tuluchezeva = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#865
 	10750.1.1 = {
 		holder = 194152
@@ -1311,6 +1359,9 @@ c_tuluchezeva = {
 
 
 c_balachev = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Mordvins
 	10750.1.1 = {
 		holder = 194152
@@ -1386,6 +1437,9 @@ c_balachev = {
 
 
 c_tambov = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194147
 		liege = d_mordvinia
@@ -1461,6 +1515,9 @@ c_tambov = {
 }
 
 c_matya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194147
 		liege = d_mordvinia
@@ -1537,6 +1594,9 @@ c_matya = {
 
 
 c_durovka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Mordvins
 	10750.1.1 = {
 		holder = 194152

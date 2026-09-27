@@ -56,6 +56,9 @@ d_corsica = {
 }
 
 c_ajaccio = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		liege = k_italy
 	}
@@ -155,6 +158,9 @@ c_ajaccio = {
 
 
 c_bastia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		liege = k_italy
 	}
@@ -251,6 +257,9 @@ c_bastia = {
 
 
 c_vecchio = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		liege = k_italy
 	}
@@ -389,6 +398,9 @@ d_sardinia = {
 }
 
 c_cagliari = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -514,6 +526,9 @@ c_cagliari = {
 }
 
 c_arborea = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10533.1.1 = {
 		liege = "d_sardinia"
 	}
@@ -663,6 +678,9 @@ c_arborea = {
 }
 
 c_gallura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10533.1.1 = {
 		liege = "d_sardinia"
 	}
@@ -784,6 +802,9 @@ c_gallura = {
 }
 
 c_logudoro = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10533.1.1 = {
 		liege = "d_sardinia"
 	}
@@ -905,6 +926,9 @@ c_logudoro = {
 }
 
 c_tortoli = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10533.1.1 = {
 		liege = "d_sardinia"
 	}

@@ -225,6 +225,9 @@ d_dadhipadra = {
 
 
 c_ujjayini = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10730.1.1 = {
@@ -340,6 +343,9 @@ c_ujjayini = {
 
 
 c_dadhipadra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10570.1.1 = {
 		holder = 191624 #Dadda I Pratihara
 		government = feudal_government
@@ -403,6 +409,9 @@ c_dadhipadra = {
 }
 
 c_dhara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10730.1.1 = {
@@ -520,6 +529,9 @@ c_dhara = {
 
 
 c_dasapura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10730.1.1 = {
 		holder = 188001 # Nagabhata I Pratihara
 		liege = d_dadhipadra
@@ -602,6 +614,9 @@ d_akara_dasarna = {
 }
 
 c_sarangpur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10730.1.1 = {
 		holder = 188001 # Nagabhata
 		liege = d_dadhipadra
@@ -671,6 +686,9 @@ c_sarangpur = {
 
 
 c_vidisa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10730.1.1 = {
 		holder = 191877 #Rashtrakutas of Pathari
 		liege = 0
@@ -765,6 +783,9 @@ c_vidisa = {
 
 
 c_chanderi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10730.1.1 = {
 		holder = 191877 #Rashtrakutas of Pathari
 		liege = 0
@@ -848,6 +869,9 @@ c_chanderi = {
 
 
 c_candhoba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 191685 #Simhavarman Chaulukya (Mattamayura branch)
 		liege = k_malwa
@@ -979,6 +1003,9 @@ d_anupa = {
 }
 
 c_mandapika = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 191380	#Nandaraja
 		liege = d_anupa
@@ -1030,6 +1057,9 @@ c_mandapika = {
 
 
 c_asirgarh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 191380	#Nandaraja
 		liege = d_anupa
@@ -1137,6 +1167,9 @@ c_asirgarh = {
 
 
 c_burhanpur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10720.1.1 = {
 		holder = 74410
 		liege = k_karnata
@@ -1247,6 +1280,9 @@ c_burhanpur = {
 
 
 c_thalner = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 191380	#Nandaraja
 		liege = d_anupa

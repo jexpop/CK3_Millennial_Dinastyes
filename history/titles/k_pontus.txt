@@ -135,6 +135,9 @@ d_paphlagonia = {
 
 
 c_paphlagonia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -212,6 +215,9 @@ c_paphlagonia = {
 
 
 c_pompeiopolis = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1={
 		liege="d_paphlagonia"
 	}
@@ -368,6 +374,9 @@ d_armeniac = {
 
 
 c_helenopontus = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_armeniac"
 	}
@@ -446,6 +455,9 @@ c_helenopontus = {
 }
 
 c_sinope = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -535,6 +547,9 @@ c_sinope = {
 
 
 c_euchaita = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_armeniac"
 	}
@@ -615,6 +630,9 @@ c_euchaita = {
 
 
 c_zela = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_armeniac"
 	}
@@ -741,6 +759,9 @@ d_sebasteia = {
 
 
 c_sebasteia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 35 }
@@ -843,6 +864,9 @@ c_sebasteia = {
 }
 
 c_azysia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10830.5.10 = {
 		liege = d_sebasteia
@@ -944,6 +968,9 @@ c_azysia = {
 
 
 c_ablastha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10830.5.10 = {
 		liege = d_sebasteia
@@ -1105,6 +1132,9 @@ d_charsianon = {
 
 
 c_charsianon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_charsianon"
 	}
@@ -1207,6 +1237,9 @@ c_charsianon = {
 
 
 c_kaisereia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 36 }
 
 	10330.1.1 = {
@@ -1308,6 +1341,9 @@ c_kaisereia = {
 
 
 c_kyzistra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10330.1.1 = {
 		liege = "d_charsianon"
 	}
@@ -1503,6 +1539,9 @@ d_chaldia = {
 
 
 c_cerasus = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1579,6 +1618,9 @@ c_cerasus = {
 
 
 c_trebizond = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1655,6 +1697,9 @@ c_trebizond = {
 
 
 c_colonea = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10855.1.1 = {
 		liege = d_chaldia
 		government = administrative_government
@@ -1738,6 +1783,9 @@ c_colonea = {
 
 
 c_satala = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10844.1.1 = {
 		holder = 145123
 		liege = d_chaldia

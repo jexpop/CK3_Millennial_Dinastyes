@@ -5,6 +5,9 @@
 }
 
 c_tadmekka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 1228871
 		government = tribal_government
@@ -73,6 +76,9 @@ c_tadmekka = {
 
 
 c_tessalit = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 1228871
 	}
@@ -151,6 +157,9 @@ d_ghat = {
 }
 
 c_ghat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -235,6 +244,9 @@ c_ghat = {
 
 
 c_djanet = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 1228872
 		government = tribal_government
@@ -314,6 +326,9 @@ c_djanet = {
 
 
 c_takkeda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# Tuareg tribes of Kel Wi
 	10750.1.1 = {
 		liege = d_air
@@ -374,6 +389,9 @@ c_takkeda = {
 
 
 c_air = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# Tuareg tribes of Kel Wi
 	10750.1.1 = {
 		liege = d_air
@@ -434,6 +452,9 @@ c_air = {
 
 
 c_bilma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -523,6 +544,9 @@ c_bilma = {
 
 
 c_dirku = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kanem
 	10769.1.1 = {
 		#liege = d_kanem
@@ -608,6 +632,9 @@ c_dirku = {
 
 
 c_djado = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# Fezzan dynasties
 	10750.1.1 = {
 		liege = d_fezzan
@@ -691,6 +718,9 @@ c_djado = {
 
 
 c_bodele = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Koeherda dynasty zaghawadyn002
 	10860.1.1 = {
 		holder = zaghawa0011
@@ -727,6 +757,9 @@ c_bodele = {
 
 
 c_ain_galakka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Teda clan zaghawadyn001
 	10860.1.1 = {
 		liege = 0
@@ -764,6 +797,9 @@ c_ain_galakka = {
 
 
 c_tibesti = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Teda clan zaghawadyn001
 	10860.1.1 = {
 		liege = 0
@@ -801,6 +837,9 @@ c_tibesti = {
 
 
 c_murzuk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -888,6 +927,9 @@ c_murzuk = {
 
 
 c_zawila = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# Fezzan dynasties
 	10750.1.1 = {
 		liege = d_fezzan
@@ -971,6 +1013,9 @@ c_zawila = {
 
 
 c_germa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	# Fezzan dynasties
 	10750.1.1 = {
 		liege = d_fezzan

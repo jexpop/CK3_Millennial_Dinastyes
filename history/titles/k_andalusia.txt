@@ -128,6 +128,9 @@ d_cordoba = {
 
 
 c_cordoba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 20 }
 	11066.1.1 = { change_development_level = 25 }
 	11178.1.1 = { change_development_level = 39 }
@@ -304,6 +307,9 @@ c_cordoba = {
 
 
 c_calatrava = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = levantine0041 # Abd al-Rahman ibn Muhammad
 		liege = k_andalusia
@@ -442,6 +448,9 @@ c_calatrava = {
 
 
 c_almader = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 73685 # Sultan Abdallah ibn Muhammad of Andalusia
 		liege = k_andalusia
@@ -571,6 +580,9 @@ c_almader = {
 }
 
 c_andujar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10756.1.1 = {
 		holder = bedouin0183 # al-Hussayn ibn Attaf
 		liege = k_andalusia
@@ -797,6 +809,9 @@ d_granada = {
 
 
 c_granada = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 12 }
 	11066.1.1 = { change_development_level = 17 }
 	11178.1.1 = { change_development_level = 30 }
@@ -922,6 +937,9 @@ c_granada = {
 
 
 c_almeria = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10695.1.1 = {
 		holder = 73901 # Duke Conde Teodomiro of Murcia
 		liege = d_murcia
@@ -1079,6 +1097,9 @@ c_almeria = {
 
 
 c_cabra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10756.3.16 = {
 		holder = 73679 # Sultan Abd al-Rahman I of Andalusia
 		liege = k_andalusia
@@ -1232,6 +1253,9 @@ c_cabra = {
 
 
 c_malaga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10845.1.1 = {
 		holder = 73802 # Ya'far Hafsunid (placeholder)
 		liege = k_andalusia
@@ -1420,6 +1444,9 @@ d_sevilla = {
 
 
 c_sevilla = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 18 }
 	11178.1.1 = { change_development_level = 53 }
@@ -1542,6 +1569,9 @@ b_carmona = {
 }
 
 c_cadiz = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10850.1.1 = {
 		holder = 73941 # Attab ibn Nasr
 		liege = k_andalusia
@@ -1625,6 +1655,9 @@ c_cadiz = {
 
 
 c_algeciras = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = levantine0042 # Hisham ibn Muhammad (placeholder)
 		liege = k_andalusia
@@ -1726,6 +1759,9 @@ c_algeciras = {
 
 
 c_niebla = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10853.1.1 = {
 		holder = levantine0036 # al-Mundir ibn Abd al-Rahman (placeholder)
 		liege = k_andalusia
@@ -1833,6 +1869,9 @@ c_niebla = {
 
 
 c_moura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10777.12.31 = {
 		holder = levantine0011 # Abdallah ibn Abd al-Malik
 		liege = k_andalusia
@@ -2057,6 +2096,9 @@ d_toledo = {
 }
 
 c_toledo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 13 }
 	11066.1.1 = { change_development_level = 17 }
 	11178.1.1 = { change_development_level = 32 }
@@ -2160,6 +2202,9 @@ c_toledo = {
 
 
 c_madrid = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 200020 # Walih Suleyman ibn Abd al-Rahman of Toledo
 		liege = d_toledo
@@ -2268,6 +2313,9 @@ c_madrid = {
 
 
 c_molina = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 200020 # Walih Suleyman ibn Abd al-Rahman of Toledo
 		liege = d_toledo
@@ -2367,6 +2415,9 @@ c_molina = {
 
 
 c_cuenca = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 200020 # Walih Suleyman ibn Abd al-Rahman of Toledo
 		liege = d_toledo
@@ -2489,6 +2540,9 @@ c_cuenca = {
 
 
 c_malagon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10865.1.1 = {
 		holder = 73684 # Sultan al-Mundir ibn Muhammad of Andalusia (placeholder in 867)
 		liege = k_andalusia
@@ -2577,6 +2631,9 @@ c_malagon = {
 
 
 c_mora = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = baranis0063 # Suleyman ibn Dhu-l-Nun
 		liege = k_andalusia

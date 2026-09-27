@@ -53,6 +53,9 @@ d_khakass_hollow = {
 
 
 c_abakan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10840.1.2 = {
 		liege = d_khakass_hollow
@@ -85,6 +88,9 @@ c_abakan = {
 
 
 c_julym = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10840.1.2 = {
 		liege = d_khakass_hollow
@@ -112,6 +118,9 @@ c_julym = {
 
 
 c_jerjul = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10840.1.2 = {
 		liege = d_khakass_hollow
@@ -157,6 +166,9 @@ d_blue_khakassia = {
 }
 
 c_kizir = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10840.1.2 = {
 		liege = d_khakass_hollow
@@ -187,6 +199,9 @@ c_kizir = {
 
 
 c_anja = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10840.1.2 = {
 		liege = d_khakass_hollow
@@ -219,6 +234,9 @@ c_anja = {
 
 
 c_kyzylkul = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10840.1.2 = {
 		liege = d_khakass_hollow
@@ -288,6 +306,9 @@ d_shoria = {
 
 
 c_kuzbas = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10840.1.2 = {
 		liege = d_khakass_hollow
@@ -314,6 +335,9 @@ c_kuzbas = {
 
 
 c_shor = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10860.3.27 = {
 		liege = d_shoria
@@ -347,6 +371,9 @@ c_shor = {
 
 
 c_uul_chors = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10860.3.27 = {
 		liege = d_shoria
@@ -419,6 +446,9 @@ d_kargassia = {
 
 
 c_burugu_aallar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10864.3.3 = {
 		liege = d_kargassia
@@ -450,6 +480,9 @@ c_burugu_aallar = {
 
 
 c_chagdy_aallar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10864.3.3 = {
 		liege = d_kargassia
@@ -480,6 +513,9 @@ c_chagdy_aallar = {
 
 
 c_songuu_aallar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10864.3.3 = {
 		liege = d_kargassia
@@ -512,6 +548,9 @@ c_songuu_aallar = {
 
 
 c_karauda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate
@@ -560,6 +599,9 @@ c_karauda = {
 
 
 c_shityy = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		holder = fictional_tengri_1 #fictional Innokentii Khori-Tumed
@@ -610,6 +652,9 @@ c_shityy = {
 
 
 c_kropot = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = d_togina
@@ -650,6 +695,9 @@ c_kropot = {
 
 
 c_monkh_saridag = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kirghiz khanate
 	10840.1.2 = {
 		liege = e_kirghiz_khanate

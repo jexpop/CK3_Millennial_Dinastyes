@@ -120,6 +120,9 @@ d_qamdo = {
 
 
 c_qamdo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_qamdo"
@@ -219,6 +222,9 @@ c_qamdo = {
 
 
 c_dengqen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_qamdo"
@@ -318,6 +324,9 @@ c_dengqen = {
 
 
 c_baqen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		#liege = "d_baqen"
@@ -421,6 +430,9 @@ c_baqen = {
 
 
 c_sog = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		#liege = "d_baqen"
@@ -627,6 +639,9 @@ c_sog = {
 
 
 c_banbar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_qamdo"
@@ -859,6 +874,9 @@ d_boyul = {
 }
 
 c_bome = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Boy�l Kingdom - offshoot of Purgyal Dynasty (fictional placeholders)
 	10630.1.1={
 		holder=247077
@@ -981,6 +999,9 @@ c_bome = {
 }
 
 c_baxoi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Boy�l Kingdom - offshoot of Purgyal Dynasty (fictional placeholders)
 	10630.1.1={
 		holder=247077
@@ -1104,6 +1125,9 @@ c_baxoi = {
 
 
 c_zogang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Boy�l Kingdom - offshoot of Purgyal Dynasty (fictional placeholders)
 	10630.1.1={
 		holder=247077
@@ -1338,6 +1362,9 @@ d_nyingchi = {
 
 
 c_nyingchi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Nyingchi Kingdom - fictional placeholders
 	10740.1.1={
 		liege="d_nyingchi"
@@ -1434,6 +1461,9 @@ c_nyingchi = {
 
 
 c_gongbo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Nyingchi Kingdom - fictional placeholders
 	10740.1.1={
 		liege="d_nyingchi"
@@ -1637,6 +1667,9 @@ d_nangqen = {
 
 
 c_nangqen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Nangq�n Kingdom
 	10740.1.1={
 		liege="d_nangqen"
@@ -1733,6 +1766,9 @@ c_nangqen = {
 
 
 c_gyegumdo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Nangq�n Kingdom
 	10740.1.1={
 		liege="d_nangqen"
@@ -1936,6 +1972,9 @@ d_lhatok = {
 
 
 c_lhatok = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Lhatok Kingdom
 	10740.1.1={
 		liege="d_lhatok"
@@ -2032,6 +2071,9 @@ c_lhatok = {
 
 
 c_zhagyab = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Lhatok Kingdom
 	10740.1.1={
 		liege="d_lhatok"
@@ -2128,6 +2170,9 @@ c_zhagyab = {
 
 
 c_gonjo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Lhatok Kingdom
 	10740.1.1={
 		liege="d_lhatok"
@@ -2325,6 +2370,9 @@ d_lingtsang = {
 
 
 c_lingtsang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Lingtsang Kingdom
 	10740.1.1={
 		liege="d_lingtsang"
@@ -2415,6 +2463,9 @@ c_lingtsang = {
 
 
 c_ariksar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Lingtsang Kingdom
 	10740.1.1={
 		liege="d_lingtsang"
@@ -2618,6 +2669,9 @@ d_dege = {
 
 
 c_dege = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10705.1.1={
 		liege="d_dege"
 		holder = 247272
@@ -2719,6 +2773,9 @@ c_dege = {
 
 
 c_pelyul = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10705.1.1={
 		liege="d_dege"
 		holder = 247272
@@ -2820,6 +2877,9 @@ c_pelyul = {
 
 
 c_garze = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Qiang Tribes
 	10500.1.1={
 		liege = "d_chakla"
@@ -3024,6 +3084,9 @@ d_batang = {
 }
 
 c_batang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Batang Kingdom
 	10740.1.1={
 		liege="d_batang"
@@ -3119,6 +3182,9 @@ c_batang = {
 }
 
 c_markam = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Batang Kingdom
 	10740.1.1={
 		liege="d_batang"
@@ -3322,6 +3388,9 @@ d_litang = {
 
 
 c_litang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Litang Kingdom
 	10740.1.1={
 		liege="d_litang"
@@ -3418,6 +3487,9 @@ c_litang = {
 
 
 c_lenggu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Litang Kingdom
 	10740.1.1={
 		liege="d_litang"
@@ -3514,6 +3586,9 @@ c_lenggu = {
 
 
 c_nyagrong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Litang Kingdom
 	10740.1.1={
 		liege="d_litang"
@@ -3712,6 +3787,9 @@ c_nyagrong = {
 
 
 c_deqen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#D�q�n Kingdom
 	10740.1.1={
 		#liege="d_deqen"
@@ -3808,6 +3886,9 @@ c_deqen = {
 
 
 c_gyaitang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#D�q�n Kingdom
 	10740.1.1={
 		#liege="d_deqen"

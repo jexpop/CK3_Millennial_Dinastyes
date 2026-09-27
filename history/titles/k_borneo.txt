@@ -22,6 +22,9 @@ d_BOR_tanjungpura = {
 }
 
 c_BOR_sambas = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 16 }
@@ -40,6 +43,9 @@ c_BOR_sambas = {
 }
 
 c_BOR_sukadana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 13 }
@@ -58,6 +64,9 @@ c_BOR_sukadana = {
 }
 
 c_BOR_sintang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }
@@ -76,6 +85,9 @@ c_BOR_sintang = {
 }
 
 c_BOR_waringin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 12 }
@@ -95,6 +107,9 @@ c_BOR_waringin = {
 
 #d_BOR_barune
 c_BOR_brunei = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 23 }
@@ -112,6 +127,9 @@ c_BOR_brunei = {
 }
 
 c_BOR_kudat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 7 }
@@ -129,6 +147,9 @@ c_BOR_kudat = {
 }
 
 c_BOR_lahad_datu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }
@@ -146,6 +167,9 @@ c_BOR_lahad_datu = {
 }
 
 c_BOR_menjelutung = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -163,6 +187,9 @@ c_BOR_menjelutung = {
 }
 
 c_BOR_nabawan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 2 }
 	11178.1.1 = { change_development_level = 4 }
@@ -181,6 +208,9 @@ c_BOR_nabawan = {
 
 #d_BOR_santubong
 c_BOR_santubong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 14 }
@@ -199,6 +229,9 @@ c_BOR_santubong = {
 }
 
 c_BOR_iban = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -217,6 +250,9 @@ c_BOR_iban = {
 }
 
 c_BOR_rajang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 12 }
@@ -234,6 +270,9 @@ c_BOR_rajang = {
 }
 
 c_BOR_tanah_taman = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 6 }
@@ -261,6 +300,9 @@ d_BOR_nan_sarunai = {
 }
 
 c_BOR_banjar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 21 }
@@ -278,6 +320,9 @@ c_BOR_banjar = {
 }
 
 c_BOR_tabalung = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -297,6 +342,9 @@ c_BOR_tabalung = {
 }
 
 c_BOR_taiao = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -316,6 +364,9 @@ c_BOR_taiao = {
 }
 
 c_BOR_sampit = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }
@@ -399,6 +450,9 @@ d_BOR_kutai = {
 }
 
 c_BOR_martapura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 15 }
@@ -462,6 +516,9 @@ c_BOR_martapura = {
 }
 
 c_BOR_kutai_utara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 7 }
@@ -526,6 +583,9 @@ c_BOR_kutai_utara = {
 }
 
 c_BOR_berau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 12 }
@@ -542,6 +602,9 @@ c_BOR_berau = {
 }
 
 c_BOR_kutai_jauh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }

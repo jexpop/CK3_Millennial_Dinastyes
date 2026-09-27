@@ -120,6 +120,9 @@ d_lithuanians = {
 
 
 c_kernave = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 8 }
@@ -208,6 +211,9 @@ c_kernave = {
 
 
 c_trakai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 8 }
@@ -299,6 +305,9 @@ c_trakai = {
 
 
 c_yatvyagi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194113
 		liege = d_lithuanians
@@ -357,6 +366,9 @@ c_yatvyagi = {
 
 
 c_braslau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194113
 		liege = d_lithuanians
@@ -473,6 +485,9 @@ d_prussia = {
 
 
 c_malbork = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194074
 		liege = d_prussia
@@ -553,6 +568,9 @@ c_malbork = {
 }
 
 c_natangia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194074
 		liege = d_prussia
@@ -639,6 +657,9 @@ c_natangia = {
 }
 
 c_konigsberg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 8 }
@@ -730,6 +751,9 @@ c_konigsberg = {
 
 
 c_allenstein = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194076
 		liege = d_prussia
@@ -819,6 +843,9 @@ c_allenstein = {
 
 
 c_wormditt = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194076
 		liege = d_prussia
@@ -908,6 +935,9 @@ c_wormditt = {
 
 
 c_bartenstein = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194076
 		liege = d_prussia
@@ -997,6 +1027,9 @@ d_masuria = {
 }
 
 c_torun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {
 		holder = 302064
 		government = tribal_government
@@ -1075,6 +1108,9 @@ c_torun = {
 
 
 c_osterode = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194076
 		liege = d_prussia
@@ -1164,6 +1200,9 @@ c_osterode = {
 
 
 c_angerburg = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194076
 		liege = d_prussia
@@ -1288,6 +1327,9 @@ d_courland = {
 
 
 c_zemigalians = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 8 }
@@ -1365,6 +1407,9 @@ c_zemigalians = {
 
 
 c_vanemane = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194105
 		liege = d_courland
@@ -1464,6 +1509,9 @@ c_vanemane = {
 
 
 c_grobin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194105
 		liege = d_courland
@@ -1563,6 +1611,9 @@ c_grobin = {
 
 
 c_selpils = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194105
 		liege = d_courland
@@ -1636,6 +1687,9 @@ c_selpils = {
 
 
 c_talava = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 170349
 		liege = "d_livonia"
@@ -1717,6 +1771,9 @@ c_talava = {
 
 
 c_kokenois = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 170349
 		liege = "d_livonia"
@@ -1801,6 +1858,9 @@ c_kokenois = {
 
 
 c_jersika = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		holder = 170351
 		government = tribal_government
@@ -1882,6 +1942,9 @@ c_jersika = {
 
 
 c_aluksne = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 170349
 		liege = "d_livonia"
@@ -2046,6 +2109,9 @@ d_samogitia = {
 }
 
 c_raseiniai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194110
 		liege = d_courland
@@ -2137,6 +2203,9 @@ c_raseiniai = {
 
 
 c_scalovia = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194113
 		liege = d_lithuanians
@@ -2195,6 +2264,9 @@ c_scalovia = {
 
 
 c_memel = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194110
 		liege = d_courland
@@ -2310,6 +2382,9 @@ c_memel = {
 
 
 c_palanga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194110
 		liege = d_courland
@@ -2402,6 +2477,9 @@ c_palanga = {
 
 
 c_siauliai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		holder = 194110
 		liege = d_courland

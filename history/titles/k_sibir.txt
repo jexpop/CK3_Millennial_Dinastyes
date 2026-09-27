@@ -5,6 +5,9 @@
 }
 
 c_sibir = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10853.4.16 = {
 		liege = 0
@@ -38,6 +41,9 @@ c_sibir = {
 
 
 c_tobol = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10853.4.16 = {
 		liege = 0
@@ -71,6 +77,9 @@ c_tobol = {
 
 
 c_belogorje = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10854.1.2 = {
 		liege = 0
@@ -101,6 +110,9 @@ c_belogorje = {
 
 
 c_bardak = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10853.1.2 = {
 		liege = 0
@@ -131,6 +143,9 @@ c_bardak = {
 
 
 c_ishim = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10832.5.16 = {
 		liege = 0
@@ -170,6 +185,9 @@ c_ishim = {
 
 
 c_dolgujar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10832.5.16 = {
 		liege = 0
@@ -209,6 +227,9 @@ c_dolgujar = {
 
 
 c_tara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10844.5.12 = {
 		liege = 0
@@ -242,6 +263,9 @@ c_tara = {
 
 
 c_kazanskoye = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10832.5.16 = {
 		liege = 0
@@ -281,6 +305,9 @@ c_kazanskoye = {
 
 
 c_petropavolsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10844.5.12 = {
 		liege = 0
@@ -360,6 +387,9 @@ d_lanikaz = {
 
 
 c_omsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10823.1.2 = {
 		holder = 302425	#fictional Aepak Laktanid
@@ -396,6 +426,9 @@ c_omsk = {
 
 
 c_kainsk = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10823.1.2 = {
 		holder = 302425	#fictional Aepak Laktanid
@@ -432,6 +465,9 @@ c_kainsk = {
 
 
 c_pavlodar = { # Imekia in-game
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#867
 	10823.1.2 = {
 		holder = 302425	#fictional Aepak Laktanid

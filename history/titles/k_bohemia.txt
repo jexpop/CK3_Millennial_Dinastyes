@@ -206,6 +206,9 @@ d_bohemia = {
 }
 
 c_praha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 28 }
@@ -348,6 +351,9 @@ c_praha = {
 
 
 c_litomerice = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10720.1.1 = {
 		liege = "d_bohemia"
 		holder = 168345
@@ -456,6 +462,9 @@ c_litomerice = {
 
 
 c_zatec = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -608,6 +617,9 @@ c_zatec = {
 
 
 c_plzen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10720.1.1 = {
 		liege = "d_bohemia"
 		holder = 168345
@@ -716,6 +728,9 @@ c_plzen = {
 
 
 c_doudleby = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10720.1.1 = {
 		liege = "d_bohemia"
 		holder = 168345
@@ -857,6 +872,9 @@ c_doudleby = {
 
 
 c_boleslav = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10720.1.1 = {
 		liege = "d_bohemia"
 		holder = 168345
@@ -994,6 +1012,9 @@ c_boleslav = {
 
 
 c_hradec = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = "d_bohemia"
 		holder = 187000
@@ -1130,6 +1151,9 @@ c_hradec = {
 
 
 c_caslav = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10720.1.1 = {
 		liege = "d_bohemia"
 		holder = 168345
@@ -1382,6 +1406,9 @@ d_moravia = {
 
 
 c_olomouc = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 24 }
@@ -1505,6 +1532,9 @@ c_olomouc = {
 
 
 c_opava = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = "d_moravia"
 		holder = 187000
@@ -1637,6 +1667,9 @@ c_opava = {
 
 
 c_prerov = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 20 }
@@ -1769,6 +1802,9 @@ c_prerov = {
 
 
 c_brno = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = "d_moravia"
 		holder = 187000
@@ -1907,6 +1943,9 @@ c_brno = {
 
 
 c_jihlava = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10741.1.1 = {
 		liege = "d_moravia"
 		holder = 187000
@@ -2045,6 +2084,9 @@ c_jihlava = {
 
 
 c_znojmo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 20 }

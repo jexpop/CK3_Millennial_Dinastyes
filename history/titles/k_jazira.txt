@@ -161,6 +161,9 @@ d_diyarrabia = {
 }
 
 c_mosul = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 36 }
@@ -289,6 +292,9 @@ c_mosul = {
 
 
 c_ninive = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_diyarrabia
 		holder = 188657
@@ -399,6 +405,9 @@ c_ninive = {
 
 
 c_sinjar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10757.1.1 = {
 		liege = "d_palmyra"
 		holder = 146129
@@ -529,6 +538,9 @@ c_sinjar = {
 
 
 c_nasibin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10742.1.1 = {
 		liege = "d_diyarbakr"
 		holder = 146132
@@ -636,6 +648,9 @@ c_nasibin = {
 
 
 c_khabur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10710.1.1 = {
 		liege = "d_palmyra"
 		holder = 146067
@@ -694,6 +709,9 @@ c_khabur = {
 
 
 c_upper_khabur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10638.1.1 = {
 		liege = "d_edessa"
 		holder = 146030
@@ -836,6 +854,9 @@ c_upper_khabur = {
 }
 
 c_edessa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 36 }
 
 	10638.1.1 = {
@@ -930,6 +951,9 @@ c_edessa = {
 
 
 c_harran = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1045,6 +1069,9 @@ c_harran = {
 
 
 c_dausar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10706.1.1 = {
 		liege = "d_lebanon"
 		holder = 146014
@@ -1177,6 +1204,9 @@ d_diyarmudar = {
 }
 
 c_raqqa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -1277,6 +1307,9 @@ d_diyarbakr = {
 }
 
 c_tall_basma = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10646.1.1 = {
 		liege = "d_greater_armenia"
 	}
@@ -1363,6 +1396,9 @@ c_tall_basma = {
 
 
 c_hakkari = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10742.1.1 = {
 		liege = "d_diyarbakr"
 		holder = 146132
@@ -1474,6 +1510,9 @@ c_hakkari = {
 }
 
 c_mayyafariqin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10646.1.1 = {
 		liege = "d_greater_armenia"
 	}
@@ -1557,6 +1596,9 @@ c_mayyafariqin = {
 
 
 c_bakriya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10646.1.1 = {
 		liege = "d_greater_armenia"
 	}
@@ -1642,6 +1684,9 @@ c_bakriya = {
 
 
 c_amida = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 34 }
 
 	10742.1.1 = {
@@ -1720,6 +1765,9 @@ d_euphrates = {
 }
 
 c_rahba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10710.1.1 = {
 		liege = "d_palmyra"
 		holder = 146067
@@ -1780,6 +1828,9 @@ c_rahba = {
 
 
 c_hadithat-ana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10710.1.1 = {
 		liege = "d_palmyra"
 		holder = 146067
@@ -1841,6 +1892,9 @@ c_hadithat-ana = {
 
 
 c_al-haditha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Bagdad
 	10750.1.1 = {
 		liege = "d_baghdad"
@@ -1954,6 +2008,9 @@ c_al-haditha = {
 
 
 c_kurdistan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_diyarrabia
 		holder = 188657
@@ -2065,6 +2122,9 @@ c_kurdistan = {
 }
 
 c_irbil = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_diyarrabia
 		holder = 188643 # Khalid Barmakid
@@ -2190,6 +2250,9 @@ c_irbil = {
 }
 
 c_shahrazur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		liege = d_diyarrabia
 		holder = 188643 # Khalid Barmakid

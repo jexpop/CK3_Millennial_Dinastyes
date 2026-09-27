@@ -38,6 +38,9 @@
 }
 
 c_zanzibar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -82,6 +85,9 @@ c_zanzibar = {
 }
 
 c_pemba = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 20 }
@@ -127,6 +133,9 @@ c_pemba = {
 }
 
 c_mrima = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 10 }
@@ -171,6 +180,9 @@ c_mrima = {
 }
 
 c_tanga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 8 }
@@ -201,6 +213,9 @@ c_tanga = {
 }
 
 c_mombasa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 16 }
@@ -275,6 +290,9 @@ d_mombasa = {
 }
 
 c_malindi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 2 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }
@@ -320,6 +338,9 @@ c_malindi = {
 }
 
 c_lamu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 16 }
@@ -364,6 +385,9 @@ c_lamu = {
 }
 
 c_pate = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 16 }
@@ -432,6 +456,9 @@ d_pate = {
 }
 
 c_ewaso_ngiro = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 4 }
@@ -472,6 +499,9 @@ d_bonde_la_ufa = {
 }
 
 c_mto_galana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10862.1.1 = {
 		holder = taita_leader_867
 	}
@@ -484,6 +514,9 @@ c_mto_galana = {
 }
 
 c_mto_tana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		holder = giriama_leader_867
 	}
@@ -496,6 +529,9 @@ c_mto_tana = {
 }
 
 c_taveta = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10864.1.1 = {
 		holder = taveta_leader_867
 	}
@@ -508,6 +544,9 @@ c_taveta = {
 }
 
 c_kirinyaga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10865.1.1 = {
 		holder = kirinyaga_leader_867
 	}
@@ -520,6 +559,9 @@ c_kirinyaga = {
 }
 
 c_kilimanjaro = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10861.1.1 = {
 		holder = kilimanjaro_leader_867
 	}

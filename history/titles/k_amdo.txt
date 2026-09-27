@@ -116,6 +116,9 @@ d_xining = {
 }
 
 c_xining = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_xining"
@@ -228,6 +231,9 @@ c_xining = {
 
 
 c_datong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_xining"
@@ -524,6 +530,9 @@ d_tuyuhun = {
 
 
 c_fuqi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_tuyuhun"
@@ -692,6 +701,9 @@ c_fuqi = {
 }
 
 c_gerqen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege="d_tuyuhun"
@@ -861,6 +873,9 @@ c_gerqen = {
 
 
 c_xigortang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_tuyuhun"
@@ -1030,6 +1045,9 @@ c_xigortang = {
 
 
 c_derlenka = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_tuyuhun"
@@ -1132,6 +1150,9 @@ c_derlenka = {
 
 
 c_ulam = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege="d_tuyuhun"
@@ -1234,6 +1255,9 @@ c_ulam = {
 
 
 c_tuulain = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_tuyuhun"
@@ -1449,6 +1473,9 @@ d_nagormo = {
 }
 
 c_nagormo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_nagormo"
@@ -1548,6 +1575,9 @@ c_nagormo = {
 
 
 c_hohaseco = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10200.1.1={
 		liege = "d_nagormo"
@@ -1647,6 +1677,9 @@ c_hohaseco = {
 }
 
 c_lenghu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_nagormo"
@@ -1746,6 +1779,9 @@ c_lenghu = {
 
 
 c_mangnai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_nagormo"
@@ -1845,6 +1881,9 @@ c_mangnai = {
 
 
 c_kumkol = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10284.1.1={
 		liege = "d_nagormo"
@@ -2063,6 +2102,9 @@ d_amdo = {
 }
 
 c_amdo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_amdo"
@@ -2168,6 +2210,9 @@ c_amdo = {
 
 
 c_nyainrong = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_amdo"
@@ -2273,6 +2318,9 @@ c_nyainrong = {
 
 
 c_yenshipin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_amdo"
@@ -2378,6 +2426,9 @@ c_yenshipin = {
 
 
 c_dangla = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege="d_amdo"
@@ -2483,6 +2534,9 @@ c_dangla = {
 
 
 c_sewa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Zhangzhung Kingdom conquered by Tibetan Empire
 	10625.1.1={
 		liege = "d_conyi"
@@ -2581,6 +2635,9 @@ c_sewa = {
 }
 
 c_aqenganggyai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_amdo"
@@ -2680,6 +2737,9 @@ c_aqenganggyai = {
 
 
 c_chumarho = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege="d_amdo"
@@ -2895,6 +2955,9 @@ d_zadoi = {
 }
 
 c_zadoi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_zadoi"
@@ -2997,6 +3060,9 @@ c_zadoi = {
 
 
 c_trandam = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_zadoi"
@@ -3098,6 +3164,9 @@ c_trandam = {
 }
 
 c_zhidoi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege = "d_zadoi"
@@ -3200,6 +3269,9 @@ c_zhidoi = {
 
 
 c_qumarleb = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		#liege = "k_sumpa"
@@ -3315,6 +3387,9 @@ c_qumarleb = {
 
 
 c_chindu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sumpa Kingdom (c.200 - 755)
 	10200.1.1={
 		liege="d_nangqen"
@@ -3414,6 +3489,9 @@ c_chindu = {
 
 
 c_ngoring = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Tuyuhun Kingdom (284 - 670)
 	10200.1.1={
 		liege = "d_nagormo"

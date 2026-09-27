@@ -230,6 +230,9 @@ d_multan = {
 
 
 c_multan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10712.1.1 = {
 		liege = d_multan
 	}
@@ -336,6 +339,9 @@ c_multan = {
 
 
 c_kafirkot = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10712.1.1 = {
 		liege = d_multan
 		holder = 188527 # Sama banu Sama
@@ -454,6 +460,9 @@ c_kafirkot = {
 
 
 c_uch = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10712.1.1 = {
 		liege = d_multan
 	}
@@ -560,6 +569,9 @@ c_uch = {
 
 
 c_karur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10712.1.1 = {
 		liege = d_multan
 	}
@@ -667,6 +679,9 @@ c_karur = {
 
 
 c_karor = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10712.1.1 = {
 		liege = d_multan
 	}
@@ -779,6 +794,9 @@ c_karor = {
 
 
 c_kalat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10711.1.1 = {
 		liege = 0 # not fully conquered by Abbasids
 	}
@@ -979,6 +997,9 @@ d_lahore = {
 
 
 c_lahur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10740.1.1 = {
@@ -1081,6 +1102,9 @@ c_lahur = {
 
 
 c_dipalpur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10712.1.1 = {
 		liege = d_multan
 	}
@@ -1173,6 +1197,9 @@ c_dipalpur = {
 
 
 c_bhera = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 191965 #Sangiya, fictional vassal in Takkadesa
 		liege = d_lahore
@@ -1279,6 +1306,9 @@ c_bhera = {
 
 
 c_shorkot = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 191965 #Sangiya, fictional vassal in Takkadesa
 		liege = d_lahore
@@ -1382,6 +1412,9 @@ c_shorkot = {
 
 
 c_sakala = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 191017 #Madras
 		liege = d_lahore
@@ -1436,6 +1469,9 @@ c_sakala = {
 
 
 c_trigarta = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10600.1.1 = {
 		liege="k_guge"
 	}
@@ -1637,6 +1673,9 @@ c_trigarta = {
 }
 
 c_kangra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10600.1.1 = {
 		liege="k_guge"
 	}
@@ -1839,6 +1878,9 @@ c_kangra = {
 }
 
 c_gurjaratra = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 191965 #Sangiya, fictional vassal in Takkadesa
 		liege = d_lahore
@@ -1954,6 +1996,9 @@ d_gandhara = {
 }
 
 c_udabhanda = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10763.1.1 = {
 		liege = d_kabul
 		holder = 188565 # Surendravirkramaditya Nandin of Kabul Shahi
@@ -2019,6 +2064,9 @@ c_udabhanda = {
 
 
 c_purushapura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10755.1.1 = {
 		liege = d_kabul
 		holder = 188568
@@ -2138,6 +2186,9 @@ c_purushapura = {
 
 
 c_nandana = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10756.1.1 = {
 		holder = 191961 #Sujji, fictional vassal in the Salt range
 		liege = k_punjab
@@ -2219,6 +2270,9 @@ c_nandana = {
 
 
 c_bannu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10750.1.1 = {
 		liege = d_kabul
 		holder = 188569
@@ -2284,6 +2338,9 @@ c_bannu = {
 
 
 c_urgun = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10680.1.1 = {
 		liege = d_sistan
 		holder = 188701 # Zunbil founder

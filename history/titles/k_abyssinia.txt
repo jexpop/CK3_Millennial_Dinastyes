@@ -239,6 +239,9 @@ d_aksum = {
 
 
 c_tigre = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10656.1.1 = {
 		liege = "d_aksum"
 	}
@@ -355,6 +358,9 @@ c_tigre = {
 
 
 c_serae = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10656.1.1 = {
 		liege = "d_aksum"
 	}
@@ -468,6 +474,9 @@ c_serae = {
 
 
 c_intarta = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 10 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 19 }
@@ -594,6 +603,9 @@ d_dahlaks = {
 }
 
 c_dahlak = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#PLACEHOLDER
 	10867.1.1 = {
 		holder = 32225
@@ -640,6 +652,9 @@ c_dahlak = {
 
 
 c_massawa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10656.1.1 = {
 		liege = "d_aksum"
 	}
@@ -683,6 +698,9 @@ c_massawa = {
 
 
 c_bur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		government = tribal_government
 		liege = 0
@@ -712,6 +730,9 @@ c_bur = {
 }
 
 c_lasta = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -833,6 +854,9 @@ c_lasta = {
 
 
 c_hayq = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10866.1.1 = {
 		government = tribal_government
 		liege = 0
@@ -875,6 +899,9 @@ c_hayq = {
 
 
 c_angot = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10656.1.1 = {
 		liege = "d_lasta"
 	}
@@ -955,6 +982,9 @@ c_angot = {
 
 
 c_amhara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10656.1.1 = {
 		liege = "d_lasta"
 	}
@@ -1140,6 +1170,9 @@ d_gondar = {
 
 
 c_dembiya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10745.1.1 = {
 		liege = "d_aksum"
 	holder = 145642
@@ -1211,6 +1244,9 @@ c_dembiya = {
 
 
 c_begemder = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10748.1.1 = {
 		liege = "d_gondar"
 	}
@@ -1316,6 +1352,9 @@ c_begemder = {
 
 
 c_semien = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10745.1.1 = {
 		liege = "d_aksum"
 		holder = 145642
@@ -1443,6 +1482,9 @@ d_gojjam = {
 
 
 c_gojjam = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10753.1.1 = {
 		liege = "d_gojjam"
 		holder = 145976
@@ -1494,6 +1536,9 @@ c_gojjam = {
 
 
 c_gafat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10753.1.1 = {
 		liege = "d_gojjam"
 		holder = 145976
@@ -1545,6 +1590,9 @@ c_gafat = {
 
 
 c_agaw_meder = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10753.1.1 = {
 		liege = "d_gojjam"
 		holder = 145976
@@ -1601,6 +1649,9 @@ d_showa = {
 }
 
 c_showa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10656.1.1 = {
 		liege = "d_lasta"
 	}
@@ -1660,6 +1711,9 @@ c_showa = {
 
 
 c_fetegar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10656.1.1 = {
 		liege = d_lasta
 	}
@@ -1719,6 +1773,9 @@ c_fetegar = {
 
 
 c_waj = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10656.1.1 = {
 		liege = d_lasta
 	}
@@ -1778,6 +1835,9 @@ c_waj = {
 
 
 c_ifat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10656.1.1 = {
 		liege = d_lasta
 	}

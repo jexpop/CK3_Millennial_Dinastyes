@@ -93,6 +93,9 @@ d_bumthang = {
 
 
 c_bumthang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10730.1.1={
 		liege="d_bumthang"
 		holder = 247004
@@ -171,6 +174,9 @@ c_bumthang = {
 
 
 c_kurmaed = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10730.1.1={
 		liege="d_bumthang"
 		holder = 247004
@@ -249,6 +255,9 @@ c_kurmaed = {
 
 
 c_trongsa = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10730.1.1={
 		liege="d_bumthang"
 		holder = 247004
@@ -420,6 +429,9 @@ d_paro = {
 
 
 c_paro = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	
 	10619.1.1={
 		liege="d_paro"
@@ -505,6 +517,9 @@ c_paro = {
 }
 
 c_punakha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	
 	10619.1.1={
 		liege="d_paro"
@@ -592,6 +607,9 @@ c_punakha = {
 
 
 c_daramdin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege="d_limbuwan"
 	}
@@ -679,6 +697,9 @@ c_daramdin = {
 
 
 c_chungthang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Thekung Adek
 	10660.1.1={
 		liege = "e_tibet"
@@ -873,6 +894,9 @@ d_monyul = {
 
 
 c_tawang = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#fictional Monyul dynasty
 	10500.1.1={
 		liege="d_monyul"
@@ -955,6 +979,9 @@ c_tawang = {
 
 
 c_cona = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#fictional Monyul dynasty
 	10500.1.1={
 		liege="d_monyul"
@@ -1037,6 +1064,9 @@ c_cona = {
 
 
 c_lhunze = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#fictional Monyul dynasty
 	10500.1.1={
 		liege="d_monyul"
@@ -1204,6 +1234,9 @@ d_lhoyul = {
 
 
 c_itanagar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#fictional Lhoyul dynasty
 	10500.1.1={
 		liege="d_lhoyul"
@@ -1279,6 +1312,9 @@ c_itanagar = {
 
 
 c_along = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#fictional Lhoyul dynasty
 	10500.1.1={
 		liege="d_lhoyul"
@@ -1353,6 +1389,9 @@ c_along = {
 }
 
 c_mainling = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Nyingchi Kingdom - fictional placeholders
 	10740.1.1={
 		liege="d_nyingchi"
@@ -1449,6 +1488,9 @@ c_mainling = {
 
 
 c_pemako = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Pemak� Vassals - fictional placeholders
 	10740.1.1={
 		liege="d_boyul"
@@ -1630,6 +1672,9 @@ d_dzayul = {
 
 
 c_rima = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#fictional Dzayul dynasty
 	10500.1.1={
 		liege="d_dzayul"
@@ -1706,6 +1751,9 @@ c_rima = {
 
 
 c_golag = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#fictional Dzayul dynasty
 	10500.1.1={
 		liege="d_dzayul"
@@ -1782,6 +1830,9 @@ c_golag = {
 
 
 c_roing = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#fictional Dzayul dynasty
 	10500.1.1={
 		liege="d_dzayul"
@@ -1858,6 +1909,9 @@ c_roing = {
 
 
 c_tezu = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#fictional Dzayul dynasty
 	10500.1.1={
 		liege="d_dzayul"

@@ -173,6 +173,9 @@ d_baigaur = {
 }
 
 c_ca_mau = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 6 }
@@ -190,6 +193,9 @@ c_ca_mau = {
 	}
 }
 c_binh_dai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -215,6 +221,9 @@ c_binh_dai = {
 	}
 }
 c_baigaur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 13 }
 	11178.1.1 = { change_development_level = 22 }
@@ -269,6 +278,9 @@ d_vyadhapura = {
 }
 
 c_binh_long = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -297,6 +309,9 @@ c_binh_long = {
 	}
 }
 c_vyadhapura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 14 }
@@ -314,6 +329,9 @@ c_vyadhapura = {
 	}
 }
 c_kracheh_nokor = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }
@@ -420,6 +438,9 @@ d_angkor = {
 }
 
 c_angkor = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 13 }
 	11066.1.1 = { change_development_level = 27 }
 	11178.1.1 = { change_development_level = 54 }
@@ -442,6 +463,9 @@ c_angkor = {
 	}
 }
 c_dong_si_mahosot = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 12 }
@@ -466,6 +490,9 @@ c_dong_si_mahosot = {
 	}
 }
 c_sambhupura = {	#Bhavapura
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 6 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 16 }
@@ -488,6 +515,9 @@ c_sambhupura = {	#Bhavapura
 	}
 }
 c_prea_vihear = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 11 }
@@ -510,6 +540,9 @@ c_prea_vihear = {
 	}
 }
 c_koh_ker = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 8 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 9 }
@@ -541,6 +574,9 @@ d_ratanakiri = {
 }
 
 c_ratanakiri = { #fictional tributary split-out
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -565,6 +601,9 @@ c_ratanakiri = { #fictional tributary split-out
 	}
 }
 c_stung_treng = {	#Sambhupura
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }
@@ -591,6 +630,9 @@ c_stung_treng = {	#Sambhupura
 	}
 }
 c_pleiku = { #fictional tributary split-out
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 7 }
@@ -656,6 +698,9 @@ d_angkor_borey = {
 }
 
 c_angkor_borey = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 7 }
 	11066.1.1 = { change_development_level = 11 }
 	11178.1.1 = { change_development_level = 18 }
@@ -673,6 +718,9 @@ c_angkor_borey = {
 	}
 }
 c_botum_sakor = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -701,6 +749,9 @@ c_botum_sakor = {
 	}
 }
 c_pursat = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 11 }
@@ -729,6 +780,9 @@ c_pursat = {
 	}
 }
 c_mueang_phra_rot = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 12 }
@@ -779,6 +833,9 @@ d_phonsavan = {
 }
 
 c_sanasomboon = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 1 }
 	11066.1.1 = { change_development_level = 3 }
 	11178.1.1 = { change_development_level = 5 }
@@ -803,6 +860,9 @@ c_sanasomboon = {
 	}
 }
 c_vien_chan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 8 }
 	11178.1.1 = { change_development_level = 13 }
@@ -830,6 +890,9 @@ c_vien_chan = {
 	}
 }
 c_salo_tai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 2 }
 	11066.1.1 = { change_development_level = 4 }
 	11178.1.1 = { change_development_level = 7 }
@@ -863,6 +926,9 @@ d_mukdahan = {
 }
 
 c_canasha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 12 }
@@ -889,6 +955,9 @@ c_canasha = {
 	}
 }
 c_ku_kaeo = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -917,6 +986,9 @@ c_ku_kaeo = {
 	}
 }
 c_mukdahan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 9 }
@@ -941,6 +1013,9 @@ c_mukdahan = {
 	}
 }
 c_ubon_ratchathani = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }
@@ -966,6 +1041,9 @@ c_ubon_ratchathani = {
 	}
 }
 c_muang_fa_daet = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 15 }
@@ -1209,6 +1287,9 @@ d_indrapura = {
 }
 
 c_indrapura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 10 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 18 }
@@ -1267,6 +1348,9 @@ c_indrapura = {
 }
 
 c_simhapura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 5 }
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 13 }
@@ -1321,6 +1405,9 @@ c_simhapura = {
 	}
 }
 c_ma_linh = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 3 }
 	11066.1.1 = { change_development_level = 5 }
 	11178.1.1 = { change_development_level = 8 }
@@ -1361,6 +1448,9 @@ d_vijaya = {
 }
 
 c_vijaya = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 9 }
 	11066.1.1 = { change_development_level = 14 }
 	11178.1.1 = { change_development_level = 28 }
@@ -1433,6 +1523,9 @@ c_vijaya = {
 	}
 }
 c_kauthara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }
@@ -1479,6 +1572,9 @@ c_kauthara = {
 	}
 }
 c_panduranga = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 4 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 10 }

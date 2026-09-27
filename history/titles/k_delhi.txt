@@ -198,6 +198,9 @@ d_kuru = {
 
 
 c_delhi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = { change_development_level = 14 }
 	11066.1.1 = { change_development_level = 16 }
 	11178.1.1 = { change_development_level = 30 }
@@ -326,6 +329,9 @@ c_delhi = {
 
 
 c_hastinapura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10736.3.1 = {
 		holder = 170151 #Anangpal Tomar
 		liege = d_kuru
@@ -451,6 +457,9 @@ c_hastinapura = {
 
 
 c_sthanisvara = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	11178.1.1 = { change_development_level = 30 }
 
 	10740.1.1 = {
@@ -577,6 +586,9 @@ c_sthanisvara = {
 
 
 c_hisar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 191960 #Virbhan Khichar
 		liege = d_kuru
@@ -675,6 +687,9 @@ d_haritanaka = {
 }
 
 c_tribandapura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10740.1.1 = {
 		holder = 191016
 		liege = d_kuru
@@ -792,6 +807,9 @@ c_tribandapura = {
 
 
 c_sarasvati = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10765.1.1 = {
 		holder = 191011	#Balan Singh Burdak
 		liege = d_jangladesh
@@ -905,6 +923,9 @@ d_mathura = {
 }
 
 c_mathura = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = d_mathura
 		holder = 191015	#Yadavs
@@ -1043,6 +1064,9 @@ c_mathura = {
 
 
 c_kol = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10735.1.1 = {
 		liege = d_mathura
 		holder = 191015	#Yadavs
@@ -1179,6 +1203,9 @@ c_kol = {
 
 
 c_sripatha = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10720.1.1 = {
 		holder = 191013	#Matsyas
 		liege = k_kosala
@@ -1348,6 +1375,9 @@ d_vodamayutja = {
 
 
 c_vodamayutja = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		holder = 191000 #Yasovarman
 		liege = d_vodamayutja
@@ -1472,6 +1502,9 @@ c_vodamayutja = {
 
 
 c_sambhal = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		holder = 191000 #Yasovarman
 		liege = d_vodamayutja
@@ -1596,6 +1629,9 @@ c_sambhal = {
 
 
 c_katehar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10725.1.1 = {
 		holder = 191000 #Yasovarman
 		liege = d_vodamayutja

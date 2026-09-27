@@ -11,6 +11,9 @@ d_darfur = {
 }
 
 c_el_fasher = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = daju0001
 		government = tribal_government
@@ -46,6 +49,9 @@ c_el_fasher = {
 
 
 c_dar_al-said = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10865.1.1 = {
 		holder = daju0001
 		government = tribal_government
@@ -81,6 +87,9 @@ c_dar_al-said = {
 
 
 c_dar-al-rih = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Norea clan zaghawadyn004
 	10860.1.1 = {
 		holder = zaghawa0031
@@ -117,6 +126,9 @@ c_dar-al-rih = {
 
 
 c_east_darfur = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = daju0011
 		government = tribal_government
@@ -152,6 +164,9 @@ c_east_darfur = {
 
 
 c_ayn_farah = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kreda dynasty zaghawadyn003
 	10860.1.1 = {
 		holder = zaghawa0021
@@ -188,6 +203,9 @@ c_ayn_farah = {
 
 
 c_qimr = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kreda dynasty zaghawadyn003
 	10860.1.1 = {
 		holder = zaghawa0021
@@ -224,6 +242,9 @@ c_qimr = {
 
 
 c_masalit = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kreda dynasty zaghawadyn003
 	10860.1.1 = {
 		holder = zaghawa0021
@@ -260,6 +281,9 @@ c_masalit = {
 
 
 c_wadai = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kayi dynasty 1059965
 	10850.1.1 = {
 		government = tribal_government
@@ -323,6 +347,9 @@ c_wadai = {
 
 
 c_dar_sila = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Sao culture
 	10750.1.1= {
 		liege=0
@@ -400,6 +427,9 @@ c_dar_sila = {
 
 
 c_kadam = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kayi dynasty 1059965
 	10850.1.1 = {
 		government = tribal_government
@@ -463,6 +493,9 @@ c_kadam = {
 
 
 c_fitri = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Kayi dynasty 1059965
 	10850.1.1 = {
 		government = tribal_government
@@ -526,6 +559,9 @@ c_fitri = {
 
 
 c_fellata = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10860.1.1 = {
 		holder = sao0011
 		government = tribal_government
@@ -561,6 +597,9 @@ c_fellata = {
 
 
 c_ghazzal = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	#Koeherda dynasty zaghawadyn002
 	10860.1.1 = {
 		holder = zaghawa0011
@@ -597,6 +636,9 @@ c_ghazzal = {
 
 
 c_kordofan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10860.1.1 = {
 		holder = daju0021
@@ -633,6 +675,9 @@ c_kordofan = {
 
 
 c_west_kordofan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10860.1.1 = {
 		holder = daju0011
@@ -669,6 +714,9 @@ c_west_kordofan = {
 
 
 c_south_kordofan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 
 	10860.1.1 = {
 		holder = daju0021

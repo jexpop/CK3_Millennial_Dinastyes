@@ -190,6 +190,9 @@ d_kabul = {
 
 
 c_kabul = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 8 }
 	11066.1.1 = { change_development_level = 12 }
 	11178.1.1 = { change_development_level = 14 }
@@ -281,6 +284,9 @@ c_kabul = {
 
 
 c_bamian = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10663.1.1 = {
 		liege = d_merv
 	}
@@ -453,6 +459,9 @@ b_panjhir = {
 
 
 c_chitral = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 8 }
@@ -684,6 +693,9 @@ d_zabulistan = {
 }
 
 c_ghazna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 7 }
 	11066.1.1 = { change_development_level = 10 }
 	11178.1.1 = { change_development_level = 34 }
@@ -794,6 +806,9 @@ c_ghazna = {
 
 
 c_zamindawar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 6 }
 	11178.1.1 = { change_development_level = 8 }
@@ -912,6 +927,9 @@ c_zamindawar = {
 
 
 c_rukhaj = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10680.1.1 = {
 		liege = d_sistan
 		holder = 188701 # Zunbil founder
@@ -1025,6 +1043,9 @@ c_rukhaj = {
 
 
 c_zabulistan = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10680.1.1 = {
 		liege = d_zabulistan
 		holder = 188701 # Zunbil founder

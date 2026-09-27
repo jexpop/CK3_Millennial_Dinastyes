@@ -141,6 +141,9 @@ d_viken = {
 }
 
 c_raniriki = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -236,6 +239,9 @@ c_raniriki = {
 
 
 c_vingulmork = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 20 }
@@ -316,6 +322,9 @@ c_vingulmork = {
 
 
 c_vestfold = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10867.1.1 = {	change_development_level = 3 }
 	11066.1.1 = { change_development_level = 9 }
 	11178.1.1 = { change_development_level = 20 }
@@ -403,6 +412,9 @@ c_vestfold = {
 
 
 c_telemark = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -513,6 +525,9 @@ c_telemark = {
 
 
 c_nedenes = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -626,6 +641,9 @@ c_nedenes = {
 
 
 c_agdeside = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -747,6 +765,9 @@ d_vestlandi = {
 }
 
 c_rogalandi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194008
 		government = tribal_government
@@ -816,6 +837,9 @@ c_rogalandi = {
 
 
 c_hordalandi = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -887,6 +911,9 @@ c_hordalandi = {
 }
 
 c_sogn = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -973,6 +1000,9 @@ b_stolsheimen = {	#Fictional, to allow character placement.
 
 
 c_trandheim = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -1063,6 +1093,9 @@ b_eynafylki = {	#Fictional, to allow character placement.
 
 
 c_norwegian_more = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -1138,6 +1171,9 @@ c_norwegian_more = {
 
 
 c_firdafylki = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -1301,6 +1337,9 @@ d_dalir = {
 
 
 c_hedmork = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	21.1.1 = {
 		change_development_level = 2
 	}
@@ -1403,6 +1442,9 @@ c_hedmork = {
 
 
 c_gudbrandsdalir = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194014
 		government = tribal_government
@@ -1495,6 +1537,9 @@ c_gudbrandsdalir = {
 
 
 c_eystridalir = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194014
 		government = tribal_government
@@ -1587,6 +1632,9 @@ c_eystridalir = {
 
 
 c_gauldala = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194013
 		government = tribal_government
@@ -1762,6 +1810,9 @@ d_halogaland = {
 
 
 c_vastvag = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194018
 		government = tribal_government
@@ -1849,6 +1900,9 @@ c_vastvag = {
 
 
 c_bothin = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194018
 		government = tribal_government
@@ -1936,6 +1990,9 @@ c_bothin = {
 
 
 c_namdalfylki = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194013
 		government = tribal_government
@@ -2084,6 +2141,9 @@ d_iceland = {
 
 
 c_vestisland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 194044
 		government = tribal_government
@@ -2133,6 +2193,9 @@ c_vestisland = {
 }
 
 c_sudurland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10767.1.1 = {
 		holder = 194044
 		government = tribal_government
@@ -2187,6 +2250,9 @@ c_sudurland = {
 
 
 c_austisland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		holder = 194045
 		government = tribal_government
@@ -2233,6 +2299,9 @@ c_austisland = {
 }
 
 c_nordrland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10768.1.1 = {
 		holder = 194045
 		government = tribal_government
@@ -2382,6 +2451,9 @@ d_northern_isles = {
 
 
 c_orkney = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = "d_moray"
 		holder = 166615
@@ -2434,6 +2506,9 @@ c_orkney = {
 
 
 c_faereyar = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 166616
 		government = tribal_government
@@ -2584,6 +2659,9 @@ c_faereyar = {
 
 
 c_shetland = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		liege = "d_moray"
 		holder = 166613
@@ -2671,6 +2749,9 @@ d_jamtland = {
 
 
 c_jamtfir = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194021
 		government = tribal_government
@@ -2725,6 +2806,9 @@ c_jamtfir = {
 
 
 c_morarna = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194021
 		government = tribal_government
@@ -2779,6 +2863,9 @@ c_morarna = {
 
 
 c_helgum = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194021
 		government = tribal_government
@@ -2833,6 +2920,9 @@ c_helgum = {
 
 
 c_harjadalen = {
+	9247.1.1 = {
+		holder = 99999999
+	}
 	10760.1.1 = {
 		holder = 194021
 		government = tribal_government

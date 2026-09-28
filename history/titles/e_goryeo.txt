@@ -121,7 +121,7 @@ k_goguryeo = {
 	48.1.1 = {
 		#holder = korean_go_goguryeo_45 # Mo_bon
 	}
-	53.11.1 = {
+	10053.11.1 = {
 		holder = korean_go_goguryeo_39 # Tae_jo the Great
 	}
 	10121.11.1 = {
@@ -196,14 +196,14 @@ k_goguryeo = {
 }
 
 k_silla = {
-	24.1.1 = {
+	10024.1.1 = {
 		government = meritocratic_government
 		holder = korean_bak_silla_1 # Yuri
 	}
-	57.1.1 = {
+	10057.1.1 = {
 		holder = korean_seok_gyeongju_1 # Tal_hae
 	}
-	80.1.1 = {
+	10080.1.1 = {
 		holder = korean_bak_silla_3 # Pasa
 	}
 	10112.1.1 = {
@@ -381,7 +381,7 @@ k_baekje = {
 	28.2 = {
 		holder = korean_buyeo_63 # King Da_ru
 	}
-	77.1.1 = {
+	10077.1.1 = {
 		holder = korean_buyeo_62 # King Gi_ru
 	}
 	128.1 = {
@@ -493,14 +493,14 @@ d_tamna = {
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 12 }
 
-	20.1.1 = {
+	10020.1.1 = {
 		holder = korean_go_jeju_33 # Du_myeong
 		government = feudal_government
 	}
-	43.1.1 = {
+	10043.1.1 = {
 		holder = korean_go_jeju_32 # Seon_ju
 	}
-	93.1.1 = {
+	10093.1.1 = {
 		holder = korean_go_jeju_31 # Ji_nam
 	}
 	10144.1.1 = {
@@ -617,14 +617,14 @@ c_tamna = {
 	11066.1.1 = { change_development_level = 7 }
 	11178.1.1 = { change_development_level = 12 }
 
-	20.1.1 = {
+	10020.1.1 = {
 		holder = korean_go_jeju_33 # Du_myeong
 		government = feudal_government
 	}
-	43.1.1 = {
+	10043.1.1 = {
 		holder = korean_go_jeju_32 # Seon_ju
 	}
-	93.1.1 = {
+	10093.1.1 = {
 		holder = korean_go_jeju_31 # Ji_nam
 	}
 	10144.1.1 = {

@@ -1,9 +1,0 @@
-﻿1526 = {	#Southwark
-	holding = city_holding
-	10800.1.1 = {
-		special_building_slot = london_bridge_01
-	}
-	11106.1.1 = {
-		holding = church_holding # Southwark Priory
-	}
-}

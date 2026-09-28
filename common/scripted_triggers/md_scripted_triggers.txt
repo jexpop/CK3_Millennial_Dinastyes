@@ -143,13 +143,13 @@
 				}
 			}
 			# Nuevo para el mod
-			briton_clothing_gfx = {
-				NOT = {
-					$CHAR$.culture = {
-						has_clothing_gfx = briton_clothing_gfx
-					}
-				}
-			}
+			#briton_clothing_gfx = {
+			#	NOT = {
+			#		$CHAR$.culture = {
+			#			has_clothing_gfx = briton_clothing_gfx
+			#		}
+			#	}
+			#}
 		}
 	}
 }

@@ -7,7 +7,13 @@
 setup_tributaries_effect = {
 	if = {
 		limit = { has_mpo_dlc_trigger = yes	}
+		# MOD (Millennial Dynasties): 9247 bookmark (753 BC, file date). The 867 setup below references
+		# 867 actors/titles that don't exist yet, producing null scopes. Custom era setup instead.
 		if = {
+			limit = { current_date < 10867.1.1 } # so, 9247
+			my_9247_tributary_setup_effect = yes
+		}
+		else_if = {
     		limit = { current_date < 11066.9.15 } # so, 867
         	mpo_867_tributary_setup_effect = yes
     	}
@@ -22,7 +28,13 @@ setup_tributaries_effect = {
     }
 	if = {
 		limit = { has_tgp_dlc_trigger = yes	}
+		# MOD (Millennial Dynasties): 9247 bookmark (753 BC, file date). The 867 setup below references
+		# 867 actors/titles that don't exist yet, producing null scopes. Custom era setup instead.
 		if = {
+			limit = { current_date < 10867.1.1 } # so, 9247
+			my_9247_tributary_setup_effect = yes
+		}
+		else_if = {
     		limit = { current_date < 11066.9.15 } # so, 867
         	tgp_867_tributary_setup_effect = yes
     	}
@@ -35,7 +47,15 @@ setup_tributaries_effect = {
         	tgp_1178_tributary_setup_effect = yes
     	}
     }
+   	# MOD (Millennial Dynasties): 9247 bookmark (753 BC, file date). The 867 setup below references
+   	# 867 actors/titles that don't exist yet, producing null scopes. Custom era setup instead.
    	if = {
+		limit = {
+			current_date < 10867.1.1 # so, 9247
+		}
+		my_9247_tributary_setup_effect = yes
+	}
+	else_if = {
 		limit = {
 			current_date < 11066.9.15
 		}
@@ -53,6 +73,13 @@ setup_tributaries_effect = {
 		}
 		base_1178_tributary_setup_effect = yes
 	}
+}
+
+# MOD (Millennial Dynasties): era setup for the 9247 bookmark (753 BC, file date), called from
+# setup_tributaries_effect instead of the 867 setups (whose actors don't exist yet at this date).
+# Intentionally empty: no Tang-style tributary network exists in this era. Fill in here if the
+# scenario ever needs its own suzerain/tributary relations.
+my_9247_tributary_setup_effect = {
 }
 
 # $TRIBUTARY$ = the new tributary

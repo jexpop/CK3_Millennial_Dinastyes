@@ -6840,10 +6840,10 @@ korean_buyeo_63 = {	#King Da ru
 	religion = mu
 	culture = baekje
 	#father = korean_buyeo_65 #On_jo
-	10.1.1 = {	#Unknown
+	10010.1.1 = {	#Unknown
 		birth = yes
 	}
-	77.1.1 = {
+	10077.1.1 = {
 		death = yes
 	}	
 }

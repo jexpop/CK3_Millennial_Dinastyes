@@ -282,11 +282,11 @@
 	trait = just
 	trait = education_martial_3
 
-	2.11.16 = {
-		birth = "2.11.16"
+	10002.11.16 = {
+		birth = "10002.11.16"
 	}
-	37.3.16 = {
-		death = "37.3.16"
+	10037.3.16 = {
+		death = "10037.3.16"
 	}
 }
 
@@ -1151,8 +1151,8 @@
 	trait = diligent
 	trait = intellect_good_1
 	trait = education_diplomacy_4
-	86.9.19 = {
-		birth = "86.9.19"
+	10086.9.19 = {
+		birth = "10086.9.19"
 	}
 	10161.3.7 = {
 		death = "10161.3.7"
@@ -1172,8 +1172,8 @@
 	trait = content
 	trait = diligent
 	trait = education_martial_3
-	76.1.24 = {
-		birth = "76.1.24"
+	10076.1.24 = {
+		birth = "10076.1.24"
 	}
 	10138.7.10 = {
 		death = "10138.7.10"
@@ -1194,8 +1194,8 @@
 	trait = diligent
 	trait = intellect_good_3
 	trait = education_martial_4
-	53.9.18 = {
-		birth = "53.9.18"
+	10053.9.18 = {
+		birth = "10053.9.18"
 	}
 	10117.8.9 = {
 		death = "10117.8.9"
@@ -1213,11 +1213,11 @@
 	trait = generous
 	trait = just
 	trait = education_stewardship_3
-	30.11.8 = {
-		birth = "30.11.8"
+	10030.11.8 = {
+		birth = "10030.11.8"
 	}
-	98.1.27 = {
-		death = "98.1.27"
+	10098.1.27 = {
+		death = "10098.1.27"
 	}
 }
 
@@ -1231,11 +1231,11 @@
 	trait = generous
 	trait = just
 	trait = education_martial_3
-	9.11.17 = {
-		birth = "9.11.17"
+	10009.11.17 = {
+		birth = "10009.11.17"
 	}
-	79.6.23 = {
-		death = "79.6.23"
+	10079.6.23 = {
+		death = "10079.6.23"
 	}
 }
 
@@ -1251,11 +1251,11 @@
 	trait = zealous
 	trait = education_martial_3
 	father = 145281
-	39.12.30 = {
-		birth = "39.12.30"
+	10039.12.30 = {
+		birth = "10039.12.30"
 	}
-	81.9.13 = {
-		death = "81.9.13"
+	10081.9.13 = {
+		death = "10081.9.13"
 	}
 }
 
@@ -1272,11 +1272,11 @@
 	trait = diligent
 	trait = education_intrigue_3
 	father = 145281
-	51.10.24 = {
-		birth = "51.10.24"
+	10051.10.24 = {
+		birth = "10051.10.24"
 	}
-	96.9.18 = {
-		death = "96.9.18"
+	10096.9.18 = {
+		death = "10096.9.18"
 	}
 }
 
@@ -1291,11 +1291,11 @@
 	trait = lazy
 	trait = generous
 	trait = education_stewardship_2
-	15.9.24 = {
-		birth = "15.9.24"
+	10015.9.24 = {
+		birth = "10015.9.24"
 	}
-	69.12.20 = {
-		death = "69.12.20"
+	10069.12.20 = {
+		death = "10069.12.20"
 	}
 }
 
@@ -1311,11 +1311,11 @@
 	trait = deceitful
 	trait = ambitious
 	trait = education_stewardship_1
-	32.4.28 = {
-		birth = "32.4.28"
+	10032.4.28 = {
+		birth = "10032.4.28"
 	}
-	69.4.16 = {
-		death = "69.4.16"
+	10069.4.16 = {
+		death = "10069.4.16"
 	}
 }
 
@@ -1331,11 +1331,11 @@
 	trait = arbitrary
 	trait = callous
 	trait = education_stewardship_3
-	3.12.24 = {
-		birth = "3.12.24"
+	10003.12.24 = {
+		birth = "10003.12.24"
 	}
-	69.1.15 = {
-		death = "69.1.15"
+	10069.1.15 = {
+		death = "10069.1.15"
 	}
 }
 
@@ -1351,14 +1351,14 @@
 	trait = sadistic
 	trait = education_stewardship_1
 	father = 145288
-	37.12.15 = {
-		birth = "37.12.15"
+	10037.12.15 = {
+		birth = "10037.12.15"
 	}
-	59.3.23 = {
+	10059.3.23 = {
 		 trait = kinslayer_3
 	}
-	68.6.9 = {
-		death = "68.6.9"
+	10068.6.9 = {
+		death = "10068.6.9"
 	}
 }
 
@@ -1374,11 +1374,11 @@
 	trait = wrathful
 	trait = diligent
 	trait = education_diplomacy_1
-	3.8.1 = {
-		birth = "3.8.1"
+	10003.8.1 = {
+		birth = "10003.8.1"
 	}
-	54.10.13 = {
-		death = "54.10.13"
+	10054.10.13 = {
+		death = "10054.10.13"
 	}
 }
 
@@ -1394,11 +1394,11 @@
 	trait = sadistic
 	trait = lunatic_1
 	trait = education_stewardship_1
-	12.8.31 = {
-		birth = "12.8.31"
+	10012.8.31 = {
+		birth = "10012.8.31"
 	}
-	41.1.24 = {
-		death = "41.1.24"
+	10041.1.24 = {
+		death = "10041.1.24"
 	}
 }
 
@@ -1416,11 +1416,11 @@
 	trait = diligent
 	trait = intellect_good_3
 	trait = education_diplomacy_4
-	3.1.1 = {
-		birth = "3.1.1"
+	10003.1.1 = {
+		birth = "10003.1.1"
 	}
-	24.8.19 = {
-		death = "24.8.19"
+	10024.8.19 = {
+		death = "10024.8.19"
 	}
 }
 

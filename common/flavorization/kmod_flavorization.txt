@@ -1,11 +1,11 @@
-f_county_tribal = {
+﻿f_county_tribal = {
     type = title             # Indica que el cambio afecta al nombre de la tierra/título
     tier = county            # Restringe el cambio al nivel de condado
     priority = 5000          # Prioridad alta para asegurar que sobrescriba el nombre genérico
 
     name_lists = { name_list_briton } # Culturas
     
-    top_liege = no           # Permite que se use incluso si el personaje es vasallo de otra cultura
+    flavourization_rules = { top_liege = no } # Permite que se use incluso si el personaje es vasallo de otra cultura
 }
 f_count_tribal_celts_male = {
     type = character            # Define que se aplica a un personaje
@@ -15,7 +15,7 @@ f_count_tribal_celts_male = {
     priority = 5000             # Prioridad alta para sobrescribir títulos genéricos
     governments = { tribal_government } # Solo para gobiernos tribales
     name_lists = { name_list_briton } # Culturas
-    top_liege = no              # Se aplica aunque sea vasallo de otro señor
+    flavourization_rules = { top_liege = no } # Se aplica aunque sea vasallo de otro señor
 }
 f_count_tribal_celtsmale = {
     type = character            # Define que se aplica a un personaje
@@ -25,5 +25,5 @@ f_count_tribal_celtsmale = {
     priority = 5000             # Prioridad alta para sobrescribir títulos genéricos
     governments = { tribal_government } # Solo para gobiernos tribales
     name_lists = { name_list_briton } # Culturas
-    top_liege = no              # Se aplica aunque sea vasallo de otro señor
+    flavourization_rules = { top_liege = no } # Se aplica aunque sea vasallo de otro señor
 }

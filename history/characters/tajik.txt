@@ -2311,7 +2311,7 @@ persian_scholars_3 = { #Nasir Khusraw
 	11044.1.1 = {
 		employer = 3038 #Tugril Begh
 	}
-	1046 = {
+	11046.1.1 = {
 		faith = ismaili
 		effect = { 
 			learn_language_of_culture = culture:bedouin	

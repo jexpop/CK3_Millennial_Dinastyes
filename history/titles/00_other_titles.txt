@@ -3542,43 +3542,43 @@ e_britannia = {
 }
 
 h_roman_empire = {
-	3.1.27 = {
+	10003.1.27 = {
 		holder = 145290
 	} # this way Jan 27 BC is displayed in his date, only backwards!
-	24.8.19 = {
+	10024.8.19 = {
 		holder = 145075
 	} # moved date 10 years later so Augustus is not portrayed as child
-	37.3.16 = {
+	10037.3.16 = {
 		holder = 145289
 	}
-	41.1.24 = {
+	10041.1.24 = {
 		holder = 145288
 	}
-	54.10.13 = {
+	10054.10.13 = {
 		holder = 145287
 	}
-	68.6.9 = {
+	10068.6.9 = {
 		holder = 145286
 	}
-	69.1.15 = {
+	10069.1.15 = {
 		holder = 145285
 	}
-	69.4.16 = {
+	10069.4.16 = {
 		holder = 145284
 	}
-	69.12.20 = {
+	10069.12.20 = {
 		holder = 145281
 	}
-	79.6.23 = {
+	10079.6.23 = {
 		holder = 145282
 	}
-	81.9.13 = {
+	10081.9.13 = {
 		holder = 145283
 	}
-	96.9.18 = {
+	10096.9.18 = {
 		holder = 145280
 	}
-	98.1.27 = {
+	10098.1.27 = {
 		holder = 145279
 	}
 	10117.8.9 = {
@@ -3706,43 +3706,43 @@ e_byzantium = {
 	11100.1.1 = {
 		change_development_level = 18
 	}
-	3.1.27 = {
+	10003.1.27 = {
 		holder = 145290
 	} # this way Jan 27 BC is displayed in his date, only backwards!
-	24.8.19 = {
+	10024.8.19 = {
 		holder = 145075
 	} # moved date 10 years later so Augustus is not portrayed as child
-	37.3.16 = {
+	10037.3.16 = {
 		holder = 145289
 	}
-	41.1.24 = {
+	10041.1.24 = {
 		holder = 145288
 	}
-	54.10.13 = {
+	10054.10.13 = {
 		holder = 145287
 	}
-	68.6.9 = {
+	10068.6.9 = {
 		holder = 145286
 	}
-	69.1.15 = {
+	10069.1.15 = {
 		holder = 145285
 	}
-	69.4.16 = {
+	10069.4.16 = {
 		holder = 145284
 	}
-	69.12.20 = {
+	10069.12.20 = {
 		holder = 145281
 	}
-	79.6.23 = {
+	10079.6.23 = {
 		holder = 145282
 	}
-	81.9.13 = {
+	10081.9.13 = {
 		holder = 145283
 	}
-	96.9.18 = {
+	10096.9.18 = {
 		holder = 145280
 	}
-	98.1.27 = {
+	10098.1.27 = {
 		holder = 145279
 	}
 	10117.8.9 = {

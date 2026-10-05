@@ -554,7 +554,7 @@ fp2_struggle.0900 = { # Hostility
 	immediate = {
 		# Add all involved rulers to a list, for ping event
 		play_music_cue = "mx_Struggle_ending_hostility"
-		fp2_stuggle_ending_involved_list_effect = yes
+		fp2_struggle_ending_involved_list_effect = yes
 		give_nickname = nick_the_conquistador
 		dynasty = { add_dynasty_prestige = 10000 }
 	}
@@ -838,7 +838,7 @@ fp2_struggle.0901 = { # Compromise
 			value = yes
 		}
 		# Add all involved rulers to a list, for ping event
-		fp2_stuggle_ending_involved_list_effect = yes
+		fp2_struggle_ending_involved_list_effect = yes
 	}
 
 	# Ok
@@ -993,7 +993,7 @@ fp2_struggle.0902 = { # Conciliation
 			value = yes
 		}
 		# Add all involved rulers to a list, for ping event
-		fp2_stuggle_ending_involved_list_effect = yes
+		fp2_struggle_ending_involved_list_effect = yes
 
 		# Add all involved cultures with counties to a list, for marriage and holy war checks
 		fp2_struggle_ending_culture_list_effect = yes
@@ -1763,7 +1763,7 @@ fp2_struggle.1001 = {
 			fp2_struggle.1001_weird_option_traits = no
 			trait_is_shunned_or_criminal_in_faith_trigger = {
 				FAITH = faith
-				TRAIT = adulterer
+				TRAIT = trait:adulterer
 				GENDER_CHARACTER = dummy_female
 			}
 		}
@@ -7361,13 +7361,13 @@ fp2_struggle.2006 = {
 				if = {
 					limit = {
 						trait_is_criminal_in_faith_trigger = {
-							TRAIT = witch
+							TRAIT = trait:witch
 							GENDER_CHARACTER = scope:fp2_2006_vassal_in_crisis
 							FAITH = scope:fp2_2006_vassal_in_crisis.faith
 						}
 						NOT = {
 							trait_is_criminal_in_faith_trigger = {
-								TRAIT = witch
+								TRAIT = trait:witch
 								GENDER_CHARACTER = scope:fp2_2006_vassal_in_crisis
 								FAITH = scope:fp2_2006_foreign_faith
 							}

@@ -17012,7 +17012,7 @@ japanese_fujiwara_595 = {
 	11132.1.1 = {
 		birth = yes
 	}
-	1171.1 = {
+	11171.1.1 = {
 		add_spouse = japanese_adachi_10 # TO_ko
 	}
 	11183.3.23 = {
@@ -24455,7 +24455,7 @@ japanese_fujiwara_1095 = {
 	11105.1.1 = {
 		birth = yes
 	}
-	1128.1. = {
+	11128.1.1 = {
 		add_spouse = japanese_minamoto_seiwa_523 # Tameko
 	}
 	11170.1.1 = {
@@ -33277,7 +33277,7 @@ japanese_fujiwara_1694 = {
 	culture = japanese
 	father = japanese_fujiwara_90 # Morouji
 	mother = japanese_yamato_426 # Yasuko
-	938.1 = {
+	10938.1.1 = {
 		birth = yes
 	}
 	11004.1.1 = {
@@ -33292,7 +33292,7 @@ japanese_fujiwara_1695 = {
 	culture = japanese
 	father = japanese_fujiwara_90 # Morouji
 	mother = japanese_yamato_426 # Yasuko
-	938.1 = {
+	10938.1.1 = {
 		birth = yes
 	}
 	11004.1.1 = {
@@ -100102,7 +100102,7 @@ japanese_tatara_13 = {
 	religion = pundarika
 	culture = japanese
 	father = japanese_tatara_3 # Yasutoshi
-	861.1 = {
+	10861.1.1 = {
 		birth = yes
 	}
 	10931.1.1 = {
